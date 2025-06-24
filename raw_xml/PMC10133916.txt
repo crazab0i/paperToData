@@ -1,0 +1,1808 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Med Microbiol Immunol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Med Microbiol Immunol</journal-id>
+      <journal-title-group>
+        <journal-title>Medical Microbiology and Immunology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0300-8584</issn>
+      <issn pub-type="epub">1432-1831</issn>
+      <publisher>
+        <publisher-name>Springer Berlin Heidelberg</publisher-name>
+        <publisher-loc>Berlin/Heidelberg</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37103583</article-id>
+      <article-id pub-id-type="pmc">10133916</article-id>
+      <article-id pub-id-type="publisher-id">763</article-id>
+      <article-id pub-id-type="doi">10.1007/s00430-023-00763-y</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Investigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The quantity and quality of anti-SARS-CoV-2 antibodies show contrariwise association with COVID-19 severity: lessons learned from IgG avidity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hajilooi</surname>
+            <given-names>Mehrdad</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Keramat</surname>
+            <given-names>Fariba</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Moazenian</surname>
+            <given-names>Akram</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1954-9920</contrib-id>
+          <name>
+            <surname>Rastegari-Pouyani</surname>
+            <given-names>Mohsen</given-names>
+          </name>
+          <address>
+            <email>m.rastegaripouyani@umsha.ac.ir</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8929-5658</contrib-id>
+          <name>
+            <surname>Solgi</surname>
+            <given-names>Ghasem</given-names>
+          </name>
+          <address>
+            <email>gh.solgi@umsha.ac.ir</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.411950.8</institution-id><institution-id institution-id-type="ISNI">0000 0004 0611 9280</institution-id><institution>Department of Immunology, School of Medicine, </institution><institution>Hamadan University of Medical Sciences, </institution></institution-wrap>Shahid Fahmideh Blvd, Opposite to Lona Park, P.O. Box 6517838736, Hamadan, Iran </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.411950.8</institution-id><institution-id institution-id-type="ISNI">0000 0004 0611 9280</institution-id><institution>Brucellosis Research Center, </institution><institution>Hamadan University of Medical Sciences, </institution></institution-wrap>Hamadan, Iran </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.411950.8</institution-id><institution-id institution-id-type="ISNI">0000 0004 0611 9280</institution-id><institution>Department of Infectious Diseases, Faculty of Medicine, </institution><institution>Hamadan University of Medical Sciences, </institution></institution-wrap>Hamadan, Iran </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.411950.8</institution-id><institution-id institution-id-type="ISNI">0000 0004 0611 9280</institution-id><institution>Cancer Research Center, </institution><institution>Hamadan University of Medical Sciences, </institution></institution-wrap>Hamadan, Iran </aff>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="com">
+          <p>Edited by Matthias J. Reddehase.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <fpage>1</fpage>
+      <lpage>18</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2023, Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</copyright-statement>
+        <license>
+          <license-p>This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source. These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Gaining more appreciation on the protective/damaging aspects of anti-SARS-CoV-2 immunity associated with disease severity is of great importance. This study aimed to evaluate the avidity of serum IgG antibodies against SARS-CoV-2 spike (S) and nucleocapsid (N) in hospitalized symptomatic COVID-19 patients and asymptomatic RT-PCR-confirmed SARS-CoV-2 carriers as well as to compare antibody avidities with respect to vaccination status, vaccination dose and reinfection status. Serum levels of anti-S and anti-N IgG were determined using specific ELISA kits. Antibody avidity was determined by urea dissociation assay and expressed as avidity index (AI) value. Despite higher IgG levels in the symptomatic group, AI values of both anti-S and anti-N IgG were significantly lower in this group compared to asymptomatic individuals. In both groups, anti-S AI values were elevated in one-dose and two-dose vaccinees versus unvaccinated subjects, although significant differences were only detected in the symptomatic group. However, anti-N avidity showed no significant difference between the vaccinated and unvaccinated subgroups. Almost all vaccinated patients of different subgroups (based on vaccine type) had higher anti-S IgG avidity, while the statistical significance was detected only between those receiving Sinopharm compared to the unvaccinated subgroup. Also, statistically significant differences in antibody AIs were only found between primarily infected individuals of the two groups. Our findings indicate a key role for anti-SARS-CoV-2 IgG avidity in protection from symptomatic COVID-19 and calls for the incorporation of antibody avidity measurement into the current diagnostic tests to predict effective immunity toward SARS-CoV-2 infection or even for prognostic purposes.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>COVID-19</kwd>
+        <kwd>Symptomatic</kwd>
+        <kwd>Asymptomatic</kwd>
+        <kwd>IgG avidity</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution-wrap>
+              <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100015027</institution-id>
+              <institution>Vice Chancellor for Research and Technology, Hamadan University of Medical Sciences</institution>
+            </institution-wrap>
+          </funding-source>
+          <award-id>IR.UMSHA.REC.1400.422</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Hajilooi</surname>
+              <given-names>Mehrdad</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p id="Par2">The coronavirus disease 2019 (COVID-19) pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has profoundly put healthcare systems and global society under pressure and brought about a roughly high morbidity and mortality with a continuously high demand for patient care [<xref ref-type="bibr" rid="CR1">1</xref>]. Based on the literature, COVID-19 reinfection cases are not so infrequent that according to a study on healthcare workers in Chicago, up to 2.5% of subjects, within a 6-month follow-up, presented a probable SARS-CoV-2 reinfection [<xref ref-type="bibr" rid="CR2">2</xref>]. Even after more than 2.5&#xA0;years of SARS-CoV-2 global spread and intensive scientific efforts, many questions on specific patient factors determining disease severity, underlying pathology and the protective/damaging roles of humoral immune responses have remained to be fully addressed [<xref ref-type="bibr" rid="CR3">3</xref>]. As a notable feature of COVID-19, affected patients exhibit a large heterogeneity in their responses to this viral infection [<xref ref-type="bibr" rid="CR4">4</xref>] ranging from mild or even an asymptomatic disease course (in a larger group of patients) to disease progression and escalation, leading to hospitalization and potential death (in a smaller group of patients) [<xref ref-type="bibr" rid="CR3">3</xref>]. In this regard, how the associated immune response characteristics contribute to this vulnerability have remained, for the most part, elusive.</p>
+      <p id="Par3">Humoral immune responses following SARS-CoV-2 infection or vaccination play a crucial role in restricting or preventing infection. Within 1&#x2013;2 weeks post-SARS-CoV-2 infection, most patients exhibit augmenting antibody titers capable of neutralizing viral particles [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>], irrespective of disease severity [<xref ref-type="bibr" rid="CR7">7</xref>]. There exist four critical proteins in the structure of SARS-CoV-2 and the most important is spike (S) protein playing a key role in virus infectivity by mediating virus binding to the human angiotensin-converting enzyme 2 (ACE2) and its subsequent uptake by host cells. The S protein, matrix (M) protein and envelope (E) proteins are found on the outer surface of the virus [<xref ref-type="bibr" rid="CR8">8</xref>]. Located in the viral core, the nucleocapsid (N) protein is a highly immunogenic component of SARS-CoV-2, expressed in large quantities in vivo following human infection [<xref ref-type="bibr" rid="CR9">9</xref>]. This protein is implicated in SARS-CoV-2 gene transcription and viral assembly [<xref ref-type="bibr" rid="CR10">10</xref>]. Immunoglobulin G (IgG) produced against the S antigen is thought to serve as a neutralizing antibody response, currently being considered as the main target for SARS-CoV-2 vaccines. Humoral immune responses can be evaluated not only by antibody quantity, neutralizing capacity and persistence, but also by antibody avidity [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+      <p id="Par4">The avidity, also termed &#x201C;functional affinity&#x201D;, of antibody is defined as the overall strength of antibody&#x2013;antigen interactions [<xref ref-type="bibr" rid="CR12">12</xref>]. Antigen&#x2013;antibody binding is mediated by non-covalent interactions [<xref ref-type="bibr" rid="CR13">13</xref>]. The affinity of antibodies can increase through a process called &#x201C;affinity maturation&#x201D; as a result of B cell somatic hypermutation taking place in the germinal centers [<xref ref-type="bibr" rid="CR14">14</xref>]. Since the interaction between host cell ACE2 and SARS-CoV-2 receptor-binding domain (RBD) of the S protein is driven by high affinity interactions [<xref ref-type="bibr" rid="CR15">15</xref>], only IgG molecules with high avidity can disrupt ACE2&#x2013;RBD interaction, thereby providing protective immunity against SARS-CoV-2. High antibody avidity is associated with promoted neutralization and other potential antiviral capabilities of antibodies including antibody-dependent cell-mediated cytotoxicity (ADCC) [<xref ref-type="bibr" rid="CR16">16</xref>]. The titer of neutralizing antibodies shows a direct correlation with antibody avidity index (AI) [<xref ref-type="bibr" rid="CR17">17</xref>]. Hence, failure to develop high avidity IgG might give rise to a mitigated protection from viral infections. In addition, according to previous reports on other viral infections including cytomegalovirus, antibody avidity measurement could be employed to discriminate between past and current infection [<xref ref-type="bibr" rid="CR18">18</xref>]. The presence of high avidity IgG is imperative for developing a long-lasting immunity [<xref ref-type="bibr" rid="CR19">19</xref>]. With this in mind, it is suggested that IgG avidity, apart from IgG level, can be of a high value to predict anti-SARS-CoV-2 immunity and risk of reinfection. In the current study, we aimed to evaluate anti-S and anti-N IgG titers and AIs in hospitalized COVID-19 patients (symptomatic) in comparison to RT-PCR-confirmed asymptomatic SARS-CoV-2 carriers to shed more light on the significance of anti-SARS-CoV-2 IgG avidity with respect to disease severity.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Materials and methods</title>
+      <sec id="Sec3">
+        <title>Study population</title>
+        <p id="Par5">A total of 90 molecularly and clinically confirmed COVID-19 hospitalized patients were enrolled in this study. All the patients showed lung involvement and had been admitted to Sina Hospital affiliated to Hamadan University of Medical Sciences (HUMS) from September to December 2021 (at the time of SARS-CoV-2 Delta variant dominancy in Iran). Median time between confirmation of SARS-CoV-2 infection (by RT-PCR) and serum sample collection from these patients was 23 [<xref ref-type="bibr" rid="CR22">22</xref>&#x2013;<xref ref-type="bibr" rid="CR26">26</xref>] days. These patients, categorized as &#x201C;symptomatic group&#x201D;, consisted of 40 male and 50 female subjects, 53&#x2009;&#xB1;&#x2009;19&#xA0;years of age on average. In parallel, we recruited another group denoted as &#x201C;asymptomatic carriers&#x201D; comprising 42 male and 48 female individuals (total 90) with the mean age of 49&#x2009;&#xB1;&#x2009;15&#xA0;years who showed no sign of COVID-19 disease, including sore throat, fever, cough, chills, fatigue, headache, loss of smell or taste, etc., but tested positive for SARS-CoV-2 RT-PCR on nasopharyngeal swab specimens. These subjects were selected from patients&#x2019; family or relatives without any COVID-19-related clinical symptoms or underlying disease. Exclusion criteria included the presence of autoimmune or immunodeficiency disorders, and any inflammatory or other infectious diseases within the past 6&#xA0;months. Median time between SARS-CoV-2 RT-PCR confirmation and serum sample collection from these cases was 22 [<xref ref-type="bibr" rid="CR21">21</xref>&#x2013;<xref ref-type="bibr" rid="CR23">23</xref>] days. The study was approved by the Ethics Committee of Hamadan University of Medical Sciences (IR.UMSHA.REC.1400.422). Informed consent forms were obtained from all the subjects prior to participating in the study.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>ELISA for detecting serum anti-SARS-CoV-2 S protein and N protein IgG</title>
+        <p id="Par6">To detect anti-S protein IgG in the sera, Quanti-SARS-CoV-2 anti-spike IgG commercial kit purchased from Pishtaz Teb Company (Tehran, Iran) was used. In this kit, the plate wells were pre-coated with SARS-CoV-2 S antigen (recombinant His-tagged S protein of Wuhan-Hu-1 strain expressed in HEK293 cells). Briefly, 100&#xA0;&#xB5;L of serum sample (at a dilution ratio of 1:101) was added to each well, followed by incubation for 30&#xA0;min at 37&#xA0;&#xB0;C. After washing with the wash buffer of the kit comprising phosphate-buffered saline (PBS) plus 0.05% Tween 20, 100&#xA0;&#xB5;L of enzyme conjugate (HRP-conjugated anti-human IgG antibody) was added and the plate was incubated for an additional 30&#xA0;min. After another round of washing, 100&#xA0;&#xB5;L chromogen substrate containing 3, 3', 5, 5'-tetramethylbenzidine (TMB) was added and the plate was left in the dark at room temperature for 15&#xA0;min. The enzymatic reaction was finally stopped by addition of 100&#xA0;&#xB5;L stop solution (HCL 1N), followed by OD recording at 450&#xA0;nm by means of an ELISA plate reader. In parallel, ODs of standard wells were also read for plotting a standard curve. As a cut-off value, the titers equal or higher than 8 RU/mL were considered positive in terms of the presence of anti-S IgG.</p>
+        <p id="Par7">For detecting anti-N protein IgG, we used SARS-CoV-2 IgG commercial kit from the same company (Pishtaz Teb, Tehran, Iran) in which plate wells had been coated with SARS-CoV-2 N protein (recombinant His-tagged N protein of Wuhan-Hu-1 strain expressed in HEK293 cells). In brief, 1:101 diluted serum samples (100&#xA0;&#xB5;L) were added to plate wells and the plate was incubated at 37&#xA0;&#xB0;C for 30&#xA0;min. After a five-time washing step, 100&#xA0;&#xB5;L of HRP-conjugated anti-human IgG was added before leaving the plate at room temperature for a further 30&#xA0;min. After another washing step, 100&#xA0;&#xB5;L of chromogen substrate was added to each well and the plate was incubated at room temperature for 15&#xA0;min. Finally, 100&#xA0;&#xB5;L of stop solution was added and OD was read at 450&#xA0;nm. According to this kit, the cut-off value can be calculated using the following formula:<disp-formula id="Equa"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{Cut-off}}\,{\text{value}}\,{ = }\,{\text{mean }}\,{\text{OD }}\,{\text{of }}\,{\text{the}}\,{\text{negative}}\,{\text{control}}\,{\text{wells}}\,{ + }\,{0}{\text{.15}}{.}$$\end{document}</tex-math><mml:math id="M2" display="block"><mml:mrow><mml:mtext>Cut-off</mml:mtext><mml:mspace width="0.166667em"/><mml:mtext>value</mml:mtext><mml:mspace width="0.166667em"/><mml:mo>=</mml:mo><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>mean</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>OD</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.166667em"/><mml:mrow><mml:mtext>of</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.166667em"/><mml:mtext>the</mml:mtext><mml:mspace width="0.166667em"/><mml:mtext>negative</mml:mtext><mml:mspace width="0.166667em"/><mml:mtext>control</mml:mtext><mml:mspace width="0.166667em"/><mml:mtext>wells</mml:mtext><mml:mspace width="0.166667em"/><mml:mo>+</mml:mo><mml:mspace width="0.166667em"/><mml:mn>0</mml:mn><mml:mtext>.15</mml:mtext><mml:mo>.</mml:mo></mml:mrow></mml:math><graphic xlink:href="430_2023_763_Article_Equa.gif" position="anchor"/></alternatives></disp-formula></p>
+        <p id="Par8">In this kit, results are expressed as cut-off indices (COI) as calculated by the formula:<disp-formula id="Equb"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{Cut-off }}\;{\text{index }}\;\left( {{\text{COI}}} \right)\;{ = }\;{ }\frac{{{\text{OD}}\;{\text{ of}}\;{\text{ sample}}}}{{{\text{Cut-off }}\;{\text{value}}}}.$$\end{document}</tex-math><mml:math id="M4" display="block"><mml:mrow><mml:mrow><mml:mtext>Cut-off</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mrow><mml:mtext>index</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mfenced close=")" open="("><mml:mtext>COI</mml:mtext></mml:mfenced><mml:mspace width="0.277778em"/><mml:mo>=</mml:mo><mml:mspace width="0.277778em"/><mml:mrow/><mml:mfrac><mml:mrow><mml:mtext>OD</mml:mtext><mml:mspace width="0.277778em"/><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>of</mml:mtext></mml:mrow><mml:mspace width="0.277778em"/><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>sample</mml:mtext></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mtext>Cut-off</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mspace width="0.277778em"/><mml:mtext>value</mml:mtext></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:math><graphic xlink:href="430_2023_763_Article_Equb.gif" position="anchor"/></alternatives></disp-formula></p>
+        <p id="Par9">A COI value less than 0.9 was considered as a negative result (lack of anti-N IgG), while COI values higher than 1.1 were considered positive. COI values falling within 0.9&#x2013;1.1 were considered as suspicious for anti-N IgG.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Determining the avidity index (AI) values for IgG antibodies against SARS-CoV-2 S and N proteins</title>
+        <p id="Par10">To determine the avidity indices of anti-S and anti-N IgG antibodies in the sera of study subjects, we used a similar ELISA procedure to that adopted in previous studies [<xref ref-type="bibr" rid="CR20">20</xref>&#x2013;<xref ref-type="bibr" rid="CR22">22</xref>] with some modifications. To this aim, modified ELISA assays based on the protocols of the aforementioned ELISA kits were conducted. Concisely, 1:101 pre-diluted serum samples (100&#xA0;&#xB5;L) were added to the wells of pre-coated plates. For each sample (analyzed for AI measurement of each antibody), two sets of wells were allocated. After incubation for 30&#xA0;min at 37&#xA0;&#xB0;C and washing step, one set of wells was filled with 300&#xA0;&#xB5;L PBS. These wells were denoted as &#x201C;intact&#x201D; wells. In parallel, in the second set of wells, 300&#xA0;&#xB5;L urea (6&#xA0;M prepared in ultrapure water) was added. These wells were considered as &#x201C;denaturation&#x201D; wells. Afterward, the plates were incubated at room temperature for 10&#xA0;min. The wells underwent a washing step, followed by the addition of enzyme conjugate and chromogen substrate as per the manufacturer&#x2019;s instructions. The AI for each antibody was calculated based on the formula presented below: <disp-formula id="Equc"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\rm{AI}} = {\rm{ }}\frac{{{\rm{mean}}\;{\mkern 1mu} {\rm{OD}}\;{\mkern 1mu} {\rm{of}}\;{\mkern 1mu} \hbox{``}{\rm{denaturation}}\hbox{''}\;{\mkern 1mu} {\rm{wells}}}}{{{\rm{mean}}{\mkern 1mu} \;{\rm{OD}}\;{\mkern 1mu} {\rm{of}}\;\hbox{``}{\mkern 1mu} {\rm{intact}}\hbox{''}\;{\mkern 1mu} {\rm{wells}}}} \times {\rm{100}}$$\end{document}</tex-math><mml:math id="M6" display="block"><mml:mrow><mml:mi mathvariant="normal">AI</mml:mi><mml:mo>=</mml:mo><mml:mrow/><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">mean</mml:mi><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">OD</mml:mi><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">of</mml:mi><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mtext>``</mml:mtext><mml:mi mathvariant="normal">denaturation</mml:mi><mml:mtext>''</mml:mtext><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">wells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">mean</mml:mi><mml:mspace width="0.55542pt"/><mml:mspace width="0.277778em"/><mml:mi mathvariant="normal">OD</mml:mi><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">of</mml:mi><mml:mspace width="0.277778em"/><mml:mtext>``</mml:mtext><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">intact</mml:mi><mml:mtext>''</mml:mtext><mml:mspace width="0.277778em"/><mml:mspace width="0.55542pt"/><mml:mi mathvariant="normal">wells</mml:mi></mml:mrow></mml:mfrac><mml:mo>&#xD7;</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:math><graphic xlink:href="430_2023_763_Article_Equc.gif" position="anchor"/></alternatives></disp-formula></p>
+        <p id="Par11">Serum samples were considered to contain IgG antibodies of &#x201C;low avidity&#x201D; at AI&#x2009;&#x2264;&#x2009;40%, &#x201C;intermediate avidity&#x201D; at 40%&#x2009;&lt;&#x2009;AI&#x2009;&lt;&#x2009;50% and &#x201C;high avidity&#x201D; at AI&#x2009;&#x2265;&#x2009;50%. Selection of 6&#xA0;M urea was based on our optimization experiments with 2, 4, 6 and 8&#xA0;M urea, in which 6&#xA0;M urea yielded the most suitable results. In other words, treatment with 6&#xA0;M urea caused AI values to fall within the mentioned ranges, so that it could best discriminate between different samples. For avidity determination assay, we applied negative and positive control wells, too. For negative control, we used pooled sera from healthy individuals which had been obtained before the COVID-19 pandemic (provided form our other project in 2019). Meanwhile, two further duplicate wells were also allocated for negative control serum provided by the specific ELISA kit (for anti-N antibody) and standard concentration of 0 RU/ml (for anti-S antibody). For positive control, we used two sets of sera. One set was the positive control serum (anti-N) and the highest standard concentration (anti-S) of the specific ELISA kits and another set was related to pooled sera (20 samples) from previously referred SARS-CoV-2 infected patients (some of whom had a history of SARS-CoV-2 reinfection and vaccination). These individuals were recruited and blood samples were obtained from them. SARS-CoV-2 infection diagnosis of these individuals dated back to at least 3 months before their recruitment and sample donation, the time period which is enough for the process of B lymphocyte affinity maturation. Before including these samples as positive controls for avidity determination, first their anti-S and anti-N IgG titers were checked by the ELISA kits to confirm the presence of specific anti-SARS-CoV-2 antibodies.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Statistical analysis</title>
+        <p id="Par12">The obtained data were analyzed by GraphPad Prism (version 8.4.3) and SPSS (version 25) software. Normal distribution was evaluated by Anderson&#x2013;Darling, D&#x2019;Agostino and Pearson, Shapiro&#x2013;Wilk and Kolmogorov&#x2013;Smirnov tests. Statistically significant differences were determined by <italic>t</italic> test, Mann&#x2013;Whitney, one-way ANOVA and Kruskal&#x2013;Wallis tests where appropriate. The data are expressed in median value and interquartile range as: &#x201C;Median [Q1&#x2013;Q3]&#x201D; throughout the manuscript, where Q1 represents the 25th percentile and Q3 is the 75th percentile. Correlation analysis was performed by Spearman test in SPSS. Graphs were depicted by GraphPad Prism (version 8.4.3). A <italic>P</italic> value less than 0.05 was considered as a statistically significant difference.</p>
+      </sec>
+    </sec>
+    <sec id="Sec7">
+      <title>Results</title>
+      <sec id="Sec8">
+        <title>Demographics of the study subjects</title>
+        <p id="Par13">In this study, 90 hospitalized symptomatic COVID-19 patients and 90 asymptomatic SARS-CoV-2 carriers were analyzed. The symptomatic group comprised 40 males and 50 females (mean age 53&#x2009;&#xB1;&#x2009;19), while in the asymptomatic group there were 42 males and 48 females (mean age 49&#x2009;&#xB1;&#x2009;15). No difference was found for gender and age between the two groups (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). Among symptomatic patients, 30 had received no vaccine (unvaccinated), 24 had received one-dose vaccine and 36 had received the second vaccine dose. In comparison, in the asymptomatic group, there were 7 unvaccinated subjects (statistically significant from the symptomatic group, <italic>P</italic>&#x2009;&lt;&#x2009;0.0001), 36 one-dose vaccinees (<italic>P</italic>&#x2009;=&#x2009;0.08) and 47 two-dose vaccinees (<italic>P</italic>&#x2009;=&#x2009;0.17). Median time passed since symptom onset to sample collection was 25 [23&#x2013;28] days for the symptomatic group. Median times passed since the last vaccination to sample collection for symptomatic and asymptomatic groups were 49 [30&#x2013;73] days and 38 [28&#x2013;57] days, respectively. In the asymptomatic group, 83 patients were primarily infected and 7 patients experienced secondary infection with SARS-CoV-2, whereas in the symptomatic group the number of primarily infected cases was 69 and reinfected cases 21. Thus, the two groups were significantly different in terms of reinfection cases (<italic>P</italic>&#x2009;=&#x2009;0.007). Reinfection was defined based on patients' records showing a PCR-confirmed SARS-CoV-2 infection in the past. Median times elapsed since the first SARS-CoV-2 infection to the second infection were 150 [60&#x2013;212] days and 190 [148&#x2013;247] days for the symptomatic and asymptomatic groups, respectively. Among the vaccinated symptomatic patients, 48 patients had received Sinopharm, 6 patients had received Barekat, 4 had received AstraZeneka, 1 patient had received Sputnik V and 1 had been injected with Pastocovac. In the asymptomatic group, the number of cases receiving Sinopharm, Barekat, AstraZeneka and Sputnik V were 48, 9, 13 and 10, respectively. No one had received Pastocovac and, instead, three cases had received Pfizer vaccine. In the symptomatic group, 47 patients had no underlying disease (comorbidity), while other patients were suffering from diabetes (23), hypertension (17) and other cardiovascular disorders (2). Besides, one patient had chronic lung disease. Among hospitalized patients, nine patients had a fatal outcome because of COVID-19 during their hospitalization, of which four had hypertension, three had diabetes, and two had no comorbidity. Table <xref rid="Tab1" ref-type="table">1</xref> represents the demographic data of the symptomatic and asymptomatic cases including some clinical laboratory data, paraclinical findings and vaccination statuses.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Demographic data of symptomatic and asymptomatic subjects</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Symptomatic group (<italic>n</italic>&#x2009;=&#x2009;90)</th><th align="left">Asymptomatic group<break/>(<italic>n</italic>&#x2009;=&#x2009;90)</th><th align="left"><italic>P</italic> value</th></tr></thead><tbody><tr><td align="left">Male/female</td><td align="left">40/50</td><td align="left">42/48</td><td align="left">0.88</td></tr><tr><td align="left">Age (mean&#x2009;&#xB1;&#x2009;SD)</td><td align="left">53&#x2009;&#xB1;&#x2009;19</td><td align="left">49&#x2009;&#xB1;&#x2009;15</td><td align="left">&#x2009;&gt;&#x2009;0.05</td></tr><tr><td align="left">Vaccination status</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">&#xA0;No vaccine</td><td align="left">30</td><td align="left">7</td><td align="left" rowspan="3">0.0001</td></tr><tr><td align="left">&#xA0;&#xA0;1 dose</td><td align="left">24</td><td align="left">36</td></tr><tr><td align="left">&#xA0;&#xA0;2 doses</td><td align="left">36</td><td align="left">47</td></tr><tr><td align="left">Types of vaccines</td><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">&#xA0;Sinopharm</td><td align="left">48</td><td align="left">48</td><td align="left" rowspan="6">0.02</td></tr><tr><td align="left">&#xA0;Sputnik</td><td align="left">1</td><td align="left">10</td></tr><tr><td align="left">&#xA0;Barekat</td><td align="left">6</td><td align="left">9</td></tr><tr><td align="left">&#xA0;Pfizer</td><td align="left">0</td><td align="left">3</td></tr><tr><td align="left">&#xA0;AstraZeneka</td><td align="left">4</td><td align="left">13</td></tr><tr><td align="left">&#xA0;PastoCovac</td><td align="left">1</td><td align="left">0</td></tr><tr><td align="left">Median time between last vaccination and sampling (days)</td><td align="left">49 [30&#x2013;73]</td><td align="left">38 [28&#x2013;57]</td><td align="left"/></tr><tr><td align="left">Reinfection status (Pos/Neg)</td><td align="left">7/83</td><td align="left">21/69</td><td align="left">0.007</td></tr><tr><td align="left">Median time passed between the first and second infection (days)</td><td align="left">150 [60&#x2013;212]</td><td align="left">190 [148&#x2013;247]</td><td align="left"/></tr><tr><td align="left">Fever (No/Yes)</td><td align="left">37/53</td><td align="left">No fever</td><td align="left"/></tr><tr><td align="left">CRP (neg/1&#x2009;+&#x2009;/2&#x2009;+&#x2009;/3&#x2009;+)</td><td align="left">4/25/32/29</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">ESR (mm/h)</td><td align="left">45.29&#x2009;&#xB1;&#x2009;24.45</td><td align="left"/><td align="left"/></tr><tr><td align="left">WBC count (/mm<sup>3</sup>)</td><td align="left">8.02&#x2009;&#xB1;&#x2009;4.56&#x2009;&#xD7;&#x2009;10<sup>3</sup></td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">PT (s)</td><td align="left">13.5&#x2009;&#xB1;&#x2009;1.53</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">PTT (s)</td><td align="left">36.08&#x2009;&#xB1;&#x2009;11.20</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">D-dimer (ng/mL)</td><td align="left">322.6&#x2009;&#xB1;&#x2009;469.8</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">Urea (mg/dL)</td><td align="left">19.70&#x2009;&#xB1;&#x2009;12.97</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">Creatinine (mg/dL)</td><td align="left">1.12&#x2009;&#xB1;&#x2009;0.36</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">AST (U/L)</td><td align="left">73.26&#x2009;&#xB1;&#x2009;182.8</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">ALT (U/L)</td><td align="left">60.02&#x2009;&#xB1;&#x2009;155.7</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">ALP (U/L)</td><td align="left">192.4&#x2009;&#xB1;&#x2009;78.70</td><td align="left">&#x2013;</td><td align="left"/></tr><tr><td align="left">LDH (U/L)</td><td align="left">637.7&#x2009;&#xB1;&#x2009;259.8</td><td align="left">&#x2013;</td><td align="left"/></tr></tbody></table><table-wrap-foot><p>All quantitative data are expressed as mean&#x2009;&#xB1;&#x2009;SD</p></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="Sec9">
+        <title>Determining the levels of IgG antibodies produced against S and N antigens of SARS-CoV-2</title>
+        <p id="Par14">As stated in the methods, median times between confirmation of SARS-CoV-2 infection (by RT-PCR) and serum sample collection from symptomatic and asymptomatic cases were 23 [22&#x2013;26] days and 22 [21&#x2013;23] days, respectively, to give the patients enough time for antibody production. Also, some patients had been previously exposed to SARS-CoV-2 and there were cases receiving the first and even second vaccine doses. Median time elapsed since the last vaccination to sample collection were 49 [30&#x2013;73] days and 38 [28&#x2013;57] days for the symptomatic and asymptomatic groups, respectively. Accordingly, all the study subjects had enough time to generate specific anti-SARS-CoV-2 IgG antibodies. According to our findings, of the 90 hospitalized symptomatic patients, 12 were seronegative for anti-S IgG, while only 5 out of 90 asymptomatic carriers were seronegative for this antibody (<italic>P</italic>&#x2009;=&#x2009;0.12). Regarding anti-N IgG antibody, 71 out of 90 symptomatic patients tested positive, 11 patients were seronegative and 8 patients were considered suspicious for COVID-19, as their COI values fell within 0.9&#x2013;1.1. Also, among 90 asymptomatic cases, 18 individuals were seronegative and 2 were detected as suspicious for anti-N IgG antibody (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). Seronegative and suspicious cases were excluded from avidity measurement experiments. Serum levels of anti-S IgG and anti-N IgG antibodies were significantly higher in the symptomatic than asymptomatic patients (<italic>P</italic>&#x2009;&lt;&#x2009;0.01 and <italic>P</italic>&#x2009;&lt;&#x2009;0.001 respectively, Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). For anti-S IgG, the symptomatic group showed a median value of 157.7 [47.07&#x2013;160.5] RU/ml, while this value in the asymptomatic group was 149.0 [115.1&#x2013;151.4] RU/ml. Median COI values for anti-N IgG in the symptomatic and asymptomatic groups were 6.078 [1.905&#x2013;9.072] and 3.676 [1.706&#x2013;5.937], respectively. It is worth noting that regarding anti-S IgG titers following the instructions, for some serum samples the obtained OD values were outside the linear range of the ELISA kit. For these samples, we further diluted the sample so that the obtained OD fell within the linear range of the kit and accordingly measured the antibody titer (multiplying by the respected dilution factor). Herein, based on our experiences with further increase in dilution (e.g., 1/2, 1/4, 1/8 and&#x2026;), the obtained OD values reduced in a roughly linear manner.<fig id="Fig1"><label>Fig. 1</label><caption><p>Serum levels of anti-S IgG (<bold>A</bold>) and anti-N IgG (<bold>B</bold>) in both groups of the study. Symptomatic patients had higher IgG antibodies compared to the asymptomatic group. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. Mann&#x2013;Whitney test was used for statistical comparison between the two groups. **<italic>P</italic>&#x2009;&lt;&#x2009;0.01 and ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="430_2023_763_Fig1_HTML" id="MO1"/></fig></p>
+      </sec>
+      <sec id="Sec10">
+        <title>Comparison of anti-SARS-CoV-2 IgG avidity between the symptomatic and asymptomatic groups</title>
+        <p id="Par15">After determining the anti-S and anti-N IgG levels in the symptomatic and asymptomatic groups, in the next step we analyzed the total binding affinities of these antibodies (avidity) using a modified ELISA method (urea dissociation assay) for evaluation of IgG avidity. In this method, low avidity antibodies are removed after adding urea, leaving antibodies with higher avidities bound to the antigen of interest. By dividing OD obtained from urea-treated well by OD of the intact well, the proportion of high avidity antibody/total antibody, which is defined as avidity index (AI), is acquired. The higher the AI value, the more strong is the binding of antibody to the antigen being assayed. Our findings revealed that, in total, the asymptomatic group had serum anti-S and anti-N IgG antibodies of higher avidities compared to the hospitalized symptomatic group (<italic>P</italic>&#x2009;&lt;&#x2009;0.0001 for both comparisons) as illustrated in Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>. Regarding anti-S IgG, the symptomatic and asymptomatic groups showed median AI values of 57.10% [13.02&#x2013;95.70%] and 93.78% [51.51&#x2013;98.45%], respectively. Median anti-N IgG AI values were 50.81% [26.98&#x2013;76.07%] for the symptomatic group and 73.52% [52.84&#x2013;88.43%] for the asymptomatic cases.<fig id="Fig2"><label>Fig. 2</label><caption><p>Comparison of the anti-S IgG (<bold>A</bold>) and anti-N IgG (<bold>B</bold>) AI values between the symptomatic and asymptomatic groups. Regarding both antibodies, AI values in the asymptomatic carriers were higher compared to symptomatic patients. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. Mann&#x2013;Whitney test was used for statistical comparison between the two groups. AI: avidity index. ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="430_2023_763_Fig2_HTML" id="MO2"/></fig></p>
+        <p id="Par16">Anti-S and anti-N IgG antibodies were considered to be of &#x201C;low&#x2019;, &#x201C;intermediate&#x201D; and &#x201C;high&#x201D; avidity as per explanations given in the methods section. Of the 78 anti-S IgG seropositive symptomatic patients, the total number of patients with anti-S IgG antibodies of &#x201C;low&#x201D;, &#x201C;intermediate&#x201D; and &#x201C;high&#x201D; avidity was 32, 4 and 42, respectively. Comparatively, in the asymptomatic group, 13 out of 85 seropositive cases had &#x201C;low&#x201D; avidity anti-S IgG (<italic>P</italic>&#x2009;=&#x2009;0.0004), 7 cases showed intermediate avidity (<italic>P</italic>&#x2009;=&#x2009;0.63) and 65 cases showed high avidity (<italic>P</italic>&#x2009;=&#x2009;0.004). Therefore, the two groups were statistically different in terms of total numbers of cases with &#x201C;low&#x201D;, and &#x201C;high&#x201D; avidity serum IgG specific to SARS-CoV-2 S antigen. When statistically comparing anti-S IgG AI values of each AI grade between the two groups, it was found that among &#x201C;low avidity&#x201D; cases, asymptomatic carriers had a statistically higher median AI value (27.22% [19.34&#x2013;34.55%]) compared to the respective symptomatic subgroup (11.16% [5.31&#x2013;17.77%], <italic>P</italic>&#x2009;&lt;&#x2009;0.0001). Interestingly, comparison of AI values within the &#x201C;intermediate avidity&#x201D; subgroups yielded a different result, so that the anti-S IgG AI value was significantly higher in the symptomatic as compared to the asymptomatic subgroup (47.92% [47.08&#x2013;48.94%] vs 44.82% [42.37&#x2013;44.82%], respectively, <italic>P</italic>&#x2009;&lt;&#x2009;0.01). However, the two groups showed no statistically significant differences with regard to &#x201C;high avidity&#x201D; anti-S IgG (95.42% [88.50&#x2013;98.36%] for symptomatic vs 97.29% [81.39&#x2013;98.88%] for asymptomatic, Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>A). Considering serum anti-N IgG, the symptomatic group comprised 27, 7 and 37 patients with &#x201C;low&#x201D;, &#x201C;intermediate&#x201D; and &#x201C;high&#x201D; avidity antibody, respectively, in comparison to 8, 4 and 58 subjects in the asymptomatic group (<italic>P</italic>&#x2009;=&#x2009;0.0005, <italic>P</italic>&#x2009;=&#x2009;0.54 and <italic>P</italic>&#x2009;=&#x2009;0.0002, respectively). However, no statistically significant difference was found between the two groups for neither of the anti-N IgG avidity grades as demonstrated in Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>B.<fig id="Fig3"><label>Fig. 3</label><caption><p>Comparison of anti-S (<bold>A</bold>) and anti-N (<bold>B</bold>) IgG AI values between the two groups in relation to AI grades. Concerning anti-S IgG, &#x201C;low avidity&#x201D; asymptomatic cases showed a higher AI value compared to the respective subgroup of symptomatic patients. In the &#x201C;intermediate avidity&#x201D; subgroups, however, AI value of symptomatic patients was higher in comparison to that of asymptomatic SARS-CoV-2 carriers. Comparison between &#x201C;high avidity&#x201D; subgroups showed no statistically significant difference. For anti-N IgG, neither of the three subgroups showed any significant difference of AI. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. To statistically compare AI values between the two groups for each AI grade, unpaired <italic>t</italic> test (where data distribution was normal) or Mann&#x2013;Whitney test (where data were non-normally distributed) was used. AI: ****<italic>P</italic>&#x2009;&lt;&#x2009;0.0001 and **<italic>P</italic>&#x2009;&lt;&#x2009;0.01</p></caption><graphic xlink:href="430_2023_763_Fig3_HTML" id="MO3"/></fig></p>
+      </sec>
+      <sec id="Sec11">
+        <title>Comparison of IgG AIs in relation to vaccination doses</title>
+        <p id="Par17">Regardless of vaccine type administered, we tried to find the link between vaccination doses (first or second dose) with IgG AI in the two groups, to see if COVID-19 vaccination is associated with improved AI. Our statistical analysis showed that anti-S IgG AI was correlated with vaccination status. COVID-19 symptomatic patients previously receiving one-dose and two-dose vaccines exhibited higher anti-S IgG AIs in comparison to unvaccinated patients (median 90.43% [14.67&#x2013;95.95%], <italic>P</italic>&#x2009;&lt;&#x2009;0.05 and 87.24% [43.23&#x2013;98.15%], <italic>P</italic>&#x2009;&lt;&#x2009;0.001, respectively, vs 12.83% [5.263&#x2013;48.12%] of the unvaccinated subgroup; Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>A). Nonetheless, anti-S IgG AI was not significantly different between one-dose and two-dose vaccinees. In the asymptomatic group, we could not find any statistically significant differences for anti-S IgG AIs among unvaccinated, one-dose vaccinated and two-dose vaccinated individuals (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>C), though vaccinated cases showed increased AI values. Besides, we compared anti-N IgG AI values in relation to vaccination status in symptomatic and asymptomatic groups, as well. The results revealed that anti-N IgG AIs did not significantly differ among unvaccinated, one-dose and two-dose recipients of SARS-CoV-2 vaccines in the symptomatic and in the asymptomatic groups (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>B and D).<fig id="Fig4"><label>Fig. 4</label><caption><p>Comparison of IgG AI values among different subgroups based on vaccination status. <bold>A</bold>, <bold>B</bold> Represent anti-S IgG AI and anti-N IgG AI, respectively, among different subgroups in the symptomatic patients. <bold>C</bold>, <bold>D</bold> AI values related to anti-S IgG and anti-N IgG antibodies in the asymptomatic group, respectively. Significant differences were only found for anti-S IgG in symptomatic subgroups. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. Statistical comparisons between subgroups in all cases were performed by Kruskal&#x2013;Wallis test except for anti-N IgG in asymptomatic subgroups for which one-way ANOVA was used. AI: avidity index; no vaccine: unvaccinated individuals; *<italic>P</italic>&#x2009;&lt;&#x2009;0.05 and ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="430_2023_763_Fig4_HTML" id="MO4"/></fig></p>
+      </sec>
+      <sec id="Sec12">
+        <title>Comparison of IgG AIs in relation to vaccine type</title>
+        <p id="Par18">Anti-S and anti-N IgG AIs were also compared between unvaccinated and recipients of different types of vaccines, regardless of vaccine dose. Considering anti-S IgG AI in the hospitalized symptomatic COVID-19 patients, a statistically significant difference was only found between recipients of Sinopharm with unvaccinated patients (90.87% [43.49&#x2013;97.56%] vs 12.78% [4.922&#x2013;26.04%], <italic>P</italic>&#x2009;&lt;&#x2009;0.0001). Although recipients of other vaccines also showed increased AI values, the differences were not statistically significant (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>A). In the asymptomatic carriers, the highest level of anti-S IgG AI was observed in recipients of Sputnik (97.85% [78.78&#x2013;99.19%]) and AstraZeneka (96.59% [73.05&#x2013;99.65%]). Also, three cases received Pfizer with a median of 94.69% [91.86&#x2013;97.58%]. However, no statistically significant difference was detected among different subgroups (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>C). Intriguingly, asymptomatic individuals receiving Barekat vaccine even had a lower median anti-S IgG AI value (60.70% [31.15&#x2013;97.44%]) compared to the unvaccinated subgroup (with median AI value of 82.67% [32.16&#x2013;97.55%]). However, this difference was not statistically significant, either. Evaluation of anti-N IgG AIs among different vaccine recipients in symptomatic and asymptomatic individuals revealed no statistically significant difference as depicted in Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>B, D. It should be noted that as two out of three Pfizer-receiving cases in the asymptomatic group were seronegative for anti-N IgG, this subgroup comprised only one AI value and was therefore excluded from statistical analysis (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>D).<fig id="Fig5"><label>Fig. 5</label><caption><p>Comparison of IgG AI values among different subgroups within each group based on vaccine type. <bold>A</bold>, <bold>B</bold> Anti-S IgG AI and anti-N IgG AI values in different subgroups of symptomatic patients, respectively. <bold>C</bold>, <bold>D</bold> AI values of anti-S IgG and anti-N IgG antibodies in the asymptomatic group, respectively. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. Kruskal&#x2013;Wallis test was used for statistical comparisons between subgroups. AI: avidity index; no vaccine: unvaccinated individuals. ****<italic>P</italic>&#x2009;&lt;&#x2009;0.0001</p></caption><graphic xlink:href="430_2023_763_Fig5_HTML" id="MO5"/></fig></p>
+      </sec>
+      <sec id="Sec13">
+        <title>Comparison of IgG AIs in primarily and secondarily SARS-CoV-2 infected cases</title>
+        <p id="Par19">As a previous history of infection with a microbe can affect humoral immune response quantity and quality to the current re-exposure to the same microbe, we analyzed IgG AIs with respect to infection history of individuals. To this aim, first anti-S and anti-N IgG AIs were compared between primarily infected and reinfected cases of each group separately. No statistically significant differences in anti-S and anti-N IgG AIs were found between primarily and secondarily infected cases within each group (data not shown). In the symptomatic group, anti-S IgG AIs of primarily infected and reinfected patients were determined to be 57.04% [13.08&#x2013;95.52%] and 87.16% [12.73&#x2013;98.11%], respectively. Also, anti-N AIs were 50.91% [26.57&#x2013;76.59%] and 42.19% [22.71&#x2013;83.24%] in these symptomatic patients. In asymptomatic SARS-CoV-2 carriers, anti-S IgG AIs were found to be 93.75% [47.68&#x2013;98.64%] and 95.44% [62.93&#x2013;98.09%] in primarily infected and reinfected cases, respectively. The levels of AI for IgG antibodies against SARS-CoV-2 N antigen were relatively lower and determined to be 72.15% [53.96&#x2013;87.95%] and 77.46% [42.84&#x2013;93.77%], respectively, in the first infection and reinfection cases.</p>
+        <p id="Par20">The next step was to make comparisons on serum IgG AIs in primarily infected cases of symptomatic and asymptomatic groups as well as in reinfected cases of the two groups, respectively. According to the acquired data illustrated in Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>, only primarily infected cases of the two groups showed statistically significant differences in terms of serum anti-S and anti-N IgG AI values, while the differences between secondarily infected cases were not statistically significant. In symptomatic patients infected with SARS-CoV-2 for the first time, anti-S and anti-N IgG AI values were calculated to be 57.04% [13.08&#x2013;95.52%] and 50.91% [26.57&#x2013;76.59%], respectively, while the corresponding AI values in asymptomatic cases were found to be 93.75% [47.68&#x2013;98.64%] (<italic>P</italic>&#x2009;&lt;&#x2009;0.001) and 72.15% [53.96&#x2013;87.95%] (<italic>P</italic>&#x2009;&lt;&#x2009;0.001) as shown in Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>A, B. With regard to SARS-CoV-2 reinfected cases, although anti-S and anti-N AI values were higher in the asymptomatic group (95.44% [62.93&#x2013;98.09%] and 77.46% [42.84&#x2013;93.77%], respectively) in comparison to symptomatic patients (87.16% [12.73&#x2013;98.11%] and 42.19% [22.71&#x2013;83.24%], respectively), the differences were not statistically significant (Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>C, D).<fig id="Fig6"><label>Fig. 6</label><caption><p>Comparison of IgG AI values between the symptomatic and asymptomatic groups with regard to infection count (primary infection or reinfection). Anti-S IgG AI (<bold>A</bold>) and anti-N IgG AI (<bold>B</bold>) values of primarily infected cases were higher in the asymptomatic SARS-CoV-2 carriers in comparison to corresponding values in the symptomatic group. <bold>C</bold>, <bold>D</bold> AI values of anti-S IgG and anti-N IgG antibodies, respectively, of secondarily infected cases compared between the symptomatic and asymptomatic groups. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. In all cases, statistical comparisons between the two groups were performed by Mann&#x2013;Whitney test except for anti-N IgG in secondarily infected cases for which unpaired <italic>t</italic> test was used. AI: avidity index. ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001 and ns: not significant</p></caption><graphic xlink:href="430_2023_763_Fig6_HTML" id="MO6"/></fig></p>
+      </sec>
+      <sec id="Sec14">
+        <title>Comparison of IgG AIs in relation to the number of exposures to the SARS-CoV-2 S and N antigens</title>
+        <p id="Par21">The AI values of anti-SARS-CoV-2 antibodies were also compared between the two groups and within each group based on the number of exposures to the respective SARS-CoV-2 antigens, regardless whether these exposures were to vaccinations or infections. Herein, an individual who received two vaccinations and experienced a single breakthrough infection would count as three exposures to the SARS-CoV-2 S antigen. The same is true for a one-time vaccinated individual who has been infected twice. However, depending on the vaccines received, these two individuals might have different numbers of exposures to the SARS-CoV-2 N antigen. Taking these into account, further statistical analyses were performed. In some cases, very few out-of-range data were excluded to have a better comparison between the subgroups. First, the anti-S IgG and anti-N IgG AI values were compared between different subgroups within each group (symptomatic and asymptomatic). As illustrated in Fig.&#xA0;<xref rid="Fig7" ref-type="fig">7</xref>, statistically significant differences were observed only for the anti-S IgG within symptomatic subgroups. Patients who had two (S2) and three (S3) exposures to the SARS-CoV-2 S antigen showed significantly higher anti-S IgG AIs as compared to one-time exposed (S1) cases (<italic>P</italic>&#x2009;&lt;&#x2009;0.001 and <italic>P</italic>&#x2009;&lt;&#x2009;0.0001, respectively). Median anti-S IgG AI values for the S2 and S3 subgroups were determined to be 91.21% [17.01&#x2013;95.29%] and 87.32% [31.19&#x2013;98.28%], respectively, while that of the S1 subgroup was 7.82% [3.40&#x2013;15.36%]. In addition, antibody avidity was compared between the two symptomatic and asymptomatic groups for each subgroup based on the number of exposures to the respective antigens. According to the obtained results, presented in Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>, concerning anti-S IgG, the two groups exhibited statistically significant differences only in the S1 and S3 subgroups (<italic>P</italic>&#x2009;&lt;&#x2009;0.0001 and <italic>P</italic>&#x2009;&lt;&#x2009;0.05, respectively). Symptomatic COVID-19 patients with one-time exposure to SARS-CoV-2 S antigen showed a median anti-S IgG AI value of 7.82% [3.40&#x2013;15.36%], while the same subgroup of asymptomatic SARS-CoV-2 carriers had a median AI of 82.67% [31.86&#x2013;99.02%]. Also, S3 subgroups of symptomatic and asymptomatic cases showed AI values of 87.32% [31.19&#x2013;98.28%] and 96.64% [61.74&#x2013;98.41%], respectively. Although asymptomatic S2 and S4 subgroups also showed higher avidity of anti-S IgG, the differences were not statistically significant (Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>A). Similarly, asymptomatic individuals with one (N1) and four (N4) exposures to SARS-CoV-2 N antigen had statistically non-significant higher AI values for this antibody compared to the corresponding subgroups within the hospitalized symptomatic group (<italic>P</italic>&#x2009;&gt;&#x2009;0.05, Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>B). However, significant differences were observed for N2 (asymptomatic: 72.19% [60.21&#x2013;91.12%] vs symptomatic: 49.06% [24.44&#x2013;60.03%]; <italic>P</italic>&#x2009;&lt;&#x2009;0.001) and N3 subgroups (asymptomatic: 73.87% [55.08&#x2013;95.12%] vs symptomatic: 42.43% [25.33&#x2013;79.20%]; <italic>P</italic>&#x2009;&lt;&#x2009;0.05) as demonstrated in Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>B.<fig id="Fig7"><label>Fig. 7</label><caption><p>Comparison of anti-S and anti-N IgG AI values among different subgroups within each group in relation to the number of exposures to the respective SARS-CoV-2 antigens. <bold>A</bold>, <bold>B</bold> Anti-S IgG AI and anti-N IgG AI values in different subgroups of the symptomatic group, respectively. <bold>C</bold>, <bold>D</bold> AI values of anti-S IgG and anti-N IgG antibodies in different subgroups of the asymptomatic group, respectively. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. Kruskal&#x2013;Wallis test was used for statistically comparing anti-S IgG AI values among different subgroups. For anti-N IgG, statistical comparisons among the subgroups were performed by one-way ANOVA. AI: avidity index. ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001, ****<italic>P</italic>&#x2009;&lt;&#x2009;0.0001 and ns: not significant</p></caption><graphic xlink:href="430_2023_763_Fig7_HTML" id="MO7"/></fig><fig id="Fig8"><label>Fig. 8</label><caption><p>Comparison of anti-S (<bold>A</bold>) and anti-N (<bold>B</bold>) IgG AI values between the two groups in relation to the number of exposures to the respective SARS-CoV-2 antigens. S1, S2, S3 and S4 represent, respectively, the subgroups with one, two, three and four times exposure to the SARS-CoV-2 S antigen. N1, N2, N3 and N4 correspond to the subgroups with one, two, three and four times exposure to the N antigen, respectively. Data are depicted as box plots with medians, boundaries between the interquartile ranges, and whiskers between the minimum and maximum. For each subgroup, Mann&#x2013;Whitney test was used for statistical comparison. AI: avidity index, *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001 and ****<italic>P</italic>&#x2009;&lt;&#x2009;0.0001</p></caption><graphic xlink:href="430_2023_763_Fig8_HTML" id="MO8"/></fig></p>
+      </sec>
+      <sec id="Sec15">
+        <title>Correlation analyses</title>
+        <p id="Par22">We analyzed the existence of potential correlations between IgG titers and IgG AI values with different parameters in the two groups including laboratory findings of hospitalized patients. In the symptomatic group, no correlation was found between anti-S IgG titer, anti-S IgG AI, anti-N IgG titer and anti-N IgG AI with age, gender, fever, presence of comorbidity or different laboratory findings including WBC count, CRP, ESR, D-dimer, creatinine, urea, ALT, AST, ALP and LDH. As previously stated, 43 out of 90 symptomatic patients had some kind of comorbidity. No statistically significant difference in anti-S avidity or anti-N avidity was found between different subgroups with regard to comorbidity (data not shown). Totally, when considering AI values between patients without any kind of comorbidity with those having comorbidity (irrespective of its type), anti-S AI values were estimated to be 89.71% [12.96&#x2013;96.89%] and 48.12% [14.04&#x2013;93.92%], respectively. Considering anti-N AI values, the corresponding values were 51.08% [27.33&#x2013;79.72%] and 43.69% [23.66&#x2013;74.39%], respectively. But, no statistically significant difference was detected regarding neither of the antibodies evaluated. However, in the symptomatic group, significant positive correlations were found between anti-S antibody titer with anti-S antibody avidity (<italic>r</italic>&#x2009;=&#x2009;0.74, <italic>P</italic>&#x2009;&lt;&#x2009;0.001) as well as between anti-N antibody titer with anti-N antibody avidity (<italic>r</italic>&#x2009;=&#x2009;0.63, <italic>P</italic>&#x2009;&lt;&#x2009;0.001). In comparison, in the asymptomatic group, more significant correlations were observed between different antibody parameters. Not only anti-S IgG and anti-N IgG levels were positively correlated with anti-S avidity (<italic>r</italic>&#x2009;=&#x2009;0.584, <italic>P</italic>&#x2009;&lt;&#x2009;0.001) and anti-N avidity (<italic>r</italic>&#x2009;=&#x2009;0.622, <italic>P</italic>&#x2009;&lt;&#x2009;0.001), respectively, but also we found correlations between antibody parameters of different antigens. For example, anti-S IgG avidity showed a positive correlation with anti-N IgG avidity (<italic>r</italic>&#x2009;=&#x2009;0.413, <italic>P</italic>&#x2009;&lt;&#x2009;0.001), while such a correlation was not found in symptomatic patients. In addition, anti-S IgG titer showed a weak positive correlation with anti-N avidity (<italic>r</italic>&#x2009;=&#x2009;0.278, <italic>P</italic>&#x2009;&lt;&#x2009;0.05). Interestingly, correlation between anti-N IgG titer with anti-S IgG avidity was rather stronger (<italic>r</italic>&#x2009;=&#x2009;0.428, <italic>P</italic>&#x2009;&lt;&#x2009;0.001) in the asymptomatic carriers.</p>
+      </sec>
+    </sec>
+    <sec id="Sec16">
+      <title>Discussion</title>
+      <p id="Par23">In the present study, we explored both antibody titers and AI values in COVID-19 hospitalized symptomatic patients and RT-PCR-confirmed SARS-CoV-2 asymptomatic carriers. Firstly, we observed that anti-S and anti-N IgG levels were higher in the symptomatic compared to the asymptomatic group. These results are congruent with the previous reports that demonstrated augmented anti-SARS-CoV-2 antibodies in the symptomatic patients compared to asymptomatic individuals [<xref ref-type="bibr" rid="CR23">23</xref>&#x2013;<xref ref-type="bibr" rid="CR28">28</xref>]. The main part of our study focused on a parameter of humoral immunity other than quantity, i.e., the quality of the induced IgG antibodies. We found that hospitalized COVID-19 patients possessed higher anti-SARS-CoV-2 S and N IgG levels but, AI values of their antibodies were significantly lower in comparison to SARS-CoV-2-infected individuals without COVID-19 associated symptoms. In general, it appears that higher titers of &#x201C;low avidity&#x201D; anti-S and anti-N IgG antibodies are associated with a more severe form of COVID-19 with lung complications, while lower antibodies with &#x201C;high avidity&#x201D; can be correlated with an asymptomatic disease course. According to the previous reports, interaction of RBD of SARS-CoV-2 spike protein with ACE2, as the initial step in SARS-CoV-2 infection, is of high affinity necessitating the production of high avidity antibodies for efficient SARS-CoV-2 neutralization [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>]. On such a basis, it seems that although higher anti-S IgG antibodies were present in the symptomatic group, these antibodies lacked adequate avidity for efficient neutralization and immunologic clearance of SARS-CoV-2 viral particles. However, as one of the limitations of our study, we did not investigate the neutralizing capacity of the produced anti-S IgG antibodies in the two groups. According to our results, it appears that high levels of low avidity anti-N IgG antibodies might be associated with the symptomatic form of COVID-19. Previous studies have pointed to a potentially detrimental role for anti-N IgG in COVID-19 [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR31">31</xref>], and high levels of these non-neutralizing IgG against N protein are associated with a higher rate of medical intensive care unit (ICU) admission, more extended hospital stay and generally poorer outcome probably through promoting antibody-dependent enhancement (ADE) phenomenon, ADCC and immune complex-mediated hyper-inflammatory responses [<xref ref-type="bibr" rid="CR8">8</xref>]. ADE indicates an unequivocal effect of antibody in which virus leverages antibodies to gain access to immune cells thereby promoting infection and viremia [<xref ref-type="bibr" rid="CR8">8</xref>]. Non-neutralized viral particles might bring about an excessive secretion of pro-inflammatory cytokine as well as anti-inflammatory cytokines inhibition causing immunopathology [<xref ref-type="bibr" rid="CR32">32</xref>]. However, based on our findings, it seems that lower anti-N IgG levels of higher avidity might have a protective role in this disease through yet unknown mechanisms.</p>
+      <p id="Par24">When comparing AI values in relation to vaccine type, it was elucidated that, irrespective of vaccination doses, only symptomatic patients that received Sinopharm had a significantly higher anti-S IgG AI value relative to unvaccinated patients, although patients vaccinated with other vaccines also showed an elevated anti-S IgG AI value. It is worth noting that Sinopharm-receiving subgroup was, by far, the biggest (<italic>N</italic>&#x2009;=&#x2009;48) in the symptomatic group, possibly explaining why statistical significance was only observed in this subgroup. However, in the asymptomatic group we found no statistically significant difference among different subgroups (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>C), though different vaccinees exhibited relatively higher anti-S IgG AI values than unvaccinated carriers, except for Barekat subgroup. It has been demonstrated that two rounds of vaccination with BioNTech mRNA vaccine (Pfizer) induces high avidity anti-S IgG [<xref ref-type="bibr" rid="CR33">33</xref>]. In asymptomatic cases, three individuals had been vaccinated with Pfizer (two of them had received one dose and one of them had received two dose) and these cases showed high levels of anti-S IgG avidity (94.69% [91.86&#x2013;97.58%] vs 82.67% [32.16&#x2013;97.55%] of unvaccinated subgroup). Meanwhile, the difference with the unvaccinated subgroup was not statistically significant. The lack of observation of difference between different subgroups (based on vaccine type) could be due to the variations in other parameters of individuals such as vaccination dose (first or second dose), number of vaccinated individuals for each vaccine type, time elapsed between the last vaccination and blood donation, infection count (first infection or reinfection) and genetic variations between individuals. Also, when considering IgG AI values in relation to vaccination status (unvaccinated, one dose and two dose) in the asymptomatic group, again no statistically significant difference was observed in spite of the fact that the vaccinated subgroups had higher anti-S IgG values (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>C). However, in the symptomatic group, one-dose and two-dose vaccinees showed higher anti-S IgG AI values in comparison to unvaccinated cases (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>A). A possible explanation for the lack of differences between anti-N IgG AI values among different subgroups might be the formulation and structure of the currently developed and licensed COVID-19 vaccines which mainly incorporate the S antigen to enhance anti-S antibody titers.</p>
+      <p id="Par25">From another point of view, we compared the obtained avidity data between the two groups in relation to AI grade (low, intermediate and high) and the number of exposures to the respective SARS-CoV-2 S and N antigens. Based on our findings, the two groups showed no statistically significant difference in avidity of antibody to SARS-CoV-2 N antigen in neither of the AI grades (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>B). For anti-S antibody, however, low avidity asymptomatic cases showed a higher avidity relative to the corresponding symptomatic patients, while the reverse was true for intermediate avidity subgroups (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>A). No significant difference was found between the high avidity subgroups. This contradictory finding might result from different factors such as genetic, type and dose of vaccines received, time passed since last exposure to the antigen and so on. Comparison of antibody avidity in relation to the number of antigen exposure within each group revealed significant differences only in the S1 versus S2 and S1 versus S3 subgroup of symptomatic patients (Fig.&#xA0;<xref rid="Fig7" ref-type="fig">7</xref>). Of note, in the asymptomatic carriers with the increase in the number of S antigen exposure, anti-S IgG avidity showed an increasing trend, as well. However, the differences were found not to be statistically significant. Surprisingly, although not statistically significant, the results for SARS-CoV-2 N antigen (within each group) were unexpected and contradictory, so that cases with increased exposure to the SARS-CoV-2 N antigen were found to possess lower IgG avidity. Although somehow inconceivable at the first glance, this contradictory finding could be, to some extent, justified in the light of recent evidence, underscoring the incomplete avidity maturation of IgG after SARS-CoV-2 infection which results in the production of antibodies of low or intermediate avidity [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. However, further detailed investigations remain to elucidate accurate mechanisms behind such equivocal observations associated with this, still amazing, novel virus.</p>
+      <p id="Par26">There are many reports on the association of high avidity IgG with the risk of reinfection. IgG antibodies of low avidity to varicella zoster virus (VZV) have been shown to correlate with the risk of acquiring primary or repeated chickenpox [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]. Also, Paunio and colleagues have highlighted IgG avidity significance in mediating protective immunity against measles [<xref ref-type="bibr" rid="CR36">36</xref>]. In the context of COVID-19, Manuylov and co-workers demonstrated that anti-S RBD IgG avidity could serve as a marker to predict the severity of reinfection. In their study, amid outpatients (with a mild COVID-19 course), reinfected cases had a significantly higher anti-RBD IgG AI compared to primarily infected patients, while no such difference was observed between hospitalized primary and reinfected patients. Also, among primarily infected and secondarily infected patients, outpatients showed significantly elevated AI values in comparison to corresponding hospital patients. They proposed that: (1) if anti-RBD IgG AI of a reinfected COVID-19 patient is low (&#x2264;&#x2009;40%), there is an 89% chance that the patient will suffer from a severe disease and require hospitalization; (2) if anti-RBD IgG AI of a repeat COVID-19 patients is high (&#x2265;&#x2009;50%), there is a 94% chance that the patients will experience a mild disease without the need for hospitalization [<xref ref-type="bibr" rid="CR37">37</xref>]. Accordingly, we investigated the titer and avidity of IgG antibodies directed against the whole S protein rather than its RBD domain. In this regard, it is worth mentioning that based on previous reports [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR39">39</xref>], there are highly immunogenic epitopes outside the RBD domain capable of eliciting potent neutralizing antibody responses. Besides, though we did not investigate the neutralizing ability of anti-S IgG antibodies, there is convincing evidence indicating the existence of a direct correlation between the titer of neutralizing antibodies and AI [<xref ref-type="bibr" rid="CR17">17</xref>]. Our results are consistent with the findings of Manuylov et al<italic>.</italic>&#x2019;s study in terms of elucidation of non-significant difference for IgG AI between primary and reinfected hospitalized patients (as discussed in the &#x201C;result&#x201D; section). Indeed, considering each antibody investigated (anti-S or anti-N IgG) in our study, no statistically significant difference was observed between primarily and secondarily infected cases within each group (symptomatic and asymptomatic) though anti-S IgG AIs were higher in reinfected cases. We found statistically significant differences only between primarily infected (and not reinfection) cases of the two groups for both antibodies as illustrated in Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>. In addition, a significant difference was found between the symptomatic and asymptomatic groups in terms of reinfection cases (symptomatic: 7/90 vs asymptomatic: 21/90; <italic>P</italic>&#x2009;=&#x2009;0.007). Since previous exposure to a microbe can induce antibody affinity maturation thereby providing protection from further infections with the same microbe or at least reduces disease severity caused by reinfection, the presence of more reinfected cases in asymptomatic group seems logical. Also, reinfected cases of the asymptomatic group had a longer time passed since their first SARS-CoV-2 infection to the second one in comparison to that for the symptomatic group (190 vs 150&#xA0;days, respectively). This longer period might, to some extent, account for the higher but insignificant AI values observed for asymptomatic secondarily infected cases relative to those of symptomatic secondarily infected ones. However, the effects of other factors such as vaccination, number of reinfected cases, etc., could not be ignored.</p>
+      <p id="Par27">Our results are in line with the findings of Hendriks et al<italic>.</italic>&#x2019;s study that reported a correlation between high levels of antibodies with low affinity and disease severity in COVID-19 patients [<xref ref-type="bibr" rid="CR3">3</xref>]. Similar to our study, they found a significantly higher antibody titers against SARS-CoV-2 antigens (RBD, N, S1 and S1S2) in hospitalized or critically ill patients compared to mild patients. Also, critically ill patients possessed anti-RBD antibodies of significantly lower binding strength compared to mildly ill patients and low affinity anti-N antibodies were observed in the hospitalized and critically ill patients only. In contrast, lower insignificant antibody affinities toward S2 and S1S2 (full spike protein) were found in mild patients compared to hospitalized patients and critical patients. They also demonstrated that only in patients with hospitalized disease severity, binding strength of anti-RBD antibody pool was significantly lower in men compared to women. In our study, we found no correlation between AI values and gender. These researchers found significant correlation between IgG antibody responses with D-dimer levels. Besides, patients with pulmonary embolism showed higher IgG antibodies to all four tested SARS-CoV-2 antigens. The comprehensive study performed by Tang et al<italic>.</italic> in 2021 explored antibody affinity maturation (in antibody off-rate constants representing the stability of the antigen&#x2013;antibody complex) toward a purified SARS-CoV-2 perfusion spike ectodomain in hospitalized COVID-19 patients [<xref ref-type="bibr" rid="CR40">40</xref>]. Based on their findings, in patients with a fatal outcome minimal or no anti-S antibody affinity maturation was detected from the first specimen to the last one till demise. In COVID-19 survived patients following ICU admission, antibody affinity gradually increased over time. Of note, non-ICU patients exhibited even higher anti-S antibody affinity maturation before being discharged. In general, affinities of anti-S antibodies were shown to be significantly higher among COVID-19 survivors (ICU or non-ICU) in comparison with the fatal cases. Consistently, of 90 hospitalized COVID-19 patients in our study, 9 died during hospitalization owing to fatal COVID-19 complications. Of them, one was seronegative for anti-S IgG (age 65), six had low anti-S avidity (mean age 76.3), one had an intermediate avidity (age 72) and one had a high avidity antibody (age 81).</p>
+      <p id="Par28">During the acute phase of infection, avidity of IgG is low, while it reaches higher values following several weeks or months [<xref ref-type="bibr" rid="CR41">41</xref>]. However, this seems not to be the case regarding SARS-CoV-2 infection in which incomplete avidity maturation occurs following natural infection [<xref ref-type="bibr" rid="CR19">19</xref>]. Bauer and colleagues elucidated that the avidity of IgG against SARS-CoV-2 RBD, N and spike glycoprotein 1 (S1) augmented with time, but the ultimate avidity level was lower in most cases than that found in other viral infections [<xref ref-type="bibr" rid="CR42">42</xref>]. Benner et al<italic>.</italic>&#x2019;s study evaluated anti-N and anti-S AI responses over 30&#xA0;days after symptom onset in the hospitalized COVID-19 patients. They found that over days post the onset of symptoms, anti-S IgG titer and avidity increased and reached their peak on around day 21 prior to beginning to plateau. Also, anti-N IgG titers increased over time, but reached the peak earlier than anti-S IgG on around day 15 post-symptom onset. However, similar to anti-S IgG, anti-N IgG avidity followed the same trend and reached the peak on around day 21 [<xref ref-type="bibr" rid="CR43">43</xref>]. In the present study, we also collected samples from hospitalized patients at least 21&#xA0;days post-symptom onset (median time 25&#xA0;days), which could reflect the highest IgG titer and avidity. In that study, blood samples were taken from convalescent plasma donors for which median time post-symptom onset was 49&#xA0;days. They found that anti-S IgG avidity was positively correlated with age among males, but not females. Additionally, convalescent donors with a history of hospitalization during their infection course exhibited stronger anti-S IgG avidity in comparison to donors without hospitalization history. In line with our results, a strong positive correlation was reported for anti-S IgG titer and avidity. On the contrary, anti-N IgG level showed no significant correlation with anti-N IgG avidity. Moreover, both anti-S IgG titer and avidity showed a positive correlation with neutralizing antibody titers. Regarding anti-N IgG, however, a strong positive correlation was observed between anti-N IgG titer with neutralizing antibody titer while the association of anti-N IgG avidity and neutralizing antibody titer was weak [<xref ref-type="bibr" rid="CR43">43</xref>]. In our study, we found significant correlations between anti-S IgG titer with anti-S IgG avidity and anti-N IgG titer with anti-N IgG avidity in COVID-19 hospitalized group. In the study of Heireman et al<italic>.</italic> on 68 hospitalized COVID-19 patients, initial and follow-up specimens were obtained at a median of 14&#xA0;days (range 10&#x2013;18&#xA0;days) and 120&#xA0;days (range 84&#x2013;189&#xA0;days) post-symptom onset, respectively. In that study, AI&#x2009;&#x2265;&#x2009;60% was considered as a cut-off value to identify high avidity antibodies. The proportion of AI&#x2009;&#x2265;&#x2009;60% was significantly lower for anti-S IgG in comparison to anti-N IgG for first specimens and vice versa for follow-up ones [<xref ref-type="bibr" rid="CR44">44</xref>]. As the main limitation of our study, we obtained only one sample from the subjects which hindered the possibility of conducting follow-up experiments. Compared to the study of Heireman et al., in our study, AI&#x2009;&#x2265;&#x2009;50% was regarded as a cut-off point for determining high avidity IgG. Moreover, 42/90 (46.6%) symptomatic patients had "high avidity" anti-S IgG, while this percentage was 51.1% (46/90) for anti-N IgG.</p>
+    </sec>
+    <sec id="Sec17">
+      <title>Conclusion</title>
+      <p id="Par29">Altogether, our study demonstrated that hospitalized symptomatic COVID-19 patients had serum anti-S and anti-N IgG antibodies of lower avidity in comparison to asymptomatic SARS-CoV-2 carriers, although their antibody titers were higher. This study points to the significance of anti-S and anti-N IgG avidity in protection from symptomatic COVID-19. Thus, incorporation of antibody quality, apart from antibody quantity, into currently employed laboratory tests following vaccination to predict protective immunity toward this, yet of devastating potential, viral infection or for prognostic purposes, is highly recommended.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The current study was supported by a grant from Hamadan University of Medical Sciences&#xA0;(Grant number: 1401121610989).</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author contributions</title>
+      <p>MH: conceptualization and methodology, funding acquisition, resources; FK: data curation, data analysis, reviewing and editing; AM: data curation, visualization; MR-P: supervision, data analysis and software, investigation, first draft preparation; GS: supervision, data validation, reviewing and editing.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This study has received financial support from Hamadan University of Medical Sciences (IR.UMSHA.REC.1400.422).</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data availability</title>
+      <p>The analyzed data sets generated during the study are available from the corresponding author on reasonable request.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1" notes-type="COI-statement">
+        <title>Conflict of interest</title>
+        <p id="Par30">The authors have no competing interests to declare that are relevant to the content of this article.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Ethical approval</title>
+        <p id="Par31">This study was conducted in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards. The study protocol was approved by the Ethical Committee of Hamadan University of Medical Sciences.</p>
+      </notes>
+      <notes id="FPar3">
+        <title>Consent to participation</title>
+        <p id="Par32">Informed consent forms were obtained from all participants. All methods were done in accordance with the relevant guidelines and regulations.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nalbandian</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sehgal</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Madhavan</surname>
+              <given-names>MV</given-names>
+            </name>
+            <name>
+              <surname>McGroder</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>JS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Post-acute COVID-19 syndrome</article-title>
+          <source>Nat Med</source>
+          <year>2021</year>
+          <volume>27</volume>
+          <issue>4</issue>
+          <fpage>601</fpage>
+          <lpage>615</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41591-021-01283-z</pub-id>
+          <pub-id pub-id-type="pmid">33753937</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilkins</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Hirschhorn</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Wallia</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Carnethon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zembower</surname>
+              <given-names>TR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serologic status and SARS-CoV-2 infection over 6 months of follow up in healthcare workers in Chicago: a cohort study</article-title>
+          <source>Infect Control Hosp Epidemiol</source>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1017/ice.2021.367</pub-id>
+          <pub-id pub-id-type="pmid">34955103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hendriks</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schasfoort</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Koerselman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dannenberg</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cornet</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Beishuizen</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>High titers of low affinity antibodies in Covid-19 patients are associated with disease severity</article-title>
+          <source>Front Immunol</source>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2022.867716</pub-id>
+          <pub-id pub-id-type="pmid">35603178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yan</surname>
+              <given-names>L-M</given-names>
+            </name>
+            <name>
+              <surname>Wan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Xiang</surname>
+              <given-names>T-X</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J-M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Viral dynamics in mild and severe cases of COVID-19</article-title>
+          <source>Lancet Infect Dis</source>
+          <year>2020</year>
+          <volume>20</volume>
+          <issue>6</issue>
+          <fpage>656</fpage>
+          <lpage>657</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30232-2</pub-id>
+          <pub-id pub-id-type="pmid">32199493</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Carreras</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hitchings</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Katzelnick</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Rattigan</surname>
+              <given-names>SM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity</article-title>
+          <source>Nat Commun</source>
+          <year>2020</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-020-18450-4</pub-id>
+          <pub-id pub-id-type="pmid">31911652</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brochot</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Demey</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Touz&#xE9;</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Belouzard</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dubuisson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Schmit</surname>
+              <given-names>J-L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Anti-spike, anti-nucleocapsid and neutralizing antibodies in SARS-CoV-2 inpatients and asymptomatic individuals</article-title>
+          <source>Front Microbiol</source>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2020.584251</pub-id>
+          <pub-id pub-id-type="pmid">33193227</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Post</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Eddy</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Huntley</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Van Schalkwyk</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Shrotri</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Leeman</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antibody response to SARS-CoV-2 infection in humans: a systematic review</article-title>
+          <source>PLoS ONE</source>
+          <year>2020</year>
+          <volume>15</volume>
+          <issue>12</issue>
+          <fpage>e0244126</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0244126</pub-id>
+          <pub-id pub-id-type="pmid">33382764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Batra</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Clarence</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sacher</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Miranda</surname>
+              <given-names>JN</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Role of IgG against N-protein of SARS-CoV2 in COVID19 clinical outcomes</article-title>
+          <source>Sci Rep</source>
+          <year>2021</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-021-83108-0</pub-id>
+          <pub-id pub-id-type="pmid">33414495</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mallano</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ascione</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Flego</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibody response against SARS-CoV-2 infection: implications for diagnosis, treatment and vaccine development</article-title>
+          <source>Int Rev Immunol</source>
+          <year>2022</year>
+          <volume>41</volume>
+          <issue>4</issue>
+          <fpage>393</fpage>
+          <lpage>413</lpage>
+          <pub-id pub-id-type="doi">10.1080/08830185.2021.1929205</pub-id>
+          <pub-id pub-id-type="pmid">34494500</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McBride</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Van Zyl</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fielding</surname>
+              <given-names>BC</given-names>
+            </name>
+          </person-group>
+          <article-title>The coronavirus nucleocapsid is a multifunctional protein</article-title>
+          <source>Viruses</source>
+          <year>2014</year>
+          <volume>6</volume>
+          <issue>8</issue>
+          <fpage>2991</fpage>
+          <lpage>3018</lpage>
+          <pub-id pub-id-type="doi">10.3390/v6082991</pub-id>
+          <pub-id pub-id-type="pmid">25105276</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauer</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>The variability of the serological response to SARS-corona virus-2: potential resolution of ambiguity through determination of avidity (functional affinity)</article-title>
+          <source>J Med Virol</source>
+          <year>2021</year>
+          <volume>93</volume>
+          <issue>1</issue>
+          <fpage>311</fpage>
+          <lpage>322</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmv.26262</pub-id>
+          <pub-id pub-id-type="pmid">32633840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gutierrez</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Maroto</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Are IgG antibody avidity assays useful in the diagnosis of infectious diseases? A review</article-title>
+          <source>Microbios</source>
+          <year>1996</year>
+          <volume>87</volume>
+          <issue>351</issue>
+          <fpage>113</fpage>
+          <lpage>121</lpage>
+          <pub-id pub-id-type="pmid">9032960</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brady</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Unger</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>Panicker</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Description of a novel multiplex avidity assay for evaluating HPV antibodies</article-title>
+          <source>J Immunol Methods</source>
+          <year>2017</year>
+          <volume>447</volume>
+          <fpage>31</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jim.2017.04.004</pub-id>
+          <pub-id pub-id-type="pmid">28433580</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Victora</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Nussenzweig</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <article-title>Germinal centers</article-title>
+          <source>Annu Rev Immunol</source>
+          <year>2012</year>
+          <volume>30</volume>
+          <issue>1</issue>
+          <fpage>429</fpage>
+          <lpage>457</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-immunol-020711-075032</pub-id>
+          <pub-id pub-id-type="pmid">22224772</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khatri</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Staal</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Van Dongen</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Blocking of the high-affinity interaction-synapse between SARS-CoV-2 spike and human ACE2 proteins likely requires multiple high-affinity antibodies: an immune perspective</article-title>
+          <source>Front Immunol</source>
+          <year>2020</year>
+          <volume>11</volume>
+          <fpage>570018</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2020.570018</pub-id>
+          <pub-id pub-id-type="pmid">33042151</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Brink</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The unique biology of germinal center B cells</article-title>
+          <source>Immunity</source>
+          <year>2021</year>
+          <volume>54</volume>
+          <issue>8</issue>
+          <fpage>1652</fpage>
+          <lpage>1664</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2021.07.015</pub-id>
+          <pub-id pub-id-type="pmid">34380063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gaspar</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>De Gaspari</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Avidity assay to test functionality of anti-SARS-Cov-2 antibodies</article-title>
+          <source>Vaccine</source>
+          <year>2021</year>
+          <volume>39</volume>
+          <issue>10</issue>
+          <fpage>1473</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2021.02.003</pub-id>
+          <pub-id pub-id-type="pmid">33581919</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prince</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Lap&#xE9;-Nixon</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Role of cytomegalovirus (CMV) IgG avidity testing in diagnosing primary CMV infection during pregnancy</article-title>
+          <source>Clin Vaccine Immunol</source>
+          <year>2014</year>
+          <volume>21</volume>
+          <issue>10</issue>
+          <fpage>1377</fpage>
+          <lpage>1384</lpage>
+          <pub-id pub-id-type="doi">10.1128/CVI.00487-14</pub-id>
+          <pub-id pub-id-type="pmid">25165026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauer</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>The potential significance of high avidity immunoglobulin G (IgG) for protective immunity towards SARS-CoV-2</article-title>
+          <source>Int J Infect Dis</source>
+          <year>2021</year>
+          <volume>106</volume>
+          <fpage>61</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2021.01.061</pub-id>
+          <pub-id pub-id-type="pmid">33713819</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fialov&#xE1;</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Petr&#xE1;&#x10D;kov&#xE1;</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kucha&#x159;</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of different enzyme-linked immunosorbent assay methods for avidity determination of antiphospholipid antibodies</article-title>
+          <source>J Clin Lab Anal</source>
+          <year>2017</year>
+          <volume>31</volume>
+          <issue>6</issue>
+          <fpage>e22121</fpage>
+          <pub-id pub-id-type="doi">10.1002/jcla.22121</pub-id>
+          <pub-id pub-id-type="pmid">28124796</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bj&#xF6;rkman</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>N&#xE4;slund</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Stenlund</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Maley</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Buxton</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Uggla</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>An IgG avidity ELISA to discriminate between recent and chronic <italic>Neospora caninum</italic> infection</article-title>
+          <source>J Vet Diagn Invest</source>
+          <year>1999</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.1177/104063879901100106</pub-id>
+          <pub-id pub-id-type="pmid">9925210</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Lei</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Urea-mediated dissociation alleviate the false-positive <italic>Treponema pallidum</italic>-specific antibodies detected by ELISA</article-title>
+          <source>PLoS ONE</source>
+          <year>2019</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>e0212893</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0212893</pub-id>
+          <pub-id pub-id-type="pmid">30835745</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Long</surname>
+              <given-names>Q-X</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>X-J</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>Q-L</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>H-J</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections</article-title>
+          <source>Nat Med</source>
+          <year>2020</year>
+          <volume>26</volume>
+          <issue>8</issue>
+          <fpage>1200</fpage>
+          <lpage>1204</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41591-020-0965-6</pub-id>
+          <pub-id pub-id-type="pmid">32555424</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wellinghausen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Plonn&#xE9;</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Voss</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ivanova</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Frodl</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Deininger</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>SARS-CoV-2-IgG response is different in COVID-19 outpatients and asymptomatic contact persons</article-title>
+          <source>J Clin Virol</source>
+          <year>2020</year>
+          <volume>130</volume>
+          <fpage>104542</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.jcv.2020.104542</pub-id>
+          <pub-id pub-id-type="pmid">32707511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ibrahim</surname>
+              <given-names>EH</given-names>
+            </name>
+            <name>
+              <surname>Alshahrani</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Ghramh</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Kilany</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibody profile in symptomatic/asymptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infected Saudi persons</article-title>
+          <source>Saudi J Boil Sci</source>
+          <year>2021</year>
+          <volume>28</volume>
+          <issue>8</issue>
+          <fpage>4677</fpage>
+          <lpage>4682</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.sjbs.2021.04.080</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shirin</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bhuiyan</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Charles</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Amin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bhuiyan</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kawser</surname>
+              <given-names>Z</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antibody responses after COVID-19 infection in patients who are mildly symptomatic or asymptomatic in Bangladesh</article-title>
+          <source>Int J Infect Dis</source>
+          <year>2020</year>
+          <volume>101</volume>
+          <fpage>220</fpage>
+          <lpage>225</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2020.09.1484</pub-id>
+          <pub-id pub-id-type="pmid">33031941</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cordova</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Bacelar</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Nieto</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Garibaldi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Aguirre</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Machuca</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>SARS-CoV-2 IgG response in symptomatic and asymptomatic COVID-19-infected healthcare workers</article-title>
+          <source>Occup Med</source>
+          <year>2021</year>
+          <volume>71</volume>
+          <issue>4&#x2013;5</issue>
+          <fpage>215</fpage>
+          <lpage>218</lpage>
+          <pub-id pub-id-type="doi">10.1093/occmed/kqab061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Sang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ruan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Kinetics of viral load and antibody response in relation to COVID-19 severity</article-title>
+          <source>J Clin Investig</source>
+          <year>2020</year>
+          <volume>130</volume>
+          <issue>10</issue>
+          <fpage>5235</fpage>
+          <lpage>5244</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI138759</pub-id>
+          <pub-id pub-id-type="pmid">32634129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moriyama</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Adachi</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tonouchi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Fukushi</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Temporal maturation of neutralizing antibodies in COVID-19 convalescent individuals improves potency and breadth to circulating SARS-CoV-2 variants</article-title>
+          <source>Immunity</source>
+          <year>2021</year>
+          <volume>54</volume>
+          <issue>8</issue>
+          <fpage>1841</fpage>
+          <lpage>52.e4</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.immuni.2021.06.015</pub-id>
+          <pub-id pub-id-type="pmid">34246326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piccoli</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y-J</given-names>
+            </name>
+            <name>
+              <surname>Tortorici</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Czudnochowski</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Walls</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Beltramello</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mapping neutralizing and immunodominant sites on the SARS-CoV-2 spike receptor-binding domain by structure-guided high-resolution serology</article-title>
+          <source>Cell</source>
+          <year>2020</year>
+          <volume>183</volume>
+          <issue>4</issue>
+          <fpage>1024</fpage>
+          <lpage>42.e21</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cell.2020.09.037</pub-id>
+          <pub-id pub-id-type="pmid">32991844</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sen</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Sanders</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Gabriel</surname>
+              <given-names>KN</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Isoda</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Salcedo</surname>
+              <given-names>GS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Predicting COVID-19 severity with a specific nucleocapsid antibody plus disease risk factor score</article-title>
+          <source>Msphere</source>
+          <year>2021</year>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>e00203</fpage>
+          <lpage>e221</lpage>
+          <pub-id pub-id-type="doi">10.1128/mSphere.00203-21</pub-id>
+          <pub-id pub-id-type="pmid">33910993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mehta</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>McAuley</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sanchez</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tattersall</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Manson</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19: consider cytokine storm syndromes and immunosuppression</article-title>
+          <source>Lancet</source>
+          <year>2020</year>
+          <volume>395</volume>
+          <issue>10229</issue>
+          <fpage>1033</fpage>
+          <lpage>1034</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(20)30628-0</pub-id>
+          <pub-id pub-id-type="pmid">32192578</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Struck</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Schreiner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Staschik</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wochinz-Richter</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Schulz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Soutschek</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Vaccination versus infection with SARS-CoV-2: establishment of a high avidity IgG response versus incomplete avidity maturation</article-title>
+          <source>J Med Virol</source>
+          <year>2021</year>
+          <volume>93</volume>
+          <issue>12</issue>
+          <fpage>6765</fpage>
+          <lpage>6777</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmv.27270</pub-id>
+          <pub-id pub-id-type="pmid">34387884</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Junker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>EE</given-names>
+            </name>
+            <name>
+              <surname>Van Allen</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Friedman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Occurrence of chickenpox during pregnancy in women seropositive for varicella-zoster virus</article-title>
+          <source>J Infect Dis</source>
+          <year>1994</year>
+          <volume>170</volume>
+          <issue>4</issue>
+          <fpage>991</fpage>
+          <lpage>995</lpage>
+          <pub-id pub-id-type="doi">10.1093/infdis/170.4.991</pub-id>
+          <pub-id pub-id-type="pmid">7930746</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Junker</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Tilley</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Varicella-zoster virus antibody avidity and IgG-subclass patterns in children with recurrent chickenpox</article-title>
+          <source>J Med Virol</source>
+          <year>1994</year>
+          <volume>43</volume>
+          <issue>2</issue>
+          <fpage>119</fpage>
+          <lpage>124</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmv.1890430204</pub-id>
+          <pub-id pub-id-type="pmid">8083659</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paunio</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hedman</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Davidkin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Peltola</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>IgG avidity to distinguish secondary from primary measles vaccination failures: prospects for a more effective global measles elimination strategy</article-title>
+          <source>Expert Opin Pharmacother</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <issue>8</issue>
+          <fpage>1215</fpage>
+          <lpage>1225</lpage>
+          <pub-id pub-id-type="doi">10.1517/14656566.4.8.1215</pub-id>
+          <pub-id pub-id-type="pmid">12877632</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manuylov</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Burgasova</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Borisova</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Smetanina</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vasina</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Grigoriev</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Avidity of IgG to SARS-CoV-2 RBD as a prognostic factor for the severity of COVID-19 reinfection</article-title>
+          <source>Viruses</source>
+          <year>2022</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>617</fpage>
+          <pub-id pub-id-type="doi">10.3390/v14030617</pub-id>
+          <pub-id pub-id-type="pmid">35337024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Nair</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Rapp</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Potent neutralizing monoclonal antibodies directed to multiple epitopes on the SARS-CoV-2 spike</article-title>
+          <source>bioRxiv</source>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1038/s41586-020-2571-7</pub-id>
+          <pub-id pub-id-type="pmid">33398281</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Klasse</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19 vaccines: &#x201C;Warp Speed&#x201D; needs mind melds, not warped minds</article-title>
+          <source>J Virol</source>
+          <year>2020</year>
+          <volume>94</volume>
+          <issue>17</issue>
+          <fpage>e01083</fpage>
+          <lpage>e1120</lpage>
+          <pub-id pub-id-type="doi">10.1128/JVI.01083-20</pub-id>
+          <pub-id pub-id-type="pmid">32591466</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ravichandran</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Grubbs</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Coyle</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Klenow</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Antibody affinity maturation and plasma IgA associate with clinical outcome in hospitalized COVID-19 patients</article-title>
+          <source>Nat Commun</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-021-21463-2</pub-id>
+          <pub-id pub-id-type="pmid">33397941</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hedman</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lappalainen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>S&#xF6;derlund</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hedman</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Avidity of IgG in serodiagnosis of infectious diseases</article-title>
+          <source>Rev Med Microbiol</source>
+          <year>1993</year>
+          <volume>4</volume>
+          <issue>3</issue>
+          <fpage>123</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1469-0691.1996.tb00196.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Struck</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Schreiner</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Staschik</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Soutschek</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Motz</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The challenge of avidity determination in SARS-CoV-2 serology</article-title>
+          <source>J Med Virol</source>
+          <year>2021</year>
+          <volume>93</volume>
+          <issue>5</issue>
+          <fpage>3092</fpage>
+          <lpage>3104</lpage>
+          <pub-id pub-id-type="doi">10.1002/jmv.26863</pub-id>
+          <pub-id pub-id-type="pmid">33565617</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benner</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>EU</given-names>
+            </name>
+            <name>
+              <surname>Laeyendecker</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Pekosz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Littlefield</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Eby</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>SARS-CoV-2 antibody avidity responses in COVID-19 patients and convalescent plasma donors</article-title>
+          <source>J Infect Dis</source>
+          <year>2020</year>
+          <volume>222</volume>
+          <issue>12</issue>
+          <fpage>1974</fpage>
+          <lpage>1984</lpage>
+          <pub-id pub-id-type="doi">10.1093/infdis/jiaa581</pub-id>
+          <pub-id pub-id-type="pmid">32910175</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heireman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Boelens</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Coorevits</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Verhasselt</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Vandendriessche</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Padalko</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Different long-term avidity maturation for IgG anti-spike and anti-nucleocapsid SARS-CoV-2 in hospitalized COVID-19 patients</article-title>
+          <source>Acta Clin Belg</source>
+          <year>2022</year>
+          <volume>77</volume>
+          <issue>3</issue>
+          <fpage>653</fpage>
+          <lpage>657</lpage>
+          <pub-id pub-id-type="doi">10.1080/17843286.2021.1943231</pub-id>
+          <pub-id pub-id-type="pmid">34152944</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

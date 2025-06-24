@@ -1,0 +1,685 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Bioeng Biotechnol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Bioeng Biotechnol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Bioeng. Biotechnol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Bioengineering and Biotechnology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2296-4185</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36911199</article-id>
+      <article-id pub-id-type="pmc">9995886</article-id>
+      <article-id pub-id-type="publisher-id">1121074</article-id>
+      <article-id pub-id-type="doi">10.3389/fbioe.2023.1121074</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Bioengineering and Biotechnology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A bioconjugate vaccine against <italic>Brucella abortus</italic> produced by engineered <italic>Escherichia coli</italic>
+</article-title>
+        <alt-title alt-title-type="left-running-head">Li et al.</alt-title>
+        <alt-title alt-title-type="right-running-head">
+<ext-link xlink:href="https://doi.org/10.3389/fbioe.2023.1121074" ext-link-type="uri">10.3389/fbioe.2023.1121074</ext-link>
+</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Shulei</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="fn1" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2130791/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Huang</surname>
+            <given-names>Jing</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="fn1" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Kangfeng</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Yan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Yan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Xiang</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Jun</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2148481/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Peng</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1708343/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yufei</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">*</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/607681/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Zhu</surname>
+            <given-names>Li</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">*</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1617354/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Hengliang</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">*</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/479860/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<sup>1</sup>
+<institution>State Key Laboratory of Pathogen and Biosecurity</institution>, <institution>Beijing Institute of Biotechnology</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff>
+      <aff id="aff2">
+<sup>2</sup>
+<institution>The Third Medical Center</institution>, <institution>PLA General Hospital</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff>
+      <aff id="aff3">
+<sup>3</sup>
+<institution>Department of Clinical Laboratory</institution>, <institution>The Third Medical Centre of Chinese PLA General Hospital</institution>, <institution>The Training Site for Postgraduate of Jin Zhou Medical University</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff>
+      <aff id="aff4">
+<sup>4</sup>
+<institution>Beijing Minhai Biotechnology Co., Ltd.</institution>, <addr-line>Beijing</addr-line>, <country>China</country>
+</aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>
+<bold>Edited by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/576697/overview" ext-link-type="uri">Wenping Gong</ext-link>, The 8th Medical Center of PLA General Hospital, China</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>
+<bold>Reviewed by:</bold>
+<ext-link xlink:href="https://loop.frontiersin.org/people/2135459/overview" ext-link-type="uri">Hongtao Zhang</ext-link>, Jiangnan University, China</p>
+          <p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1472938/overview" ext-link-type="uri">Zeliang Chen</ext-link>, School of Public Health, Sun Yat-sen University, China</p>
+          <p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/532072/overview" ext-link-type="uri">Jess Vergis</ext-link>, Kerala Veterinary and Animal Sciences University, India</p>
+          <p>
+<ext-link xlink:href="https://loop.frontiersin.org/people/1851562/overview" ext-link-type="uri">Mehdi Mahdavi</ext-link>, Motamed Cancer Institute, Iran</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Yufei Wang, <email>tosya@163.com</email>; Li Zhu, <email>jewly54@bmi.ac.cn</email>; Hengliang Wang, <email>wanghl@bmi.ac.cn</email>
+</corresp>
+        <fn fn-type="equal" id="fn1">
+          <label>
+<sup>&#x2020;</sup>
+</label>
+          <p>These authors have contributed equally to this work</p>
+        </fn>
+        <fn fn-type="other">
+          <p>This article was submitted to Nanobiotechnology, a section of the journal Frontiers in Bioengineering and Biotechnology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>2</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>1121074</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Li, Huang, Wang, Liu, Guo, Li, Wu, Sun, Wang, Zhu and Wang.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Li, Huang, Wang, Liu, Guo, Li, Wu, Sun, Wang, Zhu and Wang</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Brucellosis, mainly caused by <italic>Brucella,</italic> is a widespread zoonotic disease worldwide, with no available effective vaccine for human use. Recently, bioconjugate vaccines against <italic>Brucella</italic> have been prepared in <italic>Yersinia enterocolitica</italic> O:9 (YeO9), whose O-antigen structure is similar to that of <italic>Brucella abortus</italic>. However, the pathogenicity of YeO9 still hinders the large-scale production of these bioconjugate vaccines. Here, an attractive system for the preparation of bioconjugate vaccines against <italic>Brucella</italic> was established in engineered <italic>E. coli</italic>. Briefly, the OPS gene cluster of YeO9 was modularized into five individual fragments and reassembled using synthetic biological methods through standardized interfaces, then introduced into <italic>E. coli</italic>. After confirming the synthesis of targeted antigenic polysaccharides, the exogenous protein glycosylation system (PglL system) was used to prepare the bioconjugate vaccines. A series of experiments were conducted to demonstrate that the bioconjugate vaccine could effectively evoke humoral immune responses and induce the production of specific antibodies against <italic>B. abortus</italic> A19 lipopolysaccharide. Furthermore, the bioconjugate vaccines provide protective roles in both lethal and non-lethal challenge of <italic>B. abortus</italic> A19 strain. Using the engineered <italic>E. coli</italic> as a safer chassis to prepare bioconjugate vaccines against <italic>B. abortus</italic> paves the way for future industrial applications.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>conjugate vaccines</kwd>
+        <kwd>
+          <italic>Brucella abortus</italic>
+        </kwd>
+        <kwd>bioengineering</kwd>
+        <kwd>synthetic biology</kwd>
+        <kwd>PGCT</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This work was supported by the National Key Research and Development Project of China (No. 2021YFC2102100), the National Natural Science Foundation of China (Nos. U20A20361, 81930122), and the Beijing Postdoctoral Research Foundation (No. 2021-ZZ-035).</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>1 Introduction</title>
+      <p>Brucellosis is a zoonotic infection caused by <italic>Brucella</italic> spp., which has a worldwide distribution. Epidemiological data demonstrate that approximately 500,000 people are infected with brucellosis annually (<xref rid="B27" ref-type="bibr">Mirnejad et al., 2017</xref>). <italic>Brucella</italic> spp.<italic>,</italic> including <italic>B. abortus</italic>, <italic>B. melitensis</italic>, and <italic>B. suis,</italic> is a family of dangerous zoonotic bacteria that can be transferred from an animal to a human host and remain pathogenic (<xref rid="B6" ref-type="bibr">de Figueiredo et al., 2015</xref>). Vaccination is the primary means of preventing and controlling its spread. Live attenuated vaccines, such as S19, RB51, 45/20, SR82, and Rev1, are the most common and are prepared for use in livestock (<xref rid="B25" ref-type="bibr">Masjedian Jezi et al., 2019</xref>). There are no licensed vaccines against <italic>B. abortus</italic> for human use to date. Notably, Biosafety level 3 containment and facilities are required for all culture manipulations due to the aerosol transmission of <italic>Brucella.</italic> Thus, it is difficult and costly for companies to develop and manufacture vaccines.</p>
+      <p>Like most Gram-negative bacteria, <italic>Brucella</italic> species possess lipopolysaccharide (LPS) as the most important virulence factor, which is the dominant antigen in the immune response to brucellosis (<xref rid="B38" ref-type="bibr">von Bargen et al., 2012</xref>). Conjugate vaccines produced by covalently linking these bacterial surface polysaccharides to proteins have shown very good protection against infections, and some have been approved for marketing, such as PREVNAR&#xAE; 13 produced by Pfizer (<xref rid="B3" ref-type="bibr">Berti and Adamo, 2018</xref>). The classic preparation methods of conjugate vaccines involve chemical cross-linking and require the extraction and purification of bacterial polysaccharides, carrier proteins, and final cross-linked products (<xref rid="B3" ref-type="bibr">Berti and Adamo, 2018</xref>; <xref rid="B26" ref-type="bibr">Mettu et al., 2020</xref>; <xref rid="B28" ref-type="bibr">Morais and Suarez, 2022</xref>), leading to the relatively high cost. In addition, the extraction of antigenic polysaccharides requires the fermentation of <italic>Brucella</italic>, posing biosafety risks.</p>
+      <p>In recent years, with the discovery and application of bacterial protein glycosylation systems, the preparation of conjugate vaccines by Protein Glycan Coupling Technology (PGCT) has attracted increasing attention from researchers in the field of vaccine design (<xref rid="B15" ref-type="bibr">Harding and Feldman, 2019</xref>). In this strategy, bacterial oligosaccharyltransferases (OTase) were utilized to catalyze the transfer of bacterial antigenic polysaccharides, such as O-specific polysaccharide chains of LPS (OPS), from lipid carriers to proteins (<xref rid="B31" ref-type="bibr">Nothaft and Szymanski, 2010</xref>), making the vaccine preparation process easier and safer. The first reported N-linked protein glycosyltransferase is PglB from <italic>Campylobacter jejuni</italic>, which can be expressed in <italic>E coli</italic> and catalyzes the glycosylation of its natural substrate, AcrA (<xref rid="B24" ref-type="bibr">Linton et al., 2005</xref>). An O-linked protein glycosyltransferase PglL from <italic>Neisseria meningitidis</italic> was used for the preparation of bioconjugate vaccines in our team (<xref rid="B33" ref-type="bibr">Pan et al., 2016</xref>). In recent years, another O-linked protein glycosyltransferase, PglS, has been developed for the application of bioconjugate vaccines against <italic>Streptococcus pneumoniae</italic> (<xref rid="B16" ref-type="bibr">Harding et al., 2019</xref>).</p>
+      <p>Regarding PGCT technology, ensuring the O antigen synthesis gene cluster of the target bacteria is functional in the exogenous host cell is crucial. At present, no reports demonstrate the successful expression of the O antigen synthesis gene cluster of <italic>Brucella</italic> in <italic>E coli</italic>. Fortunately, through serological analysis and NMR identification, a high degree of similarity has been found between the O antigen of <italic>B. abortus</italic> and that of YeO9, both of which use the same monosaccharide N-formyl-perosamine as the basic module (<xref rid="B4" ref-type="bibr">Bundle et al., 1989</xref>; <xref rid="B36" ref-type="bibr">Skurnik et al., 2007</xref>). For this reason, YeO9 have been used as an engineered host to prepare a glycosylated AcrA protein bearing the antigenic polysaccharides of <italic>B. abortus</italic> using an N-linked PGCT system. This protein can react with serum against <italic>B. abortus</italic> but lacks sufficient protective effects in challenge experiments (<xref rid="B18" ref-type="bibr">Iwashkiw et al., 2012</xref>). Inspired by this work, our team optimized the design of this vaccine and produced a bioconjugate vaccine for <italic>B. abortus</italic> with cholera toxin B subunit (CTB) as the carrier protein using an O-linked PGCT system in YeO9. Animal experiments showed that the vaccine provided promising levels of protection (<xref rid="B17" ref-type="bibr">Huang et al., 2020</xref>). However, as YeO9 is an opportunistic pathogen, the risk for zoonotic disease remains (<xref rid="B11" ref-type="bibr">Galindo et al., 2011</xref>; <xref rid="B21" ref-type="bibr">Le Guern et al., 2016</xref>; <xref rid="B35" ref-type="bibr">Rivas et al., 2021</xref>).</p>
+      <p>Using engineered <italic>E. coli</italic> as chassis cells to prepare bioconjugate vaccines is a feasible pathway to solve the biosafety issues involved in the development of effective vaccines against highly pathogenic organisms (<xref rid="B8" ref-type="bibr">Dow et al., 2020</xref>). Given that the activity of the O antigen synthesis gene cluster remains unclear in <italic>B. abortus</italic>, the YeO9 antigen synthesis gene cluster was also used to produce conjugate vaccine in engineered <italic>E coli</italic> with the help of our O-linked PGCT system (PglL system). Fortunately, the desired glycoproteins with pentamer CTB as the carrier protein were successfully produced by <italic>E. coli</italic>, and a series of experiments demonstrated that this bioconjugate vaccine is safe and effective; the vaccine could protect mice in challenge experiments with different doses of <italic>B. abortus</italic> A19.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s2">
+      <title>2 Methods and materials</title>
+      <sec id="s2-1">
+        <title>2.1 Bacterial strains, plasmids, primers, and growth conditions</title>
+        <p>The strains and plasmids used in this study are listed in <xref rid="s11" ref-type="sec">Supplementary Table S1</xref>, and the primers are listed in <xref rid="s11" ref-type="sec">Supplementary Table S2</xref>. All strains of the <italic>E. coli</italic> W3110 series were cultured in Luria-Bertani (LB) liquid medium or LB medium containing 1.5% agarose at 37&#xB0;C; YeO9 was cultured in Brain Heart Infusion (BHI) medium containing 1.5% agarose at 30&#xB0;C; and <italic>B. abortus</italic> A19 was cultured in Tryptic Soy Broth (TSB) medium or TSB medium containing 1.5% agarose at 37&#xB0;C. For protein expression, the strains carrying expression plasmids were cultured at 37&#xB0;C to an OD<sub>600 nm</sub> of approximately 0.6. Then, 1&#xA0;mM isopropyl-&#x3B2;-D-thiogalactopyranoside (IPTG) was added at 30&#xB0;C for 12&#xA0;h.</p>
+      </sec>
+      <sec id="s2-2">
+        <title>2.2 Experimental animals</title>
+        <p>Seven-week-old female BALB/c mice (free of specific pathogens) were used in this study and purchased from Beijing Vital River Laboratory Animal Technology Co., Ltd. All immunization experiments were performed following ethical regulations for animal testing and research. All experiments were approved by and conducted in accordance with the guidelines of the Academy of Military Medical Sciences Institutional Animal Care and Use Committee (approval code: IACUC-DWZX-2021-008).</p>
+      </sec>
+      <sec id="s2-3">
+        <title>2.3 LPS and OPS extraction</title>
+        <p>LPS extraction was performed as described previously (<xref rid="B37" ref-type="bibr">Sun et al., 2018</xref>). Briefly, the cells were collected by centrifugation and resuspended in ddH<sub>2</sub>O. Then, an equal volume of 90% phenol was added, and the mixture was shaken vigorously at 68&#xB0;C for 30&#xA0;min. After centrifuging at 7,000&#xA0;<italic>g</italic> for 20&#xA0;min at 4&#xB0;C, the supernatant was collected. Phenol was removed from the supernatant using a dialysis bag in ddH<sub>2</sub>O for 2&#xA0;days. Then, DNase (5&#xA0;&#x3BC;g/mL; Solarbio, Beijing, China), RNase (1&#xA0;&#x3BC;g/mL; Solarbio) and proteinase K (20&#xA0;&#x3BC;g/mL; Solarbio) were sequentially added to the dialyzed sample. After incubating at the optimal temperature, the solution was placed in a boiling water bath for 10&#xA0;min and then centrifuged at 7,000&#xA0;<italic>g</italic> for 10&#xA0;min to obtain LPS. To obtain OPS, glacial acetic acid was added to the LPS solution with a final concentration of 1% and incubated in a boiling water bath for 90&#xA0;min. The pH was then adjusted to 7.0 with NaOH. Finally, the mixture was centrifuged at 40,000&#xA0;<italic>g</italic> for 5&#xA0;h, and the supernatant was collected.</p>
+      </sec>
+      <sec id="s2-4">
+        <title>2.4 Purification of target glycoproteins</title>
+        <p>Cells were collected by centrifuging at 8,000&#xA0;<italic>g</italic> for 10&#xA0;min at 4&#xB0;C and then resuspended in A1 (20&#xA0;mM Tris-HCl pH 7.5, 10&#xA0;mM imidazole, 500&#xA0;mM NaCl). Then, the cells were lysed using a homogenizer and centrifuged to collect the supernatant, which was subsequently was applied to a chelating column (Complete His-Tag Purification Resin, Roche, Penzberg, Germany). After washing with A1, bound protein was eluted with B1 (20&#xA0;mM Tris-HCl pH 7.5, 500&#xA0;mM imidazole, 500&#xA0;mM NaCl). Then, the sample was further purified using a Sephadex 200 (GE Healthcare) column. The fractions were collected and analyzed using SDS-PAGE.</p>
+      </sec>
+      <sec id="s2-5">
+        <title>2.5 Western blot analyses</title>
+        <p>Western blotting was performed, as described previously (<xref rid="B33" ref-type="bibr">Pan et al., 2016</xref>). Horseradish peroxidase (HRP)-conjugated 6&#xD7;His-tag antibody (Abmart, Shanghai, China) (1:3,000) was used to detect 6&#xD7;His-tag-fused proteins. Monoclonal <italic>Yersinia enterocolitica</italic> O:9 antibody (Fitzgerald, Acton, MA) (1:400) and <italic>Brucella</italic> antibody (1:400) to detect glycoproteins. The antibody against <italic>Brucella</italic> was produced by immunizing rabbits with whole <italic>Brucella suis</italic> S2 and blocking with <italic>E. coli</italic> W3110 cell lysates. HRP-conjugated anti-rabbit IgG (TransGen Biotech, Beijing, China) (1:15,000) was used as a secondary antibody.</p>
+      </sec>
+      <sec id="s2-6">
+        <title>2.6 Monosialic acid tetrahexose ganglioside (GM1) binding assay</title>
+        <p>The GM1 binding assay was performed as described previously (<xref rid="B23" ref-type="bibr">Li et al., 2022</xref>). Briefly, a 96-well plate was coated with 100&#xA0;&#xB5;L of GM1 solution (Sigma; 2&#xA0;&#x3BC;g/mL) overnight at 4&#xB0;C. After washing with PBST (PBS containing 0.05% Tween), 200&#xA0;&#xB5;L of blocking solution (5% skim milk in PBST) was added to each well. After incubating at 37&#xB0;C for 2&#xA0;h, the plate was washed again. Then, 100&#xA0;&#xB5;L of samples at different dilutions were added and incubated at 37&#xB0;C for 1&#xA0;h. After washing again, 100&#xA0;&#xB5;L of anti-CTB antibody was added to each well and incubated at 37&#xB0;C for 1&#xA0;h. After another washing step, 100&#xA0;&#xB5;L of HRP-labeled goat anti-rabbit antibody (1:5,000) was added and incubated at 37&#xB0;C for 1&#xA0;h. The plate was washed again and the soluble TMB Kit (CWbio, Beijing, China) was used for color development. The absorbance at a wavelength of 450&#xA0;nm was measured using a microplate spectrophotometer.</p>
+      </sec>
+      <sec id="s2-7">
+        <title>2.7 Flow cytometric analysis of mouse spleen cells</title>
+        <p>The mice were humanely sacrificed, and the spleens were removed. The spleens were triturated, and the red blood cells were removed using RBC Lysis Buffer (Solarbio) according to the kit instructions. After centrifuging at 500&#xA0;<italic>g</italic> for 10&#xA0;min at 4&#xB0;C, the supernatants were discarded, and cells were resuspended and washed twice with Staining buffer (eBioscience) to obtain single-cell suspensions. Then, cells were stained with different combinations of flow cytometry antibodies, including APC-conjugated anti-mouse CD3 (eBioscience, San Diego, United States), FITC-conjugated anti-mouse CD4 (BioLegend, San Diego, United States), PE-conjugated anti-mouse CD8 (eBioscience) APC-conjugated anti-mouse B220 (BioLegend), Pacific Blue-conjugated anti-mouse GL-7 (BioLegend), PE-conjugated anti-mouse CD95 (BioLegend), PE-conjugated anti-mouse PD-1 (BioLegend), and Brilliant Violet 421-conjugated anti-mouse CXCR5 (BioLegend). After staining, cells were washed with Staining buffer and dispersed in 500&#xA0;mL of staining buffer. Analysis was performed using a Mona CytoFLEX flow cytometer (BeckmanCoulter LifeSciences, Brea, United States).</p>
+      </sec>
+      <sec id="s2-8">
+        <title>2.8 Animal immunization and challenge</title>
+        <p>BALB/c mice were intraperitoneally injected with the vaccine formulation, including CTB-OPS<sub>Ba</sub> (2.5&#xA0;&#xB5;g polysaccharide), OPS<sub>Ba</sub> (2.5&#xA0;&#xB5;g), CTB, and PBS, on days 0, 14, and 28. Seven days after each injection, blood was collected from the tail vein of each mouse, and the serum was isolated. The bacteria were cultured at 37&#xB0;C in TSB medium. When the OD600 reached 2.0, the bacteria were diluted to the required concentration with saline. Then, the diluted bacteria were injected intraperitoneally into the mice (200 &#xB5;L/mouse).</p>
+      </sec>
+      <sec id="s2-9">
+        <title>2.9 ELISA</title>
+        <p>First, the 96-well plates were coated with 100&#xA0;&#xB5;L of <italic>B. abortus</italic> A19 LPS (100&#xA0;&#x3BC;g/mL) and incubated overnight at 4&#xB0;C. Then, the plates were washed with PBST 3&#xA0;times, and 200&#xA0;&#x3BC;L of blocking buffer (5% skim milk in PBST) was added to each well and incubated at 37&#xB0;C for 2&#xA0;h. After blocking, sera from each mouse were added to the corresponding wells and serially diluted with dilution buffer (10% blocking buffer) and incubated at 37&#xB0;C for 1&#xA0;h. The plates were washed and 100&#xA0;&#x3BC;L of HRP-conjugated goat anti-mouse IgG, IgG1, IgG2a, IgG2b, or IgG3 antibody (Abcam, Cambridge, MA, United States) (1:15,000) was added to each well and incubated at 37&#xB0;C for 1&#xA0;h. After washing, the Soluble TMB Kit (CWBio, Beijing, China) was used for color development, and the absorption at a wavelength of 450&#xA0;nm was measured using a microplate spectrophotometer.</p>
+      </sec>
+      <sec id="s2-10">
+        <title>2.10 Cytokine detection</title>
+        <p>The cytokine levels were detected with the Double Antibody Sandwich ELISA method using cytokine detection kits (Dakowei Medical Equipment Co., Ltd., Shenzhen, China). Briefly, 100&#xA0;&#x3BC;L of serum samples and standards at different dilutions were added to pre-coated wells, then 50&#xA0;&#x3BC;L of Biotinylated antibodies (1:100) were added to each well. After incubating at 37&#xB0;C for 90&#xA0;min, the plates were washed 3 times and dried. Then, 100&#xA0;&#x3BC;L of Streptavidin-HRP (1:100) was added to each well and incubated at 37&#xB0;C for 30&#xA0;min. After washing and drying again, TMB solution (100&#xA0;&#x3BC;L/well) was added and incubated at 37&#xB0;C for 15&#xA0;min in the dark. The reaction was then terminated by adding Stop solution (100&#xA0;&#x3BC;L/well). The absorbance in each well at a wavelength of 450&#xA0;nm was measured using a microplate spectrophotometer.</p>
+      </sec>
+      <sec id="s2-11">
+        <title>2.11 Spleen bacterial load assay</title>
+        <p>Fourteen days after the third immunization, 2.81 &#xD7; 10<sup>7</sup>&#xA0;CFU of <italic>B. abortus</italic> A19 strain was intraperitoneally injected into each mouse. The control group was injected with the same volume of PBS. On the 7th&#xA0;day after infection, the mice were humanely sacrificed, and the spleens were removed. The spleens were weighed and then grind in 1&#xA0;mL of sterile saline. The grind spleen samples were then serially diluted with sterile saline, plated on TSA solid medium, and incubated at 37&#xB0;C for 72&#xA0;h. Subsequently, the bacterial colonies were counted.</p>
+      </sec>
+      <sec id="s2-12">
+        <title>2.12 Statistical analysis</title>
+        <p>The data are presented as the mean &#xB1; SD. Statistical analyses were performed using GraphPad Prism 8.0 (GraphPad, San Diego, CA, United States). Data were analyzed <italic>via</italic> one-way ANOVA with Dunnett&#x2019;s multiple comparison test for multiple-group comparisons. A log-rank test was used for the survival analysis. <italic>p</italic> values below 0.05 indicated significance (*<italic>p</italic> &lt; 0.05, **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001, ****<italic>p</italic> &lt; 0.0001).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>3 Results</title>
+      <sec id="s3-1">
+        <title>3.1 Construction of the YeO9 OPS synthesis plasmid and its functional verification in <italic>E coli</italic>
+</title>
+        <p>YeO9 OPS was first synthesized in <italic>E. coli</italic> by constructing an appropriate plasmid. Considering that the gene cluster of YeO9 OPS is approximately 15,000&#xA0;bp in length and comprises 12 genes (<italic>manC-wbcW</italic>) (<xref rid="s11" ref-type="sec">Supplementary Figure S1</xref>), we planned to connect it to a plasmid backbone using the Golden Gate cloning method. Briefly, the OPS gene cluster was divided into five fragments, and these fragments and the pACYC184tac vector were linearized by PCR. All the fragments were designed with unique overhangs at each end. Then, the fragments were ligated to the vector skeleton using the Golden Gate Assembly Kit (BsaI-HFv2) through one-step method and the new plasmid was named pACYC184tac-OPS<sub>Ba</sub> (<xref rid="F1" ref-type="fig">Figure 1A</xref>).</p>
+        <fig position="float" id="F1">
+          <label>FIGURE 1</label>
+          <caption>
+            <p>Synthesis of YeO9 OPS in <italic>Escherichia coli</italic>. <bold>(A)</bold> Schematic diagram of YeO9 OPS synthesis plasmid construction with the Golden Gate cloning method. <bold>(B)</bold> Fluorescence imaging analysis of the reaction between <italic>Escherichia coli</italic> W3110/pACYC184tac-OPS<sub>Ba</sub> and the YeO9 antibody. <bold>(C)</bold> W3110/pACYC184tac-OPS<sub>Ba</sub> LPS was detected with YeO9 serum by Western blotting. <bold>(D)</bold> Fluorescence imaging analysis of the reaction between <italic>Escherichia coli</italic> W3110/pACYC184tac-OPS<sub>Ba</sub> and <italic>Brucella</italic> serum. <bold>(E)</bold> W3110/pACYC184tac-OPS<sub>Ba</sub> LPS was detected with <italic>Brucella</italic> serum by Western blotting.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g001" position="float"/>
+        </fig>
+        <p>To verify the synthesis of YeO9 OPS in <italic>E. coli</italic>, we first transferred pACYC184tac-OPS<sub>Ba</sub> into <italic>E. coli</italic> W3110, which cannot independently synthesize O-polysaccharide. After culturing in LB medium at 37&#xB0;C overnight, the cells were successively incubated with YeO9 antibody and fluorescent-labeled secondary antibody. Through fluorescence imaging, we found that the Anti-YeO9 signal was obviously present in <italic>E. coli</italic> W3110 containing pACYC184tac-OPS<sub>Ba</sub>, while no visible signal was found in the untreated W3110 strain (<xref rid="F1" ref-type="fig">Figure 1B</xref>). Then, LPS was extracted, and the immunoblotting assay results also showed that the synthesized OPS could react with YeO9 antibody (<xref rid="F1" ref-type="fig">Figure 1C</xref>). Furthermore, we used <italic>Brucella</italic> serum to verify its cross-reactivity. As expected, the fluorescence imaging results showed that the heterologously synthesized OPS cross-reacted with <italic>Brucella</italic> serum (<xref rid="F1" ref-type="fig">Figure 1D</xref>). Similarly, immunoblotting results were consistent with the fluorescence imaging results (<xref rid="F1" ref-type="fig">Figure 1E</xref>).</p>
+      </sec>
+      <sec id="s3-2">
+        <title>3.2 Biosynthesis of <italic>B. abortus</italic> conjugate vaccine in engineered <italic>E. coli</italic>
+</title>
+        <p>After confirming the successful synthesis of the heterologous OPS in <italic>E. coli</italic> W3110 and determining its specificity, we further transformed pACYC184tac-OPS<sub>Ba</sub> into our previously constructed strain W3110&#x394;<italic>waal</italic>&#x394;<italic>wbbH-L</italic>, which can block the transformation of OPS to lipid A and is more suitable for exogenous polysaccharide synthesis. The plasmid pET28a-<italic>pgIL-CTB</italic>4573 co-expressing glycosyltransferase PglL and CTB with glycosylation sequence 4,573 was also transformed into W3110&#x394;<italic>waal</italic>&#x394;<italic>wbbH-L</italic> to couple the carrier protein with the OPS. After inducing with IPTG, the whole bacterial sample was separated by SDS-PAGE, and Western blotting with a 6 &#xD7; His tag antibody was performed to detect the glycosylation of carrier proteins. The result showed a typical glycosylation ladder band when the polysaccharide gene cluster was co-expressed with the pglL and CTB, while only the carrier protein band was detected when the polysaccharide gene cluster was not co-expressed. This result suggests that OPS can be successfully coupled with CTB to generate glycoprotein (CTB-OPS<sub>Ba</sub>) <italic>via</italic> the catalysis of glycosyltransferase PglL (<xref rid="F2" ref-type="fig">Figure 2A</xref>). Then, the heterologously synthesized glycoprotein was purified <italic>via</italic> affinity and size-exclusion chromatography, and a series of verifications were performed. Coomassie blue staining and periodic acid Schiff staining showed consistent bands compared to the previous whole-cell immunoblot. In addition, the glycoprotein was detected by Western blotting using an anti-6 &#xD7; His-Tag antibody, an anti-YeO9, and <italic>Brucella</italic> serum sequentially, showing that the CTB-OPS<sub>Ba</sub> could react with both YeO9 antibody and <italic>Brucella</italic> serum (<xref rid="F2" ref-type="fig">Figure 2B</xref>).</p>
+        <fig position="float" id="F2">
+          <label>FIGURE 2</label>
+          <caption>
+            <p>Expression and Verification of the glycoprotein. <bold>(A)</bold> PgIL-mediated protein O-glycosylation in W3110 &#x25B3;<italic>waal</italic>&#x25B3;<italic>wbbH-L</italic> strain was detected by Western blotting with 6 &#xD7; His Tag antibody. <bold>(B)</bold> Purified CTB-OPS<sub>Ba</sub> samples were separated by SDS-PAGE and analyzed by Coomassie blue staining, PAS staining and Western blotting with 6 &#xD7; His Tag antibody, YeO9 antibody, and <italic>Brucella</italic> serum. <bold>(C)</bold> Dynamic light scattering analysis of CTB-OPS<sub>Ba</sub>. <bold>(D)</bold> CTB-OPS<sub>Ba</sub> was separated by non-denaturing electrophoresis and stained by Coomassie blue. <bold>(E)</bold> ELISA was performed to analyze the GM1 binding ability of CTB-OPS<sub>Ba</sub>. <bold>(F)</bold> Stability analysis of CTB-OPS<sub>Ba</sub> measured by dynamic light scattering.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g002" position="float"/>
+        </fig>
+        <p>CTB is known to form a pentamer in natural conditions and is often used as an immune activator because of its ability to bind with GM1, which is widely present on the surface of antigen-presenting cells (<xref rid="B2" ref-type="bibr">Beddoe et al., 2010</xref>). Moreover, the formation of a pentamer is a necessary condition for GM1 binding. Thus, we analyzed the particle size of CTB-OPS<sub>Ba</sub> by dynamic light scattering (DLS) and the results showed that the CTB-OPS<sub>Ba</sub> was approximately 13&#xA0;nm in diameter (<xref rid="F2" ref-type="fig">Figure 2D</xref>). A native PAGE was also performed, and the Coomassie blue staining results showed that the molecular weight of the CTB-OPS<sub>Ba</sub> glycoprotein was approximately 224&#x2013;250&#xA0;kDa, which is approximately 5-fold that of the monomeric protein molecular weight (<xref rid="F2" ref-type="fig">Figure 2C</xref>), indicating that glycosylation doesn&#x2019;t affect CTB polymerization. Further, we determined the binding capability of CTB-OPS<sub>Ba</sub> with GM1 by ELISA method using the CTB standard and PBS as control. The results showed that the OD<sub>450</sub> values decreased as the dilution of the CTB-OPS<sub>Ba</sub> and CTB standard increased (<xref rid="F2" ref-type="fig">Figure 2E</xref>), indicating that CTB retained the ability to bind to receptors after glycosylation. Moreover, to evaluate the stability of the glycoproteins, we examined the size and molecular weight of CTB-OPS<sub>Ba</sub> at different time points at room temperature. The results showed no significant size change or obvious degradation even after 7&#xA0;days (<xref rid="F2" ref-type="fig">Figure 2F</xref>; <xref rid="s11" ref-type="sec">Supplementary Figure S3</xref>), suggesting that the purified CTB-OPS<sub>Ba</sub> was stable and could be stored at room temperature for a long time.</p>
+      </sec>
+      <sec id="s3-3">
+        <title>3.3 Immune activation and splenic stimulation of bioconjugate vaccines</title>
+        <p>Immune cells (e.g., APCs) recognize and present antigens and stimulate differentiation of CD4<sup>+</sup> T cells, resulting in a Th1 and Th2 immune response. BALB/c mice were immunized with CTB-OPS<sub>Ba</sub> and PBS, and peripheral blood was collected after 6&#xA0;h. Serum cytokine levels were measured through the LiquiChip method, and the results showed increased concentrations of many Th1- and Th2-related cytokines (<xref rid="F3" ref-type="fig">Figure 3A</xref>). We further examined CD4<sup>+</sup> T cells in the spleens by flow cytometry at 3, 7, and 10&#xA0;days after immunization, and the results showed that the spleens in CTB-OPS<sub>Ba</sub>-treated mice had the highest percentage of CD4<sup>+</sup> T cells at all three time points (<xref rid="F3" ref-type="fig">Figure 3B</xref>). This result was also confirmed by the mouse spleen cell surface fluorescent antibody assay, which showed more CD3<sup>+</sup> and CD4<sup>+</sup> cells in the spleen sections (<xref rid="F3" ref-type="fig">Figure 3C</xref>; <xref rid="s11" ref-type="sec">Supplementary Figure S4</xref>).</p>
+        <fig position="float" id="F3">
+          <label>FIGURE 3</label>
+          <caption>
+            <p>Evaluation of the immune response induced by CTB-OPS<sub>Ba</sub>. <bold>(A)</bold> Th1- and Th2-related cytokines in serum were measured 6&#xA0;h after immunization. <bold>(B)</bold> CD4<sup>+</sup> T cells in spleens were detected by flow cytometry on days 3, 7, and 10 after immunization. <bold>(C)</bold> CD3<sup>+</sup> and CD4<sup>+</sup> cells in spleens were detected by immunofluorescence on days 3, 7, and 10 after immunization. Tfh cells (CXCR5<sup>+</sup> and PD-1<sup>+</sup> in the CD4<sup>+</sup> cell population) <bold>(D)</bold> and GC B cells (GL7<sup>+</sup> and CD95<sup>+</sup> in the B220<sup>+</sup> cell population) <bold>(E)</bold> in spleens were detected by flow cytometry. <bold>(F)</bold> Ki67 and B220 were detected in spleens on the 10th day after immunization by immunofluorescence. n = 5, and all data are expressed as the mean &#xB1; SD. One-way ANOVA with Dunnett&#x2019;s multiple comparison test was used to compare CTB-OPS<sub>Ba</sub> group data with the data from the other groups: **<italic>p</italic> &lt; 0.01, *<italic>p</italic> &lt; 0.05, ns <italic>p</italic> &gt; 0.05.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g003" position="float"/>
+        </fig>
+        <p>The germinal center is the main site of the thymus-dependent antigen response and is formed approximately 1&#xA0;week after antigen stimulation. The main function of follicular T cells (Tfh cells) is to help B cells differentiate into effector cells in the germinal center. To verify the effect of CTB-OPS<sub>Ba</sub> on Tfh cells and germinal center B cells, we first examined the changes in Tfh cells in the spleen of mice on days 3, 7, and 10. The flow cytometric results showed that CTB-OPS<sub>Ba</sub> increased the proportion of these cells in mouse spleens and that the cell proportion increased as the days of antigen stimulation increased (<xref rid="F3" ref-type="fig">Figure 3D</xref>). The changes in germinal center B cells were consistent with those in Tfh cells, and CTB-OPS<sub>Ba</sub> could increase the percentage of germinal center B cells (<xref rid="F3" ref-type="fig">Figure 3E</xref>). Additionally, the Ki67/B220 fluorescence results on day 10 showed significant splenic B-cell proliferation in the CTB-OPS<sub>Ba</sub> group, while no B-cell proliferation was found in the PBS and OPS groups (<xref rid="F3" ref-type="fig">Figure 3F</xref>; <xref rid="s11" ref-type="sec">Supplementary Figure S5</xref>), suggesting that CTB-OPS<sub>Ba</sub> stimulated the proliferation of mouse spleen germinal center B cells, leading to the activation of more B cells. The above results indicate that CTB-OPS<sub>Ba</sub> can effectively stimulate the proliferation of mouse spleen lymphocytes and the humoral immune response.</p>
+      </sec>
+      <sec id="s3-4">
+        <title>3.4 Safety evaluation of bioconjugate vaccine</title>
+        <p>We evaluated the safety of the CTB-OPS<sub>Ba</sub> before proceeding to the mouse immune study. After injecting CTB-OPS<sub>Ba</sub> (25&#xA0;&#x3BC;g polysaccharide, 10 times the normal dose) into each mouse, a series of indicators, including body temperature, body weight, serum cytokines, serum biochemical indices, and tissue and organ pathology were tested during the observation period. Untreated mice were used as a control (<xref rid="F4" ref-type="fig">Figure 4A</xref>). Within 12&#xA0;days of vaccination, both groups of mice maintained normal feeding habits, with similar changes in body temperature and weight (<xref rid="F4" ref-type="fig">Figure 4B</xref>). Meanwhile, we examined serum inflammatory factors, such as TNF-&#x3B1;, IL-6, IL-1&#x3B2;, and IFN-&#x3B3;, in the mice during the 12-day period. As shown in <xref rid="F4" ref-type="fig">Figure 4C</xref>, these inflammatory factors were maintained at a very low level in all mice, with no significant difference between the two groups. On the 12th&#xA0;day after immunization, we measured five biochemical indices (ALT, AST, BUN, LDH, and ALP) in the serum of each mouse, and all were within the normal range (<xref rid="F4" ref-type="fig">Figure 4D</xref>). Furthermore, the spleen, liver and kidney were collected from each mouse, and the HE staining results showed no damage in the CTB-OPS<sub>Ba</sub> treated mice (<xref rid="F4" ref-type="fig">Figure 4E</xref>). These results indicate that CTB-OPS<sub>Ba</sub> prepared in engineered <italic>E. coli</italic> is safe and can be evaluated in subsequent animal experiments.</p>
+        <fig position="float" id="F4">
+          <label>FIGURE 4</label>
+          <caption>
+            <p>Safety evaluation of <italic>B. abortus</italic> candidate bioconjugate vaccine (n = 5). <bold>(A)</bold> Overall procedure of vaccine safety evaluation. <bold>(B)</bold> Body temperature and body weight changes of mice during the observation period. <bold>(C)</bold> Cytokines (including TNF-&#x3B1;, IL-6, IL-1&#x3B2;, and IFN-&#x3B3;) in the serum at different time points. <bold>(D)</bold> Biochemical indices (including ALT, AST, BUN, LDH, and ALP) in the serum 12 days after immunization. <bold>(E)</bold> HE staining analysis of mouse liver, spleen, and kidney samples.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g004" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s3-5">
+        <title>3.5 Evaluation of specific antibodies after immunization with the bioconjugate vaccine</title>
+        <p>To verify whether the CTB-OPS<sub>Ba</sub> could induce specific antibodies against <italic>B. abortus</italic>, BALB/c mice were immunized intraperitoneally with OPS<sub>Ba</sub> (2.5&#xA0;&#xB5;g), CTB-OPS<sub>Ba</sub> (2.5&#xA0;&#xB5;g polysaccharide), CTB alone, and PBS on day 0, 14, and 28. Seven days after each immunization, blood was collected from the tail vein. The levels of IgG antibodies and antibodies against <italic>B. abortus</italic> A19 LPS in the sera were measured by ELISA (<xref rid="F5" ref-type="fig">Figure 5A</xref>). The results showed that both OPS<sub>Ba</sub> and CTB-OPS<sub>Ba</sub> could induce specific antibodies after each immunization, and the titer in the CTB-OPS<sub>Ba</sub> group was significantly higher. Meanwhile, no specific antibodies were observed in the PBS and CTB groups (<xref rid="F5" ref-type="fig">Figure 5B</xref>). Further, we evaluated IgG subtypes (including IgG1, IgG2a, IgG2b, and IgG3) against <italic>B. abortus</italic> A19 LPS after the third immunization. The CTB-OPS<sub>Ba</sub> group showed the highest antibody titer for all subtypes (<xref rid="F5" ref-type="fig">Figure 5C</xref>). The level of IgG1 and 3 and IgG2a and 2b represent the intensity of the Th2 and Th1 immune responses, respectively; thus, CTB as a carrier can enhance the immune response, consistent with the results of previous studies.</p>
+        <fig position="float" id="F5">
+          <label>FIGURE 5</label>
+          <caption>
+            <p>Specific antibody response induced by CTB-OPS<sub>Ba</sub>. <bold>(A)</bold> Immunization schedule for further evaluation. <bold>(B)</bold> On the 7th day after immunization, the IgG antibody titer against <italic>B. abortus</italic> A19 LPS was measured by ELISA. <bold>(C)</bold> Seven days after the third immunization, the IgG subtype antibody titers (IgG1, IgG2a, IgG2b, and IgG3) against <italic>B. abortus</italic> A19 LPS were measured. n = 10, and all data are presented as the mean &#xB1; SD; one-way ANOVA with Dunnett&#x2019;s multiple comparison test was used for comparisons: ****<italic>p</italic> &lt; 0.0001, ***<italic>p</italic> &lt; 0.001, **<italic>p</italic> &lt; 0.01, ns <italic>p</italic> &gt; 0.05.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g005" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s3-6">
+        <title>3.6 Evaluation of bioconjugate vaccine-induced protection after different doses of <italic>B. abortus</italic> A19 infection in mice</title>
+        <p>To further examine the protective effect of CTB-OPS<sub>Ba</sub>, the immunized mice were infected with non-lethal and lethal doses of the <italic>B. abortus</italic> A19 strain, and a series of protective indicators were evaluated (<xref rid="F6" ref-type="fig">Figure 6A</xref>). First, on day 14, after three immunizations, we intraperitoneally injected each group of mice with 2.81 &#xD7; 10<sup>7</sup>&#xA0;CFU&#xA0;<italic>B abortus</italic> A19 per mouse to detect the changes in cytokines (TNF-&#x3B1;, IFN-&#x3B3;, IL-12) after infection. The three inflammatory evidence factors in CTB-OPS<sub>Ba</sub>-immunized mice remained at low levels at all observed time points (<italic>p</italic> &lt; 0.001), while the other groups showed a significant increase after infection, especially in TNF-&#x3B1;, which reached 250&#xA0;pg/mL in the PBS and CTB groups (<xref rid="F6" ref-type="fig">Figure 6B</xref>).</p>
+        <fig position="float" id="F6">
+          <label>FIGURE 6</label>
+          <caption>
+            <p>Evaluation of CTB-OPS<sub>Ba</sub>-mediated protection against different doses of <italic>B. abortus</italic> A19. <bold>(A)</bold> Schematic diagram of the establishment of the infection model and subsequent evaluations. <bold>(B)</bold> After infection with 2.81 &#xD7; 10<sup>7</sup>&#xA0;CFU&#xA0;<italic>B abortus</italic> A19 per mouse, tail vein blood was collected on days 0, 1, 3, 5, and 7, and the levels of TNF-&#x3B1;, IFN-&#x3B3; and IL-12 in the sera were measured by ELISA (n = 10). <bold>(C&#x2013;D)</bold> On the 7th day after infection with 2.81 &#xD7; 10<sup>7</sup>&#xA0;CFU&#xA0;<italic>B abortus</italic> A19 per mouse, the spleens of each mouse were weighed <bold>(C)</bold> and the bacterial load in the spleens was detected (n = 5) <bold>(D)</bold>. <bold>(E)</bold> Spleens were also stained with HE at the 7-day time point as shown in the lower whited-frame image; the white arrows represent multinucleated giant cells. <bold>(F)</bold> On the 7th day after infection, the livers from each mouse were analyzed by HE staining as shown in the yellow-framed images; the yellow circles indicate lymphoproliferative nodules. <bold>(G)</bold> Mice were infected with 2.1 &#xD7; 10<sup>8</sup>&#xA0;CFU&#xA0;<italic>B abortus</italic> A19 per mouse and their survival rates were measured (n = 10). <bold>(H)</bold> The body weight changes of the mice in the CTB-OPS<sub>Ba</sub> group within 14 days were recorded. All data are expressed as the mean &#xB1; SD. One-way ANOVA and Dunnett&#x2019;s multiple comparison test was used for comparisons: ****<italic>p</italic> &lt; 0.0001, ***<italic>p</italic> &lt; 0.001, **<italic>p</italic> &lt; 0.01. Survival was calculated using a log-rank test:****<italic>p</italic> &lt; 0.0001.</p>
+          </caption>
+          <graphic xlink:href="fbioe-11-1121074-g006" position="float"/>
+        </fig>
+        <p>
+<italic>Brucella</italic> infestation mainly colonizes the spleen and the liver, causing a series of associated pathologies. Thus, we collected the spleens of mice on day 7 after infection for weighing, bacterial load assays, and HE staining. These results showed that all mice infected with <italic>B. abortus</italic> A19 had altered spleen indicators compared to the control group. Among them, the CTB-OPS<sub>Ba</sub> group showed the smallest change in spleen weight (<xref rid="F6" ref-type="fig">Figure 6C</xref>; <xref rid="s11" ref-type="sec">Supplementary Figure S6</xref>). Similarly, the CTB-OPS<sub>Ba</sub> group had the lowest spleen bacterial load of approximately 10<sup>3</sup>&#x2013;10<sup>3.3</sup>, which was statistically significant compared to that of the other groups (<xref rid="F6" ref-type="fig">Figure 6D</xref>). HE staining of the spleens of CTB-OPS<sub>Ba</sub> immunized mice revealed that these spleens demonstrated a more pronounced red-white bone marrow border, fewer multinucleated giant cells, and a better-maintained lymphocyte ratio than the spleens from mice in the other groups (<xref rid="F6" ref-type="fig">Figure 6E</xref>). We also performed HE staining of the liver; as expected, the pathological changes in the liver were consistent with those in the spleen (<xref rid="F6" ref-type="fig">Figure 6F</xref>).</p>
+        <p>Finally, after three immunizations, we injected <italic>B. abortus</italic> A19 (2.1 &#xD7; 10<sup>8</sup>&#xA0;CFU/mouse (4 &#xD7; LD50) (<xref rid="B17" ref-type="bibr">Huang et al., 2020</xref>)) intraperitoneally into mice to assess the protective effect of CTB-OPS<sub>Ba</sub> on mice infected with lethal doses. Within 14&#xA0;days after infection, we observed the survival rate of the mice in each group and recorded the body weight changes of the mice in the CTB-OPS<sub>Ba</sub> group. The results showed that all mice in the PBS and CTB groups died on the third day after infection. The survival rate of mice in the OPS<sub>Ba</sub> group was approximately 10%, while the survival rate of mice in the CTB-OPS<sub>Ba</sub> group was 100% (<xref rid="F6" ref-type="fig">Figure 6G</xref>). Mice in the CTB-OPS<sub>Ba</sub> group showed a decreasing trend in body weight during the first 3&#xA0;days after infection (approximately 3&#xA0;g) and gradually recovered on the sixth day (<xref rid="F6" ref-type="fig">Figure 6H</xref>). This result indicated that vaccination of the CTB-OPS<sub>Ba</sub> group could provide excellent protection against <italic>B. abortus</italic> infection.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>4 Discussion</title>
+      <p>Currently, there are two practicable strategies for preparing bioconjugate vaccines using PGCT methods. One is to engineer the targeted pathogenic bacteria into the host strains by knocking out the virulence genes. The advantage of this strategy is that there is no need to clone large fragments of the gene cluster to synthesize antigenic polysaccharides. However, the cultivation conditions of attenuated strains should be optimized in the process of large-scale preparation, and some strains might pose certain biosafety risks. Another method, as used in this study, is to produce conjugate vaccines using engineered <italic>E. coli</italic>. Many reports have shown that <italic>E coli</italic> can be used to produce bioconjugate vaccines against pathogens such as <italic>Shigella dysenteriae</italic>, <italic>Francisella tularensis</italic>, <italic>Burkholderia pseudomallei</italic>, <italic>E. coli O157:H7, S. pneumoniae</italic> (<xref rid="B20" ref-type="bibr">Kay et al., 2016</xref>)<italic>,</italic> and <italic>Klebsiella pneumoniae</italic> (<xref rid="B8" ref-type="bibr">Dow et al., 2020</xref>). The key technical step of this method is obtaining the O antigen synthesis gene cluster, commonly as large DNA fragments that are difficult to clone accurately due to the spontaneous mutations that occur during PCR. The rapid development of synthetic biology techniques has led to the development of novel DNA assembly technologies. For example, the Golden Gate cloning technology used in this study has been successfully applied to rapidly assemble multigene constructs (<xref rid="B9" ref-type="bibr">Engler and Marillonnet, 2014</xref>). Recently, new flexible gene cluster cloning workflows were proposed based on precise DNA cleavage tools (CRISPR system, especially near-PAMless SpCas9 variant SpRY) that can digest the target genome at specific sites even if there are no binding motifs of canonical restriction enzymes adjacent to bases of interest (<xref rid="B5" ref-type="bibr">Christie et al., 2022</xref>).</p>
+      <p>The antigenic polysaccharide synthesis gene clusters of target pathogens introduced into <italic>E coli</italic> host cells remained unchanged with their upstream sequences in most studies on developing bioconjugate vaccines using PGCT. This approach ensures the function of the exogenous genes but cannot regulate the synthesis of polysaccharide antigens. Another improvement in this study is replacing the original promoter with an inducible element, taking the first step forward in precisely controlling exogenous polysaccharides. With the increase in multi-omics data tools, especially quantitative transcriptomics (<xref rid="B32" ref-type="bibr">Ouyang et al., 2020</xref>), gene transcriptional regulatory elements, such as promotors and terminators, can be rationally designed and optimized for the target gene cluster. For example, various promoters with different activities (constitutive promoters or synthetic promoters) could be used to adjust the speed of polysaccharide antigen synthesis and coordinate with carrier protein and glycosyltransferase expression, thereby reducing the growth burden of the host cells and increasing the yield.</p>
+      <p>Most reports using PGCT are focused on carrier proteins used in licensed chemical conjugate vaccines. A different carrier protein rCTB was chosen in this study due to its ability to bind GM1, which is present on the surface of most cells, including macrophages and dendritic cells, to promote the antigen delivery process. The ability to form the correct pentamer (approximately 8&#xA0;nm) is a prerequisite for CTB binding to GM1. We confirmed that protein glycosylation doesn&#x2019;t alter the spatial structure of rCTB. Another advantage of multimeric protein carriers over monomeric carriers is that the antigenic polysaccharide can be intensively displayed and is, thus, easily recognized by antigen-presenting cells. Therefore, the characteristics and nanometer sizes of carrier proteins should be emphasized in the design of bioconjugate vaccines.</p>
+      <p>Host cell engineering is another crucial issue for PGCT technology. To avoid interference caused by endogenous LPS synthesis competing with recombinant glycans, K12-derived <italic>E. coli</italic> (deficient in O antigen synthesis due to mutation) is usually used as the host strain. Further modifications have been made to the basic strains to enhance the efficiency of protein glycosylation. The deletion of <italic>waaL</italic> (encoding the O-antigen ligase WaaL) (<xref rid="B10" ref-type="bibr">Feldman et al., 2005</xref>) and <italic>wecA</italic> (catalyzing initial transfer of N-acetylglucosamine on to the lipid carrier UndP) (<xref rid="B12" ref-type="bibr">Garcia-Quintanilla et al., 2014</xref>; <xref rid="B30" ref-type="bibr">Musumeci et al., 2014</xref>; <xref rid="B19" ref-type="bibr">Kay et al., 2022</xref>) is a widely accepted strategy. The double-mutant strains have been demonstrated to be suitable for the preparation of the bioconjugate vaccines against <italic>F. tularensis</italic> and <italic>B. pseudomallei</italic>. However, knocking out <italic>wecA</italic> isn&#x2019;t suitable for the synthesis of all exogenous polysaccharides (<xref rid="B22" ref-type="bibr">Lehrer et al., 2007</xref>), such as the YeO9 OPS used in this experiment. The synthesis of OPS in YeO9 relies on an ABC transporter-dependent pathway, in which the GlcNAc initiating transferase WecA is required to add the primer monosaccharide to facilitate the following assembly of the adapter and repeat unit domain (<xref rid="B13" ref-type="bibr">Greenfield and Whitfield, 2012</xref>). Therefore, another host strain described recently (<xref rid="B34" ref-type="bibr">Peng et al., 2021</xref>) with the double deletions of <italic>waaL</italic> and <italic>wbbH-L</italic> gene clusters was used in this study, which might be a more suitable engineered strain for bioconjugate vaccine against <italic>B. abortus</italic>.</p>
+      <p>Macrophages are the main target cells for <italic>Brucella</italic> invasion and induce pro-inflammatory responses and the secretion of inflammatory factors (<xref rid="B1" ref-type="bibr">Baldi and Giambartolomei, 2013</xref>), such as TNF-&#x3B1;, IFN-&#x3B3;, and IL-12 (<xref rid="B29" ref-type="bibr">Murphy et al., 2001</xref>). After infection with <italic>B. abortus</italic>, the level of TNF-&#x3B1; will continue to increase, leading to the production of IL-12 and IFN-&#x3B3; (<xref rid="B7" ref-type="bibr">Dorneles et al., 2015</xref>). In this study, the levels of TNF-&#x3B1;, IFN-&#x3B3;, and IL-12 in the serum of mice immunized with CTB-OPS<sub>Ba</sub> remained lower compared to those in the control group, suggesting that vaccinated mice have pre-existing protective antibodies with good bactericidal activity. Two models of <italic>Brucella</italic> infection with different doses were <italic>g</italic>enerated to obtain a more comprehensive assessment of the protective effects of our bioconjugate vaccines. The sublethal challenge simulates the main characteristics of <italic>Brucella</italic> infection by causing spleen and liver tissue damage, such as mild lymphocyte depletion and macrophage infiltration in splenic nodules and liver granuloma production (<xref rid="B14" ref-type="bibr">Grillo et al., 2012</xref>). The lethal challenge is a common model for studying sepsis-causing bacteria and has been used in vaccine research to assess protection against various pathogens. The combination of two infection models can clearly provide more intuitive results for testing vaccine efficacy. It is satisfactory that both of these experiments showed that the bioconjugate vaccines produced here by engineered <italic>E. coli</italic> could effectively protect mice against bacterial infections, suggesting the potential for clinical application.</p>
+      <p>Our study provides a better strategy to address the safety issues in preparing classic <italic>B. abortus</italic> vaccines. Using engineered <italic>E. coli</italic> as a chassis to produce the bioconjugate vaccine against <italic>B. abortus</italic> by PGCT technology significantly reduces the risk of infection and allows for large-scale production. In the future, we will continue to optimize <italic>Brucella</italic> vaccine production <italic>via</italic> engineered <italic>E. coli</italic>. For example, protein antigens expressed by <italic>E coli</italic> host cells can be mixed with the polysaccharide antigens developed in this study, which will provide better protection due to improved cellular immunity.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank LetPub (<ext-link xlink:href="http://www.letpub.com" ext-link-type="uri">www.letpub.com</ext-link>) for its linguistic assistance during the preparation of this manuscript. <xref rid="F1" ref-type="fig">Figures 1A</xref>, <xref rid="F4" ref-type="fig">4A</xref>, <xref rid="F5" ref-type="fig">5A</xref> and <xref rid="F6" ref-type="fig">6A</xref> were all created by <ext-link xlink:href="BioRender.com" ext-link-type="uri">BioRender.com</ext-link>.</p>
+    </ack>
+    <sec sec-type="data-availability" id="s5">
+      <title>Data availability statement</title>
+      <p>The original contributions presented in the study are included in the article/<xref rid="s11" ref-type="sec">Supplementary Material</xref>, further inquiries can be directed to the corresponding authors.</p>
+    </sec>
+    <sec id="s6">
+      <title>Ethics statement</title>
+      <p>The animal study was reviewed and approved by Academy of Military Medical Sciences Institutional Animal Care and Use Committee (ethics approval code IACUC-DWZX-2021-008). Written informed consent was obtained from the owners for the participation of their animals in this study.</p>
+    </sec>
+    <sec id="s7">
+      <title>Author contributions</title>
+      <p>Conceptualization and project administration: YW, LZ, and HW; carried out experiments and data analysis, SL and JH; methodology, KW, YL, and XL; software, SL; validation, JW and PS; data curation, YG; writing&#x2013;original draft preparation, SL and JH; writing&#x2013;review and editing, YW, LZ, and HW; funding acquisition, LZ and HW All authors have read and agreed to the published version of the manuscript.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="s9">
+      <title>Conflict of interest</title>
+      <p>JH was employed by Beijing Minhai Biotechnology Co., Ltd.</p>
+      <p>The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      <p>The handling editor, WG, declared a shared parent affiliation with the authors SL, YF, at the time of review.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s10">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <sec id="s11">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fbioe.2023.1121074/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fbioe.2023.1121074/full#supplementary-material</ext-link>
+</p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <media xlink:href="DataSheet1.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldi</surname><given-names>P. C.</given-names></name><name><surname>Giambartolomei</surname><given-names>G. H.</given-names></name></person-group> (<year>2013</year>). <article-title>Immunopathology of Brucella infection</article-title>. <source>Recent Pat. Antiinfect Drug Discov.</source>
+<volume>8</volume>, <fpage>18</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.2174/1574891x11308010005</pub-id>
+<pub-id pub-id-type="pmid">22812614</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beddoe</surname><given-names>T.</given-names></name><name><surname>Paton</surname><given-names>A. W.</given-names></name><name><surname>Le Nours</surname><given-names>J.</given-names></name><name><surname>Rossjohn</surname><given-names>J.</given-names></name><name><surname>Paton</surname><given-names>J. C.</given-names></name></person-group> (<year>2010</year>). <article-title>Structure, biological functions and applications of the AB5 toxins</article-title>. <source>Trends Biochem. Sci.</source>
+<volume>35</volume>, <fpage>411</fpage>&#x2013;<lpage>418</lpage>. <pub-id pub-id-type="doi">10.1016/j.tibs.2010.02.003</pub-id>
+<pub-id pub-id-type="pmid">20202851</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berti</surname><given-names>F.</given-names></name><name><surname>Adamo</surname><given-names>R.</given-names></name></person-group> (<year>2018</year>). <article-title>Antimicrobial glycoconjugate vaccines: An overview of classic and modern approaches for protein modification</article-title>. <source>Chem. Soc. Rev.</source>
+<volume>47</volume>, <fpage>9015</fpage>&#x2013;<lpage>9025</lpage>. <pub-id pub-id-type="doi">10.1039/c8cs00495a</pub-id>
+<pub-id pub-id-type="pmid">30277489</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bundle</surname><given-names>D. R.</given-names></name><name><surname>Cherwonogrodzky</surname><given-names>J. W.</given-names></name><name><surname>Gidney</surname><given-names>M. A.</given-names></name><name><surname>Meikle</surname><given-names>P. J.</given-names></name><name><surname>Perry</surname><given-names>M. B.</given-names></name><name><surname>Peters</surname><given-names>T.</given-names></name></person-group> (<year>1989</year>). <article-title>Definition of Brucella A and M epitopes by monoclonal typing reagents and synthetic oligosaccharides</article-title>. <source>Infect. Immun.</source>
+<volume>57</volume>, <fpage>2829</fpage>&#x2013;<lpage>2836</lpage>. <pub-id pub-id-type="doi">10.1128/iai.57.9.2829-2836.1989</pub-id>
+<pub-id pub-id-type="pmid">2474505</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Christie</surname><given-names>K. A.</given-names></name><name><surname>Guo</surname><given-names>J. A.</given-names></name><name><surname>Silverstein</surname><given-names>R. A.</given-names></name><name><surname>Doll</surname><given-names>R. M.</given-names></name><name><surname>Mabuchi</surname><given-names>M.</given-names></name><name><surname>Stutzman</surname><given-names>H. E.</given-names></name><etal/></person-group> (<year>2022</year>). <article-title>Precise DNA cleavage using CRISPR-SpRYgests</article-title>. <source>Nat. Biotechnol</source>. <pub-id pub-id-type="doi">10.1038/s41587-022-01492-y</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Figueiredo</surname><given-names>P.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name><name><surname>Rice-Ficht</surname><given-names>A.</given-names></name><name><surname>Rossetti</surname><given-names>C. A.</given-names></name><name><surname>Adams</surname><given-names>L. G.</given-names></name></person-group> (<year>2015</year>). <article-title>Pathogenesis and immunobiology of brucellosis: Review of brucella-host interactions</article-title>. <source>Am. J. Pathol.</source>
+<volume>185</volume>, <fpage>1505</fpage>&#x2013;<lpage>1517</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>
+<pub-id pub-id-type="pmid">25892682</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dorneles</surname><given-names>E. M.</given-names></name><name><surname>Teixeira-Carvalho</surname><given-names>A.</given-names></name><name><surname>Araujo</surname><given-names>M. S.</given-names></name><name><surname>Sriranganathan</surname><given-names>N.</given-names></name><name><surname>Lage</surname><given-names>A. P.</given-names></name></person-group> (<year>2015</year>). <article-title>Immune response triggered by Brucella abortus following infection or vaccination</article-title>. <source>Vaccine</source>
+<volume>33</volume>, <fpage>3659</fpage>&#x2013;<lpage>3666</lpage>. <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.05.057</pub-id>
+<pub-id pub-id-type="pmid">26048781</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dow</surname><given-names>J. M.</given-names></name><name><surname>Mauri</surname><given-names>M.</given-names></name><name><surname>Scott</surname><given-names>T. A.</given-names></name><name><surname>Wren</surname><given-names>B. W.</given-names></name></person-group> (<year>2020</year>). <article-title>Improving protein glycan coupling technology (PGCT) for glycoconjugate vaccine production</article-title>. <source>Expert Rev. Vaccines</source>
+<volume>19</volume>, <fpage>507</fpage>&#x2013;<lpage>527</lpage>. <pub-id pub-id-type="doi">10.1080/14760584.2020.1775077</pub-id>
+<pub-id pub-id-type="pmid">32627609</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Engler</surname><given-names>C.</given-names></name><name><surname>Marillonnet</surname><given-names>S.</given-names></name></person-group> (<year>2014</year>). <article-title>Golden gate cloning</article-title>. <source>Methods Mol. Biol.</source>
+<volume>1116</volume>, <fpage>119</fpage>&#x2013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1007/978-1-62703-764-8_9</pub-id>
+<pub-id pub-id-type="pmid">24395361</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feldman</surname><given-names>M. F.</given-names></name><name><surname>Wacker</surname><given-names>M.</given-names></name><name><surname>Hernandez</surname><given-names>M.</given-names></name><name><surname>Hitchen</surname><given-names>P. G.</given-names></name><name><surname>Marolda</surname><given-names>C. L.</given-names></name><name><surname>Kowarik</surname><given-names>M.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>Engineering N-linked protein glycosylation with diverse O antigen lipopolysaccharide structures in <italic>Escherichia coli</italic>
+</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>102</volume>, <fpage>3016</fpage>&#x2013;<lpage>3021</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0500044102</pub-id>
+<pub-id pub-id-type="pmid">15703289</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galindo</surname><given-names>C. L.</given-names></name><name><surname>Rosenzweig</surname><given-names>J. A.</given-names></name><name><surname>Kirtley</surname><given-names>M. L.</given-names></name><name><surname>Chopra</surname><given-names>A. K.</given-names></name></person-group> (<year>2011</year>). <article-title>Pathogenesis of Y. Enterocolitica and Y. Pseudotuberculosis in human yersiniosis</article-title>. <source>J. Pathog.</source>
+<volume>2011</volume>, <fpage>182051</fpage>&#x2013;<lpage>182116</lpage>. <pub-id pub-id-type="doi">10.4061/2011/182051</pub-id>
+<pub-id pub-id-type="pmid">22567322</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garcia-Quintanilla</surname><given-names>F.</given-names></name><name><surname>Iwashkiw</surname><given-names>J. A.</given-names></name><name><surname>Price</surname><given-names>N. L.</given-names></name><name><surname>Stratilo</surname><given-names>C.</given-names></name><name><surname>Feldman</surname><given-names>M. F.</given-names></name></person-group> (<year>2014</year>). <article-title>Production of a recombinant vaccine candidate against Burkholderia pseudomallei exploiting the bacterial N-glycosylation machinery</article-title>. <source>Front. Microbiol.</source>
+<volume>5</volume>, <fpage>381</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2014.00381</pub-id>
+<pub-id pub-id-type="pmid">25120536</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenfield</surname><given-names>L. K.</given-names></name><name><surname>Whitfield</surname><given-names>C.</given-names></name></person-group> (<year>2012</year>). <article-title>Synthesis of lipopolysaccharide O-antigens by ABC transporter-dependent pathways</article-title>. <source>Carbohydr. Res.</source>
+<volume>356</volume>, <fpage>12</fpage>&#x2013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.carres.2012.02.027</pub-id>
+<pub-id pub-id-type="pmid">22475157</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grillo</surname><given-names>M. J.</given-names></name><name><surname>Blasco</surname><given-names>J. M.</given-names></name><name><surname>Gorvel</surname><given-names>J. P.</given-names></name><name><surname>Moriyon</surname><given-names>I.</given-names></name><name><surname>Moreno</surname><given-names>E.</given-names></name></person-group> (<year>2012</year>). <article-title>What have we learned from brucellosis in the mouse model?</article-title>
+<source>Vet. Res.</source>
+<volume>43</volume>, <fpage>29</fpage>. <pub-id pub-id-type="doi">10.1186/1297-9716-43-29</pub-id>
+<pub-id pub-id-type="pmid">22500859</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harding</surname><given-names>C. M.</given-names></name><name><surname>Feldman</surname><given-names>M. F.</given-names></name></person-group> (<year>2019</year>). <article-title>Glycoengineering bioconjugate vaccines, therapeutics, and diagnostics in <italic>E. coli</italic>
+</article-title>. <source>Glycobiology</source>
+<volume>29</volume>, <fpage>519</fpage>&#x2013;<lpage>529</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwz031</pub-id>
+<pub-id pub-id-type="pmid">30989179</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harding</surname><given-names>C. M.</given-names></name><name><surname>Nasr</surname><given-names>M. A.</given-names></name><name><surname>Scott</surname><given-names>N. E.</given-names></name><name><surname>Goyette-Desjardins</surname><given-names>G.</given-names></name><name><surname>Nothaft</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>A. E.</given-names></name><etal/></person-group> (<year>2019</year>). <article-title>A platform for glycoengineering a polyvalent pneumococcal bioconjugate vaccine using <italic>E. coli</italic> as a host</article-title>. <source>Nat. Commun.</source>
+<volume>10</volume>, <fpage>891</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-019-08869-9</pub-id>
+<pub-id pub-id-type="pmid">30792408</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>J.</given-names></name><name><surname>Pan</surname><given-names>C.</given-names></name><name><surname>Sun</surname><given-names>P.</given-names></name><name><surname>Feng</surname><given-names>E.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Zhu</surname><given-names>L.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Application of an O-linked glycosylation system in Yersinia enterocolitica serotype O:9 to generate a new candidate vaccine against Brucella abortus</article-title>. <source>Microorganisms</source>
+<volume>8</volume>, <fpage>436</fpage>. <pub-id pub-id-type="doi">10.3390/microorganisms8030436</pub-id>
+<pub-id pub-id-type="pmid">32244903</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iwashkiw</surname><given-names>J. A.</given-names></name><name><surname>Fentabil</surname><given-names>M. A.</given-names></name><name><surname>Faridmoayer</surname><given-names>A.</given-names></name><name><surname>Mills</surname><given-names>D. C.</given-names></name><name><surname>Peppler</surname><given-names>M.</given-names></name><name><surname>Czibener</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2012</year>). <article-title>Exploiting the Campylobacter jejuni protein glycosylation system for glycoengineering vaccines and diagnostic tools directed against brucellosis</article-title>. <source>Microb. Cell Fact.</source>
+<volume>11</volume>, <fpage>13</fpage>. <pub-id pub-id-type="doi">10.1186/1475-2859-11-13</pub-id>
+<pub-id pub-id-type="pmid">22276812</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kay</surname><given-names>E. J.</given-names></name><name><surname>Mauri</surname><given-names>M.</given-names></name><name><surname>Willcocks</surname><given-names>S. J.</given-names></name><name><surname>Scott</surname><given-names>T. A.</given-names></name><name><surname>Cuccui</surname><given-names>J.</given-names></name><name><surname>Wren</surname><given-names>B. W.</given-names></name></person-group> (<year>2022</year>). <article-title>Engineering a suite of <italic>E. coli</italic> strains for enhanced expression of bacterial polysaccharides and glycoconjugate vaccines</article-title>. <source>Microb. Cell Fact.</source>
+<volume>21</volume>, <fpage>66</fpage>. <pub-id pub-id-type="doi">10.1186/s12934-022-01792-7</pub-id>
+<pub-id pub-id-type="pmid">35449016</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kay</surname><given-names>E. J.</given-names></name><name><surname>Yates</surname><given-names>L. E.</given-names></name><name><surname>Terra</surname><given-names>V. S.</given-names></name><name><surname>Cuccui</surname><given-names>J.</given-names></name><name><surname>Wren</surname><given-names>B. W.</given-names></name></person-group> (<year>2016</year>). <article-title>Recombinant expression of Streptococcus pneumoniae capsular polysaccharides in <italic>Escherichia coli</italic>
+</article-title>. <source>Open Biol.</source>
+<volume>6</volume>, <fpage>150243</fpage>. <pub-id pub-id-type="doi">10.1098/rsob.150243</pub-id>
+<pub-id pub-id-type="pmid">27110302</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Le Guern</surname><given-names>A. S.</given-names></name><name><surname>Martin</surname><given-names>L.</given-names></name><name><surname>Savin</surname><given-names>C.</given-names></name><name><surname>Carniel</surname><given-names>E.</given-names></name></person-group> (<year>2016</year>). <article-title>Yersiniosis in France: Overview and potential sources of infection</article-title>. <source>Int. J. Infect. Dis.</source>
+<volume>46</volume>, <fpage>1</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijid.2016.03.008</pub-id>
+<pub-id pub-id-type="pmid">26987478</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lehrer</surname><given-names>J.</given-names></name><name><surname>Vigeant</surname><given-names>K. A.</given-names></name><name><surname>Tatar</surname><given-names>L. D.</given-names></name><name><surname>Valvano</surname><given-names>M. A.</given-names></name></person-group> (<year>2007</year>). <article-title>Functional characterization and membrane topology of <italic>Escherichia coli</italic> WecA, a sugar-phosphate transferase initiating the biosynthesis of enterobacterial common antigen and O-antigen lipopolysaccharide</article-title>. <source>J. Bacteriol.</source>
+<volume>189</volume>, <fpage>2618</fpage>&#x2013;<lpage>2628</lpage>. <pub-id pub-id-type="doi">10.1128/jb.01905-06</pub-id>
+<pub-id pub-id-type="pmid">17237164</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Pan</surname><given-names>C.</given-names></name><name><surname>Liu</surname><given-names>Z.</given-names></name><name><surname>Sun</surname><given-names>P.</given-names></name><name><surname>Hua</surname><given-names>X.</given-names></name><name><surname>Feng</surname><given-names>E.</given-names></name><etal/></person-group> (<year>2022</year>). <article-title>Safety and immunogenicity of a new glycoengineered vaccine against Acinetobacter baumannii in mice</article-title>. <source>Microb. Biotechnol.</source>
+<volume>15</volume>, <fpage>703</fpage>&#x2013;<lpage>716</lpage>. <pub-id pub-id-type="doi">10.1111/1751-7915.13770</pub-id>
+<pub-id pub-id-type="pmid">33755314</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linton</surname><given-names>D.</given-names></name><name><surname>Dorrell</surname><given-names>N.</given-names></name><name><surname>Hitchen</surname><given-names>P. G.</given-names></name><name><surname>Amber</surname><given-names>S.</given-names></name><name><surname>Karlyshev</surname><given-names>A. V.</given-names></name><name><surname>Morris</surname><given-names>H. R.</given-names></name><etal/></person-group> (<year>2005</year>). <article-title>Functional analysis of the Campylobacter jejuni N-linked protein glycosylation pathway</article-title>. <source>Mol. Microbiol.</source>
+<volume>55</volume>, <fpage>1695</fpage>&#x2013;<lpage>1703</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2958.2005.04519.x</pub-id>
+<pub-id pub-id-type="pmid">15752194</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Masjedian Jezi</surname><given-names>F.</given-names></name><name><surname>Razavi</surname><given-names>S.</given-names></name><name><surname>Mirnejad</surname><given-names>R.</given-names></name><name><surname>Zamani</surname><given-names>K.</given-names></name></person-group> (<year>2019</year>). <article-title>Immunogenic and protective antigens of Brucella as vaccine candidates</article-title>. <source>Comp. Immunol. Microbiol. Infect. Dis.</source>
+<volume>65</volume>, <fpage>29</fpage>&#x2013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.cimid.2019.03.015</pub-id>
+<pub-id pub-id-type="pmid">31300122</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mettu</surname><given-names>R.</given-names></name><name><surname>Chen</surname><given-names>C. Y.</given-names></name><name><surname>Wu</surname><given-names>C. Y.</given-names></name></person-group> (<year>2020</year>). <article-title>Synthetic carbohydrate-based vaccines: Challenges and opportunities</article-title>. <source>J. Biomed. Sci.</source>
+<volume>27</volume>, <fpage>9</fpage>. <pub-id pub-id-type="doi">10.1186/s12929-019-0591-0</pub-id>
+<pub-id pub-id-type="pmid">31900143</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mirnejad</surname><given-names>R.</given-names></name><name><surname>Jazi</surname><given-names>F. M.</given-names></name><name><surname>Mostafaei</surname><given-names>S.</given-names></name><name><surname>Sedighi</surname><given-names>M.</given-names></name></person-group> (<year>2017</year>). <article-title>Epidemiology of brucellosis in Iran: A comprehensive systematic review and meta-analysis study</article-title>. <source>Microb. Pathog.</source>
+<volume>109</volume>, <fpage>239</fpage>&#x2013;<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1016/j.micpath.2017.06.005</pub-id>
+<pub-id pub-id-type="pmid">28602839</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morais</surname><given-names>V.</given-names></name><name><surname>Suarez</surname><given-names>N.</given-names></name></person-group> (<year>2022</year>). <article-title>Conjugation mechanism for pneumococcal glycoconjugate vaccines: Classic and emerging methods</article-title>. <source>Bioeng. (Basel)</source>
+<volume>9</volume> (<issue>12</issue>), <fpage>774</fpage>. <pub-id pub-id-type="doi">10.3390/bioengineering9120774</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murphy</surname><given-names>E. A.</given-names></name><name><surname>Parent</surname><given-names>M.</given-names></name><name><surname>Sathiyaseelan</surname><given-names>J.</given-names></name><name><surname>Jiang</surname><given-names>X.</given-names></name><name><surname>Baldwin</surname><given-names>C. L.</given-names></name></person-group> (<year>2001</year>). <article-title>Immune control of Brucella abortus 2308 infections in BALB/c mice</article-title>. <source>FEMS Immunol. Med. Microbiol.</source>
+<volume>32</volume>, <fpage>85</fpage>&#x2013;<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-695x.2001.tb00536.x</pub-id>
+<pub-id pub-id-type="pmid">11750226</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Musumeci</surname><given-names>M. A.</given-names></name><name><surname>Faridmoayer</surname><given-names>A.</given-names></name><name><surname>Watanabe</surname><given-names>Y.</given-names></name><name><surname>Feldman</surname><given-names>M. F.</given-names></name></person-group> (<year>2014</year>). <article-title>Evaluating the role of conserved amino acids in bacterial O-oligosaccharyltransferases by <italic>in vivo</italic>, <italic>in vitro</italic> and limited proteolysis assays</article-title>. <source>Glycobiology</source>
+<volume>24</volume>, <fpage>39</fpage>&#x2013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1093/glycob/cwt087</pub-id>
+<pub-id pub-id-type="pmid">24092836</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nothaft</surname><given-names>H.</given-names></name><name><surname>Szymanski</surname><given-names>C. M.</given-names></name></person-group> (<year>2010</year>). <article-title>Protein glycosylation in bacteria: Sweeter than ever</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>8</volume>, <fpage>765</fpage>&#x2013;<lpage>778</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2383</pub-id>
+<pub-id pub-id-type="pmid">20948550</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ouyang</surname><given-names>Q.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>N.</given-names></name><name><surname>Zhong</surname><given-names>L.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Ding</surname><given-names>X.</given-names></name><etal/></person-group> (<year>2020</year>). <article-title>Promoter screening facilitates heterologous production of complex secondary metabolites in burkholderiales strains</article-title>. <source>ACS Synth. Biol.</source>
+<volume>9</volume>, <fpage>457</fpage>&#x2013;<lpage>460</lpage>. <pub-id pub-id-type="doi">10.1021/acssynbio.9b00459</pub-id>
+<pub-id pub-id-type="pmid">31999442</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pan</surname><given-names>C.</given-names></name><name><surname>Sun</surname><given-names>P.</given-names></name><name><surname>Liu</surname><given-names>B.</given-names></name><name><surname>Liang</surname><given-names>H.</given-names></name><name><surname>Peng</surname><given-names>Z.</given-names></name><name><surname>Dong</surname><given-names>Y.</given-names></name><etal/></person-group> (<year>2016</year>). <article-title>Biosynthesis of conjugate vaccines using an O-linked glycosylation system</article-title>. <source>mBio</source>
+<volume>7</volume>, <fpage>e00443</fpage>&#x2013;<lpage>e00416</lpage>. <pub-id pub-id-type="doi">10.1128/mbio.00443-16</pub-id>
+<pub-id pub-id-type="pmid">27118590</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peng</surname><given-names>Z.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Sun</surname><given-names>P.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><etal/></person-group> (<year>2021</year>). <article-title>Production of a promising biosynthetic self-assembled nanoconjugate vaccine against Klebsiella pneumoniae serotype O2 in a general Escherichia coli host</article-title>. <source>Adv. Sci. (Weinh)</source>
+<volume>8</volume>, <fpage>e2100549</fpage>. <pub-id pub-id-type="doi">10.1002/advs.202100549</pub-id>
+<pub-id pub-id-type="pmid">34032027</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rivas</surname><given-names>L.</given-names></name><name><surname>Strydom</surname><given-names>H.</given-names></name><name><surname>Paine</surname><given-names>S.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Wright</surname><given-names>J.</given-names></name></person-group> (<year>2021</year>). <article-title>Yersiniosis in New Zealand</article-title>. <source>Pathogens</source>
+<volume>10</volume> (<issue>2</issue>), <fpage>191</fpage>. <pub-id pub-id-type="doi">10.3390/pathogens10020191</pub-id>
+<pub-id pub-id-type="pmid">33578727</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skurnik</surname><given-names>M.</given-names></name><name><surname>Biedzka-Sarek</surname><given-names>M.</given-names></name><name><surname>Lubeck</surname><given-names>P. S.</given-names></name><name><surname>Blom</surname><given-names>T.</given-names></name><name><surname>Bengoechea</surname><given-names>J. A.</given-names></name><name><surname>Perez-Gutierrez</surname><given-names>C.</given-names></name><etal/></person-group> (<year>2007</year>). <article-title>Characterization and biological role of the O-polysaccharide gene cluster of Yersinia enterocolitica serotype O:9</article-title>. <source>J. Bacteriol.</source>
+<volume>189</volume>, <fpage>7244</fpage>&#x2013;<lpage>7253</lpage>. <pub-id pub-id-type="doi">10.1128/jb.00605-07</pub-id>
+<pub-id pub-id-type="pmid">17693522</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>P.</given-names></name><name><surname>Pan</surname><given-names>C.</given-names></name><name><surname>Zeng</surname><given-names>M.</given-names></name><name><surname>Liu</surname><given-names>B.</given-names></name><name><surname>Liang</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>D.</given-names></name><etal/></person-group> (<year>2018</year>). <article-title>Design and production of conjugate vaccines against S. Paratyphi A using an O-linked glycosylation system <italic>in vivo</italic>
+</article-title>. <source>NPJ Vaccines</source>
+<volume>3</volume>, <fpage>4</fpage>. <pub-id pub-id-type="doi">10.1038/s41541-017-0037-1</pub-id>
+<pub-id pub-id-type="pmid">29423317</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Von Bargen</surname><given-names>K.</given-names></name><name><surname>Gorvel</surname><given-names>J. P.</given-names></name><name><surname>Salcedo</surname><given-names>S. P.</given-names></name></person-group> (<year>2012</year>). <article-title>Internal affairs: Investigating the Brucella intracellular lifestyle</article-title>. <source>FEMS Microbiol. Rev.</source>
+<volume>36</volume>, <fpage>533</fpage>&#x2013;<lpage>562</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6976.2012.00334.x</pub-id>
+<pub-id pub-id-type="pmid">22373010</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

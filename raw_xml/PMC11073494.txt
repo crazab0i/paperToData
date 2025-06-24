@@ -1,0 +1,957 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Front Med (Lausanne)</journal-id><journal-id journal-id-type="iso-abbrev">Front Med (Lausanne)</journal-id><journal-id journal-id-type="publisher-id">Front. Med.</journal-id><journal-title-group><journal-title>Frontiers in Medicine</journal-title></journal-title-group><issn pub-type="epub">2296-858X</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38711779</article-id><article-id pub-id-type="pmc">11073494</article-id><article-id pub-id-type="doi">10.3389/fmed.2024.1363785</article-id><article-categories><subj-group subj-group-type="heading"><subject>Medicine</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Investigating the mechanism of rough phenotype in a naturally attenuated <italic>Brucella</italic> strain: insights from whole genome sequencing</article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Han</surname><given-names>Wendong</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref><uri xlink:href="http://loop.frontiersin.org/people/1139516/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Wei</surname><given-names>Dong</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Zhiping</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/data-curation/"/><role content-type="https://credit.niso.org/contributor-roles/software/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Qu</surname><given-names>Di</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xlink:href="http://loop.frontiersin.org/people/498656/overview"/><role content-type="https://credit.niso.org/contributor-roles/project-administration/"/><role content-type="https://credit.niso.org/contributor-roles/supervision/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>BSL-3 Laboratory of Fudan University, Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), Department of Medical Microbiology and Parasitology, School of Basic Medical Sciences, Shanghai Medical College, Fudan University</institution>, <addr-line>Shanghai</addr-line>, <country>China</country></aff><aff id="aff2"><sup>2</sup><institution>Division of Tuberculosis Vaccines and Allergen, National Institute for Food and Drug Control</institution>, <addr-line>Beijing</addr-line>, <country>China</country></aff><aff id="aff3"><sup>3</sup><institution>Shanghai Institute of Infectious Diseases and Biosecurity, Shanghai Medical College, Fudan University</institution>, <addr-line>Shanghai</addr-line>, <country>China</country></aff><author-notes><fn fn-type="edited-by"><p>Edited by: Jianguo Tang, Fudan University, China</p></fn><fn fn-type="edited-by"><p>Reviewed by: Ivan &#x160;o&#x161;a, University of Rijeka, Croatia</p><p>Lili Zhou, First Affiliated Hospital of Jilin University, China</p><p>Gang Ye, Sichuan Agricultural University, China</p></fn><corresp id="c001">*Correspondence: Di Qu <email>dqu@shmu.edu.cn</email></corresp><fn fn-type="equal" id="fn001"><p>&#x2020;These authors have contributed equally to this work and share first authorship</p></fn></author-notes><pub-date pub-type="epub"><day>22</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>11</volume><elocation-id>1363785</elocation-id><history><date date-type="received"><day>31</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>23</day><month>2</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 Han, Wei, Sun and Qu.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Han, Wei, Sun and Qu</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><sec><title>Objective</title><p>Brucellosis, a significant zoonotic disease, not only impacts animal health but also profoundly influences the host immune responses through gut microbiome. Our research focuses on whole genome sequencing and comparative genomic analysis of these <italic>Brucella</italic> strains to understand the mechanisms of their virulence changes that may deepen our comprehension of the host immune dysregulation.</p></sec><sec><title>Methods</title><p>The <italic>Brucella melitensis</italic> strain CMCC55210 and its naturally attenuated variant CMCC55210a were used as models. Biochemical identification tests and <italic>in vivo</italic> experiments in mice verified the characteristics of the strain. To understand the mechanism of attenuation, we then performed <italic>de novo</italic> sequencing of these two strains.</p></sec><sec><title>Results</title><p>We discovered notable genomic differences between the two strains, with a key single nucleotide polymorphism (SNP) mutation in the <italic>manB</italic> gene potentially altering lipopolysaccharide (LPS) structure and influencing host immunity to the pathogen. This mutation might contribute to the attenuated strain's altered impact on the host's macrophage immune response, overing insights into the mechanisms of immune dysregulation linked to intracellular survival. Furthermore, we explore that manipulating the Type I restriction-modification system in <italic>Brucella</italic> can significantly impact its genome stability with the DNA damage response, consequently affecting the host's immune system.</p></sec><sec><title>Conclusion</title><p>This study not only contributes to understanding the complex relationship between pathogens, and the immune system but also opens avenues for innovative therapeutic interventions in inflammatory diseases driven by microbial and immune dysregulation.</p></sec></abstract><kwd-group><kwd><italic>Brucella melitensis</italic></kwd><kwd><italic>de novo</italic> sequencing</kwd><kwd>comparative genomic analysis</kwd><kwd>attenuated strain</kwd><kwd>LPS</kwd></kwd-group><funding-group><funding-statement>The author(s) declare that financial support was received for the research, authorship, and/or publication of this article. This study was kindly funded by Major Scientific and Technological Special Project on Prevention and Control of Major Infectious Diseases such as AIDS and Viral Hepatitis (No. 2012ZX10003008-010).</funding-statement></funding-group><counts><fig-count count="12"/><table-count count="3"/><equation-count count="0"/><ref-count count="55"/><page-count count="18"/><word-count count="10033"/></counts><custom-meta-group><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Pathology</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>1 Introduction</title>
+      <p><italic>Brucella</italic>, a genus of Gram-negative facultative intracellular bacteria, can survive and replicate in host macrophages. <italic>Brucella</italic> infection may result in host brucellosis, a disease characterized by abortion and sterility in livestock, as well as undulant fever, arthritis, and neuro-inflammations in humans. With 500,000 human annual cases globally reported (<xref rid="B1" ref-type="bibr">1</xref>), the World Health Organization ranks <italic>brucellosis</italic> as &#x201C;neglected zoonosis&#x201D; (<xref rid="B2" ref-type="bibr">2</xref>). <italic>Brucellosis</italic> can be transmitted to humans through contact with aborted animal fetuses, inhalation of bacterial aerosols, or consumption of contaminated milk and dairy products. There are currently 12 <italic>Brucella</italic> species identified in nature; of them, <italic>Brucella melitensis</italic> (<italic>BM</italic>)<italic>, Brucella abortus</italic> (<italic>BA</italic>), <italic>Brucella suis</italic> (<italic>BS</italic>), and <italic>Brucella canis</italic> (<italic>BC</italic>) are the significant pathogens resulting in public health challenges and economic implications.</p>
+      <p><italic>Brucella</italic> spp. are known to enter the body primarily through the gastrointestinal tract, where they encounter various barriers and immune responses. Upon reaching the gastrointestinal tract, <italic>Brucella</italic> spp. face the acidic pH of the stomach and the antimicrobial action of bile salts in the small intestine. Crossing the intestinal epithelial barrier involves interactions with M cells, which are specialized for antigen uptake. The gut-associated lymphoid tissue (GALT) plays a crucial role in the immune response to <italic>Brucella</italic>, with dendritic cells and macrophages in the lamina propria participating in antigen presentation and activation of T and B lymphocytes. Furthermore, the gut microbiome's role in systemic immunity is increasingly recognized, with 70%&#x2212;80% of immune cells being present in the gut. Nutrition has a significant impact on the composition of the gut microbiota and, subsequently, on the immune system, highlighting the potential of dietary strategies in enhancing immune responses and treatment outcomes for infectious diseases.</p>
+      <p>Vaccination is a critical, general, and cost-effective approach for <italic>Brucellosis</italic> control and eradication compared with specific anti-<italic>Brucella</italic> drugs. Still, there has been no successful vaccine for human <italic>brucellosis</italic> till now (<xref rid="B3" ref-type="bibr">3</xref>). Therefore, human brucellosis can be controlled only by decreasing brucellosis in animals. The currently applied animal vaccines are RB51, S19, Rev.1, S2, and SR82. For example, the strain <italic>BA</italic> RB51, approved in 1996 for cattle, is a rough, genetically stable, attenuated, spontaneous mutant of virulent <italic>BA</italic> 2308. The rough phenotype of RB51 is due to the mutation of <italic>wboA</italic> that encodes a glycosyltransferase, a key protein of O antigen synthesis, disrupted by an IS711 element (<xref rid="B4" ref-type="bibr">4</xref>). Widespread use of commercial vaccines has dramatically reduced the incidence of <italic>brucellosis</italic>, but these vaccines still have disadvantages such as residual virulence, longer survival periods in natural hosts, antibiotic resistance, and interference with conventional serological tests. Whole genome sequencing and genome comparative analysis of spontaneous attenuated strains offer a pathway for developing ideal vaccines against <italic>brucellosis</italic> and understanding the mechanisms of the mutant function.</p>
+      <p>In this study, we obtained a spontaneously rough strain named CMCC55210a, which evolved from the smooth strain <italic>BM</italic> CMCC55210. Subsequently, biochemical identification tests and <italic>in vivo</italic> experiments in mice verified the strain to be stable and attenuated. To understand the mechanism of attenuation, we then performed <italic>de novo</italic> sequencing of these two strains. Through comparative genomic analysis, a possible mechanism of virulence reduction from single nucleotide mutation in phosphomannomutase encoding gene <italic>manB</italic> was shown at the gene level. Further studies should be performed to evaluate the immunogenicity, safety, and protection of strain CMCC55210a as a vaccine candidate.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>2 Materials and methods</title>
+      <sec>
+        <title>2.1 <italic>Brucella</italic> strains and culture</title>
+        <p><italic>Brucella melitensis</italic> is a Gram-negative coccobacillus in the family <italic>Brucellaceae</italic> (class Alphaproteobacteria). There are three biovars, 1&#x2013;3. <italic>Brucella abortus</italic> and <italic>B. suis</italic> have been found occasionally in small ruminants, but clinical cases caused by these organisms seem to be rare. <italic>Brucella melitensis</italic> is zoonotic. Small ruminants often acquire <italic>B. melitensis</italic> by contact with organisms in vaginal discharges and birth products (e.g., placenta, fetus, and fetal fluids). Most animals are thought to become infected by ingestion and through the oronasal and conjunctival mucosa, but this organism can also be transmitted venereally and through broken skin. <italic>Brucella</italic> spp. are readily killed by most commonly available disinfectants, including hypochlorite solutions, sodium hydroxide, quaternary ammonium compounds, 70% ethanol, isopropanol, iodophors, phenolic disinfectants, formaldehyde, glutaraldehyde, and xylene.</p>
+        <p>A smooth virulence strain of <italic>BM</italic> CMCC55210 was provided by the National Center for Medical Culture Collections (CMCC) of China, originally from the Animal Health and Veterinary Laboratories Agency of the UK. <italic>Brucella</italic> phages Tb, Wb, Fi, and BK2 were from the China National Institutes for Food and Drug Control.</p>
+        <p><italic>Brucella</italic> strains were cultivated in tryptic soy broth (TSB; tryptic soy broth, BD Difco, USA) or on tryptic soy agar (TSA) plates (tryptic soy agar, BD Difco, USA) and stored in TSB with 20% (v/v) glycerol (Sigma-Aldrich, USA) at &#x2212;80&#xB0;C. The bacteria were cultured in the biosafety level 3 laboratory of Fudan University.</p>
+      </sec>
+      <sec>
+        <title>2.2 Screen of natural rough mutant</title>
+        <p>Frozen <italic>Brucella</italic> strains were removed from &#x2212;80&#xB0;C and completely thawed at room temperature. Ten microliter of the strain <italic>BM</italic> CMCC55210 stock solution was inoculated by spreading on TSA and incubated at 37&#xB0;C for 3 days. Bacteria were harvested and resuspended in normal saline (NS, 0.9% NaCl) to obtain a bacterial solution at a final concentration of ~1.0 &#xD7; 10<sup>9</sup> colony-forming units (CFU)/ml via turbidimetry (standard turbidimetric tubes manufactured by the China Academy of Food and Drug Administration, No. 230021-201354). Slide agglutination assays were used to distinguish between smooth and rough strains for screening natural rough mutants (<xref rid="B5" ref-type="bibr">5</xref>).</p>
+        <sec>
+          <title>2.2.1 Mutation test by slide agglutination assays</title>
+          <p>Two hundred microliter of 10<sup>3</sup> CFU/ml <italic>BM</italic> CMCC55210 suspension was inoculated on TSA plates, spread well, and incubated at 37&#xB0;C for 3 days. Single-colony colonies were picked and inoculated onto a coverslip, 50 &#x3BC;l of acridine yellow hydrochloride solution (1:500, Sigma-Aldrich, USA) was added, the coverslip was covered and then gently ground. The colonies observed visually with noticeable agglomerated particles or flocculent particles were judged as rough mutants. The remaining colonies of the mutant were picked and inoculated on TSA plates and incubated at 37&#xB0;C for 2 days. Then, the bacteria were harvested by scraping the moss, added to 1 ml of preservation solution (TSB solution containing 20% glycerol), and then frozen at &#x2212;80&#xB0;C in a refrigerator. Crystal violet staining was performed to further verify the rough phenotype of the selected mutant strains (<xref rid="B6" ref-type="bibr">6</xref>).</p>
+        </sec>
+        <sec>
+          <title>2.2.2 Validation by crystal violet staining</title>
+          <p>One hundred microliter of 10<sup>3</sup> CFU/ml <italic>BM</italic> CMCC55210a rough bacterial suspension and <italic>BM</italic> CMCC55210 smooth bacterial suspension were inoculated on TSA plates separately, spread well, and incubated for 3 days at 37&#xB0;C. Subsequently, 2 ml of staining solution [0.05% crystal violet (Sigma-Aldrich, USA), 25% methanol] was poured over the plates. After 15 s, the staining solution was discarded and poured into a disinfectant (75% ethanol). In contrast to the light purple background, smooth colonies were stained a translucent light blue-green, whereas rough colonies showed red to blue-red. Following the staining process, the peripheral colors of smooth colonies progressively became deeper blue-violet, but the uniform coloration of rough colonies was maintained for 4 days.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>2.3 The selected rough mutant confirmed as <italic>Brucella melitensis</italic></title>
+        <p>To confirm whether the rough mutant originated from the smooth <italic>Brucella melitensis</italic> CMCC55210, the dye sensitivity, H<sub>2</sub>S production, and phage lysis tests were carried out.</p>
+        <sec>
+          <title>2.3.1 Dye sensitivity (basic fuchsin and thionin)</title>
+          <p>The bacterial suspension of smooth strain and selected natural mutant strain was inoculated on TSA medium containing basic fuchsin and thionin (1:50,000 w/v, Sigma-Aldrich, USA), respectively, and then incubated at 37&#xB0;C for 3 days. Bacteria growth was determined by colony counting. Both <italic>BM</italic> strains should grow well on the TSA plates, adding basic fuchsin and thionin as normal TSAs.</p>
+        </sec>
+        <sec>
+          <title>2.3.2 H<sub>2</sub>S production</title>
+          <p>The strains <italic>BM</italic> CMCC55210 and CMCC55210a were inoculated on TSA plates. Lead acetate test papers (Sigma-Aldrich, USA) were placed on the surface of the agar and co-incubated at 37&#xB0;C. The color of the test papers was checked after 2 days. The paper would turn black when hydrogen sulfide is produced. The cultivation of <italic>Brucella melitensis</italic> should be free of hydrogen sulfide production.</p>
+        </sec>
+        <sec>
+          <title>2.3.3 Phage lysis of the strains</title>
+          <p>Phage propagation and titration were those described in previous references (<xref rid="B7" ref-type="bibr">7</xref>). One hundred microliters of 10<sup>9</sup> CFU/ml <italic>BM</italic> CMCC55210 and CMCC55210a were inoculated on the TSA medium and distributed evenly. Each plate was dripped with 5 &#x3BC;l of <italic>Brucella</italic> bacteriophage Tb, Wb, Fi, and BK2 at a routine test dilution (RTD) concentration. After incubating at 37&#xB0;C for 2 days, the plaques by phage lysis were visually determined. Phages Tb, Wb, and Fi were unable to lyse <italic>Brucella melitensis</italic>, and no phage plaque was present on the plates. Phage BK2 was capable of lysing <italic>Brucella melitensis</italic>, and neatly edged, translucent plaques were presented.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>2.4 Bacteria virulence test in BALB/c mice</title>
+        <sec>
+          <title>2.4.1 Animals</title>
+          <p>Female BALB/c mice (~42 days old), purchased from Slack Laboratory Animal Co., Ltd (Shanghai, China), were kept in an individually ventilated cage (IVC) rack system of the ABSL-3 laboratory of Fudan University. Animal experiments were reviewed and approved by the Animal Welfare and Ethics Committee of the School of Basic Medical Science of Fudan University (Approval No. 20201105-001).</p>
+        </sec>
+        <sec>
+          <title>2.4.2 Virulence of Brucella mutant strain in mice</title>
+          <p>The strains <italic>BM</italic> CMCC55210 and CMCC55210a were cultured on TSA for 3 days, and the bacterial suspension was harvested in NS and adjusted to 10<sup>9</sup> CFU/ml as previously. Mice were challenged by intraperitoneal injection with 100 &#x3BC;l bacterial suspension of CMCC55210 strain and CMCC55210a strain. The number of mice in the negative control group was injected intraperitoneally with 100 &#x3BC;l of NS. Actual infection doses as above were further confirmed by serial dilution, culture, and CFU counting. At 2-, 14-, 28-, 42-, and 56-day post-infection, 14 mice (including six of the CMCC55210 group, six of the CMCC55210a group, and two of the NS group) were weighed and euthanized with an overdose of sodium pentobarbital (200 mg/kg body mass) and then immersed in 75% alcohol for 3 min. Afterward, the spleens were aseptically obtained, weighed, examined for gross pathology, photographed, and then homogenized in 1 ml PBS buffer. The spleen homogenates were diluted 10-fold with 1 &#xD7; PBS in sequence and plated on TSA to determine the spleen bacteria load by counting CFU. The splenomegaly index was performed as spleen/mouse weight &#xD7; 100%.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>2.5 Whole-genome <italic>de-novo</italic> sequencing, assembly</title>
+        <p>The genomic DNA of <italic>Brucella melitensis</italic> CMCC55210 and CMCC55210a was extracted with QIAamp DNA Mini Kit (QIAgen, Germany) according to the manual in the BSL-3 laboratory. DNA concentration was measured using a Nanodrop2000 (Thermo Scientific, Wilmington, USA), and the quality was evaluated by 1.5% agarose gel electrophoresis.</p>
+        <p>Genome <italic>de novo</italic> sequencing was performed by the Shanghai Majorbio Bio-pharm Biotechnology Company (China). In brief, paired-end kits and mate-pair kits from Illumina were used to construct PE libraries (average insert sizes of ~170, 250, 500, and 800 bp) and MP libraries (average insert sizes of 2, 5, 10, 20, and 40 kb). DNA sequencing was performed on the HiSeq 2500 platform (Illumina). Ten- and 20- kilobyte libraries were constructed for PacBio sequencing on a PacBio RS II sequencer (Pacific Biosciences). The genome assembly was based on both Illumina sequencing and PacBio SMRT sequencing data. The hierarchical genome assembly process (HGAP4, Pacific Biosciences) was followed for assembling continuous long reads (CLR) from PacBio sequencing. Then, a four-round iterative error correction process was performed with clean data from Illumina sequencing to increase assembly accuracy. Finally, we generated a 2-chromosome circular gapless genome sequence of <italic>BM</italic> CMCC55210 and CMCC55210a. For <italic>BM</italic> CMCC55210, 162,199 clean reads with an average length of 7126 bp and an N50 size of 2,117,097 bp (chr1) and 1,177,809 bp (chr2) were generated. For the <italic>BM</italic> CMCC55210a strain, 113,408 clean reads with an average length of 7,016 bp and an N50 size of 2,117,101 bp (chr1) and 1,177,797 bp (chr2) were generated. The genome sequences of <italic>BM</italic> CMCC55210 (the accession number: CP082109 and CP082110) and CMCC55210a (the accession number: CP082107 and CP082108) were deposited in the NCBI database, respectively.</p>
+      </sec>
+      <sec>
+        <title>2.6 Bioinformatics analysis of genomes</title>
+        <p>The coding genes for the genomes of <italic>BM</italic> CMCC55210 and CMCC55210a were predicted by GeneMarkS (<xref rid="B8" ref-type="bibr">8</xref>) (ver4.17). The protein sequences of predicted coding genes were aligned using DIAMOND (<xref rid="B9" ref-type="bibr">9</xref>) (ver2.0.1), and the selected proteins for annotation were based on gene matching (<italic>e</italic>-values &#x2264;1e-5) and the alignment with the highest score (identity &#x2265;40%, coverage &#x2265;40%). Genomic islands (GIs) were predicted by IslandViewer 4 (<xref rid="B10" ref-type="bibr">10</xref>). PhiSpy (<xref rid="B11" ref-type="bibr">11</xref>) (ver3.4) was used to predict prophage loci. The general functional pathway analysis was performed with Gene Ontology (GO enrichment analysis). Kyoto encyclopedia of genes and genomes (KEGG) and COG (clusters of orthologous groups) were used for predicting gene functions. The sequencing maps were displayed using Circos software (ver0.64) after combining the prediction results of the encoded genes.</p>
+      </sec>
+      <sec>
+        <title>2.7 Comparative genome analysis</title>
+        <p>The average nucleotide identity between <italic>BM</italic> CMCC55210 and CMCC55210a was calculated by JSpeciesWS (<xref rid="B12" ref-type="bibr">12</xref>). The progressive Mauve program (ver2.4.0) and MUMmer3 (<xref rid="B13" ref-type="bibr">13</xref>) were used to perform whole genome alignments and comparisons. The genomic variations, including insertions (Ins), deletions (Dels), and nucleotide mutations of <italic>BM</italic> CMCC55210a compared with <italic>BM</italic> CMCC55210, were analyzed and rechecked manually using Basic Local Alignment Search Tool (BLAST, ver2.8.1). Nucleotide BLAST and Protein BLAST were used for alignment analysis of DNA sequence and protein sequence separately. Using the AlignX program (Vector NTI, version 11.5.1), each gene's coding sequences (CDSs) and protein sequences in the three samples were compared, analyzed, and visualized. Combined with the protein functional domains predicted by the Simple Modular Architecture Research Tool (SMART) database (<xref rid="B14" ref-type="bibr">14</xref>), the impact of the mutation on gene function was determined.</p>
+      </sec>
+      <sec>
+        <title>2.8 Evolutionary tree construction</title>
+        <p>In this study, 68 completed genome maps of <italic>Brucella melitensis</italic> from the NCBI were used to construct an evolutionary tree based on the Genome Component Archive (GCA) registry number, and the genome assembly results were downloaded in fasta format, named with the GCA number. Single nucleotide polymorphism (SNP) calling and evolutionary tree construction were performed using kSNP (Version 4.1) (<xref rid="B15" ref-type="bibr">15</xref>) and <italic>BM</italic> bv.1 str. 16M was designated as the reference genome. The rest of the genomes were compared with this genome to analyze the whole genome-level SNPs. A total of 8,132 core SNPs were obtained from the 68 genomes used in the analysis. The kSNP nested algorithms were used to construct an evolution tree based on the core SNPs using the maximum likelihood method, and the evolution tree was visualized and displayed on the iTOL online platform (<ext-link xlink:href="https://itol.embl.de/" ext-link-type="uri">https://itol.embl.de/</ext-link>) (<xref rid="B16" ref-type="bibr">16</xref>).</p>
+      </sec>
+      <sec>
+        <title>2.9 Statistical analyses</title>
+        <p>All the data, including mice body weight, spleen weight, splenomegaly index, and the spleen bacterial load (CFU log10), were expressed as <inline-formula><mml:math id="M1" overflow="scroll"><mml:mover class="overset"><mml:mrow><mml:mi>x</mml:mi></mml:mrow><mml:mrow><mml:mover accent="false" class="mml-overline"><mml:mrow><mml:mtext>&#xA0;</mml:mtext></mml:mrow><mml:mo accent="true">&#xAF;</mml:mo></mml:mover></mml:mrow></mml:mover></mml:math></inline-formula> &#xB1; SEM (mean values &#xB1; standard errors of the mean) and analyzed by GraphPad Prism software (ver8.0, San Diego, CA). The unpaired t-test was used for comparison between the two groups. Repeated measures analysis of variance was employed, followed by the Tukey <italic>post-hoc</italic> analysis. <italic>p</italic> &lt; 0.05 was used to determine statistical significance.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>3 Results</title>
+      <sec>
+        <title>3.1 The biological characteristics of <italic>BM</italic> CMCC55210a</title>
+        <p>In the mutation test assay for <italic>BM</italic> CMCC55210, we screened out one mutant colony from ~960 colonies tested, named CMCC55210a. To confirm whether the mutant strain originated from the virulent strain CMCC55210, we performed different biochemical reactions on CMCC55210a, including the dye-growth inhibition assay, the hydrogen sulfide-generating reaction assay, and the <italic>Brucella</italic> phage lysis assay. CMCC55210 and CMCC55210a grow well on the TSA plates with basic fuchsin and thionin added as typical TSA plates, and the lead acetate test papers stayed the same, indicating no hydrogen sulfide was produced during the cultivations of CMCC55210 and CMCC55210a. The <italic>Brucella</italic> bacteriophage BK2 lysed the strains of CMCC55210 and CMCC55210a, and the <italic>Brucella</italic> bacteriophages Tb, Wb, and Fi did not successfully lyse both strains. The above results showed that the biochemical characteristics of CMCC55210a were consistent with strain CMCC55210 (<xref rid="T1" ref-type="table">Table 1</xref>). Furthermore, the crystal violet staining assay showed that CMCC55210a colonies appeared to have a rough phenotype distinguished from the smooth CMCC55210 colonies (<xref rid="F1" ref-type="fig">Figure 1</xref>). All the above results showed that the phenotypic variant strain CMCC55210a, derived from the parent strain CMCC55210, was a rough stable mutant strain.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>The biological characteristics of <italic>BM</italic> strains CMCC55210a and CMCC55210.</p>
+          </caption>
+          <table frame="box" rules="all">
+            <thead>
+              <tr style="background-color:#919497;color:#ffffff">
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Biological reactions</bold>
+</th>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" colspan="2" rowspan="1"><italic><bold>Brucella melitensis</bold></italic>
+<bold>strains</bold></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="background-color:#919497;color:#ffffff">
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>CMCC55210</bold>
+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>CMCC55210a</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Growth on TSA containing (1:50,000 w/v)</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Fuchsin</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Thionin</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">H<sub>2</sub>S production</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x2013;</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Acriflavine agglutination</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Crystal violet staining</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>+</bold>
+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Lysis by phage at RTD</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">Tb</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Wb</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Fi</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">BK2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">+</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Phenotype</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">Smooth</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">rough</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>RTD, Routine Test Dilution; Tb, Tbilisi; Wb, Weybridge; Bk2, Berkeley; Fi, Firenze; <bold>+</bold>, positive; &#x2013;, negative.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Crystal violet staining of <italic>BM</italic> CMCC55210 and CMCC55210a. <bold>(A)</bold>
+<italic>BM</italic> CMCC55210, <bold>(B)</bold>
+<italic>BM</italic> CMCC55210a. Colonies on TSA plates were examined by the naked eye. <italic>BM</italic> CMCC55210 settlements appeared light purple contrasted with the light violet background; CMCC55210a colonies seemed to be opaque deep purple under the light violet background.</p>
+          </caption>
+          <graphic xlink:href="fmed-11-1363785-g0001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>3.2 The <italic>BM</italic> CMCC55210a strain was attenuated</title>
+        <p>To assess the virulence and the safety of the mutant strain CMCC55210a, a mice-infection model with intraperitoneal injection was used. First, BALB/c mice were challenged with an equal dose of 1.0 &#xD7; 10<sup>4</sup> CFU and 1.0 &#xD7; 10<sup>5</sup> CFU per mouse of the CMCC55210 and CMCC55210a strains in previous studies (<xref rid="B17" ref-type="bibr">17</xref>). At 14 and 28 days after the challenge, we sacrificed mice and determined spleen bacterial loads. The group of CMCC55210 infected mice had severely enlarged spleens with bacterial loads at 10<sup>3</sup>-10<sup>5</sup> CFU in the spleen. In contrast, the group of CMCC55210a infected mice was mostly consistent with those of non-infected in the spleen size, and there was only one spleen with a challenging dose of 1.0 &#xD7; 10<sup>5</sup> CFU detected bacteria (<xref rid="SM1" ref-type="supplementary-material">Supplementary material</xref>). The results indicated that the challenging dose below 1.0 &#xD7; 10<sup>5</sup> CFU per mouse of CMCC5520a hardly caused spleen colonization in BALB/c mice. Furthermore, we used a high infection dose of CMCC55210 with an actual challenge dose of 1.50 &#xD7; 10<sup>5</sup> CFU per mouse (<xref rid="B18" ref-type="bibr">18</xref>) and CMCC55210a with an actual challenge dose of 5.60 &#xD7; 10<sup>7</sup> CFU per mouse (<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>) to investigate the infection progression. Mice were sacrificed at 2, 14, 28, 42, and 56 days post-infection, and body weight, spleen weight, and spleen bacterial loads were determined. The mice's initial body weight was between 19 and 21 g and slowly gained to 23&#x2013;24 g during the 56 days post-infection. There was no statistical significance among groups of non-infection, <italic>BM</italic> CMCC55210a and CMCC55210. The mice's spleen weight stayed the same between the group of non-infection and <italic>BM</italic> CMCC55210a, ~0.11&#x2013;0.13 g over the 56 days, but the group of <italic>BM</italic> CMCC55210 mice's spleen weight was quite variable; the mean values were from 0.13 to 0.62, 0.41, 0.42, 0.25 at day 2, 14, 28, 42, and 56 post-infection. Correspondingly, splenomegaly indexes and spleen gross morphology exhibited the same trend as the spleen weight (<xref rid="F2" ref-type="fig">Figures 2A</xref>, <xref rid="F2" ref-type="fig">C</xref>). The spleen size was ~5.0&#x2013;8.0 &#xD7; 3.0 (mm) of the CMCC55210a group compared to 10.0&#x2013;15.0 &#xD7; 3.0&#x2013;5.0 (mm) of the CMCC55210 group (<xref rid="F2" ref-type="fig">Figure 2C</xref>). The spleen bacterial loads were vastly different. Approximately 10<sup>4</sup>-10<sup>6</sup>
+<italic>Brucella</italic> bacteria were successfully cultured from the spleens of CMCC55210 infected mice group over 56 days, 10<sup>2</sup>-10<sup>3</sup> bacteria after 2, 14, and 28 days, and no bacteria were detected after 42 days post-infection from the spleens of CMCC55210a infected mice (<xref rid="F2" ref-type="fig">Figure 2B</xref>). The results of mice-infected experiments indicated that the virulence of the CMCC55210a strain attenuated in contrast to CMCC55210.</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Virulence test of <italic>BM</italic> CMCC55210 and CMCC55210a by BALB/c mice infection. <bold>(A)</bold> Splenomegaly index of infected mice; <bold>(B)</bold> Log<sub>10</sub> (CFU) of recovered from the spleen of infected mice; <bold>(C)</bold>. The gross spleen of mice infected by CMCC55210 and CMCC55210a. - ns, no significance; *<italic>p</italic> &lt; 0.05; **<italic>p</italic> &lt; 0.01; ***<italic>p</italic> &lt; 0.001; ****<italic>p</italic> &lt; 0.0001. Splenomegaly indexes and spleen gross morphology exhibited the same trend as the spleen weight <bold>(A, C)</bold>. The spleen size was approximately 5.0&#x2013;8.0 &#xD7; 3.0 mm of the CMCC55210a group in contrast to 10&#x2013;15.0 &#xD7; 3.0&#x2013;5.0 mm of the <italic>BM</italic> CMCC55210 group <bold>(C)</bold>. The <italic>Brucella</italic> colonies recovered from the spleen (bacterial load) differed vastly. Approximately 104&#x2013;106 bacteria were successfully cultured from the group of CMCC55210 over the 56 days. In comparison, 102&#x2013;103 bacteria were detected from day 2 to 28 post-infection, and no bacteria were cultured from day 42 post-infection <bold>(B)</bold>.</p>
+          </caption>
+          <graphic xlink:href="fmed-11-1363785-g0002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>3.3 Evolutionary tree construction</title>
+        <p>The evolutionary tree showed that the strains of <italic>BM</italic> CMCC55210 and <italic>BM</italic> CMCC55210a in this study are the closest to the <italic>BM</italic> 16M strain in terms of evolutionary distance and co-clustered with the Rev.1 (passage 101) strain isolated from small ruminants in the United States in 1970 to form a separate branch (<xref rid="F4" ref-type="fig">Figure 4</xref>). In contrast, strains NIPH_Bru1, NIPH_Bru4, NIPH_Bru9, NIPH_Bru11, NIPH_Bru24, and NIPH_Bru46, which were collected successively in Norway between 2003 and 2016, clustered into a separate dendrite, although the strains CMCC55210, CMCC55210a, 16M, and Rev.1 (passage 101) exhibit their independent evolution. <italic>BM</italic> BwIM_ITA_45 and <italic>BM</italic> BwIM_ITA_55, isolated successively in Italy in 2015 and 2016, are closely related to strain 2008724259, isolated in the United States in 2007, and to the ether (unknown source of isolation, place of isolation, and time of isolation) strain clustered into a separate branch. The other strains, in general, can be divided into two large clades, but the affinities are closer between strains within the clades. Different strains from the same geographical isolation area tend to be more similar. At the same time, there is no specific pattern, suggesting that the strains may not be significant in variation over different time spans.</p>
+      </sec>
+      <sec>
+        <title>3.4 Genome sequencing and comparative analysis of CMCC55210a and CMCC55210</title>
+        <sec>
+          <title>3.4.1 Genomic sequence characteristics</title>
+          <p>Genomic details of the strain <italic>BM</italic> CMCC55210 were unclear, and the genome information of reference strain <italic>BM</italic> 16M (<xref rid="B21" ref-type="bibr">21</xref>) was generally used for analysis. Thus, we performed genome sequencing of both strains through Illumina and Pacbio platforms. The genomes of CMCC55210 and CMCC55210a were composed of two chromosomes; the lengths of Chr1 and Chr2 were 2.12 and 1.18 M, and the GC contents were 57.16 and 57.34%, respectively (<xref rid="T2" ref-type="table">Table 2</xref>). The average nucleotide identity between the two strains was 99.99%. Then, we performed COG function and genomic islands analysis within the genomes of CMCC55210 and CMCC55210a, and the results showed that there were no significant differences at the genomic level (<xref rid="F3" ref-type="fig">Figure 3</xref>).</p>
+          <table-wrap position="float" id="T2">
+            <label>Table 2</label>
+            <caption>
+              <p>Basic genome features of <italic>BM</italic> CMCC55210 and CMCC55210a.</p>
+            </caption>
+            <table frame="box" rules="all">
+              <thead>
+                <tr style="background-color:#919497;color:#ffffff">
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Features</bold>
+</th>
+                  <th valign="top" align="center" colspan="2" rowspan="1"><italic><bold>BM</bold></italic>
+<bold>CMCC55210a</bold></th>
+                  <th valign="top" align="center" colspan="2" rowspan="1"><italic><bold>BM</bold></italic>
+<bold>CMCC55210</bold></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="background-color:#919497;color:#ffffff">
+                  <td rowspan="1" colspan="1"/>
+                  <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>chr1</bold>
+</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>chr2</bold>
+</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>chr1</bold>
+</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">
+<bold>chr2</bold>
+</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Accession number</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">CP082107</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">CP082108</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">CP082109</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">CP082110</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Length (bp)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2,117,101</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1,177,797</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2,117,097</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1,177,809</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">G + C content</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">57.16%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">57.34%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">57.16%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">57.34%</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Predicted genes</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2,173</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1,176</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">2,173</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">1,175</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Genes/genome</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">85.45%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">87.88%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">85.48%</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">87.88%</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Average length (bp)</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">833</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">881</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">833</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">881</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">rRNAs</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">6</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">tRNAs</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">40</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">40</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">14</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Prophage</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">0</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Genome Islands</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">8</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">3</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <fig position="float" id="F3">
+            <label>Figure 3</label>
+            <caption>
+              <p>Circular genome maps of <italic>BM</italic> CMCC55210 chromosomes <bold>(A)</bold> and CMCC55210a chromosomes <bold>(B)</bold>. From the outer to the inner circle: (1) scale marks of genome; (2) assigned COG classes of protein-coding genes (CDSs) on the forward strand as indicated by relevant colors; (3) reverse strand CDSs; (4) genomic islands (GIs, fuchsia); (5) ncRNA including tRNA(red) and rRNA (16S, blue; 23S, celeste; 5S, green); (6) GC content (swell outward/inward indicates higher/lower G + C compared with the average G+C content); (7) GC skew (green/orange indicate positive/negative values).</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0003" position="float"/>
+          </fig>
+          <fig position="float" id="F4">
+            <label>Figure 4</label>
+            <caption>
+              <p>Evolutionary tree of 68 <italic>Brucella melitensis</italic> strains. From the outside to the inside of the tree, the first circle is the host information when the strain was isolated, and different colors represent different hosts; the second circle is the year when the strain was collected and isolated, and different colors represent different years; the third circle is the country where the original sample of the strain belongs to, and different colors represent different countries; the fourth circle is the strain information; the inner circle is the topology of the evolution tree; the inner circle is the topology of the evolution tree.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0004" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.2 Genome comparative analysis</title>
+          <p>To define genomic variations in mutant strain CMCC55210a, we performed comparative genomics between CMCC55210 and CMCC55210. The genome of CMCC55210 was used as analysis control, and 19 insertions (INs), 11 deletions (DELs), and 3 single nucleotide mutations occurred in the strain CMCC55210a. Considering the genome variations occurring in the intergenic region did not affect protein functions; therefore, we focused on mutations occurring in the protein-coding regions, including 4 INs, 8 DELs, and 2 single nucleotide mutations involving seven genes, namely <italic>trmFO, trmD, xerC, pntA, hsdM, livM</italic>, and <italic>manB</italic> (<xref rid="T3" ref-type="table">Table 3</xref>). From the gene length statistics, three genes, including the <italic>xerC</italic> (BRUCa_1896), <italic>trmD</italic> (BRUCa_1892), and <italic>hsdM</italic> (BRUCa_2973) of CMCC55210a strain, became shorter, whereas the <italic>pntA</italic> (BRUCa_3109) and <italic>livM</italic> (BRUCa_2789) were lengthened. The <italic>manB</italic> (BRUCa_2508) were the same length in all three samples, with only localized base and amino acid differences.</p>
+          <table-wrap position="float" id="T3">
+            <label>Table 3</label>
+            <caption>
+              <p>Comparison and functional analysis of genes related to inner variations of <italic>Brucella melitensis</italic> CMCC55210a.</p>
+            </caption>
+            <table frame="box" rules="all">
+              <thead>
+                <tr style="background-color:#919497;color:#ffffff">
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Gene ID (NCBI) locus tag</bold>
+</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Location on chromosome</bold>
+</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Gene name</bold>
+</th>
+                  <th valign="top" align="left" colspan="4" rowspan="1">
+<bold>Gene variation among CMCC55210a, CMCC55210, and 16M from nucleotide level</bold>
+</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Protein name CDS</bold>
+</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Protein variations of CMCC55210</bold>
+</th>
+                  <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Biological function</bold>
+</th>
+                  <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>References</bold>
+</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="background-color:#919497;color:#ffffff">
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<bold>Nucleotide variation</bold>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<bold>55210a</bold>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<bold>55210</bold>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1"><bold>16M</bold>
+<bold>(</bold><xref rid="B21" ref-type="bibr"><bold>21</bold></xref><bold>)</bold></td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">29593915 BME_RS05375</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr1</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>trmFO</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 149C<sub>del</sub> &#x2022; 493G<sub>in</sub> &#x2022; 665G<sub>in</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmFO</italic> &#x2022; 1,401 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmFO</italic> &#x2022; 861 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmFO</italic> &#x2022; 1,401 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; TrmFO &#x2022; 467 aa &#x2022; WP002967605.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">TrmFO of 55210a is consistent with 16M</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Folate/FAD-dependent tRNA (m(5)U54) methyltransferase, U54 modified to 5-methyluridine and forms a reverse Hoogsteen base pair with A58 that stabilizes the L-shaped tRNA structure</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B22" ref-type="bibr">22</xref>&#x2013;<xref rid="B24" ref-type="bibr">24</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">1629593725 BME_RS00705</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr1</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>trmD</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 497, 498 &#x2022; CA<sub>del</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmD1</italic> &#x2022; 1-519 &#x2022; <italic>trmD2</italic> &#x2022; 499&#x2013;735</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmD</italic> &#x2022; 735 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>trmD</italic> &#x2022; 735 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; TrmD &#x2022; 245 aa &#x2022; WP002964982.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; Frameshift &#x2022; TrmD1 1&#x2013;173 aa, TrmD2 167&#x2013;245 aa &#x2022; TrmD of 55210a &#x2022; terminates at 173 aa and an altered peptide sequence from position 166</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; TrmD catalyzes the N(1)-methylguanosine (m(1)G) modification at p37 in tRNAs with the (36)GG(37) &#x2022; The m(1)G37-modified tRNA functions properly to prevent +1 frameshift errors on the ribosome</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B25" ref-type="bibr">25</xref>&#x2013;<xref rid="B28" ref-type="bibr">28</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">29594142 BME_RS00695</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr1</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>xerC</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 160C<sub>del</sub> &#x2022; G256C &#x2022; (A &#x2192; P) &#x2022; 328C<sub>in</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>xerC1</italic> &#x2022; 1&#x2013;183 &#x2022; <italic>xerC2</italic> &#x2022; 241-948</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>xerC</italic> &#x2022; 948 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>xerC</italic> &#x2022; 948 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; XerC &#x2022; 316 aa &#x2022; WP004684445.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; Frameshift &#x2022; XerC1 1&#x2013;61 aa &#x2022; XerC2 81&#x2013;316 aa &#x2022; split into two incomplete ORFs</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; The XerCD site-specific recombination is involved in the stable inheritance of circular replicons &#x2022; xerC also contributes to biofilm-associated infections and acute bacteremia due to agr-independent and -dependent pathways in MRSA</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B29" ref-type="bibr">29</xref>&#x2013;<xref rid="B34" ref-type="bibr">34</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">29595944 <italic>BME_RS11770</italic></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr2</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>pntA</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 1125G<sub>del</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>pntA</italic> &#x2022; 1,239 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>pntA</italic> &#x2022; 1,218 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>pntA</italic> &#x2022; 1,218 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; PntA &#x2022; 406 aa &#x2022; WP004682363.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Frameshift, change in its amino acid sequence from position 376 and extension of the peptide chain</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">PntA is the Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha, PntAB functions to balance the NADH: NADPH equilibrium specifically in the direction of NADPH</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B35" ref-type="bibr">35</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">29595445 BME_RS12390</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr2</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>hsdM</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 716A<sub>del</sub> &#x2022; 788A<sub>del</sub> &#x2022; 1072C<sub>del</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>hsdM1</italic> &#x2022; 1&#x2013;747 &#x2022; <italic>hsdM2</italic> &#x2022; 818-1093 &#x2022; <italic>hsdM3</italic> &#x2022; 1087&#x2013;1527</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>hsdM</italic> &#x2022; 1,527 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>hsdM</italic> &#x2022; 1,527 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; HsdM &#x2022; 509 aa &#x2022; WP002965802.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; Frameshift, truncated and broken HsdM &#x2022; HsdM1 1&#x2013;249 aa, &#x2022; HsdM2 273&#x2013;345 aa, &#x2022; HsdM3 363&#x2013;509 aa</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Class I SAM-dependent DNA methyltransferase, type I restriction endonucleases methylate host DNA with hsdS. related with virulence and induce drug resistance on <italic>Mycobacterium tuberculosis</italic></td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B36" ref-type="bibr">36</xref>&#x2013;<xref rid="B42" ref-type="bibr">42</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">79382350 <italic>BME_RS18385</italic></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr2</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>livM</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 789G<sub>in</sub></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>livM</italic> &#x2022; 1,002 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>livM</italic> &#x2022; 849 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>livM</italic> &#x2022; 450 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; LivM &#x2022; 150 aa &#x2022; WP011005660.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Frameshift, extension of the peptide chain</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Branched chain amino acid, phenylalanine ABC transporter membrane subunit, permease</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B43" ref-type="bibr">43</xref>, <xref rid="B44" ref-type="bibr">44</xref>)</td>
+                </tr>
+                <tr>
+                  <td valign="top" align="left" rowspan="1" colspan="1">29595165 <italic>BME_RS14595</italic></td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>Chr2</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">
+<italic>manB</italic>
+</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; 1067T &#x2192; C (L356P)</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>manB</italic> &#x2022; 1,434 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>manB</italic> &#x2022; 1,434 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; <italic>manB</italic> &#x2022; 1,434 bp</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">&#x2022; ManB &#x2022; 478 aa &#x2022; WP002966241.1</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Point mutation, mutation of leucine to proline at position 356</td>
+                  <td valign="top" align="left" rowspan="1" colspan="1">Phosphomannomutase, involved in o-ps biosynthesis of LPS</td>
+                  <td valign="top" align="center" rowspan="1" colspan="1">(<xref rid="B45" ref-type="bibr">45</xref>&#x2013;<xref rid="B47" ref-type="bibr">47</xref>)</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>3.4.3 <italic>xerC</italic></title>
+          <p>The protein XerC sequences of strains 16M (BME_RS00695) and CMCC55210 (BRUC_1898) were identical. They contained two large functional domains, Xer and Phage integrase, whereas the corresponding gene, BRUCa_1896, in strain CMCC55210a, had a deletion of cytosine (C) at site 160, resulting in a shortening of the 5&#x2032; end of the gene. Other variations occurred in <italic>xerC</italic> of CMCC55210a, including guanine (G) to C at site 256, resulting in the change of amino acid from alanine (A) to proline (P) and the insertion of C at site 328 (<xref rid="F5" ref-type="fig">Figure 5</xref>). The most critical variant may be the incomplete Xer functional domain affecting the gene's normal function. The XerCD site-specific recombination system is important for the stable inheritance of circular replicons, such as plasmids and bacterial chromosomes (<xref rid="B29" ref-type="bibr">29</xref>). Similar to other bacteria, <italic>Brucella</italic> species harbor circular chromosomes. The formation of chromosome dimers is caused by odd numbers of crossovers during homologous recombination (<xref rid="B30" ref-type="bibr">30</xref>). Translocase FtsK activates XerCD recombination (<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>) at a specific site, <italic>dif</italic>, so that recombination occurs at the right time and place. Recent studies revealed that XerD of <italic>Staphylococcus aureus</italic> and <italic>Bacillus subtilis</italic> unloads structural maintenance of chromosome (SMC) complexes through the binding of XerD to additional chromosomal loci, not <italic>dif</italic>, a different action that does not depend on XerC (<xref rid="B33" ref-type="bibr">33</xref>). We hypothesize that the redundancy mechanism of XerC-XerD also exists in <italic>Brucella</italic> to ensure bacterial chromosome stabilization.</p>
+          <fig position="float" id="F5">
+            <label>Figure 5</label>
+            <caption>
+              <p>Functional domains predicted of XerC and protein sequence alignment. The XerC sequences of strains 16M (BME_RS00695) and CMCC55210 (BRUC_1898) were identical. They contained two large functional domains, Xer and Phage integrase. The <italic>xerC</italic> (BRUCa_1896) in strain CMCC55210a had a deletion of cytosine <bold>(C)</bold> at site 160, resulting in a shortening of the 5&#x2032; end of the gene. Other variations occurred in xerC of CMCC55210a, including guanine (G) to C at site 256, resulting in the change of amino acid from Alanine (A) to Proline (P) and the insertion of C at site 328.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0005" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.4 <italic>trmFO</italic></title>
+          <p>The protein TrmFO sequences of strains 16M and CMCC55210a were identical, and both contained complete GIDA functional domains. In contrast, the corresponding gene BRUC_0891 in CMCC55210 strain was unable to form a normal functional protein due to a code-shift mutation at the 5&#x2032; end of the gene because of a deletion of a base C at the 27th base and an insertion of a base C at the 371st base, which resulted in the formation of normal functional proteins, and a 180 amino acid deletion at the 5&#x2032; end of the gene relative to the proteins in the other two samples, which resulted in an incomplete GIDA functional domain. It thus affected the regular expression and functional roles of the protein (<xref rid="F6" ref-type="fig">Figure 6</xref>).</p>
+          <fig position="float" id="F6">
+            <label>Figure 6</label>
+            <caption>
+              <p>Functional domains predicted of TrmFO and protein sequence alignment. The TrmFO sequences were identical in strains 16M and CMCC55210a, and both contained complete GIDA functional domains. There was a cytosine deletion at 27 and a cytosine insertion at 371 in gene <italic>trmFO</italic> (BRUC_0891) of the CMCC55210 strain, which resulted in an incomplete GIDA functional domain.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0006" position="float"/>
+          </fig>
+          <p>There is a 5-methyluridine at position 54 (T54) in the T-loop of bacteria tRNAs, and T54 methylation can stabilize the tRNA structure. The methyl group is transferred through two pathways: (1) from S-adenosylmethionine by TrmA methyltransferase (<xref rid="B22" ref-type="bibr">22</xref>) and (2) from 5,10-methylenetetrahydrofolate by TrmFO, a folate/FAD-dependent methyltransferase (<xref rid="B23" ref-type="bibr">23</xref>). In most Gram-positive and several Gram-negative bacteria, TrmFO orthologs have been identified through sequence analyses (<xref rid="B24" ref-type="bibr">24</xref>). TrmA orthologs, a class I SAM-dependent RNA methyltransferase, were found in <italic>Brucella</italic> species. In our study, gene <italic>trmFO</italic> of <italic>BM</italic> CMCC55210a was consistent with <italic>BM</italic> 16M. The mutations that occurred in <italic>trmFO</italic> may not be associated with the attenuation mechanisms.</p>
+        </sec>
+        <sec>
+          <title>3.4.5 <italic>trmD</italic></title>
+          <p>The TrmD protein, encoded by the gene <italic>trmD</italic>, is a tRNA methyltransferase that suppresses translational frameshift errors at proline codons through methylation modification of tRNA m1G37, which is essential for bacterial growth (<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B26" ref-type="bibr">26</xref>). The process of methylation modification exerted in <italic>Haemophilus influenzae</italic> by TrmD requires stabilization of S-adenosyl-L-methionine (AdoMet) at position 171 by phenylalanine (Phe) and capture of the tRNA 38-position phosphate group by glycine (Gly) at position 59 (<xref rid="B27" ref-type="bibr">27</xref>). Protein alignment analysis suggested that the TrmD corresponding active site of <italic>BM</italic> CMCC55210 was consistent with <italic>Haemophilus influenzae</italic>. The protein TrmD sequences of <italic>BM</italic> 16M and CMCC55210 were identical, and both contained the complete tRNA_m1G_MT functional domain. In contrast, the corresponding gene BRUCa_1892 in <italic>BM</italic> CMCC55210a had a shifted mutation due to the deletion of two bases, T and G, at positions 497 and 498, which resulted in a shifted mutation of the gene and a shortening of the 5&#x2032; end, leading to an incomplete tRNA_m1G_MT functional domain, which in turn affected the regular expression and functional role of the protein (<xref rid="F7" ref-type="fig">Figure 7</xref>). This mutation is considered lethal to bacteria, but our results showed that the growth of <italic>Brucella melitensis</italic> CMCC55210a was not affected.</p>
+          <fig position="float" id="F7">
+            <label>Figure 7</label>
+            <caption>
+              <p>Functional domains predicted of TrmD and protein sequence alignment. The TrmD sequences of <italic>BM</italic> 16M and CMCC55210 were identical with the complete tRNA_m1G_MT functional domain. The <italic>trmD</italic> (BRUCa_1892) of CMCC55210a had a shifted mutation due to the deletion of two bases, T and G, at positions 497 and 498, which resulted in an incomplete tRNA_m1G_MT functional domain.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0007" position="float"/>
+          </fig>
+          <p>Another evolutionary study found that cumulative mutations were detected in the gene encoding proline-tRNA ligase (proline-tRNA ligase, <italic>proS</italic>) of restored growth of <italic>Escherichia coli trmD</italic> mutant strains (<xref rid="B28" ref-type="bibr">28</xref>). ProS amplifies m1G37 by distinguishing between m1G37 modified and unmodified tRNA<sup>Pro</sup> to safeguard the translational accuracy, thereby strengthening the effects. The aminoacylation efficiency of m1G37-unmodified tRNA<sup>Pro</sup> was lower than that of m1G37-modified tRNA<sup>Pro</sup>, and the restored growth was detected in <italic>trmD</italic> mutant strains by the aminoacylation of m1G37-unmodified tRNA<sup>Pro</sup>. Furthermore, sequence alignments revealed that the <italic>proS</italic> nucleotide sequence of <italic>BM</italic> CMCC55210a was unchanged, so unknown potential regulatory mechanisms that helped CMCC55210a adapt to the effects of gene <italic>trmD</italic> mutation need to be investigated.</p>
+        </sec>
+        <sec>
+          <title>3.4.6 <italic>hsdM</italic></title>
+          <p>The protein HsdM sequences of strain 16M and CMCC55210 samples were identical, containing complete functional domains of HsdM_N and N6_Mtase. In contrast, there are three deletions of 716A<sub>del</sub>, 788A<sub>del</sub>, and 1072C<sub>del</sub> in the corresponding gene BRUCa_2973 of <italic>BM CMCC55210a</italic> (<xref rid="F8" ref-type="fig">Figure 8</xref>). The deletion of the bases led to the coding gene shifting. The 5&#x2032; end is shortened, the HsdM_N functional domain is lost, and the N6_Mtase functional domain is incomplete, thus affecting the regular expression and functional role of the protein. HsdM, a methyltransferase (MTase) encoded by gene <italic>hsdM</italic>, is a subunit of type I restriction&#x2013;modification (R-M) systems that provides a major defense against phages and invasive DNA in bacteria (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B37" ref-type="bibr">37</xref>). Typical R-M systems are composed of three separate subunits of DNA-specificity (HsdS), DNA-modification (HsdM), and DNA restriction (HsdR) (<xref rid="B38" ref-type="bibr">38</xref>, <xref rid="B39" ref-type="bibr">39</xref>). Another new type I R-M system can utilize two copies of HsdM and one HsdS to form the M2-S MTase complex, one of which has NPPF in the highly conserved catalytic motif IV and modifies adenine to m6A, and one having an NPPY catalytic motif IV and modifying cytosine to m4C (<xref rid="B40" ref-type="bibr">40</xref>). Mutations in gene <italic>hsdM</italic> were detected in <italic>Streptococcus suis</italic> serotype 2 attenuated strains, but it was unclear whether HsdM mutations were associated with reduced resistance to phagocytosis (<xref rid="B40" ref-type="bibr">40</xref>). So, the relationship between <italic>hsdM</italic> and the attenuation of <italic>BM</italic> CMCC55210a in this study also needs to be further verified.</p>
+          <fig position="float" id="F8">
+            <label>Figure 8</label>
+            <caption>
+              <p>Functional domains predicted of HsdM and protein sequence alignment. The HsdM sequences of strain 16M and CMCC55210 were identical, containing complete functional domains of HsdM_N and N6_Mtase. The hsdM (BRUCa_2973) in CMCC55210a with three deletions of 716A<sub>del</sub>, 788A<sub>del</sub>, and 1072C<sub>del</sub>, which resulted in HsdM_N domain lost and truncated N6_Mtase domain.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0008" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.7 <italic>livM</italic></title>
+          <p>The LivM protein sequences of strains 16M, CMCC55210, and CMCC55210a are not identical. At site 448, that is, before the last triplet codon of the gene of the 16M sample, a single C is inserted, which results in a shifted mutation, the disappearance of the original termination codon, and a lengthening of the gene sequence. At site 798, <italic>BM</italic> CMCC55210a inserts a single G relative to CMCC55210, thus allowing the gene sequence to continue to be extended and the total protein sequence is the longest of the three. In terms of structural domains, the transmembrane region structural domains at the 5&#x2032; end were all complete. The sequences were 100% identical, while the BPD_transp_2 structural domain, strain 16M gene, was incomplete, with a portion of the 3&#x2032; end missing. The BPD_transp_2 structural domains of the strain CMCC55210 and CMCC55210a (position from amino acid 38&#x2013;278) are different at the 3&#x2032; end, but both are structurally complete (<xref rid="F9" ref-type="fig">Figure 9</xref>). The mutation of the CMCC55210a sample gene at the 3&#x2032; end may affect the protein's tertiary structure or active ability, which in turn affects the protein's function. Leucine-isoleucine-valine (LIV) is the major transport system in bacteria for the branched-chain amino acids. The <italic>livM</italic>-encoded protein localized to the inner membrane of the bacteria cell is one of the membrane components LivHMGF, that is required for high-affinity leucine transport (<xref rid="B43" ref-type="bibr">43</xref>, <xref rid="B44" ref-type="bibr">44</xref>). At least six copies of <italic>LivHMGF</italic> operons were detected in the chromosomes of <italic>BM</italic> CMCC55210a and CMCC55210. We supposed the mutation that occurred in <italic>livM</italic> of CMCC55210a had no relationship with the rough phenotype.</p>
+          <fig position="float" id="F9">
+            <label>Figure 9</label>
+            <caption>
+              <p>Functional domains predicted of LivM and protein sequence alignment. The LivM protein sequences of strains 16M, CMCC55210, and CMCC55210a are not identical. The BPD_transp_2 domain was incomplete because of the <italic>livM</italic> (BME_RS18385) of 16M with 448C<sub>del</sub>. <italic>BM</italic> CMCC55210a had an extended sequence due to 798G<sub>in</sub>. The BPD_transp_2 structural domains of the strain CMCC55210 and CMCC55210a (amino acid from 38 to 278) are different at the end of the 3&#x2032; end, but both are structurally complete.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0009" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.8 <italic>pntA</italic></title>
+          <p>The gene <italic>pntA</italic> of all three strains contains three functional domains. The protein sequences of strains 16M and CMCC55210 were identical. The gene BRUCa_3109 corresponding to strain CMCC55210a is missing a single C at site 1125, resulting in a shifted mutation that affects the third functional domain differently. The third functional domain, low complexity, is located from amino acid 348 to amino acid 399 in the protein sequences corresponding to all three samples (<xref rid="F10" ref-type="fig">Figure 10</xref>). The gene <italic>pntA</italic> encodes PntA, which is the &#x3B1; subunit of the pyridine nucleotide transhydrogenase (PntAB). As a catalyzer of energy-coupled electron transfers between NAD(H) and NADP(H), PntAB regulates electron carrier redox balance (<xref rid="B35" ref-type="bibr">35</xref>). Previous studies have demonstrated that pntAB adaptive truncation mutation to decrease PntAB-catalyzed NADPH biosynthesis occurred in <italic>E. coli</italic> K-12 MG1655 phosphoglucose isomerase-deficient strain with enhancing environmental adaptability through adaptive evolution (<xref rid="B34" ref-type="bibr">34</xref>).</p>
+          <fig position="float" id="F10">
+            <label>Figure 10</label>
+            <caption>
+              <p>Functional domains predicted of PntA and protein sequence alignment. The PntA sequences of 16M and CMCC55210 were identical. The <italic>pntA</italic> (BRUCa_3109) of CMCC55210a with 1125C<sub>del</sub> resulted in a shifted mutation that affects the low complexity domain differently.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0010" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.9 <italic>manB</italic></title>
+          <p>The gene <italic>manB</italic> was identical in sequence length in all three strains. The corresponding gene BRUCa_2508 in strain CMCC55210a has an SNP mutation at 1067 from thymine (T) to guanine (C), which results in a change in the coding amino acid from leucine (L) to proline (P) and the functional domain corresponding to this mutation position is PGM_PMM_III (<xref rid="F11" ref-type="fig">Figure 11</xref>). Phosphomannomutase (ManB), encoded by <italic>manB</italic>, converts mannose-6-phosphate to mannose-1phosphate, which is a key metabolic factor during the synthesis of lipopolysaccharide (LPS) (<xref rid="B45" ref-type="bibr">45</xref>). LPS is composed of three domains: lipid A, core oligosaccharide, and O-antigen (<xref rid="B46" ref-type="bibr">46</xref>). The lack of the O-antigen or core oligosaccharide contributes to the rough LPS phenotype of <italic>Brucella melitensis</italic>. It has been found that <italic>manB</italic>, interrupted by the transposon mutant strain of <italic>Brucella melitensis</italic> H38, confronted attenuation and lack of the core oligosaccharide and the O-antigen (<xref rid="B47" ref-type="bibr">47</xref>). Proline is the most common first residue of &#x3B1;-helix and the marginal chain of &#x3B2;-sheet, a disruptor in the secondary structure of the protein owing to its unique ring-loading structure of the side chain that maintains exceptional conformational rigidity (<xref rid="B48" ref-type="bibr">48</xref>). We hypothesized that the L356P mutation may affect the structure of &#x3B1;-helices 12, thereby affecting the spatial conformation of the glycan-binding region of domain PGM_PMM_III. The crystal violet staining experiment showed that CMCC55210a was a rough strain, and its rough change might be caused by the truncated LPS structure.</p>
+          <fig position="float" id="F11">
+            <label>Figure 11</label>
+            <caption>
+              <p>Functional domains predicted of ManB and protein sequence alignment. The gene <italic>manB</italic> was identical in sequence length in all three strains. The corresponding gene BRUCa_2508 in strain CMCC55210a has an SNP mutation at 1067 from thymine (T) to guanine (C), which results in L356P in the functional domain PGM_PMM_III.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0011" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>3.4.10 Diagram of key genomic differences and their mechanistic implications for bacteria&#x2013;host interactions</title>
+          <p>We summarize a brief map of key genomic differences and their mechanistic implications for bacteria&#x2013;host interactions in <xref rid="F12" ref-type="fig">Figure 12</xref>.</p>
+          <fig position="float" id="F12">
+            <label>Figure 12</label>
+            <caption>
+              <p>ManB function in the <italic>Brucella</italic> LPS synthesis. The protein ManB as phosphomannomutase converts mannose-6-phosphate to mannose-1phosphate, which is a key metabolic factor during the synthesis of lipopolysaccharide (LPS). LPS consists of three parts: Lipid A, core polysaccharide, and O-antigen polysaccharide (O-PS). Crippled LPS exhibits a rough phenotype.</p>
+            </caption>
+            <graphic xlink:href="fmed-11-1363785-g0012" position="float"/>
+          </fig>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>4 Discussion</title>
+      <p><italic>Brucella</italic> spp. are facultative intracellular pathogens that have the ability to survive and multiply in professional and non-professional phagocytes and cause abortion in domestic animals and undulant fever in humans. Several species are recognized within the genus <italic>Brucella</italic>, and this classification is mainly based on the difference in pathogenicity and host preference. <italic>Brucella</italic> strains may occur as either smooth or rough, expressing smooth LPS (S-LPS) or rough LPS (R-LPS) as major surface antigens. This bacterium possesses an unconventional non-endotoxic lipopolysaccharide that confers resistance to antimicrobial attacks and modulates the host immune response. The genome sequences of the <italic>B. melitensis, B. suis</italic>, and <italic>B. abortus</italic> became available. The genomes of <italic>B. suis, B. melitensis</italic>, and <italic>B. abortus</italic> are very similar in sequence, organization, and structure. Few fragments are unique among the genomes. Although many aspects of its biology remain to be understood, the sequencing and annotation of its genome paved the way for a highly comprehensive and rapid analysis of its proteome.</p>
+      <p>Vaccination and intensive diagnostics are the primary approaches for brucellosis control worldwide (<xref rid="B49" ref-type="bibr">49</xref>, <xref rid="B50" ref-type="bibr">50</xref>). The lack of human vaccines and the problems with veterinary vaccines, such as abortion in pregnant animals, have made the development of ideal vaccines that are highly immunogenic, safe, and provide long-lasting protection a hot topic (<xref rid="B51" ref-type="bibr">51</xref>). New vaccines with higher safety, such as carrier, subunit, peptide, DNA, and nanoparticle, are constantly being developed and have shown good protective ability in mouse or guinea pig infection experiments. However, they also have problems, so large-scale vaccination is still dominated by live attenuated vaccines in practical applications. Among the various vaccine development strategies, live attenuated vaccines with some virulence genes inactivated seem to be more effective, such as M5-90&#x394;26 for sheep and A19-&#x394;VirB12 for cattle, which are recommended in the Chinese Brucellosis Control Guidelines, and at the same time provide help in distinguishing between natural infection and immune-protection by serologic examination.</p>
+      <p>Several studies on virulence factors were directed at the main components of the outer membrane. The outer membrane contains lipopolysacharides (LPS), which is the <italic>Brucella</italic> major virulence factor. The LPS was identified as a major virulence determinant of <italic>Brucella</italic> and recognized for its role in virulence when naturally occurring isolates lacking LPS showed reduced survival. In this study, we hypothesized that two mutations occurred in attenuated strain CMCC55210a associated with its virulence changes. One is the point mutation in the manB gene, which is related to LPS synthesis in the previous studies. The manB mutant strains result in a large part of LPS deletion and present the rough phenotype, such as the M5-90&#x394;manB strain, which shows high protection by mice infection experiment (<xref rid="B52" ref-type="bibr">52</xref>). The LPS was identified as a major virulence determinant of <italic>Brucella</italic> and recognized for its role in virulence when naturally occurring isolates lacking LPS showed reduced survival. The hydrophobic lipid A region constitutes mostly the outer coating of the outer membrane and is responsible for many of the endotoxic properties attributed to LPS. Thermotropic phase behavior and immunochemical analysis of <italic>B. abortus</italic> and <italic>B. melitensis</italic> lipid A suggest a disaccharide backbone molecule linked in a &#x3B2;1&#x2013;6 configuration. Nevertheless, our study only demonstrated reduced virulence and easy clearance <italic>in vivo</italic> with mice infection experiments. We did not examine the LPS structure of the strain CMCC55210a in depth compared with CMCC55210 and did not determine the protective ability of the strain CMCC55210a as a vaccine strain. Our results show that attenuated strain CMCC55210a has potential as a vaccine strain.</p>
+      <p>The type I restriction&#x2013;modification (RM) system contains three host specificity determinant (hsd) genes coding a modification subunit (M), which protects the host DNA through DNA methylation by methyltransferase activity; a restriction subunit (R), which digests the foreign DNA by restriction endonuclease activity; and a specificity subunit (S), which determines the recognition sequence of both restriction and modification activities by the central repeat region and two target recognition domains (TRDs). Type I restriction endonucleases can influence the composition and dynamics of the gut microbiota by providing certain bacterial strains with a competitive advantage. Bacteria equipped with specific R&#x2013;M systems can protect themselves against invading foreign DNA, potentially altering the balance of microbial species within the gut environment. Another mutation in gene hsdM might affect the function of the R&#x2013;M system and the methylation from the whole bacteria level. Studies showed that hsdS contributed to bacterial anti-phagocytosis and survival in adverse host environments by positively impacting the transcription of two peptidoglycan-binding protein genes, enhancing resistance to reactive oxygen species, and reducing the secretion of TNF-&#x3B1; and nitric oxide by phagocytes. Different strains with broken R-M systems showed different virulence changes (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B53" ref-type="bibr">53</xref>&#x2013;<xref rid="B55" ref-type="bibr">55</xref>). We hypothesize that the mutation occurring in subunit HsdM of strain CMCC55210 assists virulence reduction.</p>
+      <p>Current vaccines such as S19 and RB51 for cattle are live attenuated strains, which have proven effective but have limitations, including residual virulence in humans and interference with diagnostic tests. Future strategies may involve the development of safer, genetically modified live attenuated vaccines that maintain immunogenicity but have reduced virulence and are distinguishable from wild-type strains in diagnostic tests. This opens up a new possible strategy for screening ideal vaccines by disrupting the function of the bacterial R-M system in conjunction with targeted LPS synthesis-related gene mutations.</p>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>5 Conclusion</title>
+      <p>We obtained a spontaneously rough strain named CMCC55210a, which evolved from the smooth strain <italic>BM</italic> CMCC55210. Biochemical identification tests and <italic>in vivo</italic> experiments in mice verified the strain to be stable and attenuated. Through comparative genomic analysis, a possible mechanism of virulence reduction from single nucleotide mutation in phosphomannomutase encoding gene manB was shown at the gene level. Contributing to understanding the complex relationship between pathogens, the gut microbiome, and the immune system, it also opens avenues for innovative therapeutic interventions in inflammatory diseases driven by microbial and immune dysregulation.</p>
+    </sec>
+    <sec sec-type="data-availability" id="s6">
+      <title>Data availability statement</title>
+      <p>The original contributions presented in the study are included in the article/<xref rid="SM1" ref-type="supplementary-material">Supplementary material</xref>, further inquiries can be directed to the corresponding author.</p>
+    </sec>
+    <sec sec-type="ethics-statement" id="s7">
+      <title>Ethics statement</title>
+      <p>The animal study was reviewed and approved by Animal Welfare and Ethics Committee of the School of Basic Medical Science of Fudan University (Approval No. 20201105-001).</p>
+    </sec>
+    <sec sec-type="author-contributions" id="s8">
+      <title>Author contributions</title>
+      <p>WH: Conceptualization, Methodology, Writing&#x2014;original draft. DW: Conceptualization, Formal analysis, Methodology, Writing&#x2014;original draft. ZS: Data curation, Software, Writing&#x2014;original draft. DQ: Project administration, Supervision, Writing&#x2014;review &amp; editing.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The handling editor JT declared a shared parent affiliation with the authors WH, ZS, DQ at the time of review.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s10">
+      <title>Publisher's note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="s11">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fmed.2024.1363785/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fmed.2024.1363785/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <media xlink:href="Table_1.XLSX"/>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Dahouk</surname><given-names>SA</given-names></name><name><surname>Pappas</surname><given-names>G</given-names></name><name><surname>Roth</surname><given-names>F</given-names></name><name><surname>Matope</surname><given-names>G</given-names></name><name><surname>Muma</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>A &#x201C;One Health&#x201D; surveillance and control of brucellosis in developing countries: moving away from improvisation</article-title>. <source>Comp Immunol Microbiol Infect Dis.</source> (<year>2013</year>) <volume>36</volume>:<fpage>241</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.cimid.2012.09.001</pub-id><pub-id pub-id-type="pmid">23044181</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franc</surname><given-names>KA</given-names></name><name><surname>Krecek</surname><given-names>RC</given-names></name><name><surname>H&#xE4;sler</surname><given-names>BN</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>AM</given-names></name></person-group>. <article-title>Brucellosis remains a neglected disease in the developing world: a call for interdisciplinary action</article-title>. <source>BMC Public Health.</source> (<year>2018</year>) <volume>18</volume>:<fpage>125</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-017-5016-y</pub-id><pub-id pub-id-type="pmid">29325516</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rajendhran</surname><given-names>J</given-names></name></person-group>. <article-title>Genomic insights into <italic>Brucella</italic></article-title>. <italic>Infect Genet Evol</italic>. (<year>2021</year>) <volume>87</volume>:<fpage>104635</fpage>. <pub-id pub-id-type="doi">10.1016/j.meegid.2020.104635</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vemulapalli</surname><given-names>R</given-names></name><name><surname>McQuiston</surname><given-names>JR</given-names></name><name><surname>Schurig</surname><given-names>GG</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name><name><surname>Halling</surname><given-names>SM</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name></person-group>. <article-title>Identification of an IS711 element interrupting the wboA gene of <italic>Brucella abortus</italic> vaccine strain RB51 and a PCR assay to distinguish strain RB51 from other <italic>Brucella</italic> species and strains</article-title>. <source>Clin Diagn Lab Immunol.</source> (<year>1999</year>) <volume>6</volume>:<fpage>760</fpage>&#x2013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.1128/CDLI.6.5.760-764.1999</pub-id><pub-id pub-id-type="pmid">10473532</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Alton</surname><given-names>GG</given-names></name><name><surname>Jones</surname><given-names>LM</given-names></name><name><surname>Pietz</surname><given-names>DE</given-names></name></person-group>. <source>Laboratory Techniques in Brucellosis</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organisation.</publisher-name> (<year>1975</year>).</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>White</surname><given-names>PG</given-names></name><name><surname>Wilson</surname><given-names>JB</given-names></name></person-group>. <article-title>Differentiation of smooth and nonsmooth colonies of Brucellae</article-title>. <source>J Bacteriol.</source> (<year>1951</year>) <volume>61</volume>:<fpage>239</fpage>&#x2013;<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1128/jb.61.2.239-240.1951</pub-id><pub-id pub-id-type="pmid">14824102</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDuff</surname><given-names>CR</given-names></name><name><surname>Jones</surname><given-names>LM</given-names></name><name><surname>Wilson</surname><given-names>JB</given-names></name></person-group>. <article-title>Characteristics of Brucellaphage</article-title>. <source>J Bacteriol.</source> (<year>1962</year>) <volume>83</volume>:<fpage>324</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1128/jb.83.2.324-329.1962</pub-id><pub-id pub-id-type="pmid">16561929</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Besemer</surname><given-names>J</given-names></name><name><surname>Lomsadze</surname><given-names>A</given-names></name><name><surname>Borodovsky</surname><given-names>M</given-names></name></person-group>. <article-title>GeneMarkS: a self-training method for prediction of gene starts in microbial genomes. Implications for finding sequence motifs in regulatory regions</article-title>. <source>Nucleic Acids Res.</source> (<year>2001</year>) <volume>29</volume>:<fpage>2607</fpage>&#x2013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1093/nar/29.12.2607</pub-id><pub-id pub-id-type="pmid">11410670</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buchfink</surname><given-names>B</given-names></name><name><surname>Xie</surname><given-names>C</given-names></name><name><surname>Huson</surname><given-names>DH</given-names></name></person-group>. <article-title>Fast and sensitive protein alignment using DIAMOND</article-title>. <source>Nat Methods.</source> (<year>2015</year>) <volume>12</volume>:<fpage>59</fpage>&#x2013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.3176</pub-id><pub-id pub-id-type="pmid">25402007</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>Bertelli C Laird MR Williams KP Simon Fraser University Research Computing Group Lau BY Hoad G </collab></person-group>. <article-title>IslandViewer 4: expanded prediction of genomic islands for larger-scale datasets</article-title>. <source>Nucleic Acids Res</source>. (<year>2017</year>) <volume>45</volume>:<fpage>W30</fpage>&#x2013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkx343</pub-id><pub-id pub-id-type="pmid">28472413</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Akhter</surname><given-names>S</given-names></name><name><surname>Aziz</surname><given-names>RK</given-names></name><name><surname>Edwards</surname><given-names>RA</given-names></name></person-group>. <article-title>PhiSpy: a novel algorithm for finding prophages in bacterial genomes that combines similarity- and composition-based strategies</article-title>. <source>Nucleic Acids Res.</source> (<year>2012</year>) <volume>40</volume>:<fpage>e126</fpage>. <pub-id pub-id-type="doi">10.1093/nar/gks406</pub-id><pub-id pub-id-type="pmid">22584627</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richter</surname><given-names>M</given-names></name><name><surname>Rossell&#xF3;-M&#xF3;ra</surname><given-names>R</given-names></name><name><surname>Gl&#xF6;ckner</surname><given-names>FO</given-names></name><name><surname>Peplies</surname><given-names>J</given-names></name></person-group>. <article-title>JSpeciesWS: a web server for prokaryotic species circumscription based on pairwise genome comparison</article-title>. <source>Bioinformatics.</source> (<year>2016</year>) <volume>32</volume>:<fpage>929</fpage>&#x2013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btv681</pub-id><pub-id pub-id-type="pmid">26576653</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurtz</surname><given-names>S</given-names></name><name><surname>Phillippy</surname><given-names>A</given-names></name><name><surname>Delcher</surname><given-names>AL</given-names></name><name><surname>Smoot</surname><given-names>M</given-names></name><name><surname>Shumway</surname><given-names>M</given-names></name><name><surname>Antonescu</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Versatile and open software for comparing large genomes</article-title>. <source>Genome Biol.</source> (<year>2004</year>) <volume>5</volume>:<fpage>R12</fpage>. <pub-id pub-id-type="doi">10.1186/gb-2004-5-2-r12</pub-id><pub-id pub-id-type="pmid">14759262</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Khedkar</surname><given-names>S</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name></person-group>. <article-title>SMART: recent updates, new developments and status in 2020</article-title>. <source>Nucleic Acids Res.</source> (<year>2021</year>) <volume>49</volume>:<fpage>D458</fpage>&#x2013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkaa937</pub-id><pub-id pub-id-type="pmid">33104802</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gardner</surname><given-names>SN</given-names></name><name><surname>Slezak</surname><given-names>T</given-names></name><name><surname>Hall</surname><given-names>BG</given-names></name></person-group>. <article-title>kSNP3</article-title>.0: SNP detection and phylogenetic analysis of genomes without genome alignment or reference genome. <source>Bioinformatics</source>. (<year>2015</year>) <volume>31</volume>:<fpage>2877</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btv271</pub-id><pub-id pub-id-type="pmid">25913206</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name></person-group>. <article-title>Interactive Tree Of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation</article-title>. <source>Nucleic Acids Res.</source> (<year>2021</year>) <volume>49</volume>:<fpage>W293</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkab301</pub-id><pub-id pub-id-type="pmid">33885785</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sheehan</surname><given-names>LM</given-names></name><name><surname>Caswell</surname><given-names>CC</given-names></name></person-group>. <article-title>A 6-nucleotide regulatory motif within the AbcR small RNAs of <italic>Brucella abortus</italic> mediates host-pathogen interactions</article-title>. <source>mBio.</source> (<year>2017</year>) <volume>8</volume>:<fpage>e00473</fpage>&#x2013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1128/mBio.00473-17</pub-id><pub-id pub-id-type="pmid">28588127</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Budnick</surname><given-names>JA</given-names></name><name><surname>Sheehan</surname><given-names>LM</given-names></name><name><surname>Kang</surname><given-names>L</given-names></name><name><surname>Michalak</surname><given-names>P</given-names></name><name><surname>Caswell</surname><given-names>CC</given-names></name></person-group>. <article-title>Characterization of three small proteins in <italic>Brucella abortus</italic> linked to fucose utilization</article-title>. <source>J Bacteriol.</source> (<year>2018</year>) <volume>200</volume>:<fpage>e00127</fpage>&#x2013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1128/JB.00127-18</pub-id><pub-id pub-id-type="pmid">29967118</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bao</surname><given-names>Y</given-names></name><name><surname>Tian</surname><given-names>M</given-names></name><name><surname>Li</surname><given-names>P</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Ding</surname><given-names>C</given-names></name><name><surname>Yu</surname><given-names>S</given-names></name></person-group>. <article-title>Characterization of <italic>Brucella abortus</italic> mutant strain &#x394;22915, a potential vaccine candidate</article-title>. <source>Vet Res.</source> (<year>2017</year>) <volume>48</volume>:<fpage>17</fpage>. <pub-id pub-id-type="doi">10.1186/s13567-017-0422-9</pub-id><pub-id pub-id-type="pmid">28376905</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>T</given-names></name><name><surname>Tong</surname><given-names>Z</given-names></name><name><surname>Huang</surname><given-names>M</given-names></name><name><surname>Tang</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Chen</surname><given-names>C</given-names></name></person-group>. <article-title><italic>Brucella melitensis</italic> M5-90&#x394;bp26 as a potential live vaccine that allows for the distinction between natural infection and immunization</article-title>. <source>Can J Microbiol.</source> (<year>2017</year>) <volume>63</volume>:<fpage>719</fpage>&#x2013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1139/cjm-2017-0179</pub-id><pub-id pub-id-type="pmid">28482164</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DelVecchio</surname><given-names>VG</given-names></name><name><surname>Kapatral</surname><given-names>V</given-names></name><name><surname>Redkar</surname><given-names>RJ</given-names></name><name><surname>Patra</surname><given-names>G</given-names></name><name><surname>Mujer</surname><given-names>C</given-names></name><name><surname>Los</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>The genome sequence of the facultative intracellular pathogen <italic>Brucella melitensis</italic></article-title>. <italic>Proc Natl Acad Sci U S A</italic>. (<year>2002</year>) <volume>99</volume>:<fpage>443</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.221575398</pub-id><pub-id pub-id-type="pmid">11756688</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Urbonavicius</surname><given-names>J</given-names></name><name><surname>Jager</surname><given-names>G</given-names></name><name><surname>Bjork</surname><given-names>GR</given-names></name></person-group>. <article-title>Amino acid residues of the <italic>Escherichia coli</italic> tRNA(m5U54)methyltransferase (TrmA) critical for stability, covalent binding of tRNA and enzymatic activity</article-title>. <source>Nucleic Acids Res.</source> (<year>2007</year>) <volume>35</volume>:<fpage>3297</fpage>&#x2013;<lpage>305</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkm205</pub-id><pub-id pub-id-type="pmid">17459887</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nishimasu</surname><given-names>H</given-names></name><name><surname>Ishitani</surname><given-names>R</given-names></name><name><surname>Yamashita</surname><given-names>K</given-names></name><name><surname>Iwashita</surname><given-names>C</given-names></name><name><surname>Hirata</surname><given-names>A</given-names></name><name><surname>Hori</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Atomic structure of a folate/FAD-dependent tRNA T54 methyltransferase</article-title>. <source>Proc Natl Acad Sci U S A.</source> (<year>2009</year>) <volume>106</volume>:<fpage>8180</fpage>&#x2013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0901330106</pub-id><pub-id pub-id-type="pmid">19416846</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Urbonavicius</surname><given-names>J</given-names></name><name><surname>Brochier-Armanet</surname><given-names>C</given-names></name><name><surname>Skouloubris</surname><given-names>S</given-names></name><name><surname>Myllykallio</surname><given-names>H</given-names></name><name><surname>Grosjean</surname><given-names>H</given-names></name></person-group>. <italic>In vitro</italic></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>detection detection of the enzymatic activity of folate-dependent tRNA (Uracil-54</collab><name><surname>-C5)-methyltransferase: evolutionary</surname><given-names>implications</given-names></name></person-group>. <source>Methods Enzymol.</source> (<year>2007</year>) <volume>425</volume>:<fpage>103</fpage>&#x2013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1016/S0076-6879(07)25004-9</pub-id><pub-id pub-id-type="pmid">17673080</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bjork</surname><given-names>GR</given-names></name><name><surname>Wikstrom</surname><given-names>PM</given-names></name><name><surname>Bystrom</surname><given-names>AS</given-names></name></person-group>. <article-title>Prevention of translational frameshifting by the modified nucleoside 1-methylguanosine</article-title>. <source>Science.</source> (<year>1989</year>) <volume>244</volume>:<fpage>986</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1126/science.2471265</pub-id><pub-id pub-id-type="pmid">2471265</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gamper</surname><given-names>HB</given-names></name><name><surname>Masuda</surname><given-names>I</given-names></name><name><surname>Frenkel-Morgenstern</surname><given-names>M</given-names></name><name><surname>Hou</surname><given-names>Y-M</given-names></name></person-group>. <article-title>Maintenance of protein synthesis reading frame by EF-P and m(1)G37-tRNA</article-title>. <source>Nat Commun.</source> (<year>2015</year>) <volume>6</volume>:<fpage>7226</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms8226</pub-id><pub-id pub-id-type="pmid">26009254</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goto-Ito</surname><given-names>S</given-names></name><name><surname>Ito</surname><given-names>T</given-names></name><name><surname>Yokoyama</surname><given-names>S</given-names></name></person-group>. <article-title>Trm5 and TrmD: two enzymes from distinct origins catalyze the identical tRNA modification, m(1)G37</article-title>. <source>Biomolecules.</source> (<year>2017</year>) <volume>7</volume>:<fpage>32</fpage>. <pub-id pub-id-type="doi">10.3390/biom7010032</pub-id><pub-id pub-id-type="pmid">28335556</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blakely</surname><given-names>G</given-names></name><name><surname>May</surname><given-names>G</given-names></name><name><surname>McCulloch</surname><given-names>R</given-names></name><name><surname>Arciszewska</surname><given-names>LK</given-names></name><name><surname>Burke</surname><given-names>M</given-names></name><name><surname>Lovett</surname><given-names>ST</given-names></name><etal/></person-group>. <article-title>Two related recombinases are required for site-specific recombination at dif and cer in <italic>E. coli</italic> K12</article-title>. <source>Cell.</source> (<year>1993</year>) <volume>75</volume>:<fpage>351</fpage>&#x2013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/0092-8674(93)80076-Q</pub-id><pub-id pub-id-type="pmid">8402918</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McClintock</surname><given-names>B</given-names></name></person-group>. <article-title>Correlation A of ring-shaped chromosomes with variegation in <italic>Zea mays</italic></article-title>. <italic>Proc Natl Acad Sci U S A</italic>. (<year>1932</year>) <volume>18</volume>:<fpage>677</fpage>&#x2013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.18.12.677</pub-id><pub-id pub-id-type="pmid">16577496</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bonne</surname><given-names>L</given-names></name><name><surname>Bigot</surname><given-names>S</given-names></name><name><surname>Chevalier</surname><given-names>F</given-names></name><name><surname>Allemand</surname><given-names>JF</given-names></name><name><surname>Barre</surname><given-names>FX</given-names></name></person-group>. <article-title>Asymmetric DNA requirements in Xer recombination activation by FtsK</article-title>. <source>Nucleic Acids Res.</source> (<year>2009</year>) <volume>37</volume>:<fpage>2371</fpage>&#x2013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkp104</pub-id><pub-id pub-id-type="pmid">19246541</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shimokawa</surname><given-names>K</given-names></name><name><surname>Ishihara</surname><given-names>K</given-names></name><name><surname>Grainge</surname><given-names>I</given-names></name><name><surname>Sherratt</surname><given-names>DJ</given-names></name><name><surname>Vazquez</surname><given-names>M</given-names></name></person-group>. <article-title>FtsK-dependent XerCD-dif recombination unlinks replication catenanes in a stepwise manner</article-title>. <source>Proc Natl Acad Sci U S A.</source> (<year>2013</year>) <volume>110</volume>:<fpage>20906</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1308450110</pub-id><pub-id pub-id-type="pmid">24218579</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Karaboja</surname><given-names>X</given-names></name><name><surname>Ren</surname><given-names>Z</given-names></name><name><surname>Brand&#xE3;o</surname><given-names>HB</given-names></name><name><surname>Paul</surname><given-names>P</given-names></name><name><surname>Rudner</surname><given-names>DZ</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name></person-group>. <article-title>XerD unloads bacterial SMC complexes at the replication terminus</article-title>. <source>Mol Cell</source>. (<year>2021</year>) <volume>81</volume>:<fpage>756</fpage>. <pub-id pub-id-type="doi">10.1016/j.molcel.2020.12.027</pub-id><pub-id pub-id-type="pmid">33472056</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sauer</surname><given-names>U</given-names></name><name><surname>Canonaco</surname><given-names>F</given-names></name><name><surname>Heri</surname><given-names>S</given-names></name><name><surname>Perrenoud</surname><given-names>A</given-names></name><name><surname>Fischer</surname><given-names>E</given-names></name></person-group>. <article-title>The soluble and membrane-bound transhydrogenases UdhA and PntAB have divergent functions in NADPH metabolism of <italic>Escherichia coli</italic></article-title>. <italic>J Biol Chem</italic>. (<year>2004</year>) <volume>279</volume>:<fpage>6613</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.M311657200</pub-id><pub-id pub-id-type="pmid">14660605</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Quay</surname><given-names>SC</given-names></name><name><surname>Dick</surname><given-names>TE</given-names></name><name><surname>Oxender</surname><given-names>DL</given-names></name></person-group>. <article-title>Role of transport systems in amino acid metabolism: leucine toxicity and the branched-chain amino acid transport systems</article-title>. <source>J Bacteriol.</source> (<year>1977</year>) <volume>129</volume>:<fpage>1257</fpage>&#x2013;<lpage>65</lpage>. <pub-id pub-id-type="doi">10.1128/jb.129.3.1257-1265.1977</pub-id><pub-id pub-id-type="pmid">321421</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clifton</surname><given-names>BE</given-names></name><name><surname>Fariz</surname><given-names>MA</given-names></name><name><surname>Uechi</surname><given-names>G-I</given-names></name><name><surname>Laurino</surname><given-names>P</given-names></name></person-group>. <article-title>Evolutionary repair reveals an unexpected role of the tRNA modification m1G37 in aminoacylation</article-title>. <source>Nucleic Acids Res.</source> (<year>2021</year>) <volume>49</volume>:<fpage>12467</fpage>&#x2013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkab1067</pub-id><pub-id pub-id-type="pmid">34761260</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>PH</given-names></name><name><surname>Touchon</surname><given-names>M</given-names></name><name><surname>Rocha</surname><given-names>EPC</given-names></name></person-group>. <article-title>The interplay of restriction-modification systems with mobile genetic elements and their prokaryotic hosts</article-title>. <source>Nucleic Acids Res.</source> (<year>2014</year>) <volume>42</volume>:<fpage>10618</fpage>&#x2013;<lpage>U803</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gku734</pub-id><pub-id pub-id-type="pmid">25120263</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dy</surname><given-names>RL</given-names></name><name><surname>Richter</surname><given-names>C</given-names></name><name><surname>Salmond</surname><given-names>GPC</given-names></name><name><surname>Fineran</surname><given-names>PC</given-names></name></person-group>. <article-title>Remarkable mechanisms in microbes to resist phage infections</article-title>. <source>Ann Rev Virol.</source> (<year>2014</year>) <volume>1</volume>, <fpage>307</fpage>&#x2013;<lpage>331</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-virology-031413-085500</pub-id><pub-id pub-id-type="pmid">26958724</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Youell</surname><given-names>J</given-names></name><name><surname>Firman</surname><given-names>K</given-names></name></person-group>. <article-title>Mechanistic insight into Type I restriction endonucleases</article-title>. <source>Front Biosci.</source> (<year>2012</year>) <volume>17</volume>:<fpage>2122</fpage>&#x2013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.2741/4041</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loenen</surname><given-names>WAM</given-names></name><name><surname>Dryden</surname><given-names>DT</given-names></name><name><surname>Raleigh</surname><given-names>EA</given-names></name><name><surname>Wilson</surname><given-names>GG</given-names></name></person-group>. <article-title>Type I restriction enzymes and their relatives</article-title>. <source>Nucleic Acids Res.</source> (<year>2014</year>) <volume>42</volume>:<fpage>20</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkt847</pub-id><pub-id pub-id-type="pmid">24068554</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>PH</given-names></name><name><surname>Touchon</surname><given-names>M</given-names></name><name><surname>Rocha</surname><given-names>EPC</given-names></name></person-group>. <article-title>Regulation of genetic flux between bacteria by restriction&#x2013;modification systems</article-title>. <source>Proc Nat Acad Sci.</source> (<year>2016</year>) <volume>113</volume>:<fpage>5658</fpage>&#x2013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1603257113</pub-id><pub-id pub-id-type="pmid">27140615</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hu</surname><given-names>X</given-names></name><name><surname>Zhou</surname><given-names>X</given-names></name><name><surname>Yin</surname><given-names>T</given-names></name><name><surname>Chen</surname><given-names>K</given-names></name><name><surname>Hu</surname><given-names>Y</given-names></name><name><surname>Zhu</surname><given-names>B</given-names></name><etal/></person-group>. <article-title>The Mycobacterial DNA methyltransferase HsdM decreases intrinsic isoniazid susceptibility</article-title>. <source>Antibiotics.</source> (<year>2021</year>) <volume>10</volume>:<fpage>1323</fpage>. <pub-id pub-id-type="doi">10.3390/antibiotics10111323</pub-id><pub-id pub-id-type="pmid">34827261</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>RD</given-names></name><name><surname>Luyten</surname><given-names>YA</given-names></name><name><surname>Johnson</surname><given-names>SA</given-names></name><name><surname>Clough</surname><given-names>EM</given-names></name><name><surname>Clark</surname><given-names>TA</given-names></name><name><surname>Roberts</surname><given-names>RJ</given-names></name></person-group>. <article-title>Novel m4C modification in type I restriction-modification systems</article-title>. <source>Nucleic Acids Res.</source> (<year>2016</year>) <volume>44</volume>:<fpage>9413</fpage>&#x2013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkw743</pub-id><pub-id pub-id-type="pmid">27580720</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adams</surname><given-names>MD</given-names></name><name><surname>Wagner</surname><given-names>LM</given-names></name><name><surname>Graddis</surname><given-names>TJ</given-names></name><name><surname>Landick</surname><given-names>R</given-names></name><name><surname>Antonucci</surname><given-names>TK</given-names></name><name><surname>Gibson</surname><given-names>AL</given-names></name><etal/></person-group>. <article-title>Nucleotide sequence and genetic characterization reveal six essential genes for the LIV-I and LS transport systems of <italic>Escherichia coli</italic></article-title>. <italic>J Biol Chem</italic>. (<year>1990</year>) <volume>265</volume>:<fpage>11436</fpage>&#x2013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/S0021-9258(19)38417-0</pub-id><pub-id pub-id-type="pmid">2195019</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charusanti</surname><given-names>P</given-names></name><name><surname>Conrad</surname><given-names>TM</given-names></name><name><surname>Knight</surname><given-names>EM</given-names></name><name><surname>Venkataraman</surname><given-names>K</given-names></name><name><surname>Fong</surname><given-names>NL</given-names></name><name><surname>Xie</surname><given-names>B</given-names></name><etal/></person-group>. <article-title>Genetic basis of growth adaptation of <italic>Escherichia coli</italic> after deletion of pgi, a major metabolic gene</article-title>. <source>Plos Genet</source>. (<year>2010</year>) <volume>6</volume>:<fpage>e1001186</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pgen.1001186</pub-id><pub-id pub-id-type="pmid">21079674</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Kim</surname><given-names>SA</given-names></name><name><surname>Fang</surname><given-names>R</given-names></name><name><surname>Han</surname><given-names>NS</given-names></name></person-group>. <article-title>Expression of manB gene from <italic>Escherichia coli</italic> in <italic>Lactococcus lactis</italic> and characterization of its bifunctional enzyme, phosphomannomutase</article-title>. <source>J Microbiol Biotechnol.</source> (<year>2018</year>) <volume>28</volume>:<fpage>1293</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.4014/jmb.1804.04030</pub-id><pub-id pub-id-type="pmid">29996619</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cardoso</surname><given-names>PG</given-names></name><name><surname>Macedo</surname><given-names>GC</given-names></name><name><surname>Azevedo</surname><given-names>V</given-names></name><name><surname>Oliveira</surname><given-names>SC</given-names></name></person-group>. <article-title><italic>Brucella</italic> spp noncanonical LPS: structure, biosynthesis, and interaction with host immune system</article-title>. <source>Microb Cell Fact.</source> (<year>2006</year>) <volume>5</volume>:<fpage>13</fpage>. <pub-id pub-id-type="doi">10.1186/1475-2859-5-13</pub-id><pub-id pub-id-type="pmid">16556309</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonz&#xE1;lez</surname><given-names>D</given-names></name><name><surname>Grill&#xF3;</surname><given-names>M-J</given-names></name><name><surname>De Miguel</surname><given-names>M-J</given-names></name><name><surname>Ali</surname><given-names>T</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V</given-names></name><name><surname>Delrue</surname><given-names>R-M</given-names></name><etal/></person-group>. <article-title>Brucellosis vaccines: assessment of <italic>Brucella melitensis</italic> lipopolysaccharide rough mutants defective in core and O-polysaccharide synthesis and export</article-title>. <source>PLoS ONE.</source> (<year>2008</year>) <volume>3</volume>:<fpage>e2760</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0002760</pub-id><pub-id pub-id-type="pmid">18648644</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Imai</surname><given-names>K</given-names></name><name><surname>Mitaku</surname><given-names>S</given-names></name></person-group>. <article-title>Mechanisms of secondary structure breakers in soluble proteins</article-title>. <source>Biophysics.</source> (<year>2005</year>) <volume>1</volume>:<fpage>55</fpage>&#x2013;<lpage>65</lpage>. <pub-id pub-id-type="doi">10.2142/biophysics.1.55</pub-id><pub-id pub-id-type="pmid">27857553</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Heidary</surname><given-names>M</given-names></name><name><surname>Dashtbin</surname><given-names>S</given-names></name><name><surname>Ghanavati</surname><given-names>R</given-names></name><name><surname>Mahdizade Ari</surname><given-names>M</given-names></name><name><surname>Bostanghadiri</surname><given-names>N</given-names></name><name><surname>Darbandi</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Evaluation of brucellosis vaccines: a comprehensive review</article-title>. <source>Front Vet Sci.</source> (<year>2022</year>) <volume>9</volume>:<fpage>925773</fpage>. <pub-id pub-id-type="doi">10.3389/fvets.2022.925773</pub-id><pub-id pub-id-type="pmid">35923818</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O'Callaghan</surname><given-names>D</given-names></name></person-group>. <article-title>Human brucellosis: recent advances and future challenges</article-title>. <source>Infect Dis Poverty.</source> (<year>2020</year>) <volume>9</volume>:<fpage>101</fpage>. <pub-id pub-id-type="doi">10.1186/s40249-020-00715-1</pub-id><pub-id pub-id-type="pmid">32703319</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hou</surname><given-names>H</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Peng</surname><given-names>Q</given-names></name></person-group>. <article-title>The advances in brucellosis vaccines</article-title>. <source>Vaccine.</source> (<year>2019</year>) <volume>37</volume>:<fpage>3981</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.vaccine.2019.05.084</pub-id><pub-id pub-id-type="pmid">31176541</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Yin</surname><given-names>S</given-names></name><name><surname>Yi</surname><given-names>D</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Guo</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>The Brucella melitensis M5-90&#x394;manB live vaccine candidate is safer than M5-90 and confers protection against wild-type challenge in BALB/c mice</article-title>. <source>Microb Pathog.</source> (<year>2017</year>) <volume>112</volume>:<fpage>148</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.micpath.2017.09.016</pub-id><pub-id pub-id-type="pmid">28916316</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B54">
+        <label>54.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shaw</surname><given-names>LP</given-names></name><name><surname>Rocha</surname><given-names>EPC</given-names></name><name><surname>MacLean</surname><given-names>RC</given-names></name></person-group>. <article-title>Restriction-modification systems have shaped the evolution and distribution of plasmids across bacteria</article-title>. <source>Nucleic Acids Res.</source> (<year>2023</year>) <volume>51</volume>:<fpage>6806</fpage>&#x2013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gkad452</pub-id><pub-id pub-id-type="pmid">37254807</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chu</surname><given-names>H</given-names></name><name><surname>Hu</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>B</given-names></name><name><surname>Sun</surname><given-names>Z</given-names></name><name><surname>Zhu</surname><given-names>B</given-names></name></person-group>. <article-title>DNA methyltransferase HsdM induce drug resistance on <italic>Mycobacterium tuberculosis</italic> via Multiple Effects</article-title>. <source>Antibiotics.</source> (<year>2021</year>) <volume>10</volume>:<fpage>1544</fpage>. <pub-id pub-id-type="doi">10.3390/antibiotics10121544</pub-id><pub-id pub-id-type="pmid">34943756</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

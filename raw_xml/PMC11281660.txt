@@ -1,0 +1,983 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Vet Sci</journal-id><journal-id journal-id-type="iso-abbrev">Vet Sci</journal-id><journal-id journal-id-type="publisher-id">vetsci</journal-id><journal-title-group><journal-title>Veterinary Sciences</journal-title></journal-title-group><issn pub-type="epub">2306-7381</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39057972</article-id><article-id pub-id-type="pmc">11281660</article-id>
+<article-id pub-id-type="doi">10.3390/vetsci11070288</article-id><article-id pub-id-type="publisher-id">vetsci-11-00288</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Investigation of the Seroprevalence of Brucella Antibodies and Characterization of Field Strains in Immunized Dairy Cows by <italic toggle="yes">B. abortus</italic> A19</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Shi</surname><given-names>Yong</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Cui</surname><given-names>Yimeng</given-names></name><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Wudong</surname><given-names>Gaowa</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Shengnan</given-names></name><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Yuan</surname><given-names>Ye</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Danyu</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Yin</surname><given-names>Shurong</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Diao</surname><given-names>Ziyang</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Bin</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>Dong</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Xuejun</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="af3-vetsci-11-00288" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Zhanlin</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="af4-vetsci-11-00288" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Fengxia</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="af4-vetsci-11-00288" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Xie</surname><given-names>Min</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="af4-vetsci-11-00288" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Zhao</surname><given-names>Zehui</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Resources" vocab-term-identifier="https://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="af4-vetsci-11-00288" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Aihua</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref><xref rid="c1-vetsci-11-00288" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Jin</surname><given-names>Yaping</given-names></name><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><xref rid="af1-vetsci-11-00288" ref-type="aff">1</xref><xref rid="af2-vetsci-11-00288" ref-type="aff">2</xref><xref rid="c1-vetsci-11-00288" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-vetsci-11-00288"><label>1</label>College of Veterinary Medicine, Northwest A&amp;F University, Yangling District, Xianyang 712100, China; <email>hongxuelan@nwafu.edu.cn</email> (Y.S.); <email>cui_yimeng@nwafu.edu.cn</email> (Y.C.); <email>wudonggaowaa@163.com</email> (G.W.); <email>lisn9912@163.com</email> (S.L.); <email>15637737955@163.com</email> (Y.Y.); <email>zhaodanyu@nwafu.edu.cn</email> (D.Z.); <email>yinshurong2442@163.com</email> (S.Y.); <email>13884704285@163.com</email> (Z.D.); <email>zhoudong1949@163.com</email> (D.Z.)</aff><aff id="af2-vetsci-11-00288"><label>2</label>Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, Northwest A&amp;F University, Yangling District, Xianyang 712100, China</aff><aff id="af3-vetsci-11-00288"><label>3</label>Animal Health Supervision Institute of Lingwu City, Lingwu 750400, China; <email>lwdwwsids_2006@126.com</email></aff><aff id="af4-vetsci-11-00288"><label>4</label>Animal Disease Control and Prevention Center of Lingwu City, Lingwu 750400, China</aff><author-notes><corresp id="c1-vetsci-11-00288"><label>*</label>Correspondence: <email>wangaihua@nwafu.edu.cn</email> (A.W.); <email>yapingjin@nwafu.edu.cn</email> (Y.J.)</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>6</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2024</year></pub-date><volume>11</volume><issue>7</issue><elocation-id>288</elocation-id><history><date date-type="received"><day>02</day><month>4</month><year>2024</year></date><date date-type="rev-recd"><day>14</day><month>6</month><year>2024</year></date><date date-type="accepted"><day>26</day><month>6</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 by the authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><sec><title>Simple Summary</title><p><italic toggle="yes">Brucella abortus</italic> strain 19 vaccines, including A19 and S19 vaccines, are widely used to prevent bovine brucellosis. Vaccine-induced antibodies are usually considered to last for no more than 12 months. After this period, individuals testing positive are excluded because they are presumed to be infected with Brucella field strains. In Ningxia, China, immunization with the <italic toggle="yes">Brucella abortus</italic> strain A19 vaccine is being implemented as part of a brucellosis eradication program. We conducted a serological survey of cattle immunized with the A19 vaccine for over 12 months in Lingwu, Ningxia, from 2021 to 2023. It was found that there was a certain proportion of cows with a persistent antibody titer who were not infected with brucellosis. Therefore, cattle with positive antibodies cannot be eliminated through simple serological detection. Otherwise, a large number of healthy cattle would be mistakenly culled, resulting in significant economic losses. We have also developed a PCR method to distinguish Brucella strain 19 from non-19 Brucella strains and successfully detected 10 <italic toggle="yes">Brucella abortus</italic> field strains from five dairy farms.</p></sec><sec><title>Abstract</title><p>(1) Background: One method of eradicating brucellosis is to cull cattle that test positive for antibodies 12 months after being vaccinated with the 19-strain vaccine. Variations in immunization regimens and feeding practices may contribute to differences in the rate of persistent antibodies. We conducted this study to investigate the real positive rate of Brucella antibody in field strains of <italic toggle="yes">Brucella</italic> spp. after immunization over 12 months in dairy cows. This research aims to provide data to support the development of strategies for preventing, controlling, and eradicating brucellosis. (2) Method: We employed the baseline sampling method to collect samples from cows immunized with the A19 vaccine for over 12 months in Lingwu City from 2021 to 2023. Serological detection was conducted using the RBPT method. An established PCR method that could distinguish between 19 and non-19 strains of Brucella was utilized to investigate the field strains of Brucella on 10 dairy farms based on six samples mixed into one using the Mathematical Expectation strategy. (3) Results: We analyzed the rates of individual seropositivity and herd seropositive rates in dairy cattle in Lingwu City from 2021 to 2023 and revealed that antibodies induced by the <italic toggle="yes">Brucella abortus</italic> strain A19 vaccine persist in dairy herds for more than 12 months. We established a PCR method for identifying both Brucella A19 and non-A19 strains, resulting in the detection of 10 field strains of <italic toggle="yes">Brucella abortus</italic> from 1537 dairy cows. By employing a Mathematical Expectation strategy, we completed testing of 1537 samples after conducting only 306 tests, thereby reducing the workload by 80.1%. (4) Conclusions: There was a certain proportion of cows with a persistent antibody titer, but there was no evidence that all of these cattle were naturally infected with Brucella. The established PCR method for distinguishing between <italic toggle="yes">Brucella abortus</italic> strain 19 and non-19 strains can be specifically utilized for detecting natural Brucella infection in immunized cattle. We propose that relying solely on the detection of antibodies in cattle immunized with the A19 vaccine more than 12 months previously should not be solely relied upon as a diagnostic basis for brucellosis, and it is essential to complement this approach with PCR analysis to specifically identify field <italic toggle="yes">Brucella</italic> spp. <italic toggle="yes">Brucella abortus</italic> was the predominant strain identified in the field during this study. Detection based on the Mathematical Expectation strategy can significantly enhance detection efficiency.</p></sec></abstract><kwd-group><kwd>Brucella</kwd><kwd>Brucellosis</kwd><kwd>persistent antibodies</kwd><kwd><italic toggle="yes">Brucella abortus</italic> strain A19</kwd></kwd-group><funding-group><award-group><funding-source>Research and Development and Application of Prevention and Control Technology for Reproductive Disorders in Dairy Cows</funding-source></award-group><award-group><funding-source>Ningxia Hui Autonomous Region</funding-source><award-id>2018BBF33001</award-id></award-group><funding-statement>This study was supported by the project &#x201C;Research and Development and Application of Prevention and Control Technology for Reproductive Disorders in Dairy Cows&#x201D; led by Professor Yaping Jin. This project is one of the key research and development programs of Ningxia Hui Autonomous Region, and the project fund number is 2018BBF33001.</funding-statement></funding-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="sec1-vetsci-11-00288">
+      <title>1. Introduction</title>
+      <p>Brucellosis is caused by bacteria of the genus Brucella [<xref rid="B1-vetsci-11-00288" ref-type="bibr">1</xref>,<xref rid="B2-vetsci-11-00288" ref-type="bibr">2</xref>], which can lead to a potentially debilitating chronic infection associated with febrile illness in humans, abortion, premature birth, and decreased productivity in livestock [<xref rid="B3-vetsci-11-00288" ref-type="bibr">3</xref>,<xref rid="B4-vetsci-11-00288" ref-type="bibr">4</xref>]. Thus, brucellosis is a serious public health threat and is associated with significant economic losses in the livestock industry [<xref rid="B5-vetsci-11-00288" ref-type="bibr">5</xref>,<xref rid="B6-vetsci-11-00288" ref-type="bibr">6</xref>]. Over 500,000 new human cases of brucellosis are diagnosed each year [<xref rid="B7-vetsci-11-00288" ref-type="bibr">7</xref>,<xref rid="B8-vetsci-11-00288" ref-type="bibr">8</xref>], although the true number of cases is likely to be much higher due to inaccurate diagnosis, inadequate surveillance, and incomplete reporting [<xref rid="B9-vetsci-11-00288" ref-type="bibr">9</xref>]. Brucellosis is widespread throughout the world; only a few countries in the world have successfully achieved brucellosis eradication [<xref rid="B10-vetsci-11-00288" ref-type="bibr">10</xref>].</p>
+      <p><italic toggle="yes">Brucellae</italic> are non-motile, non-spore-forming, and slow-growing Gram-negative coccobacilli belonging to the <italic toggle="yes">Brucellaceae</italic> family in the alpha-2 subclass of the proteobacteria [<xref rid="B11-vetsci-11-00288" ref-type="bibr">11</xref>,<xref rid="B12-vetsci-11-00288" ref-type="bibr">12</xref>]. In recent years, 12 species of Brucella have been identified [<xref rid="B13-vetsci-11-00288" ref-type="bibr">13</xref>]. Brucellosis is transmitted horizontally or vertically among both domestic and feral animals, and person-to-person transmission of the infection is rare [<xref rid="B14-vetsci-11-00288" ref-type="bibr">14</xref>]. <italic toggle="yes">B. melitensis</italic>, <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. suis</italic>, and <italic toggle="yes">B. canis</italic> are the main causes of the disease in humans, with infections resulting from direct contact with birth fluids or infected tissues, or Brucella aerosol [<xref rid="B15-vetsci-11-00288" ref-type="bibr">15</xref>]. Consumption of unpasteurized dairy products infected with <italic toggle="yes">Brucella</italic> spp. is also a major route for human infection [<xref rid="B16-vetsci-11-00288" ref-type="bibr">16</xref>,<xref rid="B17-vetsci-11-00288" ref-type="bibr">17</xref>].</p>
+      <p>A common implication of herd immunity is that the risk of infection among susceptible individuals in a population is reduced by immunity accumulated naturally or through vaccination [<xref rid="B18-vetsci-11-00288" ref-type="bibr">18</xref>,<xref rid="B19-vetsci-11-00288" ref-type="bibr">19</xref>]. Control of zoonotic diseases in human populations has relied heavily on the control of animal disease [<xref rid="B20-vetsci-11-00288" ref-type="bibr">20</xref>]. Vaccination is the main strategy for the prevention and control of brucellosis [<xref rid="B21-vetsci-11-00288" ref-type="bibr">21</xref>,<xref rid="B22-vetsci-11-00288" ref-type="bibr">22</xref>]. <italic toggle="yes">B. abortus</italic> S19, RB51, and <italic toggle="yes">B. melitensis</italic> Rev. 1 vaccines have been widely used in many countries [<xref rid="B23-vetsci-11-00288" ref-type="bibr">23</xref>,<xref rid="B24-vetsci-11-00288" ref-type="bibr">24</xref>,<xref rid="B25-vetsci-11-00288" ref-type="bibr">25</xref>], while <italic toggle="yes">B. abortus</italic> A19, <italic toggle="yes">B. melitensis</italic> M5, and <italic toggle="yes">B. suis</italic> S2 vaccines are used in China [<xref rid="B26-vetsci-11-00288" ref-type="bibr">26</xref>,<xref rid="B27-vetsci-11-00288" ref-type="bibr">27</xref>,<xref rid="B28-vetsci-11-00288" ref-type="bibr">28</xref>].The strains A19 and S19 are predominantly utilized for Brucella vaccination in cattle [<xref rid="B28-vetsci-11-00288" ref-type="bibr">28</xref>]. Both originated from the <italic toggle="yes">Brucella abortus</italic> strain 19, isolated in the United States in 1923. Their genomes exhibit 99.9% homology, with S19 having a 702 bp deletion in the erythritol gene, which gene is complete in A19 [<xref rid="B29-vetsci-11-00288" ref-type="bibr">29</xref>]. Although Brucella live-attenuated vaccines can cause abortions in pregnant animals and are virulent in humans, this approach has played an important part in controlling the spread of epidemics and reducing the incidence of human disease [<xref rid="B30-vetsci-11-00288" ref-type="bibr">30</xref>]. However, most vaccines are made with Brucella smooth strains, as most serologic tests are primarily based on the detection of antibodies against the O-side chain of Brucella. Discriminating between vaccine-induced antibodies and those generated by newly generated field strains poses a challenge [<xref rid="B30-vetsci-11-00288" ref-type="bibr">30</xref>,<xref rid="B31-vetsci-11-00288" ref-type="bibr">31</xref>], making it necessary to use direct detection techniques such as bacterial culture and nucleic acid amplification for the diagnosis of brucellosis in animals.</p>
+      <p>The vaccination-test-slaughter eradication strategy is commonly employed for brucellosis control in many countries [<xref rid="B10-vetsci-11-00288" ref-type="bibr">10</xref>]. Typically, the presence of antibodies is detected for a period of time after vaccination, and antibody-positive livestock are subsequently culled. In China, according to the Technical Points for Brucellosis Prevention and Control (1st edition) issued by the Ministry of Agriculture of the People&#x2019;s Republic of China, cattle should be monitored for A19 vaccine antibodies for a period of 12 months post-immunization. This prescribed approach implicitly recognizes the loss of antibodies 12 months post-immunization with the A19 vaccine. However, it has been reported that vaccine-induced antibodies persist in cattle immunized with the S19 vaccine 12 months after vaccination, making it a challenge to differentiate between vaccine-induced antibodies and those resulting from field strain infection [<xref rid="B32-vetsci-11-00288" ref-type="bibr">32</xref>,<xref rid="B33-vetsci-11-00288" ref-type="bibr">33</xref>]. Consequently, if cattle continue to test positive for antibodies beyond 12 months, indiscriminate culling may lead to the erroneous elimination of cattle that are not infected with <italic toggle="yes">Brucella</italic> spp., causing significant economic losses.</p>
+      <p>Similar to other provinces in northwest China where brucellosis is highly endemic, a livestock immunization program with the brucellosis vaccine has been implemented in NingXia Province. However, there is a paucity of reports regarding the seropositivity rate of anti-Brucella antibodies and the prevalence of field strains in livestock within the areas where this strategy has been implemented. The absence of this data severely hampers the development of effective prevention and control strategies for brucellosis in these regions, particularly human brucellosis [<xref rid="B34-vetsci-11-00288" ref-type="bibr">34</xref>]. The Chinese government has placed great emphasis on the prevention and control of brucellosis, as evidenced by the implementation of the Five-Year Action Plan for Brucellosis Prevention and Control in Livestock (2022&#x2013;2026), which aims to achieve control of the individual positive rate at &lt;0.4% and the herd positive rate at &lt;7%. In 2022, the dairy cow population in Lingwu City reached 196,400 and produced an annual output of 567,900 tons of milk, ranking second in NingXia Province. The expansion of dairy farming in recent years has significantly heightened the risk of brucellosis transmission [<xref rid="B35-vetsci-11-00288" ref-type="bibr">35</xref>,<xref rid="B36-vetsci-11-00288" ref-type="bibr">36</xref>,<xref rid="B37-vetsci-11-00288" ref-type="bibr">37</xref>]. Epidemiological investigation is the first step to achieving the goal of brucellosis eradication. The objective of this study was to determine the seroprevalence of Brucella antibodies, characterize field <italic toggle="yes">Brucella</italic> spp. in immunized dairy herds over 12 months, and discuss the diagnostic criteria for brucellosis in cattle, thereby providing a scientific foundation for epidemiological investigation, control, and eradication of brucellosis in this region as well as other areas where immunization is implemented.</p>
+    </sec>
+    <sec id="sec2-vetsci-11-00288">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-vetsci-11-00288">
+        <title>2.1. Study Design</title>
+        <p>The serology research project ran from March 2021 to July 2023. The serological survey included all large-scale farms and small farmers raising dairy cows in Lingwu City. In Lingwu City, cattle are typically first immunized with the Brucella A19 vaccine between 3 and 8 months of age, followed by a low-dose booster 3 months later via subcutaneous injection. Brucella vaccine A19 was produced by Qingdao Yibang Biological Co., Ltd. (Qingdao, China) or Xinjiang Tiankang Biological Co., Ltd. (Urumqi City, China). Cows aged between 1.5 and 6 years old who had been vaccinated with the Brucella A19 vaccine for over a year were selected. All the sampled cows were treated as independent individuals, while all the cows from the same dairy farm or dairy farming household were considered a herd. The sample plan was implemented following the baseline survey technique utilized in the Brucellosis Special Surveillance Program of the local government: Three samples were collected from each small dairy farming household, and at least twenty samples were collected from each large dairy farm. The individual positive rate and herd positive rate of Brucella antibodies were calculated during the three years. In addition, three brucellosis-free dairy farms were also tested to verify the antibody persistence of the A19 vaccine.</p>
+        <p>The Brucella pathogen survey was conducted from March to May 2023. A total of 10 pastures were randomly selected from 4 small farming areas (4 farms) and 3 large farming areas (6 farms) in Lingwu City. Then Brucella field strains were investigated on 10 dairy farms. The strains were clarified using the PCR method to distinguish Brucella A19 from other strains identified in this work.</p>
+      </sec>
+      <sec id="sec2dot2-vetsci-11-00288">
+        <title>2.2. Serological Tests</title>
+        <p>Whole blood (2&#x2013;5 mL) was collected from the tail vein of the selected livestock. Samples were incubated at 37 &#xB0;C for 1 h and then centrifuged at 3000 rpm for 5 min. The sera were decanted and stored at &#x2212;20 &#xB0;C prior to testing with the Rose Bengal Plate Test (RBPT), and the diagnostic reagents used were obtained from the Institute of Veterinary Drug Control, China. The procedure with RBPT is briefly described as follows: on a clean plate, 0.03 mL of serum was mixed with 0.03 mL of antigen, and the aggregation results were determined after 4 min.</p>
+      </sec>
+      <sec id="sec2dot3-vetsci-11-00288">
+        <title>2.3. The Seroprevalence Investigation of Brucella Antibody in Vaccinated Cattle in Lingwu City</title>
+        <p>The cross-sectional serological survey was conducted in seven townships in Lingwu City from 2021 to 2023. A total of 5435 samples from 622 farms were collected over the course of three years. The serologic test for brucellosis was subsequently conducted.</p>
+      </sec>
+      <sec id="sec2dot4-vetsci-11-00288">
+        <title>2.4. Investigation of the Positive Rate of Brucella Antibodies in Dairy Herds of Three Brucellosis-Free Dairy Farms</title>
+        <p>The cows on the three dairy farms were sourced from brucellosis-free regions of Australia and New Zealand, with strict adherence to self-breeding practices. In order to prevent brucellosis, pasture cows were vaccinated with the A19 vaccine, leading to no cases of brucellosis under immune conditions during continuous brucellosis surveillance of cattle for nearly a year. With a robust biosafety system in place, the annual abortion rate across all pastures remained below 5%. The blood and vaginal swab samples were randomly collected from cows that had been immunized with the brucellosis A19 vaccine a minimum of 12 months previously, ensuring a ratio of no less than 10% for random sampling in each ranch. Serologic and etiological testing for Brucella was conducted subsequently. A total of 533 blood and vaginal swab samples were collected, respectively, from three Brucellosis-free dairy farms. PCR was performed using the Mathematical Expectation strategy, in which six samples were mixed into one.</p>
+      </sec>
+      <sec id="sec2dot5-vetsci-11-00288">
+        <title>2.5. Identification of the DNA Sequence That Distinguishes Brucella A19 from Other Strains</title>
+        <p>Gene collinearity analysis software Mauve is a Java-based program for gene sequence comparison that incorporates elements from the BLAST program. We utilized the Mauve software to conduct a comparative analysis of the reference sequences of Brucella A19 (NZ_CP030751.1, NZ_CP030752.1) and the classical strain 2308 (NC_007618.1, NC_007624.1) in the NCBI database. The resulting sequence fragments were subsequently verified by the BLAST program on the NCBI website, and then SnapGen software was used to compare the gene sequences across the 68 bp fragments identified from <italic toggle="yes">Brucella abortus</italic> S19 (CP000888.1), A19 (NZ_CP030752.1), 2308 (NC_007624.1), <italic toggle="yes">Brucella melitensis</italic> 16M (AE008918.1), and <italic toggle="yes">Brucella suis</italic> strain 1330 (CP002998.1).</p>
+      </sec>
+      <sec id="sec2dot6-vetsci-11-00288">
+        <title>2.6. PCR-Based Differential Diagnostic Approach</title>
+        <p>PCR primers were designed to distinguish A19 from other strains according to the specific sequence differences using Primer5 software. The upstream and downstream primer sequences were 5&#x2032;-TCGTTCCTTTCGCCCTATTAC-3&#x2032; and 5&#x2032;-TGTTGAAGCCGAGCCAGTC-3&#x2032;, respectively. The expected amplicon size for strain A19 was 374 bp, while other strains were predicted to yield a fragment of 442 bp.</p>
+        <p>The specificity of the primers was verified by PCR using genomic DNA from <italic toggle="yes">B. abortus</italic> strain A19, <italic toggle="yes">B. suis</italic> strain S2, <italic toggle="yes">Escherichia coli</italic>, <italic toggle="yes">Salmonella</italic>, <italic toggle="yes">Staphylococcus,</italic> and <italic toggle="yes">Streptococcus</italic> preserved in our laboratory.</p>
+        <p>The sensitivity of our method was compared with the PCR method based on the BCSP31gene specified in the &#x201C;Diagnosis of Brucellosis&#x201D; issued by the National Health Commission of the People&#x2019;s Republic of China. The measured concentrations of A19 genomic DNA (20 ng/&#x3BC;L) were serially diluted 10-fold, and PCR reactions were detected at concentrations of 2 &#xD7; 10<sup>&#x2212;3</sup>, 2 &#xD7; 10<sup>&#x2212;4</sup>, 2 &#xD7; 10<sup>&#x2212;5</sup>, 2 &#xD7; 10<sup>&#x2212;6</sup>, 2 &#xD7; 10<sup>&#x2212;7</sup>, 2 &#xD7; 10<sup>&#x2212;8</sup>, and 2 &#xD7; 10<sup>&#x2212;9</sup> ng/&#x3BC;L. The sensitivity of the established PCR assay was determined.</p>
+        <p>The 25-&#xB5;L PCR system comprised 12.5 &#xB5;L 2&#xD7; Taq PCR Mix (Vazyme Biotech Co., Ltd., Nanjing, China), 1 &#xB5;L each primer, 8 &#xB5;L double-distilled water, and 2.5 &#xB5;L template DNA. The PCR amplification was performed using the following parameters: pre-denaturation at 95 &#xB0;C for 5 min, followed by 35 cycles of denaturation at 95 &#xB0;C for 60 s, annealing at 58 &#xB0;C for 30 s, and extension at 72 &#xB0;C for another 30 s. The amplified products were analyzed on a 1% agarose electrophoresis gel and visualized under ultraviolet light.</p>
+      </sec>
+      <sec id="sec2dot7-vetsci-11-00288">
+        <title>2.7. Processing of Swab Samples</title>
+        <p>Total DNA was extracted from vaginal swab samples for PCR amplification using a highly effective commercial DNA extraction kit (Tiangen Biochemical Technology Co., Ltd., Beijing, China) according to the manufacturer&#x2019;s instructions. The kit utilizes a centrifugal adsorption column and buffer system that can selectively bind DNA, enabling the stable and efficient purification of genomic DNA from swab samples. The amount of DNA obtained from a single swab sample ranged from 0.5 to 3.5 &#x3BC;g.</p>
+      </sec>
+      <sec id="sec2dot8-vetsci-11-00288">
+        <title>2.8. Investigation of Brucella Field Strains among Cattle in 10 Dairy Farms</title>
+        <p>A total of 1004 blood and vaginal swab samples were collected, respectively, from cattle that had been immunized with the A19 vaccine for more than 12 months on 10 dairy farms, with a minimum sampling proportion of 10% for random sampling. Serologic and etiological testing for Brucella was conducted subsequently. PCR was performed using the Mathematical Expectation strategy, in which six samples were mixed into one. DNA-positive samples were further characterized using a multiplex PCR method for Brucella species identification; bands of 846 bp, 501 bp, and 399 bp bands were amplified from <italic toggle="yes">Brucella suis</italic>. 618 bp, 501 bp, and 399 bp bands were amplified from <italic toggle="yes">Brucella melitensis</italic>. A 361 bp band was amplified from <italic toggle="yes">Brucella abortus</italic> strain A19. A 399 bp band was amplified from other strains of <italic toggle="yes">Brucella abortus</italic> [<xref rid="B38-vetsci-11-00288" ref-type="bibr">38</xref>].</p>
+      </sec>
+      <sec id="sec2dot9-vetsci-11-00288">
+        <title>2.9. PCR Detection of Brucellosis Utilizing the Mathematical Expectation Method</title>
+        <p>For disease detection, if the result is negative, K samples can be tested once, with an average of 1/K times for each sample. If the result is positive, it means that at least one sample in the group has a positive result. Then the samples were tested one by one, and each sample required (K + 1)/K tests on average. The ME formula is as follows:<disp-formula>E(X) = 1/K &#xD7; (1 &#x2212; p)<sup>K</sup> + (1 + 1/K) &#xD7; (1 &#x2212; (1 &#x2212; p)<sup>K</sup>)</disp-formula></p>
+        <p>Here, E(X) is the total number of tests needed, p is the prevalence, and K is the number of samples mixed in one test. By taking the derivative of the formula, we can calculate the value of K when E(X) reaches the minimum value.</p>
+        <p>We applied the expected prevalence rate of 3% for brucellosis in livestock within Lingwu City adopted in a previous official sampling strategy to the ME formula and concluded that the number of required detections could be minimized by mixing 6 samples. According to the instructions, 400 &#x3BC;L of each vaginal swab sample were required for DNA extraction. To reduce the impact of mixed samples on sensitivity, 400 &#x3BC;L was used for each vaginal swab sample involved in mixing. The mixed vaginal swab samples were then centrifuged at 8000 rpm for 5 min to concentrate them to a final volume of 400 &#x3BC;L. The total DNA was extracted following instructions, and then PCR was conducted. In the event of a positive result from the pooled sample, each of the six samples was tested individually. A total of 1537 samples in <xref rid="sec2dot4-vetsci-11-00288" ref-type="sec">Section 2.4</xref> and <xref rid="sec2dot8-vetsci-11-00288" ref-type="sec">Section 2.8</xref> have been tested by PCR using the Mathematical Expectation strategy. The number of reactions during detection was counted.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-vetsci-11-00288">
+      <title>3. Results</title>
+      <sec id="sec3dot1-vetsci-11-00288">
+        <title>3.1. Seroprevalence of Brucella Antibody in Vaccinated Cattle</title>
+        <p>The individual and herd Brucella antibody seropositivity rates in dairy cows immunized for more than 12 months in Lingwu City from 2021 to 2023 are shown in <xref rid="vetsci-11-00288-t001" ref-type="table">Table 1</xref> and <xref rid="vetsci-11-00288-t002" ref-type="table">Table 2</xref>, respectively. A total of 5435 samples were collected over the course of three years. 1447 samples were seropositive by the RBPT method, with an average prevalence of Brucella antibody seropositivity in dairy cattle of 26.6%. The average herd seropositivity rate for cattle in Lingwu was 38.8%. The individual positive rate and the population positive rate of Brucella antibodies showed an upward trend over three years.</p>
+      </sec>
+      <sec id="sec3dot2-vetsci-11-00288">
+        <title>3.2. Seroprevalence of Brucella Antibodies in Three Brucellosis-Free Dairy Farms</title>
+        <p>A total of 533 cows from three dairy farms immunized with the A19 vaccine more than 12 months previously were tested for antibodies (<xref rid="vetsci-11-00288-t003" ref-type="table">Table 3</xref>). Additionally, Brucella molecules were not detected in vaginal swab samples collected from both antibody-negative and antibody-positive cattle. The results showed that a certain proportion of cattle remained persistently antibody positive for more than 12 months after being immunized with the A19 vaccine.</p>
+      </sec>
+      <sec id="sec3dot3-vetsci-11-00288">
+        <title>3.3. Distinctive Differential Sequences of Brucella abortus Strain A19</title>
+        <p>The genome comparison software Mauve was used to determine differences in the genome sequences of <italic toggle="yes">Brucella abortus</italic> strain A19 and <italic toggle="yes">Brucella abortus</italic> strain 2308. This comparison revealed a 68 bp sequence deficiency in the genome of the strain A19 between positions 371,765 and 371,766 on Chromosome 2, which corresponds to the sequence between positions 371,759 and 371,826 of the strain 2308 genome. Comparison of the genome sequences of Brucella strains from positions 371,465 to 372,065 using the BLAST program in NCBI showed that only strains A19, LBAB038, S19, and 19BA had 100% similarity compared to other Brucella strains. Thus, our data revealed that only these four Brucella strains lacked the deletion of 68 bp bases identified by Mauve software. The specific deletion sequence of <italic toggle="yes">Brucella abortus</italic> strain 19 is shown in <xref rid="vetsci-11-00288-f001" ref-type="fig">Figure 1</xref>.</p>
+      </sec>
+      <sec id="sec3dot4-vetsci-11-00288">
+        <title>3.4. PCR-Based Identification of Brucella abortus Strain A19</title>
+        <p>Using the <italic toggle="yes">Brucella abortus</italic> strain 2308 as a template, we used Primer 5 software to design a pair of primers across the 68 bp deleted sequence of strain A19 to establish a PCR method for distinguishing strain A19 from other strains. As shown in <xref rid="vetsci-11-00288-f002" ref-type="fig">Figure 2</xref>, the established PCR method generated products of the expected sizes for strains A19, 2308, S2, and 16M. The figure in the manuscript and full-length gels and blots are provided in the <xref rid="app1-vetsci-11-00288" ref-type="app">Supplementary Materials</xref>.</p>
+      </sec>
+      <sec id="sec3dot5-vetsci-11-00288">
+        <title>3.5. PCR Assay Specificity and Sensitivity</title>
+        <p>To assess the discriminatory power of the established PCR method among Brucella strain A19, Brucella non-A19 strains, and other non-Brucella bacteria, DNA amplification was performed using these strains as templates. As shown in <xref rid="vetsci-11-00288-f003" ref-type="fig">Figure 3</xref>, a 374 bp fragment was amplified from the A19 DNA template, while a 442 bp product was generated from non-A19 Brucella strains, and no amplification signal was detected from the other non-Brucella bacteria. The results showed that the established PCR method had good specificity for the identification of Brucella and other main bovine pathogenic bacteria.</p>
+        <p>As shown in <xref rid="vetsci-11-00288-f004" ref-type="fig">Figure 4</xref>, the established PCR method demonstrated the same sensitivity as the PCR method outlined in the diagnosis of Brucellosis issued by the National Health Commission, achieving a detection limit of 2 &#xD7; 10<sup>&#x2212;8</sup> ng/&#x3BC;L. The results showed that the PCR method for identifying Brucella A19 had good sensitivity.</p>
+        <p>We next evaluated the established PCR method to identify Brucella field strains in dairy cattle. A total of 1004 samples were collected from cows on 10 dairy farms (<xref rid="vetsci-11-00288-t004" ref-type="table">Table 4</xref>). Brucella field strains were found to be present on 5 of the 10 farms (<xref rid="vetsci-11-00288-f005" ref-type="fig">Figure 5</xref>). Furthermore, all 10 Brucella field strains were identified as <italic toggle="yes">Brucella abortus</italic> (<xref rid="vetsci-11-00288-f006" ref-type="fig">Figure 6</xref>). <italic toggle="yes">Brucella abortus</italic> was the predominant strain identified in the field during this study.</p>
+      </sec>
+      <sec id="sec3dot6-vetsci-11-00288">
+        <title>3.6. PCR Detection of Brucellosis Utilizing Mathematical Expectation</title>
+        <p>The ME method offers the advantage that six samples can be pooled into one for detection purposes. A total of 306 reaction times were performed using the ME method on 1537 samples. This represented a significant decrease in the workload of 80.1% and a greatly enhanced detection efficiency (<xref rid="vetsci-11-00288-t005" ref-type="table">Table 5</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-vetsci-11-00288">
+      <title>4. Discussion</title>
+      <p>It is of significant value to conduct investigations on the prevalence rate of Brucella antibodies and the field strains of Brucella in livestock, as this can aid in controlling the spread of brucellosis among livestock, thereby reducing the incidence of human brucellosis and promoting the eradication of this disease [<xref rid="B39-vetsci-11-00288" ref-type="bibr">39</xref>]. The rate of persistent antibody immunity more than 12 months after Brucella vaccine immunization in NingXia remains unknown. In this study, we aimed to elucidate the serological and etiological status of brucellosis in immunized dairy herds, thereby providing a scientific foundation for epidemiological investigation, diagnosis, control, and eradication of brucellosis in this region as well as other areas where immunization is implemented.</p>
+      <p>To overcome the challenge of identifying cattle infected with Brucella field strains, we aimed to identify deletion or addition sequences of the Brucella strain A19 by comparing its genome sequence with those of other strains. We identified a 68 bp deletion fragment on chromosome 2 specific to the A19 strain through Mauve software Version 2.4.0, which was consistent with previous reports [<xref rid="B40-vetsci-11-00288" ref-type="bibr">40</xref>]. Then we subsequently designed upstream and downstream primers to discriminate between A19 and non-A19 strains of Brucella based on the size difference of the target amplified fragment using PCR methodology. The established PCR method can accurately distinguish the major pathogenic bacteria in cattle for specific detection in the laboratory and successfully apply this method to identify cows infected with field Brucella strains in dairy herds. Furthermore, this method can also be employed for identifying 19 and non-19 strains of Brucella in cattle in other vaccination areas. According to the vaccine immunization program implemented from 2021 to 2023, individual Brucella antibody-positive rates among cattle vaccinated in Lingwu City were recorded as 23.4%, 26.7%, and 30.0%, respectively, while herd positivity rates stood at 32.9%, 36.2%, and 55.3%, respectively. The seroprevalence of Brucella antibodies in dairy cows exceeded that reported previously [<xref rid="B34-vetsci-11-00288" ref-type="bibr">34</xref>], potentially due to the increased utilization of vaccines or the escalated dissemination of brucellosis. Due to the local implementation of the A19 vaccine, traditional serological methods are not suitable for differentiating antibody responses caused by infections with field strains of Brucella [<xref rid="B30-vetsci-11-00288" ref-type="bibr">30</xref>]. These findings indicate that a certain proportion of cattle immunized with the brucellosis vaccine remain seropositive for more than one year in Lingwu-immunized dairy herds. The achievement of an individual seropositive rate below 0.4% and a population seropositive rate below 7% by 2026 poses significant challenges. The results of the serological survey revealed that an average of 26.6% of cows vaccinated with the immune Brucella A19 tested positive for antibodies after 12 months. We hypothesize that many of these antibodies are persistent and produced by the vaccine itself. It is suspected that the persistent antibody may be attributed to previous immunization (prime and boost) with Brucella vaccines in the Lingwu area and that strain A19 exhibits stronger virulence compared to strain S19 [<xref rid="B29-vetsci-11-00288" ref-type="bibr">29</xref>]. Therefore, we conducted an additional seroprevalence survey on dairy farms free from brucellosis to ascertain the proportion of antibodies that persist 12 months post-vaccination.</p>
+      <p>Previous research has shown that this immunization program effectively renders cows negative for brucellosis after 7 months under experimental conditions [<xref rid="B38-vetsci-11-00288" ref-type="bibr">38</xref>]. However, our investigation of three Brucella-free dairy farms revealed that between 5.4% and 26.5% of cows still tested positive for A19 vaccine-induced antibodies at 12 months post-immunization. Additionally, no evidence of field Brucella strains was found in swab tests conducted on these cattle, and the majority did not exhibit typical symptoms such as abortion associated with brucellosis. Therefore, we infer that these persistent antibodies are durable titers induced by the vaccine, which aligns with previous findings [<xref rid="B32-vetsci-11-00288" ref-type="bibr">32</xref>,<xref rid="B33-vetsci-11-00288" ref-type="bibr">33</xref>]. The persistence of vaccine antibody titers is directly related to vaccinating heifer calves after they are eight months of age or older. The mean titers of calves vaccinated at eight months receded to a negative status within approximately 12 months [<xref rid="B32-vetsci-11-00288" ref-type="bibr">32</xref>]. A proportion of the cattle sampled in this study were vaccinated with a booster vaccine when they were older than 8 months of age. This increased the percentage of cattle that developed persistent antibodies 12 months after immunization. In addition, the presence of these persistent antibodies is likely influenced by factors such as vaccine virulence and immunization schedules. Consequently, serological methods alone cannot accurately diagnose bovine brucellosis in vaccinated areas, nor can arbitrary culling of serologically positive individuals guarantee the elimination of actual cases since a significant number of uninfected Brucella field strain cattle may be unnecessarily destroyed.</p>
+      <p>A total of 1004 bovine vaginal swabs from vaccinated cattle were collected to detect 10 field strain samples, all of which were further identified as <italic toggle="yes">Brucella abortus</italic>. Since it has been reported that human brucellosis in NingXia is predominantly caused by <italic toggle="yes">Brucella melitensis</italic> [<xref rid="B41-vetsci-11-00288" ref-type="bibr">41</xref>], our results further suggested that sheep suffering from brucellosis in NingXia are an important source of human brucellosis. Thus, there is a need to strengthen prevention and control measures for brucellosis in sheep to reduce the incidence of human cases. We speculated that the risk of transmission of brucellosis in dairy cattle in Lingwu City was the brucellosis in cattle itself, not other domestic animals. It is particularly noteworthy that Brucella field strains were not detected in the antibody-negative cattle, while those infected with Brucella field strains all tested positive for antibodies, and abortion occurred within 15 days in this study. Previous reports [<xref rid="B33-vetsci-11-00288" ref-type="bibr">33</xref>] have indicated that cows infected with brucella typically do not transmit the infection to other animals unless calving or aborting, after which they become efficient transmitters via products of parturition. However, their ability to infect other animals diminishes rapidly after delivery, usually within 30 days [<xref rid="B33-vetsci-11-00288" ref-type="bibr">33</xref>]. Our findings support this perspective and suggest that timely identification of abortion cases can serve as an effective means for the eradication of Brucella-infected cattle through continuous culling. Our results confirmed the positive role of the A19 vaccine in reducing the incidence of brucellosis-induced abortion in cattle by visiting farm ranch workers, but also demonstrated that vaccines cannot be used as the only means of decontamination, as cattle cannot rely on the protective effect of vaccines to clear Brucella field strains. The virulence of the Brucella A19 vaccine, the booster immunization schedule, and the field <italic toggle="yes">Brucella</italic> spp. could potentially be combined, resulting in cattle still testing positive for antibodies 12 months after immunization. Although the vaccine reduced the incidence of miscarriage, cattle that developed persistent antibody titers from the vaccine and cattle that were re-exposed to Brucella but did not become infected and remained positive for the antibody should not be culled. In fact, only cattle infected with field strains of Brucella should be culled. These findings provide valuable data for informing the prevention and control strategy of brucellosis in dairy cattle in areas of dairy herds immunized with the Brucella 19 vaccine.</p>
+      <p>The previously reported method for mutation screening utilizing the Mathematical Expectation (ME) strategy exhibits both speed and accuracy, making it suitable for large sample sizes with low-frequency mutations [<xref rid="B42-vetsci-11-00288" ref-type="bibr">42</xref>,<xref rid="B43-vetsci-11-00288" ref-type="bibr">43</xref>]. Epidemiological investigations usually involve large sample sizes and require time-consuming and labor-intensive testing. In the current study, we were able to reduce the number of tests from 1537 required to analyze all the vaginal swab samples individually using traditional techniques to only 306 by employing the ME strategy, where six samples are mixed into one test, thereby reducing the test workload by 80.1%. Thus, the ME strategy is a time-saving and cost-effective method for molecular detection of brucellosis.</p>
+      <p>This study also has certain limitations. The RBPT method utilized for the analysis of a large number of serum samples serves as a preliminary screening approach for brucellosis antibodies rather than a diagnostic method. In comparison with the cELISA method, the RBPT method exhibits lower sensitivity [<xref rid="B44-vetsci-11-00288" ref-type="bibr">44</xref>]. Although the RBPT method has false positives and slightly lower sensitivity, it has the highest specificity in field detection and a high coincidence rate with ELISA [<xref rid="B44-vetsci-11-00288" ref-type="bibr">44</xref>,<xref rid="B45-vetsci-11-00288" ref-type="bibr">45</xref>]. Therefore, we speculate that the RBPT method is reliable for large-scale serum detection. In addition, RBPT is more rapid, cost-effective, and suitable for widespread use at the grassroots level compared to cELISA. Nucleic acids had been extracted for PCR analysis from vaginal swab samples collected from cows that had been immunized more than 12 months previously. Due to the fact that field strains of Brucella were not in their excretion period during sampling of infected cattle, these cases may have been missed. Therefore, it is strongly recommended that individual molecular detection be conducted on abortive cattle, and those affected by brucellosis should be eliminated promptly. In this study, we also discovered a significant number of antibody-positive cattle one year after immunization of herds with the Brucella attenuated vaccine; however, not all of these cattle were infected with field strains of brucellosis. There may be three types of persistent antibodies. Firstly, immune antibodies produced by the vaccine can last for more than one year. Secondly, after the immunity wanes, cattle are exposed to a Brucella field strain or vaccine strain, leading to a re-stimulation of antibody production in the cattle without actual infection by the field strain. Third, cattle were infected with Brucella field strains, and antibodies were developed. In the first two cases, although the antibody test was positive, they were not infected with Brucella field strains. According to the results of this investigation, these cattle should account for a large proportion and should not be blindly culled to eradicate brucellosis. Otherwise, it will be resisted by the farmers and cause unnecessary losses [<xref rid="B24-vetsci-11-00288" ref-type="bibr">24</xref>]. Consequently, investigating the duration of antibodies and influencing factors following immunization with the A19 vaccine should be considered as a future research direction. These vaccine-induced antibodies may interfere with efforts aimed at eradicating brucellosis, and mistaken culling of these cattle would result in substantial economic losses and burdens both for ranches and local governments.</p>
+      <p>The eradication of brucellosis is a complex and costly endeavor. Many countries, including the United States and Australia, have dedicated decades to achieving success, while many countries have failed due to inadequate policy implementation, insufficient funding, and a lack of awareness among farmers. Vaccination has been implemented in the Northwest of China for several years now. This survey revealed that immunization has significantly reduced the incidence of brucellosis in many farms, confirming the effectiveness of the local vaccine immunization program, although it is crucial to consider factors such as local vaccine immunization programs, vaccine-induced antibody persistence, and epidemic strains of brucella. After a certain period of time, simply relying on serological tests to determine whether cattle are infected with wild strains is not sufficient, and inappropriate criteria for brucellosis diagnosis may result in the unnecessary culling of a significant number of domestic animals, leading to substantial economic losses and impeding the progress of animal husbandry. In summary, we propose that the diagnosis of brucellosis in cattle vaccinated with Brucella A19 should not solely rely on serological methods due to the persistence of vaccine-induced antibodies but rather incorporate PCR methods to detect field Brucella infection.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec5-vetsci-11-00288">
+      <title>5. Conclusions</title>
+      <p>This study represents the first comprehensive report on the seroprevalence of brucellosis and the field strains in dairy cattle vaccinated with the Brucella vaccine in Lingwu City. A PCR method was developed to differentiate Brucella strain A19 from other strains, which was successfully employed for detecting field strains of Brucella. The implementation of this ME-based detection strategy can enhance the efficiency of diagnosis, reduce the detection time, and alleviate the workload. Additionally, we propose a diagnostic approach for brucellosis in dairy herds immunized with the A19 vaccine. This study provides valuable data for controlling brucellosis among cows in Lingwu City and offers a reference method for investigating brucellosis epidemiology in livestock populations receiving immune vaccines such as <italic toggle="yes">Brucella abortus</italic> strain 19.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We thank Ma Xingyun, Ma Lei, Ma Jiajun, and others from Ningxia Xingyuanda Farming and Animal Husbandry Co., Ltd. for their help and support in this study.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <app id="app1-vetsci-11-00288">
+        <title>Supplementary Materials</title>
+        <p>The following supporting information can be downloaded at: <uri xlink:href="https://www.mdpi.com/article/10.3390/vetsci11070288/s1">https://www.mdpi.com/article/10.3390/vetsci11070288/s1</uri>, Figure S1, Development of a PCR method to identify Brucella A19 and non&#x2013;A19 strains of the original Full-length gel. Figure S2, Specificity of the PCR method for identification of Brucella A19 and non-A19 strains of the original Full-length gel. Figure S3, Sensitivity of the PCR method for identification of Brucella A19 and non-A19 strains of the original Full-length gel. Figure S4, Investigation of Brucella field strains in 10 large-scale dairy farms using the established PCR method of the original Full-length gel. Figure S5, The identification of Brucella field strain species of the original Full-length gel.</p>
+        <supplementary-material id="vetsci-11-00288-s001" position="float" content-type="local-data">
+          <media xlink:href="vetsci-11-00288-s001.zip"/>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, Writing&#x2014;review and editing: A.W., Y.J. and D.Z. (Dong Zhou); Writing&#x2014;original draft: Y.S.; Validation: Y.C.; Investigation: G.W., S.L., Y.Y., D.Z. (Danyu Zhao) and S.Y.; Data curation: Z.D. and B.L.; Resources: X.L., Z.W., F.Z., M.X. and Z.Z. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The animal study was reviewed and approved by the Experiment Center of Northwest A&amp;F University (Approval No.2021028) and was in accordance with the Ethics on Animal Care guidelines for the use of animals in the experimental research. Performed under the control of the &#x201C;Guidelines on Ethical Treatment of Experimental Animals&#x201D; (2006) No.398 set by the Ministry of Science and Technology, China. All authors had previously given their informed consent to conduct this study and publish the results. All samples taken from cows in the experiment were obtained with the consent of the owners, who were aware of the use of the samples and the purpose of the study.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Informed consent forms were obtained from the owners of the sampled cattle, and their consent was obtained for the study.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>The raw data used and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-vetsci-11-00288">
+        <label>1.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+</person-group><article-title>Retrospective and prospective perspectives on zoonotic brucellosis</article-title><source>Front. Microbiol.</source><year>2014</year><volume>5</volume><elocation-id>213</elocation-id><pub-id pub-id-type="doi">10.3389/fmicb.2014.00213</pub-id><pub-id pub-id-type="pmid">24860561</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B2-vetsci-11-00288">
+        <label>2.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Macedo</surname><given-names>G.C.</given-names></name>
+<name><surname>Herrera</surname><given-names>H.M.</given-names></name>
+<name><surname>de Oliveira Porfirio</surname><given-names>G.E.</given-names></name>
+<name><surname>Santos</surname><given-names>F.M.</given-names></name>
+<name><surname>de Assis</surname><given-names>W.O.</given-names></name>
+<name><surname>de Andrade</surname><given-names>G.B.</given-names></name>
+<name><surname>Nantes</surname><given-names>W.A.G.</given-names></name>
+<name><surname>de Mendoza</surname><given-names>J.H.</given-names></name>
+<name><surname>Fernandez-Llario</surname><given-names>P.</given-names></name>
+<name><surname>de Oliveira</surname><given-names>C.E.</given-names></name>
+</person-group><article-title>Brucellosis in the Brazilian Pantanal wetland: Threat to animal production and wildlife conservation</article-title><source>Braz. J. Microbiol.</source><year>2022</year><volume>53</volume><fpage>2287</fpage><lpage>2297</lpage><pub-id pub-id-type="doi">10.1007/s42770-022-00831-0</pub-id><pub-id pub-id-type="pmid">36269553</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B3-vetsci-11-00288">
+        <label>3.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Godfroid</surname><given-names>J.</given-names></name>
+</person-group><article-title>Brucellosis in livestock and wildlife: Zoonotic diseases without pandemic potential in need of innovative one health approaches</article-title><source>Arch. Public Health</source><year>2017</year><volume>75</volume><fpage>34</fpage><pub-id pub-id-type="doi">10.1186/s13690-017-0207-7</pub-id><pub-id pub-id-type="pmid">28904791</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B4-vetsci-11-00288">
+        <label>4.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yuan</surname><given-names>H.T.</given-names></name>
+<name><surname>Wang</surname><given-names>C.L.</given-names></name>
+<name><surname>Liu</surname><given-names>L.N.</given-names></name>
+<name><surname>Wang</surname><given-names>D.</given-names></name>
+<name><surname>Li</surname><given-names>D.</given-names></name>
+<name><surname>Li</surname><given-names>Z.J.</given-names></name>
+<name><surname>Liu</surname><given-names>Z.G.</given-names></name>
+</person-group><article-title>Epidemiologically characteristics of human brucellosis and antimicrobial susceptibility pattern of Brucella melitensis in Hinggan League of the Inner Mongolia Autonomous Region, China</article-title><source>Infect. Dis. Poverty</source><year>2020</year><volume>9</volume><fpage>79</fpage><pub-id pub-id-type="doi">10.1186/s40249-020-00697-0</pub-id><pub-id pub-id-type="pmid">32600403</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5-vetsci-11-00288">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dean</surname><given-names>A.S.</given-names></name>
+<name><surname>Crump</surname><given-names>L.</given-names></name>
+<name><surname>Greter</surname><given-names>H.</given-names></name>
+<name><surname>Schelling</surname><given-names>E.</given-names></name>
+<name><surname>Zinsstag</surname><given-names>J.</given-names></name>
+</person-group><article-title>Global burden of human brucellosis: A systematic review of disease frequency</article-title><source>PLoS Negl. Trop. Dis.</source><year>2012</year><volume>6</volume><elocation-id>e1865</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id><pub-id pub-id-type="pmid">23145195</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B6-vetsci-11-00288">
+        <label>6.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Singh</surname><given-names>B.B.</given-names></name>
+<name><surname>Khatkar</surname><given-names>M.S.</given-names></name>
+<name><surname>Aulakh</surname><given-names>R.S.</given-names></name>
+<name><surname>Gill</surname><given-names>J.P.S.</given-names></name>
+<name><surname>Dhand</surname><given-names>N.K.</given-names></name>
+</person-group><article-title>Estimation of the health and economic burden of human brucellosis in India</article-title><source>Prev. Vet. Med.</source><year>2018</year><volume>154</volume><fpage>148</fpage><lpage>155</lpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2018.03.023</pub-id><pub-id pub-id-type="pmid">29685439</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B7-vetsci-11-00288">
+        <label>7.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pappas</surname><given-names>G.</given-names></name>
+<name><surname>Papadimitriou</surname><given-names>P.</given-names></name>
+<name><surname>Akritidis</surname><given-names>N.</given-names></name>
+<name><surname>Christou</surname><given-names>L.</given-names></name>
+<name><surname>Tsianos</surname><given-names>E.V.</given-names></name>
+</person-group><article-title>The new global map of human brucellosis</article-title><source>Lancet Infect. Dis.</source><year>2006</year><volume>6</volume><fpage>91</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id><pub-id pub-id-type="pmid">16439329</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B8-vetsci-11-00288">
+        <label>8.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Seleem</surname><given-names>M.N.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+</person-group><article-title>Brucellosis: A re-emerging zoonosis</article-title><source>Vet. Microbiol.</source><year>2010</year><volume>140</volume><fpage>392</fpage><lpage>398</lpage><pub-id pub-id-type="doi">10.1016/j.vetmic.2009.06.021</pub-id><pub-id pub-id-type="pmid">19604656</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B9-vetsci-11-00288">
+        <label>9.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Di Bari</surname><given-names>C.</given-names></name>
+<name><surname>Venkateswaran</surname><given-names>N.</given-names></name>
+<name><surname>Bruce</surname><given-names>M.</given-names></name>
+<name><surname>Fastl</surname><given-names>C.</given-names></name>
+<name><surname>Huntington</surname><given-names>B.</given-names></name>
+<name><surname>Patterson</surname><given-names>G.T.</given-names></name>
+<name><surname>Rushton</surname><given-names>J.</given-names></name>
+<name><surname>Torgerson</surname><given-names>P.</given-names></name>
+<name><surname>Pigott</surname><given-names>D.M.</given-names></name>
+<name><surname>Devleesschauwer</surname><given-names>B.</given-names></name>
+</person-group><article-title>Methodological choices in brucellosis burden of disease assessments: A systematic review</article-title><source>PLoS Negl. Trop. Dis.</source><year>2022</year><volume>16</volume><elocation-id>e0010468</elocation-id><pub-id pub-id-type="pmid">36512611</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B10-vetsci-11-00288">
+        <label>10.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>N.</given-names></name>
+<name><surname>Huang</surname><given-names>D.</given-names></name>
+<name><surname>Wu</surname><given-names>W.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Liang</surname><given-names>F.</given-names></name>
+<name><surname>Zhou</surname><given-names>B.</given-names></name>
+<name><surname>Guan</surname><given-names>P.</given-names></name>
+</person-group><article-title>Animal brucellosis control or eradication programs worldwide: A systematic review of experiences and lessons learned</article-title><source>Prev. Vet. Med.</source><year>2018</year><volume>160</volume><fpage>105</fpage><lpage>115</lpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2018.10.002</pub-id><pub-id pub-id-type="pmid">30388992</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B11-vetsci-11-00288">
+        <label>11.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Barbier</surname><given-names>T.</given-names></name>
+<name><surname>Collard</surname><given-names>F.</given-names></name>
+<name><surname>Zuniga-Ripa</surname><given-names>A.</given-names></name>
+<name><surname>Moriyon</surname><given-names>I.</given-names></name>
+<name><surname>Godard</surname><given-names>T.</given-names></name>
+<name><surname>Becker</surname><given-names>J.</given-names></name>
+<name><surname>Wittmann</surname><given-names>C.</given-names></name>
+<name><surname>Van Schaftingen</surname><given-names>E.</given-names></name>
+<name><surname>Letesson</surname><given-names>J.J.</given-names></name>
+</person-group><article-title>Erythritol feeds the pentose phosphate pathway via three new isomerases leading to D-erythrose-4-phosphate in Brucella</article-title><source>Proc. Natl. Acad. Sci. USA</source><year>2014</year><volume>111</volume><fpage>17815</fpage><lpage>17820</lpage><pub-id pub-id-type="doi">10.1073/pnas.1414622111</pub-id><pub-id pub-id-type="pmid">25453104</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12-vetsci-11-00288">
+        <label>12.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bowman</surname><given-names>D.D.</given-names></name>
+</person-group><article-title>Introduction to the alpha-proteobacteria: Wolbachia and Bartonella, Rickettsia, Brucella, Ehrlichia, and Anaplasma</article-title><source>Top. Companion Anim. Med.</source><year>2011</year><volume>26</volume><fpage>173</fpage><lpage>177</lpage><pub-id pub-id-type="doi">10.1053/j.tcam.2011.09.002</pub-id><pub-id pub-id-type="pmid">22152604</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B13-vetsci-11-00288">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vergnaud</surname><given-names>G.</given-names></name>
+<name><surname>Hauck</surname><given-names>Y.</given-names></name>
+<name><surname>Christiany</surname><given-names>D.</given-names></name>
+<name><surname>Daoud</surname><given-names>B.</given-names></name>
+<name><surname>Pourcel</surname><given-names>C.</given-names></name>
+<name><surname>Jacques</surname><given-names>I.</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A.</given-names></name>
+<name><surname>Zygmunt</surname><given-names>M.S.</given-names></name>
+</person-group><article-title>Genotypic Expansion Within the Population Structure of Classical Brucella Species Revealed by MLVA16 Typing of 1404 Brucella Isolates From Different Animal and Geographic Origins, 1974&#x2013;2006</article-title><source>Front. Microbiol.</source><year>2018</year><volume>9</volume><elocation-id>1545</elocation-id><pub-id pub-id-type="doi">10.3389/fmicb.2018.01545</pub-id><pub-id pub-id-type="pmid">30050522</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14-vetsci-11-00288">
+        <label>14.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tuon</surname><given-names>F.F.</given-names></name>
+<name><surname>Gondolfo</surname><given-names>R.B.</given-names></name>
+<name><surname>Cerchiari</surname><given-names>N.</given-names></name>
+</person-group><article-title>Human-to-human transmission of Brucella&#x2014;A systematic review</article-title><source>Trop. Med. Int. Health</source><year>2017</year><volume>22</volume><fpage>539</fpage><lpage>546</lpage><pub-id pub-id-type="doi">10.1111/tmi.12856</pub-id><pub-id pub-id-type="pmid">28196298</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B15-vetsci-11-00288">
+        <label>15.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kamal</surname><given-names>I.H.</given-names></name>
+<name><surname>Al Gashgari</surname><given-names>B.</given-names></name>
+<name><surname>Moselhy</surname><given-names>S.S.</given-names></name>
+<name><surname>Kumosani</surname><given-names>T.A.</given-names></name>
+<name><surname>Abulnaja</surname><given-names>K.O.</given-names></name>
+</person-group><article-title>Two-stage PCR assay for detection of human brucellosis in endemic areas</article-title><source>BMC Infect. Dis.</source><year>2013</year><volume>13</volume><elocation-id>145</elocation-id><pub-id pub-id-type="doi">10.1186/1471-2334-13-145</pub-id><pub-id pub-id-type="pmid">23517532</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16-vetsci-11-00288">
+        <label>16.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Casalinuovo</surname><given-names>F.</given-names></name>
+<name><surname>Ciambrone</surname><given-names>L.</given-names></name>
+<name><surname>Cacia</surname><given-names>A.</given-names></name>
+<name><surname>Rippa</surname><given-names>P.</given-names></name>
+</person-group><article-title>Contamination of Bovine, Sheep and Goat Meat with <italic toggle="yes">Brucella</italic> spp</article-title><source>Ital. J. Food Saf.</source><year>2016</year><volume>5</volume><fpage>5913</fpage><pub-id pub-id-type="doi">10.4081/ijfs.2016.5913</pub-id><pub-id pub-id-type="pmid">27853716</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17-vetsci-11-00288">
+        <label>17.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ye</surname><given-names>H.Y.</given-names></name>
+<name><surname>Xing</surname><given-names>F.F.</given-names></name>
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+<name><surname>Lo</surname><given-names>S.K.</given-names></name>
+<name><surname>Lau</surname><given-names>R.W.</given-names></name>
+<name><surname>Chen</surname><given-names>J.H.</given-names></name>
+<name><surname>Chiu</surname><given-names>K.H.</given-names></name>
+<name><surname>Yuen</surname><given-names>K.Y.</given-names></name>
+</person-group><article-title>High index of suspicion for brucellosis in a highly cosmopolitan city in southern China</article-title><source>BMC Infect. Dis.</source><year>2020</year><volume>20</volume><elocation-id>22</elocation-id><pub-id pub-id-type="doi">10.1186/s12879-019-4748-y</pub-id><pub-id pub-id-type="pmid">31914937</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B18-vetsci-11-00288">
+        <label>18.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ashby</surname><given-names>B.</given-names></name>
+<name><surname>Best</surname><given-names>A.</given-names></name>
+</person-group><article-title>Herd immunity</article-title><source>Curr. Biol.</source><year>2021</year><volume>31</volume><fpage>R174</fpage><lpage>R177</lpage><pub-id pub-id-type="doi">10.1016/j.cub.2021.01.006</pub-id><pub-id pub-id-type="pmid">33621500</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B19-vetsci-11-00288">
+        <label>19.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fine</surname><given-names>P.</given-names></name>
+<name><surname>Eames</surname><given-names>K.</given-names></name>
+<name><surname>Heymann</surname><given-names>D.L.</given-names></name>
+</person-group><article-title>&#x201C;Herd immunity&#x201D;: A rough guide</article-title><source>Clin. Infect. Dis.</source><year>2011</year><volume>52</volume><fpage>911</fpage><lpage>916</lpage><pub-id pub-id-type="doi">10.1093/cid/cir007</pub-id><pub-id pub-id-type="pmid">21427399</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B20-vetsci-11-00288">
+        <label>20.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rubach</surname><given-names>M.P.</given-names></name>
+<name><surname>Halliday</surname><given-names>J.E.</given-names></name>
+<name><surname>Cleaveland</surname><given-names>S.</given-names></name>
+<name><surname>Crump</surname><given-names>J.A.</given-names></name>
+</person-group><article-title>Brucellosis in low-income and middle-income countries</article-title><source>Curr. Opin. Infect. Dis.</source><year>2013</year><volume>26</volume><fpage>404</fpage><lpage>412</lpage><pub-id pub-id-type="doi">10.1097/QCO.0b013e3283638104</pub-id><pub-id pub-id-type="pmid">23963260</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B21-vetsci-11-00288">
+        <label>21.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Schuchat</surname><given-names>A.</given-names></name>
+<name><surname>Bell</surname><given-names>B.P.</given-names></name>
+</person-group><article-title>Monitoring the impact of vaccines postlicensure: New challenges, new opportunities</article-title><source>Expert Rev. Vaccines</source><year>2008</year><volume>7</volume><fpage>437</fpage><lpage>456</lpage><pub-id pub-id-type="doi">10.1586/14760584.7.4.437</pub-id><pub-id pub-id-type="pmid">18444891</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B22-vetsci-11-00288">
+        <label>22.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moriyon</surname><given-names>I.</given-names></name>
+<name><surname>Grillo</surname><given-names>M.J.</given-names></name>
+<name><surname>Monreal</surname><given-names>D.</given-names></name>
+<name><surname>Gonzalez</surname><given-names>D.</given-names></name>
+<name><surname>Marin</surname><given-names>C.</given-names></name>
+<name><surname>Lopez-Goni</surname><given-names>I.</given-names></name>
+<name><surname>Mainar-Jaime</surname><given-names>R.C.</given-names></name>
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+</person-group><article-title>Rough vaccines in animal brucellosis: Structural and genetic basis and present status</article-title><source>Vet. Res.</source><year>2004</year><volume>35</volume><fpage>1</fpage><lpage>38</lpage><pub-id pub-id-type="doi">10.1051/vetres:2003037</pub-id><pub-id pub-id-type="pmid">15099501</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B23-vetsci-11-00288">
+        <label>23.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Avila-Calderon</surname><given-names>E.D.</given-names></name>
+<name><surname>Lopez-Merino</surname><given-names>A.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Contreras-Rodriguez</surname><given-names>A.</given-names></name>
+</person-group><article-title>A history of the development of Brucella vaccines</article-title><source>Biomed. Res. Int.</source><year>2013</year><volume>2013</volume><elocation-id>743509</elocation-id><pub-id pub-id-type="doi">10.1155/2013/743509</pub-id><pub-id pub-id-type="pmid">23862154</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B24-vetsci-11-00288">
+        <label>24.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zamri-Saad</surname><given-names>M.</given-names></name>
+<name><surname>Kamarudin</surname><given-names>M.I.</given-names></name>
+</person-group><article-title>Control of animal brucellosis: The Malaysian experience</article-title><source>Asian Pac. J. Trop. Med.</source><year>2016</year><volume>9</volume><fpage>1136</fpage><lpage>1140</lpage><pub-id pub-id-type="doi">10.1016/j.apjtm.2016.11.007</pub-id><pub-id pub-id-type="pmid">27955740</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B25-vetsci-11-00288">
+        <label>25.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hou</surname><given-names>H.</given-names></name>
+<name><surname>Liu</surname><given-names>X.</given-names></name>
+<name><surname>Peng</surname><given-names>Q.</given-names></name>
+</person-group><article-title>The advances in brucellosis vaccines</article-title><source>Vaccine</source><year>2019</year><volume>37</volume><fpage>3981</fpage><lpage>3988</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2019.05.084</pub-id><pub-id pub-id-type="pmid">31176541</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B26-vetsci-11-00288">
+        <label>26.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H.</given-names></name>
+<name><surname>Dong</surname><given-names>H.</given-names></name>
+<name><surname>Peng</surname><given-names>X.</given-names></name>
+<name><surname>Feng</surname><given-names>Y.</given-names></name>
+<name><surname>Zhu</surname><given-names>L.</given-names></name>
+<name><surname>Niu</surname><given-names>K.</given-names></name>
+<name><surname>Peng</surname><given-names>Y.</given-names></name>
+<name><surname>Fan</surname><given-names>H.</given-names></name>
+<name><surname>Ding</surname><given-names>J.</given-names></name>
+</person-group><article-title>Transcriptome analysis of gene expression profiling of infected macrophages between Brucella suis 1330 and live attenuated vaccine strain S2 displays mechanistic implication for regulation of virulence</article-title><source>Microb. Pathog.</source><year>2018</year><volume>119</volume><fpage>241</fpage><lpage>247</lpage><pub-id pub-id-type="doi">10.1016/j.micpath.2018.04.003</pub-id><pub-id pub-id-type="pmid">29626657</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B27-vetsci-11-00288">
+        <label>27.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+<name><surname>Qiao</surname><given-names>Z.</given-names></name>
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+<name><surname>Liu</surname><given-names>W.</given-names></name>
+<name><surname>Zheng</surname><given-names>H.</given-names></name>
+<name><surname>Liu</surname><given-names>S.</given-names></name>
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+<name><surname>Bu</surname><given-names>Z.</given-names></name>
+</person-group><article-title>Comparison of genomes of Brucella melitensis M28 and the B. melitensis M5-90 derivative vaccine strain highlights the translation elongation factor Tu gene tuf2 as an attenuation-related gene</article-title><source>Infect. Immun.</source><year>2013</year><volume>81</volume><fpage>2812</fpage><lpage>2818</lpage><pub-id pub-id-type="doi">10.1128/IAI.00224-13</pub-id><pub-id pub-id-type="pmid">23716607</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B28-vetsci-11-00288">
+        <label>28.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>C.Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.Z.</given-names></name>
+<name><surname>Liu</surname><given-names>M.Z.</given-names></name>
+<name><surname>Zhao</surname><given-names>H.L.</given-names></name>
+<name><surname>Ren</surname><given-names>L.S.</given-names></name>
+<name><surname>Liu</surname><given-names>B.S.</given-names></name>
+<name><surname>He</surname><given-names>S.</given-names></name>
+<name><surname>Chen</surname><given-names>Z.L.</given-names></name>
+</person-group><article-title>Combined immunization with inactivated vaccine reduces the dose of live B. abortus A19 vaccine</article-title><source>BMC Vet. Res.</source><year>2022</year><volume>18</volume><elocation-id>128</elocation-id><pub-id pub-id-type="doi">10.1186/s12917-022-03229-0</pub-id><pub-id pub-id-type="pmid">35366881</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B29-vetsci-11-00288">
+        <label>29.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+<name><surname>Sun</surname><given-names>K.</given-names></name>
+<name><surname>Bateer</surname><given-names>H.</given-names></name>
+<name><surname>Zhao</surname><given-names>X.</given-names></name>
+</person-group><article-title>Comparative genomic analysis between newly sequenced Brucella abortus vaccine strain A19 and another Brucella abortus vaccine S19</article-title><source>Genomics</source><year>2020</year><volume>112</volume><fpage>1444</fpage><lpage>1453</lpage><pub-id pub-id-type="doi">10.1016/j.ygeno.2019.08.015</pub-id><pub-id pub-id-type="pmid">31454518</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B30-vetsci-11-00288">
+        <label>30.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Stoffregen</surname><given-names>W.S.</given-names></name>
+</person-group><article-title>Essential role of vaccines in brucellosis control and eradication programs for livestock</article-title><source>Expert Rev. Vaccines</source><year>2005</year><volume>4</volume><fpage>915</fpage><lpage>928</lpage><pub-id pub-id-type="doi">10.1586/14760584.4.6.915</pub-id><pub-id pub-id-type="pmid">16372886</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B31-vetsci-11-00288">
+        <label>31.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perkins</surname><given-names>S.D.</given-names></name>
+<name><surname>Smither</surname><given-names>S.J.</given-names></name>
+<name><surname>Atkins</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>Towards a Brucella vaccine for humans</article-title><source>FEMS Microbiol. Rev.</source><year>2010</year><volume>34</volume><fpage>379</fpage><lpage>394</lpage><pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00211.x</pub-id><pub-id pub-id-type="pmid">20180858</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B32-vetsci-11-00288">
+        <label>32.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Manthei</surname><given-names>C.A.</given-names></name>
+</person-group><article-title>Brucellosis. Application of research to bovine brucellosis control and eradication programs</article-title><source>J. Dairy Sci.</source><year>1968</year><volume>51</volume><fpage>1115</fpage><lpage>1120</lpage><pub-id pub-id-type="doi">10.3168/jds.S0022-0302(68)87138-3</pub-id><pub-id pub-id-type="pmid">5690267</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B33-vetsci-11-00288">
+        <label>33.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ragan</surname><given-names>V.E.</given-names></name>
+</person-group><article-title>The Animal and Plant Health Inspection Service (APHIS) brucellosis eradication program in the United States</article-title><source>Vet. Microbiol.</source><year>2002</year><volume>90</volume><fpage>11</fpage><lpage>18</lpage><pub-id pub-id-type="doi">10.1016/S0378-1135(02)00240-7</pub-id><pub-id pub-id-type="pmid">12414129</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B34-vetsci-11-00288">
+        <label>34.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ran</surname><given-names>X.</given-names></name>
+<name><surname>Cheng</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+<name><surname>Chen</surname><given-names>X.</given-names></name>
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<name><surname>Ge</surname><given-names>Y.</given-names></name>
+<name><surname>Ni</surname><given-names>H.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.X.</given-names></name>
+<name><surname>Wen</surname><given-names>X.</given-names></name>
+</person-group><article-title>Brucellosis seroprevalence in dairy cattle in China during 2008&#x2013;2018: A systematic review and meta-analysis</article-title><source>Acta Trop.</source><year>2019</year><volume>189</volume><fpage>117</fpage><lpage>123</lpage><pub-id pub-id-type="doi">10.1016/j.actatropica.2018.10.002</pub-id><pub-id pub-id-type="pmid">30308207</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B35-vetsci-11-00288">
+        <label>35.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mamani</surname><given-names>M.</given-names></name>
+<name><surname>Majzoobi</surname><given-names>M.M.</given-names></name>
+<name><surname>Keramat</surname><given-names>F.</given-names></name>
+<name><surname>Varmaghani</surname><given-names>N.</given-names></name>
+<name><surname>Moghimbeigi</surname><given-names>A.</given-names></name>
+</person-group><article-title>Seroprevalence of Brucellosis in Butchers, Veterinarians and Slaughterhouse Workers in Hamadan, Western Iran</article-title><source>J. Res. Health Sci.</source><year>2018</year><volume>18</volume><fpage>e00406</fpage><pub-id pub-id-type="pmid">29777092</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B36-vetsci-11-00288">
+        <label>36.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>Z.G.</given-names></name>
+<name><surname>Wang</surname><given-names>M.</given-names></name>
+<name><surname>Ta</surname><given-names>N.</given-names></name>
+<name><surname>Fang</surname><given-names>M.G.</given-names></name>
+<name><surname>Mi</surname><given-names>J.C.</given-names></name>
+<name><surname>Yu</surname><given-names>R.P.</given-names></name>
+<name><surname>Luo</surname><given-names>Y.</given-names></name>
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+<name><surname>Li</surname><given-names>Z.J.</given-names></name>
+</person-group><article-title>Seroprevalence of human brucellosis and molecular characteristics of Brucella strains in Inner Mongolia Autonomous region of China, from 2012 to 2016</article-title><source>Emerg. Microbes Infect.</source><year>2020</year><volume>9</volume><fpage>263</fpage><lpage>274</lpage><pub-id pub-id-type="doi">10.1080/22221751.2020.1720528</pub-id><pub-id pub-id-type="pmid">31997725</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B37-vetsci-11-00288">
+        <label>37.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Omer</surname><given-names>M.K.</given-names></name>
+<name><surname>Skjerve</surname><given-names>E.</given-names></name>
+<name><surname>Woldehiwet</surname><given-names>Z.</given-names></name>
+<name><surname>Holstad</surname><given-names>G.</given-names></name>
+</person-group><article-title>Risk factors for <italic toggle="yes">Brucella</italic> spp. infection In dairy cattle farms in Asmara, State of Eritrea</article-title><source>Prev. Vet. Med.</source><year>2000</year><volume>46</volume><fpage>257</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1016/S0167-5877(00)00152-5</pub-id><pub-id pub-id-type="pmid">10960712</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B38-vetsci-11-00288">
+        <label>38.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Diao</surname><given-names>Z.</given-names></name>
+</person-group>
+          <source>Serological Investigation of Brucella in a Largescale Dairy Farm and Establishment of Quadruple PCR Detection Method</source>
+          <publisher-name>Northwest A&amp;F University</publisher-name>
+          <publisher-loc>Xianyang, China</publisher-loc>
+          <year>2023</year>
+        </element-citation>
+      </ref>
+      <ref id="B39-vetsci-11-00288">
+        <label>39.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dadar</surname><given-names>M.</given-names></name>
+<name><surname>Tiwari</surname><given-names>R.</given-names></name>
+<name><surname>Sharun</surname><given-names>K.</given-names></name>
+<name><surname>Dhama</surname><given-names>K.</given-names></name>
+</person-group><article-title>Importance of brucellosis control programs of livestock on the improvement of one health</article-title><source>Vet. Q.</source><year>2021</year><volume>41</volume><fpage>137</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1080/01652176.2021.1894501</pub-id><pub-id pub-id-type="pmid">33618618</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B40-vetsci-11-00288">
+        <label>40.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+<name><surname>Ye</surname><given-names>Y.</given-names></name>
+<name><surname>Zhai</surname><given-names>J.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+<name><surname>Cheng</surname><given-names>D.</given-names></name>
+<name><surname>Ma</surname><given-names>C.</given-names></name>
+<name><surname>Yu</surname><given-names>D.</given-names></name>
+<name><surname>Yang</surname><given-names>B.</given-names></name>
+<name><surname>Zhu</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Combined nucleic acid assays for diagnosis of A19 vaccine-caused human brucellosis</article-title><source>Transbound. Emerg. Dis.</source><year>2021</year><volume>68</volume><fpage>368</fpage><lpage>374</lpage><pub-id pub-id-type="pmid">32543112</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B41-vetsci-11-00288">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>X.</given-names></name>
+<name><surname>Qi</surname><given-names>R.</given-names></name>
+<name><surname>Yan</surname><given-names>F.</given-names></name>
+<name><surname>Ma</surname><given-names>T.</given-names></name>
+<name><surname>Duan</surname><given-names>H.</given-names></name>
+<name><surname>Gao</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Analysis of epidemic characteristics and prediction of incidence trend of human brucellosis in Ningxia from 2012 to 2021</article-title>
+          <source>Ningxia Med. J.</source>
+          <year>2023</year>
+          <volume>45</volume>
+          <fpage>107</fpage>
+          <lpage>109</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B42-vetsci-11-00288">
+        <label>42.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Q.</given-names></name>
+<name><surname>Zhang</surname><given-names>S.</given-names></name>
+<name><surname>Liu</surname><given-names>L.</given-names></name>
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+<name><surname>Lei</surname><given-names>C.</given-names></name>
+<name><surname>Qi</surname><given-names>X.</given-names></name>
+<name><surname>Lin</surname><given-names>F.</given-names></name>
+<name><surname>Qu</surname><given-names>W.</given-names></name>
+<name><surname>Qi</surname><given-names>X.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>Application of mathematical expectation (ME) strategy for detecting low frequency mutations: An example for evaluating 14-bp insertion/deletion (indel) within the bovine PRNP gene</article-title><source>Prion</source><year>2016</year><volume>10</volume><fpage>409</fpage><lpage>419</lpage><pub-id pub-id-type="doi">10.1080/19336896.2016.1211593</pub-id><pub-id pub-id-type="pmid">27580010</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B43-vetsci-11-00288">
+        <label>43.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+<name><surname>Zhu</surname><given-names>X.</given-names></name>
+<name><surname>Ma</surname><given-names>L.</given-names></name>
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+<name><surname>Cao</surname><given-names>X.</given-names></name>
+<name><surname>Luo</surname><given-names>R.</given-names></name>
+<name><surname>Chen</surname><given-names>H.</given-names></name>
+<name><surname>Sun</surname><given-names>X.</given-names></name>
+<name><surname>Cai</surname><given-names>Y.</given-names></name>
+<name><surname>Lan</surname><given-names>X.</given-names></name>
+</person-group><article-title>Detection of a new 20-bp insertion/deletion (indel) within sheep PRND gene using mathematical expectation (ME) method</article-title><source>Prion</source><year>2017</year><volume>11</volume><fpage>143</fpage><lpage>150</lpage><pub-id pub-id-type="doi">10.1080/19336896.2017.1300740</pub-id><pub-id pub-id-type="pmid">28362554</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B44-vetsci-11-00288">
+        <label>44.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arif</surname><given-names>S.</given-names></name>
+<name><surname>Heller</surname><given-names>J.</given-names></name>
+<name><surname>Hernandez-Jover</surname><given-names>M.</given-names></name>
+<name><surname>McGill</surname><given-names>D.M.</given-names></name>
+<name><surname>Thomson</surname><given-names>P.C.</given-names></name>
+</person-group><article-title>Evaluation of three serological tests for diagnosis of bovine brucellosis in smallholder farms in Pakistan by estimating sensitivity and specificity using Bayesian latent class analysis</article-title><source>Prev. Vet. Med.</source><year>2018</year><volume>149</volume><fpage>21</fpage><lpage>28</lpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2017.11.002</pub-id><pub-id pub-id-type="pmid">29290297</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B45-vetsci-11-00288">
+        <label>45.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Alamian</surname><given-names>S.</given-names></name>
+<name><surname>Amiry</surname><given-names>K.</given-names></name>
+<name><surname>Bahreinipour</surname><given-names>A.</given-names></name>
+<name><surname>Etemadi</surname><given-names>A.</given-names></name>
+<name><surname>Yousefi</surname><given-names>A.R.</given-names></name>
+<name><surname>Dadar</surname><given-names>M.</given-names></name>
+</person-group><article-title>Evaluation of serological diagnostic tests for bovine brucellosis in dairy cattle herds in an endemic area: A multicenter study</article-title><source>Trop. Anim. Health Prod.</source><year>2023</year><volume>55</volume><fpage>104</fpage><pub-id pub-id-type="doi">10.1007/s11250-023-03519-1</pub-id><pub-id pub-id-type="pmid">36856875</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="vetsci-11-00288-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>The Brucella 19-specific deletion 68 bp sequences on genome 2.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g001" position="float"/>
+    </fig>
+    <fig position="float" id="vetsci-11-00288-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>Development of a PCR method to identify Brucella A19 and non-A19 strains. M, DL 1000 DNA Marker; 1, <italic toggle="yes">B. abortus</italic> strain A19; 2, <italic toggle="yes">B. abortus</italic> strain2308; 3, <italic toggle="yes">B. suis</italic> strain S2; 4, <italic toggle="yes">B. melitensis</italic> strain16M; 5, Negative control.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g002" position="float"/>
+    </fig>
+    <fig position="float" id="vetsci-11-00288-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>Specificity of the PCR method for identification of Brucella A19 and non-A19 strains. M, DL 1000 DNA Marker: 1, <italic toggle="yes">B. abortus</italic> strain A19; 2, <italic toggle="yes">B. suis</italic> strain S2; 3, <italic toggle="yes">Escherichia coli</italic>; 4, <italic toggle="yes">Salmonella</italic>; 5, <italic toggle="yes">Staphylococcus</italic>; 6, <italic toggle="yes">Streptococcus</italic>; 7, Negative control.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g003" position="float"/>
+    </fig>
+    <fig position="float" id="vetsci-11-00288-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>Sensitivity of the PCR method for identification of Brucella A19 and non-A19 strains. M, DL 1000 DNA Marker: The national standard PCR method was used from 1 to 7, and the target fragment size was 224 bp. The PCR method established in this paper was utilized between 8 and 14. The concentrations of Brucella A19 template DNA used in 1&#x2013;7 and 8&#x2013;14 were 2 &#xD7; 10<sup>&#x2212;3</sup>, 2 &#xD7; 10<sup>&#x2212;4</sup>, 2 &#xD7; 10<sup>&#x2212;5</sup>, 2 &#xD7; 10<sup>&#x2212;6</sup>, 2 &#xD7; 10<sup>&#x2212;7</sup>, 2 &#xD7; 10<sup>&#x2212;8</sup>, and 2 &#xD7; 10<sup>&#x2212;9</sup> ng/&#x3BC;L, respectively. The detection limits of the two methods were the same.3.6. Examination of Field Strains of Brucella in Cattle from Ten Dairy Farms.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g004" position="float"/>
+    </fig>
+    <fig position="float" id="vetsci-11-00288-f005">
+      <label>Figure 5</label>
+      <caption>
+        <p>Investigation of Brucella field strains in 10 large-scale dairy farms using the established PCR method. M, DL 1000 DNA Marker; 1, <italic toggle="yes">B. abortus</italic> strain A19; 2, <italic toggle="yes">B. suis</italic> strain S2; 3&#x2013;12, field strains; 13, Negative control.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g005" position="float"/>
+    </fig>
+    <fig position="float" id="vetsci-11-00288-f006">
+      <label>Figure 6</label>
+      <caption>
+        <p>Identification of Brucella field strain species. M, DL 1000 DNA Marker; 1, <italic toggle="yes">B. abortus</italic> strain A19; 2, <italic toggle="yes">B. suis</italic> strain S2; 3, <italic toggle="yes">B. abortus strain 2308</italic>; 4, <italic toggle="yes">B. melitensis</italic> strain 16M; 5&#x2013;14, field strains; 15, Negative control.</p>
+      </caption>
+      <graphic xlink:href="vetsci-11-00288-g006" position="float"/>
+    </fig>
+    <table-wrap position="float" id="vetsci-11-00288-t001">
+      <object-id pub-id-type="pii">vetsci-11-00288-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Seropositivity rate of dairy cows in Lingwu City from 2021 to 2023.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Year</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number of Positives</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Positive Rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2021</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1726</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">404</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">23.4%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2022</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2146</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">574</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">26.7%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2023</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1563</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">469</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">30.0%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="vetsci-11-00288-t002">
+      <object-id pub-id-type="pii">vetsci-11-00288-t002_Table 2</object-id>
+      <label>Table 2</label>
+      <caption>
+        <p>Herd seropositivity rates in dairy cows in Lingwu City from 2021 to 2023.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Year</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number of Positives</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Positive Rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2021</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">234</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">77</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">32.9%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2022</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">265</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">96</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">36.2%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2023</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">123</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">68</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55.3%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="vetsci-11-00288-t003">
+      <object-id pub-id-type="pii">vetsci-11-00288-t003_Table 3</object-id>
+      <label>Table 3</label>
+      <caption>
+        <p>Seroprevalence of Brucella in three brucellosis-free dairy farms.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Farm</th>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Number</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Serological Testing</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Number</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">A</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">253</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">67</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">26.5%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">B</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">150</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">18.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">C</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">130</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5.4%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="vetsci-11-00288-t004">
+      <object-id pub-id-type="pii">vetsci-11-00288-t004_Table 4</object-id>
+      <label>Table 4</label>
+      <caption>
+        <p>Results of detection of the Brucella field strain in 10 dairy farms.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Farm</th>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Number</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Serological Testing</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">PCR Testing</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Number</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Rate</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Number</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">185</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">32</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">17.3%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">153</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">23</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">15.0%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">143</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">10.5%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">106</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">16</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">15.1%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">69</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">23</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">33.3%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2.9%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">97</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">41.2%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2.1%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">75</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">36.0%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1.3%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">12</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">30.0%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">9</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">56</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">23</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">41.1%</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">3.6%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">31</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">38.8%</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.8%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="vetsci-11-00288-t005">
+      <object-id pub-id-type="pii">vetsci-11-00288-t005_Table 5</object-id>
+      <label>Table 5</label>
+      <caption>
+        <p>Statistics of reaction times based on the ME method.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Breeds</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Data</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Sizes</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1537</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Assumed prevalence</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">3.0%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Number of individuals in one reaction time (NR1)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Reaction times (RT1)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1537</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Number of individuals in one mixed group (NG6)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Reaction times (RT6)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">306</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Reduction rate (RR)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80.1%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

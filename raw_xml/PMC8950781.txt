@@ -1,0 +1,1125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Vaccines (Basel)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Vaccines (Basel)</journal-id>
+      <journal-id journal-id-type="publisher-id">vaccines</journal-id>
+      <journal-title-group>
+        <journal-title>Vaccines</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-393X</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35335018</article-id>
+      <article-id pub-id-type="pmc">8950781</article-id>
+      <article-id pub-id-type="doi">10.3390/vaccines10030388</article-id>
+      <article-id pub-id-type="publisher-id">vaccines-10-00388</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Design and Characterization of a Recombinant <italic toggle="yes">Brucella abortus</italic> RB51 Vaccine That Elicits Enhanced T Cell-Mediated Immune Response</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sarmadi</surname>
+            <given-names>Mahdieh</given-names>
+          </name>
+          <xref rid="af1-vaccines-10-00388" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0025-0416</contrib-id>
+          <name>
+            <surname>Gheibi</surname>
+            <given-names>Azam</given-names>
+          </name>
+          <xref rid="af2-vaccines-10-00388" ref-type="aff">2</xref>
+          <xref rid="c1-vaccines-10-00388" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khanahmad</surname>
+            <given-names>Hossein</given-names>
+          </name>
+          <xref rid="af1-vaccines-10-00388" ref-type="aff">1</xref>
+          <xref rid="c1-vaccines-10-00388" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khorramizadeh</surname>
+            <given-names>Mohammad Reza</given-names>
+          </name>
+          <xref rid="af2-vaccines-10-00388" ref-type="aff">2</xref>
+          <xref rid="af3-vaccines-10-00388" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hejazi</surname>
+            <given-names>Seyed Hossein</given-names>
+          </name>
+          <xref rid="af4-vaccines-10-00388" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5275-0960</contrib-id>
+          <name>
+            <surname>Zahedi</surname>
+            <given-names>Noushin</given-names>
+          </name>
+          <xref rid="af1-vaccines-10-00388" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4737-2472</contrib-id>
+          <name>
+            <surname>Mianesaz</surname>
+            <given-names>Hamidreza</given-names>
+          </name>
+          <xref rid="af1-vaccines-10-00388" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4060-7283</contrib-id>
+          <name>
+            <surname>Kashfi</surname>
+            <given-names>Khosrow</given-names>
+          </name>
+          <xref rid="af5-vaccines-10-00388" ref-type="aff">5</xref>
+          <xref rid="af6-vaccines-10-00388" ref-type="aff">6</xref>
+          <xref rid="c1-vaccines-10-00388" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Morris</surname>
+            <given-names>Stephen A.</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Leit&#xE3;o</surname>
+            <given-names>Jorge Humberto Gomes</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-vaccines-10-00388"><label>1</label>Department of Genetics and Molecular Biology, School of Medicine, Isfahan University of Medical Sciences, Isfahan 81746-73461, Iran; <email>m.sarmadi@viravaccine.com</email> (M.S.); <email>zahedi.nsh@gmail.com</email> (N.Z.); <email>h.mianesaz@gmail.com</email> (H.M.)</aff>
+      <aff id="af2-vaccines-10-00388"><label>2</label>Department of Biotechnology, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences (TUMS), Tehran 14177-55469, Iran; <email>khoramza@tums.ac.ir</email></aff>
+      <aff id="af3-vaccines-10-00388"><label>3</label>Biosensor Research Center, Endocrinology and Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical Sciences (TUMS), Tehran 14117-13139, Iran</aff>
+      <aff id="af4-vaccines-10-00388"><label>4</label>Department of Parasitology and Mycology, School of Medicine, Isfahan University of Medical Sciences, Isfahan 81746-73461, Iran; <email>hejazih12@gmail.com</email></aff>
+      <aff id="af5-vaccines-10-00388"><label>5</label>Department of Molecular, Cellular, and Biomedical Sciences, Sophie Davis School of Biomedical Education, City University of New York School of Medicine, New York, NY 10031, USA</aff>
+      <aff id="af6-vaccines-10-00388"><label>6</label>Graduate Program in Biology, City University of New York Graduate Center, New York, NY 10016, USA</aff>
+      <author-notes>
+        <corresp id="c1-vaccines-10-00388"><label>*</label>Correspondence: <email>gheibi.biotech@yahoo.com</email> (A.G.); <email>h_khanahmad@med.mui.ac.ir</email> (H.K.); <email>kashfi@med.cuny.edu</email> (K.K.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>3</issue>
+      <elocation-id>388</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>11</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>2</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2022 by the authors.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic toggle="yes">Brucella abortus</italic> vaccines help control bovine brucellosis. The RB51 strain is a live attenuated vaccine with low side effects compared with other live attenuated brucellosis vaccines, but it provides insufficient protective efficacy. Cell-mediated immune responses are critical in resistance against intracellular bacterial infections. Therefore, we hypothesized that the listeriolysin O (LLO) expression of <italic toggle="yes">Listeria monocytogenes</italic>, BAX, and SMAC apoptotic proteins in strain RB51 could enhance vaccine efficacy and safety. <italic toggle="yes">B. abortus</italic> RB51 was transformed separately with two broad-host-range plasmids (pbbr1ori-LLO and pBlu&#x2013;mLLO-BAX-SMAC) constructed from our recent work. pbbr1ori-LLO contains LLO, and pBlu&#x2013;mLLO-BAX-SMAC contains the mutant LLO and BAX-SMAC fusion gene. The murine macrophage-like cell line J774A.1 was infected with the RB51 recombinant strain containing pBlu-mLLO-BAX-SMAC, RB51 recombinant strain containing LLO, and RB51 strain. The bacterial cytotoxicity and survival and apoptosis of host cells contaminated with our two strain types&#x2014;RB51 recombinants or the parental RB51&#x2014;were assessed. Strain RB51 expressing mLLO and BAX-SMAC was tested in BALB/c mice and a cell line for enhanced modulation of IFN-&#x3B3; production. LDH analysis showed that the RB51-mLLO-BAX-SMAC and RB51-LLO strains expressed higher cytotoxicity in J774A.1 cells than RB51. In addition, RB51 recombinants had lower macrophage survival rates and caused higher levels of apoptosis and necrosis. Mice vaccinated with the RB51 recombinant containing mLLO-BAX-SMAC showed an enhanced Th1 immune response. This enhanced immune response is primarily due to bacterial endosome escape and bacterial antigens, leading to improved apoptosis and cross-priming. This potentially enhanced TCD<sub>8</sub><sup>+</sup>- and T cell-mediated immunity leads to the increased safety and potency of the RB51 recombinant (RB51 mLLO-BAX-SMAC) as a vaccine candidate against <italic toggle="yes">B. abortus</italic>.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic toggle="yes">Brucella abortus</italic>
+        </kwd>
+        <kwd>RB51 strain</kwd>
+        <kwd>listeriolysin O (LLO)</kwd>
+        <kwd>BAX and SMAC apoptotic proteins</kwd>
+        <kwd>Th1 immune response</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-vaccines-10-00388">
+      <title>1. Introduction</title>
+      <p>The genus <italic toggle="yes">Brucella</italic> comprises Gram-negative intracellular bacterial pathogens that cause brucellosis, resulting in abortion in domestic animals and causing considerable economic losses in the world livestock sector and undulant fever in humans [<xref rid="B1-vaccines-10-00388" ref-type="bibr">1</xref>,<xref rid="B2-vaccines-10-00388" ref-type="bibr">2</xref>]. Cattle are a typical host for <italic toggle="yes">Brucella abortus</italic>, although <italic toggle="yes">Brucella abortus</italic> can cause infections in sheep, goats, pigs, bison, buffalo, horses, elk, and many other animal species. Animal vaccination, especially in endemic areas, is the most economical and critical way to control brucellosis. Animal vaccination would also minimize potential human infections [<xref rid="B3-vaccines-10-00388" ref-type="bibr">3</xref>,<xref rid="B4-vaccines-10-00388" ref-type="bibr">4</xref>]. A small number of live attenuated vaccines are available for animal immunization against brucellosis [<xref rid="B5-vaccines-10-00388" ref-type="bibr">5</xref>]. However, these have significant limitations, including interference with diagnostic tests through anti-LPS antibody induction, human pathogenicity, persistent infection in vaccinated animals, virulence recurrence risk, secretion into milk, and abortions in pregnant animals even at a single dose and without long-lasting protection [<xref rid="B6-vaccines-10-00388" ref-type="bibr">6</xref>,<xref rid="B7-vaccines-10-00388" ref-type="bibr">7</xref>]. In many countries, the <italic toggle="yes">B. abortus</italic> RB51 rough strain live attenuated vaccine is used instead of <italic toggle="yes">B. abortus</italic> S19 [<xref rid="B8-vaccines-10-00388" ref-type="bibr">8</xref>]. This vaccine is a spontaneous mutant obtained by sub-culturing the virulent strain <italic toggle="yes">B. abortus</italic> 2308 on a medium containing rifampicin and penicillin [<xref rid="B9-vaccines-10-00388" ref-type="bibr">9</xref>]. There are limitations to the immunization efficacy of RB51 depending on the challenge, with no absolute protection achieved with this vaccine [<xref rid="B10-vaccines-10-00388" ref-type="bibr">10</xref>]. Thus, there is an urgent need to develop effective vaccines that could prevent brucellosis infection altogether.</p>
+      <p><italic toggle="yes">Brucella</italic> uses particular mechanisms to prevent the <italic toggle="yes">Brucella</italic>-containing vacuole (BCV)&#x2013;lysosome fusion and, as a result, survives for long periods and replicates in the endoplasmic reticulum (ER) without detection by the innate immune system and minimization of the adaptive immune response [<xref rid="B11-vaccines-10-00388" ref-type="bibr">11</xref>,<xref rid="B12-vaccines-10-00388" ref-type="bibr">12</xref>]. As a result, pathogen antigens in the phagosome are less recognized by the immune system, especially cell-mediated immunity. Cell-mediated immunity plays a critical role in resistance to intracellular bacterial infections [<xref rid="B13-vaccines-10-00388" ref-type="bibr">13</xref>]. <italic toggle="yes">Listeria monocytogenes</italic> enables the escape of the host phagosome, utilizing listeriolysin (LLO), a pore-forming cytolysin, representing a unique mechanism to facilitate antigen presentation of <italic toggle="yes">Listeria</italic> antigens to the immune system. It seems that the transfer of this escape function strategy to other intracellular bacteria such as <italic toggle="yes">Brucella</italic> leads to a more pronounced major histocompatibility complex (MHC) class I presentation [<xref rid="B14-vaccines-10-00388" ref-type="bibr">14</xref>]. Thus, the cell-mediated immune system has better access to the antigens of pathogens [<xref rid="B14-vaccines-10-00388" ref-type="bibr">14</xref>]. Consequently, a more effective response is generated by the immune system.</p>
+      <p>Bax is a core regulator of the mitochondrial apoptotic pathway. This pathway promotes mitochondrial outer membrane permeabilization and allows the release of proapoptotic factors such as SMAC/DIABLO from the mitochondria into the cytosol to activate the caspase cascade, leading to cell death [<xref rid="B15-vaccines-10-00388" ref-type="bibr">15</xref>,<xref rid="B16-vaccines-10-00388" ref-type="bibr">16</xref>]. We hypothesized that the expression of the biologically active LLO and BAX-SMAC apoptotic proteins in the RB51 strain could improve the access of <italic toggle="yes">Brucella</italic> antigens to the immune system. Endosomal escape of the RB51 strain and its antigens using LLO can lead to cross-priming and apoptosis in the infected macrophage. Displaying antigens by the dendritic cells after apoptosis of the macrophages could enhance the induction of TCD<sub>8</sub><sup>+</sup>- and Th1-type immune responses and lead to higher vaccine efficacy and safety.</p>
+    </sec>
+    <sec id="sec2-vaccines-10-00388">
+      <title>2. Materials and Methods</title>
+      <p>This study was approved by the Ethics Committees of Isfahan University of Medical Science, Isfahan, Iran (ethic code IR.MUI.REC.1396.3.443). Experiments were performed under biosafety conditions in animal laboratories, following the committee&#x2019;s guidelines. </p>
+      <sec id="sec2dot1-vaccines-10-00388">
+        <title>2.1. Bacterial Strains</title>
+        <p>The <italic toggle="yes">Escherichia coli</italic> TOP10F&#x2019; strain was grown at 37 &#xB0;C in Luria&#x2013;Bertani (LB) broth or agar (Merck, Frankfurt, Germany) containing 80 &#x3BC;g/mL of tetracycline.</p>
+        <p>The <italic toggle="yes">Brucella abortus</italic> RB51 strain was grown at 37 &#xB0;C in trypticase soy agar (TSA) or trypticase soy broth (TSB) (Quelab, QC, Canada) supplemented with 50 &#x3BC;g/mL of rifampin [<xref rid="B17-vaccines-10-00388" ref-type="bibr">17</xref>].</p>
+      </sec>
+      <sec id="sec2dot2-vaccines-10-00388">
+        <title>2.2. Cell Line</title>
+        <p>The J774A.1 (ATCC product TIB-67) mouse BALB/c monocyte&#x2013;macrophage cell line, derived from a tumor in a female BALB/c mouse, was grown under conventional cell culture conditions in a complete medium (c-DMEM) consisting of Dulbecco&#x2019;s modified Eagle&#x2019;s medium (DMEM; ATCC) supplemented with 10% heat-inactivated fetal bovine serum at 37 &#xB0;C in a 5% CO<sub>2</sub> atmosphere [<xref rid="B18-vaccines-10-00388" ref-type="bibr">18</xref>].</p>
+      </sec>
+      <sec id="sec2dot3-vaccines-10-00388">
+        <title>2.3. Construction of Recombinant Brucella abortus RB51 Strains Expressing LLO and mLLO-BAX-SMAC</title>
+        <p>The origin of replication of the pBBR1 plasmid that can be replicated in <italic toggle="yes">Brucella</italic> spp was separated and ligated to the pre-prepared pBGGT_LLO plasmid, and pBBR1ori_LLO (contains the LLO gene with the groE promoter and the bcsp31 signal peptide from <italic toggle="yes">Brucella</italic> spp.) was constructed [<xref rid="B19-vaccines-10-00388" ref-type="bibr">19</xref>,<xref rid="B20-vaccines-10-00388" ref-type="bibr">20</xref>,<xref rid="B21-vaccines-10-00388" ref-type="bibr">21</xref>]. To have optimal pH activity inside the host cells, we used an LLO gene in which leucine 461 was changed to threonine, as this is responsible for LLO&#x2019;s optimum acidic pH [<xref rid="B22-vaccines-10-00388" ref-type="bibr">22</xref>]. The gene construct containing the mutant LLO-BAX-SMAC (mLLO-BAX-SMAC) was obtained from GeneCust (Luxembourg) and used for synthesizing and subcloning in <italic toggle="yes">Nco</italic>I and <italic toggle="yes">BglI</italic>I sites of pBlue-BHori. The resulting plasmid (pB-mLLO-BAX-SMAC) contains the mutant LLO gene (L461T) with the groE promoter and the murine BAX-SMAC gene with the chloramphenicol promoter. Initially, <italic toggle="yes">Escherichia coli</italic> TOP10F&#x2019; was transformed with pB-mLLO-BAX-SMAC and pBBR1ori_LLO plasmids separately and grown on an LB agar plate containing ampicillin or kanamycin at a concentration of 100 and 25 mg/mL. Positive clones of <italic toggle="yes">E. coli</italic> containing pB-mLLO-BAX-SMAC or pBBR1ori_LLO plasmids were selected and cultured in LB broth, and plasmid extraction was performed using a Solgent plasmid extraction kit (Solgent, Daejeon, South Korea). Electroporation was used to introduce pB-mLLO-BAX-SMAC and pBBR1ori_LLO plasmids into <italic toggle="yes">B. abortus</italic> strain RB51 separately. These bacteria were grown in TSB at 37 &#xB0;C for 48 h. The cells were chilled on ice for 30 min and centrifuged at 5500 rpm for 7 min. The cell pellet was resuspended in an equal volume of sterile, cold deionized water and centrifuged as described above. The bacteria were washed twice with water, and in the last washing step, 10% glycerol was used instead of water; the cells were resuspended in a 1/500 volume of 10% glycerol and kept on ice. Dialyzed DNA plasmids (pB-mLLO-BAX-SMAC or pBBR1ori_LLO) were added and pipetted in sterile electroporation cuvettes with electrode gaps of 0.2 cm (BioRad Laboratories, Richmond, CA, USA). A Gene Pulser transfection apparatus (BioRad Laboratories) at a 25 uF and 2.5 kV setting with the pulse controller set at 400 &#x3A9; was used for the transformation. Immediately after electroporation, 1 mL of TSB was added to the bacteria, and the bacteria were cultured at 37 &#xB0;C for 24 h. The bacteria were grown on TSA plates supplemented with 50 ug of ampicillin or 25 ug of kanamycin per mL. After 4 days, several colonies of strain RB51 containing the different plasmids were obtained from a TSA plate [<xref rid="B23-vaccines-10-00388" ref-type="bibr">23</xref>]. The presence and stability of the cloned plasmids in vitro were verified after 50 successive passages.</p>
+      </sec>
+      <sec id="sec2dot4-vaccines-10-00388">
+        <title>2.4. Confirmation of Transformation and Western Blotting</title>
+        <p>BAX-SMAC and mutant LLO expression was assessed in the RB51 recombinant strain using SDS-Western blot analyses and evaluation of LLO hemolytic activity [<xref rid="B24-vaccines-10-00388" ref-type="bibr">24</xref>,<xref rid="B25-vaccines-10-00388" ref-type="bibr">25</xref>].</p>
+        <p>Sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) was performed to detect BAX-SMAC and mutant LLO expression according to standard procedures [<xref rid="B26-vaccines-10-00388" ref-type="bibr">26</xref>]. Briefly, cultures of <italic toggle="yes">B. abortus</italic> RB51, RB51LLO, and RB51-mLLO-BAX-SMAC grown on TSB were harvested, and samples were prepared by diluting the bacterial suspensions in Laemmli sample buffer and heating. Samples were re-suspended in SDS loading dye and electrophoresed on a 12% SDS-PAGE gel. After electrophoresis, proteins separated by SDS-PAGE were electro-transferred onto a nitrocellulose membrane. The nitrocellulose membrane was incubated and blocked with 2% bovine serum albumin solution. After three washes, a horseradish peroxidase-conjugated anti-histidine tag was added. After incubation for 2 h at room temperature, the membrane was washed three times and covered with the peroxidase substrate. </p>
+      </sec>
+      <sec id="sec2dot5-vaccines-10-00388">
+        <title>2.5. LLO Hemolytic Activity</title>
+        <p>The hemolytic activity of LLO and mutant LLO was evaluated by lysis of sheep erythrocytes on a plate. Briefly, RB51 and both our RB51 recombinants (RB51-LLO and RB51-mLLO-BAX-SMAC) were cultured on TSA plates containing 5% sheep red blood cells supplemented with 50 &#x3BC;g/mL of rifampin or rifampin ampicillin per mL and 25 &#x3BC;g/mL of rifampin kanamycin at 37 &#xB0;C for 48&#x2013;72 h. LLO and mutant LLO expression by the two different RB51 recombinants was evaluated by hemolytic activity on a plate compared with the parental RB51 [<xref rid="B25-vaccines-10-00388" ref-type="bibr">25</xref>].</p>
+      </sec>
+      <sec id="sec2dot6-vaccines-10-00388">
+        <title>2.6. Lactate Dehydrogenase (LDH) Assay</title>
+        <p>LDH release was used to evaluate the cytotoxicity of the two different RB51 recombinants. About 5 &#xD7; 10<sup>4</sup> J774A.1 cells were seeded in each well of a 96-well plate and tested in triplicates. Each group of cells was infected with 3 &#xD7; 10<sup>9</sup> RB51 and RB51 recombinants. In the negative control group, only the J774A.1 macrophage cell line was added. At 6 and 24 h post-infection, the culture supernatants and cell lysates were collected and assessed for LDH activity using a CytoTox 96 non-radioactive cytotoxicity assay kit (Promega, Madison, WI, USA) according to the manufacturer&#x2019;s instructions [<xref rid="B27-vaccines-10-00388" ref-type="bibr">27</xref>].</p>
+      </sec>
+      <sec id="sec2dot7-vaccines-10-00388">
+        <title>2.7. Evaluation of Brucella Survival</title>
+        <p>About 2.5 &#xD7; 10<sup>5</sup> J774A.1 macrophage cells were seeded in 24-well plates and incubated at 37 &#xB0;C. After 24 h, these cells were infected with about 3 &#xD7; 10<sup>9</sup> of RB51 and RB51 recombinant strains, separately [<xref rid="B28-vaccines-10-00388" ref-type="bibr">28</xref>,<xref rid="B29-vaccines-10-00388" ref-type="bibr">29</xref>]. The intact cells were used as a control. The plates were centrifuged at room temperature for 5 min at 300&#xD7; <italic toggle="yes">g</italic> for penetration and effective phagocytosis. All plates were incubated at 37 &#xB0;C and 5% CO<sub>2</sub>. After 1 h, the cells were washed three times with phosphate-buffered saline (PBS) and incubated in fresh DMEM supplemented with 50 &#x3BC;g/mL of gentamicin to kill extracellular bacteria. To assess the intracellular survival of <italic toggle="yes">Brucella</italic>, 24 h after infection, the cells were lysed with 1 mL of sterile 0.1% (<italic toggle="yes">v</italic>/<italic toggle="yes">v</italic>) TritonX-100. The number of colony-forming units (CFU) was measured by plating a series of dilutions on TSA plates containing specific antibiotics and sheep red blood cells to determine our plasmids&#x2019; existence by different antibiotic resistances and secretions of the LLO protein. Additionally, the plasmids extracted from the recovered bacteria were tested for digestion mapping [<xref rid="B30-vaccines-10-00388" ref-type="bibr">30</xref>].</p>
+      </sec>
+      <sec id="sec2dot8-vaccines-10-00388">
+        <title>2.8. Evaluation of Programmed Cell Death</title>
+        <p>J774A.1 macrophage cells were seeded in six-well plates (1 &#xD7; 10<sup>6</sup> cells/well) and infected with 3 &#xD7; 10<sup>9</sup> RB51 and two different RB51 recombinants, separately. Infected cells were stained with Annexin V and propidium iodide using an FITC Annexin V kit (San Diego, CA, USA) 24 and 48 h after infection and incubated at room temperature for 20 min. Flow cytometry was used to detect apoptotic and necrotic macrophage cells [<xref rid="B31-vaccines-10-00388" ref-type="bibr">31</xref>]. </p>
+      </sec>
+      <sec id="sec2dot9-vaccines-10-00388">
+        <title>2.9. Animal Testing for Clearance Experiments</title>
+        <p>Three groups of six-week-old female BALB/c mice (N = 14 per group) (supplied by the Pasteur Institute of Iran) were injected intraperitoneally with ~4/5 &#xD7; 10<sup>8</sup> bacteria (strain RB51 and RB51 recombinant containing mLLO-BAX-SMAC) [<xref rid="B28-vaccines-10-00388" ref-type="bibr">28</xref>,<xref rid="B29-vaccines-10-00388" ref-type="bibr">29</xref>]. Saline alone was used in the negative control group. Three weeks post-inoculation (p.i.), 4 mice from each group were sacrificed, their spleens were aseptically removed, homogenized in phosphate-buffered saline (PBS), and then cultured on TSA medium, and CFU numbers were determined to assess clearance [<xref rid="B32-vaccines-10-00388" ref-type="bibr">32</xref>]. Recovered bacteria from spleens were spread on TSA containing specific antibiotics and sheep red blood cells for determining our plasmids&#x2019; existence by different antibiotic resistances and secretions of the LLO protein. Additionally, plasmids extracted from recovered bacteria were tested for digestion mapping.</p>
+      </sec>
+      <sec id="sec2dot10-vaccines-10-00388">
+        <title>2.10. Cytokine Quantitation in Immunized Mice</title>
+        <p>Blood samples of five mice from each group were collected 4 and 6 weeks p.i.; IFN-&#x3B3; was measured using an ELISA kit (Mouse IFN-&#x3B3; Biolegend-USA). Additionally, 6 weeks p.i., five mice from each group were sacrificed, their spleens were separated aseptically, and their splenocytes were grown and infected by RB51 and the RB51 recombinant containing mLLO-BAX-SMAC to determine IFN-&#x3B3; production [<xref rid="B33-vaccines-10-00388" ref-type="bibr">33</xref>]. B. abortus RB51 and the RB51 recombinant containing mLLO-BAX-SMAC were suspended in PBS, washed thrice, and resuspended in PBS with a concentration of 10<sup>8</sup> CFU. For heat inactivation, the bacterial suspension was incubated in a 65 &#xB0;C water bath for 60 min. To confirm complete inactivation, aliquots of the resulting bacterial suspensions were spread onto TSA plates and incubated at 37 &#xB0;C for five days [<xref rid="B34-vaccines-10-00388" ref-type="bibr">34</xref>]. Splenocytes from the inoculated mice were obtained as previously described and grown in 10<sup>8</sup> heat-inactivated <italic toggle="yes">B. abortus</italic> RB51 and RB51 recombinant containing mLLO-BAX-SMAC per well in the related groups. The cells were grown for 5 days, and their supernatants were collected. The sera and collected supernatants were tested for IFN-&#x3B3;, with recombinant mouse IFN-&#x3B3; as the standard. The assays were performed in triplicate [<xref rid="B30-vaccines-10-00388" ref-type="bibr">30</xref>].</p>
+      </sec>
+      <sec id="sec2dot11-vaccines-10-00388">
+        <title>2.11. Statistical Analyses</title>
+        <p>The counts of bacterial CFU in the cell cultures and spleens of mice were analyzed using the Mann&#x2013;Whitney U test. The apoptosis, LDH, and IFN-&#x3B3; production results were analyzed using one-way ANOVA. Values of <italic toggle="yes">p</italic> &lt; 0.05 were considered significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-vaccines-10-00388">
+      <title>3. Results</title>
+      <sec id="sec3dot1-vaccines-10-00388">
+        <title>3.1. Confirmation of Transformation: Characterization of Recombinant RB51 Strains Expressing LLO and Mutant LLO-BAX-SMAC</title>
+        <p>To generate an RB51 recombinant vaccine with enhanced efficacy against bovine brucellosis, RB51 was transformed with the LLO and mutant LLO-BAX-SMAC mouse apoptotic proteins that mediate bacterial escape from the phagosome of infected cells. Hemolytic activities of LLO secreted by both RB51 recombinant strains on sheep blood agar plates were considerably more intense than those seen with the parental RB51 (<xref rid="app1-vaccines-10-00388" ref-type="app">Figure S1 supplemental</xref>). Furthermore, Western blot results with the his-tag antibody revealed the BAX-SMAC and LLO proteins (<xref rid="app1-vaccines-10-00388" ref-type="app">Figure S2 supplemental</xref>).</p>
+      </sec>
+      <sec id="sec3dot2-vaccines-10-00388">
+        <title>3.2. Lactate Dehydrogenase (LDH) Release</title>
+        <p>Lactate dehydrogenase release in the supernatant of the infected J774A cells was measured as a means of evaluating the cytotoxic activity of the recombinant and parental RB51 strains. The results show no significant differences in LDH levels 6 h post-infection between RB51 recombinant-infected macrophages and those infected with RB51. However, after 24 h, the cytotoxicity of cells infected with both RB51 recombinants significantly increased compared to those infected with the parental RB51 (<xref rid="vaccines-10-00388-f001" ref-type="fig">Figure 1</xref>; <italic toggle="yes">p</italic> &lt; 0.001). Additionally, the cytotoxicity of RB51-mLLO-BAX-SMAC-infected cells significantly increased compared to those infected with RB51-LLO (<italic toggle="yes">p</italic> &lt; 0.001).</p>
+      </sec>
+      <sec id="sec3dot3-vaccines-10-00388">
+        <title>3.3. Evaluation of Brucella Survival</title>
+        <p>The survival of both RB51 recombinant strains or RB51 bacteria in J774A.1 macrophage cells was evaluated by determining <italic toggle="yes">Brucella</italic> colony-forming units of infected macrophages. In addition, the presence of plasmids in recombinant strains separated from cell lines was revealed by an antibiotic resistance test. </p>
+        <p>After 24 h p.i., the intracellular survival rate of both RB51 recombinant strains was significantly reduced. The RB51mLLO-BAX_SMAC bacteria in J774A.1 macrophages were significantly reduced in comparison with RB51-LLO and RB51 bacteria (<italic toggle="yes">p</italic>-value &lt; 0.001; <xref rid="vaccines-10-00388-f002" ref-type="fig">Figure 2</xref>).</p>
+      </sec>
+      <sec id="sec3dot4-vaccines-10-00388">
+        <title>3.4. Programmed Macrophage Cell Death</title>
+        <p>A previous study had shown that RB51 could induce apoptosis in infected macrophages [<xref rid="B35-vaccines-10-00388" ref-type="bibr">35</xref>]. However, the flow cytometry results show that J774A.1 macrophages infected with both RB51 recombinant strains induced significantly higher programmed cell death than those infected with the parental RB51 after 24 and 48 h p.i. (<italic toggle="yes">p</italic>-value &lt; 0.001; <xref rid="vaccines-10-00388-f003" ref-type="fig">Figure 3</xref>).</p>
+      </sec>
+      <sec id="sec3dot5-vaccines-10-00388">
+        <title>3.5. Animal Testing for Clearance Experiments</title>
+        <p>To determine the increased apoptotic rates of the infected cells that could potentially lead to fast clearance of organisms from animal tissues, we determined the bacterial load recovered from the spleens at specific times after infection was determined after 21 days. The presence of plasmids in the recombinant strain separated from the spleen was revealed by an antibiotic resistance test and extraction. Mice vaccinated with the RB51-BAX-mLLO strain had lower bacterial numbers in their spleens compared to those immunized with RB51 (<italic toggle="yes">p</italic> &lt; 0.001), indicating improved clearance and higher attenuation levels (<xref rid="vaccines-10-00388-f004" ref-type="fig">Figure 4</xref>).</p>
+      </sec>
+      <sec id="sec3dot6-vaccines-10-00388">
+        <title>3.6. Cytokine Quantitation in Immunized Mice</title>
+        <p>One of the main objectives of this study was to assess the effect of RB51-mLLO-BAX-SMAC on IFN-&#x3B3; overexpression as an enhanced Th1 response. Thus, vaccinated mice were monitored for IFN-&#x3B3; expression. Mouse sera were collected 3 and 6 weeks after RB51-BAX-mLLO and RB51 vaccination and were used for measurement of IFN-&#x3B3; production. RB51-BAX-mLLO-vaccinated mice showed up-regulation of IFN-&#x3B3; (<italic toggle="yes">p</italic> &lt; 0.001; <xref rid="vaccines-10-00388-f005" ref-type="fig">Figure 5</xref>A). This observation was consistent with the IFN-&#x3B3; analysis performed with culture supernatants from RB51-BAX-mLLO- or RB51-infected macrophages. In addition, the splenocytes from RB51-BAX-mLLO-vaccinated mice produced significantly higher levels of IFN-&#x3B3; when stimulated with heat-inactivated RB51-BAX-mLLO in vitro compared with the RB51 and saline-inoculated groups, confirming the potential of the RB51 recombinant carrying mLLO-BAX-SMAC as a candidate vaccine (<italic toggle="yes">p</italic> &lt; 0.001; <xref rid="vaccines-10-00388-f005" ref-type="fig">Figure 5</xref>B).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-vaccines-10-00388">
+      <title>4. Discussion</title>
+      <p>Cell-mediated immunity responses play a critical role in resistance against intracellular bacterial infections. Live attenuated vaccines are generally considered vaccines of choice for intracellular bacteria, such as <italic toggle="yes">Brucella</italic> spp. [<xref rid="B36-vaccines-10-00388" ref-type="bibr">36</xref>]. In order to enhance the efficacy of available vaccines against <italic toggle="yes">Brucella</italic>, an RB51 vaccine armed with the LLO and BAX-SMAC proteins was constructed. The phagosomal escape of the RB51 vaccine using the cytolytic activity of LLO represents a unique mechanism to facilitate antigen presentation to the immune system and apoptosis induction [<xref rid="B14-vaccines-10-00388" ref-type="bibr">14</xref>,<xref rid="B37-vaccines-10-00388" ref-type="bibr">37</xref>]. Our results demonstrate that the efficacy of the recombinant vaccine RB51-mLLO-BAX-SMAC was significantly increased. Based on confirmed tests by Kaufmann et al. (2005) on <italic toggle="yes">Mycobacterium Bovis bacilli</italic>
+<italic toggle="yes">Calmette-Gu&#xE9;rin</italic> (<italic toggle="yes">BCG</italic>), it seems that membrane perforation using LLO secreted by the recombinant RB51 and LLO-BAX-SMAC facilitates the delivery of the pathogen antigens into the cytoplasm and is then processed by the proteasome and presented by the MHCI [<xref rid="B38-vaccines-10-00388" ref-type="bibr">38</xref>]. Phagolysosomal proteases also leak into the cytosol, cleave the caspases, and induce apoptosis [<xref rid="B38-vaccines-10-00388" ref-type="bibr">38</xref>]. Moreover, the RB51 recombinant-induced programmed cell death may release apoptotic vesicles that contain <italic toggle="yes">Brucella</italic> antigens and activate dendritic cells and CD8+ T cells. This process of CD8+ T cell activation is called &#x201C;cross-priming.&#x201D; The cross-priming process presents antigens acquired from the outside of the cell. It is hypothesized that the RB51 recombinant activates CTL activity with cross-priming [<xref rid="B38-vaccines-10-00388" ref-type="bibr">38</xref>]. Our results demonstrate that recombinant <italic toggle="yes">Brucella</italic> strains armed with both the LLO and BAX-SMAC apoptotic proteins are more enhanced than strains equipped with only LLO. It seems that phagosome membrane perforation by LLO causes BAX-SMAC proteins to leak into the cytosol, which has a binary effect on apoptosis induction. Kaufmann et al. (2005) constructed a recombinant <italic toggle="yes">BCG</italic> vaccine that secreted LLO and concluded that the LLO-secreting r<italic toggle="yes">BCG</italic> strain offered more efficacious protection against <italic toggle="yes">M. tuberculosis</italic> than the parental <italic toggle="yes">BCG</italic>. This improvement was primarily based on better cross-priming, which causes enhanced T cell-mediated immunity in mice. Furthermore, LLO promoted antigen translocation into the cytoplasm and apoptosis of infected macrophages [<xref rid="B38-vaccines-10-00388" ref-type="bibr">38</xref>].</p>
+      <p>LLO has a pronounced acidic optimum pH that helps <italic toggle="yes">Listeria</italic> escape from acidic phagosomes and spread in the cytosol. However, available evidence suggests that at the early stages of <italic toggle="yes">Brucella</italic> phagocytosis, inhibition of phagosome acidification by the urease activity of <italic toggle="yes">Brucella</italic> can modify the phagosomal pH to remain neutral, a condition that is not suitable for LLO activity [<xref rid="B39-vaccines-10-00388" ref-type="bibr">39</xref>]. Based on past studies, the change of leucine 461 to threonine increased the hemolytic activity of LLO almost 10-fold at neutral pH [<xref rid="B22-vaccines-10-00388" ref-type="bibr">22</xref>]. We, therefore, transformed the RB51 strain with a vector containing the mutant LLO L461T to improve its activity. Leucine 461 is responsible for the optimum acidic pH of LLO, and the change of leucine 461 to threonine significantly increased the lytic activity of LLO in the RB51 recombinant compared to the parental RB51. Mycobacterial urease C has an essential role in pH neutralization of the host phagosome and thus inhibits the maturation of the phagolysosome. To improve the pH for LLO activity, a urease C-deficient r<italic toggle="yes">BCG</italic> strain that lacked urease activity was constructed by Kaufmann et al. They showed that LLO secreted by urease C-deficient <italic toggle="yes">BCG</italic> was more active than that secreted by <italic toggle="yes">BCG</italic> armed with LLO without urease deletion because of an optimized phagosomal pH for LLO [<xref rid="B14-vaccines-10-00388" ref-type="bibr">14</xref>].</p>
+      <p>This report investigated the immune response elicited by the RB51 recombinant containing mLLO-BAX-SMAC compared with the parental RB51. Mice vaccinated with strain RB51 carrying mLLO-BAX-SMAC developed an enhanced Th1-type immune response mediated by the secretion of IFN-&#x3B3; in the serum and supernatant of stimulated splenocytes. The Th1-type immune response plays an essential role in protection against <italic toggle="yes">Brucella</italic>. Therefore, alteration in the processing and presentation of <italic toggle="yes">Brucella</italic> antigens may cause a protection enhancement.</p>
+      <p>One disadvantage of existing <italic toggle="yes">Brucella</italic> live attenuated vaccines such as RB51 is the incomplete immunization clearance from animal tissue, and persistent infections with vaccine strains have occasionally been reported in vaccinated animals [<xref rid="B8-vaccines-10-00388" ref-type="bibr">8</xref>]. One of the desired features of our candidate vaccine is prompt clearance from the spleen as a measure of potency and safety. Our finding reveals that the clearance patterns of the recombinant strain and parental RB51 in the vaccinated mice were not similar. However, the clearance of the RB51 recombinant containing mLLO-BAX-SMAC was better than that of the parental RB51. It seems that the high rate of apoptosis in the infected spleen cells and the effective immune response led to better clearance of bacteria from the mouse tissue. Furthermore, the increased LDH activity of our recombinant strain in the infected cell line compared to the parental strain may result from lysis of the macrophages or intracellular killing activity that may help explain the decline in the number of recombinant vaccine organisms in the mouse spleen tissue.</p>
+      <p>Additionally, the recombinant strains had a lower survival rate in macrophages while maintaining their attenuation characteristic.</p>
+      <p>In conclusion, past studies reported that the parental RB51 poorly stimulates the CTL response by CD8 T cells and Th1; however, here, we demonstrated that RB51 strains expressing LLO and BAX-SMAC promoted a robust Th1-type immune response. As a limitation, we did not challenge the mice with a <italic toggle="yes">Brucella</italic> abortus wild type. Future experiments should be directed at clarifying whether these recombinant strains possess increased vaccine efficacy against <italic toggle="yes">Brucella</italic> in animal models. </p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank Sevda Gheibi for constructive feedback and Laleh Shariati for technical assistance.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <app id="app1-vaccines-10-00388">
+        <title>Supplementary Materials</title>
+        <p>The following are available online at <uri xlink:href="https://www.mdpi.com/article/10.3390/vaccines10030388/s1">https://www.mdpi.com/article/10.3390/vaccines10030388/s1</uri>. Figure S1. Hemolytic activities of LLO secreted by rRB51 strains on sheep blood agar plate. Figure S2. Western blots showing secretion of mLLO and BAX-SMAC by rRB51. Lane 1, RB51 culture supernatant; Lanes 2, 3, 4, and 5, the supernatant of rRB51 culture; Lane 6, Protein marker. The 21kDa and 58kDa bands are related to BAX-SMAC and mLLO protein, respectively.</p>
+        <supplementary-material id="vaccines-10-00388-s001" position="float" content-type="local-data">
+          <media xlink:href="vaccines-10-00388-s001.zip">
+            <caption>
+              <p>Click here for additional data file.</p>
+            </caption>
+          </media>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization: A.G., H.K., M.R.K. and K.K.; methodology: M.S., A.G., S.H.H., N.Z. and H.M.; software and data curation: A.G., M.S. and K.K.; resources: A.G., M.S., H.K., M.R.K. and K.K.; writing&#x2014;original draft preparation: A.G.; writing&#x2014;review and editing: A.G. and K.K.; supervision: A.G., H.K., M.R.K. and K.K. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>We are grateful to the deputy of research at Tehran University of Medical Sciences and Isfahan University of Medical Sciences for their generous support.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The animal study protocol was approved by the Ethics Committees of Isfahan University of Medical Science, Isfahan, Iran (ethic code IR.MUI.REC.1396.3.443) for studies involving animals.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-vaccines-10-00388">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Khorramizadeh</surname><given-names>M.R.</given-names></name>
+<name><surname>Gheibi</surname><given-names>A.</given-names></name>
+<name><surname>Khanahmad</surname><given-names>H.</given-names></name>
+<name><surname>Kardar</surname><given-names>G.A.</given-names></name>
+<name><surname>Boshtam</surname><given-names>M.</given-names></name>
+<name><surname>Rezaie</surname><given-names>S.</given-names></name>
+<name><surname>Kazemi</surname><given-names>B.</given-names></name>
+</person-group>
+          <article-title>Optimization and Comparison of Different Methods and Factors for Efficient Transformation of Brucella abortus RB51strain</article-title>
+          <source>Adv. Biomed. Res.</source>
+          <year>2019</year>
+          <volume>8</volume>
+          <fpage>37</fpage>
+          <pub-id pub-id-type="doi">10.4103/abr.abr_14_19</pub-id>
+          <pub-id pub-id-type="pmid">31198771</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-vaccines-10-00388">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Jacob</surname><given-names>J.M.</given-names></name>
+<name><surname>Curtiss</surname><given-names>R.J.M.</given-names></name>
+</person-group>
+          <article-title>Infection, Characterization of Brucella abortus S19 as a challenge strain for use in a mouse model of brucellosis</article-title>
+          <source>Microbes Infect.</source>
+          <year>2021</year>
+          <volume>23</volume>
+          <fpage>104809</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.micinf.2021.104809</pub-id>
+          <pub-id pub-id-type="pmid">33753207</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-vaccines-10-00388">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zamri-Saad</surname><given-names>M.</given-names></name>
+<name><surname>Kamarudin</surname><given-names>M.I.</given-names></name>
+</person-group>
+          <article-title>Control of animal brucellosis: The Malaysian experience</article-title>
+          <source>Asian Pac. J. Trop. Med.</source>
+          <year>2016</year>
+          <volume>9</volume>
+          <fpage>1136</fpage>
+          <lpage>1140</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.apjtm.2016.11.007</pub-id>
+          <pub-id pub-id-type="pmid">27955740</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-vaccines-10-00388">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gheibi</surname><given-names>A.</given-names></name>
+<name><surname>Khanahmad</surname><given-names>H.</given-names></name>
+<name><surname>Kashfi</surname><given-names>K.</given-names></name>
+<name><surname>Sarmadi</surname><given-names>M.</given-names></name>
+<name><surname>Khorramizadeh</surname><given-names>M.R.</given-names></name>
+</person-group>
+          <article-title>Development of new generation of vaccines for Brucella abortus</article-title>
+          <source>Heliyon</source>
+          <year>2018</year>
+          <volume>4</volume>
+          <fpage>e01079</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.heliyon.2018.e01079</pub-id>
+          <pub-id pub-id-type="pmid">30603712</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-vaccines-10-00388">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Corbel</surname><given-names>M.J.</given-names></name>
+</person-group>
+          <article-title>Brucellosis vaccines: Past, present and future</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2002</year>
+          <volume>90</volume>
+          <fpage>479</fpage>
+          <lpage>496</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00255-9</pub-id>
+          <pub-id pub-id-type="pmid">12414166</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-vaccines-10-00388">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Babaoglu</surname><given-names>U.T.</given-names></name>
+<name><surname>Ogutucu</surname><given-names>H.</given-names></name>
+<name><surname>Demir</surname><given-names>G.</given-names></name>
+<name><surname>Sanli</surname><given-names>D.</given-names></name>
+<name><surname>Babaoglu</surname><given-names>A.B.</given-names></name>
+<name><surname>Oymak</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Prevalence of Brucella in raw milk: An example from Turkey</article-title>
+          <source>Niger. J. Clin. Pract.</source>
+          <year>2018</year>
+          <volume>21</volume>
+          <fpage>907</fpage>
+          <lpage>911</lpage>
+          <pub-id pub-id-type="doi">10.4103/njcp.njcp_211_17</pub-id>
+          <pub-id pub-id-type="pmid">29984724</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-vaccines-10-00388">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Puspitoyani</surname><given-names>P.</given-names></name>
+<name><surname>Sabdoningrum</surname><given-names>E.</given-names></name>
+<name><surname>Handijatno</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>The Influence of Brucella Abortus Strain RB51 Vaccine Which is Given to the Mice (<italic toggle="yes">Mus musculus</italic>) and Infected by Local Isolat Brucella Suis for the Figures of Hepatic Fibrosis of the Mice (<italic toggle="yes">Mus musculus</italic>)</article-title>
+          <source>Adv. Anim. Vet. Sci.</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <fpage>208</fpage>
+          <lpage>212</lpage>
+          <pub-id pub-id-type="doi">10.17582/journal.aavs/2020/8.2.208.212</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-vaccines-10-00388">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yazdi</surname><given-names>H.S.</given-names></name>
+<name><surname>Kafi</surname><given-names>M.</given-names></name>
+<name><surname>Haghkhah</surname><given-names>M.</given-names></name>
+<name><surname>Tamadon</surname><given-names>A.</given-names></name>
+<name><surname>Behroozikhah</surname><given-names>A.</given-names></name>
+<name><surname>Ghane</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Abortions in pregnant dairy cows after vaccination with Brucella abortus strain RB51</article-title>
+          <source>Vet. Rec.</source>
+          <year>2009</year>
+          <volume>165</volume>
+          <fpage>570</fpage>
+          <pub-id pub-id-type="doi">10.1136/vr.165.19.570</pub-id>
+          <pub-id pub-id-type="pmid">19897873</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-vaccines-10-00388">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dabral</surname><given-names>N.</given-names></name>
+<name><surname>Burcham</surname><given-names>G.N.</given-names></name>
+<name><surname>Jain-Gupta</surname><given-names>N.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Overexpression of wbkF gene in Brucella abortus RB51WboA leads to increased O-polysaccharide expression and enhanced vaccine efficacy against B. abortus 2308, B. melitensis 16M, and B. suis 1330 in a murine brucellosis model</article-title>
+          <source>PLoS ONE</source>
+          <year>2019</year>
+          <volume>14</volume>
+          <elocation-id>e0213587</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0213587</pub-id>
+          <pub-id pub-id-type="pmid">30856219</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-vaccines-10-00388">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Monreal</surname><given-names>D.</given-names></name>
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+<name><surname>Moriy&#xF3;n</surname><given-names>I.</given-names></name>
+<name><surname>Grillo</surname><given-names>M.-J.</given-names></name>
+<name><surname>Gonz&#xE1;lez</surname><given-names>D.</given-names></name>
+<name><surname>Mar&#xED;n</surname><given-names>C.</given-names></name>
+<name><surname>L&#xF3;pez-Go&#xF1;i</surname><given-names>I.</given-names></name>
+<name><surname>Mainar-Jaime</surname><given-names>R.C.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+</person-group>
+          <article-title>Rough vaccines in animal brucellosis: Structural and genetic basis and present status</article-title>
+          <source>Vet. Res.</source>
+          <year>2004</year>
+          <volume>35</volume>
+          <fpage>1</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="pmid">15099501</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-vaccines-10-00388">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pizarro-Cerda</surname><given-names>J.</given-names></name>
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+<name><surname>Gorvel</surname><given-names>J.P.</given-names></name>
+</person-group>
+          <article-title>Invasion and intracellular trafficking of Brucella abortus in nonphagocytic cells</article-title>
+          <source>Microbes Infect.</source>
+          <year>2000</year>
+          <volume>2</volume>
+          <fpage>829</fpage>
+          <lpage>835</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1286-4579(00)90368-X</pub-id>
+          <pub-id pub-id-type="pmid">10955964</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-vaccines-10-00388">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>de Figueiredo</surname><given-names>P.</given-names></name>
+<name><surname>Ficht</surname><given-names>T.A.</given-names></name>
+<name><surname>Rice-Ficht</surname><given-names>A.</given-names></name>
+<name><surname>Rossetti</surname><given-names>C.A.</given-names></name>
+<name><surname>Adams</surname><given-names>L.G.</given-names></name>
+</person-group>
+          <article-title>Pathogenesis and immunobiology of brucellosis: Review of Brucella-host interactions</article-title>
+          <source>Am. J. Pathol.</source>
+          <year>2015</year>
+          <volume>185</volume>
+          <fpage>1505</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>
+          <pub-id pub-id-type="pmid">25892682</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-vaccines-10-00388">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Starr</surname><given-names>T.</given-names></name>
+<name><surname>Ng</surname><given-names>T.W.</given-names></name>
+<name><surname>Wehrly</surname><given-names>T.D.</given-names></name>
+<name><surname>Knodler</surname><given-names>L.A.</given-names></name>
+<name><surname>Celli</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Brucella intracellular replication requires trafficking through the late endosomal/lysosomal compartment</article-title>
+          <source>Traffic</source>
+          <year>2008</year>
+          <volume>9</volume>
+          <fpage>678</fpage>
+          <lpage>694</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-0854.2008.00718.x</pub-id>
+          <pub-id pub-id-type="pmid">18266913</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-vaccines-10-00388">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hess</surname><given-names>J.</given-names></name>
+<name><surname>Miko</surname><given-names>D.</given-names></name>
+<name><surname>Catic</surname><given-names>A.</given-names></name>
+<name><surname>Lehmensiek</surname><given-names>V.</given-names></name>
+<name><surname>Russell</surname><given-names>D.G.</given-names></name>
+<name><surname>Kaufmann</surname><given-names>S.H.</given-names></name>
+</person-group>
+          <article-title>Mycobacterium bovis Bacille Calmette-Guerin strains secreting listeriolysin of Listeria monocytogenes</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>1998</year>
+          <volume>95</volume>
+          <fpage>5299</fpage>
+          <lpage>5304</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.95.9.5299</pub-id>
+          <pub-id pub-id-type="pmid">9560270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-vaccines-10-00388">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pe&#xF1;a-Blanco</surname><given-names>A.</given-names></name>
+<name><surname>Garc&#xED;a-S&#xE1;ez</surname><given-names>A.J.</given-names></name>
+</person-group>
+          <article-title>Bax, Bak and beyond&#x2014;Mitochondrial performance in apoptosis</article-title>
+          <source>FEBS J.</source>
+          <year>2018</year>
+          <volume>285</volume>
+          <fpage>416</fpage>
+          <lpage>431</lpage>
+          <pub-id pub-id-type="doi">10.1111/febs.14186</pub-id>
+          <pub-id pub-id-type="pmid">28755482</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-vaccines-10-00388">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Du</surname><given-names>C.</given-names></name>
+<name><surname>Fang</surname><given-names>M.</given-names></name>
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+<name><surname>Li</surname><given-names>L.</given-names></name>
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group>
+          <article-title>Smac, a mitochondrial protein that promotes cytochrome c-dependent caspase activation by eliminating IAP inhibition</article-title>
+          <source>Cell</source>
+          <year>2000</year>
+          <volume>102</volume>
+          <fpage>33</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(00)00008-8</pub-id>
+          <pub-id pub-id-type="pmid">10929711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-vaccines-10-00388">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Vemulapalli</surname><given-names>R.</given-names></name>
+<name><surname>He</surname><given-names>Y.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella abortus</italic> strain RB51 as a vector for heterologous protein expression and induction of specific Th1 type immune responses</article-title>
+          <source>Infect. Immun.</source>
+          <year>2000</year>
+          <volume>68</volume>
+          <fpage>3290</fpage>
+          <lpage>3296</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.68.6.3290-3296.2000</pub-id>
+          <pub-id pub-id-type="pmid">10816476</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-vaccines-10-00388">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Takebe</surname><given-names>J.</given-names></name>
+<name><surname>Champagne</surname><given-names>C.</given-names></name>
+<name><surname>Offenbacher</surname><given-names>S.</given-names></name>
+<name><surname>Ishibashi</surname><given-names>K.</given-names></name>
+<name><surname>Cooper</surname><given-names>L.</given-names></name>
+</person-group>
+          <article-title>Titanium surface topography alters cell shape and modulates bone morphogenetic protein 2 expression in the J774A. 1 macrophage cell line</article-title>
+          <source>J. Biomed. Mater. Res. Part A</source>
+          <year>2003</year>
+          <volume>64</volume>
+          <fpage>207</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1002/jbm.a.10275</pub-id>
+          <pub-id pub-id-type="pmid">12522806</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-vaccines-10-00388">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Obrani</surname><given-names>S.</given-names></name>
+<name><surname>Babi</surname><given-names>F.</given-names></name>
+<name><surname>Maravi-Vlahoviek</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Improvement of pBBR1MCS plasmids, a very useful series of broad-host-range cloning vectors</article-title>
+          <source>Plasmid</source>
+          <year>2013</year>
+          <volume>70</volume>
+          <fpage>263</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.plasmid.2013.04.001</pub-id>
+          <pub-id pub-id-type="pmid">23583732</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-vaccines-10-00388">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>W.K.</given-names></name>
+<name><surname>Moon</surname><given-names>J.Y.</given-names></name>
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+<name><surname>Hur</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Comparison between Immunization Routes of Live Attenuated Salmonella Typhimurium Strains Expressing BCSP31, Omp3b, and SOD of Brucella abortus in Murine Model</article-title>
+          <source>Front. Microbiol.</source>
+          <year>2016</year>
+          <volume>7</volume>
+          <fpage>550</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2016.00550</pub-id>
+          <pub-id pub-id-type="pmid">27148232</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-vaccines-10-00388">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Seleem</surname><given-names>M.N.</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>R.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Improved expression vector for Brucella species</article-title>
+          <source>BioTechniques</source>
+          <year>2004</year>
+          <volume>37</volume>
+          <fpage>740</fpage>
+          <lpage>744</lpage>
+          <page-range>740, 742, 744</page-range>
+          <pub-id pub-id-type="doi">10.2144/04375BM05</pub-id>
+          <pub-id pub-id-type="pmid">15560128</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-vaccines-10-00388">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Glomski</surname><given-names>I.J.</given-names></name>
+<name><surname>Gedde</surname><given-names>M.M.</given-names></name>
+<name><surname>Tsang</surname><given-names>A.W.</given-names></name>
+<name><surname>Swanson</surname><given-names>J.A.</given-names></name>
+<name><surname>Portnoy</surname><given-names>D.A.</given-names></name>
+</person-group>
+          <article-title>The Listeria monocytogenes hemolysin has an acidic pH optimum to compartmentalize activity and prevent damage to infected host cells</article-title>
+          <source>J. Cell Biol.</source>
+          <year>2002</year>
+          <volume>156</volume>
+          <fpage>1029</fpage>
+          <lpage>1038</lpage>
+          <pub-id pub-id-type="doi">10.1083/jcb.200201081</pub-id>
+          <pub-id pub-id-type="pmid">11901168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-vaccines-10-00388">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lee</surname><given-names>S.-H.</given-names></name>
+<name><surname>Cheung</surname><given-names>M.</given-names></name>
+<name><surname>Irani</surname><given-names>V.</given-names></name>
+<name><surname>Carroll</surname><given-names>J.</given-names></name>
+<name><surname>Inamine</surname><given-names>J.</given-names></name>
+<name><surname>Howe</surname><given-names>W.</given-names></name>
+<name><surname>Maslow</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Optimization of electroporation conditions for Mycobacterium avium</article-title>
+          <source>Tuberculosis</source>
+          <year>2002</year>
+          <volume>82</volume>
+          <fpage>167</fpage>
+          <lpage>174</lpage>
+          <pub-id pub-id-type="doi">10.1054/tube.2002.0335</pub-id>
+          <pub-id pub-id-type="pmid">12464488</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-vaccines-10-00388">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Vemulapalli</surname><given-names>R.</given-names></name>
+<name><surname>He</surname><given-names>Y.</given-names></name>
+<name><surname>Cravero</surname><given-names>S.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+</person-group>
+          <article-title>Overexpression of protective antigen as a novel approach to enhance vaccine efficacy of Brucella abortus strain RB51</article-title>
+          <source>Infect. Immun.</source>
+          <year>2000</year>
+          <volume>68</volume>
+          <fpage>3286</fpage>
+          <lpage>3289</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.68.6.3286-3289.2000</pub-id>
+          <pub-id pub-id-type="pmid">10816475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-vaccines-10-00388">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Datta</surname><given-names>A.R.</given-names></name>
+<name><surname>Wentz</surname><given-names>B.A.</given-names></name>
+<name><surname>Russell</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Cloning of the listeriolysin O gene and development of specific gene probes for Listeria monocytogenes</article-title>
+          <source>Appl. Environ. Microbiol.</source>
+          <year>1990</year>
+          <volume>56</volume>
+          <fpage>3874</fpage>
+          <lpage>3877</lpage>
+          <pub-id pub-id-type="doi">10.1128/aem.56.12.3874-3877.1990</pub-id>
+          <pub-id pub-id-type="pmid">2128013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-vaccines-10-00388">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Laemmli</surname><given-names>U.K.</given-names></name>
+</person-group>
+          <article-title>Cleavage of structural proteins during the assembly of the head of bacteriophage T4</article-title>
+          <source>Nature</source>
+          <year>1970</year>
+          <volume>227</volume>
+          <fpage>680</fpage>
+          <lpage>685</lpage>
+          <pub-id pub-id-type="doi">10.1038/227680a0</pub-id>
+          <pub-id pub-id-type="pmid">5432063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-vaccines-10-00388">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lobner</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>Comparison of the LDH and MTT assays for quantifying cell death: Validity for neuronal apoptosis?</article-title>
+          <source>J. Neurosci. Methods</source>
+          <year>2000</year>
+          <volume>96</volume>
+          <fpage>147</fpage>
+          <lpage>152</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0165-0270(99)00193-4</pub-id>
+          <pub-id pub-id-type="pmid">10720679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-vaccines-10-00388">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.N.</given-names></name>
+</person-group>
+          <article-title>Immune responses and protection against experimental challenge after vaccination of bison with Brucella abortus strain RB51 or RB51 overexpressing superoxide dismutase and glycosyltransferase genes</article-title>
+          <source>Clin. Vaccine Immunol.</source>
+          <year>2009</year>
+          <volume>16</volume>
+          <fpage>535</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="doi">10.1128/CVI.00419-08</pub-id>
+          <pub-id pub-id-type="pmid">19176693</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-vaccines-10-00388">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dorneles</surname><given-names>E.M.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+</person-group>
+          <article-title>Recent advances in Brucella abortus vaccines</article-title>
+          <source>Vet. Res.</source>
+          <year>2015</year>
+          <volume>46</volume>
+          <fpage>76</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id>
+          <pub-id pub-id-type="pmid">26155935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-vaccines-10-00388">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+<name><surname>Larson</surname><given-names>C.B.</given-names></name>
+<name><surname>Ramaker</surname><given-names>M.A.</given-names></name>
+<name><surname>Quandt</surname><given-names>K.</given-names></name>
+<name><surname>Wendte</surname><given-names>J.M.</given-names></name>
+<name><surname>Ku</surname><given-names>K.P.</given-names></name>
+<name><surname>Chen</surname><given-names>F.</given-names></name>
+<name><surname>Jourdian</surname><given-names>G.W.</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>R.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Characterization of recombinant B. abortus strain RB51SOD toward understanding the uncorrelated innate and adaptive immune responses induced by RB51SOD compared to its parent vaccine strain RB51</article-title>
+          <source>Front. Cell. Infect. Microbiol.</source>
+          <year>2011</year>
+          <volume>1</volume>
+          <fpage>10</fpage>
+          <pub-id pub-id-type="doi">10.3389/fcimb.2011.00010</pub-id>
+          <pub-id pub-id-type="pmid">22919576</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-vaccines-10-00388">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rieger</surname><given-names>A.M.</given-names></name>
+<name><surname>Nelson</surname><given-names>K.L.</given-names></name>
+<name><surname>Konowalchuk</surname><given-names>J.D.</given-names></name>
+<name><surname>Barreda</surname><given-names>D.R.</given-names></name>
+</person-group>
+          <article-title>Modified annexin V/propidium iodide apoptosis assay for accurate assessment of cell death</article-title>
+          <source>J. Vis. Exp. JoVE</source>
+          <year>2011</year>
+          <volume>24</volume>
+          <fpage>e2597</fpage>
+          <pub-id pub-id-type="doi">10.3791/2597</pub-id>
+          <pub-id pub-id-type="pmid">21540825</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-vaccines-10-00388">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ugalde</surname><given-names>J.E.</given-names></name>
+<name><surname>Comerci</surname><given-names>D.J.</given-names></name>
+<name><surname>Leguizam&#xF3;n</surname><given-names>M.S.</given-names></name>
+<name><surname>Ugalde</surname><given-names>R.A.</given-names></name>
+</person-group>
+          <article-title>Evaluation of Brucella abortus phosphoglucomutase (pgm) mutant as a new live rough-phenotype vaccine</article-title>
+          <source>Infect. Immun.</source>
+          <year>2003</year>
+          <volume>71</volume>
+          <fpage>6264</fpage>
+          <lpage>6269</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.71.11.6264-6269.2003</pub-id>
+          <pub-id pub-id-type="pmid">14573645</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-vaccines-10-00388">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>de Souza Filho</surname><given-names>J.A.</given-names></name>
+<name><surname>de Paulo Martins</surname><given-names>V.</given-names></name>
+<name><surname>Campos</surname><given-names>P.C.</given-names></name>
+<name><surname>Alves-Silva</surname><given-names>J.</given-names></name>
+<name><surname>Santos</surname><given-names>N.V.</given-names></name>
+<name><surname>de Oliveira</surname><given-names>F.S.</given-names></name>
+<name><surname>Menezes</surname><given-names>G.B.</given-names></name>
+<name><surname>Azevedo</surname><given-names>V.</given-names></name>
+<name><surname>Cravero</surname><given-names>S.L.</given-names></name>
+<name><surname>Oliveira</surname><given-names>S.C.</given-names></name>
+</person-group>
+          <article-title>Mutant Brucella abortus membrane fusogenic protein induces protection against challenge infection in mice</article-title>
+          <source>Infect. Immun.</source>
+          <year>2015</year>
+          <volume>83</volume>
+          <fpage>1458</fpage>
+          <lpage>1464</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.02790-14</pub-id>
+          <pub-id pub-id-type="pmid">25644010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-vaccines-10-00388">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Motaharinia</surname><given-names>Y.</given-names></name>
+<name><surname>Rezaee</surname><given-names>M.A.</given-names></name>
+<name><surname>Rashidi</surname><given-names>A.</given-names></name>
+<name><surname>Jalili</surname><given-names>A.</given-names></name>
+<name><surname>Rezaie</surname><given-names>M.J.</given-names></name>
+<name><surname>Shapouri</surname><given-names>R.</given-names></name>
+<name><surname>Hossieni</surname><given-names>W.</given-names></name>
+<name><surname>Rahmani</surname><given-names>M.R.</given-names></name>
+</person-group>
+          <article-title>Induction of protective immunity against brucellosis in mice by vaccination with a combination of naloxone, alum, and heat-killed Brucella melitensis 16 M</article-title>
+          <source>J. Microbiol. Immunol. Infect.</source>
+          <year>2013</year>
+          <volume>46</volume>
+          <fpage>253</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jmii.2012.03.011</pub-id>
+          <pub-id pub-id-type="pmid">22727892</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-vaccines-10-00388">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>F.</given-names></name>
+<name><surname>He</surname><given-names>Y.</given-names></name>
+</person-group>
+          <article-title>Caspase-2 mediated apoptotic and necrotic murine macrophage cell death induced by rough Brucella abortus</article-title>
+          <source>PLoS ONE</source>
+          <year>2009</year>
+          <volume>4</volume>
+          <fpage>e6830</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0006830</pub-id>
+          <pub-id pub-id-type="pmid">19714247</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-vaccines-10-00388">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Goel</surname><given-names>D.</given-names></name>
+<name><surname>Rajendran</surname><given-names>V.</given-names></name>
+<name><surname>Ghosh</surname><given-names>P.C.</given-names></name>
+<name><surname>Bhatnagar</surname><given-names>R.J.V.</given-names></name>
+</person-group>
+          <article-title>Cell mediated immune response after challenge in Omp25 liposome immunized mice contributes to protection against virulent Brucella abortus 544</article-title>
+          <source>Vaccine</source>
+          <year>2013</year>
+          <volume>31</volume>
+          <fpage>1231</fpage>
+          <lpage>1237</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2012.12.043</pub-id>
+          <pub-id pub-id-type="pmid">23273966</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-vaccines-10-00388">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rao</surname><given-names>M.</given-names></name>
+<name><surname>Vogelzang</surname><given-names>A.</given-names></name>
+<name><surname>Kaiser</surname><given-names>P.</given-names></name>
+<name><surname>Schuerer</surname><given-names>S.</given-names></name>
+<name><surname>Kaufmann</surname><given-names>S.H.</given-names></name>
+<name><surname>Gengenbacher</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>The Tuberculosis Vaccine Candidate Bacillus Calmette-Gu&#xE9;rin &#x394; ureC:: Hly Coexpressing Human Interleukin-7 or-18 Enhances Antigen-Specific T Cell Responses in Mice</article-title>
+          <source>PLoS ONE</source>
+          <year>2013</year>
+          <volume>8</volume>
+          <elocation-id>e78966</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0078966</pub-id>
+          <pub-id pub-id-type="pmid">24236077</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-vaccines-10-00388">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Grode</surname><given-names>L.</given-names></name>
+<name><surname>Seiler</surname><given-names>P.</given-names></name>
+<name><surname>Baumann</surname><given-names>S.</given-names></name>
+<name><surname>Hess</surname><given-names>J.</given-names></name>
+<name><surname>Brinkmann</surname><given-names>V.</given-names></name>
+<name><surname>Eddine</surname><given-names>A.N.</given-names></name>
+<name><surname>Mann</surname><given-names>P.</given-names></name>
+<name><surname>Goosmann</surname><given-names>C.</given-names></name>
+<name><surname>Bandermann</surname><given-names>S.</given-names></name>
+<name><surname>Smith</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>Increased vaccine efficacy against tuberculosis of recombinant Mycobacterium bovis bacille Calmette-Guerin mutants that secrete listeriolysin</article-title>
+          <source>J. Clin. Investig.</source>
+          <year>2005</year>
+          <volume>115</volume>
+          <fpage>2472</fpage>
+          <lpage>2479</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI24617</pub-id>
+          <pub-id pub-id-type="pmid">16110326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-vaccines-10-00388">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sangari</surname><given-names>F.J.</given-names></name>
+<name><surname>Seoane</surname><given-names>A.</given-names></name>
+<name><surname>Rodrguez</surname><given-names>M.C.</given-names></name>
+<name><surname>Ag&#xFC;ero</surname><given-names>J.</given-names></name>
+<name><surname>Lobo</surname><given-names>J.M.G.</given-names></name>
+</person-group>
+          <article-title>Characterization of the urease operon of Brucella abortus and assessment of its role in virulence of the bacterium</article-title>
+          <source>Infect. Immun.</source>
+          <year>2007</year>
+          <volume>75</volume>
+          <fpage>774</fpage>
+          <lpage>780</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.01244-06</pub-id>
+          <pub-id pub-id-type="pmid">17101645</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="vaccines-10-00388-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>LDH release as a cytotoxicity measure induced by RB51-mLLO-BAX-SMAC-, RB51-LLO-, or RB51-infected macrophages. Six replicates were used in each of the independent experiments. The average of the three independent experiments showed no significant difference between the LDH release of cells infected with both RB51 recombinant strains and RB51-infected cells after 6 h. However, there was a significant difference between them after 24 h. ^ Significant difference compared to RB51-LLO-6 h; &amp; significant difference compared to RB51-BAX-LLO-6 h. The data represent the means &#xB1; SEM from three independent experiments. (***<sup>, &amp;&amp;&amp;</sup>
+<italic toggle="yes">p</italic> &lt; 0.001), (<sup>^^</sup>
+<italic toggle="yes">p</italic> &lt; 0.01).</p>
+      </caption>
+      <graphic xlink:href="vaccines-10-00388-g001" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-10-00388-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>The survival rate of RB51mLLO-BAX_SMAC bacteria in J774A.1 macrophages was significantly reduced compared to RB51-LLO and RB51 bacteria. * Significant difference compared to the control (RB51) group. ^ Significant difference compared to RB51-LLO. The data represent the means &#xB1; SEM from three independent experiments. (***<sup>, ^^^</sup>
+<italic toggle="yes">p</italic> &lt; 0.001).</p>
+      </caption>
+      <graphic xlink:href="vaccines-10-00388-g002" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-10-00388-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>The apoptosis pattern of infected macrophages was determined by flow cytometry. Six replicates were used in each of the three independent experiments. The average of the three independent experiments showed that RB51-BAX-mLLO induced significantly higher programmed cell death than RB51-LLO and RB51 after 24 and 48 h p.i. * Significant difference compared to the control group (RB51) at each time point. # Significant difference compared to RB51-LLO at each time point. ^ Significant difference compared to RB51-LLO-24 h. &amp; Significant difference compared to RB51-BAX-mLLO-24 h. (***<sup>, ^^^, &amp;&amp;&amp;, ###</sup>
+<italic toggle="yes">p</italic> &lt; 0.001).</p>
+      </caption>
+      <graphic xlink:href="vaccines-10-00388-g003" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-10-00388-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>Clearance of <italic toggle="yes">Brucella</italic> in mice vaccinated with strains RB51-BAX-mLLO and RB51. Three weeks after vaccination, the number of <italic toggle="yes">Brucella</italic> CFU in the spleen was determined. There was a significant difference between the number of <italic toggle="yes">Brucella</italic> CFU in the spleen of mice vaccinated with RB51-BAX-mLLO and RB51 (*** <italic toggle="yes">p</italic> &lt; 0.001).</p>
+      </caption>
+      <graphic xlink:href="vaccines-10-00388-g004" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-10-00388-f005">
+      <label>Figure 5</label>
+      <caption>
+        <p>Concentration of IFN-&#x3B3; in mouse sera (<bold>A</bold>) and culture supernatants of splenocytes upon in vitro (<bold>B</bold>) stimulation with heat-inactivated RB51 after 3 and 6 weeks p.i. In both cases, five replicates were used in each of the three independent experiments. * Significant difference compared to the control group (PBS). ^ Significant difference compared to the parental RB51. (***<sup>, ^^^</sup>
+<italic toggle="yes">p</italic> &lt; 0.001), (** <italic toggle="yes">p</italic> &lt; 0.01).</p>
+      </caption>
+      <graphic xlink:href="vaccines-10-00388-g005" position="float"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

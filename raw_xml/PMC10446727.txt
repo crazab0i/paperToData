@@ -1,0 +1,3401 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Vet World</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Vet World</journal-id>
+      <journal-title-group>
+        <journal-title>Veterinary World</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0972-8988</issn>
+      <issn pub-type="epub">2231-0916</issn>
+      <publisher>
+        <publisher-name>Veterinary World</publisher-name>
+        <publisher-loc>India</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37621538</article-id>
+      <article-id pub-id-type="pmc">10446727</article-id>
+      <article-id pub-id-type="publisher-id">Vetworld-16-1390</article-id>
+      <article-id pub-id-type="doi">10.14202/vetworld.2023.1390-1399</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Brucellosis detection and the role of <italic>Brucella</italic> spp. cell wall proteins</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bulashev</surname>
+            <given-names>Aitbay</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eskendirova</surname>
+            <given-names>Saule</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <xref rid="cor1" ref-type="corresp"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label>Department of Microbiology and Biotechnology, S. Seifullin Kazakh Agrotechnical Research University, Astana, Kazakhstan</aff>
+      <aff id="aff2"><label>2</label>Laboratory of Stem Cell, National Center for Biotechnology, Astana, Kazakhstan</aff>
+      <author-notes>
+        <corresp id="cor1">
+<bold>Corresponding author:</bold> Saule Eskendirova, e-mail: <email xlink:href="eskendirova@biocenter.kz">eskendirova@biocenter.kz</email>
+<bold>Co-author:</bold> AB: <email xlink:href="aytbay57@mail.ru">aytbay57@mail.ru</email>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue>7</issue>
+      <fpage>1390</fpage>
+      <lpage>1399</lpage>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>05</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: &#xA9; Bulashev and Eskendirova.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Open Access. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link xlink:href="https://creativecommons.org/publicdomain/zero/1.0/" ext-link-type="uri">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Brucellosis remains an endemic zoonotic disease in many developing countries, causing great harm to public health and devastating losses to livestock. One of the main reasons for the low effectiveness of anti-brucellosis measures is the lack of reliable methods for diagnosing infected animals throughout their lifespan. Classical serological tests, such as the tube agglutination test, rose Bengal plate test, and complement fixation test, as well as commercial enzyme-linked immunosorbent assay kits, are based on the detection of antibodies to the cell wall polysaccharide antigens of <italic>Brucella</italic> spp. smooth strains. As a result, they do not exclude cross-reactions with related bacteria and fail to differentiate between infected and vaccinated animals. Over the past decades, many attempts have been made to identify immunoreactive and pathogen-specific protein antigens. To date, several studies have investigated <italic>Brucella</italic> spp. recombinant proteins, including cell wall proteins, as the best antigens for diagnosing brucellosis in animals and humans. However, the available results on the specificity and sensitivity of serological tests based on cell wall proteins are ambiguous and sometimes contradictory. This review aims to provide an overview of the current state of knowledge of the diagnostic value of outer membrane and/or periplasmic proteins of <italic>Brucella</italic> spp. The goal is to identify future developments that may lead to reliable antigens for serological tests.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic>Brucella</italic>
+        </kwd>
+        <kwd>diagnostics</kwd>
+        <kwd>enzyme-linked immunosorbent assay</kwd>
+        <kwd>outer membrane protein</kwd>
+        <kwd>periplasmic protein</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-1">
+      <title>Introduction</title>
+      <p>The key element in the brucellosis elimination measures is the timely isolation of infected animals. Serological tests developed at the beginning and/or in the second half of the last century, such as the tube agglutination test (TAT), complement fixation test (CFT), and rose Bengal plate test (RBT), remain the main methods of intravital diagnostics to this day [<xref rid="ref1" ref-type="bibr">1</xref>]. These conventional tests, as well as currently available enzyme-linked immunosorbent assay (ELISA) kits, are based on the detection of antibodies against the cell wall lipopolysaccharides of smooth strains (S-LPS) of <italic>Brucella</italic> spp., which does not exclude cross-reactions with related bacteria [<xref rid="ref2" ref-type="bibr">2</xref>, <xref rid="ref3" ref-type="bibr">3</xref>]. It is worth noting here that the introduction of <italic>Brucella</italic> S-LPS based commercial ELISA kits into the diagnostic practice of the Republic of Kazakhstan (2008&#x2013;2013) was unsuccessful, as the number of animals testing positive for brucellosis increased by several times, and the epizootic situation did not improve [<xref rid="ref4" ref-type="bibr">4</xref>]. Thus, practical experience has shown that ELISA, as one of the highly sensitive tests, could only be used in the &#x201C;test and slaughter&#x201D; strategy in the presence of a pathogen-specific antigen.</p>
+      <p>Over the past few decades, <italic>Brucella</italic> cell wall proteins screened with S-LPS have become the focus of study as promising immunogens for vaccine development and as components for creating specific diagnostic antigens. This review aims to summarize and analyze the current state of knowledge on the serological potential of <italic>Brucella</italic> spp. outer membrane and periplasmic proteins and to identify promising studies that can improve the diagnosis of brucellosis.</p>
+    </sec>
+    <sec id="sec1-2">
+      <title>Reactivity and Specificity of Native <italic>Brucella</italic> Cell Wall Proteins</title>
+      <p>The cell wall of <italic>Brucella</italic> consists of a thin peptidoglycan layer tightly bound to the outer membrane, in which three groups of proteins have been identified. These groups include the major outer membrane proteins (Omps) of Group 2 (porin, 36&#x2013;38 kDa), Group 3 (25&#x2013;27 kDa) [<xref rid="ref5" ref-type="bibr">5</xref>], and the minor Omps of Group 1 (&lt;92 kDa) [<xref rid="ref6" ref-type="bibr">6</xref>]. In addition, Omps with molecular weights (MW) of 10, 16, and 19 kDa, exposed on the cell surface, have been identified as lipoproteins [<xref rid="ref7" ref-type="bibr">7</xref>]. The genes encoding Group 2 porin proteins consist of two segments, Omp2a and Omp2b, which are closely linked in the <italic>Brucella</italic> genome and share a great degree of identity (&gt;85%) [<xref rid="ref8" ref-type="bibr">8</xref>].</p>
+      <p>Another <italic>Brucella</italic> spp. cell wall protein is BP26 (also known as Omp28) and Cu/Zn superoxide dismutase (SOD). BP26 was independently described by three scientific groups as a potential diagnostic antigen for brucellosis serodiagnosis [<xref rid="ref9" ref-type="bibr">9</xref>&#x2013;<xref rid="ref11" ref-type="bibr">11</xref>]. It is located in the periplasmic space of the cell wall and functions as a transmembrane receptor. BP26 is a highly conserved protein for all <italic>Brucella</italic> species [<xref rid="ref11" ref-type="bibr">11</xref>]. However, there is still no consensus regarding its localization. According to Lindler <italic>et al</italic>. [<xref rid="ref10" ref-type="bibr">10</xref>], BP26 is located in the outer membrane and vesicles, while Cloeckaert <italic>et al</italic>. [<xref rid="ref9" ref-type="bibr">9</xref>] found this protein inside cells as a soluble protein, using monoclonal antibodies (mAb).</p>
+      <p><italic>Brucella</italic> spp. SOD is located in the periplasmic space of the cell wall and is a metalloenzyme that catalyzes the dismutation of superoxide ions. It is a key factor in protecting the pathogen from the respiratory burst of phagocytic host cells, helping it to survive and proliferate in phagocytes [<xref rid="ref12" ref-type="bibr">12</xref>]. Recently, SOD has been shown to act as a VirB-independent type IV secretion system effector during <italic>Brucella</italic> infection [<xref rid="ref13" ref-type="bibr">13</xref>].</p>
+      <p><italic>Brucella</italic> cell wall proteins are of great interest to researchers looking for a non-polysaccharide antigen for serological diagnosis of the disease. Over the past few decades, many attempts have been made to identify antigenic and pathogen-specific proteins. Chin reported that high titers of antibodies against <italic>Brucella ovis</italic> intact cells were observed in both naturally infected and vaccinated rams using an indirect ELISA (i-ELISA), while in the case of using LPS as an antigen, antibodies from vaccinated animals showed significant activity. The extracts of the outer membrane complex bound well to antibodies from naturally infected rams, while sera from inoculated animals gave positive results only in initial sera dilutions [<xref rid="ref14" ref-type="bibr">14</xref>].</p>
+      <p>Salt-extractable proteins fractionated by differential ammonium sulfate precipitation were used in immunoblotting to detect bovine immunoglobulin G (IgG) antibodies to <italic>Brucella</italic>. Antibodies of infected cows (Group 1) and cows vaccinated with <italic>Brucella abortus</italic> 19 and then subsequently infected with brucellosis (Group 2) reacted with soluble proteins with MW from 31 to 45 kDa. Immunoglobulins of animals in the second group additionally revealed protein fractions with MW ranging from 66 to 71 kDa. Immunoglobulin G antibodies from healthy cattle and vaccinated calves did not bind to any protein groups [<xref rid="ref15" ref-type="bibr">15</xref>].</p>
+      <p>Connolly <italic>et al</italic>. [<xref rid="ref16" ref-type="bibr">16</xref>] identified 163 proteins in the cell wall of <italic>B. abortus</italic> cell envelope using 2D electrophoresis (2-DE) with matrix laser desorption/ionization, time-of-flight mass spectrometry, and liquid chromatography-tandem mass spectrometry (MS/MS). These included cell wall proteins such as Omp25, Omp31, and Omp2b. Immunoblotting analysis using <italic>Brucella</italic>-infected bovine and/or human antisera revealed several novel immunoreactive proteins in the <italic>B. abortus</italic> cell wall.</p>
+      <p>Al Dahouk <italic>et al</italic>. [<xref rid="ref17" ref-type="bibr">17</xref>], using 2-DE and immunoblotting, identified SOD as one of the 17 most immunogenic <italic>Brucella</italic> proteins suitable for serological analysis. It was found in three types of antigens used: Native antigen, standard agglutination, and commercially available agglutination antigens. Protein cross-reactivity was negligible. The surface-enhanced laser desorption/ionization mass spectrometry spectra also clearly distinguished <italic>B. abortus</italic> from related bacteria.</p>
+      <p>According to Pajuaba <italic>et al</italic>. [<xref rid="ref18" ref-type="bibr">18</xref>], one-dimensional electrophoretic profiles of <italic>B. abortus</italic> S19 antigen, obtained using Triton X-114, showed several polypeptides with MWs ranging from 10 to 79 kDa. Three proteins with MWs of 10, 12, and 17 kDa were recognized only by antibodies of naturally infected cows (n = 30) and did not bind to the sera of heifers vaccinated with <italic>B. abortus</italic> S19 (n = 30). The authors suggest that these proteins could be used as novel antigens for differentiating infected from vaccinated animals (DIVA).</p>
+      <p>The immunoreactivity of the 2-DE separated proteins was determined by immunoblotting using antisera from cattle infected with <italic>B. abortus</italic> and/or <italic>Yersinia enterocolitica</italic>. Individual proteins binding to positive anti-<italic>B. abortus</italic> sera were identified by MS/MS analysis. Eighteen <italic>B. abortus</italic> 1119-3 proteins, including the periplasmic proteins Omp28 and SOD, showed immunoreactivity only against homologous positive antisera. The isolated immunodominant proteins are considered antigens to avoid cross-reaction in the diagnosis of brucellosis [<xref rid="ref19" ref-type="bibr">19</xref>].</p>
+      <p>Kim <italic>et al</italic>. [<xref rid="ref20" ref-type="bibr">20</xref>] reported the immunogenicity of <italic>B. abortus</italic> RB51 proteins separated by 2-DE and subjected to immunoblotting using four types of antisera: <italic>Brucella abortus</italic>, <italic>Y. enterocolitica</italic> O:9, <italic>Escherichia coli</italic> O157:H7, and negative bovine sera. The periplasmic SOD is one of 11 highly immunoreactive proteins that may be useful as alternative antigens to reduce cross-reactivity.</p>
+      <p>Falc&#xE3;o <italic>et al</italic>. [<xref rid="ref21" ref-type="bibr">21</xref>] evaluated antibody responses in seropositive cattle with brucellosis and seronegative vaccinated animals, targeting protein bands in western blotting. The most antigenic band in the western blotting, which accurately distinguished seropositive from vaccinated cattle, had an MW of &#x2264;20 kDa. The authors propose that western blotting could be used as a confirmatory test for diagnosing bovine brucellosis.</p>
+      <p>Faria <italic>et al</italic>. [<xref rid="ref22" ref-type="bibr">22</xref>] described the immunoproteomic profile of <italic>B. abortus</italic> 2308 by 2-DE western blotting using a pool of sera from cattle vaccinated with S19 and/or RB51, naturally infected with brucellosis, and unvaccinated seronegative animals. Protein evaluation using three groups of sera showed the antigenicity of SOD for antibodies from infected animals. Another study noted a significant increase in SOD activity in seropositive pregnant cows (n = 10) compared with seronegative analogs (n = 10) [<xref rid="ref23" ref-type="bibr">23</xref>].</p>
+    </sec>
+    <sec id="sec1-3">
+      <title>Serological Potential of <italic>Brucella</italic> spp. Recombinant Omps (rOmps)</title>
+      <p>Among the major Omps of <italic>Brucella</italic> spp., Omp25 and Omp31 have been studied in terms of their antigenic and immunogenic properties. Omp25 is highly conserved in different <italic>Brucella</italic> species, while Omp31 is present in all species except <italic>B. abortus</italic> [<xref rid="ref24" ref-type="bibr">24</xref>]. However, a <italic>B. abortus</italic> membrane protein with an apparent MW of 31 kDa (Omp31b) has been described; it possesses some similarity to Omp31 from other strains of <italic>Brucella</italic> [<xref rid="ref25" ref-type="bibr">25</xref>]. A comparison of the nucleotide sequence of <italic>B. ovis</italic> Omp31 with that of Omp31b showed 77% identity [<xref rid="ref26" ref-type="bibr">26</xref>].</p>
+      <p>Recombinant DNA technology is an effective method for producing numerous proteins in a short time, which is fast and safe. Recombinant Omp31 is the first <italic>Brucella</italic> protein cloned and expressed in <italic>E. coli</italic>. Antiserum against rOmp31 detected the protein in western blotting in 34 <italic>Brucella</italic> strains of all six main species. The natural analog of the recombinant protein was present in all eight <italic>B. abortus</italic> biovars tested [<xref rid="ref27" ref-type="bibr">27</xref>].</p>
+      <p>The antigenicity of <italic>Brucella melitensis</italic> rOmp31 was studied in an i-ELISA using human sera, as well as sera from animals with positive and negative results for brucellosis according to classical serological tests. Brucellosis was bacteriologically confirmed in all sheep and dogs and in 42% of human cases of brucellosis. Specific antibodies to the pathogen were detected in 48%, 61%, and 87% of infected humans, sheep, and dogs, respectively. According to the authors, rOmp31 &#x201C;would be of limited value for the diagnosis of human and animal brucellosis,&#x201D; but it could be used in combination with other recombinant proteins [<xref rid="ref28" ref-type="bibr">28</xref>].</p>
+      <p>Recombinant Omp31 from <italic>B. ovis</italic> was used in an i-ELISA for testing bovine sera (n = 10) that were positive to culture and fluorescence polarization assay (FPA), as well as negative sera (n = 10) to RBT, FPA, and microbiological tests. The results not only showed the antigenicity of the protein but also demonstrated reliable differences between the optical density (OD) values of positive and negative sera, with the highest readings found in positive sera [<xref rid="ref26" ref-type="bibr">26</xref>]. Rosales <italic>et al</italic>. [<xref rid="ref29" ref-type="bibr">29</xref>] also described sufficient sensitivity (77%) and high specificity (91%) of an i-ELISA based on rOmp31 from <italic>B. melitensis</italic> 16M in serological testing of cattle.</p>
+      <p>We conducted a study to compare the antigenicity of <italic>B. melitensis</italic> rOmp31, <italic>B. abortus</italic> rOmp25, and native soluble protein antigen (SPA) of both species on cattle blood serum samples with positive results for brucellosis by TAT and CFT. An i-ELISA based on SPA of <italic>B. melitensis</italic> and/or <italic>B. abortus</italic> showed the presence of antibodies in 68% and 60% of seropositive cattle, respectively. The use of rOmp25 and rOmp31 as antigens in the immunoassay confirmed the presence of specific antibodies in only 52% and 36% of seropositive animals, respectively. These results suggest a higher specificity of the SPA and rOmps than that of S-LPS, the main antigen in conventional tests. It should be noted that <italic>Brucella</italic> SPA also contains cell wall polysaccharides, which could interact with antibodies formed against S-LPS of related bacteria. The relatively low sensitivity of i-ELISA/rOmp25 or i-ELISA/rOmp31 compared to that of conventional tests and i-ELISA/SPA seems to indicate a higher specificity of the immunoassay variants based on rOmps [<xref rid="ref30" ref-type="bibr">30</xref>, <xref rid="ref31" ref-type="bibr">31</xref>].</p>
+      <p>The serological potential of <italic>B. abortus</italic> rOmp2a was evaluated using clinical sera from patients with (i) brucellosis-positive RBT and TAT, (ii) bacteriologically confirmed diagnosis, and (iii) negative serological tests. In addition, blood sera from patients with other febrile diseases and healthy donors were used as controls. The sensitivity and specificity of i-ELISA/rOmp2a and western blotting were very high (94%&#x2013;96%) [<xref rid="ref32" ref-type="bibr">32</xref>]. Sufficient specificity was also established for rOmp2b: sera from mice inoculated with <italic>E. coli</italic>
+<italic>O:157</italic>, <italic>Salmonella enterica</italic>, and <italic>Y. enterocolitica</italic> O:9 did not react significantly with rOmp2b in an i-ELISA. Analysis of cattle blood sera (n = 250) using i-ELISA/rOmp2b compared with RBT and TAT showed that 12% of sera positive for conventional tests were found to be negative for the immunoassay, while none of the sera from healthy cattle showed a false-positive result for i-ELISA/rOmp2b [<xref rid="ref33" ref-type="bibr">33</xref>].</p>
+      <p>The antigenicity of proteins with MW of 10, 16, and 19 kDa and the possibility of using them in brucellosis serodiagnosis is still poorly understood. They are mostly studied not for their antigenic properties but for their immunogenic and/or protective properties, both as a single immunogen [<xref rid="ref34" ref-type="bibr">34</xref>] and along with other proteins [<xref rid="ref35" ref-type="bibr">35</xref>, <xref rid="ref36" ref-type="bibr">36</xref>]. A vector vaccine against animal brucellosis based on Omp16 and L7/L12 proteins has already been introduced into the practice of veterinary medicine in the Republic of Kazakhstan [<xref rid="ref37" ref-type="bibr">37</xref>].</p>
+      <p>According to Tibor <italic>et al</italic>. [<xref rid="ref38" ref-type="bibr">38</xref>], most of the sera from naturally infected sheep were reactive to <italic>B. abortus</italic> rOmp10 and rOmp19 in an i-ELISA. In contrast, sera from infected cattle were almost completely unreactive. The presence of both proteins in the 34 strains tested, representing the most common <italic>Brucella</italic> species and all their biovars, was confirmed by immunoblotting with anti-rOmp10 and anti-rOmp19 mAbs. The authors concluded that host humoral responses may differ between animal species and/or the infecting <italic>Brucella</italic> strains.</p>
+      <p>Letesson <italic>et al</italic>. [<xref rid="ref39" ref-type="bibr">39</xref>] studied the diagnostic value of rOmp10, rOmp16, and rOmp19, as well as major rOmp36 and rOmp25, in experimentally infected cattle, sheep, and goats. They established a delayed response of the immune system to the proteins of the pathogen compared to its S-LPS antigen. Interestingly, none of the five rOmps detected experimentally infected pregnant cows, pregnant ewes, or naturally infected cattle from brucellosis-free regions. Antiprotein antibodies were found only in experimentally infected pregnant animals kept in brucellosis-endemic regions. The authors explained the antibody response against the used protein in animals from the brucellosis-affected region through vaccination and concluded that ELISA based on <italic>Brucella</italic> proteins cannot be used in areas with a low prevalence of brucellosis. This fact, in our opinion, may also be due to the phenomenon of immunizing subinfection [<xref rid="ref40" ref-type="bibr">40</xref>], where immunity develops in animals from a brucellosis-affected herd even without vaccination because of long-term and latent immunization of the body with small doses of the pathogen that are not capable of causing disease.</p>
+      <p>An i-ELISA using <italic>B. abortus</italic> rOmp16 was tested to detect anti-<italic>Brucella</italic> antibodies in human serum samples (n = 70). The results were assessed using commercial IgG ELISA kit and RBT. The diagnostic efficiency of ELISA/rOmp16 compared to that of RBT showed high sensitivity (100%) and specificity (95%), and complete agreement between the results of the test and the commercial ELISA kit was observed [<xref rid="ref41" ref-type="bibr">41</xref>].</p>
+      <p>Polyclonal rabbit antibodies against <italic>B. abortus</italic> rOmp19 were used in an immunofluorescent test to identify the homologous pathogen species. The FITC-conjugated anti-rOmp19 antibody accurately recognized <italic>B. abortus</italic> cells and did not bind to <italic>E. coli</italic>, <italic>Salmonella</italic>, and <italic>Klebsiella</italic>. However, the test failed to recognize all <italic>Brucella</italic> isolates, and it showed positive results when testing half of the isolates of related bacteria used, which is likely due to the presence of common epitopes with heterogeneous microorganisms [<xref rid="ref42" ref-type="bibr">42</xref>].</p>
+      <p>In our studies, we investigated the reactivity of <italic>B. abortus</italic> rOmp19 compared with the two main proteins, <italic>B. abortus</italic> rOmp25 and <italic>B. melitensis</italic> rOmp31, in blood sera from cattle that were experimentally infected with virulent <italic>B. abortus</italic> 544 [<xref rid="ref43" ref-type="bibr">43</xref>]. We confirmed the specificity of the proteins expressed by <italic>E. coli</italic> BL21 (DE3) using antibodies from a rabbit that was immunized with phenol-inactivated <italic>B. abortus</italic> 19 cells. Antibodies against rOmp19 were detected in all experimentally infected animals (n = 12) as early as 14 days post-infection (p.i.), while antibodies to rOmp25 were only detected on the 28<sup>th</sup> day p.i. By this time, antibodies against rOmp31 had not yet been detected in 25% of the animals. Furthermore, on the 28<sup>th</sup> day p.i., antibody titers against rOmp19 were significantly higher than those against the other two proteins. These results suggest that Omp19 is more antigenic than the major proteins of the third group. Our findings are consistent with those of other studies that have found that antibody responses to minor proteins, including Omp19, are somewhat stronger than those to major proteins. This may be due to the location of Omp19, which is a surface lipoprotein and not an integral membrane protein [<xref rid="ref39" ref-type="bibr">39</xref>].</p>
+      <p>The reactivity to post-vaccination (p.v.) and/or p.i. antibodies is the main criterion for evaluating the diagnostic value of recombinant proteins. In a mouse model, it was found that an i-ELISA based on a combination of three rOmps (rOmp25, rOmp28, and rOmp31) can differentiate p.i. antibodies to <italic>B. melitensis</italic> from those associated with vaccines or cross-reactivity with <italic>Y. enterocolitica</italic> O:9 [<xref rid="ref44" ref-type="bibr">44</xref>]. However, in our study, we detected antibodies specific to rOmp25 and rOmp31 in more than half of the cattle kept in a brucellosis-free herd within 10 months after revaccination with <italic>B. abortus</italic> 19 [<xref rid="ref45" ref-type="bibr">45</xref>]. This finding suggests that the results obtained in mice may not always apply to productive animals. We suggest that Omps can be used in an i-ELISA to test for brucellosis only in non-immune livestock before vaccination or in vaccinated animals after a certain time, which depends on the type of vaccines.</p>
+    </sec>
+    <sec id="sec1-4">
+      <title>The use of Recombinant <italic>Brucella</italic> spp. Periplasmic Proteins for Diagnosis of Brucellosis</title>
+      <p>Cloeckaert <italic>et al</italic>. [<xref rid="ref46" ref-type="bibr">46</xref>] evaluated the antibody responses of sheep infected with <italic>B. melitensis</italic> H38 and <italic>B. melitensis</italic> Rev.1-vaccinated to the periplasmic protein rBP26 using an i-ELISA. Although the specificity and sensitivity of the immunoassay were quite high compared to traditional tests for diagnosing brucellosis, the OD of i-ELISA/rBP26 did not reach the values observed in an i-ELISA based on purified O-polysaccharide (O-PS). It should be noted that in experimentally infected sheep, the antibody response to rBP26 was delayed and much weaker than that to O-PS, and no antibody response against rBP26 was detected in vaccinated sheep. In our study, the OD values of an i-ELISA based on another native antigen, <italic>Brucella</italic> spp. SPA, were also higher than those of an i-ELISA/rBP26 in the serological investigation of cattle for brucellosis [<xref rid="ref47" ref-type="bibr">47</xref>]. These differences can be explained by the lower specificity of the native O-PS and/or SPA antigens compared to the recombinant protein. Nevertheless, Kumar <italic>et al</italic>. [<xref rid="ref48" ref-type="bibr">48</xref>] reported the superiority of <italic>B. melitensis</italic> rOmp28 over native antigens such as cell envelope antigen and whole cell sonicated antigen in the serological diagnosis of ovine and caprine brucellosis. This inconsistency is likely because of the use of different methodologies for obtaining native antigens and/or conventional serological tests as a standard for assessing the diagnostic value of the recombinant protein.</p>
+      <p>Seco-Mediavilla <italic>et al</italic>. [<xref rid="ref49" ref-type="bibr">49</xref>] sequenced the gene encoding BP26 of reference strains of <italic>B. abortus</italic>, <italic>Brucella suis</italic>, <italic>B. ovis</italic>, as well as vaccine strains of <italic>B. abortus</italic> S19 and <italic>B. abortus</italic> RB51. Minor nucleotide substitutions were observed between the tested strains, with no modification of the amino acid sequence. They mapped BP26 epitopes using mAbs and recombinant DNA techniques and identified an immunodominant region of the protein for serodiagnosis of <italic>B. melitensis</italic> and <italic>B. ovis</italic> infections. The engineered recombinant fusion protein was not inferior in antigenicity to the whole rBP26 in immunoblotting using sera from sheep naturally infected with <italic>B. melitensis</italic> or <italic>B. ovis</italic>. Moreover, the fusion protein, unlike the whole protein, did not give false-positive results with sera from healthy sheep.</p>
+      <p>Gupta <italic>et al</italic>. [<xref rid="ref50" ref-type="bibr">50</xref>] identified rBP26 as an immunodominant protein for detecting infection in cattle, sheep, goats, and humans and proposed using it as an informative antigen to study the humoral response of animals infected with brucellosis. The results of ELISA/rBP26-positive animals were compared and evaluated by polymerase chain reaction using the <italic>B. melitensis</italic> BP26 gene as the target, and a complete positive correlation was established between the immunoassay and the molecular method.</p>
+      <p>The immunodominant region of BP26, with an MW of 10 kDa, was used as an antigen in ani-ELISA for screening bovine serum samples from three groups: (i) presumptively negative animals (n = 70), (ii) random samples from brucellosis-affected herds (n = 308), and (iii) calves vaccinated with <italic>B. abortus</italic> S19 (n = 30). Analysis of presumptively negative samples showed 100% and 98% ELISA specificity compared to RBT and TAT, respectively. Among random samples from brucellosis-affected herds, the coincidence of the results of an i-ELISA and classical tests was within 78%&#x2013;81%. All sera from vaccinated animals (n = 30) taken between 25- and 35-day post-vaccination (p.v.) with <italic>B. abortus</italic> S19 were antibody-free by i-ELISA/rBP26, while RBT and TAT resulted in 30% and 97% false positives, respectively. It has been suggested that an i-ELISA based on truncated rBP26 may find its application in DIVA [<xref rid="ref51" ref-type="bibr">51</xref>].</p>
+      <p>The diagnostic value of <italic>B. melitensis</italic> rOmp28-based ani-ELISA was studied on human serum samples in its plate and dot versions compared with RBT and TAT. The periplasmic protein bound only to antibodies of sera obtained from patients with a bacteriologically confirmed diagnosis and was not recognized by the sera of culture-negative patients. Both plate and dot versions of the i-ELISA had a correlation of 90% with conventional tests. The sensitivity of plate i-ELISA was higher (98%) than that of dot-ELISA (82%), but the latter had higher specificity (92% vs. 86%) [<xref rid="ref52" ref-type="bibr">52</xref>]. In another study, patient samples collected from hospitals (n = 60) and samples from healthy donors (n = 30) were tested using an i-ELISA based on the rOmp28 precursor protein of <italic>B. melitensis</italic> Rev1 versus RBT. The recombinant antigen-based immunoassay was successful in terms of sensitivity, specificity, and positive/negative predictive values [<xref rid="ref53" ref-type="bibr">53</xref>].</p>
+      <p>Tian <italic>et al</italic>. [<xref rid="ref54" ref-type="bibr">54</xref>] reported good reactivity of BP26 to anti-<italic>Brucella</italic> bovine sera but did not rule out the possibility of obtaining false-positive results when using it as an antigen. In a western blot study of 44 bovine sera, BP26 interacted with antibodies from 30 seropositive animals but showed false-positive results with the rest of the sera. Moreover, truncated fragments of the rBP26 could not exclude false-positive results in the detection of <italic>Brucella</italic>-free sera. It should be noted here that the diagnostic value of rBP26 was compared only to i-ELISA/LPS, so serologically negative cattle may be positive for <italic>Brucella</italic>.</p>
+      <p>Bai <italic>et al</italic>. [<xref rid="ref55" ref-type="bibr">55</xref>] also used LPS as well as rose Bengal antigen as positive controls in studying the suitability of rBP26 and 5 rOmps (MWs of 10, 16, 19, 25, 31 kDa) as an i-ELISA antigen in testing human and goat sera but obtained more encouraging results. RBP26 showed the highest diagnostic accuracy of 96% and 95%, respectively, while rOmp31 was more accurate in diagnosing bovine sera (84%). These contradictions seem to support the specificity of rBP26 not only to hosts but also to the <italic>Brucella</italic> species previously described by Xin <italic>et al</italic>. [<xref rid="ref56" ref-type="bibr">56</xref>] when studying antibody production against rBP26 in sheep (n = 15), goats (n = 15), and cattle (n = 6) during experimental infection with various species of <italic>Brucella</italic> using LPS and/or rBP26-based i-ELISA. The results showed that all infected animals could produce antibodies with high titers against LPS; however, only sheep infected with <italic>B. melitensis</italic> 16M and <italic>B. melitensis</italic> M28 and goats infected with <italic>B. melitensis</italic> 16M and <italic>B. abortus</italic> 2308 could produce antibodies against BP26. However, in the sera of sheep and goats infected with <italic>B. suis</italic> S1330 and sheep and cattle infected with <italic>B. abortus</italic> 2308, antibodies against rBP26 were not detected. Serological testing of naturally infected animals also confirmed that i-ELISA/rBP26 cannot detect all infected animals. The phenomenon of rBP26 is bacterial and host-specific, limiting its reliability as a substitute for LPS used in a conventional ELISA. Previously, the absence of a humoral immune response to Omp28 in cattle and pigs was described by Lindler <italic>et al</italic>. [<xref rid="ref10" ref-type="bibr">10</xref>].</p>
+      <p>The periplasmic protein SOD is less studied in terms of diagnostic value than BP26. It catalyzes the conversion of the superoxide radical to hydrogen peroxide. As an antioxidant enzyme, it regulates the level of O<sub>2</sub> in the cell and plays an important role in the death of phagocytosed bacteria [<xref rid="ref57" ref-type="bibr">57</xref>]. Therefore, it is no coincidence that <italic>Brucella</italic> SOD is considered by researchers to be a promising protein in the creation of new generation vaccines [<xref rid="ref58" ref-type="bibr">58</xref>], and thus its diagnostic value remains insufficiently studied.</p>
+      <p>The SOD protein was detected in all <italic>Brucella</italic> species and biovars used, including eight biovars of <italic>B. abortus</italic>, except for <italic>Brucella neotomae</italic> and biovar 2 of <italic>B. suis</italic>, by western blotting using rabbit antiserum against the recombinant analog [<xref rid="ref59" ref-type="bibr">59</xref>]. The antigenicity of recombinant SOD (rSOD) was studied in an i-ELISA on blood serum samples of dogs with known positive (n = 30) and negative results (n = 194) by TAT. rSOD conferred 100% sensitivity and 99% specificity to the test [<xref rid="ref60" ref-type="bibr">60</xref>].</p>
+      <p>Faria <italic>et al</italic>. [<xref rid="ref22" ref-type="bibr">22</xref>] used a pool of bovine sera from (i) cattle vaccinated with <italic>B. abortus</italic> S19 and/or RB51, (ii) those naturally infected with brucellosis, and (iii) unvaccinated seronegative animals. They proved the possibility of using rSOD and malate dehydrogenase as a reliable antigen for diagnosing bovine brucellosis and DIVA in the early post-vaccination stages.</p>
+      <p>Nagalingam <italic>et al</italic>. [<xref rid="ref61" ref-type="bibr">61</xref>] reported the results of an antigenicity study of 10 recombinant <italic>B. abortus</italic> proteins by western blotting and i-ELISA using positive and negative bovine serum samples (n = 113 each). Six proteins, including rSOD and rBP26, showed a reaction with brucellosis-positive bovine serum, whereas none of the proteins were recognized by rabbit anti-<italic>Y. enterocolitica</italic> O:9 antibodies. The authors believe that rBP26 could be used as a diagnostic antigen to exclude <italic>Yersinia</italic> infection in the diagnosis of cattle brucellosis.</p>
+      <p>We conducted a comparative study of the serological potential of the outer membrane (rOmp25 and rOmp31) and periplasmic proteins (rSOD and rBP26). The former proved to be more informative in detecting antibodies in cattle from a new focus (outbreak) of brucellosis infection (n = 77), while the latter significantly surpassed them in antigenicity in the study of blood sera from animals kept in a brucellosis-affected (endemic) farm (n = 43). Differences in the antigenicity of rOmps and periplasmic proteins for these two groups of cattle are associated with the localization of the proteins in the <italic>Brucella</italic> cell. Omp25 and Omp31 are surface proteins, while SOD and BP26 are located between the peptidoglycan and the inner membrane of the cell wall, and therefore less accessible to the immune system than the outer membrane structure [<xref rid="ref62" ref-type="bibr">62</xref>]. In all likelihood, in cattle of a fresh infection focus, antibody formation primarily develops against Omps. The immune response to &#x201C;deep&#x201D; proteins occurs later, when the pathogen overproduces SOD to detoxify the radicals generated by the host&#x2019;s antimicrobial response, which occurs in animals of a brucellosis-affected herd. In this regard, we have expressed the possibility of using rOmps for i-ELISA screening of cattle in brucellosis-free areas for early detection of infected animals, and periplasmic proteins for scheduled serological testing of animals in a brucellosis-affected farm.</p>
+      <p>In our subsequent study of cattle kept in a brucellosis-free herd (n = 48), antibodies to rSOD were not detected at 10 months post-vaccination with <italic>B. abortus</italic>19S. However, some animals reacted positively by an i-ELISA based on rOmps19, 25, 31, and rBP26 [<xref rid="ref63" ref-type="bibr">63</xref>].</p>
+      <p>Recently, a conserved periplasmic protein named EipA has been reported, which plays a role in maintaining the integrity of the <italic>Brucella</italic> spp. cell wall and influences the survival of the pathogen in host cells [<xref rid="ref64" ref-type="bibr">64</xref>]. However, the immunoreactivity of the protein remains unexplored.</p>
+    </sec>
+    <sec id="sec1-5">
+      <title>Using Combined and Multi-epitope Proteins in Improving the Diagnosis of Brucellosis</title>
+      <p>From a practical point of view, the use of a single protein in immunoassays cannot ensure the detection of the entire population of pathogen-specific antibodies. Therefore, reliable diagnostic results can be achieved when multiple recombinant proteins are used simultaneously.</p>
+      <p>Simborio <italic>et al</italic>. [<xref rid="ref65" ref-type="bibr">65</xref>] compared the diagnostic value of <italic>B. abortus</italic> rOmp10, rOmp19, and rOmp28, both individually and in combination, as antigens in an i-ELISA using TAT-positive and TAT-negative cattle serum samples. The combined rOmps showed greater reactivity than single proteins in positive sera. A study was conducted to determine the diagnostic value of various combinations of rBP26 with five rOmps (MW of 10, 16, 19, 25, and 31 kDa). Sera from rabbits infected with related bacteria were used to test the specificity of the combined antigens. Efficacy analysis was performed by an i-ELISA on human (n = 161), goat (n = 120), and bovine sera (n = 144) with positive and/or negative TAT and RBT results. The protein combination of rOmp25 + rOmp31 + rBP26 showed the desired efficiency for the detection of <italic>Brucella</italic>-specific antibodies in human sera, while rOmp31/BP26 proved to be the best combination for serological testing of goat and cattle serum samples. Cross-reaction analysis showed that the protein combinations used did not respond to antibodies against common pathogens [<xref rid="ref66" ref-type="bibr">66</xref>].</p>
+      <p>An i-ELISA based on 3 rOmps (MW of 25, 28, and 31 kDa) made it possible not only to bypass the effects of cross-reacting antibodies but also to differentiate mice infected with <italic>B. melitensis</italic> from vaccinated analogs [<xref rid="ref44" ref-type="bibr">44</xref>]. In serological examinations of human sera, the combined antigen consisting of rOmp2b, rOmp31, and rBP26 was more effective than single proteins in an i-ELISA. The specificity of the proteins used was higher than that of LPS because they did not cross-react with <italic>Y. enterocolitica</italic> O9 and <italic>E. coli</italic> O157:H7 [<xref rid="ref67" ref-type="bibr">67</xref>].</p>
+      <p>Comprehensive studies have been conducted on the construction of <italic>Brucella</italic> spp. multi-epitope antigens over the past 2&#x2013;3 years. Yin <italic>et al</italic>. [<xref rid="ref68" ref-type="bibr">68</xref>] reported that an antigen consisting of the determinants rOmp16, rOmp31, rOmp2b, and rBP26 correctly identified positive and negative goat serum samples. The recombinant antigen provided high specificity in an i-ELISA but lower sensitivity than the whole bacterial antigen.</p>
+      <p>The same research team selected rOmp16, rOmp25, rBP26, rOmp2b, and rOmp31 to predict B-lymphocyte epitopes to create a new diagnostic antigen. The paper-based multi-epitope ELISA was evaluated on <italic>Brucella</italic>-positive and <italic>Brucella</italic>-negative bovine and goat sera. It was established that short linear peptides assembled into a single rOmp are also effective antigens for detecting brucellosis-positive sera. The individual proteins detected antibodies in only a part of the sera, whereas the fusion protein identified antibodies in almost all positive sera. Moreover, the multi-epitope protein did not interact with rabbit antibodies against bacteria with a similar antigenic structure to <italic>Brucella</italic> spp. [<xref rid="ref69" ref-type="bibr">69</xref>].</p>
+      <p>rBP26, rOmp25, rOmp31, and the multi-epitope fusion protein (rBP26 + rOmp16 + rOmp2b + rOmp25 + rOmp31) were evaluated by i-ELISA for their potential use as antigens in the serological diagnosis of canine brucellosis compared with conventional methods. The multi-epitope antigen best differentiated positive and negative dog sera, with positive (100%) and negative (98%) predictive values. rBP26 and rOmp31 showed superior sensitivity for detecting anti-<italic>Brucella</italic> antibodies in canine sera. However, they interacted with rabbit sera that were infected with <italic>Vibrio parahaemolyticus</italic> and <italic>Listeria monocytogenes</italic>, which may limit their use as antigens. Recombinant Omp25 was characterized by relatively low sensitivity and showed a limited ability to differentiate between positive and negative dog sera [<xref rid="ref70" ref-type="bibr">70</xref>].</p>
+      <p>In another study, bioinformatics tools selected linear B-cell epitopes from the rOmp22, rOmp25, and rOmp31 antigens. The antigenicity of the fusion protein was studied on blood serum samples from patients and healthy people by immunoblotting and i-ELISA. The results of immunoblotting, as well as the accuracy, sensitivity, and specificity of i-ELISA based on a multi-epitope protein, showed that this antigen has good prospects in the serodiagnosis of brucellosis [<xref rid="ref71" ref-type="bibr">71</xref>].</p>
+      <p>We have created three types of <italic>Brucella</italic> antigens, each consisting of immunodominant regions of two major <italic>Brucella</italic> Omps [<xref rid="ref72" ref-type="bibr">72</xref>]. They were successfully expressed in <italic>E. coli</italic> BL21 (DE3) cells using the pET28 plasmid and were tested in i-ELISA for the serological diagnosis of cattle and sheep brucellosis. These chimeric proteins, designated as rOmp19 + 25, rOmp19 + 31, and rOmp25 + 31, consisted of active serological regions of <italic>Brucella</italic> proteins with MWs of 19, 25, and 31 kDa [<xref rid="ref73" ref-type="bibr">73</xref>].</p>
+      <p>Antibodies against rOmp19 + 31 and rOmp25 + 31 in the blood serum of a hyperimmunized rabbit were detected up to a serum dilution of 1:12800, while the titer of antibodies to single recombinant proteins (rOmp19 and rOmp25) did not exceed 1:1600. For further evaluation of chimeric proteins, sera obtained from unvaccinated (n = 43), naturally (n = 77), and/or experimentally infected cattle (n = 12) were used. Chimeric proteins showed maximum sensitivity with a specificity of 95%&#x2013;100% and an accuracy of 97%&#x2013;100%, while these indicators when using individual rOmps were in the range of 88%&#x2013;97%, 79%&#x2013;93%, and 73%&#x2013;87%, respectively. The affinity of antibodies to rOmp19 + 31 was significantly higher than that to individual proteins and to rOmp19 + 25 and rOmp25 + 31. Antibodies against chimeric rOmps appeared in the blood of all experimentally infected cattle on the 14<sup>th</sup>-day post-infection; however, only 67% and 58% of the animals had antibodies to rOmp25 and rOmp31, respectively.</p>
+      <p>It should be noted that the serological potential of recombinant antigens is being studied only in an i-ELISA. Competitive ELISA (c-ELISA) has several advantages over i-ELISA. First, samples from different species may be tested using a single enzyme-labeled anti-species antibody [<xref rid="ref74" ref-type="bibr">74</xref>]. Second, c-ELISA is characterized by a higher specificity than i-ELISA and, therefore, is an excellent confirmatory test for the diagnosis of brucellosis in most mammalian species [<xref rid="ref75" ref-type="bibr">75</xref>, <xref rid="ref76" ref-type="bibr">76</xref>]. Third, it can be adapted for DIVA by selecting mAb with the desired affinity [<xref rid="ref77" ref-type="bibr">77</xref>]. In addition, the diagnostic value of recombinant proteins in serological tests that are easy to perform remains poorly understood. Preliminary data on the use of recombinant periplasmic proteins in the latex agglutination test [<xref rid="ref78" ref-type="bibr">78</xref>] and immunochromatographic analysis [<xref rid="ref79" ref-type="bibr">79</xref>, <xref rid="ref80" ref-type="bibr">80</xref>] promise encouraging results in the development of portable rapid tests for screening several samples for brucellosis.</p>
+    </sec>
+    <sec sec-type="conclusion" id="sec1-6">
+      <title>Conclusion</title>
+      <p><italic>Brucella</italic> recombinant proteins are being extensively studied for immunogenicity and protectiveness with the aim of creating new generation vaccines. As for the diagnostic value of <italic>Brucella</italic> proteins, it still remains insufficiently studied, and the available data are controversial.</p>
+      <p>These discrepancies are primarily due to the use of conventional serological tests as a standard, while the &#x201C;gold standard&#x201D; (bacteriological analysis) for the correct classification of sera into <italic>Brucella</italic> antibodies positive and negative was used in only a few studies testing a small number of food-producing animals, dogs, and humans. Studies on the serological potential of <italic>Brucella</italic> recombinant proteins in sera from experimentally infected cattle, sheep, and goats have been conducted by only a few scientific groups. Moreover, the obtained results do not allow for drawing unambiguous conclusions. However, the available data suggest that the diagnostic value of a recombinant antigen may vary depending on the species and physiological state of an animal, as well as the <italic>Brucella</italic> spp. and the epidemiological situation of brucellosis in the region. This requires further comprehensive study.</p>
+      <p>Among cell wall proteins, the periplasmic protein pBP26 is relatively well studied and is the most suitable recombinant protein that can be used as an antigen for the serological diagnosis of human and animal brucellosis.</p>
+      <p>While BP26 has shown potential as a diagnostic antigen, there are also indications of its low specificity. Thus, for the correct selection of a recombinant protein or its immunoreactive region as a reliable diagnostic antigen, species-specific sera obtained by immunization of food-producing animals and/or dogs with pathogens that have antigenic similarity to <italic>Brucella</italic> spp. are needed.</p>
+      <p>The evaluation of rSOD and rBP26 for their potential to distinguish vaccinated from naturally infected cattle, using serological tests without a &#x201C;gold standard&#x201D; and the results of studying the antigenicity of rBP26 in the sera of a small number of experimentally infected and/or vaccinated sheep are not sufficient to evaluate the prospects of these proteins as antigens for DIVA. Nevertheless, they deserve attention as possible candidates for the development of a new antigen for the reliable diagnosis of brucellosis.</p>
+      <p>Finally, the possibility of using recombinant proteins in the development of simpler tests suitable for serological testing of animals in poorly equipped laboratories and/or under field or rural conditions remains unexplored. This line of research is highly relevant given that brucellosis tends to be prevalent in developing countries. Therefore, further studies are required to investigate the specificity of <italic>Brucella</italic> spp. recombinant cell wall proteins, not only in relation to host species but also pathogen species, and to explore the potential for developing new diagnostic methods, both in laboratory and lab-free settings, for brucellosis diagnosis.</p>
+    </sec>
+    <sec id="sec1-7">
+      <title>Authors&#x2019; Contributions</title>
+      <p>AB: Conducted a comprehensive literature search, analyzed the gathered data, and drafted the manuscript. SE: Conducted the final revision and proofreading of the manuscript. Both authors have read, reviewed, and approved the final manuscript.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The study was carried out within the project AP14870906 with the grant-targeted funding of the Ministry of Science and Higher Education of the Republic of Kazakhstan for 2022&#x2013;2024. We thank Editage (www.editage.com) for their English language editing services.</p>
+    </ack>
+    <sec sec-type="COI-statement" id="sec1-8">
+      <title>Competing Interests</title>
+      <p>The authors declare that they have no competing interests.</p>
+    </sec>
+    <sec id="sec1-9">
+      <title>Publisher&#x2019;s Note</title>
+      <p>Veterinary World remains neutral with regard to jurisdictional claims in published institutional affiliation.</p>
+    </sec>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="book">
+          <collab>World Organisation for Animal Health (OIE)</collab>
+          <article-title>Brucellosis (infections with <italic>Brucella abortus</italic>, <italic>B. melitensis and</italic>
+<italic>B. suis</italic>)</article-title>
+          <source>Manual of the diagnostic tests and vaccines for terrestrial animals. &#x421;h. 3.1.4</source>
+          <year>2022</year>
+          <publisher-loc>Paris, France</publisher-loc>
+          <publisher-name>Office International des Epizooties</publisher-name>
+          <fpage>1</fpage>
+          <lpage>48</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonfini</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Chiarenza</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Paci</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Sacchini</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Salini</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Vesco</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Villari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zilli</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tittarelli</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Cross-reactivity in serological tests for brucellosis:A comparison of immune response of <italic>Escherichia coli</italic> O157:H7 and <italic>Yersinia enterocolitica</italic> O:9 vs <italic>Brucella</italic> spp</article-title>
+          <source>Vet. Ital</source>
+          <year>2018</year>
+          <volume>54</volume>
+          <issue>2</issue>
+          <fpage>107</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="pmid">30019327</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pletz</surname>
+              <given-names>M.W</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Murugaiyan</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Proteomics of <italic>Brucella</italic>:Technologies and their applications for basic research and medical microbiology</article-title>
+          <source>Microorganisms</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <issue>5</issue>
+          <fpage>766</fpage>
+          <pub-id pub-id-type="pmid">32443785</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eshmukhametov</surname>
+              <given-names>A.E</given-names>
+            </name>
+            <name>
+              <surname>Beisembaev</surname>
+              <given-names>K.K</given-names>
+            </name>
+            <name>
+              <surname>Asauova</surname>
+              <given-names>Z.S</given-names>
+            </name>
+            <name>
+              <surname>Sultanova</surname>
+              <given-names>A.O</given-names>
+            </name>
+          </person-group>
+          <article-title>Monitoring and analysis of the epizootic situation of bovine brucellosis in the Republic of Kazakhstan for 2007&#x2013;2015</article-title>
+          <source>Bulletin of Baitursunov Kostanay State University</source>
+          <year>2016</year>
+          <volume>2</volume>
+          <fpage>36</fpage>
+          <lpage>41</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Verstreate</surname>
+              <given-names>D.R</given-names>
+            </name>
+            <name>
+              <surname>Creasy</surname>
+              <given-names>M.T</given-names>
+            </name>
+            <name>
+              <surname>Caveney</surname>
+              <given-names>N.T</given-names>
+            </name>
+            <name>
+              <surname>Baldwin</surname>
+              <given-names>C.L</given-names>
+            </name>
+            <name>
+              <surname>Blab</surname>
+              <given-names>M.W</given-names>
+            </name>
+            <name>
+              <surname>Winter</surname>
+              <given-names>A.J</given-names>
+            </name>
+          </person-group>
+          <article-title>Outer membrane proteins of <italic>Brucella abortus</italic>:Isolation and characterization</article-title>
+          <source>Infect. Immun</source>
+          <year>1982</year>
+          <volume>35</volume>
+          <issue>3</issue>
+          <fpage>979</fpage>
+          <lpage>989</lpage>
+          <pub-id pub-id-type="pmid">6802764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moriyon</surname>
+              <given-names>I.N</given-names>
+            </name>
+            <name>
+              <surname>Berman</surname>
+              <given-names>D.T</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation, purification, and partial characterization of <italic>Brucella abortus</italic> matrix protein</article-title>
+          <source>Infect. Immun</source>
+          <year>1983</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <fpage>394</fpage>
+          <lpage>402</lpage>
+          <pub-id pub-id-type="pmid">6401696</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tibor</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Decelle</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Letesson</surname>
+              <given-names>J.J</given-names>
+            </name>
+          </person-group>
+          <article-title>Outer membrane proteins Omp10, Omp16, and Omp19 of <italic>Brucella</italic> spp. are lipoproteins</article-title>
+          <source>Infect. Immun</source>
+          <year>1999</year>
+          <volume>67</volume>
+          <issue>9</issue>
+          <fpage>4960</fpage>
+          <lpage>4962</lpage>
+          <pub-id pub-id-type="pmid">10456959</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ficht</surname>
+              <given-names>T.A</given-names>
+            </name>
+            <name>
+              <surname>Bearden</surname>
+              <given-names>S.W</given-names>
+            </name>
+            <name>
+              <surname>Sowa</surname>
+              <given-names>B.A</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>L.G</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA sequence and expression of the 36-kilodalton outer membrane protein gene of <italic>Brucella abortus</italic></article-title>
+          <source>Infect. Immun</source>
+          <year>1989</year>
+          <volume>57</volume>
+          <issue>11</issue>
+          <fpage>3281</fpage>
+          <lpage>3291</lpage>
+          <pub-id pub-id-type="pmid">2509359</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Debbarh</surname>
+              <given-names>H.S</given-names>
+            </name>
+            <name>
+              <surname>Vizca&#xED;no</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Saman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dubray</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zygmunt</surname>
+              <given-names>M.S</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning, nucleotide sequence, and expression of the <italic>Brucella melitensis</italic> bp26 gene coding for a protein immunogenic in infected sheep</article-title>
+          <source>FEMS Microbiol. Lett</source>
+          <year>1996</year>
+          <volume>140</volume>
+          <issue>2&#x2013;3</issue>
+          <fpage>139</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="pmid">8764475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindler</surname>
+              <given-names>L.E</given-names>
+            </name>
+            <name>
+              <surname>Hadfield</surname>
+              <given-names>T.L</given-names>
+            </name>
+            <name>
+              <surname>Tall</surname>
+              <given-names>B.D</given-names>
+            </name>
+            <name>
+              <surname>Snellings</surname>
+              <given-names>N.J</given-names>
+            </name>
+            <name>
+              <surname>Rubin</surname>
+              <given-names>F.A</given-names>
+            </name>
+            <name>
+              <surname>Van De Verg</surname>
+              <given-names>L.L</given-names>
+            </name>
+            <name>
+              <surname>Hoover</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>R.L</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning of a <italic>Brucella melitensis</italic> group 3 antigen gene encoding Omp28, a protein recognized by the humoral immune response during human brucellosis</article-title>
+          <source>Infect. Immun</source>
+          <year>1996</year>
+          <volume>64</volume>
+          <issue>7</issue>
+          <fpage>2490</fpage>
+          <lpage>2499</lpage>
+          <pub-id pub-id-type="pmid">8698471</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rossetti</surname>
+              <given-names>O.L</given-names>
+            </name>
+            <name>
+              <surname>Arese</surname>
+              <given-names>A.I</given-names>
+            </name>
+            <name>
+              <surname>Boschiroli</surname>
+              <given-names>M.L</given-names>
+            </name>
+            <name>
+              <surname>Cravero</surname>
+              <given-names>S.L</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning of <italic>Brucella abortus</italic> gene and characterization of expressed 26-kilodalton periplasmic protein:Potential use for diagnosis</article-title>
+          <source>J. Clin. Microbiol</source>
+          <year>1996</year>
+          <volume>34</volume>
+          <issue>1</issue>
+          <fpage>165</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="pmid">8748294</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pratt</surname>
+              <given-names>A.J</given-names>
+            </name>
+            <name>
+              <surname>DiDonato</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Shin</surname>
+              <given-names>D.S</given-names>
+            </name>
+            <name>
+              <surname>Cabelli</surname>
+              <given-names>D.E</given-names>
+            </name>
+            <name>
+              <surname>Bruns</surname>
+              <given-names>C.K</given-names>
+            </name>
+            <name>
+              <surname>Belzer</surname>
+              <given-names>C.A</given-names>
+            </name>
+            <name>
+              <surname>Gorringe</surname>
+              <given-names>A.R</given-names>
+            </name>
+            <name>
+              <surname>Langford</surname>
+              <given-names>P.R</given-names>
+            </name>
+            <name>
+              <surname>Tabatabai</surname>
+              <given-names>L.B</given-names>
+            </name>
+            <name>
+              <surname>Kroll</surname>
+              <given-names>J.S</given-names>
+            </name>
+            <name>
+              <surname>Tainer</surname>
+              <given-names>J.A</given-names>
+            </name>
+            <name>
+              <surname>Getzoff</surname>
+              <given-names>E.D</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural, functional, and immunogenic insights on Cu, Zn superoxide dismutase pathogenic virulence factors from <italic>Neisseria meningitidis</italic> and <italic>Brucella abortus</italic></article-title>
+          <source>J. Bacteriol</source>
+          <year>2015</year>
+          <volume>197</volume>
+          <issue>24</issue>
+          <fpage>3834</fpage>
+          <lpage>3847</lpage>
+          <pub-id pub-id-type="pmid">26459556</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <article-title>Overexpression of Cu-Zn SOD in <italic>Brucella abortus</italic> suppresses bacterial intracellular replication via down-regulation of Sar1 activity</article-title>
+          <source>Oncotarget</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <issue>11</issue>
+          <fpage>9596</fpage>
+          <lpage>9607</lpage>
+          <pub-id pub-id-type="pmid">29515756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chin</surname>
+              <given-names>J.C</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of different antigenic preparations for the detection of ovine serum antibodies against <italic>Brucella ovis</italic> by ELISA</article-title>
+          <source>Aust. Vet. J</source>
+          <year>1983</year>
+          <volume>60</volume>
+          <issue>9</issue>
+          <fpage>261</fpage>
+          <lpage>264</lpage>
+          <pub-id pub-id-type="pmid">6651682</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Belzer</surname>
+              <given-names>C.A</given-names>
+            </name>
+            <name>
+              <surname>Tabatabai</surname>
+              <given-names>L.B</given-names>
+            </name>
+            <name>
+              <surname>Deyoe</surname>
+              <given-names>B.L</given-names>
+            </name>
+          </person-group>
+          <article-title>Differentiation by western blotting of immune responses of cattle vaccinated with <italic>Brucella abortus</italic> strain 19 or infected experimentally or naturally with virulent <italic>Brucella abortus</italic></article-title>
+          <source>Vet. Microbiol</source>
+          <year>1991</year>
+          <volume>27</volume>
+          <issue>1</issue>
+          <fpage>79</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="pmid">1904667</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Connolly</surname>
+              <given-names>J.P</given-names>
+            </name>
+            <name>
+              <surname>Comerci</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Alefantis</surname>
+              <given-names>T.G</given-names>
+            </name>
+            <name>
+              <surname>Walz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Quan</surname>
+              <given-names>M.D</given-names>
+            </name>
+            <name>
+              <surname>Chafin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Grewal</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Mujer</surname>
+              <given-names>C.V</given-names>
+            </name>
+            <name>
+              <surname>Ugalde</surname>
+              <given-names>R.A</given-names>
+            </name>
+            <name>
+              <surname>DelVecchio</surname>
+              <given-names>V.G</given-names>
+            </name>
+          </person-group>
+          <article-title>Proteomic analysis of <italic>Brucella abortus</italic> cell envelope and identification of immunogenic candidate proteins for vaccine development</article-title>
+          <source>Proteomics</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <issue>13</issue>
+          <fpage>3767</fpage>
+          <lpage>3780</lpage>
+          <pub-id pub-id-type="pmid">16739129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al Dahouk</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>N&#xF6;ckler</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Scholz</surname>
+              <given-names>H.C</given-names>
+            </name>
+            <name>
+              <surname>Tomaso</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bogumil</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunoproteomic characterization of <italic>Brucella abortus</italic> 1119-3 preparations used for the serodiagnosis of <italic>Brucella</italic> infections</article-title>
+          <source>J. Immunol. Methods</source>
+          <year>2006</year>
+          <volume>309</volume>
+          <issue>1&#x2013;2</issue>
+          <fpage>34</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">16427071</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pajuaba</surname>
+              <given-names>A.C.A</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>D.A.O</given-names>
+            </name>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>K.C</given-names>
+            </name>
+            <name>
+              <surname>Cunha-Junior</surname>
+              <given-names>J.P</given-names>
+            </name>
+            <name>
+              <surname>Pirovani</surname>
+              <given-names>C.P</given-names>
+            </name>
+            <name>
+              <surname>Camillo</surname>
+              <given-names>L.R</given-names>
+            </name>
+            <name>
+              <surname>Mineo</surname>
+              <given-names>J.R</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunoproteomics of <italic>Brucella abortus</italic> reveals differential antibody profiles between S19-vaccinated and naturally infected cattle</article-title>
+          <source>Proteomics</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <issue>6</issue>
+          <fpage>820</fpage>
+          <lpage>831</lpage>
+          <pub-id pub-id-type="pmid">22539433</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ko</surname>
+              <given-names>K.Y</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.W</given-names>
+            </name>
+            <name>
+              <surname>Her</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>S.I</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S.C</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>D.H</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunogenic proteins of <italic>Brucella abortus</italic> to minimize cross-reactions in brucellosis diagnosis</article-title>
+          <source>Vet. Microbiol</source>
+          <year>2012</year>
+          <volume>156</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>374</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="pmid">22192360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.Y</given-names>
+            </name>
+            <name>
+              <surname>Sung</surname>
+              <given-names>S.R</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.K</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>S.I</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S.C</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>Y.H</given-names>
+            </name>
+            <name>
+              <surname>Her</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunoproteomics of <italic>Brucella abortus</italic> RB51 as candidate antigens in serological diagnosis of brucellosis</article-title>
+          <source>Vet. Immunol. Immunopathol</source>
+          <year>2014</year>
+          <volume>160</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>218</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="pmid">24908638</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Falc&#xE3;o</surname>
+              <given-names>M.V.D</given-names>
+            </name>
+            <name>
+              <surname>Santana</surname>
+              <given-names>V.L.A</given-names>
+            </name>
+            <name>
+              <surname>Corr&#xEA;a</surname>
+              <given-names>F.N</given-names>
+            </name>
+            <name>
+              <surname>Ten&#xF3;rio</surname>
+              <given-names>J.A.B</given-names>
+            </name>
+            <name>
+              <surname>Mota</surname>
+              <given-names>R.A</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and standardization of a western blotting test for detection of antibodies against</article-title>
+          <source>B. abortus. Arq. Bras. Med. Vet. Zootech</source>
+          <year>2019</year>
+          <volume>71</volume>
+          <issue>1</issue>
+          <fpage>160</fpage>
+          <lpage>166</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faria</surname>
+              <given-names>A.R</given-names>
+            </name>
+            <name>
+              <surname>Dorneles</surname>
+              <given-names>E.M.S</given-names>
+            </name>
+            <name>
+              <surname>Pires</surname>
+              <given-names>S.D.F</given-names>
+            </name>
+            <name>
+              <surname>de Andrade</surname>
+              <given-names>H.M</given-names>
+            </name>
+            <name>
+              <surname>Lage</surname>
+              <given-names>A.P</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunoproteomics of <italic>Brucella abortus</italic> reveals potential of recombinant antigens for discriminating vaccinated from naturally infected cattle</article-title>
+          <source>Microb. Pathog</source>
+          <year>2020</year>
+          <volume>147</volume>
+          <issue>1</issue>
+          <fpage>104345</fpage>
+          <pub-id pub-id-type="pmid">32544523</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perin</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>F&#xE1;vero</surname>
+              <given-names>J.F</given-names>
+            </name>
+            <name>
+              <surname>Severo</surname>
+              <given-names>D.R.T</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>A.D</given-names>
+            </name>
+            <name>
+              <surname>Machado</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ara&#xFA;jo</surname>
+              <given-names>H.L</given-names>
+            </name>
+            <name>
+              <surname>Lilenbaum</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Morsch</surname>
+              <given-names>V.M</given-names>
+            </name>
+            <name>
+              <surname>Schetinger</surname>
+              <given-names>M.R.C</given-names>
+            </name>
+            <name>
+              <surname>Jord&#xE3;o</surname>
+              <given-names>R.S</given-names>
+            </name>
+            <name>
+              <surname>Stefani</surname>
+              <given-names>L.M</given-names>
+            </name>
+            <name>
+              <surname>Bottari</surname>
+              <given-names>N.B</given-names>
+            </name>
+            <name>
+              <surname>Da Silva</surname>
+              <given-names>A.S</given-names>
+            </name>
+          </person-group>
+          <article-title>Occurrence of oxidative stress in dairy cows seropositives for <italic>Brucella abortus</italic></article-title>
+          <source>Microb. Pathog</source>
+          <year>2017</year>
+          <volume>110</volume>
+          <issue>6</issue>
+          <fpage>196</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">28669636</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vizca&#xED;no</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Zygmunt</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fern&#xE1;ndez-Lago</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of a <italic>Brucella</italic> species 25-kilobase DNA fragment deleted from <italic>Brucella abortus</italic> reveals a large gene cluster related to the synthesis of a polysaccharide</article-title>
+          <source>Infect. Immun</source>
+          <year>2001</year>
+          <volume>69</volume>
+          <issue>11</issue>
+          <fpage>6738</fpage>
+          <lpage>6748</lpage>
+          <pub-id pub-id-type="pmid">11598046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Jeong</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Jeoung</surname>
+              <given-names>H.Y</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>J.Y</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.S</given-names>
+            </name>
+            <name>
+              <surname>Beak</surname>
+              <given-names>J.H</given-names>
+            </name>
+            <name>
+              <surname>Parisutham</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S.K</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.W</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>J.Y</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>S.C</given-names>
+            </name>
+            <name>
+              <surname>Her</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>D.J</given-names>
+            </name>
+          </person-group>
+          <article-title>Complete genome sequence of <italic>Brucella abortus</italic> A13334, a new strain isolated from the fetal gastric fluid of dairy cattle</article-title>
+          <source>J. Bacteriol</source>
+          <year>2012</year>
+          <volume>194</volume>
+          <issue>19</issue>
+          <fpage>5444</fpage>
+          <pub-id pub-id-type="pmid">22965076</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Navarro-Soto</surname>
+              <given-names>M.C</given-names>
+            </name>
+            <name>
+              <surname>Gomez-Flores</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Morales-Loredo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ram&#xED;rez-Pfeiffer</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tamez-Guerra</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>&#xC1;lvarez-Ojeda</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Effective use of recombinant <italic>Brucella ovis</italic> Omp31 antigen to detect cattle serum antibodies by the ELISA indirect test</article-title>
+          <source>Biotechnology Summit</source>
+          <year>2014</year>
+          <volume>2014</volume>
+          <publisher-loc>Oaxaca, Mexico, 8-10 October</publisher-loc>
+          <publisher-name>Santa Mar&#xED;a Huatulco</publisher-name>
+          <fpage>139</fpage>
+          <lpage>143</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bricker</surname>
+              <given-names>B.J</given-names>
+            </name>
+            <name>
+              <surname>Tabatabai</surname>
+              <given-names>L.B</given-names>
+            </name>
+            <name>
+              <surname>Deyoe</surname>
+              <given-names>B.L</given-names>
+            </name>
+            <name>
+              <surname>Mayfield</surname>
+              <given-names>J.E</given-names>
+            </name>
+          </person-group>
+          <article-title>Conservation of antigenicity in a 31 kDa <italic>Brucella</italic> protein</article-title>
+          <source>Vet. Microbiol</source>
+          <year>1988</year>
+          <volume>18</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>313</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">3148240</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cassataro</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pasquevich</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bruno</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wallach</surname>
+              <given-names>J.C</given-names>
+            </name>
+            <name>
+              <surname>Fossati</surname>
+              <given-names>C.A</given-names>
+            </name>
+            <name>
+              <surname>Baldi</surname>
+              <given-names>P.C</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibody reactivity to Omp31 from <italic>Brucella melitensis</italic> in human and animal infections by smooth and rough Brucellae</article-title>
+          <source>Clin. Diagn. Lab. Immunol</source>
+          <year>2004</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>111</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="pmid">14715555</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosales</surname>
+              <given-names>J.D</given-names>
+            </name>
+            <name>
+              <surname>Ochoa</surname>
+              <given-names>A.C</given-names>
+            </name>
+            <name>
+              <surname>Reyna-Bello</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Serrano</surname>
+              <given-names>A.T</given-names>
+            </name>
+            <name>
+              <surname>Fern&#xE1;ndez-Gomez</surname>
+              <given-names>R.L</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning, expression and immunological evaluation of the Omp31 protein of <italic>Brucella melitensis</italic> and evaluation of its possible use for the diagnosis in bovine brucellosis</article-title>
+          <source>Rev. Investig. Vet. Peru</source>
+          <year>2018</year>
+          <volume>29</volume>
+          <issue>3</issue>
+          <fpage>996</fpage>
+          <lpage>1008</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jakubowski</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Tursunov</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kiyan</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Zhumalin</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Immunogenicity and antigenicity of <italic>Brucella</italic> recombinant outer membrane proteins</article-title>
+          <source>Vet. Zootech</source>
+          <year>2018</year>
+          <volume>76</volume>
+          <issue>98</issue>
+          <fpage>17</fpage>
+          <lpage>24</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Akibekov</surname>
+              <given-names>O.S</given-names>
+            </name>
+            <name>
+              <surname>Suranshiev</surname>
+              <given-names>Z.A</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A.S</given-names>
+            </name>
+            <name>
+              <surname>Ingirbai</surname>
+              <given-names>B.K</given-names>
+            </name>
+          </person-group>
+          <article-title>The use of protein antigens for the serodiagnosis of cattle brucellosis</article-title>
+          <source>Bulletin of Seifullin Kazakh Agrotechnical University</source>
+          <year>2019</year>
+          <volume>2</volume>
+          <fpage>92</fpage>
+          <lpage>102</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pathak</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Thavaselvam</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of recombinant porin (rOmp2a) protein as a potential antigen candidate for serodiagnosis of human brucellosis</article-title>
+          <source>BMC Infect. Dis</source>
+          <year>2017</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>485</fpage>
+          <pub-id pub-id-type="pmid">28693438</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vatankhah</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Beheshti</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Mirkalantari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Khoramabadi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Aghababa</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mahdavi</surname>
+              <given-names>M.J</given-names>
+            </name>
+          </person-group>
+          <article-title>Recombinant Omp2b antigen-based ELISA is an efficient tool for specific serodiagnosis of animal brucellosis</article-title>
+          <source>Braz. J. Microbiol</source>
+          <year>2019</year>
+          <volume>50</volume>
+          <issue>4</issue>
+          <fpage>979</fpage>
+          <lpage>984</lpage>
+          <pub-id pub-id-type="pmid">31352634</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alizadeh</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Dezfulian</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rahnema</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fallah</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Esmaeili</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Protection of BALB/c mice against pathogenic <italic>Brucella abortus</italic> and <italic>Brucella melitensis</italic> by vaccination with recombinant Omp16</article-title>
+          <source>Iran. J. Basic Med. Sci</source>
+          <year>2019</year>
+          <volume>22</volume>
+          <issue>11</issue>
+          <fpage>1302</fpage>
+          <lpage>1307</lpage>
+          <pub-id pub-id-type="pmid">32128095</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Niu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Haimiti</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Design of a multi-epitope vaccine candidate against <italic>Brucella melitensis</italic></article-title>
+          <source>Sci. Rep</source>
+          <year>2022</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>10146</fpage>
+          <pub-id pub-id-type="pmid">35710873</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leya</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>W.K</given-names>
+            </name>
+            <name>
+              <surname>Ochirkhuyag</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>E.C</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.J</given-names>
+            </name>
+            <name>
+              <surname>Yeo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>M.S</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>S.S</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.H</given-names>
+            </name>
+            <name>
+              <surname>Tark</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hur</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective efficacy of attenuated <italic>Salmonella</italic> Typhimurium strain expressing BLS, Omp19, PrpA, or SOD of <italic>Brucella abortus</italic> in goats</article-title>
+          <source>J. Vet. Sci</source>
+          <year>2021</year>
+          <volume>22</volume>
+          <issue>2</issue>
+          <fpage>e15</fpage>
+          <pub-id pub-id-type="pmid">33774931</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ryskeldinova</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zinina</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Kydyrbayev</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yespembetov</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Kozhamkulov</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Inkarbekov</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Assanzhanova</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Mailybayeva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bugybayeva</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sarmykova</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Khairullin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Tabynov</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Aitzhanov</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Abeuov</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Sansyzbay</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yespolov</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Renukaradhya</surname>
+              <given-names>G.J</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>O&#xF1;ate</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tabynov</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Registered influenza viral vector-based <italic>Brucella abortus</italic> vaccine for cattle in Kazakhstan:Age-wise safety and efficacy studies</article-title>
+          <source>Front. Cell. Infect. Microbiol</source>
+          <year>2021</year>
+          <volume>11</volume>
+          <issue>11</issue>
+          <fpage>669196</fpage>
+          <pub-id pub-id-type="pmid">34290993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tibor</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Saman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>de Wergifosse</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Limet</surname>
+              <given-names>J.N</given-names>
+            </name>
+            <name>
+              <surname>Letesson</surname>
+              <given-names>J.J</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular characterization, occurrence, and immunogenicity in infected sheep and cattle of two minor outer membrane proteins of <italic>Brucella abortus</italic></article-title>
+          <source>Infect. Immun</source>
+          <year>1996</year>
+          <volume>64</volume>
+          <issue>1</issue>
+          <fpage>100</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="pmid">8557326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Letesson</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Tibor</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>van Eynde</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wansard</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Weynants</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Denoel</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Saman</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Humoral immune responses of <italic>Brucella</italic>-infected cattle, sheep, and goats to eight purified recombinant <italic>Brucella</italic> proteins in an indirect enzyme-linked immunosorbent assay</article-title>
+          <source>Clin. Diagn. Lab. Immunol</source>
+          <year>1997</year>
+          <volume>4</volume>
+          <issue>5</issue>
+          <fpage>556</fpage>
+          <lpage>564</lpage>
+          <pub-id pub-id-type="pmid">9302205</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sochnev</surname>
+              <given-names>V.V</given-names>
+            </name>
+            <name>
+              <surname>Pashkina</surname>
+              <given-names>Y.V</given-names>
+            </name>
+            <name>
+              <surname>Pashkin</surname>
+              <given-names>A.V</given-names>
+            </name>
+            <name>
+              <surname>Aliev</surname>
+              <given-names>A.A</given-names>
+            </name>
+            <name>
+              <surname>Avilov</surname>
+              <given-names>V.M</given-names>
+            </name>
+            <name>
+              <surname>Morozov</surname>
+              <given-names>N.V</given-names>
+            </name>
+            <name>
+              <surname>Durandin</surname>
+              <given-names>P.V</given-names>
+            </name>
+            <name>
+              <surname>Kuleva</surname>
+              <given-names>S.N</given-names>
+            </name>
+            <name>
+              <surname>Ovsyukhno</surname>
+              <given-names>T.V</given-names>
+            </name>
+            <name>
+              <surname>Kozyrenko</surname>
+              <given-names>O.V</given-names>
+            </name>
+            <name>
+              <surname>Pomerantsev</surname>
+              <given-names>D.A</given-names>
+            </name>
+          </person-group>
+          <article-title>Methodology for studying epizootological aspects of infectious diseases, true microbe carrying and subimmunizing infection</article-title>
+          <source>Vestnik of Nizhny Novgorod State Agricultural Academy</source>
+          <year>2021</year>
+          <volume>29</volume>
+          <fpage>23</fpage>
+          <lpage>31</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Golchin</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mollayi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mohammadi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Eskandarzade</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of a diagnostic indirect ELISA test for detection of <italic>Brucella</italic> antibody using recombinant outer membrane protein 16 kDa (rOMP16)</article-title>
+          <source>Vet. Res. Forum</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <issue>3</issue>
+          <fpage>387</fpage>
+          <lpage>391</lpage>
+          <pub-id pub-id-type="pmid">36320311</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref42">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohammadi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Golchin</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Detection of <italic>Brucella abortus</italic> by immunofluorescence assay using anti outer membrane protein of 19 kDa antibody</article-title>
+          <source>Adv. Clin. Exp. Med</source>
+          <year>2018</year>
+          <volume>27</volume>
+          <issue>5</issue>
+          <fpage>643</fpage>
+          <lpage>648</lpage>
+          <pub-id pub-id-type="pmid">29790689</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Akibekov</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Suranshiyev</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Ingirbay</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of recombinant <italic>Brucella</italic> outer membrane proteins 19, 25, and 31 for serodiagnosis of bovine brucellosis</article-title>
+          <source>Vet. World</source>
+          <year>2020</year>
+          <volume>13</volume>
+          <issue>7</issue>
+          <fpage>1439</fpage>
+          <lpage>1447</lpage>
+          <pub-id pub-id-type="pmid">32848322</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>I.M</given-names>
+            </name>
+            <name>
+              <surname>Khairani-Bejo</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hassan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bahaman</surname>
+              <given-names>A.R</given-names>
+            </name>
+            <name>
+              <surname>Omar</surname>
+              <given-names>A.R</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological diagnostic potential of recombinant outer membrane proteins (rOMPs) from <italic>Brucella melitensis</italic> in mouse model using indirect enzyme-linked immunosorbent assay</article-title>
+          <source>BMC Vet. Res</source>
+          <year>2015</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>275</fpage>
+          <pub-id pub-id-type="pmid">26530141</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Akibekov</surname>
+              <given-names>O.S</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A.S</given-names>
+            </name>
+            <name>
+              <surname>Suranshiev</surname>
+              <given-names>Z.A</given-names>
+            </name>
+            <name>
+              <surname>Eskendirova</surname>
+              <given-names>S.Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological potential of <italic>Brucell</italic>a spp. recombinant proteins for the diagnosis of brucellosis in cattle</article-title>
+          <source>Bulletin of Novosibirsk State Agrarian University</source>
+          <year>2020</year>
+          <volume>1</volume>
+          <issue>54</issue>
+          <fpage>56</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Baucheron</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vizcaino</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Zygmunt</surname>
+              <given-names>M.S</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of recombinant BP26 protein in serological diagnosis of <italic>Brucella melitensis</italic> infection in sheep</article-title>
+          <source>Clin. Diagn. Lab. Immunol</source>
+          <year>2001</year>
+          <volume>8</volume>
+          <issue>4</issue>
+          <fpage>772</fpage>
+          <lpage>775</lpage>
+          <pub-id pub-id-type="pmid">11427425</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Suranshiev</surname>
+              <given-names>Z.A</given-names>
+            </name>
+            <name>
+              <surname>Zhumalin</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Tursunov</surname>
+              <given-names>K.A</given-names>
+            </name>
+          </person-group>
+          <article-title>The antigenicity of the outer membrane proteins <italic>Brucella</italic></article-title>
+          <source>Biotechnol. Theory Pract</source>
+          <year>2016</year>
+          <volume>1</volume>
+          <issue>3</issue>
+          <fpage>20</fpage>
+          <lpage>27</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Suryawanshi</surname>
+              <given-names>S.N</given-names>
+            </name>
+            <name>
+              <surname>Thavaselvam</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of diagnostic potential of recombinant outer membrane protein (rOmp28) of <italic>Brucella melitensis</italic> for serodiagnosis of ovine and caprine brucellosis</article-title>
+          <source>Def. Life Sci. J</source>
+          <year>2019</year>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>244</fpage>
+          <lpage>249</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seco-Mediavilla</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Verger</surname>
+              <given-names>J.M</given-names>
+            </name>
+            <name>
+              <surname>Grayon</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A.J</given-names>
+            </name>
+            <name>
+              <surname>Mar&#xED;n</surname>
+              <given-names>C.M</given-names>
+            </name>
+            <name>
+              <surname>Zygmunt</surname>
+              <given-names>M.S</given-names>
+            </name>
+            <name>
+              <surname>Fern&#xE1;ndez-Lago</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Vizca&#xED;no</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Epitope mapping of the <italic>Brucella melitensis</italic> BP26 immunogenic protein:Usefulness for diagnosis of sheep brucellosis</article-title>
+          <source>Clin. Diagn. Lab. Immunol</source>
+          <year>2003</year>
+          <volume>10</volume>
+          <issue>4</issue>
+          <fpage>647</fpage>
+          <lpage>651</lpage>
+          <pub-id pub-id-type="pmid">12853399</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V.K</given-names>
+            </name>
+            <name>
+              <surname>Kumari</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Vohra</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>S.V</given-names>
+            </name>
+            <name>
+              <surname>Vihan</surname>
+              <given-names>V.S</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative evaluation of recombinant BP26 protein for serological diagnosis of <italic>Brucella melitensis</italic> infection in goats</article-title>
+          <source>Small Rumin. Res</source>
+          <year>2010</year>
+          <volume>93</volume>
+          <issue>2&#x2013;3</issue>
+          <fpage>119</fpage>
+          <lpage>125</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bhardwaj</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Rai</surname>
+              <given-names>G.P</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the recombinant 10-kilodalton immunodominant region of the BP26 protein of <italic>Brucella abortus</italic> for specific diagnosis of bovine brucellosis</article-title>
+          <source>Clin. Vaccine Immunol</source>
+          <year>2011</year>
+          <volume>18</volume>
+          <issue>10</issue>
+          <fpage>1760</fpage>
+          <lpage>1764</lpage>
+          <pub-id pub-id-type="pmid">21852548</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref52">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thavaselvam</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mishra</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Prakash</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning and expression of the immunoreactive <italic>Brucella melitensis</italic> 28 kDa outer membrane protein (Omp28) encoding gene and evaluation of the potential of Omp28 for clinical diagnosis of brucellosis</article-title>
+          <source>J. Med. Microbiol</source>
+          <year>2010</year>
+          <volume>59</volume>
+          <issue>Pt 4</issue>
+          <fpage>421</fpage>
+          <lpage>428</lpage>
+          <pub-id pub-id-type="pmid">20075115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref53">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Koyuncu</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kocyigit</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ozer</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Selek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kirmit</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Karsen</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnostic potential of <italic>Brucella melitensis</italic> Rev1 native Omp28 precursor in human brucellosis</article-title>
+          <source>Cent. Eur. J. Immunol</source>
+          <year>2018</year>
+          <volume>43</volume>
+          <issue>1</issue>
+          <fpage>81</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">29736150</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tian</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lian</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Guan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of the main immunogenic proteins in <italic>Brucella</italic> infection for their application in diagnosis of brucellosis</article-title>
+          <source>Comp. Immunol. Microbiol. Infect. Dis</source>
+          <year>2020</year>
+          <volume>70</volume>
+          <issue>2</issue>
+          <fpage>101462</fpage>
+          <pub-id pub-id-type="pmid">32143107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref55">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bai</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative analysis of the main outer membrane proteins of <italic>Brucella</italic> in the diagnosis of brucellosis</article-title>
+          <source>Biochem. Biophys. Res. Commun</source>
+          <year>2021</year>
+          <volume>560</volume>
+          <issue>6</issue>
+          <fpage>126</fpage>
+          <lpage>131</lpage>
+          <pub-id pub-id-type="pmid">33989903</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref56">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xin</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Limitations of the BP26 protein-based indirect enzyme-linked immunosorbent assay for diagnosis of brucellosis</article-title>
+          <source>Clin. Vaccine Immunol</source>
+          <year>2013</year>
+          <volume>20</volume>
+          <issue>9</issue>
+          <fpage>1410</fpage>
+          <lpage>1417</lpage>
+          <pub-id pub-id-type="pmid">23863503</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref57">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Landis</surname>
+              <given-names>G.N</given-names>
+            </name>
+            <name>
+              <surname>Tower</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Superoxide dismutase evolution and life span regulation</article-title>
+          <source>Mech. Ageing Dev</source>
+          <year>2005</year>
+          <volume>126</volume>
+          <issue>3</issue>
+          <fpage>365</fpage>
+          <lpage>379</lpage>
+          <pub-id pub-id-type="pmid">15664623</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref58">
+        <label>58</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>W.K</given-names>
+            </name>
+            <name>
+              <surname>Moon</surname>
+              <given-names>J.Y</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>J.S</given-names>
+            </name>
+            <name>
+              <surname>Hur</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective efficacy of a <italic>Brucella</italic> vaccine using a <italic>Salmonella</italic>-based delivery system expressing <italic>Brucella</italic> Omp3b, BCSP31, and SOD proteins against brucellosis in Korean black goats</article-title>
+          <source>Can. J. Vet. Res</source>
+          <year>2019</year>
+          <volume>83</volume>
+          <issue>4</issue>
+          <fpage>261</fpage>
+          <lpage>266</lpage>
+          <pub-id pub-id-type="pmid">31571725</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref59">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bricker</surname>
+              <given-names>B.J</given-names>
+            </name>
+            <name>
+              <surname>Tabatabai</surname>
+              <given-names>L.B</given-names>
+            </name>
+            <name>
+              <surname>Judge</surname>
+              <given-names>B.A</given-names>
+            </name>
+            <name>
+              <surname>Deyoe</surname>
+              <given-names>B.L</given-names>
+            </name>
+            <name>
+              <surname>Mayfield</surname>
+              <given-names>J.E</given-names>
+            </name>
+          </person-group>
+          <article-title>Cloning, expression, and occurrence of the <italic>Brucella</italic> Cu-Zn superoxide dismutase</article-title>
+          <source>Infect. Immun</source>
+          <year>1990</year>
+          <volume>58</volume>
+          <issue>9</issue>
+          <fpage>2935</fpage>
+          <lpage>2939</lpage>
+          <pub-id pub-id-type="pmid">2201639</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref60">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsogtbaatar</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Tachibana</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Watanabe</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Watarai</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzyme-linked immunosorbent assay for screening of canine brucellosis using recombinant Cu-Zn superoxide dismutase</article-title>
+          <source>J. Vet. Med. Sci</source>
+          <year>2008</year>
+          <volume>70</volume>
+          <issue>12</issue>
+          <fpage>1387</fpage>
+          <lpage>1389</lpage>
+          <pub-id pub-id-type="pmid">19122412</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref61">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagalingam</surname>
+              <given-names>M.N</given-names>
+            </name>
+            <name>
+              <surname>Basheer</surname>
+              <given-names>T.J</given-names>
+            </name>
+            <name>
+              <surname>Balamurugan</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Shome</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kumari</surname>
+              <given-names>S.S</given-names>
+            </name>
+            <name>
+              <surname>Reddy</surname>
+              <given-names>G.B.M</given-names>
+            </name>
+            <name>
+              <surname>Shome</surname>
+              <given-names>B.R</given-names>
+            </name>
+            <name>
+              <surname>Rahman</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Roy</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kingston</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Gandham</surname>
+              <given-names>R.K</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative evaluation of the immunodominant proteins of <italic>Brucella abortus</italic> for the diagnosis of cattle brucellosis</article-title>
+          <source>Vet. World</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>803</fpage>
+          <lpage>812</lpage>
+          <pub-id pub-id-type="pmid">33935431</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref62">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Akibekov</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Suranshiyev</surname>
+              <given-names>Z.A</given-names>
+            </name>
+            <name>
+              <surname>Ingirbay</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Eskendirova</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Serodiagnostic potential of <italic>Brucella</italic> outer membrane and periplasmic proteins</article-title>
+          <source>Turk. J. Vet. Anim. Sci</source>
+          <year>2019</year>
+          <volume>43</volume>
+          <issue>4</issue>
+          <fpage>486</fpage>
+          <lpage>493</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref63">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Suranshiev</surname>
+              <given-names>Z.A</given-names>
+            </name>
+            <name>
+              <surname>Tursunov</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Eskendirova</surname>
+              <given-names>S.Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the recombinant proteins potential for the diagnosis of brucellosis</article-title>
+          <source>Farm Anim. Vet</source>
+          <year>2020</year>
+          <volume>1</volume>
+          <fpage>63</fpage>
+          <lpage>73</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref64">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Willett</surname>
+              <given-names>J.W</given-names>
+            </name>
+            <name>
+              <surname>Fiebig</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Varesio</surname>
+              <given-names>L.M</given-names>
+            </name>
+            <name>
+              <surname>Czy&#x17C;</surname>
+              <given-names>D.M</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J.X</given-names>
+            </name>
+            <name>
+              <surname>Ultee</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Briegel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bigelow</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Babnigg</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Crosson</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Periplasmic protein EipA determines envelope stress resistance and virulence in <italic>Brucella abortus</italic></article-title>
+          <source>Mol. Microbiol</source>
+          <year>2019</year>
+          <volume>111</volume>
+          <issue>3</issue>
+          <fpage>637</fpage>
+          <lpage>661</lpage>
+          <pub-id pub-id-type="pmid">30536925</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref65">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Simborio</surname>
+              <given-names>H.L.T</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Reyes</surname>
+              <given-names>A.W.B</given-names>
+            </name>
+            <name>
+              <surname>Hop</surname>
+              <given-names>H.T</given-names>
+            </name>
+            <name>
+              <surname>Arayan</surname>
+              <given-names>L.T</given-names>
+            </name>
+            <name>
+              <surname>Min</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.J</given-names>
+            </name>
+            <name>
+              <surname>Yoo</surname>
+              <given-names>H.S</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the combined use of the recombinant <italic>Brucella abortus</italic> Omp10, Omp19 and Omp28 proteins for the clinical diagnosis of bovine brucellosis</article-title>
+          <source>Microb. Pathog</source>
+          <year>2015</year>
+          <volume>83&#x2013;84</volume>
+          <issue>84</issue>
+          <fpage>41</fpage>
+          <lpage>46</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref66">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yao</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the &#x441;ombined use of major outer membrane proteins in the serodiagnosis of brucellosis</article-title>
+          <source>Infect. Drug Resist</source>
+          <year>2022</year>
+          <volume>15</volume>
+          <issue>7</issue>
+          <fpage>4093</fpage>
+          <lpage>4100</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref67">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Study on antigenic protein Omp2b in combination with Omp31 and BP26 for serological detection of human brucellosis</article-title>
+          <source>J. Microbiol. Methods</source>
+          <year>2023</year>
+          <volume>205</volume>
+          <issue>7</issue>
+          <fpage>106663</fpage>
+          <pub-id pub-id-type="pmid">36592896</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref68">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Study on immunogenicity and antigenicity of a novel <italic>Brucella</italic> multi-epitope recombined protein</article-title>
+          <source>Biochem. Biophys. Res. Commun</source>
+          <year>2021</year>
+          <volume>540</volume>
+          <issue>2</issue>
+          <fpage>37</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="pmid">33429198</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref69">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bai</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>A multi-epitope fusion protein-based p-ELISA method for diagnosing bovine and goat brucellosis</article-title>
+          <source>Front. Vet. Sci</source>
+          <year>2021</year>
+          <volume>8</volume>
+          <issue>9</issue>
+          <fpage>708008</fpage>
+          <pub-id pub-id-type="pmid">34568475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref70">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yao</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>Y.R</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>K.L</given-names>
+            </name>
+            <name>
+              <surname>Duan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Shao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of BP26, Omp25 and Omp31 and a multi-epitope-based fusion protein in the serological detection of canine brucellosis</article-title>
+          <source>Infect. Drug Resist</source>
+          <year>2022</year>
+          <volume>15</volume>
+          <issue>9</issue>
+          <fpage>5301</fpage>
+          <lpage>5308</lpage>
+          <pub-id pub-id-type="pmid">36101776</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref71">
+        <label>71</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dehghani</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sabzehei</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Taromchi</surname>
+              <given-names>A.H</given-names>
+            </name>
+            <name>
+              <surname>Mobaien</surname>
+              <given-names>A.R</given-names>
+            </name>
+            <name>
+              <surname>Arsang-Jang</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Hybrid recombinant Omp 22, 25, and 31 immunodominant epitopes can be used for serodiagnosis of brucellosis</article-title>
+          <source>J. Immunol. Methods</source>
+          <year>2021</year>
+          <volume>497</volume>
+          <issue>8</issue>
+          <fpage>113123</fpage>
+          <pub-id pub-id-type="pmid">34428402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref72">
+        <label>72</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Ingirbai</surname>
+              <given-names>B.K</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A.S</given-names>
+            </name>
+            <name>
+              <surname>Kurmasheva</surname>
+              <given-names>A.K</given-names>
+            </name>
+          </person-group>
+          <article-title>Preparation of <italic>Brucella</italic> multiproteins and study of their immunoreactivity</article-title>
+          <source>J. Biotechnol. Theory Pract</source>
+          <year>2021</year>
+          <volume>1</volume>
+          <issue>3</issue>
+          <fpage>71</fpage>
+          <lpage>85</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref73">
+        <label>73</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bulashev</surname>
+              <given-names>A.K</given-names>
+            </name>
+            <name>
+              <surname>Ingirbay</surname>
+              <given-names>B.K</given-names>
+            </name>
+            <name>
+              <surname>Mukantayev</surname>
+              <given-names>K.N</given-names>
+            </name>
+            <name>
+              <surname>Syzdykova</surname>
+              <given-names>A.S</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of chimeric proteins for serological diagnosis of brucellosis in cattle</article-title>
+          <source>Vet. World</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <issue>8</issue>
+          <fpage>2187</fpage>
+          <lpage>2196</lpage>
+          <pub-id pub-id-type="pmid">34566338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref74">
+        <label>74</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tabatabaei</surname>
+              <given-names>M.S</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzyme-linked immunosorbent assay (ELISA)</article-title>
+          <source>Methods Mol. Biol</source>
+          <year>2022</year>
+          <volume>2508</volume>
+          <fpage>115</fpage>
+          <lpage>134</lpage>
+          <pub-id pub-id-type="pmid">35737237</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref75">
+        <label>75</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mu&#xF1;oz</surname>
+              <given-names>P.M</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>J.M</given-names>
+            </name>
+            <name>
+              <surname>Engel</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>de Miguel</surname>
+              <given-names>M.J</given-names>
+            </name>
+            <name>
+              <surname>Mar&#xED;n</surname>
+              <given-names>C.M</given-names>
+            </name>
+            <name>
+              <surname>Dieste</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mainar-Jaime</surname>
+              <given-names>R.C</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of performance of selected serological tests for diagnosing brucellosis in pigs</article-title>
+          <source>Vet. Immunol. Immunopathol</source>
+          <year>2012</year>
+          <volume>146</volume>
+          <issue>2</issue>
+          <fpage>150</fpage>
+          <lpage>158</lpage>
+          <pub-id pub-id-type="pmid">22445082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref76">
+        <label>76</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalleshamurthy</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Skariah</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rathore</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Ramanjinappa</surname>
+              <given-names>K.D</given-names>
+            </name>
+            <name>
+              <surname>Nagaraj</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Shome</surname>
+              <given-names>B.R</given-names>
+            </name>
+            <name>
+              <surname>Rahman</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Barman</surname>
+              <given-names>N.N</given-names>
+            </name>
+            <name>
+              <surname>Shome</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative evaluation of fluorescence polarization assay and competitive ELISA for the diagnosis of bovine brucellosis vis-a-vis sero-monitoring</article-title>
+          <source>J. Microbiol. Methods</source>
+          <year>2020</year>
+          <volume>170</volume>
+          <issue>1</issue>
+          <fpage>105858</fpage>
+          <pub-id pub-id-type="pmid">32014437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref77">
+        <label>77</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>W.L</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological diagnosis of brucellosis</article-title>
+          <source>Prilozi</source>
+          <year>2010</year>
+          <volume>31</volume>
+          <issue>1</issue>
+          <fpage>65</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">20703184</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref78">
+        <label>78</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lim</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.H</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J.J</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>D.G</given-names>
+            </name>
+            <name>
+              <surname>Min</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>H.J</given-names>
+            </name>
+            <name>
+              <surname>Rhee</surname>
+              <given-names>M.H</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>H.H</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of recombinant 28 kDa outer membrane protein of <italic>Brucella abortus</italic> for the clinical diagnosis of bovine brucellosis in Korea</article-title>
+          <source>J. Vet. Med. Sci</source>
+          <year>2012</year>
+          <volume>74</volume>
+          <issue>6</issue>
+          <fpage>687</fpage>
+          <lpage>691</lpage>
+          <pub-id pub-id-type="pmid">22214857</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref79">
+        <label>79</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sotnikov</surname>
+              <given-names>D.V</given-names>
+            </name>
+            <name>
+              <surname>Berlina</surname>
+              <given-names>A.N</given-names>
+            </name>
+            <name>
+              <surname>Zherdev</surname>
+              <given-names>A.V</given-names>
+            </name>
+            <name>
+              <surname>Eskendirova</surname>
+              <given-names>S.Z</given-names>
+            </name>
+            <name>
+              <surname>Mukanov</surname>
+              <given-names>K.K</given-names>
+            </name>
+            <name>
+              <surname>Ramankulov</surname>
+              <given-names>Y.M</given-names>
+            </name>
+            <name>
+              <surname>Mukantayev</surname>
+              <given-names>K.N</given-names>
+            </name>
+            <name>
+              <surname>Dzantiev</surname>
+              <given-names>B.B</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of three schemes of quantum dots-based immunochromatography for serodiagnosis of brucellosis in cattle</article-title>
+          <source>J. Eng. Appl. Sci</source>
+          <year>2019</year>
+          <volume>14</volume>
+          <issue>11</issue>
+          <fpage>3711</fpage>
+          <lpage>3718</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref80">
+        <label>80</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kong</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mei</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>A quantum dot fluorescent microsphere based immunochromatographic strip for detection of brucellosis</article-title>
+          <source>BMC Vet. Res</source>
+          <year>2021</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>48</fpage>
+          <pub-id pub-id-type="pmid">33485335</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

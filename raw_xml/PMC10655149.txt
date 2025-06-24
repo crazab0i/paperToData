@@ -1,0 +1,1040 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Clin Exp Vaccine Res</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Clin Exp Vaccine Res</journal-id>
+      <journal-id journal-id-type="publisher-id">CEVR</journal-id>
+      <journal-title-group>
+        <journal-title>Clinical and Experimental Vaccine Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2287-3651</issn>
+      <issn pub-type="epub">2287-366X</issn>
+      <publisher>
+        <publisher-name>The Korean Vaccine Society</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">38025913</article-id>
+      <article-id pub-id-type="pmc">10655149</article-id>
+      <article-id pub-id-type="doi">10.7774/cevr.2023.12.4.304</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immunization of mice with chimeric protein-loaded aluminum hydroxide and selenium nanoparticles induces reduction of <italic toggle="yes">Brucella melitensis</italic> infection in mice</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-5223-2765</contrib-id>
+          <name>
+            <surname>Goudarzi</surname>
+            <given-names>Tahereh</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-8206-7035</contrib-id>
+          <name>
+            <surname>Abkar</surname>
+            <given-names>Morteza</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-5967-4112</contrib-id>
+          <name>
+            <surname>Zamanzadeh</surname>
+            <given-names>Zahra</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-3364-2638</contrib-id>
+          <name>
+            <surname>Fasihi-Ramandi</surname>
+            <given-names>Mahdi</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1</label>Department of Genetics, Faculty of Biological Sciences and Technology, Shahid Ashrafi Esfahani University, Isfahan, <country>Iran</country>.</aff>
+      <aff id="A2"><label>2</label>Molecular Biology Research Center, Systems Biology and Poisonings Institute, Baqiyatallah University of Medical Sciences, Tehran, <country>Iran</country>.</aff>
+      <author-notes>
+        <corresp>Corresponding author: Mahdi Fasihi-Ramandi, PhD. Molecular Biology Research Center, Baqiyatallah University of Medical Sciences, Tehran, Iran. Tel: +98-9029029868, Fax: +98-2187554555, <email>fasihi.m@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>12</volume>
+      <issue>4</issue>
+      <fpage>304</fpage>
+      <lpage>312</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>15</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; Korean Vaccine Society.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Korean Vaccine Society</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0</ext-link>) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Purpose</title>
+          <p>Due to the many problems with commercially available vaccines, the production of effective vaccines against brucellosis is a necessity. The aim of this study was to evaluate the immune responses caused by the chimeric protein consisting of trigger factor, Bp26, and Omp31 (TBO) along with aluminum hydroxide (AH/TBO) and selenium (Se/TBO) nanoparticles (NPs) as adjuvants in mouse model.</p>
+        </sec>
+        <sec>
+          <title>Materials and Methods</title>
+          <p>Recombinant antigen expression was induced in <italic toggle="yes">Escherichia coli</italic> BL21 (DE3) bacteria using IPTG (isopropyl-d-1-thiogalactopyranoside). Purification and characterization of recombinant protein was conducted through NiFe<sub>3</sub>O<sub>4</sub> NPs, sodium dodecyl sulfate-polyacrylamide gel electrophoresis, and Western blot. NP characteristics, including morphology and particle size, were measured <italic toggle="yes">in vitro</italic>. The recombinant TBO was loaded on to AH and Se NPs and were administered subcutaneously. After mice immunization, measurement of antibody titter and protection assay was performed.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>The average sizes of AH and Se NPs were about 60 nm and 150 nm, respectively. The enzyme-linked immunosorbent assay results showed that the serum of mice immunized by subcutaneous injection with both nanovaccines produced significant immunoglobulin G (IgG) responses against the chimeric antigen. The results of TBO-specific IgG isotype (IgG2a/IgG1) analysis showed that both AH and Se NPs induced a type to T-helper immune response. In addition, the results of the challenge with the pathogenic strain of <italic toggle="yes">Brucella melitensis</italic> 16M showed that vaccinated mice with AH/TBO NPs indicated a higher reduction of bacterial culture than immunized mice with Se/TBO NPs and TBO alone.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>The results showed that AH NPs carrying chimeric antigen can be a promising vaccine candidate against brucellosis by producing protective immunity.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Brucellosis</kwd>
+        <kwd>Aluminum hydroxide</kwd>
+        <kwd>Selenium</kwd>
+        <kwd>Nanoparticles</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source country="IR">
+<institution-wrap><institution>Shahid Ashrafi Esfahani University</institution><institution-id institution-id-type="CrossRef"/></institution-wrap>
+</funding-source>
+        </award-group>
+        <award-group>
+          <funding-source country="IR">
+<institution-wrap><institution>Baqiyatallah University of Medical Sciences</institution><institution-id institution-id-type="CrossRef">https://doi.org/10.13039/501100005849</institution-id></institution-wrap>
+</funding-source>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Brucellosis is the causative agent of Malta fever, Mediterranean fever, or feverish fever in humans, which infects more than 500,000 people worldwide each year. <italic toggle="yes">Brucella</italic> spp., which cause the disease, are a group of small gram-negative coccobacilli and facultative intracellular bacteria that affect a wide range of hosts [<xref rid="B1" ref-type="bibr">1</xref><xref rid="B2" ref-type="bibr">2</xref>]. This bacterium has several species; among them, <italic toggle="yes">B. melitensis</italic>, <italic toggle="yes">B. abortus</italic>, and <italic toggle="yes">B. suis</italic> are the most virulent species in terms of pathogenicity for humans. Due to the presence of pathogenic agents inside macrophages and the intracellular life, treatment of brucellosis is difficult because Brucella has different strategies to escape the host immune system, which will make the infection chronic. For this reason, only a few antibiotics are used to treat brucellosis in humans [<xref rid="B3" ref-type="bibr">3</xref><xref rid="B4" ref-type="bibr">4</xref><xref rid="B5" ref-type="bibr">5</xref><xref rid="B6" ref-type="bibr">6</xref><xref rid="B7" ref-type="bibr">7</xref>].</p>
+      <p>Brucellosis is transmitted to humans through contact with infected animals, breaking of the skin, or inhalation of aerosols contaminated with <italic toggle="yes">Brucella</italic>. Therefore, in order to prevent human brucellosis, there is always a need to control the disease in animals. Animal vaccination is one of the most effective strategies against human brucellosis [<xref rid="B8" ref-type="bibr">8</xref>].</p>
+      <p>Vaccines such as <italic toggle="yes">B. abortus</italic> RB51, <italic toggle="yes">B. abortus</italic> S19, and <italic toggle="yes">B. melitensis</italic> Rev1 are currently used to control brucellosis in animals. Despite the effectiveness of these vaccines and disadvantages such as the difficulty in the diagnosis and validation of infection stages in vaccinated animals, the ability to cause disease in humans, residual virulence, and abortion in pregnant animals, there is an immediate need for the production of more effective vaccines [<xref rid="B9" ref-type="bibr">9</xref>].</p>
+      <p>Due to their non-pathogenic properties and the possibility of manipulation to increase the desired properties and reduce the undesirable properties, recombinant vaccines are promising candidates for replacement with live-attenuated vaccines [<xref rid="B1" ref-type="bibr">1</xref><xref rid="B3" ref-type="bibr">3</xref>]. Various antigens in the formulation of subunit vaccines have been studied in recent years, but only a limited number of them can induce protective immune responses against brucellosis in animal models [<xref rid="B10" ref-type="bibr">10</xref>]. These include ribosomal L7/L12 protein [<xref rid="B11" ref-type="bibr">11</xref>], Dank-Omp31 [<xref rid="B12" ref-type="bibr">12</xref>], Bp26 [<xref rid="B13" ref-type="bibr">13</xref>], SodC [<xref rid="B14" ref-type="bibr">14</xref>], Omp31 [<xref rid="B15" ref-type="bibr">15</xref><xref rid="B16" ref-type="bibr">16</xref>], TF-Bp26, BLS-Omp31 [<xref rid="B17" ref-type="bibr">17</xref><xref rid="B18" ref-type="bibr">18</xref>], TF-Omp31-Bp26, and so forth [<xref rid="B1" ref-type="bibr">1</xref><xref rid="B9" ref-type="bibr">9</xref>].</p>
+      <p>Omp31 is one of the outer membrane proteins of <italic toggle="yes">Brucella</italic> and its main antigen, which has high immunogenicity. Also, studies have shown that this antigen has a favorable function in inducing humoral and cellular immunity [<xref rid="B19" ref-type="bibr">19</xref>]. Furthermore, trigger factor (TF) is one of the cytoplasmic proteins of this bacterium, which has been able to show favorable protection in various studies. Therefore, it is known as an immunogenic antigen [<xref rid="B20" ref-type="bibr">20</xref><xref rid="B21" ref-type="bibr">21</xref>]. The periplasmic protein Bp26, previously known as Omp28, was frequently used in Brucellosis diagnostic tests. Recent studies have shown that this protein can also have an immunogenic property [<xref rid="B11" ref-type="bibr">11</xref>].</p>
+      <p>One of the problems related to recombinant vaccines is their low immunogenicity compared to live-attenuated, or killed vaccines. In order to solve this problem, using an antigen delivery system and adjuvant is essential [<xref rid="B6" ref-type="bibr">6</xref>]. Due to their favorable characteristics and effectiveness in improving immunity, it has become common to use nanoparticles (NPs) as vaccine delivery systems and vaccine adjuvants. In previous studies, the effectiveness of aluminum hydroxide (AH) and selenium (Se) NPs as adjuvants was shown, and the results showed that these two NPs can be used in vaccines as adjuvant systems.</p>
+      <p>In this study, the antigenicity of a chimeric protein composed of three <italic toggle="yes">Brucella</italic> antigens: TF, Bp26, and Omp31 (TBO) along with AH and Se NPs, was assessed in C57 mice as an animal model.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Materials and Methods</title>
+      <sec>
+        <title>Animals and ethics statement</title>
+        <p>Thirty-two female C57BL/6 mice aged 4 to 6 weeks were obtained from Baqiyatallah University of Medical Sciences (Tehran, Iran). The animals were housed in standard polypropylene cages at 24&#xB1;2&#x2103; and humidity (40%&#x2013;70%) with weekly floor exchange; they were also kept in customary animal facilities and got water and food ad libitum. Mice were randomly divided into four experimental groups. All experimental procedures on mice were officially agreed upon by the local ethics committee for animal experimentation at Baqiyatallah University of Medical Sciences (IR.BMSU.REC.1397.373).</p>
+      </sec>
+      <sec>
+        <title>Bacterial strains and plasmid</title>
+        <p>Razi Vaccine and Serum Research Institute (Karaj, Iran) provided <italic toggle="yes">B. melitensis</italic> 16M, which was grown on Brucella agar medium for 2&#x2013;3 days under aerobic conditions at 37&#x2103; in a humidified chamber. <italic toggle="yes">E. coli</italic> BL21 (DE3) and the pET28a vector (Novagen, Madison, WI, USA) were used to express TBO recombinant chimeric protein.</p>
+      </sec>
+      <sec>
+        <title>Expression and purification of chimeric protein</title>
+        <p>The TBO recombinant protein was characterized and prepared as previously described [<xref rid="B1" ref-type="bibr">1</xref>]. Briefly, <italic toggle="yes">E. coli</italic> BL21 (DE3) containing pET28a-<italic toggle="yes">tbo</italic> was inoculated into 100 mL of Luria Broth medium containing kanamycin (50 &#xB5;g/mL). The incubation was continued with agitation (180 rpm) to a 0.5 optical density at 600 nm, and then gene expression was induced for 5 hours at 37&#x2103; with 1 mM isopropyl-d-1-thiogalactopyranoside (IPTG). The bacteria cells were harvested by centrifugation (5,000 rpm for 10 minutes); after that, the pellet was resuspended in lysis buffer (0.1 M NaH<sub>2</sub>PO<sub>4</sub>, 8 M urea, and 0.01 M Tris hydrochloride). Bacterial lysate was subjected to sodium dodecyl sulfate&#x2013;polyacrylamide gel electrophoresis (SDS-PAGE) to evaluate the protein expression. After ensuring successful expression of the recombinant protein, it was purified using nickel magnetic (NiFe<sub>3</sub>O<sub>4</sub>) NPs. For this purpose, 10 mL of TBO-containing supernatant was added to the nickel magnetic NPs and shaken for 30 minutes to attach the TBO chimeric protein to the nickel magnetic NPs via His-tag. The NPs were washed in 20 mL of wash buffer (8 M urea, 50 mM NaH<sub>2</sub>PO<sub>4</sub>, 500 mM NaCl, 40 mM imidazole) 3 times, each time for 10 minutes with shaking. After that, the recombinant antigen was eluted with an elution buffer (450 mL wash buffer, 500 mM imidazole) for 30 minutes. Finally, the supernatant was separated as the recombinant subunit protein. After all, a Bradford protein assay was used to determine the concentration of recombinant protein.</p>
+      </sec>
+      <sec>
+        <title>Protein (antigen) characterization</title>
+        <p>In order to evaluate the purified proteins, the TBO chimeric protein was analyzed using SDS-PAGE, followed by a western blot using horseradish peroxidase (HRP)-conjugated anti-His tag antibody (Sigma-Aldrich, St. Louis, MO, USA).</p>
+      </sec>
+      <sec>
+        <title>Synthesis and characterization of TBO-loading nanoparticles</title>
+        <p>AH NPs were synthesized based on a previously reported method [<xref rid="B22" ref-type="bibr">22</xref>]. Equal volumes of 3.6 mg/mL AlCl<sub>3</sub>.6H<sub>2</sub>O and 0.04 mol/L NaOH solutions were mixed. After adjusting the pH to 7.0, the mixture was stirred at room temperature for 30 minutes. In the next step, the mixture was sonicated for 10 minutes in an ultrasonic bath. The byproduct NaCl was removed by an AmiconVR Ultra-4 centrifugal filter from Merck Millipore (Darmstadt, Germany). In order to prepare TBO-loaded AH (AH/TBO) NPs, 500 &#xB5;L of AH NPs were added to 500 &#xB5;L of purified protein (800 &#xB5;g/mL).</p>
+        <p>Arminano (Pardis Technology Park, Commercialization and Technomart Center, Tehran, Iran) provided Se NPs with a particle size of 100&#x2013;200 nm. To prepare TBO-loaded Se (Se/TBO) NPs, 500 &#xB5;L of Se NPs were added to 500 &#xB5;L of purified protein (800 &#xB5;g/mL).</p>
+        <p>Dynamic light scattering (Malvern 3000; Malvern Instruments, Malvern, UK) and scanning electron microscopy (SEM) were used to characterize the morphology and size of the NPs. The TBO content of AH/TBO and Se/TBO NPs was determined with a Bradford protein assay, according to the manufacturer&#x2019;s instructions.</p>
+      </sec>
+      <sec>
+        <title>Mice immunization</title>
+        <p>Mice were immunized by the subcutaneous (s.c.) administration route. Four experimental groups of mice either got vaccines or served as control groups: First group was immunized by AH NPs contained 20 &#xB5;g TBO. The second group was immunized with Se NPs, which contained 20 &#xB5;g TBO. The third group was immunized with 20 &#xB5;g of purified protein, and the last group was immunized with 20 &#xB5;g of phosphate-buffered saline (PBS) phosphate buffer as the negative control group. All experimental groups were vaccinated subcutaneously on days 0, 14, and 28.</p>
+      </sec>
+      <sec>
+        <title>Enzyme-linked-immunosorbent assay</title>
+        <p>Serum samples were collected from all immunized groups of mice on days 0, 10, 25, and 35 after the first vaccination to analyze the antibody production. To detect total immunoglobulin G (IgG), IgG1, and IgG2a, indirect enzyme-linked immunosorbent assay (ELISA) was done with an isotyping ELISA kit (Sigma-Aldrich). ELISA 96-well microplates were coated with 10 &#xB5;g/mL of TBO chimeric protein and incubated at 37&#x2103; for 1 hour. The wells were washed with PBS containing 0.1% Tween 20 thrice after each step. In order to prevent nonspecific binding, the wells were blocked by adding a blocking buffer (5% skim milk in PBS) and incubated at 37&#x2103; for 1 hour. After washing, different dilutions of sera (1:500 to 1:160,000) were added to the plates and kept at 37&#x2103; for 1 hour. The plates were washed, and antibodies were added. HRP-conjugated anti-mouse antibody (Sigma-Aldrich) was added to the plates to detect whole specific antibodies, and goat anti-mouse subtypes antibody and rabbit anti-goat HRP conjugate antibody (Sigma-Aldrich) were added to detect IgG subclasses (IgG1 and IgG2a). Then, after washing, in the final step, 100 &#xB5;L of TMB (Sigma-Aldrich) was added to each well and kept at room temperature for 15 minutes. Finally, color development was stopped by the addition of 50 &#xB5;L of 2N H<sub>2</sub>SO<sub>4</sub>, and each well was measured for optical density at 450 nm by using a microtiter plate reader (Bio-Rad, Hercules, CA, USA).</p>
+      </sec>
+      <sec>
+        <title>Protection assay</title>
+        <p>To test the protective effects of TBO protein, immunized mice (four mice per group) were challenged intraperitoneally (i.p.) with <italic toggle="yes">B. melitensis</italic> 16M. Four weeks after the challenge, the homogenized spleens of mice were cultured in Brucella agar at 37&#x2103; for 3&#x2013;4 days to determine the number of <italic toggle="yes">Brucella</italic> colonies. The log<sub>10</sub> number of colony-forming units (CFUs) per sample was determined.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>Data were statistically analyzed by Wilcoxon test using IBM SPSS ver. 22.0 software (IBM Corp., Armonk, NY, USA). Differences were considered statistically significant at a p-value &#x2264;0.05. The CFU data were normalized by log transformation and evaluated by analysis of variance, followed by Kruskal-Wallis test.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Expression of recombinant antigen</title>
+        <p>Induction of TBO recombinant protein expression was successfully performed on the <italic toggle="yes">E. coli</italic> BL21 (DE3) expression host, which was transformed with pET28a-<italic toggle="yes">tbo</italic> with an N-terminal 6X-His tag. Subsequently, the results of SDS-PAGE analysis indicated the presence of recombinant protein, which was shown in a specific band with a size of 67 kDa (<xref rid="F1" ref-type="fig">Fig. 1A</xref>). Anti-His-tag antibody confirmed the presence of recombinant antigen on Western blot (<xref rid="F1" ref-type="fig">Fig. 1B</xref>). After purifying the chimeric protein, the SDS-PAGE method was used to ensure the correctness of the steps. The findings indicated that the purity was desirable (<xref rid="F1" ref-type="fig">Fig. 1C</xref>).</p>
+      </sec>
+      <sec>
+        <title>Characterization of antigen-loaded NPs</title>
+        <p>A SEM illustrated the morphology and size range of NPs. SEM images indicated that the sizes of AH and Se NPs particles are approximately 60 nm and 150 nm, respectively. Also, the surface of both NPs, as can be seen in the SEM images, is smooth, and their morphology is spherical (<xref rid="F2" ref-type="fig">Fig. 2</xref>).</p>
+      </sec>
+      <sec>
+        <title>Serum antibody direction</title>
+        <p>The results showed that total IgG against the chimeric antigen increased significantly in the vaccinated groups with TBO-NPs. The group that received only TBO protein had a lower increase in IgG titer than the vaccinated groups with NPs. But the groups receiving TBO along with AH and Se NPs produced high levels of IgG responses. This indicated the efficiency of NPs used in the formulation of the recombinant vaccine (<xref rid="F3" ref-type="fig">Fig. 3</xref>). In order to assess the kind of immune response, the ratio of IgG2a to IgG1 was measured. In both immunized groups with NPs, this ratio was less than 1, which indicates the induction of humoral immunity against recombinant antigens (<xref rid="F4" ref-type="fig">Fig. 4</xref>).</p>
+      </sec>
+      <sec>
+        <title>Protection experiments</title>
+        <p>The protective ability of the TBO chimeric vaccine formulation against the virulent strain <italic toggle="yes">B. melitensis</italic> 16M was evaluated. The counting of bacterial colonies in the spleen of vaccinated mice with AH/TBO, Se/TBO NPs, and TBO alone showed a significant increase in immunity levels (<xref rid="T1" ref-type="table">Table 1</xref>). Compared to the control group, mice immunized with AH/TBO and Se/TBO NPs indicated significant reduction of <italic toggle="yes">B. melitensis</italic> 16M culture, respectively. Therefore, AH NPs had a better function in inducing reduction of bacterial culture than Se NPs and TBO alone.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>Brucellosis is an unsolved health problem worldwide, affecting more half a million people annually. To counter this disease, the development of safer and more efficient vaccines seems necessary, and since this requires the creation of protective immunity in animals, so far, many researchers have evaluated their ability to induce immunity by using different <italic toggle="yes">Brucella</italic> proteins [<xref rid="B1" ref-type="bibr">1</xref><xref rid="B3" ref-type="bibr">3</xref><xref rid="B8" ref-type="bibr">8</xref>]. Increasing antigen processing and effective protection of antigens against destruction in the host&#x2019;s body are considered as promising NP features. In addition, they have the ability to stimulate the host&#x2019;s immune system in order to increase immune responses [<xref rid="B22" ref-type="bibr">22</xref>].</p>
+      <p>Se is one of the rare and essential elements with unique antioxidant properties that plays many key roles in various physiological functions, including body metabolism, anti-cancer and anti-viral effects, and cellular homeostasis. Recently, with the discovery of their effective performance in the field of drug delivery and usability in the targeted drug delivery system, they have been used as vaccine adjuvants [<xref rid="B23" ref-type="bibr">23</xref><xref rid="B24" ref-type="bibr">24</xref><xref rid="B25" ref-type="bibr">25</xref><xref rid="B26" ref-type="bibr">26</xref>].</p>
+      <p>Among the various adjuvants, aluminum-based adjuvants are licensed by the U.S. Food and Drug Administration for use in human vaccines. In 1926, Glenny [<xref rid="B27" ref-type="bibr">27</xref>] found that aluminum-deposited diphtheria toxin was more immunogenic than toxoid alone. This study pioneered the use of aluminum compounds in vaccines as adjuvants. Nano-scale AH can be used as a promising material to enhance the antigenicity of vaccines as an effective adjuvant [<xref rid="B28" ref-type="bibr">28</xref><xref rid="B29" ref-type="bibr">29</xref>].</p>
+      <p>In this study as part of an ongoing project, three <italic toggle="yes">Brucella</italic> antigens as a chimeric protein containing TBO were used in combination with AH and Se NPs as adjuvants against brucellosis.</p>
+      <p>In general, it has been proven in many studies that multi-antigen (chimeric) vaccines can induce better protection than monovalent vaccines [<xref rid="B20" ref-type="bibr">20</xref>]. For this reason, in previous investigations, the potential of the three antigenic components of <italic toggle="yes">Brucella</italic>, both alone and chimeric, has been evaluated in order to induce efficient immunity [<xref rid="B1" ref-type="bibr">1</xref><xref rid="B20" ref-type="bibr">20</xref><xref rid="B30" ref-type="bibr">30</xref>].</p>
+      <p>
+<italic toggle="yes">In silico</italic> analysis by Ghasemi et al. [<xref rid="B31" ref-type="bibr">31</xref>] showed the efficiency of these antigens in inducing immune responses mediated by B cells and T cells, which is an important feature for protective vaccines against brucellosis. Our results also showed that the use of TBO chimeric antigen can induce high levels of IgG antibodies. Thus, the serum of immunized mice contained significant amounts of IgG anti-TBO. These results are in complete agreement with the studies of Karevan et al. [<xref rid="B1" ref-type="bibr">1</xref>], which showed that the antigens in the form of fusion were able to induce a high titer of IgG antibodies without any negative effects on each other. In another study, Ghasemi et al. [<xref rid="B32" ref-type="bibr">32</xref>] used rabbit models to evaluate the efficacy of TBO recombinant protein. The results of their studies showed that the immunized rabbit pool serum strongly reacted with recombinant TBO. In addition, antibodies against recombinant TBO were detectable in 76.5% of sera obtained from <italic toggle="yes">Brucella</italic>-infected humans. These results indicate the efficiency of TBO protein in different hosts [<xref rid="B32" ref-type="bibr">32</xref>].</p>
+      <p>Although subunit vaccines are a good alternative to current vaccines and solve their limitations, their main problem is poor immunogenicity, and since the goal of vaccination is to achieve strong immune responses and long-term protection, researchers are trying to solve these problems [<xref rid="B27" ref-type="bibr">27</xref><xref rid="B33" ref-type="bibr">33</xref>]. It is necessary to add an adjuvant to most of the subunit vaccine formulations to optimize their induced immunity. Adjuvant-based vaccines have unique advantages such as increasing the speed and intensity of immune responses, inducing longer and broader immune responses, the possibility of reducing the dose of antigen during immunization, and improving vaccine performance in people with a weak immune system. Therefore, the availability of efficient and safe adjuvants has always been considered [<xref rid="B18" ref-type="bibr">18</xref><xref rid="B34" ref-type="bibr">34</xref>].</p>
+      <p>Currently, the benefits of using NPs as adjuvants have been proven in many studies. They can protect vaccine antigens from degradation (vaccine stability) or take antigens to specific sites and facilitate their uptake and processing by antigen-presenting cells. Appropriate adjuvants must be carefully selected to induce optimal and balanced immune responses [<xref rid="B18" ref-type="bibr">18</xref><xref rid="B35" ref-type="bibr">35</xref>]. One of the most commonly used adjuvants is aluminum salts, which mainly include AH, potassium aluminum sulfate, or aluminum phosphate particles. The widespread use of the adjuvant is due to its low price and high immunogenicity, which has caused these materials to be used in vaccines such as those for diphtheria, tetanus, hepatitis A and B, rabies, etc. for many years. However, they have disadvantages such as allergic responses caused by immunoglobulin E, occasional induction of local reactions and inflammation, and failure to induce cytotoxic T lymphocyte stimulatory responses. Also, aluminum salts mainly elicit humoral immune responses (type 2 T-helper [Th2]/IgG1), although they are able to create cellular responses (type 1 T-helper [Th1]/IgG2a) with less intensity [<xref rid="B22" ref-type="bibr">22</xref><xref rid="B28" ref-type="bibr">28</xref><xref rid="B33" ref-type="bibr">33</xref>].</p>
+      <p>The AH/TBO NPs recombinant vaccine clearly enhanced IgG1 responses, according to our findings. These results are consistent with previous studies that showed that AH NPs as adjuvants induce strong humoral immune responses. As a result, in the study by Abkar et al. [<xref rid="B22" ref-type="bibr">22</xref>], the use of AH/Omp31 NPs was able to induce IgG1 antibody responses. Also, the results of Pagheh et al. [<xref rid="B36" ref-type="bibr">36</xref>] showed the induction of high levels of IgG1 and humoral immunity (Th2) by AH NPs in the pcGRA14+rGRA14-AHPNs vaccine formulation.</p>
+      <p>In general, the success of subunit vaccines depends on their composition and route of immunization. It has been shown in many studies that both IgG2a and IgG1 titers are sensitive to the route of immunization, and the composition and type of vaccine regime can affect its strategy to induce cellular and humoral immune responses [<xref rid="B6" ref-type="bibr">6</xref><xref rid="B36" ref-type="bibr">36</xref>]. Our results were in opposition to the results of Yousefi et al. [<xref rid="B37" ref-type="bibr">37</xref>], who showed that the use of AH NPs together with Omp25 (Brucella outer membrane protein) elicits a greater cellular immune response than humoral immunity from the i.p. injection route. The reason for this difference is probably related to their different immunization routes. This issue has been proven in previous studies, such as that by Abkar et al. [<xref rid="B4" ref-type="bibr">4</xref>], who showed that i.p. immunization with TMC/Omp19 NPs stimulated a Th2 immune response, while oral immunization with TMC/Omp19 NPs induced a mixed Th1/Th17 immune response. Therefore, the route of administration plays an important role in the type of immune response. In fact, the choice of immunization route is an important factor in the success or failure of vaccine development. An incorrect pathway can render an antigen ineffective or reduce its efficacy, even though the same antigen can be highly effective in other immunization pathways [<xref rid="B4" ref-type="bibr">4</xref>].</p>
+      <p>In addition to the route of administration, the type of selected antigen also plays an important role in the immune response, so the use of AH NPs together with EsxV antigen by Amini et al. [<xref rid="B29" ref-type="bibr">29</xref>] in the route of s.c. injection was able to increase the secretion of Th1 cytokines and stimulate a strong cellular immune response. Despite the administration route being similar to the present study, the results were contradictory. The possible reason for this is the difference in the antigens used. Abkar et al. [<xref rid="B8" ref-type="bibr">8</xref>] found that i.p. administration of TMC/Omp19 NPs induced Th2 immune responses, whereas i.p. administration of TMC/Urease NPs induced Th1/Th2 immune responses. These findings clearly demonstrate the importance of antigen in the type of immune response. Hence, different antigens and delivery systems show different results in inducing immune responses.</p>
+      <p>Both types of immune response (humoral and cellular) can have important effects on fighting and eliminating intracellular pathogens such as <italic toggle="yes">Brucella</italic>. For this reason, the host&#x2019;s immune responses play a key role in the fate of the infection [<xref rid="B36" ref-type="bibr">36</xref><xref rid="B38" ref-type="bibr">38</xref>]. Due to their ability to absorb and transport antigens to lymph nodes and activate T cells, dendritic cells (DCs) play an important role in the initiation of immune responses. Therefore, effective stimulation of T cells requires efficient signals from DCs. In research conducted by Sokolovska et al. [<xref rid="B39" ref-type="bibr">39</xref>], the effects of AH adjuvants on antigens, the expression of important immune molecules by DCs, and their ability to induce the differentiation of T-helper cells were evaluated. Their results showed that AH adjuvants can increase the efficiency and activation ability of T cells through DCs and increase the absorption and efficiency of antigens. This plays an important role in creating Th1 and Th2 responses [<xref rid="B39" ref-type="bibr">39</xref>].</p>
+      <p>Due to their excellent biological properties, low toxicity, high bioavailability, and targeted drug system, Se NPs have attracted a lot of attention in recent years. Se NPs are made in the laboratory both chemically and biologically, and during the many studies that have been done, their effectiveness in stimulating the immune system has been proven by various methods such as innate immunity, T cells, and natural killer cells [<xref rid="B25" ref-type="bibr">25</xref><xref rid="B26" ref-type="bibr">26</xref>].</p>
+      <p>In this study, our results showed that s.c. administration of Se/TBO NPs led to a significant increase in the titer of IgG and induced Th2 protective immune responses. These data were in agreement with the results of Raahati et al. [<xref rid="B25" ref-type="bibr">25</xref>], who showed that the use of Se NPs could induce significant IgG responses and effectively induce humoral immune responses, so that the immunity created by Se NPs was even higher than the commercial vaccine strain Dukoral. Of course, the use of cytokine assay technique in our study could lead to more accurate conclusions about the type of immune response.</p>
+      <p>Recent studies showed that the use of Se NPs in hepatitis B and breast cancer vaccines administered via the oral route was able to increase the total antibody titer (IgG) and induce strong cellular immunity (Th1), which was not consistent with our results [<xref rid="B26" ref-type="bibr">26</xref><xref rid="B40" ref-type="bibr">40</xref>]. As mentioned earlier, the reason for these differences can be related to different routes of immunization and delivery of NPs and types of Ag. So far, several studies have been conducted with the aim of increasing the effectiveness of vaccines (by changing the composition and delivery routes), all of which have shown the ability of Se NPs as an adjuvant to induce humoral and cellular protective immunity.</p>
+      <p>Despite the ability of TBO-NPs&#x2019;s chimeric vaccine formulation to increase antibody titers, no significant difference was observed between the groups of mice vaccinated with nano-vaccine compared to the group vaccinated with chimeric protein without adjuvant. However, the amount of bacterial reduction created by Se NPs was statistically equal to protein without adjuvant, while the highest reduction of bacterial culture was created by AH NPs, which was more than the other two groups. According to the obtained results, it seems that protein alone has adjuvant properties, which, of course, needs further investigation. Additionally, using the commercial vaccine strain as a positive control could lead to better conclusions about the efficiency of AH NPs. Altogether, the results showed that Se and AH NPs carrying chimeric antigens can be a promising vaccine candidate against brucellosis by producing protective immunity.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="COI-statement">
+        <p>No potential conflict of interest relevant to this article was reported.</p>
+      </fn>
+      <fn fn-type="supported-by">
+        <p>We would like to express our sincere appreciation to all collaborators in Shahid Ashrafi Esfahani University, Isfahan, Iran and Baqiyatallah University of Medical Sciences, Tehran, Iran for their generous help to conduct this research work.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Karevan</surname><given-names>G</given-names></name>
+<name><surname>Ahmadi</surname><given-names>K</given-names></name>
+<name><surname>Taheri</surname><given-names>RA</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+</person-group>
+          <article-title>Immunogenicity of glycine nanoparticles containing a chimeric antigen as brucella vaccine candidate</article-title>
+          <source>Clin Exp Vaccine Res</source>
+          <year>2021</year>
+          <volume>10</volume>
+          <fpage>35</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">33628752</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Maleki</surname><given-names>M</given-names></name>
+<name><surname>Salouti</surname><given-names>M</given-names></name>
+<name><surname>Shafiee Ardestani</surname><given-names>M</given-names></name>
+<name><surname>Talebzadeh</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>Preparation of a nanovaccine against brucella melitensis M16 based on PLGA nanoparticles and oligopolysaccharide antigen</article-title>
+          <source>Artif Cells Nanomed Biotechnol</source>
+          <year>2019</year>
+          <volume>47</volume>
+          <fpage>4248</fpage>
+          <lpage>4256</lpage>
+          <pub-id pub-id-type="pmid">31718300</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sadeghi</surname><given-names>Z</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+<name><surname>Azizi</surname><given-names>M</given-names></name>
+<name><surname>Bouzari</surname><given-names>S</given-names></name>
+</person-group>
+          <article-title>Mannosylated chitosan nanoparticles loaded with FliC antigen as a novel vaccine candidate against brucella melitensis and brucella abortus infection</article-title>
+          <source>J Biotechnol</source>
+          <year>2020</year>
+          <volume>310</volume>
+          <fpage>89</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="pmid">32017955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abkar</surname><given-names>M</given-names></name>
+<name><surname>Lotfi</surname><given-names>AS</given-names></name>
+<name><surname>Amani</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Survey of Omp19 immunogenicity against Brucella abortus and Brucella melitensis: influence of nanoparticulation versus traditional immunization</article-title>
+          <source>Vet Res Commun</source>
+          <year>2015</year>
+          <volume>39</volume>
+          <fpage>217</fpage>
+          <lpage>228</lpage>
+          <pub-id pub-id-type="pmid">26395469</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Shim</surname><given-names>S</given-names></name>
+<name><surname>Soh</surname><given-names>SH</given-names></name>
+<name><surname>Im</surname><given-names>YB</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Elicitation of Th1/Th2 related responses in mice by chitosan nanoparticles loaded with brucella abortus malate dehydrogenase, outer membrane proteins 10 and 19</article-title>
+          <source>Int J Med Microbiol</source>
+          <year>2020</year>
+          <volume>310</volume>
+          <elocation-id>151362</elocation-id>
+          <pub-id pub-id-type="pmid">31676233</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abkar</surname><given-names>M</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+<name><surname>Kooshki</surname><given-names>H</given-names></name>
+<name><surname>Sahebghadam Lotfi</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>Oral immunization of mice with Omp31-loaded N-trimethyl chitosan nanoparticles induces high protection against brucella melitensis infection</article-title>
+          <source>Int J Nanomedicine</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <fpage>8769</fpage>
+          <lpage>8778</lpage>
+          <pub-id pub-id-type="pmid">29263667</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Razei</surname><given-names>A</given-names></name>
+<name><surname>Cheraghali</surname><given-names>AM</given-names></name>
+<name><surname>Saadati</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Gentamicin-loaded chitosan nanoparticles improve its therapeutic effects on brucella-infected J774A.1 murine cells</article-title>
+          <source>Galen Med J</source>
+          <year>2019</year>
+          <volume>8</volume>
+          <elocation-id>e1296</elocation-id>
+          <pub-id pub-id-type="pmid">34466489</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abkar</surname><given-names>M</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+<name><surname>Kooshki</surname><given-names>H</given-names></name>
+<name><surname>Lotfi</surname><given-names>AS</given-names></name>
+</person-group>
+          <article-title>Intraperitoneal immunization with urease loaded N-trimethyl chitosan nanoparticles elicits high protection against brucella melitensis and brucella abortus infections</article-title>
+          <source>Immunol Lett</source>
+          <year>2018</year>
+          <volume>199</volume>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="pmid">29548705</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abdollahi</surname><given-names>A</given-names></name>
+<name><surname>Mansouri</surname><given-names>S</given-names></name>
+<name><surname>Amani</surname><given-names>J</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+<name><surname>Moradi</surname><given-names>M</given-names></name>
+</person-group>
+          <article-title>Immunoreactivity evaluation of a new recombinant chimeric protein against brucella in the murine model</article-title>
+          <source>Iran J Microbiol</source>
+          <year>2016</year>
+          <volume>8</volume>
+          <fpage>193</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="pmid">27928487</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kaushik</surname><given-names>P</given-names></name>
+<name><surname>Singh</surname><given-names>DK</given-names></name>
+<name><surname>Kumar</surname><given-names>SV</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Protection of mice against brucella abortus 544 challenge by vaccination with recombinant OMP28 adjuvanted with CpG oligonucleotides</article-title>
+          <source>Vet Res Commun</source>
+          <year>2010</year>
+          <volume>34</volume>
+          <fpage>119</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="pmid">20013309</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Huy</surname><given-names>TX</given-names></name>
+<name><surname>Nguyen</surname><given-names>TT</given-names></name>
+<name><surname>Reyes</surname><given-names>AW</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immunization with a combination of four recombinant brucella abortus proteins Omp16, Omp19, Omp28, and L7/L12 induces T helper 1 immune response against virulent B. abortus 544 infection in BALB/c mice</article-title>
+          <source>Front Vet Sci</source>
+          <year>2021</year>
+          <volume>7</volume>
+          <elocation-id>577026</elocation-id>
+          <pub-id pub-id-type="pmid">33553273</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Salari</surname><given-names>MH</given-names></name>
+<name><surname>Zarnani</surname><given-names>AH</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immune reactivity of brucella melitensis-vaccinated rabbit serum with recombinant Omp31 and DnaK proteins</article-title>
+          <source>Iran J Microbiol</source>
+          <year>2013</year>
+          <volume>5</volume>
+          <fpage>19</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="pmid">23467315</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>L</given-names></name>
+<name><surname>Wu</surname><given-names>CX</given-names></name>
+<name><surname>Zheng</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immunogenic response to a recombinant pseudorabies virus carrying bp26 gene of brucella melitensis in mice</article-title>
+          <source>Res Vet Sci</source>
+          <year>2015</year>
+          <volume>100</volume>
+          <fpage>61</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="pmid">25890577</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Onate</surname><given-names>AA</given-names></name>
+<name><surname>Cespedes</surname><given-names>S</given-names></name>
+<name><surname>Cabrera</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+          <article-title>A DNA vaccine encoding Cu,Zn superoxide dismutase of brucella abortus induces protective immunity in BALB/c mice</article-title>
+          <source>Infect Immun</source>
+          <year>2003</year>
+          <volume>71</volume>
+          <fpage>4857</fpage>
+          <lpage>4861</lpage>
+          <pub-id pub-id-type="pmid">12933826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Estein</surname><given-names>SM</given-names></name>
+<name><surname>Cheves</surname><given-names>PC</given-names></name>
+<name><surname>Fiorentino</surname><given-names>MA</given-names></name>
+<name><surname>Cassataro</surname><given-names>J</given-names></name>
+<name><surname>Paolicchi</surname><given-names>FA</given-names></name>
+<name><surname>Bowden</surname><given-names>RA</given-names></name>
+</person-group>
+          <article-title>Immunogenicity of recombinant Omp31 from brucella melitensis in rams and serum bactericidal activity against B. ovis</article-title>
+          <source>Vet Microbiol</source>
+          <year>2004</year>
+          <volume>102</volume>
+          <fpage>203</fpage>
+          <lpage>213</lpage>
+          <pub-id pub-id-type="pmid">15327795</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Cassataro</surname><given-names>J</given-names></name>
+<name><surname>Velikovsky</surname><given-names>CA</given-names></name>
+<name><surname>Bruno</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Improved immunogenicity of a vaccination regimen combining a DNA vaccine encoding brucella melitensis outer membrane protein 31 (Omp31) and recombinant Omp31 boosting</article-title>
+          <source>Clin Vaccine Immunol</source>
+          <year>2007</year>
+          <volume>14</volume>
+          <fpage>869</fpage>
+          <lpage>874</lpage>
+          <pub-id pub-id-type="pmid">17428946</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Cassataro</surname><given-names>J</given-names></name>
+<name><surname>Pasquevich</surname><given-names>KA</given-names></name>
+<name><surname>Estein</surname><given-names>SM</given-names></name>
+<etal/>
+</person-group>
+          <article-title>A recombinant subunit vaccine based on the insertion of 27 amino acids from Omp31 to the N-terminus of BLS induced a similar degree of protection against B. ovis than Rev.1 vaccination</article-title>
+          <source>Vaccine</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <fpage>4437</fpage>
+          <lpage>4446</lpage>
+          <pub-id pub-id-type="pmid">17442465</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Clausse</surname><given-names>M</given-names></name>
+<name><surname>Diaz</surname><given-names>AG</given-names></name>
+<name><surname>Ghersi</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The vaccine candidate BLSOmp31 protects mice against brucella canis infection</article-title>
+          <source>Vaccine</source>
+          <year>2013</year>
+          <volume>31</volume>
+          <fpage>6129</fpage>
+          <lpage>6135</lpage>
+          <pub-id pub-id-type="pmid">23906889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Masjedian Jezi</surname><given-names>F</given-names></name>
+<name><surname>Razavi</surname><given-names>S</given-names></name>
+<name><surname>Mirnejad</surname><given-names>R</given-names></name>
+<name><surname>Zamani</surname><given-names>K</given-names></name>
+</person-group>
+          <article-title>Immunogenic and protective antigens of brucella as vaccine candidates</article-title>
+          <source>Comp Immunol Microbiol Infect Dis</source>
+          <year>2019</year>
+          <volume>65</volume>
+          <fpage>29</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="pmid">31300122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Jeddi-Tehrani</surname><given-names>M</given-names></name>
+<name><surname>Mautner</surname><given-names>J</given-names></name>
+<name><surname>Salari</surname><given-names>MH</given-names></name>
+<name><surname>Zarnani</surname><given-names>AH</given-names></name>
+</person-group>
+          <article-title>Simultaneous immunization of mice with Omp31 and TF provides protection against brucella melitensis infection</article-title>
+          <source>Vaccine</source>
+          <year>2015</year>
+          <volume>33</volume>
+          <fpage>5532</fpage>
+          <lpage>5538</lpage>
+          <pub-id pub-id-type="pmid">26384448</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X</given-names></name>
+<name><surname>Walters</surname><given-names>N</given-names></name>
+<name><surname>Robison</surname><given-names>A</given-names></name>
+<name><surname>Trunkle</surname><given-names>T</given-names></name>
+<name><surname>Pascual</surname><given-names>DW</given-names></name>
+</person-group>
+          <article-title>Nasal immunization with recombinant brucella melitensis bp26 and trigger factor with cholera toxin reduces B. melitensis colonization</article-title>
+          <source>Vaccine</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <fpage>2261</fpage>
+          <lpage>2268</lpage>
+          <pub-id pub-id-type="pmid">17239499</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abkar</surname><given-names>M</given-names></name>
+<name><surname>Alamian</surname><given-names>S</given-names></name>
+<name><surname>Sattarahmady</surname><given-names>N</given-names></name>
+</person-group>
+          <article-title>A comparison between adjuvant and delivering functions of calcium phosphate, aluminum hydroxide and chitosan nanoparticles, using a model protein of brucella melitensis Omp31</article-title>
+          <source>Immunol Lett</source>
+          <year>2019</year>
+          <volume>207</volume>
+          <fpage>28</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="pmid">30707922</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rana</surname><given-names>T</given-names></name>
+</person-group>
+          <article-title>Nano-selenium on reproduction and immunocompetence: an emerging progress and prospect in the productivity of poultry research</article-title>
+          <source>Trop Anim Health Prod</source>
+          <year>2021</year>
+          <volume>53</volume>
+          <elocation-id>324</elocation-id>
+          <pub-id pub-id-type="pmid">33991248</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Molanouri Shamsi</surname><given-names>M</given-names></name>
+<name><surname>Chekachak</surname><given-names>S</given-names></name>
+<name><surname>Soudi</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Effects of exercise training and supplementation with selenium nanoparticle on T-helper 1 and 2 and cytokine levels in tumor tissue of mice bearing the 4 T1 mammary carcinoma</article-title>
+          <source>Nutrition</source>
+          <year>2019</year>
+          <volume>57</volume>
+          <fpage>141</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="pmid">30170303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Raahati</surname><given-names>Z</given-names></name>
+<name><surname>Bakhshi</surname><given-names>B</given-names></name>
+<name><surname>Najar-Peerayeh</surname><given-names>S</given-names></name>
+</person-group>
+          <article-title>Selenium nanoparticles induce potent protective immune responses against vibrio cholerae WC vaccine in a mouse model</article-title>
+          <source>J Immunol Res</source>
+          <year>2020</year>
+          <volume>2020</volume>
+          <elocation-id>8874288</elocation-id>
+          <pub-id pub-id-type="pmid">33490291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mahdavi</surname><given-names>M</given-names></name>
+<name><surname>Mavandadnejad</surname><given-names>F</given-names></name>
+<name><surname>Yazdi</surname><given-names>MH</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Oral administration of synthetic selenium nanoparticles induced robust Th1 cytokine pattern after HBs antigen vaccination in mouse model</article-title>
+          <source>J Infect Public Health</source>
+          <year>2017</year>
+          <volume>10</volume>
+          <fpage>102</fpage>
+          <lpage>109</lpage>
+          <pub-id pub-id-type="pmid">27026241</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Glenny</surname><given-names>AT</given-names></name>
+</person-group>
+          <article-title>The antigenic value of toxoid precipitated by potassium alum</article-title>
+          <source>J Pathol Bacteriol</source>
+          <year>1926</year>
+          <volume>29</volume>
+          <fpage>38</fpage>
+          <lpage>40</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gogoi</surname><given-names>H</given-names></name>
+<name><surname>Mani</surname><given-names>R</given-names></name>
+<name><surname>Malik</surname><given-names>A</given-names></name>
+<name><surname>Sehrawat</surname><given-names>P</given-names></name>
+<name><surname>Bhatnagar</surname><given-names>R</given-names></name>
+</person-group>
+          <article-title>Co-administration of aluminium hydroxide nanoparticles and protective antigen domain 4 encapsulated non-ionic surfactant vesicles show enhanced immune response and superior protection against anthrax</article-title>
+          <source>Vaccines (Basel)</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <elocation-id>571</elocation-id>
+          <pub-id pub-id-type="pmid">33019545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Amini</surname><given-names>Y</given-names></name>
+<name><surname>Moradi</surname><given-names>B</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+</person-group>
+          <article-title>Aluminum hydroxide nanoparticles show strong activity to stimulate Th-1 immune response against tuberculosis</article-title>
+          <source>Artif Cells Nanomed Biotechnol</source>
+          <year>2017</year>
+          <volume>45</volume>
+          <fpage>1331</fpage>
+          <lpage>1335</lpage>
+          <pub-id pub-id-type="pmid">27647321</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Amani</surname><given-names>J</given-names></name>
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Ranjbar</surname><given-names>R</given-names></name>
+<name><surname>Shabani</surname><given-names>M</given-names></name>
+<name><surname>Zandemami</surname><given-names>M</given-names></name>
+<name><surname>Golmohammadi</surname><given-names>R</given-names></name>
+</person-group>
+          <article-title>Immune reactivity of sera obtained from brucellosis patients and vaccinated-rabbits to a fusion protein from brucella melitensis</article-title>
+          <source>Iran J Basic Med Sci</source>
+          <year>2015</year>
+          <volume>18</volume>
+          <fpage>350</fpage>
+          <lpage>355</lpage>
+          <pub-id pub-id-type="pmid">26019797</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Ranjbar</surname><given-names>R</given-names></name>
+<name><surname>Amani</surname><given-names>J</given-names></name>
+</person-group>
+          <article-title>In silico analysis of chimeric TF, Omp31 and BP26 fragments of brucella melitensis for development of a multi subunit vaccine candidate</article-title>
+          <source>Iran J Basic Med Sci</source>
+          <year>2014</year>
+          <volume>17</volume>
+          <fpage>172</fpage>
+          <lpage>180</lpage>
+          <pub-id pub-id-type="pmid">24847419</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Salari</surname><given-names>MH</given-names></name>
+<name><surname>Zarnani</surname><given-names>AH</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immunogenicity assessment of brucella mellitensis HSP and TF proteins by immunized rabbit serum</article-title>
+          <source>Iran J Allergy Asthma Immunol</source>
+          <year>2013</year>
+          <volume>12</volume>
+          <fpage>192</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="pmid">23754360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>He</surname><given-names>P</given-names></name>
+<name><surname>Zou</surname><given-names>Y</given-names></name>
+<name><surname>Hu</surname><given-names>Z</given-names></name>
+</person-group>
+          <article-title>Advances in aluminum hydroxide-based adjuvant research and its mechanism</article-title>
+          <source>Hum Vaccin Immunother</source>
+          <year>2015</year>
+          <volume>11</volume>
+          <fpage>477</fpage>
+          <lpage>488</lpage>
+          <pub-id pub-id-type="pmid">25692535</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Morcol</surname><given-names>T</given-names></name>
+<name><surname>Hurst</surname><given-names>BL</given-names></name>
+<name><surname>Tarbet</surname><given-names>EB</given-names></name>
+</person-group>
+          <article-title>Calcium phosphate nanoparticle (CaPNP) for dose-sparing of inactivated whole virus pandemic influenza A (H1N1) 2009 vaccine in mice</article-title>
+          <source>Vaccine</source>
+          <year>2017</year>
+          <volume>35</volume>
+          <issue>35 Pt B</issue>
+          <fpage>4569</fpage>
+          <lpage>4577</lpage>
+          <pub-id pub-id-type="pmid">28716554</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Morcol</surname><given-names>T</given-names></name>
+<name><surname>Nagappan</surname><given-names>P</given-names></name>
+<name><surname>Bell</surname><given-names>SJ</given-names></name>
+<name><surname>Cawthon</surname><given-names>AG</given-names></name>
+</person-group>
+          <article-title>Influenza A(H5N1) virus subunit vaccine administered with CaPNP adjuvant induce high virus neutralization antibody titers in mice</article-title>
+          <source>AAPS PharmSciTech</source>
+          <year>2019</year>
+          <volume>20</volume>
+          <elocation-id>315</elocation-id>
+          <pub-id pub-id-type="pmid">31591662</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pagheh</surname><given-names>AS</given-names></name>
+<name><surname>Sarvi</surname><given-names>S</given-names></name>
+<name><surname>Gholami</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Protective efficacy induced by DNA prime and recombinant protein boost vaccination with Toxoplasma gondii GRA14 in mice</article-title>
+          <source>Microb Pathog</source>
+          <year>2019</year>
+          <volume>134</volume>
+          <elocation-id>103601</elocation-id>
+          <pub-id pub-id-type="pmid">31212035</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yousefi</surname><given-names>S</given-names></name>
+<name><surname>Abbassi-Daloii</surname><given-names>T</given-names></name>
+<name><surname>Tahmoorespur</surname><given-names>M</given-names></name>
+<name><surname>Sekhavati</surname><given-names>MH</given-names></name>
+</person-group>
+          <article-title>Nanoparticle or conventional adjuvants: which one improves immune response against Brucellosis?</article-title>
+          <source>Iran J Basic Med Sci</source>
+          <year>2019</year>
+          <volume>22</volume>
+          <fpage>360</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="pmid">31168339</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Shojaei</surname><given-names>M</given-names></name>
+<name><surname>Tahmoorespur</surname><given-names>M</given-names></name>
+<name><surname>Soltani</surname><given-names>M</given-names></name>
+<name><surname>Sekhavati</surname><given-names>MH</given-names></name>
+</person-group>
+          <article-title>Immunogenicity evaluation of plasmids encoding Brucella melitensis Omp25 and Omp31 antigens in BALB/c mice</article-title>
+          <source>Iran J Basic Med Sci</source>
+          <year>2018</year>
+          <volume>21</volume>
+          <fpage>957</fpage>
+          <lpage>964</lpage>
+          <pub-id pub-id-type="pmid">30524697</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sokolovska</surname><given-names>A</given-names></name>
+<name><surname>Hem</surname><given-names>SL</given-names></name>
+<name><surname>HogenEsch</surname><given-names>H</given-names></name>
+</person-group>
+          <article-title>Activation of dendritic cells and induction of CD4(+) T cell differentiation by aluminum-containing adjuvants</article-title>
+          <source>Vaccine</source>
+          <year>2007</year>
+          <volume>25</volume>
+          <fpage>4575</fpage>
+          <lpage>4585</lpage>
+          <pub-id pub-id-type="pmid">17485153</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dodangeh</surname><given-names>S</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M</given-names></name>
+<name><surname>Daryani</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Protective efficacy by a novel multi-epitope vaccine, including MIC3, ROP8, and SAG1, against acute Toxoplasma gondii infection in BALB/c mice</article-title>
+          <source>Microb Pathog</source>
+          <year>2021</year>
+          <volume>153</volume>
+          <elocation-id>104764</elocation-id>
+          <pub-id pub-id-type="pmid">33548480</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="F1">
+      <label>Fig. 1</label>
+      <caption>
+        <title>Characterization of trigger factor/Bp26/Omp31 (TBO) expression. <bold>(A)</bold> The measurement of TBO chimeric protein was performed by the sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) method. Lane 1 of <italic toggle="yes">Escherichia coli</italic> bacteria containing the recombinant TBO (rTBO) gene after induction of expression with isopropyl-d-1-thiogalactopyranoside (IPTG). Lane 2 cell lysates before induction of expression with IPTG (negative control). Lane 3 and 4 <italic toggle="yes">E. coli</italic> bacteria express the different proteins as a positive control of expression. <bold>(B)</bold> A Western blot using an anti-His antibody showed a single band with the expected size of rTBO; lane 1 illustrates the IPTG-induced <italic toggle="yes">E. coli</italic> that contained pET28a-<italic toggle="yes">tbo</italic>. Lane 2 defines uninduced <italic toggle="yes">E. coli</italic>. <bold>(C)</bold> Analysis of the purified protein with SDS-PAGE ensures the correctness of the protein purification steps. M, protein size marker</title>
+      </caption>
+      <graphic xlink:href="cevr-12-304-g001" position="float"/>
+    </fig>
+    <fig position="float" id="F2">
+      <label>Fig. 2</label>
+      <caption>
+        <title>Scanning electron microscopy images of selenium nanoparticles (Se NPs) <bold>(A)</bold> and aluminum hydroxide nanoparticles (AH NPs) <bold>(B)</bold>.</title>
+      </caption>
+      <graphic xlink:href="cevr-12-304-g002" position="float"/>
+    </fig>
+    <fig position="float" id="F3">
+      <label>Fig. 3</label>
+      <caption>
+        <title>Anti-trigger factor/Bp26/Omp31 (TBO) antibody levels: an enzyme-linked immunosorbent assay was conducted to analyze the sera in triplicates for aluminum hydroxide (AH)/TBO, selenium (Se)/TBO, and TBO protein without adjuvant-specific immunoglobulin G (IgG) antibodies with comparison to the negative control group. The IgG titration results in the sera of all four groups after each blood sampling on days 15, 30, and 45, respectively. OD, optical density; NP, nanoparticle.</title>
+      </caption>
+      <graphic xlink:href="cevr-12-304-g003" position="float"/>
+    </fig>
+    <fig position="float" id="F4">
+      <label>Fig. 4</label>
+      <caption>
+        <title>Evaluation of immunoglobulin G (IgG)2a/IgG1 antibody ratio to specify the type of immune responses. Se, selenium; AH, aluminum hydroxide; Pr, TBO protein alone.</title>
+      </caption>
+      <graphic xlink:href="cevr-12-304-g004" position="float"/>
+    </fig>
+    <table-wrap position="float" id="T1">
+      <label>Table 1</label>
+      <caption>
+        <title>The context of bacteria in spleens</title>
+      </caption>
+      <alternatives>
+        <graphic xlink:href="cevr-12-304-i001" position="float"/>
+        <table frame="hsides" rules="rows">
+          <col width="26.6%" span="1"/>
+          <col width="44.68%" span="1"/>
+          <col width="28.72%" span="1"/>
+          <thead>
+            <tr>
+              <th valign="middle" align="left" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">Studied groups</th>
+              <th valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">log<sub>10</sub> CFU of <italic toggle="yes">Brucella melitensis</italic> 16M in spleen</th>
+              <th valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">Units of bacterial reduction</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td valign="middle" align="left" rowspan="1" colspan="1">Negative control (PBS)</td>
+              <td valign="middle" align="center" rowspan="1" colspan="1">14.50<sup>a</sup></td>
+              <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+            </tr>
+            <tr>
+              <td valign="middle" align="left" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">Se/TBO NPs</td>
+              <td valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">8.13<sup>b</sup></td>
+              <td valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">6.37</td>
+            </tr>
+            <tr>
+              <td valign="middle" align="left" rowspan="1" colspan="1">AH/TBO NPs</td>
+              <td valign="middle" align="center" rowspan="1" colspan="1">2.50<sup>c</sup></td>
+              <td valign="middle" align="center" rowspan="1" colspan="1">12.00</td>
+            </tr>
+            <tr>
+              <td valign="middle" align="left" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">TBO</td>
+              <td valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">8.88<sup>b</sup></td>
+              <td valign="middle" align="center" rowspan="1" colspan="1" style="background-color:rgb(255,236,218)">5.62</td>
+            </tr>
+          </tbody>
+        </table>
+      </alternatives>
+      <table-wrap-foot>
+        <fn>
+          <p>The context of bacteria in spleens is indicated as the mean log CFU&#xB1;standard deviation per group. The difference between groups was assessed by the Kruskal-Wallis test and comparisons were considered significant at p&#x2264;0.05. Different letters (a, b, and c) represent significant difference between groups. Units of bacterial reduction were determined by deducting the mean log CFU of the vaccinated groups from the mean log CFU of negative control groups.</p>
+          <p>CFU, colony-forming unit; PBS, phosphate-buffered saline; Se, selenium; TBO, trigger factor/Bp26/Omp31; NPs, nanoparticles; AH, aluminum hydroxide</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

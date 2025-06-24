@@ -1,0 +1,1284 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Microorganisms</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Microorganisms</journal-id>
+      <journal-id journal-id-type="publisher-id">microorganisms</journal-id>
+      <journal-title-group>
+        <journal-title>Microorganisms</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-2607</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37630638</article-id>
+      <article-id pub-id-type="pmc">10459664</article-id>
+      <article-id pub-id-type="doi">10.3390/microorganisms11082078</article-id>
+      <article-id pub-id-type="publisher-id">microorganisms-11-02078</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic toggle="yes">Brucella abortus</italic> Strain RB51 Administered to Prepubescent Water Buffaloes, from Vaccination to Lactation: Kinetics of Antibody Response and Vaccine Safety</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9811-699X</contrib-id>
+          <name>
+            <surname>De Massis</surname>
+            <given-names>Fabrizio</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2618-6192</contrib-id>
+          <name>
+            <surname>Sacchini</surname>
+            <given-names>Flavio</given-names>
+          </name>
+          <xref rid="c1-microorganisms-11-02078" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D&#x2019;Alterio</surname>
+            <given-names>Nicola</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Migliorati</surname>
+            <given-names>Giacomo</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1454-1687</contrib-id>
+          <name>
+            <surname>Ferri</surname>
+            <given-names>Nicola</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4122-6308</contrib-id>
+          <name>
+            <surname>Rossi</surname>
+            <given-names>Emanuela</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9225-9727</contrib-id>
+          <name>
+            <surname>Averaimo</surname>
+            <given-names>Daniela</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2089-4123</contrib-id>
+          <name>
+            <surname>Petrini</surname>
+            <given-names>Antonio</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8958-0424</contrib-id>
+          <name>
+            <surname>Podaliri Vulpiani</surname>
+            <given-names>Michele</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7477-404X</contrib-id>
+          <name>
+            <surname>Perletta</surname>
+            <given-names>Fabrizia</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rodomonti</surname>
+            <given-names>Diamante</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0866-0869</contrib-id>
+          <name>
+            <surname>Luciani</surname>
+            <given-names>Mirella</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Befacchia</surname>
+            <given-names>Giovanni</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1609-6815</contrib-id>
+          <name>
+            <surname>Maggetti</surname>
+            <given-names>Marta</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Di Febo</surname>
+            <given-names>Tiziana</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2694-2835</contrib-id>
+          <name>
+            <surname>Di Pancrazio</surname>
+            <given-names>Chiara</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0852-2797</contrib-id>
+          <name>
+            <surname>Krasteva</surname>
+            <given-names>Ivanka Marinova</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7456-0073</contrib-id>
+          <name>
+            <surname>Salini</surname>
+            <given-names>Romolo</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vincifori</surname>
+            <given-names>Giacomo</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6380-0898</contrib-id>
+          <name>
+            <surname>Iannetti</surname>
+            <given-names>Simona</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tittarelli</surname>
+            <given-names>Manuela</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Seal</surname>
+            <given-names>Bruce S.</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-microorganisms-11-02078">Istituto Zooprofilattico Sperimentale dell&#x2019;Abruzzo e del Molise, 64100 Teramo, Italy; <email>f.demassis@izs.it</email> (F.D.M.); <email>n.dalterio@izs.it</email> (N.D.); <email>g.migliorati@izs.it</email> (G.M.); <email>n.ferri@izs.it</email> (N.F.); <email>e.rossi@izs.it</email> (E.R.); <email>d.averaimo@izs.it</email> (D.A.); <email>a.petrini@izs.it</email> (A.P.); <email>m.podaliri@izs.it</email> (M.P.V.); <email>f.perletta@izs.it</email> (F.P.); <email>d.rodomonti@izs.it</email> (D.R.); <email>m.luciani@izs.it</email> (M.L.); <email>m.maggetti@izs.it</email> (M.M.); <email>t.difebo@izs.it</email> (T.D.F.); <email>c.dipancrazio@izs.it</email> (C.D.P.); <email>i.krasteva@izs.it</email> (I.M.K.); <email>r.salini@izs.it</email> (R.S.); <email>s.iannetti@izs.it</email> (S.I.); <email>m.tittarelli@izs.it</email> (M.T.)</aff>
+      <author-notes>
+        <corresp id="c1-microorganisms-11-02078"><label>*</label>Correspondence: <email>f.sacchini@izs.it</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>8</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>8</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>8</issue>
+      <elocation-id>2078</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>31</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 by the authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic toggle="yes">Brucella</italic> RB51 is a live modified vaccine. Its use in water buffalo has been proposed using a vaccination protocol different to that used for cattle, but knowledge of the long-term effects of RB51 vaccination in this species remains incomplete. The aim of the study was to evaluate the safety and kinetics of antibody responses in water buffaloes vaccinated according to the protocol described for the bovine species in the WOAH Manual, modified with the use of a triple dose. Water buffaloes were vaccinated with the vaccine RB51. A booster vaccination was administered at 12 months of age. When turning 23&#x2013;25 months old, female animals were induced to pregnancy. RB51-specific antibodies were detected and quantified using a CFT based on the RB51 antigen. Vaccinated animals showed a positive serological reaction following each vaccine injection, but titers and the duration of the antibody differed among animals. For 36 weeks after booster vaccination, the comparison of CFT values between vaccinated and control groups remained constantly significant. Afterwards, antibody titers decreased. No relevant changes in antibody response were recorded during pregnancy or lactation. In conclusion, results indicated that the vaccination schedule applied is safe and allows for vaccinated and unvaccinated controls to be discriminated between for up to 8 months after booster vaccination.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>brucellosis</kwd>
+        <kwd>water buffalo</kwd>
+        <kwd><italic toggle="yes">Brucella abortus</italic> strain RB51</kwd>
+        <kwd>vaccine safety</kwd>
+        <kwd>vaccination</kwd>
+        <kwd>complement fixation test</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Italian Ministry of Health, General Directorate for Animal health and Veterinary Drugs</funding-source>
+          <award-id>IZS AM 09/13 RC</award-id>
+        </award-group>
+        <funding-statement>This study was funded by the Italian Ministry of Health, General Directorate for Animal health and Veterinary Drugs, through the following research project: &#x201C;Buffalo brucellosis (<italic toggle="yes">Bubalus bubalis</italic>): veterinary public health aspects related to the illegal use of the RB51 vaccine and genomic characterization of <italic toggle="yes">Brucella</italic> spp. circulating in the buffalo population&#x201D;, grant code IZS AM 09/13 RC.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-microorganisms-11-02078">
+      <title>1. Introduction</title>
+      <p>Brucellosis is one of the most important zoonotic diseases worldwide and is responsible for heavy economic losses due to late term abortions, stillbirths, and parturition of weakly calves [<xref rid="B1-microorganisms-11-02078" ref-type="bibr">1</xref>]. The disease is also a serious public health problem wherever the infectious agent is present.</p>
+      <p>Water buffalo, particularly in Mediterranean and Asian countries, represent an important livestock due to its high-quality meat and milk. Water buffalo milk is rich in nutrients, including proteins, vitamins, and minerals. It contains a higher fat content and different fatty acid profile compared to cow&#x2019;s milk, making it a valuable source of nutrition for human consumption. It is also used to produce traditional dairy products such as cheese, butter, and Italian buffalo mozzarella. Dairy products derived from water buffalo have economic importance and contribute to human health and nutrition where this species is farmed [<xref rid="B2-microorganisms-11-02078" ref-type="bibr">2</xref>].</p>
+      <p>In Italy, brucellosis in water buffaloes (<italic toggle="yes">Bubalus bubalis</italic>) still today represents a health priority, especially in some areas of the Campania region, where it is the highest. For this reason, in recent years, a series of special measures have been implemented in the attempt to control disease spread in Southern Italian territories including, in particular, the authorization for vaccination according to Ministerial Decree 651/94, with the possibility of using the <italic toggle="yes">Brucella abortus</italic> strain RB51 vaccine in water buffaloes.</p>
+      <p>The RB51 vaccine is a live attenuated, rough variant of the virulent strain <italic toggle="yes">B. abortus</italic> 2308 [<xref rid="B3-microorganisms-11-02078" ref-type="bibr">3</xref>], resistant to Rifampicin, and lacking the side chain O of the LPS. It does not induce the production of antibodies detectable with classical (and official) serological tests such as the Rose Bengal test (RBT) or the complement fixation test (CFT) [<xref rid="B4-microorganisms-11-02078" ref-type="bibr">4</xref>,<xref rid="B5-microorganisms-11-02078" ref-type="bibr">5</xref>,<xref rid="B6-microorganisms-11-02078" ref-type="bibr">6</xref>,<xref rid="B7-microorganisms-11-02078" ref-type="bibr">7</xref>]. In addition, specific antibodies are detected by RB51-CFT performed with the homologous antigen [<xref rid="B8-microorganisms-11-02078" ref-type="bibr">8</xref>]. Therefore, RB51-vaccinated cattle can be easily differentiated from naturally infected animals supporting the application of test-and-slaughter and vaccination policies simultaneously [<xref rid="B9-microorganisms-11-02078" ref-type="bibr">9</xref>]. In cattle, vaccination with RB51 induces an immune response dominated by a Th1 profile where CD8<sup>+</sup> cytotoxic T-cells, IFN-&#x3B3;-producing CD4+ T-cells together with Th17 cell subsets represent the key cell components [<xref rid="B10-microorganisms-11-02078" ref-type="bibr">10</xref>]. Being live attenuated, RB51 may lead to abortion and/or may be shed through milk, when administered to adult pregnant animals [<xref rid="B11-microorganisms-11-02078" ref-type="bibr">11</xref>,<xref rid="B12-microorganisms-11-02078" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-11-02078" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-11-02078" ref-type="bibr">14</xref>,<xref rid="B15-microorganisms-11-02078" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-11-02078" ref-type="bibr">16</xref>,<xref rid="B17-microorganisms-11-02078" ref-type="bibr">17</xref>,<xref rid="B18-microorganisms-11-02078" ref-type="bibr">18</xref>,<xref rid="B19-microorganisms-11-02078" ref-type="bibr">19</xref>]. The strain may also survive in fresh or ripened cheeses [<xref rid="B20-microorganisms-11-02078" ref-type="bibr">20</xref>]. The vaccine strain also has residual pathogenicity for humans [<xref rid="B21-microorganisms-11-02078" ref-type="bibr">21</xref>].</p>
+      <p>The RB51 vaccine has been recorded to be safe and effective in preventing abortion and, therefore, to control the spreading of the infection in cattle (<italic toggle="yes">Bos taurus</italic>) [<xref rid="B22-microorganisms-11-02078" ref-type="bibr">22</xref>]. However, when considering its application in water buffaloes, to date there are no guidelines or protocols recognized at an international level for the use of RB51 in this animal species, and the indications reported in the Manual of Diagnostic Tests and Vaccines of the World Organization for Animal Health (WOAH, founded as OIE) only refer to cattle [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>]. Literature data on use of RB51 vaccine in water buffaloes are scant and controversial. Studies carried out in Trinidad administering single or double the dosage recommended for cattle (1.0&#x2013;3.4 &#xD7; 10<sup>10</sup> UFC), with or without booster, failed to protect water buffaloes from <italic toggle="yes">B. abortus</italic> infection [<xref rid="B24-microorganisms-11-02078" ref-type="bibr">24</xref>,<xref rid="B25-microorganisms-11-02078" ref-type="bibr">25</xref>]. Other studies carried out in Italy suggested that vaccination of pre-pubescent animals using a dose triple the one recommended for cattle followed by a booster vaccination with the same dose after 30 days was able provide a protective immunity [<xref rid="B26-microorganisms-11-02078" ref-type="bibr">26</xref>,<xref rid="B27-microorganisms-11-02078" ref-type="bibr">27</xref>,<xref rid="B28-microorganisms-11-02078" ref-type="bibr">28</xref>].</p>
+      <p>These data suggest that the use of RB51 in water buffaloes requires a different vaccination protocol but also strict compliance with the vaccination schedule. This in order to reduce the risks for both human and animal health due to the possible excretion in milk and induction of abortion in pregnant females [<xref rid="B12-microorganisms-11-02078" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-11-02078" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-11-02078" ref-type="bibr">14</xref>,<xref rid="B19-microorganisms-11-02078" ref-type="bibr">19</xref>]. </p>
+      <p>Side effects such as vaccine shedding and abortion are known to occur when the vaccine is administered to pregnant or lactating animals [<xref rid="B13-microorganisms-11-02078" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-11-02078" ref-type="bibr">14</xref>,<xref rid="B19-microorganisms-11-02078" ref-type="bibr">19</xref>]. Thus, vaccination is recommended at calf hood age but the dosage and vaccination schedule to be applied remain a debated issue with very few and conflicting data available for guidance. </p>
+      <p>As matter of fact, there are a lack of data on the long-term effects of the RB51 vaccine administered as a triple dose to pre-pubescent water buffaloes in terms of immune response (humoral) and possible consequences for critical periods in the epidemiology of brucellosis, namely pregnancy, calving, and lactation. </p>
+      <p>If previous vaccination campaigns in the buffalo species of the Campania territory may have helped to reduce the prevalence of brucellosis, on the other hand, situations of incorrect application of vaccination or its use outside official controls have emerged in this area. The vaccination of adult animals (even pregnant or lactating ones) has been suspected, with possible risks of RB51 shedding in the environment and in the food chain together with difficulties for management of RB51 eliminating animals.</p>
+      <p>Therefore, the illegal use of the RB51 vaccine represents a damage to the <italic toggle="yes">Brucella</italic>-free accreditation status already obtained or to be obtained by farms and territories, where it is applied, and constitutes an important public health issue.</p>
+      <p>This situation made evident some gaps that persist for a thorough understanding of the use of the RB51 vaccine in water buffalo, and which require insights that are more scientifically based. In particular, on some important aspects such as:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The identification of an official vaccination scheme for which the physiological immune response and its duration (from puberty to lactation) are identified and measured;</p>
+        </list-item>
+        <list-item>
+          <p>The identification of diagnostic criteria and protocols to identify any use of the RB51 vaccine outside the prescriptions given by the Competent Authority.</p>
+        </list-item>
+      </list>
+      <p>As regards the development of diagnostic tools able to identify animals vaccinated with RB51, in recent years a protocol has been developed for cattle, based on the use of the specific complement fixation test for RB51 (RB51-CFT) and a test of intradermal reaction with Brucellin antigen, obtained from the homologous vaccine strain [<xref rid="B29-microorganisms-11-02078" ref-type="bibr">29</xref>]. This diagnostic protocol was also found to be effective in the buffalo species [<xref rid="B30-microorganisms-11-02078" ref-type="bibr">30</xref>] when using the commercial Brucellin (Brucellergene OCB<sup>&#xAE;</sup> Synbiotics Corporation, Lyon, France), instead of homologous Brucellin. </p>
+      <p>The aim of the study was to characterize in the long-term the physiological immune response induced by RB51 vaccination in water buffaloes, adapting the vaccination schedule for cattle as reported in the WOAH Manual of Diagnostic Tests and Vaccines for Terrestrial Animals [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>], modified with the use of a triple dose. Moreover, the study aimed to assess the possible spreading of the vaccine strain from vaccinated to unvaccinated animals, under different physiological conditions. The onset and persistence of RB51-specific antibodies following vaccination, possible microbiological risks related to vaccine spreading, and the performance of RB51-CFT on a buffalo population not vaccinated with RB51 and officially free from brucellosis were also investigated.</p>
+    </sec>
+    <sec id="sec2-microorganisms-11-02078">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-microorganisms-11-02078">
+        <title>2.1. Animals, RB51 Vaccination and Insemination Protocol</title>
+        <p>The animal study was approved by the Italian Ministry of Health (authorization n. 498/2016-PR). Thirty-six water buffaloes (34 females and 2 males) aged between 5 and 9 months were recruited from officially brucellosis-free farms, not participating in the vaccination program, and identified in the province of Salerno, Campania, Italy. Before selection, animals were screened serologically for brucellosis infection (official tests) or vaccination (RB51-CFT), <italic toggle="yes">Chlamidia psittaci</italic>, Para Influenza 3, Bovine Viral Diarrhea, Q fever (<italic toggle="yes">Coxiella burnetii</italic>), and <italic toggle="yes">Yersinia enterocolitica</italic> O:9. Animals testing negative to the serological screening were enrolled in the study.</p>
+        <p>Selected water buffaloes were moved to the trial site, where duly authorized premises were located in accordance with Italian and European laws regarding animal experimentation and animal welfare. All water buffaloes were individually identified using ear tags and electronic ruminal bolus and were assigned a short ID number from 1 to 36. The animals were housed in standard farming conditions, with ad libitum feeding and drinking water. Animals were monitored on a daily basis and therapeutic treatment delivered when required. The duration of the experiment was expressed as weeks post vaccination (wpv). After two weeks of acclimatization in the experimental stable, the day of vaccination (wpv0), 30 water buffaloes were injected with 6 mL of the commercial vaccine RB51, kindly provided by CZ Vaccines (RB-51 CZV<sup>&#xAE;</sup>, Porri&#xF1;o, Pontevedra, Spain), which was injected subcutaneously in the caudal portion of the neck, on the right side. The vaccine, according to the manufacturer&#x2019;s instruction, contained 10&#x2013;34 &#xD7; 10<sup>9</sup> CFU/2ml. The amount of vaccine injected (6 mL) was a dose triple that indicated for cattle (10&#x2013;34 &#xD7; 10<sup>9</sup> CFU/2mL) [<xref rid="B26-microorganisms-11-02078" ref-type="bibr">26</xref>,<xref rid="B28-microorganisms-11-02078" ref-type="bibr">28</xref>]. Six water buffaloes were included as controls (2 males and 4 females), inoculated with a placebo (sterile saline solution), and immediately mixed with vaccinated animals. Syringes containing the vaccine formulation of the placebo were numbered and veterinarians, animal care personnel, and laboratory technicians involved in the experiment were kept blinded about the vaccination status of the animals. The four females included in the control group were selected using the randomization function of Microsoft Excel<sup>&#xAE;</sup>, version 2013 (Microsoft, Redmond, WA, USA). The two male water buffaloes were not injected. A booster vaccination was administered after the animals turned the age of 1 year (12&#x2013;14 months), corresponding to 20 weeks post-vaccination (wpv20), in agreement with the administration schedule of RB51 vaccine reported for cattle in the Manual of Diagnostic Tests and Vaccines for Terrestrial Animals [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>]. A summary of the experimental design is shown in <xref rid="microorganisms-11-02078-f001" ref-type="fig">Figure 1</xref>.</p>
+        <p>At the age of 23&#x2013;25 months (wpv63&#x2013;wpv71), female animals (both vaccinated and controls) were subjected to estrus synchronization and became pregnant combining artificial insemination (AI) and natural breeding, the latter performed by the two males belonging to the unvaccinated control animals. To guarantee the necessary supervision and ensure more animal welfare during delivery and perinatal days, animals were divided in two groups and estrus synchronization was carried out in order to have at least one-month distance between the deliveries of one group and the following. Estrus synchronization was induced by applying an intravaginal progesterone insert (CIDR&#x2014;Controlled Internal Drug Release) together with intramuscular (i.m.) injection of 2 mL of GNRH (Gonavet Veyx<sup>&#xAE;</sup>, Elanco Italia, Sesto Fiorentino, Florence, Italy). After 7 days, CIDRs were removed, and animals were injected with 5 mL of pregnant mare serum gonadotropin 5000 (PMSG) and 2 mL prostaglandin F2 alpha (PGF2&#x3B1;<monospace>)</monospace>. After 48 h, 2 mL of GNRH were administered i.m. and the following day the AI was performed together with a final injection of 2 mL of GNRH. In addition to AI, animals were left in contact with the two males, to facilitate the natural breeding in case animals returned to estrus. Pregnancy was diagnosed in the early stages (30 and 60 days after AI) using trans-rectal echography, while clinical monitoring in later stages continued by rectal palpation.</p>
+        <p>The entire study was designed as a long-term trial and animals were monitored for 33 months after vaccination, covering the vaccination stage of prepubescent animals, to pregnancy, to delivery and lactation. In this article, the experimental timing referring to vaccination until the end of pregnancies (Phase I) was expressed as weeks post vaccination (from weeks 0 to 109 i.e., 2.5 years&#x2014;post-vaccination). After delivery, data from individual animals were all aligned to the date of calving and timing was expressed as weeks post-delivery (wpd) (Phase II). Bacteriological data include samples collected at calving and during lactation (Phase II).</p>
+      </sec>
+      <sec id="sec2dot2-microorganisms-11-02078">
+        <title>2.2. Sampling Protocol</title>
+        <p>Blood samples were collected from the jugular vein using vacuum tubes. Sample collection was carried out all along the trial, including vaccination, pregnancy, and lactation steps. To monitor the antibody response after vaccination, serum samples were collected weekly (wpv0&#x2013;wpv46), fortnightly (wpv46&#x2013;wpv67), and then monthly (wpv67&#x2013;wpv109), depending on the phase of the study and covering from vaccination to calving. After calving, serum samples were collected weekly for 4 weeks and fortnightly for the following 6 weeks. After collection, blood samples were centrifuged at 1000&#xD7; <italic toggle="yes">g</italic> for 15 min and separated sera were stored at &#x2212;20 &#xB0;C until testing. At calving, tissue samples of placenta and colostrum were collected for bacteriological examination. Vaginal swabs were performed every day for the first 7 days post-delivering, and then samples were collected twice a week for additional 3 weeks. From the day of delivery, milk samples were collected every day for the first 7 days, twice a week from weeks 2 to 4 post-partum, and once a week from months 2 to 6 (when milk was available).</p>
+      </sec>
+      <sec id="sec2dot3-microorganisms-11-02078">
+        <title>2.3. Field Sampling (Serum)</title>
+        <p>To generate additional data on the specificity of RB51-CFT applied to water buffaloes in field conditions, a panel of 393 sera was collected from seven officially brucellosis-free buffalo farms located in the Regions of Piemonte and Lazio. An aliquot of serum for these samples was collected during the sampling activities carried out within the national eradication plan for brucellosis. Animals with ages above 12 months were included.</p>
+      </sec>
+      <sec id="sec2dot4-microorganisms-11-02078">
+        <title>2.4. Laboratory Analysis</title>
+        <sec id="sec2dot4dot1-microorganisms-11-02078">
+          <title>2.4.1. Official Serological Tests for Brucellosis</title>
+          <p>Serum samples collected during the trial were tested with official serological methods for brucellosis (Rose Bengal test (RBT) and complement fixation test (CFT)), to verify that animals vaccinated with the rough strain RB51 do not produce antibodies typically detected against smooth <italic toggle="yes">Brucella</italic> after infection. The official tests were performed according the WOAH Manual of Diagnostic Tests and Vaccines for terrestrial Animals [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>], and samples were tested using two-fold dilutions starting from 1:4.</p>
+        </sec>
+        <sec id="sec2dot4dot2-microorganisms-11-02078">
+          <title>2.4.2. Serological Tests for RB51&#x2014;Specific Antibodies</title>
+          <p>RB51-specific antibodies (IgM and IgG) were detected and quantified using a specific CFT based on an RB51 homologous antigen (RB51-CFT), as previously described [<xref rid="B8-microorganisms-11-02078" ref-type="bibr">8</xref>,<xref rid="B25-microorganisms-11-02078" ref-type="bibr">25</xref>,<xref rid="B30-microorganisms-11-02078" ref-type="bibr">30</xref>]. Samples were analyzed using two-fold dilutions, starting from 1:4. Sera with an antibody titer equal or above (++++) 1:4 (cut-off) were considered as positive. This RB51-CFT was able to detect antibodies of vaccinated animals that result negative to conventional tests for brucellosis, which use <italic toggle="yes">Brucella</italic> antigens in the smooth phase.</p>
+        </sec>
+        <sec id="sec2dot4dot3-microorganisms-11-02078">
+          <title>2.4.3. Post-Mortem and Bacteriological Analyses</title>
+          <p>Considering that RB51 is a live attenuated vaccine and animals were immunized with a triple dose, bacteriological analyses were carried out to detect strain persistence in tissue organs and to assess potential shedding of the vaccine strain. Both culture and molecular methods were applied on different matrices during the study period. </p>
+          <p>Water buffaloes deceased during the vaccine trial were subjected to post-mortem examination and laboratory investigations to identify the cause of death, and to investigate the possible persistence of the vaccine strain in the body. Tissue samples were collected from lymph nodes (retropharyngeal, submandibular, prescapular, precrural, supramammary, iliac, meseraic, lymph nodes of the broad ligament of the uterus), spleen, liver, uterus (horn and body), kidneys, and udder. In addition, cotyledons, vaginal swabs and milk samples were collected and tested from live animals after calving.</p>
+          <p>At the end of the trial, animals were slaughtered and tissues samples were collected as described above. All samples were subjected to <italic toggle="yes">Brucella</italic> spp. search by microbiological isolation and molecular techniques, following the protocol in use at the National Brucellosis Reference Center (CRNB-IZSAM, Teramo, Italy). WOAH procedures for <italic toggle="yes">Brucella</italic> isolation were performed [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>], including weekly subcultures from enrichment liquid Farrell onto solid media (Farrell and CITA). Molecular investigations to detect <italic toggle="yes">B. abortus</italic> spp. were carried out using a PCR according to Di Giannatale et al. [<xref rid="B31-microorganisms-11-02078" ref-type="bibr">31</xref>].</p>
+        </sec>
+      </sec>
+      <sec id="sec2dot5-microorganisms-11-02078">
+        <title>2.5. Statistical Analysis</title>
+        <p>To take into account the uncertainty of the proportion of positive laboratory results over the total tests performed, a beta distribution was used to define the 95% confidence interval of the proportion accuracy. The uncertainty interval was defined as the difference between upper and lower 95% confidence limits. The 95% lower and upper credibility levels (L.C.I. and U.C.L., respectively, composing the Credibility Interval, C.I.) of the distribution frequency of positive results were calculated using a Bayesian approach with a beta distribution (n + 1; n &#x2212; s + 1), where n is the total number of tested samples and s is the tested positive samples [<xref rid="B32-microorganisms-11-02078" ref-type="bibr">32</xref>]. </p>
+        <p>Statistical comparisons were performed on RB51-CFT results between vaccinated and control groups for each sampling moment using Mann Whitney&#x2019;s non-parametric test. Values of <italic toggle="yes">p</italic> &#x2264; 0.05 were considered as significant.</p>
+        <p>Further linear and geometric mean regression analyses were applied to the RB51-CFT results of the vaccinated animals to evaluate the descending trend of the antibody kinetics and time limit beyond which the application of the RB51-CFT alone can evolve in diagnostic pictures that are difficult to interpret.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-microorganisms-11-02078">
+      <title>3. Results</title>
+      <sec id="sec3dot1-microorganisms-11-02078">
+        <title>3.1. Animals, Vaccination Protocol, and Insemination Protocol</title>
+        <p>After the first and booster vaccinations, none of the animals showed side effects at the site of injection or at a systemic level. The synchronization and insemination procedures resulted in 29 pregnant females out of 30. All pregnant females had normal parturition.</p>
+        <p>Four deaths occurred during the study, independently of vaccination: animal # 13 (wpv22), vaccinated; animal # 5 (wpv26), vaccinated; animal # 22 (wpv35), control; animal # 26 (wpv55), vaccinated. The post-mortem examination and related laboratory tests of the four water buffaloes that died during the trial did not show any correlation between the cause of death of the subjects and the trial in progress. The experiment then ended with 27 animals vaccinated and 5 controls.</p>
+      </sec>
+      <sec id="sec3dot2-microorganisms-11-02078">
+        <title>3.2. Laboratory Analysis</title>
+        <sec id="sec3dot2dot1-microorganisms-11-02078">
+          <title>3.2.1. Official Serological Tests for Brucellosis</title>
+          <p>None of the vaccinated animals reacted positive to official RBT or CFT after RB51 first or booster vaccination.</p>
+        </sec>
+        <sec id="sec3dot2dot2-microorganisms-11-02078">
+          <title>3.2.2. Serological Tests for Brucellosis and Kinetic of RB51 Specific Antibodies Measured by RB51-CFT</title>
+          <p>Following first vaccination, all animals showed seroconversion starting from 1-week post vaccination (wpv1) with the mean group of antibody titer peaking on wpv3, even if titers and the persistence of RB51 specific antibodies differed among animals (<xref rid="microorganisms-11-02078-f002" ref-type="fig">Figure 2</xref>a,b). Actually, between the first and booster vaccinations, 25 out of 30 (83%) vaccinated animals showed a transient increase in antibodies followed by a period of negativity that ranged from 2 to 17 weeks. Within two weeks after the booster vaccination, all animals showed a new increase of antibody titer with the mean value of the group peaking 3 weeks after the booster (wpv23). Afterward, antibody titers showed a progressive but not linear decrease and from wpv32 onwards, animals started testing seronegative but alternating with periods of negativity and periods of positivity with RB51-CFT values near the cut off (1:4 serum dilution). Following the booster vaccination, only 1 out of 30 vaccinated animals remained positive to RB51-CFT throughout the entire period of observation (wpv21&#x2013;wpv109). </p>
+          <p>We also investigated variations in RB51-CFT sensitivity after vaccination, in terms of the percentage of vaccinated animals correctly identified as vaccinated, and thus with an antibody titer &#x2265;1:4. One week after first vaccination, 96.7% (29/30; CI: 99.2&#x2013;83.3%) of vaccinated animals tested were correctly identified as vaccinated by RB51-CFT. One animal seroconverted later on wpv4. The percentage of animals correctly identified as vaccinated by RB51-CFT decreased progressively, starting from wpv14 with the minimum value of 16.7% (5/30; CI: 33.7&#x2013;7.5%) recorded on wpv19. Two weeks after the booster vaccination (wpv22), RB51-CFT detected 100.0% (wpv21; CI: 100.0&#x2013;90.8%) of vaccinated animals, and this result was continuously confirmed for 10 weeks (from wpv21 to wpv31). Afterward, the percentage of animals correctly identified as vaccinated decreased as a non-linear and fluctuating trend, with values ranging from 96.4% (wpv32, 27 animals out of 28; CI: 99.2&#x2013;82.2%) to 7.4% (wpv71, 2 animals out of 27; CI: 23.5&#x2013;2.3%) and with all vaccinated animals testing negative only on wpv109 (<xref rid="microorganisms-11-02078-f003" ref-type="fig">Figure 3</xref>). </p>
+          <p>Interestingly, the simultaneous negativity of all vaccinated animals was never registered during the sampling period considered, and no relevant increase or decrease in antibody titers was observed during pregnancy or after delivery (<xref rid="microorganisms-11-02078-f002" ref-type="fig">Figure 2</xref>a and <xref rid="microorganisms-11-02078-f004" ref-type="fig">Figure 4</xref>a). Moreover, after calving, the percentage of animals testing positive to RB51-CFT ranged between 16% (CI: 34.9&#x2013;6.6%) and 3.8% (CI: 19.0&#x2013;0.9%) (<xref rid="microorganisms-11-02078-f004" ref-type="fig">Figure 4</xref>b).</p>
+          <p>None of the controls (4 females and the two males involved in mating activities) showed any serological positivity in the period considered, including the pregnancy and lactation phases. This accounts for a specificity of 100% (CI 65.2&#x2013;100% at the beginning of the experiment, 60.7&#x2013;100% at the end of the experiment) (<xref rid="app1-microorganisms-11-02078" ref-type="app">Figures S1 and S2</xref>).</p>
+          <p>Statistical analyses carried out using the Mann&#x2013;Whitney test showed a significant difference in antibody titers between vaccinated and controls (<italic toggle="yes">p</italic> &lt; 0.05) starting from wpv1 to wpv15 and on wpv18. After the booster vaccination, the serological response was significantly higher in vaccinated animals from wpv20 to wpv56, and from wpv61 to wpv71 with the last significant recorded on wpv84 (<xref rid="microorganisms-11-02078-f002" ref-type="fig">Figure 2</xref>a, <xref rid="app1-microorganisms-11-02078" ref-type="app">Table S1</xref>).</p>
+          <p>RB51-CFT analyses were also carried out in a field population of water buffaloes from officially Brucella-free farms to verify test specificity. Serum samples (393) were tested and only one animal resulted positive at the cut-off value (1:4). </p>
+        </sec>
+        <sec id="sec3dot2dot3-microorganisms-11-02078">
+          <title>3.2.3. Bacteriology</title>
+          <p>All samples tested negative to both culture and PCR, and a summary of matrices collected during different stages of the trial is displayed in <xref rid="microorganisms-11-02078-t001" ref-type="table">Table 1</xref>. The analyses performed on secretions and excretions of water buffaloes at the time of delivery and in the following stages of lactation reported the same negative results.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec>
+      <title>4. Discussion</title>
+      <p>The study investigated in water buffaloes the long-term effects on the immune response following the vaccination protocol for <italic toggle="yes">B. abortus</italic> strain RB51 vaccine indicated by the WOAH Manual for the bovine species [<xref rid="B23-microorganisms-11-02078" ref-type="bibr">23</xref>], modified with the use of a triple dose as previously described [<xref rid="B26-microorganisms-11-02078" ref-type="bibr">26</xref>,<xref rid="B28-microorganisms-11-02078" ref-type="bibr">28</xref>]. The protocol was applied to buffaloes in the prepuberal age. In particular, the present paper analyses the evolution of the humoral response using the homologous RB51 antigen for RB51-CFT, while the official RBT and CFT tests were negatives for all the duration of the trial.</p>
+      <p>The research examined the long-term effects of <italic toggle="yes">B. abortus</italic> RB51 live attenuated vaccine, administered to water buffaloes at calfhood age with a booster vaccination received at the age of 12&#x2013;14 months. The few studies carried out on the use of the RB51 vaccine in water buffaloes show how the age of administration, the time interval between the first vaccine, a possible booster, and the vaccine dose used, may result in different immune response trends. This makes it is difficult to compare the studies with each other [<xref rid="B25-microorganisms-11-02078" ref-type="bibr">25</xref>,<xref rid="B33-microorganisms-11-02078" ref-type="bibr">33</xref>]. This is therefore important to underline that the data obtained in the present study must be interpreted and correlated with the vaccination scheme described. </p>
+      <p>We focused on the kinetics of humoral response and assessed vaccine safety over a long-term covering from the age of prepubescent animals to the stage of adults, including pregnancy, calving, and lactation. To the best of our knowledge, data covering this whole period are not available in the international peer-reviewed literature.</p>
+      <p>As expected, both the first and the second vaccination induced seroconversion in 100% of vaccinated animals, followed by a progressive decrease in the antibody titers that, however, after the booster, never turned into complete seronegative results. In fact, over 2.5 years after the vaccine recall injection, a fluctuating serological pattern of some animals was still observed, alternating seronegative and seropositive periods, presenting antibody titers close to the threshold value. No similar observation has been reported before. Considering the triple vaccine dose administered, fluctuation of low antibodies titers may be attributed to persistence and active replication of live vaccine strain in vaccinated animals. However, bacteriological investigations, carried out using culture and PCR in parallel, excluded the presence of live vaccine strain from any of the matrix tested. Even when taking into account the low sensitivity of direct tests employed and the intermittent release the <italic toggle="yes">Brucella</italic> bacteria in milk, the long-term monitoring as well as the frequent sampling schedule applied minimized the chance of false negative test results. A more likely explanation of this fluctuation is that after declining, serum levels of RB51 antibodies remained at low concentrations, and close to the RB51-CFT threshold. Minimal fluctuations of antibody concentrations, usually within the range of one twofold dilution, may explain the variation in negative and positive results of sequential sampling. These physiological fluctuations have been reported in cattle and humans [<xref rid="B34-microorganisms-11-02078" ref-type="bibr">34</xref>,<xref rid="B35-microorganisms-11-02078" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-11-02078" ref-type="bibr">36</xref>].</p>
+      <p>Pregnancy, calving, and lactation did not produce effects on antibody dynamics. The study also demonstrated complete safety of the vaccination schedule employed, with no seroconversion recorded in control animals, which were mixed with vaccinated animals from the first day of vaccination. No strain persistence was detected from direct investigations carried out on several biological matrices from living animals and carcasses collected during the trial (deceased animals) and at the end of the trial.</p>
+      <p>The application of the RB51 vaccination in buffalo farms of the endemic area of Caserta has been previously implemented to reduce disease prevalence before entering the eradication phase based on test and slaughter policy. This offered the opportunity to induce population immunity while maintaining the possibility to identify infected. Actually, as previously stated, RB51 vaccination does not interfere with classical serological tests (RBT and CFT) used for detection of infected animals, both for cattle and water buffaloes [<xref rid="B30-microorganisms-11-02078" ref-type="bibr">30</xref>]. Our results confirm that the antibody response elicited by first and booster vaccination did not affect disease diagnosis based on official RBT or CFT, despite the triple dosage applied.</p>
+      <p>Data on kinetics of antibody response also imposed a consideration on RB51-CFT result interpretation and test application. As mentioned above, a booster vaccination, administered at the age of 12&#x2013;14 months and using a triple dose, elicited a prolonged antibody response that was detected in some vaccinated animals up to 600 days&#x2019; post-booster vaccination. </p>
+      <p>In this situation, the use in parallel of diagnostic tests that evaluate the cell mediated immunity would help in identifying vaccinated animals, as already described [<xref rid="B29-microorganisms-11-02078" ref-type="bibr">29</xref>,<xref rid="B30-microorganisms-11-02078" ref-type="bibr">30</xref>].</p>
+      <p>Furthermore, the kinetics of the RB51 antibody response recorded suggests that the interpretation of RB51-CFT results necessarily requires knowledge on the &#x201C;official&#x201D; vaccination status of the population to be investigated. In fact, the test cut-off of 1:4 was defined based on data of non-vaccinated cattle populations to maximize the specificity of the test, and after being applied to water buffaloes [<xref rid="B8-microorganisms-11-02078" ref-type="bibr">8</xref>,<xref rid="B30-microorganisms-11-02078" ref-type="bibr">30</xref>,<xref rid="B37-microorganisms-11-02078" ref-type="bibr">37</xref>]. The results of the present study demonstrate that a number of water buffaloes receiving a booster vaccination with a triple dose at the age of 1 year or above are likely to have long-term positivity to RB51-CFT, even if in a low number. Differently, a first dose administered at 4&#x2013;6 months of age is likely to induce the presence of RB51-CFT antibodies that disappear in a short time and do not persist further. This also suggests that when the test is applied to a population vaccinated with the scheduling used in the present study, antibody titers up to 1:8 in RB51-CFT are expected in some vaccinated animals, and this should be interpreted as physiological. At the same time, the individual variability observed in antibody titers suggests that RB51-CFT results have to be interpreted at the herd level and not considering individual animals only.</p>
+      <p>Another aim of the study was to assess the safety of the vaccination schedule applied, for the animals and for the environment. The results demonstrated that following vaccination, none of the control animals seroconverted and vaccine strains were never detected by tissue collected from animals deceased during the trial or slaughtered at the end to the study. Two control males were also involved in natural breeding with vaccinated female water buffaloes and negative results to both direct and indirect tests demonstrated that sexual transmission did not occur. Taking into consideration that parturition and lactation are two critical periods for disease spreading, we also monitored potential vaccine shedding during these phases. All samples (cotyledons, colostrum, and vaginal swabs) investigated during calving and lactation by culture and PCR tested negative.</p>
+      <p>A lack of RB51 isolation or direct detection throughout the study, in addition to the negative serological results of control animals left in contact with vaccinated animals, demonstrates that neither the vaccine strain was released in the environment nor a transmission between vaccinated animals and controls occurred, either through the environment or through mating.</p>
+      <p>In this study, a limited number of control animals was included. This is because the primary objective of the study was to characterize the kinetics of immune responses of water buffaloes vaccinated using a specific vaccination schedule, and a higher number of animals were allocated in the vaccinated group. In parallel, our starting hypothesis considered that the RB51 vaccine was not spread by animals vaccinated at a prepubescent age and the number of controls included, together with the stringent sampling protocol applied to both vaccinated and control animals, would have been sufficient to detect directly or indirectly any vaccine shedding. Out of the scope of the present study was the evaluation of vaccine efficacy to challenge.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec5-microorganisms-11-02078">
+      <title>5. Conclusions</title>
+      <p>Our study confirmed that the RB51 vaccination schedule based on the use of a triple dose administered to young animals is safe and not associated with any vaccine shedding or side effects in the long term, including pregnancy, calving, and lactation. Furthermore, we did not observe any interference with official serological tests (RBT and CFT) employed to detect <italic toggle="yes">Brucella</italic> antibodies in the context of the Italian National Brucellosis eradication plan. These data sustain the possible integration of the current test and slaughter policy with the RB51 vaccination, in high prevalence areas. Data on RB51 antibody dynamics induced by the vaccine schedule applied represent the baseline to develop diagnostic protocols aimed at monitoring the correct application of RB51 vaccination.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <app id="app1-microorganisms-11-02078">
+        <title>Supplementary Materials</title>
+        <p>The following supporting information can be downloaded at: <uri xlink:href="https://www.mdpi.com/article/10.3390/microorganisms11082078/s1">https://www.mdpi.com/article/10.3390/microorganisms11082078/s1</uri>, Figure S1: RB51-CFT antibody titers recorded in control animals. Data represent mean values of RB51-CFT titers and related standard deviation (2 SD) from the group of unvaccinated buffaloes in each of the sampling sessions from vaccination to calving (W0&#x2013;W109). Cut-off value is set to 1:4. Figure S2: Percentage of control animals testing negative to RB51-CFT. Data are expressed as the percentage of unvaccinated animals testing negative to RB51-CFT over the number of unvaccinated animals tested for each time point, from vaccination to delivery (W0&#x2013;W109). Bars indicate upper and lower confidential limits calculated at 95% confidence interval using a Bayesian approach with a beta distribution. Cut-off value is set at 1:4. Table S1: Non-parametric Mann&#x2013;Whitney test for RB51-CFT antibody titers. Comparison of logarithmic values of RB51-CFT between vaccinated and control animals for each time point. (<italic toggle="yes">p</italic> value, red cells <italic toggle="yes">p</italic> &lt; 0.05).</p>
+        <supplementary-material id="microorganisms-11-02078-s001" position="float" content-type="local-data">
+          <media xlink:href="microorganisms-11-02078-s001.zip">
+            <caption>
+              <p>Click here for additional data file.</p>
+            </caption>
+          </media>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, F.D.M., M.T., F.S. and M.P.V.; methodology, D.A., F.P., D.R., G.B., M.M., T.D.F., I.M.K. and G.V.; software, C.D.P. and R.S.; formal analysis, F.D.M., F.S., C.D.P. and R.S.; data curation, F.D.M., F.S., C.D.P. and R.S.; writing&#x2014;original draft preparation, F.D.M., F.S. and M.L.; writing&#x2014;review and editing, F.D.M., F.S., F.P., M.L. and M.T.; visualization, F.D.M., F.S., N.F., E.R., D.A., A.P., M.P.V., M.L. and S.I.; supervision, F.D.M., N.D., G.M., F.S., N.F., M.L. and M.T. All authors contributed substantially to the work reported. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The animal study protocol was approved by Ethics Committee OPBA (Organismo Preposto al Benessere Animale) and authorized by Italian Ministry of Health (protocol n. 498/2016-PR of the 20 May 2016).</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Data are contained within the article.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-microorganisms-11-02078">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Neta</surname><given-names>A.V.C.</given-names></name>
+<name><surname>Mol</surname><given-names>J.P.S.</given-names></name>
+<name><surname>Xavier</surname><given-names>M.N.</given-names></name>
+<name><surname>Paix&#xE3;o</surname><given-names>T.A.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+<name><surname>Santos</surname><given-names>R.L.</given-names></name>
+</person-group>
+          <article-title>Pathogenesis of bovine brucellosis</article-title>
+          <source>Vet. J.</source>
+          <year>2010</year>
+          <volume>184</volume>
+          <fpage>146</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tvjl.2009.04.010</pub-id>
+          <pub-id pub-id-type="pmid">19733101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-microorganisms-11-02078">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Becskei</surname><given-names>Z.</given-names></name>
+<name><surname>Savi&#x107;</surname><given-names>M.</given-names></name>
+<name><surname>&#x106;irkovi&#x107;</surname><given-names>D.</given-names></name>
+<name><surname>Ra&#x161;eta</surname><given-names>M.</given-names></name>
+<name><surname>Puva&#x10D;a</surname><given-names>N.</given-names></name>
+<name><surname>Paji&#x107;</surname><given-names>M.</given-names></name>
+<name><surname>Dordevi&#x107;</surname><given-names>S.</given-names></name>
+<name><surname>Paska&#x161;</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Assessment of water buffalo milk and traditional milk products in a sustainable production system</article-title>
+          <source>Sustainability</source>
+          <year>2020</year>
+          <volume>12</volume>
+          <elocation-id>6616</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/su12166616</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-microorganisms-11-02078">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<name><surname>Roop</surname><given-names>R.M.</given-names></name>
+<name><surname>Bagchi</surname><given-names>T.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.</given-names></name>
+<name><surname>Buhrman</surname><given-names>D.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Biological Proper-ties of Rb51&#x2014;A Stable Rough Strain of Brucella-Abortus</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>1991</year>
+          <volume>28</volume>
+          <fpage>171</fpage>
+          <lpage>188</lpage>
+          <pub-id pub-id-type="doi">10.1016/0378-1135(91)90091-S</pub-id>
+          <pub-id pub-id-type="pmid">1908158</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-microorganisms-11-02078">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Diptee</surname><given-names>M.D.</given-names></name>
+<name><surname>Asgarali</surname><given-names>Z.</given-names></name>
+<name><surname>Campbell</surname><given-names>M.</given-names></name>
+<name><surname>Fosgate</surname><given-names>G.</given-names></name>
+<name><surname>Adesiyun</surname><given-names>A.A.</given-names></name>
+</person-group>
+          <article-title>Post-exposure serological and bacteriological responses of water buffalo (<italic toggle="yes">Bubalus bubalis</italic>) to <italic toggle="yes">Brucella abortus</italic> biovar 1 following vaccination with <italic toggle="yes">Brucella abortus</italic> strain RB51</article-title>
+          <source>Rev. Sci. Tech. Off. Int. Epizoot.</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <fpage>669</fpage>
+          <lpage>678</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.26.3.1773</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-microorganisms-11-02078">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Corbel</surname><given-names>M.J.</given-names></name>
+</person-group>
+          <article-title>Brucellosis vaccines: Past, present and future</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2002</year>
+          <volume>90</volume>
+          <fpage>479</fpage>
+          <lpage>496</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00255-9</pub-id>
+          <pub-id pub-id-type="pmid">12414166</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-microorganisms-11-02078">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Stevens</surname><given-names>M.G.</given-names></name>
+<name><surname>Hennager</surname><given-names>S.G.</given-names></name>
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Cheville</surname><given-names>N.F.</given-names></name>
+</person-group>
+          <article-title>Serologic Responses in Diagnostic-Tests for Brucellosis in Cattle Vaccinated with Brucella-Abortus 19 Or Rb51</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <year>1994</year>
+          <volume>32</volume>
+          <fpage>1065</fpage>
+          <lpage>1066</lpage>
+          <pub-id pub-id-type="doi">10.1128/jcm.32.4.1065-1066.1994</pub-id>
+          <pub-id pub-id-type="pmid">8027313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-microorganisms-11-02078">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Stevens</surname><given-names>M.G.</given-names></name>
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Cheville</surname><given-names>N.F.</given-names></name>
+</person-group>
+          <article-title>Comparative analysis of immune responses in cattle vaccinated with <italic toggle="yes">Brucella abortus</italic> strain 19 or strain RB51</article-title>
+          <source>Vet. Immunol. Immunopathol.</source>
+          <year>1995</year>
+          <volume>44</volume>
+          <fpage>223</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="doi">10.1016/0165-2427(94)05311-F</pub-id>
+          <pub-id pub-id-type="pmid">7747403</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-microorganisms-11-02078">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Adone</surname><given-names>R.</given-names></name>
+<name><surname>Ciuchini</surname><given-names>F.</given-names></name>
+<name><surname>Olsen</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Field Validation of the Use of RB51 as Antigen in a Complement Fixation Test to Identify Calves Vaccinated with <italic toggle="yes">Brucella abortus</italic> RB51</article-title>
+          <source>Clin. Diagn. Lab. Immunol.</source>
+          <year>2001</year>
+          <volume>8</volume>
+          <fpage>385</fpage>
+          <lpage>387</lpage>
+          <pub-id pub-id-type="doi">10.1128/CDLI.8.2.385-387.2001</pub-id>
+          <pub-id pub-id-type="pmid">11238226</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-microorganisms-11-02078">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dorneles</surname><given-names>E.M.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+</person-group>
+          <article-title>Recent advances in Brucella abortus vaccines</article-title>
+          <source>Vet. Res.</source>
+          <year>2015</year>
+          <volume>46</volume>
+          <fpage>76</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id>
+          <pub-id pub-id-type="pmid">26155935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-microorganisms-11-02078">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dorneles</surname><given-names>E.M.S.</given-names></name>
+<name><surname>Lima</surname><given-names>G.K.</given-names></name>
+<name><surname>Teixeira-Carvalho</surname><given-names>A.</given-names></name>
+<name><surname>Ara&#xFA;jo</surname><given-names>M.S.S.</given-names></name>
+<name><surname>Martins-Filho</surname><given-names>O.A.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Al Qublan</surname><given-names>H.</given-names></name>
+<name><surname>Heinemann</surname><given-names>M.B.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+</person-group>
+          <article-title>Immune Response of Calves Vaccinated with Brucella abortus S19 or RB51 and Revaccinated with RB51</article-title>
+          <source>PLoS ONE</source>
+          <year>2015</year>
+          <volume>10</volume>
+          <elocation-id>e0136696</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0136696</pub-id>
+          <pub-id pub-id-type="pmid">26352261</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-microorganisms-11-02078">
+        <label>11.</label>
+        <element-citation publication-type="gov">
+          <person-group person-group-type="author">
+<collab>CDC</collab>
+</person-group>
+          <article-title>Center for Disease Control and Prevention Human exposure to <italic toggle="yes">Brucella abortus</italic> Strain RB51&#x2013;Kansas</article-title>
+          <year>1997</year>
+          <comment>Available online: <ext-link xlink:href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00051495.htm" ext-link-type="uri">https://www.cdc.gov/mmwr/preview/mmwrhtml/00051495.htm</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-12-23">(accessed on 23 December 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B12-microorganisms-11-02078">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ashford</surname><given-names>D.A.</given-names></name>
+<name><surname>di Pietra</surname><given-names>J.</given-names></name>
+<name><surname>Lingappa</surname><given-names>J.</given-names></name>
+<name><surname>Woods</surname><given-names>C.</given-names></name>
+<name><surname>Noll</surname><given-names>H.</given-names></name>
+<name><surname>Neville</surname><given-names>B.</given-names></name>
+<name><surname>Weyant</surname><given-names>R.</given-names></name>
+<name><surname>Bragg</surname><given-names>S.L.</given-names></name>
+<name><surname>Spiegel</surname><given-names>R.A.</given-names></name>
+<name><surname>Tappero</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Adverse events in humans associated with accidental exposure to the livestock brucellosis vaccine RB51</article-title>
+          <source>Vaccine</source>
+          <year>2004</year>
+          <volume>22</volume>
+          <fpage>3435</fpage>
+          <lpage>3439</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2004.02.041</pub-id>
+          <pub-id pub-id-type="pmid">15308369</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-microorganisms-11-02078">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Galiero</surname><given-names>G.</given-names></name>
+<name><surname>Martucciello</surname><given-names>A.</given-names></name>
+<name><surname>Astarita</surname><given-names>S.</given-names></name>
+<name><surname>Iovane</surname><given-names>G.</given-names></name>
+<name><surname>Pagnini</surname><given-names>U.</given-names></name>
+<name><surname>Fusco</surname><given-names>G.</given-names></name>
+<name><surname>Guarino</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Isolation of <italic toggle="yes">Brucella abortus</italic> strain RB51 from two buffalo fetuses</article-title>
+          <source>Vet. Rec.</source>
+          <year>2006</year>
+          <volume>159</volume>
+          <fpage>563</fpage>
+          <lpage>564</lpage>
+          <pub-id pub-id-type="doi">10.1136/vr.159.17.563</pub-id>
+          <pub-id pub-id-type="pmid">17056654</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-microorganisms-11-02078">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Longo</surname><given-names>M.</given-names></name>
+<name><surname>Mallardo</surname><given-names>K.</given-names></name>
+<name><surname>Montagnaro</surname><given-names>S.</given-names></name>
+<name><surname>De Martino</surname><given-names>L.</given-names></name>
+<name><surname>Gallo</surname><given-names>S.</given-names></name>
+<name><surname>Fusco</surname><given-names>G.</given-names></name>
+<name><surname>Galiero</surname><given-names>G.</given-names></name>
+<name><surname>Guarino</surname><given-names>A.</given-names></name>
+<name><surname>Pagnini</surname><given-names>U.</given-names></name>
+<name><surname>Iovane</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Shedding of <italic toggle="yes">Brucella abortus</italic> rough mutant strain RB51 in milk of water buffalo (<italic toggle="yes">Bubalus bubalis</italic>)</article-title>
+          <source>Prev. Vet. Med.</source>
+          <year>2009</year>
+          <volume>90</volume>
+          <fpage>113</fpage>
+          <lpage>118</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.prevetmed.2009.03.007</pub-id>
+          <pub-id pub-id-type="pmid">19362381</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-microorganisms-11-02078">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Cossaboom</surname><given-names>C.M.</given-names></name>
+<name><surname>Kharod</surname><given-names>G.A.</given-names></name>
+<name><surname>Salzer</surname><given-names>J.S.</given-names></name>
+<name><surname>Tiller</surname><given-names>R.V.</given-names></name>
+<name><surname>Campbell</surname><given-names>L.P.</given-names></name>
+<name><surname>Wu</surname><given-names>K.</given-names></name>
+<name><surname>Negr&#xF3;n</surname><given-names>M.E.</given-names></name>
+<name><surname>Ayala</surname><given-names>N.</given-names></name>
+<name><surname>Evert</surname><given-names>N.</given-names></name>
+<name><surname>Radowicz</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Notes from the Field: <italic toggle="yes">Brucella abortus</italic> Vaccine Strain RB51 Infection and Exposures Associated with Raw Milk Consumption&#x2014;Wise County, Texas, 2017</article-title>
+          <source>MMWR. Morb. Mortal. Wkly. Rep.</source>
+          <year>2018</year>
+          <volume>67</volume>
+          <fpage>286</fpage>
+          <pub-id pub-id-type="doi">10.15585/mmwr.mm6709a4</pub-id>
+          <pub-id pub-id-type="pmid">29518066</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-microorganisms-11-02078">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Negr&#xF3;n</surname><given-names>M.E.</given-names></name>
+<name><surname>Kharod</surname><given-names>G.A.</given-names></name>
+<name><surname>Bower</surname><given-names>W.A.</given-names></name>
+<name><surname>Walke</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Notes from the Field: Human <italic toggle="yes">Brucella abortus</italic> RB51 Infections Caused by Consumption of Unpasteurized Domestic Dairy Products&#x2014;United States, 2017&#x2013;2019</article-title>
+          <source>MMWR. Morb. Mortal. Wkly. Rep.</source>
+          <year>2019</year>
+          <volume>68</volume>
+          <fpage>185</fpage>
+          <pub-id pub-id-type="doi">10.15585/mmwr.mm6807a6</pub-id>
+          <pub-id pub-id-type="pmid">30789879</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-microorganisms-11-02078">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sfeir</surname><given-names>M.M.</given-names></name>
+</person-group>
+          <article-title>Raw milk intake: Beware of emerging brucellosis</article-title>
+          <source>J. Med. Microbiol.</source>
+          <year>2018</year>
+          <volume>67</volume>
+          <fpage>681</fpage>
+          <lpage>682</lpage>
+          <pub-id pub-id-type="doi">10.1099/jmm.0.000722</pub-id>
+          <pub-id pub-id-type="pmid">29537364</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-microorganisms-11-02078">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gruber</surname><given-names>J.F.</given-names></name>
+<name><surname>Newman</surname><given-names>A.</given-names></name>
+<name><surname>Egan</surname><given-names>C.</given-names></name>
+<name><surname>Campbell</surname><given-names>C.</given-names></name>
+<name><surname>Garafalo</surname><given-names>K.</given-names></name>
+<name><surname>Wolfgang</surname><given-names>D.R.</given-names></name>
+<name><surname>Weltman</surname><given-names>A.</given-names></name>
+<name><surname>Kline</surname><given-names>K.E.</given-names></name>
+<name><surname>Watkins</surname><given-names>S.M.</given-names></name>
+<name><surname>Robbe-Austerman</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Notes from the Field: <italic toggle="yes">Brucella abortus</italic> RB51 Infections Associated with Consumption of Raw Milk from Pennsylvania&#x2014;2017 and 2018</article-title>
+          <source>MMWR. Morb. Mortal. Wkly. Rep.</source>
+          <year>2020</year>
+          <volume>69</volume>
+          <fpage>482</fpage>
+          <lpage>483</lpage>
+          <pub-id pub-id-type="doi">10.15585/mmwr.mm6915a4</pub-id>
+          <pub-id pub-id-type="pmid">32298248</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-microorganisms-11-02078">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Averaimo</surname><given-names>D.</given-names></name>
+<name><surname>De Massis</surname><given-names>F.</given-names></name>
+<name><surname>Savini</surname><given-names>G.</given-names></name>
+<name><surname>Garofolo</surname><given-names>G.</given-names></name>
+<name><surname>Sacchini</surname><given-names>F.</given-names></name>
+<name><surname>Abass</surname><given-names>A.</given-names></name>
+<name><surname>Tittarelli</surname><given-names>M.</given-names></name>
+<name><surname>Migliorati</surname><given-names>G.</given-names></name>
+<name><surname>Petrini</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Detection of <italic toggle="yes">Brucella abortus</italic> Vaccine Strain RB51 in Water Buffalo (<italic toggle="yes">Bubalus bubalis</italic>) Milk</article-title>
+          <source>Pathogens</source>
+          <year>2022</year>
+          <volume>11</volume>
+          <elocation-id>748</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/pathogens11070748</pub-id>
+          <pub-id pub-id-type="pmid">35889993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-microorganisms-11-02078">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ben&#xED;tez-Serrano</surname><given-names>J.C.</given-names></name>
+<name><surname>Palomares-Resendiz</surname><given-names>G.</given-names></name>
+<name><surname>D&#xED;az-Aparicio</surname><given-names>E.</given-names></name>
+<name><surname>Hern&#xE1;ndez-Castro</surname><given-names>R.</given-names></name>
+<name><surname>Mart&#xED;nez-P&#xE9;rez</surname><given-names>L.</given-names></name>
+<name><surname>Su&#xE1;rez-G&#xFC;emes</surname><given-names>F.</given-names></name>
+<name><surname>Arellano-Reynoso</surname><given-names>B.</given-names></name>
+</person-group>
+          <article-title>Survival of <italic toggle="yes">Brucella abortus</italic> RB51 and S19 Vaccine Strains in Fresh and Ripened Cheeses</article-title>
+          <source>Foodborne Pathog. Dis.</source>
+          <year>2022</year>
+          <volume>19</volume>
+          <fpage>535</fpage>
+          <lpage>542</lpage>
+          <pub-id pub-id-type="doi">10.1089/fpd.2022.0001</pub-id>
+          <pub-id pub-id-type="pmid">35675662</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-microorganisms-11-02078">
+        <label>21.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<collab>CDC</collab>
+</person-group>
+          <source>Center for Disease Control and Prevention Brucellosis Reference Guide: Exposures, Testing, and Prevention</source>
+          <publisher-name>US Department of Health and Human Services, CDC</publisher-name>
+          <publisher-loc>Atlanta, GA, USA</publisher-loc>
+          <comment>Available online: <ext-link xlink:href="https://www.cdc.gov/brucellosis/pdf/brucellosi-reference-guide.pdf" ext-link-type="uri">https://www.cdc.gov/brucellosis/pdf/brucellosi-reference-guide.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-12-23">(accessed on 23 December 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B22-microorganisms-11-02078">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+</person-group>
+          <article-title>Immune responses and efficacy after administration of a commercial Brucella abortus strain RB51 vaccine to cattle</article-title>
+          <source>Vet. Ther.</source>
+          <year>2000</year>
+          <volume>1</volume>
+          <fpage>183</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="pmid">19757581</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-microorganisms-11-02078">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<collab>WOAH</collab>
+</person-group>
+          <article-title>World Organization for Animal Health Brucellosis (infection with <italic toggle="yes">Brucella abortus</italic>, <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. suis</italic>)</article-title>
+          <comment>Chapter 3.1.4 par. 2.4</comment>
+          <source>Man. Diagn. Tests Vaccines Terr. Anim.</source>
+          <year>2022</year>
+          <fpage>17</fpage>
+          <lpage>19</lpage>
+          <comment>Available online: <ext-link xlink:href="https://www.woah.org/fileadmin/Home/fr/Health_standards/tahm/3.01.04_BRUCELLOSIS.pdf" ext-link-type="uri">https://www.woah.org/fileadmin/Home/fr/Health_standards/tahm/3.01.04_BRUCELLOSIS.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-12-23">(accessed on 23 December 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B24-microorganisms-11-02078">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Fosgate</surname><given-names>G.T.</given-names></name>
+<name><surname>Adesiyun</surname><given-names>A.A.</given-names></name>
+<name><surname>Hird</surname><given-names>D.W.</given-names></name>
+<name><surname>Johnson</surname><given-names>W.O.</given-names></name>
+<name><surname>Hietala</surname><given-names>S.K.</given-names></name>
+<name><surname>Schurig</surname><given-names>G.G.</given-names></name>
+<name><surname>Ryan</surname><given-names>J.</given-names></name>
+<name><surname>Diptee</surname><given-names>M.D.</given-names></name>
+</person-group>
+          <article-title>Evaluation of brucellosis RB51 vaccine for domestic water buffalo (<italic toggle="yes">Bubalus bubalis</italic>) in Trinidad</article-title>
+          <source>Prev. Vet. Med.</source>
+          <year>2003</year>
+          <volume>58</volume>
+          <fpage>211</fpage>
+          <lpage>225</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0167-5877(03)00048-5</pub-id>
+          <pub-id pub-id-type="pmid">12706059</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-microorganisms-11-02078">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Diptee</surname><given-names>M.D.</given-names></name>
+<name><surname>Adesiyun</surname><given-names>A.A.</given-names></name>
+<name><surname>Asgarali</surname><given-names>Z.</given-names></name>
+<name><surname>Campbell</surname><given-names>M.</given-names></name>
+<name><surname>Adone</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Serologic responses, biosafety and clearance of four dosages of Brucella abortus strain RB51 in 6&#x2013;10 months old water buffalo (<italic toggle="yes">Bubalus bubalis</italic>)</article-title>
+          <source>Vet. Immunol. Immunopathol.</source>
+          <year>2006</year>
+          <volume>109</volume>
+          <fpage>43</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetimm.2005.07.020</pub-id>
+          <pub-id pub-id-type="pmid">16112746</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-microorganisms-11-02078">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Iovane</surname><given-names>G.</given-names></name>
+<name><surname>Martucciello</surname><given-names>A.</given-names></name>
+<name><surname>Astarita</surname><given-names>S.</given-names></name>
+<name><surname>Galiero</surname><given-names>G.</given-names></name>
+<name><surname>Pasquali</surname><given-names>P.</given-names></name>
+<name><surname>Adone</surname><given-names>R.</given-names></name>
+<name><surname>Ciuchini</surname><given-names>F.</given-names></name>
+<name><surname>Pagnini</surname><given-names>U.</given-names></name>
+<name><surname>Guarino</surname><given-names>A.</given-names></name>
+<name><surname>Fusco</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Vaccino Brucella abortus RB51</article-title>
+          <source>IL Prog. Vet.</source>
+          <year>2007</year>
+          <volume>1</volume>
+          <fpage>19</fpage>
+          <lpage>21</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B27-microorganisms-11-02078">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Galiero</surname><given-names>G.</given-names></name>
+<name><surname>Martucciello</surname><given-names>A.</given-names></name>
+<name><surname>Astarita</surname><given-names>S.</given-names></name>
+<name><surname>Viscito</surname><given-names>A.</given-names></name>
+<name><surname>Iovane</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Safety of Brucella abortus vaccine strain RB51 in mediterranean water buffalo cows</article-title>
+          <source>Large Anim. Rev.</source>
+          <year>2009</year>
+          <volume>15</volume>
+          <fpage>19</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B28-microorganisms-11-02078">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Caporale</surname><given-names>V.</given-names></name>
+<name><surname>Bonfini</surname><given-names>B.</given-names></name>
+<name><surname>Di Giannatale</surname><given-names>E.</given-names></name>
+<name><surname>Di Provvido</surname><given-names>A.</given-names></name>
+<name><surname>Forcella</surname><given-names>S.</given-names></name>
+<name><surname>Giovannini</surname><given-names>A.</given-names></name>
+<name><surname>Tittarelli</surname><given-names>M.</given-names></name>
+<name><surname>Scacchia</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Efficacy of Brucella abortus vaccine strain RB51 compared to the reference vaccine <italic toggle="yes">Brucella abortus</italic> strain 19 in water buffalo</article-title>
+          <source>Vet. Ital.</source>
+          <year>2010</year>
+          <volume>46</volume>
+          <fpage>13</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="pmid">20391363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-microorganisms-11-02078">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>De Massis</surname><given-names>F.</given-names></name>
+<name><surname>Giovannini</surname><given-names>A.</given-names></name>
+<name><surname>Di Emidio</surname><given-names>B.</given-names></name>
+<name><surname>Ronchi</surname><given-names>G.F.</given-names></name>
+<name><surname>Tittarelli</surname><given-names>M.</given-names></name>
+<name><surname>Di Giannatale</surname><given-names>E.</given-names></name>
+<name><surname>Di Ventura</surname><given-names>M.</given-names></name>
+<name><surname>Nannini</surname><given-names>D.</given-names></name>
+<name><surname>Caporale</surname><given-names>V.</given-names></name>
+</person-group>
+          <article-title>Use of the complement fixation and brucellin skin tests to identify cattle vaccinated with Brucella abortus strain RB51</article-title>
+          <source>Vet. Ital.</source>
+          <year>2005</year>
+          <volume>41</volume>
+          <fpage>291</fpage>
+          <lpage>299</lpage>
+          <pub-id pub-id-type="pmid">20437382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-microorganisms-11-02078">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tittarelli</surname><given-names>M.</given-names></name>
+<name><surname>Atzeni</surname><given-names>M.</given-names></name>
+<name><surname>Calistri</surname><given-names>P.</given-names></name>
+<name><surname>Di Giannatale</surname><given-names>E.</given-names></name>
+<name><surname>Ferri</surname><given-names>N.</given-names></name>
+<name><surname>Marchi</surname><given-names>E.</given-names></name>
+<name><surname>Martucciello</surname><given-names>A.</given-names></name>
+<name><surname>De Massis</surname><given-names>F.</given-names></name>
+</person-group>
+          <article-title>A diagnostic protocol to identify water buffaloes (<italic toggle="yes">Bubalus bubalis</italic>) vaccinated with Brucella abortus strain RB51 vaccine</article-title>
+          <source>Vet. Ital.</source>
+          <year>2015</year>
+          <volume>51</volume>
+          <fpage>99</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="pmid">26129660</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-microorganisms-11-02078">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Di Giannatale</surname><given-names>E.</given-names></name>
+<name><surname>Alessiani</surname><given-names>A.</given-names></name>
+<name><surname>Prencipe</surname><given-names>V.</given-names></name>
+<name><surname>Matteucci</surname><given-names>O.</given-names></name>
+<name><surname>Persiani</surname><given-names>T.</given-names></name>
+<name><surname>Zilli</surname><given-names>K.</given-names></name>
+<name><surname>Migliorati</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Polymerase chain reaction and bacteriological comparative analysis of raw milk samples and buffalo mozzarella produced and marketed in Caserta in the Campania region of Italy</article-title>
+          <source>Vet. Ital.</source>
+          <year>2009</year>
+          <volume>45</volume>
+          <fpage>437</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="pmid">20391407</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-microorganisms-11-02078">
+        <label>32.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Sivia</surname><given-names>D.S.</given-names></name>
+</person-group>
+          <source>Data Analysis: A Bayesian Tutorial</source>
+          <publisher-name>Oxford University Press</publisher-name>
+          <publisher-loc>Oxford, UK</publisher-loc>
+          <year>1996</year>
+        </element-citation>
+      </ref>
+      <ref id="B33-microorganisms-11-02078">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ramnanan</surname><given-names>A.</given-names></name>
+<name><surname>Diptee</surname><given-names>M.</given-names></name>
+<name><surname>Asgarali</surname><given-names>Z.</given-names></name>
+<name><surname>Campbell</surname><given-names>M.</given-names></name>
+<name><surname>Adesiyun</surname><given-names>A.A.</given-names></name>
+</person-group>
+          <article-title>Serological and bacteriological responses of water buffalo (<italic toggle="yes">Bubalus bubalis</italic>) vaccinated with two doses of <italic toggle="yes">Brucella abortus</italic> strain RB51 vaccine</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <year>2012</year>
+          <volume>44</volume>
+          <fpage>1451</fpage>
+          <lpage>1458</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11250-012-0086-4</pub-id>
+          <pub-id pub-id-type="pmid">22297422</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-microorganisms-11-02078">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Faruk</surname><given-names>M.S.A.</given-names></name>
+<name><surname>Jung</surname><given-names>Y.</given-names></name>
+<name><surname>Hur</surname><given-names>T.</given-names></name>
+<name><surname>Lee</surname><given-names>S.</given-names></name>
+<name><surname>Cho</surname><given-names>Y.</given-names></name>
+</person-group>
+          <article-title>Longitudinal Study of <italic toggle="yes">Mycobacterium avium</italic> Subsp. paratuberculosis Antibody Kinetics in Dairy Cattle Using Sera and Milk throughout the Lactation Period</article-title>
+          <source>Vet. Sci.</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <elocation-id>81</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/vetsci7030081</pub-id>
+          <pub-id pub-id-type="pmid">32629919</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-microorganisms-11-02078">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chorfi</surname><given-names>Y.</given-names></name>
+<name><surname>Lanevschi-Pietersma</surname><given-names>A.</given-names></name>
+<name><surname>Girard</surname><given-names>V.</given-names></name>
+<name><surname>Tremblay</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Evaluation of variation in serum globulin concentrations in dairy cattle</article-title>
+          <source>Vet. Clin. Pathol.</source>
+          <year>2004</year>
+          <volume>33</volume>
+          <fpage>122</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1939-165X.2004.tb00360.x</pub-id>
+          <pub-id pub-id-type="pmid">15334345</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-microorganisms-11-02078">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Meurman</surname><given-names>O.</given-names></name>
+<name><surname>Lehtonen</surname><given-names>O.P.</given-names></name>
+</person-group>
+          <article-title>Fluctuation of virus antibody levels in healthy adults</article-title>
+          <source>Eur. J. Clin. Microbiol. Infect. Dis.</source>
+          <year>1988</year>
+          <volume>7</volume>
+          <fpage>656</fpage>
+          <lpage>658</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF01964245</pub-id>
+          <pub-id pub-id-type="pmid">2848705</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-microorganisms-11-02078">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tittarelli</surname><given-names>M.</given-names></name>
+<name><surname>Bonfini</surname><given-names>B.</given-names></name>
+<name><surname>De Massis</surname><given-names>F.</given-names></name>
+<name><surname>Giovannini</surname><given-names>A.</given-names></name>
+<name><surname>Di Ventura</surname><given-names>M.</given-names></name>
+<name><surname>Nannini</surname><given-names>D.</given-names></name>
+<name><surname>Caporale</surname><given-names>V.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella abortus</italic> Strain RB51 Vaccine: Immune Response after Calfhood Vaccination and Field Investigation in Italian Cattle Population</article-title>
+          <source>Clin. Dev. Immunol.</source>
+          <year>2008</year>
+          <volume>2008</volume>
+          <fpage>584624</fpage>
+          <lpage>584626</lpage>
+          <pub-id pub-id-type="doi">10.1155/2008/584624</pub-id>
+          <pub-id pub-id-type="pmid">18414589</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="microorganisms-11-02078-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>Schematic representation of the experimental design. Information on different steps, timing, age of the animals, and physiological stage are displayed.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-11-02078-g001" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-11-02078-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>(<bold>a</bold>) Antibody response to RB51 vaccination measured by RB51-CFT from vaccination to calving. Values are expressed as the reciprocal of serum dilutions. The box and whisker-plot chart shows distribution RB51-CFT data into quartiles. Lines inside the boxes indicate group median value. Outliers are displayed as blue circles. The blue line indicates the mean of grouped values from vaccinated animals. The red line shows the test cut-off (1:4). Crosses represent animal death. Non-parametric Mann&#x2013;Whitney test was applied to compare Ab titers between vaccinated and control groups and significant differences (<italic toggle="yes">p</italic> &lt; 0.05) in are indicated with &#x201C;*&#x201D;. Data from control group are not displayed and remained constantly below the cut-off value. (<bold>b</bold>) Geometric mean of antibody response to RB51 vaccination measured by RB51-CFT from vaccination to calving. Values are expressed as reciprocal of serum dilutions. The continuous blue line indicates the mean of grouped values from vaccinated animals (VVV). Dotted dark blue and azul lines represents upper (u.c.l.) and lower (l.c.l.) confidential limits respectively of vaccinated animals. The continuous green line indicates the mean of grouped values from control animals (CCC). The red line shows the test cut-off (1:4). Crosses represent animal death.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-11-02078-g002" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-11-02078-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>Variations in RB51-CFT sensitivity after vaccination, in terms of percentage of vaccinated animals correctly identified as vaccinated. Data refer to the period from vaccination to calving. Results are expressed as the percentage of vaccinated animals resulting positive to RB51-CFT (Ab titer &#x2265; 1:4) over the number of vaccinated animals tested for each time point. Bars indicate upper and lower confidential limits calculated at 95% confidence interval using a Bayesian approach with a beta distribution.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-11-02078-g003" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-11-02078-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>(<bold>a</bold>) RB51-CFT antibody titers observed after calving and during lactation. Values are expressed as reciprocal of serum dilutions. The box and whisker chart shows distribution RB51-CFT data into quartiles. Lines inside the boxes indicate group median value. Outliers are displayed as blue circles. The blue line indicates the mean of grouped values from vaccinated animals. The red line shows the test cut-off (1:4). Non-parametric Mann&#x2013;Whitney test was applied to compare Ab titers between vaccinated and control groups. No significant differences were observed between vaccinated and control animals. Data from control group are not displayed and remained constantly below the cut-off value. (<bold>b</bold>) Percentage of animals testing positive to RB51-CFT after calving and during lactation. Results are expressed as the percentage of vaccinated animals resulting positive to RB51-CFT (Ab titer &#x2265; 1:4) over the number of vaccinated animals tested for each time point. Bars indicate upper and lower confidential limits calculated at 95% confidence interval using a Bayesian approach with a beta distribution.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-11-02078-g004a" position="float"/>
+      <graphic xlink:href="microorganisms-11-02078-g004b" position="float"/>
+    </fig>
+    <table-wrap position="float" id="microorganisms-11-02078-t001">
+      <object-id pub-id-type="pii">microorganisms-11-02078-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Number of samples negative to <italic toggle="yes">Brucella</italic> spp. tested by microbiological isolation and PCR in different stages of the trial.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Animals (n)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Stage of the Trial</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Matrices</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Samples (n)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">4</td>
+            <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Post vaccination (dead animals)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">lymph nodes</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">31</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">spleen</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">udder</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">other organs</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">14</td>
+          </tr>
+          <tr>
+            <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">29</td>
+            <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Calving</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">cotiledons</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">28</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">colostrum</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">vaginal swabs</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">29</td>
+          </tr>
+          <tr>
+            <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">29</td>
+            <td rowspan="2" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">Lactation</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">milk</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">733</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">vaginal swabs</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">369</td>
+          </tr>
+          <tr>
+            <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">29</td>
+            <td rowspan="4" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">End of trial (slaughtered animals)</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">lymph nodes</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">92</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">spleen</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">22</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">udder</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">21</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">other organs</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

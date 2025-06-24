@@ -1,0 +1,1052 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Vaccines (Basel)</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Vaccines (Basel)</journal-id>
+      <journal-id journal-id-type="publisher-id">vaccines</journal-id>
+      <journal-title-group>
+        <journal-title>Vaccines</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-393X</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37515088</article-id>
+      <article-id pub-id-type="pmc">10385478</article-id>
+      <article-id pub-id-type="doi">10.3390/vaccines11071273</article-id>
+      <article-id pub-id-type="publisher-id">vaccines-11-01273</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Characterization of <italic toggle="yes">Brucella abortus</italic> Mutant A19mut2, a Potential DIVA Vaccine Candidate with a Modification on Lipopolysaccharide</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8032-0909</contrib-id>
+          <name>
+            <surname>Abdelgawad</surname>
+            <given-names>Hosny Ahmed</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+          <xref rid="af2-vaccines-11-01273" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lian</surname>
+            <given-names>Zhengmin</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yin</surname>
+            <given-names>Yi</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fang</surname>
+            <given-names>Tian</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Mingxing</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+          <xref rid="c1-vaccines-11-01273" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Shengqing</given-names>
+          </name>
+          <xref rid="af1-vaccines-11-01273" ref-type="aff">1</xref>
+          <xref rid="af3-vaccines-11-01273" ref-type="aff">3</xref>
+          <xref rid="c1-vaccines-11-01273" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Marchioro</surname>
+            <given-names>Silvana Beutinger</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Borsuk</surname>
+            <given-names>Sibele</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-vaccines-11-01273"><label>1</label>Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences (CAAS), Shanghai 200241, China; <email>hosnyahmed@vet.aswu.edu.eg</email> (H.A.A.); <email>lian_zm@126.com</email> (Z.L.); <email>yinyisonia@126.com</email> (Y.Y.); <email>ft18052078884@163.com</email> (T.F.)</aff>
+      <aff id="af2-vaccines-11-01273"><label>2</label>Department of Microbiology and Immunology, Faculty of Veterinary Medicine, Aswan University, Aswan 81528, Egypt</aff>
+      <aff id="af3-vaccines-11-01273"><label>3</label>Jiangsu Key Laboratory for High-Tech Research and Development of Veterinary Biopharmaceuticals, Jiangsu Agri-Animal Husbandry Vocational College, Veterinary Bio-Pharmaceutical, Taizhou 225309, China</aff>
+      <author-notes>
+        <corresp id="c1-vaccines-11-01273"><label>*</label>Correspondence: <email>mxtian@shvri.ac.cn</email> (M.T.); <email>yu_20220209@163.com</email> (S.Y.); Tel.: +86-21-34293412 (M.T.); +86-21-34293461 (S.Y.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>7</issue>
+      <elocation-id>1273</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>11</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 by the authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Background: <italic toggle="yes">Brucella abortus</italic> is the main causative agent for bovine brucellosis. <italic toggle="yes">B. abortus</italic> A19 is a widely used vaccine strain to protect cows from <italic toggle="yes">Brucella</italic> infection in China. However, A19 has a similar lipopolysaccharide (LPS) antigen to that of the field virulent <italic toggle="yes">Brucella</italic> strain, whose immunization interferes with the serodiagnosis of vaccinated and infected animals. [Aim] To develop a novel <italic toggle="yes">Brucella</italic> DIVA vaccine candidate. Study design and methods: The <italic toggle="yes">B. abortus</italic> mutant A19mut2 with the formyltransferase gene <italic toggle="yes">wbkC</italic> is replaced by an acetyltransferase gene <italic toggle="yes">wbdR</italic> from <italic toggle="yes">E. coli</italic> O157 using the bacterial homologous recombination technique, generating a modified O-polysaccharide that cannot induce antibodies in mice against wild-type <italic toggle="yes">Brucella</italic> LPS. The biological phenotypes of the A19mut2 were assessed using a growth curve analysis, agglutination tests, Western blotting, and stress resistance assays. Histopathological changes and bacterial colonization in the spleens of vaccinated mice were investigated to assess the residual virulence and protection of the A19mut2. Humoral and cellular immunity was evaluated by measuring the levels of IgG, IgG subtypes, and the release of cytokines IFN-&#x3B3; and IL10 in the splenocytes of the vaccinated mice. ELISA coated with wild-type LPS can distinguish mouse antibodies induced by A19 and A19mut2 immunization. Results: The A19mut2 showed a decreased residual virulence in mice, compared to the A19 strain, but induced significant humoral and cellular immune responses, as the A19 immunization did. The protection efficacy of A19mut2 immunization against <italic toggle="yes">B. abortus</italic> S2308 Nal<sup>R</sup> infection was similar to that of A19 immunization. Conclusion: The A19mut2 has potential as a novel DIVA vaccine candidate in the future.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic toggle="yes">Brucella abortus</italic>
+        </kwd>
+        <kwd>vaccine</kwd>
+        <kwd>differential diagnosis</kwd>
+        <kwd>lipopolysaccharide</kwd>
+        <kwd>modification</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>National Natural Science Foundation of China</funding-source>
+          <award-id>31972723</award-id>
+          <award-id>32072828</award-id>
+          <award-id>32273012</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Scientific and Technical Innovation Project of the Chinese Academy of Agricultural Sciences</funding-source>
+          <award-id>SHVRI-ASTIP-2014-8</award-id>
+        </award-group>
+        <funding-statement>This work was supported by funds from the National Natural Science Foundation of China (grant no. 31972723, 32072828, 32273012), the Scientific and Technical Innovation Project of the Chinese Academy of Agricultural Sciences (SHVRI-ASTIP-2014-8).</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-vaccines-11-01273">
+      <title>1. Introduction</title>
+      <p>Brucellosis is an important recurrent zoonosis that causes significant economic losses, including in terms of livestock, and poses a substantial public health risk. Brucellosis is caused by a pathogen known as <italic toggle="yes">Brucella</italic>, which lacks spores and is a Gram-negative coccobacillus. To decrease these high economic losses, the production of an effective veterinary vaccine would be an effective strategy to control <italic toggle="yes">Brucella</italic> in humans and animals [<xref rid="B1-vaccines-11-01273" ref-type="bibr">1</xref>,<xref rid="B2-vaccines-11-01273" ref-type="bibr">2</xref>].</p>
+      <p>Vaccination is now the most cost-effective method of preventing and controlling brucellosis. In China, the <italic toggle="yes">B. abortus</italic> vaccine A19 has been used extensively to protect cattle, but the antibody response, especially induced by the O-polysaccharide (O-PS) of LPS, hinders serological diagnoses, including serum agglutination tests, Rose Bengal plate tests, complement fixation tests, and enzyme-linked immunosorbent assays (ELISAs); thus, it is difficult to distinguish between infected and vaccinated animals [<xref rid="B3-vaccines-11-01273" ref-type="bibr">3</xref>,<xref rid="B4-vaccines-11-01273" ref-type="bibr">4</xref>]. There is no doubt that the limitation of the A19 vaccine significantly affects ongoing efforts to eliminate and control brucellosis. However, the use and development of gene-deleted vaccines could be an effective strategy to overcome the interference with serological diagnoses [<xref rid="B3-vaccines-11-01273" ref-type="bibr">3</xref>,<xref rid="B5-vaccines-11-01273" ref-type="bibr">5</xref>].</p>
+      <p>Recently, a <italic toggle="yes">B. melitensis</italic> Rev1 vaccine strain with the deletion of the formyltransferase gene <italic toggle="yes">wbkC</italic> associated with O-PS synthesis and tagged with acetyltransferase <italic toggle="yes">wbdR</italic> from <italic toggle="yes">E. coli</italic> elicited antibodies that could be distinguished from those evoked by wild-type strains, was relatively attenuated, and provided protection against <italic toggle="yes">B. ovis</italic> [<xref rid="B6-vaccines-11-01273" ref-type="bibr">6</xref>]. This ingenious strategy could effectively solve the shortcomings of residual virulence and the differential diagnosis of vaccines. However, related strategies have not been used and evaluated for <italic toggle="yes">B. abortus</italic> vaccines, which motivated us to conduct relevant studies in <italic toggle="yes">B. abortus</italic> vaccine strain A19.</p>
+      <p>In this study, the <italic toggle="yes">wbkC</italic> gene in <italic toggle="yes">B. abortus</italic> A19 was replaced by the <italic toggle="yes">wbdR</italic> gene from <italic toggle="yes">E. coli</italic> O157, generating an O-PS-modified mutant strain, A19mut2. Our findings suggest that the A19mut2 exhibits potential as a DIVA (differentiating infected from vaccinated individuals) vaccine candidate against brucellosis.</p>
+    </sec>
+    <sec id="sec2-vaccines-11-01273">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-vaccines-11-01273">
+        <title>2.1. Ethics Statement</title>
+        <p>The experimental protocol was approved by the Shanghai Veterinary Research Institute, the Chinese Academy of Agricultural Sciences (CAAS), Shanghai, China (permit no. SHVRI-SD-2019-105). The protocol was strictly following the Care and Use of Laboratory Animals of the Institutional Animal Care and Use Committee of Shanghai Veterinary Research Institute, CAAS. </p>
+      </sec>
+      <sec id="sec2dot2-vaccines-11-01273">
+        <title>2.2. Brucella Strains and Cultural Conditions</title>
+        <p><italic toggle="yes">B. abortus</italic> vaccine strain A19 and wild-type strain S2308 were obtained from the Chinese Veterinary Culture Collection Center (CVCC, Beijing, China). <italic toggle="yes">B. abortus</italic> nalidixic acid-resistant strain 2308 Nal<sup>R</sup> was derived from the S2308 by induction of nalidixic acid [<xref rid="B7-vaccines-11-01273" ref-type="bibr">7</xref>]. The S2308 strain was used to prepare the heat-killed antigens. The S2308 Nal<sup>R</sup> strain was used as a challenge to determine the protection of vaccination. <italic toggle="yes">B. abortus</italic> rough-type strain RB14 (<italic toggle="yes">B. abortus</italic> strain 2308 with deletion of <italic toggle="yes">rfbE</italic> gene) was constructed in our previous study [<xref rid="B8-vaccines-11-01273" ref-type="bibr">8</xref>]. <italic toggle="yes">Brucella</italic> strains were cultured in tryptic soy broth (TSB, Difco, NJ, USA) or tryptic soy agar (TSA) at 37 &#xB0;C with 5% CO<sub>2</sub>. Experiments dealing with live <italic toggle="yes">B. abortus</italic> strains were all performed in a biosafety level 3 laboratory facility at the Chinese Academy of Agricultural Sciences. <italic toggle="yes">E. coli</italic> strain O157 (passaged and stocked in our lab) and DH5&#x3B1; (TIANGEN Biotech Co., Ltd., Beijing, China) were grown in Luria-Bertani medium. When appropriate, 50 &#x3BC;g/mL of kanamycin or 15 &#x3BC;g/mL of nalidixic acid (Sigma-Aldrich Corporation, St. Louis, MO, USA) were added. All strains and plasmids used in this study are listed in <xref rid="vaccines-11-01273-t001" ref-type="table">Table 1</xref>.</p>
+      </sec>
+      <sec id="sec2dot3-vaccines-11-01273">
+        <title>2.3. Mutant Construction</title>
+        <p>A suicide plasmid was constructed as previously described with modifications [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]. Briefly, a 2795 bp fragment, including <italic toggle="yes">wbkC</italic> gene and its upstream and downstream fragments, was amplified by PCR from the genome of <italic toggle="yes">B. abortus</italic> A19 strain using primers WbkC-F and WbkC-R. The fragment was cloned into PCR-linearized pKB plasmid using a seamless cloning and assembly kit (ClonExpress II One Step Cloning Kit, Vazyme, Nanjing, China), and then the recombinant plasmid was further linearized by inverse PCR using primers rWbkC-F and rWbkC-R to exclude the <italic toggle="yes">wbkC</italic> gene. Moreover, <italic toggle="yes">wbdR</italic> gene containing its promoter region was amplified from <italic toggle="yes">E. coli</italic> O157 by PCR using primers WbdR-F and WbdR-R. The recovered <italic toggle="yes">wbdR</italic> fragment was cloned into inverse PCR-linearized recombinant plasmid to replace <italic toggle="yes">wbkC</italic> gene using the seamless cloning and assembly kit as described above. The suicide plasmid pKB-&#x394;wbkC::wbdR was propagated in <italic toggle="yes">E. coli</italic> DH5&#x3B1; cells and used to construct the mutant. A19mut2 mutant was constructed by allelic replacement using a two-step strategy as previously described [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>].</p>
+      </sec>
+      <sec id="sec2dot4-vaccines-11-01273">
+        <title>2.4. Bacterial Growth Determination</title>
+        <p>Bacterial growth of A19 and A19mut2 strains in the TSB was measured with determination of the optical density at 600 nm (OD<sub>600</sub>) using an Eppendorf BioSpectrometer basic (Eppendorf, Hamburg, Germany) as described [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]. Briefly, bacterial cells were washed twice, the OD<sub>600</sub> value was adjusted to 0.1 (5 &#xD7; 10<sup>8</sup> CFU/mL) in TSB, and then they were cultured at 37 &#xB0;C at 200 rpm to generate growth curves. The OD<sub>600</sub> absorbance of aliquots was measured every 4&#x2013;8 h, and the records were used to draw the growth curve.</p>
+      </sec>
+      <sec id="sec2dot5-vaccines-11-01273">
+        <title>2.5. Acridine Yellow Agglutination and Heat Agglutination Tests</title>
+        <p>Bacterial cultures at early stationary stage were washed twice with PBS and concentrated 10-fold by centrifugation. Then 10 &#x3BC;L bacterial suspension was evenly mixed with 10 &#x3BC;L 1% acridine yellow solution and incubated for five mins to determine the acridine yellow agglutination. The early stationary stage of the <italic toggle="yes">Brucella</italic> culture suspension was incubated for 2 h in a water bath at 80 &#xB0;C to evaluate the heat agglutination. The rough-type <italic toggle="yes">Brucella</italic> strain RB14 was used as a positive control.</p>
+      </sec>
+      <sec id="sec2dot6-vaccines-11-01273">
+        <title>2.6. LPS Extraction</title>
+        <p>A19 and A19mut2 strains were cultured to exponential phase in TSB. Bacterial cells were collected by centrifugation, and crude LPS was extracted using proteinase K-digested whole-cell lysates [<xref rid="B10-vaccines-11-01273" ref-type="bibr">10</xref>,<xref rid="B11-vaccines-11-01273" ref-type="bibr">11</xref>]. Samples were loaded on 12.5 % polyacrylamide gels for SDS-PAGE, and a silver staining assay was performed as previously described [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]. To prepare LPS for ELISA, we isolated LPS using hot phenol extraction as described previously.</p>
+      </sec>
+      <sec id="sec2dot7-vaccines-11-01273">
+        <title>2.7. SDS-PAGE and Western Blotting</title>
+        <p>The extracted LPS was mixed with 5 &#xD7; SDS loading buffer (Beyotime, Suzou, China) and boiled for 10 min. Samples were loaded for SDS-PAGE using 12.5 % resolving gels. Western blotting was performed as previously described [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]. Rabbit anti-<italic toggle="yes">Brucella</italic> antibody or mouse anti-O-PS monoclonal antibody 51C was used as the primary antibody, and IRDye 680RD Goat anti-Mouse IgG (H+L) or IRDye 800CW Goat anti-Rabbit IgG (H+L) (LI-COR Biosciences, Lincoln, NE, USA, 1: 20,000 diluted) was used as the secondary antibody. Images were acquired by scanning using Odyssey Imaging System (LI-COR).</p>
+      </sec>
+      <sec id="sec2dot8-vaccines-11-01273">
+        <title>2.8. Stress Resistance Assay</title>
+        <p>Stress resistance assays were performed as described previously [<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]. Resistance to H<sub>2</sub>O<sub>2</sub>, polymyxin B, sodium nitroprusside (SNP), and acidic peptone water (1 g/L Tryptone; 5 g/L NaCl; pH = 7.0, 6.5, 5.5, or 4.5) was performed to determine the sensitivity of the <italic toggle="yes">Brucella</italic> strains to oxidative stress, cationic bactericidal peptides, nitrosative stress, and the acid tolerance, respectively. </p>
+      </sec>
+      <sec id="sec2dot9-vaccines-11-01273">
+        <title>2.9. Virulence Test</title>
+        <p>Virulence test was performed as described previously [<xref rid="B12-vaccines-11-01273" ref-type="bibr">12</xref>]. The OD<sub>600</sub> value of bacterial cultures was adjusted to 1.0 (5 &#xD7; 10<sup>9</sup> CFU/mL). Bacterial suspension was serially diluted 10-fold to 5 &#xD7; 10<sup>6</sup> CFU/mL. Groups of BALB/c mice (<italic toggle="yes">n</italic> = 20 per group) were inoculated intraperitoneally with 1 &#xD7; 10<sup>6</sup> CFU of A19 or A19mut2 in 0.2 mL of PBS, and PBS was injected as a negative control. At 2-, 4-, 6- and 8-weeks post inoculation (WPI), five mice from each group were sacrificed, and their spleens were aseptically removed and homogenized in PBS. Ten-fold serial dilutions of spleen homogenates were plated on TSA plates and incubated for 3&#x2013;5 days at 37 &#xB0;C. The CFUs were enumerated to evaluate colonization efficiency of each strain in mice. The results are presented as the mean &#xB1; standard deviation (SD) of the log10 (log) CFU/spleen for each group.</p>
+      </sec>
+      <sec id="sec2dot10-vaccines-11-01273">
+        <title>2.10. Histopathological Examination</title>
+        <p>Histopathological examination of spleens and livers from mice inoculated with A19, A19mut2, or PBS was completed by Wuhan Servicebio Co., Ltd. (Wuhan, China) as previously described [<xref rid="B13-vaccines-11-01273" ref-type="bibr">13</xref>]. Briefly, the samples were fixed by 4% paraformaldehyde in properly fixed condition, and then trimmed, dehydrated, embedded, sectioned, stained by hematoxylin and eosin, sealed, and finally microscopically qualified. Tissue sections were browsed under the microscope and observed in detail at different magnifications. Basic pathological changes in the sections were described in writing, such as congestion, bruising, hemorrhaging, edema, degeneration, necrosis, hyperplasia, fibrosis, mechanization, granulation tissue, inflammatory changes, etc. Typical lesion sites were imaged and are identified with arrows in images.</p>
+      </sec>
+      <sec id="sec2dot11-vaccines-11-01273">
+        <title>2.11. Evaluation of Antibody Response in Mice Serum</title>
+        <p>This experiment was performed as previously reported [<xref rid="B14-vaccines-11-01273" ref-type="bibr">14</xref>]. Mice (<italic toggle="yes">n</italic> = 5 per group) were bled from the orbital sinus after anesthesia of isoflurane, and the sera were kept at minus 70 &#xB0;C until testing. ELISA was used to test the levels of IgG and IgG subclasses of antibodies. Briefly, ELISA plates were coated with 25 &#x3BC;g/well heat-killed and sonicated <italic toggle="yes">Brucella</italic> in carbonate buffer (pH = 9.6) overnight at 4 &#xB0;C. Triplicate serum samples with 200-fold dilution were added as the primary antibody. Goat anti-mouse IgG (Thermo Fisher, Waltham, MA, USA), IgG1, or IgG2a (Abcam, Cambridge, MA, USA) conjugated to horseradish peroxidase was used as the secondary antibody. Moreoever, ELISA was used to detect the antibodies against LPS, and the microplate was coated by the hot-phenol-extracted LPS with 0.1 &#x3BC;g per well in carbonate buffer (pH = 9.6) overnight at 4 &#xB0;C. Goat anti-mouse IgG was used as the secondary antibody. All the procedures were carried out according to the previous report [<xref rid="B14-vaccines-11-01273" ref-type="bibr">14</xref>,<xref rid="B15-vaccines-11-01273" ref-type="bibr">15</xref>].</p>
+      </sec>
+      <sec id="sec2dot12-vaccines-11-01273">
+        <title>2.12. Detection of Cytokine in Supernatants of Splenocytes</title>
+        <p>Splenocytes were prepared from the vaccinated and PBS mice as described previously [<xref rid="B12-vaccines-11-01273" ref-type="bibr">12</xref>]. At 6 WPI, the splenocytes were isolated, suspended in RPMI1640 (Thermo Fisher) with 10% FBS (BI), and seeded at a density of 2 &#xD7; 10<sup>5</sup> cells/well in 96-well cell culture plate, and then stimulated with 1 &#xD7; 10<sup>8</sup> CFU heat-killed S2308 strain or RPMI1640. At 3 days post stimulation, the supernatants were collected, and the levels of the IFN-&#x3B3; and IL-10 were detected using ELISA kits according to the manufacturer&#x2019;s instructions (Bio-Legend, San Diego, CA, USA).</p>
+      </sec>
+      <sec id="sec2dot13-vaccines-11-01273">
+        <title>2.13. Protective Efficacy Analysis</title>
+        <p>Six-week-old female BALB/c mice were randomly divided into three treatment groups (<italic toggle="yes">n</italic> = 5 per group) and vaccinated intraperitoneally with a single dose of 1&#xD7; 10<sup>6</sup> CFU of A19 strain or A19mut2 according to the report [<xref rid="B12-vaccines-11-01273" ref-type="bibr">12</xref>,<xref rid="B16-vaccines-11-01273" ref-type="bibr">16</xref>,<xref rid="B17-vaccines-11-01273" ref-type="bibr">17</xref>]. An equal number of mice were given only PBS as unvaccinated controls. Protective efficacy induced by A19mut2 injection in BALB/c mice was measured and compared with that of A19 strain at 6 WPI. All groups of mice were challenged intraperitoneally at 6 WPI with 1 &#xD7; 10<sup>6</sup> CFU of S2308 Nal<sup>R</sup> per mouse as reported [<xref rid="B16-vaccines-11-01273" ref-type="bibr">16</xref>]. Two weeks after the virulent challenge, the mice were sacrificed, and the spleens were collected, weighed, and homogenized in PBS. The numbers of CFU recovered from spleens were determined by plating TSA with 15 &#x3BC;g/mL nalidixic acid as described above. The levels of infection were expressed as the mean &#xB1; SD of log CFU/spleen of S2308 Nal<sup>R</sup> after challenge. Mean log CFU reductions or log units of protection were obtained by subtracting the mean log CFU for the vaccinated group from the mean log CFU for the unvaccinated control group.</p>
+      </sec>
+      <sec id="sec2dot14-vaccines-11-01273">
+        <title>2.14. Statistical Analysis</title>
+        <p>Data were imported into GraphPad Prism 9.0 (Graph Pad Software, San Diego, CA, USA) for analysis. Statistical significance was determined using a Student&#x2019;s <italic toggle="yes">t</italic>-test. For group analysis, one-way ANOVA or two-way ANOVA followed by Dunnett&#x2019;s multiple comparisons test was used. <italic toggle="yes">p</italic> values less than 0.05 were considered statistically significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-vaccines-11-01273">
+      <title>3. Results</title>
+      <sec id="sec3dot1-vaccines-11-01273">
+        <title>3.1. A19-Derived Mutant A19mut2 Was Constructed Successfully with an Antigenically Modified O-PS</title>
+        <p>A19mut2 was derived from <italic toggle="yes">B. abortus</italic> vaccine strain A19, in which the <italic toggle="yes">wbkC</italic> gene was replaced by the <italic toggle="yes">wbdR</italic> gene from <italic toggle="yes">E. coli</italic> O157 using the method of gene homologous recombination (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>A). Firstly, we verified the A19mut2 by PCR assay, showing that the fragment of the <italic toggle="yes">wbdR</italic> gene in A19mut2 was amplified using the cross primers ID-F1 and ID-R1, but not in A19 (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>B). When the fragment of the <italic toggle="yes">wbkC</italic> gene was amplified by PCR using the cross primers ID-F1 and ID-R2, the target band was shown in the control strain A19, but not in the A19mut2 strain (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>C). The result revealed that in the A19mut2 strain, the <italic toggle="yes">wbkC</italic> gene was successfully replaced by the <italic toggle="yes">wbdR</italic> gene. Secondly, the growth curve of A19mut2 was compared with that of A19, showing no significant difference (<xref rid="app1-vaccines-11-01273" ref-type="app">Figure S1</xref>). Then we analyzed the smooth phenotype of A19mut2 using acridine yellow agglutination and heat agglutination tests. The results showed that the A19mut2 did not agglutinate with 1% acridine orange or with heat incubation for 2 h (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>D,E), which was similar to the behavior of the A19 strain. The rough-type <italic toggle="yes">Brucella</italic> control strain RB14 showed significant agglutination when treatedwith acridine yellow or heat (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>D,E). The results revealed that A19mut2 is a smooth-type strain. Finally, to further confirm that A19mut2 expressed a modified O-PS that was distant from that of the original strain, A19, LPS silver staining and Western blotting were performed for verification. The LPS staining showed that both strains exhibited an integral LPS structure, but the migration profile of O-PS from A19mut2 was different from that of the A19 strain, displaying a shortened O-PS (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>F). Additionally, Western blotting was carried out to evaluate the antigenicity of O-PS from A19mut2 using polyclonal antibodies against smooth <italic toggle="yes">Brucella</italic> and monoclonal antibodies specifically against O-PS, showing that the LPS from A19mut2 had no reaction with the polyclonal or monoclonal antibodies, but the LPS from the A19 strain had an obvious reaction with both antibodies (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>F). These data suggested that the A19mut2 was successfully constructed with a smooth phenotype and showed an antigenically modified O-PS compared to that of the original strain, A19.</p>
+      </sec>
+      <sec id="sec3dot2-vaccines-11-01273">
+        <title>3.2. A19mut2 Reduced Its Ability to Resist Acidic pH, but Not Hydrogen Peroxide, Polymyxin B, and Sodium Nitroprusside (SNP)</title>
+        <p>To assess the ability of A19mut2 to resist bactericidal factors, hydrogen peroxide, SNP, polymyxin B, and an acidic buffer were used to evaluate its sensitivity compared to that of the A19 strain. As shown in <xref rid="vaccines-11-01273-f002" ref-type="fig">Figure 2</xref>A,B, A19mut2 showed similar sensitivity to the hydrogen peroxide and polymyxin B. In the SNP test, A19mut2 also exhibited a similar sensitivity to SNP relative to A19 (<xref rid="app1-vaccines-11-01273" ref-type="app">Figure S2</xref>). These data suggested that the O-PS modification did not affect <italic toggle="yes">Brucella</italic>&#x2019;s ability to resist killing by oxidative stress, cationic bactericidal peptides, and nitrosative stress. However, when incubated in a different acidic peptone buffer, A19mut2 had a significantly reduced survival rate at pHs of 6.5, 5.5, and 4.5 compared to that of the A19 strain (<xref rid="vaccines-11-01273-f002" ref-type="fig">Figure 2</xref>C), suggesting that O-PS modification affects <italic toggle="yes">Brucella</italic>&#x2019;s capacity to tolerate acid shock.</p>
+      </sec>
+      <sec id="sec3dot3-vaccines-11-01273">
+        <title>3.3. A19mut2 Showed Similar Residual Virulence Compared to the A19 Strain</title>
+        <p>To assess the residual virulence of A19mut2, BALB/c mice were inoculated by A19mut2 or A19 with a dose of 10<sup>6</sup> CFU/mouse. The number of CFUs in the spleen was determined at 2, 4, 6, and 8 WPI. The results showed that the CFU of the A19mut2 recovered from the spleen was significantly reduced in comparison with that of the A19 strain at 2 WPI (<xref rid="vaccines-11-01273-f003" ref-type="fig">Figure 3</xref>). However, although the bacterial loads recovered from the spleen inoculated by A19mut2 at 4 and 6 WPI were slightly higher than that of the A19 strain, no significant difference was found in both strains&#x2019; vaccinated groups. At 8 WPI, the A19mut2 showed a similar level of spleen colonization as the A19 strain (<xref rid="vaccines-11-01273-f003" ref-type="fig">Figure 3</xref>).</p>
+        <p>To further evaluate the residual virulence of the A19mut2 strain, a histopathological examination via hematoxylin and eosin staining was performed in the spleens and livers inoculated by the A19mut2 and A19 strains. PBS inoculations were carried out as the negative control. The histopathology of the spleens vaccinated by A19mut2 showed the necrosis of white pulps and hyperplasia of connective tissues at 2 or 4 WPI, which were restored to the normal morphology at 6 and 8 WPI. The A19-inoculated spleen only showed obvious histopathological changes at 2 WPI, but not at 4, 6, or 8 WPI (<xref rid="vaccines-11-01273-f004" ref-type="fig">Figure 4</xref>, left panel). The livers vaccinated by the A19mut2 and A19 strains showed visible granuloma at 2, 4, and 6 WPI and were restored to the normal morphology at 8 WPI with no obvious difference (<xref rid="vaccines-11-01273-f004" ref-type="fig">Figure 4</xref>, right panel). Meanwhile, the PBS-inoculated spleens and livers showed no histopathological changes at all indicated times (<xref rid="vaccines-11-01273-f004" ref-type="fig">Figure 4</xref>, right panel). The data suggest that the residual virulence of A19mut2 is basically equivalent to that of the A19 strain.</p>
+      </sec>
+      <sec id="sec3dot4-vaccines-11-01273">
+        <title>3.4. A19mut2 Induced Humoral- and Cellular-Mediated Immune Response</title>
+        <p>Sera were collected from the immunized mice at 2, 4, 6, and 8 WPI and assessed for the presence of <italic toggle="yes">Brucella</italic>-specific antibodies IgG, IgG1, and IgG2a based on the ELISA coated by the total <italic toggle="yes">Brucella</italic> S2308 lysates. The ELISA results showed that A19 induced significant levels of antibodies IgG, IgG1, and IgG2a in the mice compared to the PBS group (<xref rid="vaccines-11-01273-f005" ref-type="fig">Figure 5</xref>). However, A19mut2 only induced significant levels of lgG and IgG2a in the mice at 6 and 8 WPI, but not at 2 and 4 WPI in comparison with the PBS group. Moreoever, the IgG1 level in the mice was not induced by A19mut2 in any of the phases of vaccination. Furthermore, when compared to the A19 vaccination, A19mut2 induced decreased levels of IgG, IgG1, and IgG2a in the mice (<xref rid="vaccines-11-01273-f005" ref-type="fig">Figure 5</xref>). These data suggested that LPS is an important component in <italic toggle="yes">Brucella</italic> to induce antibody production, as previously reported in the literature [<xref rid="B18-vaccines-11-01273" ref-type="bibr">18</xref>]. Although the levels of antibodies were reduced in the A19mut2-vaccinated mice, the lgG2a levels were predominant in their immune responses, suggesting a bias towards to a Th1-type response.</p>
+        <p>To evaluate the cellular immune response, the supernatants were collected from the stimulated splenocytes of the mice at 6 WPI, and the Th1-type cytokine IFN-&#x3B3; and the Th2-type cytokine IL-10 were assessed using an ELISA kit. As shown in <xref rid="vaccines-11-01273-f006" ref-type="fig">Figure 6</xref>, when the splenocytes were stimulated by heat-killed S2308, the splenocytes from the A19- and A19mut2-immunized mice produced significant amounts of IFN-&#x3B3; and IL-10 in comparison with that of the PBS-inoculated mice, and no significance was found between the A19 and A19mut2 groups in terms of cytokine production. The splenocytes in the RPMI1640 incubation produced low amounts of cytokines in all the tested groups. These data suggested that A19mut2 induced similar humoral and cellular immune responses with a predominately Th1-type response to the A19 strain.</p>
+      </sec>
+      <sec id="sec3dot5-vaccines-11-01273">
+        <title>3.5. Vaccination with A19mut2 Confers a Similar Protection to A19 Immunization in a Mice Model</title>
+        <p>To evaluate the protective efficacy of A19mut2, the mice were immunized with A19mut2 or A19, and one separate group was given PBS as a negative control. When the immunized mice were challenged by a wild-type S2308 Nal<sup>R</sup> strain, both strains offered significant protection compared to that of the PBS-dosed mice and a significant decrease in the bacterial load in the spleens relative to that in the PBS-dosed mice, with a 1.19-log and 0.81-log reduction for A19 and A19mut2, respectively (<xref rid="vaccines-11-01273-f007" ref-type="fig">Figure 7</xref>). Although the bacterial loads in the spleens of the A19mut2-immunized mice were a little higher than those of the A19 immunization, there were no significant differences in the bacterial loads between the A19- and A19mut2-immunized mice (<xref rid="vaccines-11-01273-f007" ref-type="fig">Figure 7</xref>). These results indicated that the A19mut2 vaccination confers a similar protective efficacy in comparison with the A19 vaccination in mice.</p>
+      </sec>
+      <sec id="sec3dot6-vaccines-11-01273">
+        <title>3.6. A19mut2-Immunized Mice Can Be Discriminated from A19 Immunization via LPS-Coated ELISA</title>
+        <p>To evaluate if LPS could be used as a diagnostic antigen to distinguish A19mut2 and A19 immunization or wild-type <italic toggle="yes">Brucella</italic> infection, the sera were collected from the A19mut2- and A19-immunized mice at 2, 4, 6, and 8 WPI, and a wild-type LPS-coated ELISA was used to detect the antibody levels. The result showed that the antibody level of the A19mut2-immunized mice was significantly reduced relative to that of the A19-immunized mice based on the wild-type LPS-coated ELISA, which was similar to the antibody level of the PBS-dosed mice at all indicated times (<xref rid="vaccines-11-01273-f008" ref-type="fig">Figure 8</xref>). These data suggested that the A19mut2-immunized mice could be successfully discriminated from the A19-immunized mice based on the wild-type LPS-coated ELISA.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-vaccines-11-01273">
+      <title>4. Discussion</title>
+      <p>The O-PS of smooth-type <italic toggle="yes">Brucella</italic> LPS is an unbranched homopolymer of N-formyl-perosamine (4-formanido-4,6-dideoxy D-mannose) in various proportions of &#x3B1;-(1-2)- and &#x3B1;-(1-3)-linkages [<xref rid="B19-vaccines-11-01273" ref-type="bibr">19</xref>], which is exposed to the surface of <italic toggle="yes">Brucella</italic> to form the main epitopes in serological diagnoses. The genetic modification of <italic toggle="yes">Brucella</italic> O-PS could open the possibility of solving the diagnostic interference induced by current <italic toggle="yes">Brucella</italic> vaccines. In previous literature, Estrella M. et al. introduced an O-PS acetyltransferase WbdR from <italic toggle="yes">E. coli</italic> O157:H7 into <italic toggle="yes">Brucella</italic> to replace its O-PS formyltransferase WbkC, generating a <italic toggle="yes">Brucella</italic> mutant with an O-PS modification carrying N-acetyl-perosamine [<xref rid="B20-vaccines-11-01273" ref-type="bibr">20</xref>]. This ingenious strategy offers an effective solution to the current issue of serological differential diagnoses between vaccine immunization and wild-type <italic toggle="yes">Brucella</italic> infection. In this study, the <italic toggle="yes">wbdR</italic> gene was inserted into the genome of <italic toggle="yes">B. abortus</italic> vaccine strain A19 to replace the <italic toggle="yes">wbkC</italic> gene, producing a <italic toggle="yes">B. abortus</italic> vaccine mutant, A19mut2. As anticipated, A19mut2 exhibited a modified and shortened O-PS in comparison to that of the original O-PS, which was consistent with the previous <italic toggle="yes">Brucella</italic> construct, Rev 1::Tn7wbdR&#x394;wbkC [<xref rid="B6-vaccines-11-01273" ref-type="bibr">6</xref>]. Moreover, in a previous study, <italic toggle="yes">B. abortus wbdR</italic> constructs (Ba::Tn7wbdR and Ba::Tn7wbdR&#x394;wbkC) exhibited a more sensitivity to bovine serum, but not to bactericidal polycations, such as polymyxin B [<xref rid="B20-vaccines-11-01273" ref-type="bibr">20</xref>]. In this study, we showed that the sensitivity of the A19mut2 to polymyxin B remained unchanged compared to that of the A19 strain, which was in line with that of <italic toggle="yes">B. abortus wbdR</italic> constructs [<xref rid="B20-vaccines-11-01273" ref-type="bibr">20</xref>]. Interestingly, our study revealed that A19mut2 exhibited a greater sensitivity to low pHs compared to that of the A19 strain. It is well known that lysosomal acidification is required for the activation of the type IV secretion system and the subsequent intracellular survival of <italic toggle="yes">Brucella</italic> [<xref rid="B21-vaccines-11-01273" ref-type="bibr">21</xref>]. Although we did not find that A19mut2 reduced its intracellular survival within the RAW264 cells, different cells should be further evaluated, especially primary macrophages. Anyway, these data let us assume that the modified O-PS decreased the resistance of the <italic toggle="yes">Brucella</italic> to acidic environments or perhaps the resistance to natural serum, which may account for the attenuated virulence of A19mut2 in the early immune stage.</p>
+      <p>The protection by <italic toggle="yes">Brucella</italic> vaccines is mediated by the induction of humoral- and cellular-mediated immunity. In this study, the humoral and cellular immune responses induced by the A19mut2 strain were characterized by analyzing the antibody response and the cytokines released in the splenocytes induced by the immunogen, respectively. In the humoral immune response, although A19mut2 can induce higher levels of <italic toggle="yes">Brucella</italic>-specific IgG antibodies than in unvaccinated mice, the levels were significantly lower than those of the A19 induction. This reduction is most likely due to the O-PS modification; A19mut2 lost the ability to induce antibodies against the original LPS. Moreoever, the levels of specific IgG1 and IgG2a antibodies in serum suggested that the A19mut2 induced a Th1- and Th2-type mixed immunity and found that IgG2a predominated in the A19mut2-immunized mice, suggesting that their immunity was biased towards a Th1-type response. This result was similar to that previously reported for <italic toggle="yes">B. abortus</italic> BA15&#x394;<italic toggle="yes">cydC</italic>&#x394;<italic toggle="yes">cydD</italic> and BA15&#x394;<italic toggle="yes">cydC</italic>&#x394;<italic toggle="yes">purD</italic> mutants [<xref rid="B14-vaccines-11-01273" ref-type="bibr">14</xref>]. In terms of cellular immunity, the levels of cytokine secretion in the splenocytes induced by the A19mut2 strain were similar to those of the A19 strain. Meanwhile, it was shown that the Th1-type cytokine IFN-&#x3B3; was more prominently secreted than the Th1-type cytokine IL-10. All these data suggested that vaccination with A19mut2 favors a Th1-biased humoral- and cellular-mediated immune response. A similar result was also found in other vaccine strains, such as <italic toggle="yes">B. abortus</italic> IVK15<italic toggle="yes">&#x394;cydD</italic> and IVK15&#x394;<italic toggle="yes">cydC</italic> mutants [<xref rid="B22-vaccines-11-01273" ref-type="bibr">22</xref>], and the <italic toggle="yes">B. abortus</italic> 2308&#x394;<italic toggle="yes">nodV</italic>&#x394;<italic toggle="yes">nodW</italic> double mutant [<xref rid="B23-vaccines-11-01273" ref-type="bibr">23</xref>]. Th1-biased immune response is deemed to play a major role in the establishment of a protective response against <italic toggle="yes">Brucella</italic> [<xref rid="B24-vaccines-11-01273" ref-type="bibr">24</xref>].</p>
+      <p>The protection rate of <italic toggle="yes">Brucella</italic> live vaccines is usually expressed by the reduction in the bacterial loads in the spleens of immunized mice via the wild-type <italic toggle="yes">Brucella</italic> challenges. Although the protection of A19mut2 was similar to that of the A19 strain with no significant difference, the bacterial loads in the mice&#x2019;s spleens were higher in the A19mut2-vaccinated mice after the virulence challenge than those in the mice with the A19 vaccination. Interestingly, this phenomenon was also found in Rev1 wbdR tag vaccine Rev1::Tn7wbdR&#x394;wbkC immunization against <italic toggle="yes">B. ovis</italic> [<xref rid="B6-vaccines-11-01273" ref-type="bibr">6</xref>]. When a higher dose is used in the inoculation, the vaccine can confer a similar protection to the Rev1 at the standard dose. It is worth noting that the property of autoagglutination suggests surface similarities between the Rev1::Tn7wbdR&#x394;wbkC construct and rough-type <italic toggle="yes">Brucella</italic> [<xref rid="B6-vaccines-11-01273" ref-type="bibr">6</xref>]. However, we found that A19mut2 did not show an autoagglutination property like that of the rough-type <italic toggle="yes">Brucella,</italic> as shown above (<xref rid="vaccines-11-01273-f001" ref-type="fig">Figure 1</xref>), which had properties biased towards smooth strains. Moreover, Rev1::Tn7wbdR&#x394;wbkC displayed a reduced virulence compared to that of the Rev1 strain, but A19mut2 did not show a significant reduction in virulence relative to that of the A19 strain, especially in the late stage (<xref rid="vaccines-11-01273-f003" ref-type="fig">Figure 3</xref>). It can be concluded that the modification of O-PS in different <italic toggle="yes">Brucella</italic> spp. may present different biological characteristics. Moreover, the antibodies anti-O-PS produced in the immunized mice may also confer protection against smooth-type <italic toggle="yes">Brucella</italic>, which can be concluded from the mice that were partially protected by inoculation with monoclonal antibodies against LPS [<xref rid="B25-vaccines-11-01273" ref-type="bibr">25</xref>,<xref rid="B26-vaccines-11-01273" ref-type="bibr">26</xref>]. The N-acetyl-perosamine O-PS in A19mut2 cannot induce mice to produce the antibodies against the original O-PS (N-formyl-perosamine), which may explain the slight reduction in protection relative to that of the A19 strain.</p>
+      <p>The great advantage of N-acetyl-perosamine replacing N-formyl-perosamine in O-PS is the possibility of differential diagnoses. This replacement of O-PS in <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. melitensis</italic> was easy to distinguish based on ELISAs and Western blotting [<xref rid="B20-vaccines-11-01273" ref-type="bibr">20</xref>]. In this study, we evaluated the differential diagnoses between A19 and A19mut2 vaccinations in mice based on ELISAs coated by wild-type LPS. The result was unexpectedly attractive; the mice vaccinated with A19mut2 were significantly distinguished from the ones vaccinated with the A19 strain. Applications of this in clinical samples and groups need to be further evaluated.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec5-vaccines-11-01273">
+      <title>5. Conclusions</title>
+      <p>In conclusion, a <italic toggle="yes">B. abortus</italic> A19-deprived mutant strain, A19mut2, was successfully constructed with the modification of the O-PS, which can induce significant humoral and cellular immunity in immunized mice with a bias towards to a Th1-type immune response, as the A19 vaccination showed. The protection efficacy of the A19mut2 vaccination in mice was similar to that of the A19 strain. Wild-type LPS-coated ELISAs distinguished the mice antibodies induced by the A19mut2 and A19 vaccinations. The results indicated that A19mut2 could be used as a DIVA vaccine candidate in the future.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <app id="app1-vaccines-11-01273">
+        <title>Supplementary Materials</title>
+        <p>The following supporting information can be downloaded at: <uri xlink:href="https://www.mdpi.com/article/10.3390/vaccines11071273/s1">https://www.mdpi.com/article/10.3390/vaccines11071273/s1</uri>, Figure S1: The growth curves of the A19 and A19mut2 strains; Figure S2: The resistance of the A19 and A19mut2 to sodium nitroprusside. </p>
+        <supplementary-material id="vaccines-11-01273-s001" position="float" content-type="local-data">
+          <media xlink:href="vaccines-11-01273-s001.zip">
+            <caption>
+              <p>Click here for additional data file.</p>
+            </caption>
+          </media>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>S.Y. and M.T. conceived and designed the experiments; H.A.A., Z.L., Y.Y. and T.F. performed the experiments; M.T. and H.A.A. wrote the paper; M.T. and H.A.A. analyzed the data; and S.Y. revised the manuscript. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The animal study protocol was approved by the Ethics Committee of Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences (protocol code. SHVRI-SD-2019-105, 5 October 2019).</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>The datasets generated and analyzed during the current study are available from the corresponding author on reasonable request.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declared no potential conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-vaccines-11-01273">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Xie</surname><given-names>J.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Wang</surname><given-names>W.</given-names></name>
+<name><surname>Pang</surname><given-names>Y.</given-names></name>
+<name><surname>He</surname><given-names>Y.</given-names></name>
+</person-group>
+          <article-title>Ontology-based meta-analysis of animal and human adverse events associated with licensed Brucellosis vaccines</article-title>
+          <source>Front. Pharmacol.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>503</fpage>
+          <pub-id pub-id-type="doi">10.3389/fphar.2018.00503</pub-id>
+          <pub-id pub-id-type="pmid">29867505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-vaccines-11-01273">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zamri-Saad</surname><given-names>M.</given-names></name>
+<name><surname>Kamarudin</surname><given-names>M.I.</given-names></name>
+</person-group>
+          <article-title>Control of animal brucellosis: The Malaysian experience</article-title>
+          <source>Asian. Pac. J. Trop. Med.</source>
+          <year>2016</year>
+          <volume>9</volume>
+          <fpage>1136</fpage>
+          <lpage>1140</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.apjtm.2016.11.007</pub-id>
+          <pub-id pub-id-type="pmid">27955740</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-vaccines-11-01273">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>J.</given-names></name>
+<name><surname>He</surname><given-names>C.</given-names></name>
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Liu</surname><given-names>M.</given-names></name>
+<name><surname>Zhao</surname><given-names>H.</given-names></name>
+<name><surname>Ren</surname><given-names>L.</given-names></name>
+<name><surname>Wu</surname><given-names>D.</given-names></name>
+<name><surname>Du</surname><given-names>F.</given-names></name>
+<name><surname>Liu</surname><given-names>B.</given-names></name>
+<name><surname>Han</surname><given-names>X.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Evaluation and differential diagnosis of a genetic marked <italic toggle="yes">Brucella</italic> vaccine A19&#x394;<italic toggle="yes">virB12</italic> for cattle</article-title>
+          <source>Front. Immunol.</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <fpage>679560</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2021.679560</pub-id>
+          <pub-id pub-id-type="pmid">34163479</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-vaccines-11-01273">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Perkins</surname><given-names>S.D.</given-names></name>
+<name><surname>Smither</surname><given-names>S.J.</given-names></name>
+<name><surname>Atkins</surname><given-names>H.S.</given-names></name>
+</person-group>
+          <article-title>Towards a <italic toggle="yes">Brucella</italic> vaccine for humans</article-title>
+          <source>FEMS Microbiol. Rev.</source>
+          <year>2010</year>
+          <volume>34</volume>
+          <fpage>379</fpage>
+          <lpage>394</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00211.x</pub-id>
+          <pub-id pub-id-type="pmid">20180858</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-vaccines-11-01273">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Grillo</surname><given-names>M.J.</given-names></name>
+<name><surname>Marin</surname><given-names>C.M.</given-names></name>
+<name><surname>Barberan</surname><given-names>M.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Laroucau</surname><given-names>K.</given-names></name>
+<name><surname>Jacques</surname><given-names>I.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+</person-group>
+          <article-title>Efficacy of <italic toggle="yes">bp26</italic> and <italic toggle="yes">bp26</italic>/<italic toggle="yes">omp31 B. melitensis</italic> Rev.1 deletion mutants against <italic toggle="yes">Brucella ovis</italic> in rams</article-title>
+          <source>Vaccine</source>
+          <year>2009</year>
+          <volume>27</volume>
+          <fpage>187</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2008.10.065</pub-id>
+          <pub-id pub-id-type="pmid">19007836</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-vaccines-11-01273">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Aragon-Aranda</surname><given-names>B.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Martinez-Gomez</surname><given-names>E.</given-names></name>
+<name><surname>Zuniga-Ripa</surname><given-names>A.</given-names></name>
+<name><surname>Salvador-Bescos</surname><given-names>M.</given-names></name>
+<name><surname>Moriyon</surname><given-names>I.</given-names></name>
+<name><surname>Iriarte</surname><given-names>M.</given-names></name>
+<name><surname>Munoz</surname><given-names>P.M.</given-names></name>
+<name><surname>Conde-Alvarez</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Rev1 <italic toggle="yes">wbdR</italic> tagged vaccines against <italic toggle="yes">Brucella ovis</italic></article-title>
+          <source>Vet. Res.</source>
+          <year>2019</year>
+          <volume>50</volume>
+          <fpage>95</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-019-0714-3</pub-id>
+          <pub-id pub-id-type="pmid">31730501</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-vaccines-11-01273">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>M.</given-names></name>
+<name><surname>Qu</surname><given-names>J.</given-names></name>
+<name><surname>Li</surname><given-names>P.</given-names></name>
+<name><surname>Bao</surname><given-names>Y.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Ding</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Qi</surname><given-names>J.</given-names></name>
+<name><surname>Yu</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Identification of novel genes essential for <italic toggle="yes">Brucella abortus</italic> to establish infection by signature-tagged mutagenesis</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2019</year>
+          <volume>230</volume>
+          <fpage>130</fpage>
+          <lpage>137</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2019.02.005</pub-id>
+          <pub-id pub-id-type="pmid">30827378</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-vaccines-11-01273">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>M.</given-names></name>
+<name><surname>Yin</surname><given-names>Y.</given-names></name>
+<name><surname>Lian</surname><given-names>Z.</given-names></name>
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Song</surname><given-names>M.</given-names></name>
+<name><surname>Hu</surname><given-names>H.</given-names></name>
+<name><surname>Guan</surname><given-names>X.</given-names></name>
+<name><surname>Ding</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>A rough <italic toggle="yes">Brucella</italic> mutant induced macrophage death depends on secretion activity of T4SS, but not on cellular Txnip- and Caspase-2-mediated signaling pathway</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2020</year>
+          <volume>244</volume>
+          <fpage>108648</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2020.108648</pub-id>
+          <pub-id pub-id-type="pmid">32402333</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-vaccines-11-01273">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>M.</given-names></name>
+<name><surname>Lian</surname><given-names>Z.</given-names></name>
+<name><surname>Bao</surname><given-names>Y.</given-names></name>
+<name><surname>Bao</surname><given-names>S.</given-names></name>
+<name><surname>Yin</surname><given-names>Y.</given-names></name>
+<name><surname>Li</surname><given-names>P.</given-names></name>
+<name><surname>Ding</surname><given-names>C.</given-names></name>
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Li</surname><given-names>T.</given-names></name>
+<name><surname>Qi</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Identification of a novel, small, conserved hypothetical protein involved in <italic toggle="yes">Brucella abortus</italic> virulence by modifying the expression of multiple genes</article-title>
+          <source>Transbound. Emerg. Dis.</source>
+          <year>2019</year>
+          <volume>66</volume>
+          <fpage>349</fpage>
+          <lpage>362</lpage>
+          <pub-id pub-id-type="doi">10.1111/tbed.13028</pub-id>
+          <pub-id pub-id-type="pmid">30267618</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-vaccines-11-01273">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Salvador-Bescos</surname><given-names>M.</given-names></name>
+<name><surname>Gil-Ramirez</surname><given-names>Y.</given-names></name>
+<name><surname>Zuniga-Ripa</surname><given-names>A.</given-names></name>
+<name><surname>Martinez-Gomez</surname><given-names>E.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Munoz</surname><given-names>P.M.</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A.</given-names></name>
+<name><surname>Zygmunt</surname><given-names>M.S.</given-names></name>
+<name><surname>Moriyon</surname><given-names>I.</given-names></name>
+<name><surname>Iriarte</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>WadD, a new <italic toggle="yes">Brucella</italic> lipopolysaccharide core glycosyltransferase identified by genomic search and phenotypic characterization</article-title>
+          <source>Front. Microbiol.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>2293</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2018.02293</pub-id>
+          <pub-id pub-id-type="pmid">30319590</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-vaccines-11-01273">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+<name><surname>Bowden</surname><given-names>R.A.</given-names></name>
+<name><surname>Dubray</surname><given-names>G.</given-names></name>
+<name><surname>Limet</surname><given-names>J.N.</given-names></name>
+</person-group>
+          <article-title>Sodium dodecyl sulfate-polyacrylamide gel electrophoresis and immunoblotting analysis of smooth-lipopolysaccharide heterogeneity among <italic toggle="yes">Brucella</italic> biovars related to A and M specificities</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <year>1990</year>
+          <volume>28</volume>
+          <fpage>2169</fpage>
+          <lpage>2174</lpage>
+          <pub-id pub-id-type="doi">10.1128/jcm.28.10.2169-2174.1990</pub-id>
+          <pub-id pub-id-type="pmid">2229339</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-vaccines-11-01273">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kahl-McDonagh</surname><given-names>M.M.</given-names></name>
+<name><surname>Ficht</surname><given-names>T.A.</given-names></name>
+</person-group>
+          <article-title>Evaluation of protection afforded by <italic toggle="yes">Brucella abortus</italic> and <italic toggle="yes">Brucella melitensis</italic> unmarked deletion mutants exhibiting different rates of clearance in BALB/c mice</article-title>
+          <source>Infect. Immun.</source>
+          <year>2006</year>
+          <volume>74</volume>
+          <fpage>4048</fpage>
+          <lpage>4057</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.01787-05</pub-id>
+          <pub-id pub-id-type="pmid">16790778</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-vaccines-11-01273">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Poveda-Urkixo</surname><given-names>I.</given-names></name>
+<name><surname>Ramirez</surname><given-names>G.A.</given-names></name>
+<name><surname>Grillo</surname><given-names>M.J.</given-names></name>
+</person-group>
+          <article-title>Kinetics of placental infection by different smooth <italic toggle="yes">Brucella</italic> strains in mice</article-title>
+          <source>Pathogens</source>
+          <year>2022</year>
+          <volume>11</volume>
+          <elocation-id>279</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/pathogens11030279</pub-id>
+          <pub-id pub-id-type="pmid">35335603</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-vaccines-11-01273">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Truong</surname><given-names>Q.L.</given-names></name>
+<name><surname>Cho</surname><given-names>Y.</given-names></name>
+<name><surname>Park</surname><given-names>S.</given-names></name>
+<name><surname>Kim</surname><given-names>K.</given-names></name>
+<name><surname>Hahn</surname><given-names>T.W.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella abortus</italic> &#x394;<italic toggle="yes">cydC</italic>&#x394;<italic toggle="yes">cydD</italic> and &#x394;<italic toggle="yes">cydC</italic>&#x394;<italic toggle="yes">purD</italic> double-mutants are highly attenuated and confer long-term protective immunity against virulent <italic toggle="yes">Brucella abortus</italic></article-title>
+          <source>Vaccine</source>
+          <year>2016</year>
+          <volume>34</volume>
+          <fpage>237</fpage>
+          <lpage>244</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.11.030</pub-id>
+          <pub-id pub-id-type="pmid">26616550</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-vaccines-11-01273">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Arenas-Gamboa</surname><given-names>A.M.</given-names></name>
+<name><surname>Ficht</surname><given-names>T.A.</given-names></name>
+<name><surname>Kahl-McDonagh</surname><given-names>M.M.</given-names></name>
+<name><surname>Rice-Ficht</surname><given-names>A.C.</given-names></name>
+</person-group>
+          <article-title>Immunization with a single dose of a microencapsulated <italic toggle="yes">Brucella melitensis</italic> mutant enhances protection against wild-type challenge</article-title>
+          <source>Infect. Immun.</source>
+          <year>2008</year>
+          <volume>76</volume>
+          <fpage>2448</fpage>
+          <lpage>2455</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.00767-07</pub-id>
+          <pub-id pub-id-type="pmid">18362129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-vaccines-11-01273">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Yin</surname><given-names>S.</given-names></name>
+<name><surname>Guo</surname><given-names>F.</given-names></name>
+<name><surname>Meng</surname><given-names>R.</given-names></name>
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Fu</surname><given-names>Q.</given-names></name>
+<name><surname>Shi</surname><given-names>H.</given-names></name>
+<name><surname>Hu</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>A potent <italic toggle="yes">Brucella abortus</italic> 2308&#x394;<italic toggle="yes">ery</italic> live vaccine allows for the differentiation between natural and vaccinated infection</article-title>
+          <source>J. Microbiol.</source>
+          <year>2014</year>
+          <volume>52</volume>
+          <fpage>681</fpage>
+          <lpage>688</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12275-014-3689-9</pub-id>
+          <pub-id pub-id-type="pmid">24994009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-vaccines-11-01273">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Guo</surname><given-names>F.</given-names></name>
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Zhang</surname><given-names>H.</given-names></name>
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>K.</given-names></name>
+<name><surname>Du</surname><given-names>G.</given-names></name>
+<name><surname>Li</surname><given-names>Y.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title><italic toggle="yes">Brucella melitensis</italic> 16M&#x394;<italic toggle="yes">hfq</italic> attenuation confers protection against wild-type challenge in BALB/c mice</article-title>
+          <source>Microbiol. Immunol.</source>
+          <year>2013</year>
+          <volume>57</volume>
+          <fpage>502</fpage>
+          <lpage>510</lpage>
+          <pub-id pub-id-type="doi">10.1111/1348-0421.12065</pub-id>
+          <pub-id pub-id-type="pmid">23647412</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-vaccines-11-01273">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Masjedian Jezi</surname><given-names>F.</given-names></name>
+<name><surname>Razavi</surname><given-names>S.</given-names></name>
+<name><surname>Mirnejad</surname><given-names>R.</given-names></name>
+<name><surname>Zamani</surname><given-names>K.</given-names></name>
+</person-group>
+          <article-title>Immunogenic and protective antigens of <italic toggle="yes">Brucella</italic> as vaccine candidates</article-title>
+          <source>Comp. Immunol. Microbiol. Infect. Dis.</source>
+          <year>2019</year>
+          <volume>65</volume>
+          <fpage>29</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cimid.2019.03.015</pub-id>
+          <pub-id pub-id-type="pmid">31300122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-vaccines-11-01273">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Cardoso</surname><given-names>P.G.</given-names></name>
+<name><surname>Macedo</surname><given-names>G.C.</given-names></name>
+<name><surname>Azevedo</surname><given-names>V.</given-names></name>
+<name><surname>Oliveira</surname><given-names>S.C.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella</italic> spp. noncanonical LPS: Structure, biosynthesis, and interaction with host immune system</article-title>
+          <source>Microb. Cell. Fact.</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <fpage>13</fpage>
+          <pub-id pub-id-type="doi">10.1186/1475-2859-5-13</pub-id>
+          <pub-id pub-id-type="pmid">16556309</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-vaccines-11-01273">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Martinez-Gomez</surname><given-names>E.</given-names></name>
+<name><surname>Stahle</surname><given-names>J.</given-names></name>
+<name><surname>Gil-Ramirez</surname><given-names>Y.</given-names></name>
+<name><surname>Zuniga-Ripa</surname><given-names>A.</given-names></name>
+<name><surname>Zaccheus</surname><given-names>M.</given-names></name>
+<name><surname>Moriyon</surname><given-names>I.</given-names></name>
+<name><surname>Iriarte</surname><given-names>M.</given-names></name>
+<name><surname>Widmalm</surname><given-names>G.</given-names></name>
+<name><surname>Conde-Alvarez</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Genomic insertion of a heterologous acetyltransferase generates a new lipopolysaccharide antigenic structure in <italic toggle="yes">Brucella abortus</italic> and <italic toggle="yes">Brucella melitensis</italic></article-title>
+          <source>Front. Microbiol.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>1092</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2018.01092</pub-id>
+          <pub-id pub-id-type="pmid">29887851</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-vaccines-11-01273">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Xiong</surname><given-names>X.</given-names></name>
+<name><surname>Li</surname><given-names>B.</given-names></name>
+<name><surname>Zhou</surname><given-names>Z.</given-names></name>
+<name><surname>Gu</surname><given-names>G.</given-names></name>
+<name><surname>Li</surname><given-names>M.</given-names></name>
+<name><surname>Liu</surname><given-names>J.</given-names></name>
+<name><surname>Jiao</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>The VirB system plays a crucial role in <italic toggle="yes">Brucella</italic> intracellular infection</article-title>
+          <source>Int. J. Mol. Sci.</source>
+          <year>2021</year>
+          <volume>22</volume>
+          <elocation-id>13637</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/ijms222413637</pub-id>
+          <pub-id pub-id-type="pmid">34948430</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-vaccines-11-01273">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Truong</surname><given-names>Q.L.</given-names></name>
+<name><surname>Cho</surname><given-names>Y.</given-names></name>
+<name><surname>Park</surname><given-names>S.</given-names></name>
+<name><surname>Park</surname><given-names>B.K.</given-names></name>
+<name><surname>Hahn</surname><given-names>T.W.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella abortus</italic> mutants lacking ATP-binding cassette transporter proteins are highly attenuated in virulence and confer protective immunity against virulent <italic toggle="yes">B. abortus</italic> challenge in BALB/c mice</article-title>
+          <source>Microb. Pathog.</source>
+          <year>2016</year>
+          <volume>95</volume>
+          <fpage>175</fpage>
+          <lpage>185</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2016.04.009</pub-id>
+          <pub-id pub-id-type="pmid">27057678</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-vaccines-11-01273">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Z.</given-names></name>
+<name><surname>Wang</surname><given-names>S.</given-names></name>
+<name><surname>Zhang</surname><given-names>J.</given-names></name>
+<name><surname>Yang</surname><given-names>G.</given-names></name>
+<name><surname>Yuan</surname><given-names>B.</given-names></name>
+<name><surname>Huang</surname><given-names>J.</given-names></name>
+<name><surname>Han</surname><given-names>J.</given-names></name>
+<name><surname>Xi</surname><given-names>L.</given-names></name>
+<name><surname>Xiao</surname><given-names>Y.</given-names></name>
+<name><surname>Chen</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group>
+          <article-title><italic toggle="yes">Brucella abortus</italic> 2308&#x394;NodV&#x394;NodW double-mutant is highly attenuated and confers protection against wild-type challenge in BALB/c mice</article-title>
+          <source>Microb. Pathog.</source>
+          <year>2017</year>
+          <volume>106</volume>
+          <fpage>30</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2017.01.043</pub-id>
+          <pub-id pub-id-type="pmid">28131952</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-vaccines-11-01273">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Skendros</surname><given-names>P.</given-names></name>
+<name><surname>Boura</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>Immunity to brucellosis</article-title>
+          <source>Rev. Sci. Tech.</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <fpage>137</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.32.1.2190</pub-id>
+          <pub-id pub-id-type="pmid">23837372</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-vaccines-11-01273">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Montaraz</surname><given-names>J.A.</given-names></name>
+<name><surname>Winter</surname><given-names>A.J.</given-names></name>
+<name><surname>Hunter</surname><given-names>D.M.</given-names></name>
+<name><surname>Sowa</surname><given-names>B.A.</given-names></name>
+<name><surname>Wu</surname><given-names>A.M.</given-names></name>
+<name><surname>Adams</surname><given-names>L.G.</given-names></name>
+</person-group>
+          <article-title>Protection against <italic toggle="yes">Brucella abortus</italic> in mice with O-polysaccharide-specific monoclonal antibodies</article-title>
+          <source>Infect. Immun.</source>
+          <year>1986</year>
+          <volume>51</volume>
+          <fpage>961</fpage>
+          <lpage>963</lpage>
+          <pub-id pub-id-type="doi">10.1128/iai.51.3.961-963.1986</pub-id>
+          <pub-id pub-id-type="pmid">3005173</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-vaccines-11-01273">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Phillips</surname><given-names>M.</given-names></name>
+<name><surname>Deyoe</surname><given-names>B.L.</given-names></name>
+<name><surname>Canning</surname><given-names>P.C.</given-names></name>
+</person-group>
+          <article-title>Protection of mice against <italic toggle="yes">Brucella abortus</italic> infection by inoculation with monoclonal antibodies recognizing <italic toggle="yes">Brucella</italic> O-antigen</article-title>
+          <source>Am. J. Vet. Res.</source>
+          <year>1989</year>
+          <volume>50</volume>
+          <fpage>2158</fpage>
+          <lpage>2161</lpage>
+          <pub-id pub-id-type="pmid">2481994</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="vaccines-11-01273-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>The construction strategy of A19mut2 and the modification of O-polysaccharide in A19mut2. (<bold>A</bold>) Schematic of the construction strategy of A19mut2; the <italic toggle="yes">wbkC</italic> gene was replaced by the <italic toggle="yes">wbdR</italic> gene from <italic toggle="yes">E. coli</italic> O157. (<bold>B</bold>,<bold>C</bold>) PCR identification of the A19mut2 strain using primer pairs ID-F1/ID-R1 (<bold>B</bold>) or ID-F1/ID-R2 (<bold>C</bold>). (<bold>D</bold>) Acridine yellow agglutination test of A19mut2, A19, and rough-type <italic toggle="yes">Brucella</italic> RB14. (<bold>E</bold>) Heat agglutination test of A19mut2, A19, and RB14. (<bold>F</bold>) Silver staining and Western blotting of the A19mut2 and A19 lipopolysaccharide. Rabbit anti-<italic toggle="yes">Brucella</italic> polyclonal antibodies (pAb) or mouse anti-O-PS antibodies (mAb, clone 51C) were used as primary antibodies.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g001" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>The sensitivity of A19mut2 and A19 strains&#x2019; bactericidal factors. (<bold>A</bold>) Sensitivity to hydrogen peroxide. (<bold>B</bold>) Sensitivity to polymyxin B. (<bold>C</bold>) Sensitivity to acidic environment. ns, no significance; *, <italic toggle="yes">p</italic> &lt; 0.05; **, <italic toggle="yes">p</italic> &lt; 0.01; ***, <italic toggle="yes">p</italic> &lt; 0.001.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g002" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>The residual virulence of A19mut2 was evaluated and compared with A19 in a mice model. Mice were intraperitoneally inoculated with 1 &#xD7; 10<sup>6</sup> CFU of A19mut2 or A19 strain, and the bacterial loads in spleens were enumerated at 2-, 4-, 6-, and 8-weeks post inoculation. ns, no significance; ***, <italic toggle="yes">p</italic> &lt; 0.001.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g003" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>Histopathological changes by hematoxylin and eosin staining. Changes were observed in spleens and livers of mice inoculated with A19mut2, A19, and PBS at 2-, 4-, 6-, and 8-weeks post inoculation. The yellow arrows indicate white pulp necrosis and connective tissue proliferation. The black arrows indicate granulomas. Images were magnified 200&#xD7;.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g004" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f005">
+      <label>Figure 5</label>
+      <caption>
+        <p>The humoral immune response was evaluated in immunized mice. The antibody levels of IgG and its subclass in sera of immunized mice were assessed using enzyme-linked immunosorbent assay coated by smooth-type <italic toggle="yes">Brucella</italic> lysates. ns, no significance; *, <italic toggle="yes">p</italic> &lt; 0.05; **, <italic toggle="yes">p</italic> &lt; 0.01; ***, <italic toggle="yes">p</italic> &lt; 0.001.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g005" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f006">
+      <label>Figure 6</label>
+      <caption>
+        <p>The cellular immune response was evaluated in immunized mice. Splenocytes were isolated from the mice at 6 weeks after vaccination by A19mut2, A19, or inoculation by PBS. The cytokines IFN-&#x3B3; (A) and IL-10 (B) were detected in splenocytes stimulated by the heat-killed S2308 strain or incubated in RPMI1640. ns, no significance; ***, <italic toggle="yes">p</italic> &lt; 0.001.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g006" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f007">
+      <label>Figure 7</label>
+      <caption>
+        <p>The protection of A19mut2 or A19 immunization against S2308 Nal<sup>R</sup> challenge in a mice model. Bacterial loads in spleen of mice were calculated 2 weeks post challenge. ns, no significant; *, <italic toggle="yes">p</italic> &lt; 0.05.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g007" position="float"/>
+    </fig>
+    <fig position="float" id="vaccines-11-01273-f008">
+      <label>Figure 8</label>
+      <caption>
+        <p>Discrimination of A19mut2 vaccinated mice sera from A19 via S2308-LPS-coated ELISA. The total IgG antibody levels were detected in mice sera at 2, 4, 6, and 8 weeks post immunization. ***, <italic toggle="yes">p</italic> &lt; 0.001.</p>
+      </caption>
+      <graphic xlink:href="vaccines-11-01273-g008" position="float"/>
+    </fig>
+    <table-wrap position="float" id="vaccines-11-01273-t001">
+      <object-id pub-id-type="pii">vaccines-11-01273-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Bacterial strains, plasmids, and primers used in this study.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Names</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Description</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="3" align="center" valign="middle" rowspan="1">Bacterial strains</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">S2308</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1"><italic toggle="yes">B. abortus</italic> wild-type strain 2308; smooth phenotype</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">CVCC <sup>a</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">S2308 Nal<sup>R</sup></td>
+            <td align="center" valign="middle" rowspan="1" colspan="1"><italic toggle="yes">B. abortus</italic> wild-type strain 2308 with nalidixic acid resistance; smooth phenotype</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B7-vaccines-11-01273" ref-type="bibr">7</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">RB14</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">S2308 derived rough-type mutant with <italic toggle="yes">rfbE</italic> deletion; rough phenotype</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B8-vaccines-11-01273" ref-type="bibr">8</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">A19</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1"><italic toggle="yes">B. abortus</italic> vaccine strain A19; smooth phenotype</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">CVCC</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">A19mut2</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">A19 derived mutant with <italic toggle="yes">wbkC</italic> replaced by <italic toggle="yes">wbdR</italic>; smooth phenotype</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>b</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1"><italic toggle="yes">E. coli</italic> DH5&#x3B1;</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">F&#x2212;&#x3C6;80lacZ&#x2206;M15&#x2206;(lacZYA-argF)U169 recA1 endA1 hsdR17(rk&#x2212;,mk+) phoA supE44 thi-1 gyrA96 relA1 &#x3BB;&#x2212;</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">TIANGEN <sup>c</sup></td>
+          </tr>
+          <tr>
+            <td colspan="3" align="center" valign="middle" rowspan="1">Plasmids</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">pKB</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">pUC19-derived suicide plasmid containing <italic toggle="yes">sacB</italic> gene; KanR;</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">[<xref rid="B9-vaccines-11-01273" ref-type="bibr">9</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">pKB-&#x394;wbkC::wbdR</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">pKB containing the upstream and downstream fragments of the <italic toggle="yes">wbkC</italic> gene; the <italic toggle="yes">wbkC</italic> gene was replaced by the <italic toggle="yes">wbdR</italic> gene</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>b</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Primers</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">
+</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">WbkC-F</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">GGTACCCGGGGATCCTGATGGCAGGGTAGAAGACG</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">WbkC-R</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">TGCCTGCAGGTCGACCGTCTTCAAGTGCTGCTCAG</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">rWbkC-R</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">TTAAAATGCCTCTTTTTCGTCA</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">rWbkC-F</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">AATGGCTTGTTGCTTGTTTAGG</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">WbdR-F</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">AAAGAGGCATTTTAAAGAAGTTCGCCACAGTAAATCGAA</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>e</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">WbdR-R</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">AAGCAACAAGCCATTTTAAATAGATGTTGGCGATCTT</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>e</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">ID-F1</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">GATCCCGGTTGTTGATGACG</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">ID-R1</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">GCCCCAGGAGCAAATGTAAC</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">This study <sup>e</sup></td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">ID-R2</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">GGAAGAAGCGACGGATGAAG</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">This study <sup>d</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p><sup>a</sup> The Chinese Veterinary Culture Collection Center, Beijing, China; <sup>b</sup> Bacterial strain and plasmid were constructed in this study; <sup>c</sup> TIANGEN Biotech Co., Ltd., Beijing, China; <sup>d,e</sup> The primers were designed based on the genome of <italic toggle="yes">B. abortus</italic> A19 strain (GenBank reference No. NZ_CP030751.1) <sup>d</sup> and on the genome of <italic toggle="yes">E. coli</italic> O157:H7 strain (GenBank reference No. NC_013008.1) <sup>e</sup> using the software Primer Premier 5.0 (PREMIER Biosoft, San Francisco, CA, USA).</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

@@ -1,0 +1,447 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Virulence</journal-id><journal-id journal-id-type="iso-abbrev">Virulence</journal-id><journal-title-group><journal-title>Virulence</journal-title></journal-title-group><issn pub-type="ppub">2150-5594</issn><issn pub-type="epub">2150-5608</issn><publisher><publisher-name>Taylor &amp; Francis</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">37981707</article-id><article-id pub-id-type="pmc">10732601</article-id>
+<article-id pub-id-type="doi">10.1080/21505594.2023.2280377</article-id><article-id pub-id-type="publisher-id">2280377</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of Record</article-version><article-categories><subj-group subj-group-type="article-type"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>One-step preparation of a self-assembled bioconjugate nanovaccine against <italic toggle="yes">Brucella</italic></article-title><alt-title alt-title-type="left-running-head">J. HUANG ET AL.</alt-title><alt-title alt-title-type="right-running-head">VIRULENCE</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Jing</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0004" ref-type="author-notes">
+<sup>#</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Guo</surname><given-names>Yan</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0004" ref-type="author-notes">
+<sup>#</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yu</surname><given-names>Shujuan</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0004" ref-type="author-notes">
+<sup>#</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Dongshu</given-names></name><xref rid="aff0001" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Shulei</given-names></name><xref rid="aff0001" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Wu</surname><given-names>Jun</given-names></name><xref rid="aff0001" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Peng</given-names></name><xref rid="aff0001" ref-type="aff"/></contrib><contrib contrib-type="author"><name><surname>Zhu</surname><given-names>Li</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0003" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Hengliang</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0002" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Pan</surname><given-names>Chao</given-names></name><xref rid="aff0001" ref-type="aff"/><xref rid="an0001" ref-type="corresp"/></contrib><aff id="aff0001">State Key Laboratory of Pathogen and Biosecurity, <institution-wrap><institution>Beijing Institute of Biotechnology</institution></institution-wrap>, <city>Beijing</city>, <country>China</country></aff></contrib-group><author-notes><corresp id="an0001">CONTACT Chao Pan <email xlink:href="mailto:panchaosunny@163.com">panchaosunny@163.com</email></corresp><corresp id="an0002">Hengliang Wang <email xlink:href="mailto:wanghl@bmi.ac.cn">wanghl@bmi.ac.cn</email></corresp><corresp id="an0003">Li Zhu <email xlink:href="mailto:jewly54@bmi.ac.cn">jewly54@bmi.ac.cn</email></corresp><fn id="an0004"><label>#</label><p>Jing Huang, Yan Guo and Shujuan Yu contributed equally to this work.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>19</day><month>11</month><year>2023</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>11</month><year>2023</year></pub-date><volume>14</volume><issue>1</issue><elocation-id seq="102">2280377</elocation-id><pub-history><event event-type="tagger"><event-desc>Integra</event-desc><date><day>18</day><month>11</month><year>2023</year></date></event><event event-type="final"><event-desc>Integra</event-desc><date><day>18</day><month>11</month><year>2023</year></date></event><event event-type="received"><date><day>27</day><month>6</month><year>2023</year></date></event><event event-type="revised"><date><day>27</day><month>10</month><year>2023</year></date></event><event event-type="accepted"><date><day>31</day><month>10</month><year>2023</year></date></event></pub-history><permissions><copyright-statement>&#xA9; 2023 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="KVIR_14_2280377.pdf"/><abstract><title>ABSTRACT</title><p>Brucellosis, caused by <italic toggle="yes">Brucella</italic>, is a severe zoonosis, and the current <italic toggle="yes">Brucella</italic> live attenuated vaccine cannot be used in humans due to major safety risks. Although polysaccharide antigens can be used to prepare the <italic toggle="yes">Brucella</italic> vaccine, their lower immunogenicity limits them from producing efficient and broad protection. In this study, we produced a high-performance bioconjugate nanovaccine against different species of <italic toggle="yes">Brucella</italic> by introducing a self-assembly nanoparticle platform and an O-linked glycosylation system into <italic toggle="yes">Yersinia enterocolitica</italic> serotype O:9, which has an <italic toggle="yes">O</italic>-polysaccharide composed of the same unit as <italic toggle="yes">Brucella</italic>. After successfully preparing the vaccine and confirming its stability, we subsequently demonstrated the safety of the vaccine in mice by high-dose immunization. Then, by a series of mouse experiments, we found that the nanovaccine greatly promoted antibody responses. In particular, the increase of IgG2a was more obvious than that of IgG1. Most importantly, this nanovaccine could provide cross-protection against <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitensis</italic>, and <italic toggle="yes">B. suis</italic> strains by lethal dose challenged models, and could improve the clearance of <italic toggle="yes">B. melitensis</italic>, the most common pathogenic species in human brucellosis, by non-lethal dose infection. Overall, for the first time, we biocoupled polysaccharide antigens with nano carriers to prepare a <italic toggle="yes">Brucella</italic> vaccine, which showed pronounced and extensive protective effects in mice. Thus, we provided a potential candidate vaccine and a new direction for <italic toggle="yes">Brucella</italic> vaccine design.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>Nanovaccine</kwd><kwd>brucellosis</kwd><kwd>O-linked glycosylation system</kwd><kwd>self-assembled proteinaceous nanoparticles</kwd><kwd>cross-protection</kwd></kwd-group><support-group><funding-group><award-group><funding-source>
+<institution-wrap><institution>Beijing Nova Program</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100005090</institution-id></institution-wrap>
+</funding-source><award-id>2022045</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>U20A20361</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>82171819</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>32271507</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>81930122</award-id></award-group><funding-statement>The work was supported by the&#xA0;Beijing Nova Program [2022045]; National Natural Science Foundation of China [U20A20361]; National Natural Science Foundation of China [82171819]; National Natural Science Foundation of China [32271507]; National Natural Science Foundation of China [81930122].</funding-statement></funding-group></support-group><counts><fig-count count="4"/><ref-count count="39"/><page-count count="1"/></counts></article-meta></front>
+  <body>
+    <sec sec-type="intro" disp-level="1" id="s0001">
+      <title>Introduction</title>
+      <p>Brucellosis is a highly contagious zoonotic bacterial disease, with approximately 500,000 new human cases each year [<xref rid="cit0001" ref-type="bibr">1</xref>], and with millions of livestock either infected or at risk. However, these figures are often underestimated, mainly because the symptoms in humans are not specific [<xref rid="cit0002" ref-type="bibr">2</xref>], leading to frequent misdiagnosis of the disease [<xref rid="cit0003" ref-type="bibr">3</xref>]. Brucellosis causes serious chronic diseases in humans that require long-term and costly antibiotic treatment. It also causes abortion or infertility in animals [<xref rid="cit0004" ref-type="bibr">4</xref>] and limits the international trade market of cattle products [<xref rid="cit0001" ref-type="bibr">1</xref>]. According to the statistics, brucellosis has caused tremendous annual economic losses in the world, including US$32 and US$60 million in Brazil and Argentina every year, respectively [<xref rid="cit0001" ref-type="bibr">1</xref>]. Additionally, in China, sheep brucellosis alone has resulted in a direct economic loss exceeding US$300 million [<xref rid="cit0005" ref-type="bibr">5</xref>]. Thus, considering that brucellosis threatens human and animal health and causes poverty, it has been ranked among the top seven &#x201C;neglected zoonoses&#x201D; by the World Health Organization [<xref rid="cit0006" ref-type="bibr">6</xref>]. Brucellosis is caused by the Gram-negative and facultative intracellular bacteria <italic toggle="yes">Brucella</italic>, which includes more than 10 species, with <italic toggle="yes">B. melitensis</italic>, <italic toggle="yes">B. abortus</italic>, and <italic toggle="yes">B. suis</italic> the most virulent species that cause illness in humans [<xref rid="cit0003" ref-type="bibr">3</xref>].</p>
+      <p>At present, there is no licenced vaccine for human use, and the three most commonly used live attenuated <italic toggle="yes">Brucella</italic> vaccines are S19 and RB51 for cattle, and Rev1 for small ruminants [<xref rid="cit0001" ref-type="bibr">1</xref>]. Although the use of these vaccines has effectively controlled the spread of brucellosis in humans and animals, they are still far from ideal because they are pathogenic to humans, have residual toxicity to animals, and cannot induce full protection against infection with virulent strains [<xref rid="cit0001" ref-type="bibr">1</xref>]. Currently, three types of vaccines for <italic toggle="yes">Brucella</italic> are under research and development. The first is recombinant protein vaccines, which have the advantages of high yield and purity, well-defined components, and good safety without virulence [<xref rid="cit0007" ref-type="bibr">7</xref>,<xref rid="cit0008" ref-type="bibr">8</xref>]. However, adjuvants are needed to enhance the immune effect due to the low immunogenicity of this type of vaccine [<xref rid="cit0001" ref-type="bibr">1</xref>]. The choice of adjuvants is crucial for the protection of recombinant protein vaccines [<xref rid="cit0009" ref-type="bibr">9</xref>]. The second type is DNA vaccines, which are economical and can induce potent Th1 and CTL reactions [<xref rid="cit0001" ref-type="bibr">1</xref>]. However, there are problems with scale-up when testing these vaccines in larger animal models and even in humans [<xref rid="cit0010" ref-type="bibr">10</xref>]. The last type is live attenuated <italic toggle="yes">Brucella</italic> vaccines with further mutations and attenuation. Although their protective effect has been confirmed in large animals, excessive mutations may lead to reduced protection [<xref rid="cit0001" ref-type="bibr">1</xref>]. Current live attenuated vaccines do not provide protection across different species of animal hosts, and considering the re-emergence of brucellosis worldwide and increasing incidences in humans, a safe and effective vaccine that induces cross-protection in humans and animals is imperative.</p>
+      <p>The surface carbohydrates of bacteria, mainly capsular polysaccharides and <italic toggle="yes">O</italic>-polysaccharides (OPSs), have long been considered as the ideal target of bacterial vaccines. The polysaccharide conjugate vaccines produced by covalently linking a bacterial polysaccharide to a carrier protein are some of the safest and most efficacious vaccines in use today [<xref rid="cit0011" ref-type="bibr">11</xref>,<xref rid="cit0012" ref-type="bibr">12</xref>]. It was reported that the <italic toggle="yes">Brucella</italic> OPS enabled the establishment of an intracellular niche and enhanced the survival and persistence of <italic toggle="yes">Brucella</italic> [<xref rid="cit0013" ref-type="bibr">13</xref>,<xref rid="cit0014" ref-type="bibr">14</xref>]. It also dominates the antibody response of the host [<xref rid="cit0015" ref-type="bibr">15</xref>]. <italic toggle="yes">Brucella</italic> OPS antibodies are functional and may contribute to preventing infection by activating a complement-mediated cell-killing mechanism [<xref rid="cit0016" ref-type="bibr">16</xref>], which indicates that the vaccination effectiveness against brucellosis may be improved by development of an anti-<italic toggle="yes">Brucella</italic>-OPS conjugate vaccine. The <italic toggle="yes">Brucella</italic> OPS is a block copolymer of variably linked &#x3B1;1,2- and &#x3B1;1,3&#x2013;4,6-dideoxy-4-formamido-D-mannopyranosyls (D-Rha4NFo). The A antigen is characterized by &#x3B1;1,2 linkages, which is typical of <italic toggle="yes">B. abortus</italic> and of some <italic toggle="yes">B. suis</italic> biovars. The M antigen corresponds to the presence of both &#x3B1;1,2 and &#x3B1;1,3 linkages and is characteristic of <italic toggle="yes">B. melitensis</italic> [<xref rid="cit0017" ref-type="bibr">17</xref>]. The OPS of <italic toggle="yes">Yersinia enterocolitica</italic> serotype O:9 is a homopolymer that consists exclusively of &#x3B1;1,2-linked D-Rha4NFo units [<xref rid="cit0018" ref-type="bibr">18</xref>], and is highly similar to the OPS of <italic toggle="yes">Brucella</italic>. Considering that <italic toggle="yes">Y</italic>. <italic toggle="yes">enterocolitica</italic> O:9 is safer and easier to culture than <italic toggle="yes">Brucella</italic>, we used <italic toggle="yes">Y. enterocolitica</italic> O:9 as engineered cells to prepare the conjugate vaccine against <italic toggle="yes">B. abortus</italic> through protein glycan coupling technology [<xref rid="cit0019" ref-type="bibr">19</xref>]. However, this vaccine did not provide satisfactory protection against other <italic toggle="yes">Brucella</italic> virulent species, especially <italic toggle="yes">B. melitensis</italic>, the most severe infections in humans [<xref rid="cit0020" ref-type="bibr">20</xref>].</p>
+      <p>Nanoparticles (NPs), as an adjuvant and delivery system, have shown great potential in subunit vaccine development [<xref rid="cit0009" ref-type="bibr">9</xref>]. They offer several advantages, including protection of the bioactivity of encapsulated payloads and facilitation of antigen presentation, which lead to more potent immune activation [<xref rid="cit0021" ref-type="bibr">21</xref>]. To date, many types of NPs have been utilized to develop nanovaccines, such as inorganic NPs, virus-like particles, liposomes, and self-assembled protein particles [<xref rid="cit0022" ref-type="bibr">22&#x2013;24</xref>]. Among them, proteinaceous delivery vectors have obvious potential advantages due to their biocompatibility and safety [<xref rid="cit0024" ref-type="bibr">24</xref>]. At present, many methods have been used to load antigens with NPs [<xref rid="cit0024" ref-type="bibr">24&#x2013;26</xref>]. NPs with covalently-loaded antigens can generate stronger immune responses than physical mixing [<xref rid="cit0027" ref-type="bibr">27</xref>]. However, the efficient loading of polysaccharide antigens still faces many difficulties. Our previous study developed a fully protein-based, self-assembling Nano-B5 platform, in which polysaccharide antigens were covalently linked to a nanoparticle [<xref rid="cit0025" ref-type="bibr">25</xref>,<xref rid="cit0028" ref-type="bibr">28</xref>]. Therefore, with this system, we attempted to prepare a novel and more efficient <italic toggle="yes">Brucella</italic> vaccine.</p>
+      <p>In this study, we produced a high-performance bioconjugate vaccine against different species of <italic toggle="yes">Brucella</italic> by introducing a Nano-B5 platform and a O-linked glycosylation system into the <italic toggle="yes">Yersinia enterocolitica</italic> serotype O:9. A series of mouse experiments demonstrated that the nanovaccine greatly promoted antibody responses and provided protection against virulent strains (<italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitensis</italic>, and <italic toggle="yes">B. suis</italic>). Overall, for the first time, we have biosynthesized a <italic toggle="yes">Brucella</italic> nanovaccine, which showed significant and extensive protective effects.</p>
+    </sec>
+    <sec disp-level="1" id="s0002">
+      <title>Materials and methods</title>
+      <sec disp-level="2" id="s0002-s2001">
+        <title>Bacteria and plasmids</title>
+        <p><italic toggle="yes">B. abortus</italic> strain A19, <italic toggle="yes">B. melitensis</italic> strain M5&#x2013;90, and <italic toggle="yes">Y. enterocolitica</italic> O:9 strain 52,212&#x394;<italic toggle="yes">rfaL</italic> (YeO9_52212&#x394;<italic toggle="yes">rfaL</italic>) were provided by the Institute for Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China. A19 and M5&#x2013;90 were cultured at 37&#xB0;C in Tryptic Soy Broth (TSB) liquid medium with 200 rpm shaking or on solid TSA medium (TSB medium containing 1.5% agar). YeO9_52212 was cultured at 25&#xB0;C in BHI liquid or on solid medium. For expression, strains were grown at 25&#xB0;C until the culture density at 600&#x2009;nm was approximately 0.8, at which time isopropyl-D-thiogalactopyranoside (IPTG) at a final concentration of 1&#x2009;mM was added, and the cells were further cultured for 14&#x2013;16&#x2009;h.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2002">
+        <title>Protein purification</title>
+        <p>IPTG-induced cells were collected by centrifugation and resuspended with buffer A (0.5&#x2009;M NaCl, 10&#x2009;mM imidazole, and 20&#x2009;mM Tris-HCl, pH 7.5). The cells were disrupted by a high-pressure homogenizer (Ph.D. Technology LLC, Saint Paul, USA), and the precipitate was discarded by centrifugation twice (at 8,000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> for 10&#x2009;min at 4&#xB0;C). The supernatant of the lysate was loaded onto a pre-equilibrated Ni affinity column (cOmplete His-Tag Purification Resin, Roche, Penzberg, Germany) at 4&#x2009;mL/min. After washing with a volume of buffer A 10 times the column volume, the target proteins were eluted with buffer B (0.5&#x2009;M NaCl, 0.5&#x2009;M imidazole, and 20&#x2009;mM Tris-HCl, pH 7.5). Then, the product was separated by size exclusion chromatography (SEC). Briefly, the concentrate was loaded onto a Superdex 200 Prep Grade column (16&#x2009;mm&#x2009;&#xD7;&#x2009;1,000&#x2009;mm; GE Healthcare, Beijing, China) using phosphate-buffered saline (PBS) as the mobile phase at 1&#x2009;mL/min. The protein solution was collected in a 5-mL tube and verified by Coomassie blue staining.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2003">
+        <title>Western blotting</title>
+        <p>Western blotting was performed as described before [<xref rid="cit0029" ref-type="bibr">29</xref>]. Horseradish peroxidase (HRP)-conjugated 6&#xD7;His-tag antibody (Abcam, Cambridge, UK) was diluted 1,000 times to detect the His-tagged proteins. The <italic toggle="yes">B. abortus</italic> monoclonal antibody (Thermo Fisher Scientific, Waltham, USA) or <italic toggle="yes">Y. enterocolitica</italic> O:9 monoclonal antibody (Fitzgerald, Acton, USA) was diluted 100 times to detect the polysaccharides of the glycoproteins. HRP-conjugated goat anti-mouse IgG (Abcam, Cambridge, UK) was used as the secondary antibody.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2004">
+        <title>Animal experiments</title>
+        <p>Specific-pathogen-free female BALB/c mice were purchased from Beijing Vital River Laboratory Animal Technology Co, Ltd. (Beijing, China) and housed in the Laboratory Animal Centre of the Academy of Military Medical Sciences at constant temperature and humidity. All animal experiments were approved by and conducted in accordance with the recommendations of the Animal Care and Use Committee of the Academy of Military Medical Sciences (ethics approval code IACUC-DWZX-2021-008).</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2005">
+        <title>Lipopolysaccharide (LPS) extraction</title>
+        <p>LPS extraction was performed as described previously [<xref rid="cit0019" ref-type="bibr">19</xref>]. Briefly, YeO9_52212 was cultured at 25&#xB0;C with 200 rpm shaking for 24&#x2009;h, and pellet was collected by centrifugation. The bacteria were washed three times with distilled water. The bacteria were weighed and resuspended with distilled water at a bacteria/water ratio of 1&#x2009;g/3&#x2009;mL. After alternating three times between ice and hot water baths, an equal volume of 90% phenol was added to the cells and the mixture was shaken in a 68&#xB0;C water bath for 30&#x2009;min. The water layer was extracted and this step was repeated. The extracts were dialyzed into distilled water, and then DNase, RNase, and proteinase K at final concentrations of 5&#x2009;&#xB5;g/mL (37&#xB0;C, 4&#x2009;h), 5&#x2009;&#xB5;g/mL (37&#xB0;C, 4&#x2009;h), and 20&#x2009;&#xB5;g/mL (60&#xB0;C, 4&#x2009;h), respectively, were sequentially added to the dialyzed samples and incubated at the indicated temperature and time for each enzyme. After boiling in water bath for 10&#x2009;min, the sample was centrifugated at 8,000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> for 20&#x2009;min and the precipitate was discarded.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2006">
+        <title>Determination of serum titers of immunised mice</title>
+        <p>Enzyme-linked immunosorbent assay (ELISA) was performed to determine the antibody titres of the mouse serum. Briefly, 96-well immunoplates were coated with LPS at a concentration of 5&#x2009;&#x3BC;g polysaccharide/well (100&#x2009;&#x3BC;L/well) and incubated at 37&#xB0;C for 2&#x2009;h. Then, the wells were washed three times with PBST (PBS +0.05% Tween 20) and patted dry. Next, 200&#x2009;&#x3BC;L of blocking buffer (PBST +5% skimmed milk powder) was added to each well and incubated overnight at 4&#xB0;C. The mouse serum samples were diluted with dilution buffer (PBST +0.5% skimmed milk powder) and added to each well (100&#x2009;&#x3BC;L/well) of the immunoplate after it was patted dry, and then the plate was incubated at 37&#xB0;C for 1&#x2009;h. After washing and drying, HRP-conjugated goat anti-mouse IgG, IgG1, or IgG2a (Abcam, Shanghai, China) antibody was diluted 50,000 times with dilution buffer and added to each well (100&#x2009;&#x3BC;L/well). After another incubation, washing, and drying step, a Soluble TMB kit (CWbio, Beijing, China) was used to initiate the colour reaction. The microplate reader was used to measure the absorbance with a detection wavelength of 450&#x2009;nm.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2007">
+        <title>Lethal dose challenge of Brucella in BALB/c mouse model</title>
+        <p>To determine the lethal dose, 5&#x2009;mL of each <italic toggle="yes">Brucella</italic> strain were cultured at 37&#xB0;C with 200 rpm shaking until the culture density at 600&#x2009;nm was approximately 2.0, and then the bacteria were diluted with normal saline and dropped on a plate to count the concentration of bacteria. Fourteen days after the third immunization, the <italic toggle="yes">Brucella</italic> strains were cultured and diluted to challenge the mice. Immunized mice were injected intraperitoneally with 6.4&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse <italic toggle="yes">B. abortus</italic>, 4.0&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse <italic toggle="yes">B. melitensis</italic>, or 6.3&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse <italic toggle="yes">B. suis</italic>. The survival of the mice was monitored daily for 14&#x2009;days.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2008">
+        <title>Non-lethal dose of Brucella infection in BALB/c mouse model</title>
+        <p>The immunized mice were intraperitoneally injected with 4.3&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU/mouse <italic toggle="yes">B. abortus</italic>, 6.8&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU/mouse <italic toggle="yes">B. melitensis</italic>, or 4.6&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU/mouse <italic toggle="yes">B. suis</italic> 14&#x2009;days after the third immunization. The weight of the mice was measured for 5&#x2009;days after infection. The mouse tail blood was collected on the second and the fifth day. The serum was separated and the serum TNF-&#x3B1; level was measured by a TNF-&#x3B1; precoated ELISA kit (Dakewe, Shenzhen, China). On the fifth day, the mice were sacrificed by cervical dislocation and their spleens were removed under aseptic conditions. The spleens were ground with a 200-mesh sieve in 2&#x2009;mL of normal saline, and then the spleen homogenate was diluted with normal saline and cultured on TSA plates. After 3&#x2009;days of incubation at 37&#xB0;C, the number of monocolonies was counted and the number of bacteria in the spleen of each mouse was calculated.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2009">
+        <title>Statistical analysis</title>
+        <p>Antibody titres and bacterial loads were log10-transformed. Statistical analyses were conducted using GraphPad Prism version 8.0 (GraphPad, San Diego, CA, USA). Data were analysed using one-way ANOVA with Dunn&#x2019;s multiple comparison test. All the data were expressed as means&#x2009;&#xB1;&#x2009;SD. Values of <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 were considered statistically significant (****<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.0001, ***<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001, **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, and *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05).</p>
+      </sec>
+    </sec>
+    <sec disp-level="1" id="s0003">
+      <title>Results</title>
+      <sec disp-level="2" id="s0003-s2001">
+        <title>Construction and characterisation of CTBTri-OPS<sub>Ba</sub></title>
+        <p>In previous studies, we demonstrated that the O-linked glycosylation system in <italic toggle="yes">Y. enterocolitica</italic> O:9 successfully biosynthesized a conjugate vaccine against <italic toggle="yes">Brucella</italic>. Although this glycoprotein showed a good protective effect against the <italic toggle="yes">B</italic>. <italic toggle="yes">abortus</italic> strain [<xref rid="cit0019" ref-type="bibr">19</xref>], we found that it provided poor protection against <italic toggle="yes">B</italic>. <italic toggle="yes">melitensis</italic>, the most prevalent strain of <italic toggle="yes">Brucella</italic> at present [<xref rid="cit0030" ref-type="bibr">30</xref>]. To solve this problem, we prepared a bioconjugate vaccine by establishing a self-assembled nano delivery system to obtain an enhanced protective immune effect against <italic toggle="yes">B</italic>. <italic toggle="yes">abortus</italic>, <italic toggle="yes">B</italic>. <italic toggle="yes">melitensis</italic>, and <italic toggle="yes">B. suis</italic> strains (<xref rid="f0001" ref-type="fig">Figure 1a</xref>). First, the plasmid pPglL-CTBTri, which co-expressed the O-oligosaccharyltransferase PglL and carrier protein CTBTri4573, was introduced into the YeO9_52212&#x394;<italic toggle="yes">rfaL</italic> strain (the O-antigen ligase gene deletion strain of YeO9_52212 strain) [<xref rid="cit0031" ref-type="bibr">31</xref>]. CTBTri contains a cholera toxin B subunit (CTB), a trimer forming peptide (Tri), a glycosylation sequence (4573) and a 6&#x2009;&#xD7;&#x2009;His tag, from the <italic toggle="yes">N</italic>- to C-terminal. The monomer self-assembled into nanoparticles after expression. Because the glycosylation was carried out in the periplasm, an additional signal peptide was also added upstream of the CTBTri4573 sequence to ensure its successful localization (<xref rid="f0001" ref-type="fig">Figure 1b</xref>). After IPTG induction and overnight culture, the whole-cell lysates were separated by sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE) and analysed by Coomassie blue staining and western blotting using a 6&#x2009;&#xD7;&#x2009;His Tag antibody. As expected, when PglL and the carrier protein were co-expressed, OPS<sub>Ba</sub> linked to the carrier protein under the catalysis of PglL, and typical glycosylation ladder bands were observed (<xref rid="f0001" ref-type="fig">Figure 1c</xref>). CTBTri was efficiently glycosylated, and due to the addition of the Tri sequence, the glycoprotein CTBTri-OPS<sub>Ba</sub> showed a clear shift in the molecular weight compared with CTB-OPS<sub>Ba</sub> (C-OPS<sub>Ba</sub>) or CTB as a carrier (<xref rid="f0001" ref-type="fig">Figure 1c</xref>). After purification by Ni<sup>2+</sup> affinity chromatography and SEC, the glycoproteins were detected by Coomassie blue staining and western blotting using a 6&#x2009;&#xD7;&#x2009;His tag antibody, and the results showed that the purity of CTBTri-OPS<sub>Ba</sub> was over 90%. To further confirm the specificity of OPS, anti-<italic toggle="yes">Y. enterocolitica</italic> O:9- and anti-<italic toggle="yes">B. abortus</italic>-specific monoclonal antibodies were used for western blotting, and the results showed that the polysaccharide fraction reacted with both specific antibodies (<xref rid="f0001" ref-type="fig">Figure 1d</xref>). Having confirmed the successful expression of glycoprotein CTBTri-OPS<sub>Ba</sub> in YeO9_52212, we then analysed whether it existed at the nanometre scale. First, CTBTri-OPS<sub>Ba</sub> was observed through transmission electron microscopy (TEM) and the results showed particles of about 25&#x2009;nm in diameter (<xref rid="f0001" ref-type="fig">Figure 1e</xref>), indicating that CTBTri monomers successfully self-assembled into nanoparticles. Then, the nanovaccine (NP-OPS<sub>Ba</sub>) solution was analysed by dynamic light scattering (DLS) and the results showed that NP-OPS<sub>Ba</sub> was monodispersed and the particle size was consistent with the results of TEM (<xref rid="f0001" ref-type="fig">Figure 1f</xref>). To further detect the stability of the nanovaccine, NP-OPS<sub>Ba</sub> was stored at room temperature for 7&#x2009;days and analysed by DLS and Coomassie blue staining. The results revealed that the particles were stable without any degradation or depolymerization under the long-term room temperature storage (<xref rid="f0001" ref-type="fig">Figure 1g</xref> Fig. S1).
+<fig position="float" id="f0001" fig-type="figure"><label>Figure 1.</label><caption><p>Purification and characterisation of C-OPS<sub>Ba</sub> and CTBTri-OPS<sub>Ba</sub>. a) schematic diagram of the process of CTBTri-OPS<sub>Ba</sub> nanovaccine expression in YeO9_52212 cell and vaccination in mice, and the subsequent pathogen challenge in vaccinated mice. b) the plasmid map of pPglL-CTBTri. c) YeO9_52212 was transformed with expression plasmids and then induced with IPTG (0.1&#x2009;mM), and Coomassie blue staining and western blotting using a 6&#x2009;&#xD7;&#x2009;His tag antibody were performed to analyse the glycosylated expression of CTB and CTBTri in YeO9_52212. d) after purification, the C-OPS<sub>Ba</sub> and CTBTri-OPS<sub>Ba</sub> were analysed by Coomassie blue staining, western blotting using anti 6&#x2009;&#xD7;&#x2009;His Tag, anti-<italic toggle="yes">Y. enterocolitica</italic> O:9 (anti Ye), and anti-<italic toggle="yes">B. abortus</italic> (anti Ba) antibodies. e) TEM image and F) DLS analysis of the purified NP-OPS<sub>Ba</sub>. G) DLS analysis of NP-OPS<sub>Ba</sub> stored at room temperature at different time points.</p></caption><alternatives><graphic xlink:href="KVIR_A_2280377_F0001_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2280377_F0001_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2002">
+        <title>The nanovaccine is safe in vivo</title>
+        <p>BALB/c mice were injected with an overdose of the nanovaccine (containing 12.5&#x2009;&#x3BC;g of polysaccharide, 10 times the normal immunization dose), after which a series of indicators were monitored at different time points and compared to mice (<xref rid="f0002" ref-type="fig">Figure 2a</xref>). During the 15&#x2009;days after immunization, there were no significant differences in body temperature or weight change between normal and immunized mice (<xref rid="f0002" ref-type="fig">Figure 2b</xref>) Then, we measured the major inflammatory factors, IL-1&#x3B2; and IFN-&#x3B3;, in the serum, and the results showed that these two cytokines were not detected in the serum of either the immunized and normal mice, suggesting that the nanovaccine did not induce an inflammatory response (Fig. S2). In addition, we performed a histological analysis of the organs, including heart, liver, kidney, lung, and spleen, 15&#x2009;days after administration and found no pathological phenomena detected in any of the tissue sections (<xref rid="f0002" ref-type="fig">Figure 2c</xref>) Furthermore, to determine whether high doses of vaccine affected the liver and kidney function of mice, we measured several biochemical indices, including alanine aminotransferase (ALT), aspartate transaminase (AST), alkaline phosphatase (ALP), and blood urea nitrogen (BUN) in the serum on the 28th day after injection, and all the biomarkers in both immunized and normal mice were within the normal range (Fig. S3) These results showed that the nanovaccine was safe and appropriate for continued evaluation.
+<fig position="float" id="f0002" fig-type="figure"><label>Figure 2.</label><caption><p>Safety evaluation of nanovaccine. a) experimental schedule for the safety evaluation. b) the temperature and weight of normal mice and immunised mice were determined every 3&#x2009;days after immunisation until the 15th day. c) histological analysis of heart, liver, kidney, lung, and spleen in mice.</p></caption><alternatives><graphic xlink:href="KVIR_A_2280377_F0002_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2280377_F0002_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2003">
+        <title>The nanovaccine induces a potent OPS-specific antibody response and provides good cross-protection against a lethal dose challenge of Brucella</title>
+        <p>After confirming the safety of NP-OPS<sub>Ba</sub> in mice, we further assessed the immunogenicity of the nanovaccine. Generally, nano carriers can effectively enhance specific immune responses. Therefore, we reduced the dose of NP-OPS<sub>Ba</sub> to 1.25&#x2009;&#x3BC;g polysaccharide/mouse (half of the traditional dose) by evaluating the immune effect of different doses (Fig. S4). Then, six-week-old BALB/c mice were randomly divided into three groups (10 mice/group), and were injected intraperitoneally with PBS, C-OPS<sub>Ba</sub> (2.5&#x2009;&#x3BC;g polysaccharide/mouse), or NP-OPS<sub>Ba</sub> (1.25&#x2009;&#x3BC;g polysaccharide/mouse) on day 0, 14 and 28 (<xref rid="f0003" ref-type="fig">Figure 3a</xref>). The tail-tip blood of each group was collected 10&#x2009;days after the third immunization. The ELISA results showed that NP-OPS<sub>Ba</sub> elicited significantly higher IgG titres against YeO9_52212 LPS in the serum of immunized mice than did C-OPS<sub>Ba</sub> (<xref rid="f0003" ref-type="fig">Figure 3b</xref>). We further measured the IgG1 and IgG2a antibody titres and the results revealed that both subtype titres were substantially increased in the group immunized with NP-OPS<sub>Ba</sub>, indicating that the nanovaccine enhanced both Th1 and Th2 immune responses (<xref rid="f0003" ref-type="fig">Figure 3c</xref>). By analysing the ratio IgG1/IgG2a, we found that a lower IgG1/IgG2a ratio in NP-OPS<sub>Ba</sub> group was detected compared with the C-OPS<sub>Ba</sub> group (<xref rid="f0003" ref-type="fig">Figure 3d</xref>), suggesting that the nanovaccine mainly enhanced the OPS-specific Th1-biased immune responses.
+<fig position="float" id="f0003" fig-type="figure"><label>Figure 3.</label><caption><p>Strong antibody response and protection against different <italic toggle="yes">Brucella</italic> strains induced by NP-OPS<sub>Ba</sub> in mice. a) schematic diagram of titre measurements and the lethal challenge experiment. b) serum IgG antibody titres. c) IgG1 and IgG2a antibody titres against YeO9_52212 LPS after third immunisation. Data are Lg10-transformed and presented as means&#x2009;&#xB1;&#x2009;SD and analysed by one-way ANOVA with Dunn&#x2019;s multiple comparison test: ****<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.0001 and **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01. d) OPS-specific IgG isotype antibody titre IgG1/IgG2a ratios. D) Fourteen days after the third immunisation, the mice were challenged with a lethal dose of E) <italic toggle="yes">B. abortus</italic>, F) <italic toggle="yes">B. melitenesis</italic>, or G) <italic toggle="yes">B. suis</italic> and their survival was monitored for 14&#x2009;days.</p></caption><alternatives><graphic xlink:href="KVIR_A_2280377_F0003_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2280377_F0003_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>Having demonstrated that the nanovaccine elicited high specific antibodies levels against YeO9_52212 LPS, we then used a lethal mouse model to evaluate its protection effect in a <italic toggle="yes">Brucella</italic> challenge. Two weeks after the last immunization, the mice were intraperitoneally injected with 6.4&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse <italic toggle="yes">B. abortus</italic> strain A19. During the 14-day-long observation period, no mice died in the C-OPS<sub>Ba</sub> and NP-OPS<sub>Ba</sub> groups, while 60% of the mice died in the PBS group (<xref rid="f0003" ref-type="fig">Figure 3e</xref>). In addition, when the immunized mice were challenged with <italic toggle="yes">B. melitensis</italic> strain M5&#x2013;90 (4.0&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse), all mice in the PBS group were dead within 2&#x2009;days. The survival rate in the C-OPS<sub>Ba</sub> group was only 20% but up to 100% in the NP-OPS<sub>Ba</sub> group (<xref rid="f0003" ref-type="fig">Figure 3f</xref>). Moreover, we also tested the effect against 6.3&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/mouse <italic toggle="yes">B. suis</italic> S2 and the results showed that the nano conjugate vaccine provided 100% protection against the <italic toggle="yes">B. suis</italic> strain S2, while the survival rate in PBS group was 30% (<xref rid="f0003" ref-type="fig">Figure 3g</xref>). These results indicated that the nanovaccine provide better protection, including cross-protection, compared to C-OPS<sub>Ba</sub>.</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2004">
+        <title>The nanovaccine protects mice from a non-lethal dose infection of Brucella</title>
+        <p>Encouraged by the challenge results, we further evaluated the protective effect of the nanovaccine through non-lethal dose infections with <italic toggle="yes">Brucella</italic> strains. Six-week-old BALB/c mice were grouped and immunized as described above and then infected with non-lethal dose of <italic toggle="yes">B. melitensis</italic> (<xref rid="f0004" ref-type="fig">Figure 4a</xref>). After infection with <italic toggle="yes">B. melitensis</italic>, two obvious indicators, weight loss and TNF-&#x3B1; secretion, were determined. The weight of mice in each group decreased significantly after infection with <italic toggle="yes">B. melitensis</italic> strain M5&#x2013;90. The maximum weight loss was about 4&#x2009;g in the PBS group, the weight loss in the C-OPS<sub>Ba</sub> group was about 1.7&#x2009;g, and only 0.72&#x2009;g in the NP-OPS<sub>Ba</sub> group (<xref rid="f0004" ref-type="fig">Figure 4b</xref>). We also measured the expression level of TNF-&#x3B1; in the serum of mice, the TNF-&#x3B1; level in the serum of infected mice increased gradually. The difference among groups were the most significant on the fifth day. The highest level of TNF-&#x3B1; was detected in the PBS group, while immunisation of C-OPS<sub>Ba</sub> and NP-OPS<sub>Ba</sub> effectively reduced serum TNF-a levels in the mice, and the effect of NP-OPS<sub>Ba</sub> was the strongest (<xref rid="f0004" ref-type="fig">Figure 4c</xref>).
+<fig position="float" id="f0004" fig-type="figure"><label>Figure 4.</label><caption><p>Evaluation of immunised mice following non-lethal doses of <italic toggle="yes">Brucella</italic> infection. Mice were immunised and infected with a non-lethal dose of <italic toggle="yes">B. melitensis</italic> following schematic diagram A), then we determined the B) weight (<italic toggle="yes">n</italic>&#x2009;=&#x2009;5), C) serum TNF-&#x3B1; (<italic toggle="yes">n</italic>&#x2009;=&#x2009;3) of mice, D) bacterial load (<italic toggle="yes">n</italic>&#x2009;=&#x2009;5) in the spleen of mice 5&#x2009;days after infection. Data are presented as means&#x2009;&#xB1;&#x2009;SD and analysed by one-way ANOVA with Dunn&#x2019;s multiple comparison test: ****<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.0001, ***<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001, **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, and *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05.</p></caption><alternatives><graphic xlink:href="KVIR_A_2280377_F0004_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2280377_F0004_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>In order to explore whether the nanovaccine effectively eliminated <italic toggle="yes">Brucella</italic> colonized in target organs, we measured the bacterial clearance rate in spleens of mice using the classical non-lethal infection model of <italic toggle="yes">Brucella</italic>. On the fifth day post-infection, the spleens of mice were removed and homogenized, after which the <italic toggle="yes">B. melitensis</italic> in spleens were counted. From the results, we found that although both C-OPS<sub>Ba</sub> and NP-OPS<sub>Ba</sub> reduced the <italic toggle="yes">B. melitensis</italic> burden in the spleens of mice compared to PBS, NP-OPS<sub>Ba</sub> induced a stronger protective effect in immunized mice and the log units of protection against <italic toggle="yes">B. melitensis</italic> was 0.95 (<xref rid="f0004" ref-type="fig">Figure 4d</xref>). We also measure these dates in the non-lethal dose infection with the <italic toggle="yes">B. abortus</italic> strain A19, a similar trend was found in the immunized mice infected with <italic toggle="yes">B. abortus</italic> strain A19. The average weight of mice in the PBS group decreased by 3&#x2009;g at most, and that in the NP-OPS<sub>Ba</sub> groups was about 1&#x2009;g, the protection unit in the NP-OPS<sub>Ba</sub> group was also higher than C-OPS<sub>Ba</sub> group (Fig. S5).</p>
+      </sec>
+    </sec>
+    <sec disp-level="1" id="s0004">
+      <title>Discussion</title>
+      <p>Due to the weak immunogenicity of the polysaccharide antigen itself, the <italic toggle="yes">Brucella</italic> conjugate vaccine we prepared earlier [<xref rid="cit0019" ref-type="bibr">19</xref>] did not provide cross-protection against different <italic toggle="yes">Brucella</italic> species. To solve this problem, the Nano-B5 platform was introduced to further enhance the immune response of the OPS. Compared with the conjugate vaccine produced before, the nanovaccine induced a more potent antibody response and provided 100% protection against a lethal-dose challenge of the three species of <italic toggle="yes">Brucella</italic>, and particularly against <italic toggle="yes">B. melitensis</italic>. After non-lethal dose infection of <italic toggle="yes">Brucella</italic>, the nanovaccine immunization also alleviated both the weight loss and increased serum TNF-&#x3B1; concentration, and decreased the bacterial load in the spleen of mice. These results demonstrated that the immunogenicity of the OPS was enhanced by conjugation with NPs.</p>
+      <p>Many proteins have been used to prepare <italic toggle="yes">Brucella</italic> subunit vaccines, such as ribosomal protein L7/L12 [<xref rid="cit0007" ref-type="bibr">7</xref>], Cu, Zn superoxide dismutase [<xref rid="cit0032" ref-type="bibr">32</xref>], and several outer membrane proteins such as Omp19 [<xref rid="cit0008" ref-type="bibr">8</xref>] and Omp31 [<xref rid="cit0033" ref-type="bibr">33</xref>], and their immune protection was verified in animal experiments [<xref rid="cit0034" ref-type="bibr">34</xref>]. However, the difficulties involved in the identification of protective antigens and the need for concomitant use of adjuvants have limited the development and application of subunit vaccines [<xref rid="cit0035" ref-type="bibr">35</xref>]. In contrast to protein antigens, the OPS of pathogenic <italic toggle="yes">Brucella</italic> are conservative, and are block copolymers formed by variably linked &#x3B1;1,2- and &#x3B1;1,3-D-Rha4NFo [<xref rid="cit0018" ref-type="bibr">18</xref>]. An anti-<italic toggle="yes">Brucella</italic> OPS antibody produced after vaccination or natural infection could kill <italic toggle="yes">Brucella</italic> in vitro, which showed that <italic toggle="yes">Brucella</italic> OPS is also an ideal protective antigen in vaccine design. Therefore, the successful development of <italic toggle="yes">Brucella</italic> OPS-conjugate vaccine could induce high levels of functional antibodies [<xref rid="cit0016" ref-type="bibr">16</xref>]. However, the principal method to monitor brucellosis in animal populations is serology. Although continuous progress has been made in the serodiagnosis of <italic toggle="yes">Brucella</italic>, all the assays use diagnostic antigens that are rich in OPS [<xref rid="cit0018" ref-type="bibr">18</xref>]. The vaccine against <italic toggle="yes">Brucella</italic> OPS has been considered as a flaw in vaccination policy because it can hamper the distinction between infected animals and vaccinated animals [<xref rid="cit0016" ref-type="bibr">16</xref>]. It was reported that anti-OPS antibodies produced by chemically synthesized polysaccharide conjugates are used for serodiagnosis, and the antibody is unlike antibodies produced by various whole cell live vaccines. These anti-OPS antibodies only produce a dominant immune response against the &#x3B1;1,2-linked Rha4NFo units, which suggested that the serodiagnosis based upon the M and terminal epitopes (&#x3B1;1,3-linked) provided an important approach for a viable method to differentiate infected and vaccinated animals [<xref rid="cit0006" ref-type="bibr">6</xref>]. In our study, we used <italic toggle="yes">Y. enterocolitica</italic> O:9 to produce glycoprotein, as the OPS in this glycoprotein does not contain &#x3B1;1,3-linked Rha4NFo units and can be distinguished from natural infection based on the above serological diagnosis methods.</p>
+      <p>At present, several NPs have been used as carriers to prepare polysaccharide conjugated vaccines. Chemical cross-linking is the most common method to connect polysaccharides with NPs, such as virus-like particles and gold NPs [<xref rid="cit0036" ref-type="bibr">36</xref>]. However, this method often involves multiple steps, and may produce heterogeneous products [<xref rid="cit0037" ref-type="bibr">37</xref>]. In this study, the Nano-B5 vaccine platform we used with certain glycosylation modification sites placed at predetermined selective sites avoided uneven decoration products. In addition, we used the OPS of the engineered bacteria, <italic toggle="yes">Y. enterocolitica</italic> O:9, to modify the NPs, which ensured their natural conformation and fidelity of the polysaccharide structure. The coupling process of NPs and polysaccharides was regulated in the bacteria, and there was no danger of distortion of the structure from uncontrolled conjugation. The potential toxicity of NPs has been a concern that limited their application in biomedicine. Owing to their small size, NPs can easily enter numerous body tissues and organs, resulting in accumulation in the cell [<xref rid="cit0023" ref-type="bibr">23</xref>]. Our results showed that the proteinaceous NPs we used were safe and biocompatible; no drug-related toxicity signs were detected in the test mice within 30&#x2009;days after a single high-dose vaccine immunization, and there was no difference in weight gain or visceral organ morphology between the test mice and healthy mice.</p>
+      <p>NPs promote the complement cascade, and then promote the recruitment of immune cells and activation of antigen-presenting cells, thus enhancing the antibody response and overall immune response [<xref rid="cit0038" ref-type="bibr">38</xref>,<xref rid="cit0039" ref-type="bibr">39</xref>]. The antibody titres of mice immunized with the nanovaccine increased significantly, particularly the IgG2a titre, indicating that the OPS-specific Th1-biased immune responses were improved. Th1 and CD8<sup>+</sup> T cell responses are crucial in protection against brucellosis, which may be the most important reason for the improved protective effect of the nanovaccines. The nanovaccine offered good protection in mice against a lethal dose challenge of <italic toggle="yes">Brucella</italic>. This may be because when a large number of <italic toggle="yes">Brucella</italic> enter the body, they first enter the bloodstream, and are killed by antibody through the complement-mediated bactericidal activity, therefore protecting the mice from death. In short, our results have confirmed that the high level of antibody response against an OPS without &#x3B1;1,3 linkages played an important role in protective immunity against <italic toggle="yes">Brucella</italic> infection. Due to the complex pathogenic mechanism of <italic toggle="yes">Brucella</italic>, the multi-component vaccines based on NPs may be an effective strategy. OPS can be used as a fixed component in multi-component vaccines, and protein antigens that can induce cellular immunity are also needed. This type of vaccine is expected to provide effective protection for humans and animals. This finding also greatly reduces the time and cost required for antigen screening.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material id="SM8865" position="float" content-type="local-data">
+        <caption>
+          <title>Supplemental Material</title>
+        </caption>
+        <media xlink:href="KVIR_A_2280377_SM8865.doc">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by the National Natural Science Foundation of China (32271507, U20A20361, 81930122, and 82171819), and Beijing Nova Program: 2022045.</p>
+    </ack>
+    <sec sec-type="COI-statement" disp-level="1" id="s0005">
+      <title>Disclosure statement</title>
+      <p>No potential conflict of interest was reported by the author(s).</p>
+    </sec>
+    <sec sec-type="data-availability" disp-level="1" id="s0006">
+      <title>Data Availability statement</title>
+      <p>The authors confirm that the data supporting the findings of this study are available within the article and its supplementary materials.</p>
+    </sec>
+    <sec sec-type="supplementary-material" disp-level="1" id="s0007">
+      <title>Supplemental data</title>
+      <p>Supplemental data for this article can be accessed online at <ext-link xlink:href="https://doi.org/10.1080/21505594.2023.2280377" ext-link-type="uri">https://doi.org/10.1080/21505594.2023.2280377</ext-link>.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="cit0001">
+        <label>[1]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Oliveira</surname>
+<given-names>SC</given-names></string-name>, <string-name><surname>Giambartolomei</surname>
+<given-names>GH</given-names></string-name>, <string-name><surname>Cassataro</surname>
+<given-names>J.</given-names></string-name></person-group>
+<article-title>Confronting the barriers to develop novel vaccines against brucellosis</article-title>. <source>Expert Rev Vaccines</source>. <year>2011</year>;<volume>10</volume>(<issue>9</issue>):<fpage>1291</fpage>&#x2013;<lpage>11</lpage>. doi: <pub-id pub-id-type="doi">10.1586/erv.11.110</pub-id><pub-id pub-id-type="pmid">21919619</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0002">
+        <label>[2]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Avila-Calderon</surname>
+<given-names>ED</given-names></string-name>, <string-name><surname>Lopez-Merino</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Sriranganathan</surname>
+<given-names>N</given-names></string-name>, et al</person-group>. <article-title>A history of the development of Brucella vaccines</article-title>. <source>Biomed Res Int</source>. <year>2013</year>;<volume>2013</volume>:<fpage>743509</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2013/743509</pub-id><pub-id pub-id-type="pmid">23862154</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0003">
+        <label>[3]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pandey</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Cabello</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Akoolo</surname>
+<given-names>L</given-names></string-name>, et al</person-group>. <article-title>The case for live attenuated vaccines against the neglected zoonotic diseases brucellosis and bovine tuberculosis</article-title>. <source>PLoS Negl Trop Dis</source>. <year>2016</year>;<volume>10</volume>(<issue>8</issue>):<fpage>e0004572</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0004572</pub-id><pub-id pub-id-type="pmid">27537413</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0004">
+        <label>[4]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ganesh</surname>
+<given-names>NV</given-names></string-name>, <string-name><surname>Sadowska</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Sarkar</surname>
+<given-names>S</given-names></string-name>, et al</person-group>. <article-title>Molecular recognition of Brucella a and M antigens dissected by synthetic oligosaccharide glycoconjugates leads to a disaccharide diagnostic for brucellosis</article-title>. <source>J Am Chem Soc</source>. <year>2014</year>;<volume>136</volume>(<issue>46</issue>):<fpage>16260</fpage>&#x2013;<lpage>16269</lpage>. doi: <pub-id pub-id-type="doi">10.1021/ja5081184</pub-id><pub-id pub-id-type="pmid">25263136</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0005">
+        <label>[5]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gao</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Wei</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>Establishment of an analytical method for direct economic loss caused by sheep brucellosis and cost-effectiveness of its control with empirical research</article-title>. <source>AQSIQ</source>. <year>2022</year>;<volume>39</volume>:<fpage>1</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0006">
+        <label>[6]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mandal</surname>
+<given-names>SS</given-names></string-name>, <string-name><surname>Duncombe</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Ganesh</surname>
+<given-names>NV</given-names></string-name>, et al</person-group>. <article-title>Novel solutions for vaccines and diagnostics to combat brucellosis</article-title>. <source>ACS Cent Sci</source>. <year>2017</year>;<volume>3</volume>(<issue>3</issue>):<fpage>224</fpage>&#x2013;<lpage>231</lpage>. doi: <pub-id pub-id-type="doi">10.1021/acscentsci.7b00019</pub-id><pub-id pub-id-type="pmid">28386600</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0007">
+        <label>[7]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Singh</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Somani</surname>
+<given-names>VK</given-names></string-name>, <string-name><surname>Aggarwal</surname>
+<given-names>S</given-names></string-name>, et al</person-group>. <article-title>PLGA (85: 15) nanoparticle based delivery of rL7/L12 ribosomal protein in mice protects against Brucella abortus 544 infection: a promising alternate to traditional adjuvants</article-title>. <source>Mol Immunol</source>. <year>2015</year>;<volume>68</volume>(<issue>2</issue>):<fpage>272</fpage>&#x2013;<lpage>279</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2015.09.011</pub-id><pub-id pub-id-type="pmid">26442664</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0008">
+        <label>[8]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Abkar</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Lotfi</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Amani</surname>
+<given-names>J</given-names></string-name>, et al</person-group>. <article-title>Survey of Omp19 immunogenicity against Brucella abortus and Brucella melitensis: influence of nanoparticulation versus traditional immunization</article-title>. <source>Vet Res Commun</source>. <year>2015</year>;<volume>39</volume>(<issue>4</issue>):<fpage>217</fpage>&#x2013;<lpage>228</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11259-015-9645-2</pub-id><pub-id pub-id-type="pmid">26395469</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0009">
+        <label>[9]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sadeghi</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Fasihi-Ramandi</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Bouzari</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Nanoparticle-based vaccines for brucellosis: calcium phosphate nanoparticles-adsorbed antigens induce cross protective response in mice</article-title>. <source>Int J Nanomedicine</source>. <year>2020</year>;<volume>15</volume>:<fpage>3877</fpage>&#x2013;<lpage>3886</lpage>. doi: <pub-id pub-id-type="doi">10.2147/IJN.S249942</pub-id><pub-id pub-id-type="pmid">32581535</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0010">
+        <label>[10]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Perkins</surname>
+<given-names>SD</given-names></string-name>, <string-name><surname>Smither</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Atkins</surname>
+<given-names>HS</given-names></string-name></person-group>. <article-title>Towards a Brucella vaccine for humans</article-title>. <source>FEMS Microbiol Rev</source>. <year>2010</year>;<volume>34</volume>(<issue>3</issue>):<fpage>379</fpage>&#x2013;<lpage>394</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00211.x</pub-id><pub-id pub-id-type="pmid">20180858</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0011">
+        <label>[11]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kay</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Cuccui</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Wren</surname>
+<given-names>BW</given-names></string-name></person-group>. <article-title>Recent advances in the production of recombinant glycoconjugate vaccines</article-title>. <source>NPJ Vaccines</source>. <year>2019</year>;<volume>4</volume>(<issue>1</issue>):<fpage>16</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41541-019-0110-z</pub-id><pub-id pub-id-type="pmid">31069118</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0012">
+        <label>[12]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dow</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Mauri</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Scott</surname>
+<given-names>TA</given-names></string-name>, et al</person-group>. <article-title>Improving protein glycan coupling technology (PGCT) for glycoconjugate vaccine production</article-title>. <source>Expert Rev Vaccines</source>. <year>2020</year>;<volume>19</volume>(<issue>6</issue>):<fpage>507</fpage>&#x2013;<lpage>527</lpage>. doi: <pub-id pub-id-type="doi">10.1080/14760584.2020.1775077</pub-id><pub-id pub-id-type="pmid">32627609</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0013">
+        <label>[13]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fernandez-Prada</surname>
+<given-names>CM</given-names></string-name>, <string-name><surname>Zelazowska</surname>
+<given-names>EB</given-names></string-name>, <string-name><surname>Nikolich</surname>
+<given-names>M</given-names></string-name>, et al</person-group>. <article-title>Interactions between Brucella melitensis and human phagocytes: bacterial surface O-Polysaccharide inhibits phagocytosis, bacterial killing, and subsequent host cell apoptosis</article-title>. <source>Infect Immun</source>. <year>2003</year>;<volume>71</volume>(<issue>4</issue>):<fpage>2110</fpage>&#x2013;<lpage>2119</lpage>. doi: <pub-id pub-id-type="doi">10.1128/IAI.71.4.2110-2119.2003</pub-id><pub-id pub-id-type="pmid">12654833</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0014">
+        <label>[14]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pei</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Turse</surname>
+<given-names>JE</given-names></string-name>, <string-name><surname>Ficht</surname>
+<given-names>TA</given-names></string-name></person-group>. <article-title>Evidence of Brucella abortus OPS dictating uptake and restricting NF-&#x3BA;B activation in murine macrophages</article-title>. <source>Microbes Infect</source>. <year>2008</year>;<volume>10</volume>(<issue>6</issue>):<fpage>582</fpage>&#x2013;<lpage>590</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.micinf.2008.01.005</pub-id><pub-id pub-id-type="pmid">18457975</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0015">
+        <label>[15]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Duncombe</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Howells</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Haughey</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>The tip of Brucella O-Polysaccharide is a potent epitope in response to brucellosis infection and enables short synthetic antigens to be Superior diagnostic reagents</article-title>. <source>Microorganisms</source>. <year>2022</year>;<volume>10</volume>(<issue>4</issue>):<fpage>708</fpage>. doi: <pub-id pub-id-type="doi">10.3390/microorganisms10040708</pub-id><pub-id pub-id-type="pmid">35456759</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0016">
+        <label>[16]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mathur</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Banai</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Cohen</surname>
+<given-names>D</given-names></string-name></person-group>. <article-title>Natural Brucella melitensis infection and Rev. 1 vaccination induce specific Brucella O-Polysaccharide antibodies involved in complement mediated Brucella cell killing</article-title>. <source>Vaccines (Basel)</source>. <year>2022</year>;<volume>10</volume>(<issue>2</issue>):<fpage>10</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10020317</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0017">
+        <label>[17]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ducrotoy</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Conde-Alvarez</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Blasco</surname>
+<given-names>JM</given-names></string-name>, et al</person-group>. <article-title>A review of the basis of the immunological diagnosis of ruminant brucellosis</article-title>. <source>Vet Immunol Immunopathol</source>. <year>2016</year>;<volume>171</volume>:<fpage>81</fpage>&#x2013;<lpage>102</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vetimm.2016.02.002</pub-id><pub-id pub-id-type="pmid">26964721</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0018">
+        <label>[18]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McGiven</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Howells</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Duncombe</surname>
+<given-names>L</given-names></string-name>, et al</person-group>. <article-title>Improved serodiagnosis of bovine brucellosis by novel synthetic oligosaccharide antigens representing the capping m epitope elements of Brucella O-polysaccharide</article-title>. <source>J Clin Microbiol</source>. <year>2015</year>;<volume>53</volume>(<issue>4</issue>):<fpage>1204</fpage>&#x2013;<lpage>1210</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.03185-14</pub-id><pub-id pub-id-type="pmid">25653412</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0019">
+        <label>[19]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Huang</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Sun</surname>
+<given-names>P</given-names></string-name>, et al</person-group>. <article-title>Application of an O-Linked glycosylation system in Yersinia enterocolitica serotype O: 9 to generate a New Candidate vaccine against Brucella abortus</article-title>. <source>Microorganisms</source>. <year>2020</year>;<volume>8</volume>(<issue>3</issue>):<fpage>8</fpage>. doi: <pub-id pub-id-type="doi">10.3390/microorganisms8030436</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0020">
+        <label>[20]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Liu</surname>
+<given-names>ZG</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Zhao</surname>
+<given-names>HY</given-names></string-name>, et al</person-group>. <article-title>Investigation of the molecular characteristics of Brucella isolates from Guangxi Province, China</article-title>. <source>BMC Microbiol</source>. <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>292</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12866-019-1665-6</pub-id><pub-id pub-id-type="pmid">31842756</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0021">
+        <label>[21]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zhou</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Kroll</surname>
+<given-names>AV</given-names></string-name>, <string-name><surname>Holay</surname>
+<given-names>M</given-names></string-name>, et al</person-group>. <article-title>Biomimetic Nanotechnology toward personalized vaccines</article-title>. <source>Adv Mater</source>. <year>2020</year>;<volume>32</volume>(<issue>13</issue>):<fpage>e1901255</fpage>. doi: <pub-id pub-id-type="doi">10.1002/adma.201901255</pub-id><pub-id pub-id-type="pmid">31206841</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0022">
+        <label>[22]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Azharuddin</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Zhu</surname>
+<given-names>GH</given-names></string-name>, <string-name><surname>Sengupta</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>Nano toolbox in immune modulation and nanovaccines</article-title>. <source>Trends Biotechnol</source>. <year>2022</year>;<volume>40</volume>(<issue>10</issue>):<fpage>1195</fpage>&#x2013;<lpage>1212</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.tibtech.2022.03.011</pub-id><pub-id pub-id-type="pmid">35450779</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0023">
+        <label>[23]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bezbaruah</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Chavda</surname>
+<given-names>VP</given-names></string-name>, <string-name><surname>Nongrang</surname>
+<given-names>L</given-names></string-name>, et al</person-group>. <article-title>Nanoparticle-based delivery systems for vaccines</article-title>. <source>Vaccines (Basel)</source>. <year>2022</year>;<volume>10</volume>(<issue>11</issue>):<fpage>10</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10111946</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0024">
+        <label>[24]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Shi</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>K</given-names></string-name>, et al</person-group>. <article-title>Construction of orthogonal modular proteinaceous nanovaccine delivery vectors based on mSA-Biotin binding</article-title>. <source>Nanomaterials (Basel)</source>. <year>2022</year>;<volume>12</volume>(<issue>5</issue>):<fpage>12</fpage>. doi: <pub-id pub-id-type="doi">10.3390/nano12050734</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0025">
+        <label>[25]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Wu</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Qing</surname>
+<given-names>S</given-names></string-name>, et al</person-group>. <article-title>Biosynthesis of self-assembled proteinaceous nanoparticles for vaccination</article-title>. <source>Adv Mater</source>. <year>2020</year>;<volume>32</volume>(<issue>42</issue>):<fpage>e2002940</fpage>. doi: <pub-id pub-id-type="doi">10.1002/adma.202002940</pub-id><pub-id pub-id-type="pmid">32881121</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0026">
+        <label>[26]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Li</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Sun</surname>
+<given-names>P</given-names></string-name>, et al</person-group>. <article-title>Orthogonal modular biosynthesis of nanoscale conjugate vaccines for vaccination against infection</article-title>. <source>Nano Res</source>. <year>2022</year>;<volume>15</volume>(<issue>2</issue>):<fpage>1645</fpage>&#x2013;<lpage>1653</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s12274-021-3713-4</pub-id><pub-id pub-id-type="pmid">34405037</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0027">
+        <label>[27]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fifis</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Gamvrellis</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Crimeen-Irwin</surname>
+<given-names>B</given-names></string-name>, et al</person-group>. <article-title>Size-dependent immunogenicity: therapeutic and protective properties of nano-vaccines against tumors</article-title>. <source>J Immunol</source>. <year>2004</year>;<volume>173</volume>(<issue>5</issue>):<fpage>3148</fpage>&#x2013;<lpage>3154</lpage>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.173.5.3148</pub-id><pub-id pub-id-type="pmid">15322175</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0028">
+        <label>[28]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Peng</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Wu</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>K</given-names></string-name>, et al</person-group>. <article-title>Production of a promising Biosynthetic self-assembled Nanoconjugate vaccine against Klebsiella Pneumoniae serotype O2 in a General Escherichia Coli host</article-title>. <source>Adv Sci</source>. <year>2021</year>;<volume>8</volume>(<issue>14</issue>):<fpage>e2100549</fpage>. doi: <pub-id pub-id-type="doi">10.1002/advs.202100549</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0029">
+        <label>[29]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Sun</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>B</given-names></string-name>, et al</person-group>. <article-title>Biosynthesis of conjugate vaccines using an O-Linked glycosylation system</article-title>. <source>MBio</source>. <year>2016</year>;<volume>7</volume>(<issue>2</issue>):<fpage>e00443</fpage>&#x2013;<lpage>16</lpage>. doi: <pub-id pub-id-type="doi">10.1128/mBio.00443-16</pub-id><pub-id pub-id-type="pmid">27118590</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0030">
+        <label>[30]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pisarenko</surname>
+<given-names>SV</given-names></string-name>, <string-name><surname>Kovalev</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Volynkina</surname>
+<given-names>AS</given-names></string-name>, et al</person-group>. <article-title>Global evolution and phylogeography of Brucella melitensis strains</article-title>. <source>BMC Genomics</source>. <year>2018</year>;<volume>19</volume>(<issue>1</issue>):<fpage>353</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12864-018-4762-2</pub-id><pub-id pub-id-type="pmid">29747573</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0031">
+        <label>[31]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Huang</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>K</given-names></string-name>, et al</person-group>. <article-title>Biosynthesis and Immunological Evaluation of a Dual-Antigen Nanoconjugate Vaccine against Brucella melitensis</article-title>. <source>Eng</source>. <year>2023</year>;<fpage>5</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.eng.2023.04.007</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0032">
+        <label>[32]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Saez</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Fernandez</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Rivera</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>Oral immunization of mice with recombinant Lactococcus lactis expressing Cu,Zn superoxide dismutase of Brucella abortus triggers protective immunity</article-title>. <source>Vaccine</source>. <year>2012</year>;<volume>30</volume>(<issue>7</issue>):<fpage>1283</fpage>&#x2013;<lpage>1290</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2011.12.088</pub-id><pub-id pub-id-type="pmid">22222868</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0033">
+        <label>[33]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cassataro</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Estein</surname>
+<given-names>SM</given-names></string-name>, <string-name><surname>Pasquevich</surname>
+<given-names>KA</given-names></string-name>, et al</person-group>. <article-title>Vaccination with the recombinant Brucella outer membrane protein 31 or a derived 27-amino-acid synthetic peptide elicits a CD4+ T helper 1 response that protects against Brucella melitensis infection</article-title>. <source>Infect Immun</source>. <year>2005</year>;<volume>73</volume>(<issue>12</issue>):<fpage>8079</fpage>&#x2013;<lpage>8088</lpage>. doi: <pub-id pub-id-type="doi">10.1128/IAI.73.12.8079-8088.2005</pub-id><pub-id pub-id-type="pmid">16299302</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0034">
+        <label>[34]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Yue</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Zhu</surname>
+<given-names>L</given-names></string-name>, et al</person-group>. <article-title>Prophylactic vaccine delivery systems against epidemic infectious diseases</article-title>. <source>Adv Drug Deliv Rev</source>. <year>2021</year>;<volume>176</volume>:<fpage>113867</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.addr.2021.113867</pub-id><pub-id pub-id-type="pmid">34280513</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0035">
+        <label>[35]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gomez</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Adams</surname>
+<given-names>LG</given-names></string-name>, <string-name><surname>Rice-Ficht</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>Host-Brucella interactions and the Brucella genome as tools for subunit antigen discovery and immunization against brucellosis</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2013</year>;<volume>3</volume>:<fpage>17</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2013.00017</pub-id><pub-id pub-id-type="pmid">23720712</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0036">
+        <label>[36]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Vetro</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Safari</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Fallarini</surname>
+<given-names>S</given-names></string-name>, et al</person-group>. <article-title>Preparation and immunogenicity of gold glyco-nanoparticles as antipneumococcal vaccine model</article-title>. <source>Nanomedicine (Lond)</source>. <year>2017</year>;<volume>12</volume>(<issue>1</issue>):<fpage>13</fpage>&#x2013;<lpage>23</lpage>. doi: <pub-id pub-id-type="doi">10.2217/nnm-2016-0306</pub-id><pub-id pub-id-type="pmid">27879152</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0037">
+        <label>[37]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brune</surname>
+<given-names>KD</given-names></string-name>, <string-name><surname>Howarth</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>New routes and opportunities for modular Construction of particulate vaccines: stick, Click, and glue</article-title>. <source>Front Immunol</source>. <year>2018</year>;<volume>9</volume>:<fpage>1432</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2018.01432</pub-id><pub-id pub-id-type="pmid">29997617</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0038">
+        <label>[38]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gomes</surname>
+<given-names>AC</given-names></string-name>, <string-name><surname>Mohsen</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Bachmann</surname>
+<given-names>MF</given-names></string-name></person-group>. <article-title>Harnessing nanoparticles for immunomodulation and vaccines</article-title>. <source>Vaccines (Basel)</source>. <year>2017</year>;<volume>5</volume>(<issue>1</issue>):<fpage>6</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines5010006</pub-id><pub-id pub-id-type="pmid">28216554</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0039">
+        <label>[39]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zhao</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Pan</surname>
+<given-names>Z</given-names></string-name>, et al</person-group>. <article-title>Advanced bioactive nanomaterials for biomedical applications</article-title>. <source>Exploration</source>. <year>2021</year>;<volume>1</volume>(<issue>3</issue>):<fpage>12</fpage>. doi: <pub-id pub-id-type="doi">10.1002/EXP.20210089</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

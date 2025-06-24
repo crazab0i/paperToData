@@ -1,0 +1,1583 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Microorganisms</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Microorganisms</journal-id>
+      <journal-id journal-id-type="publisher-id">microorganisms</journal-id>
+      <journal-title-group>
+        <journal-title>Microorganisms</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-2607</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37630536</article-id>
+      <article-id pub-id-type="pmc">10459811</article-id>
+      <article-id pub-id-type="doi">10.3390/microorganisms11081976</article-id>
+      <article-id pub-id-type="publisher-id">microorganisms-11-01976</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Evaluation of a Lateral Flow Immunochromatography Assay (LFIA) for Diagnosis and Surveillance of Brucellosis in French Alpine Ibex (<italic toggle="yes">Capra ibex</italic>)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3395-4113</contrib-id>
+          <name>
+            <surname>Freddi</surname>
+            <given-names>Luca</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3960-6646</contrib-id>
+          <name>
+            <surname>Vicente</surname>
+            <given-names>Acacia Ferreira</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Petit</surname>
+            <given-names>Elodie</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <xref rid="af2-microorganisms-11-01976" ref-type="aff">2</xref>
+          <xref rid="af3-microorganisms-11-01976" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ribeiro</surname>
+            <given-names>Ma&#xEB;line</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Game</surname>
+            <given-names>Yvette</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af4-microorganisms-11-01976" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Locatelli</surname>
+            <given-names>Yann</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <xref rid="af5-microorganisms-11-01976" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jacques</surname>
+            <given-names>Isabelle</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <xref rid="af6-microorganisms-11-01976" ref-type="aff">6</xref>
+          <xref rid="af7-microorganisms-11-01976" ref-type="aff">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Riou</surname>
+            <given-names>Micka&#xEB;l</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <xref rid="af8-microorganisms-11-01976" ref-type="aff">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jay</surname>
+            <given-names>Maryne</given-names>
+          </name>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+          <xref rid="fn1-microorganisms-11-01976" ref-type="author-notes">&#x2020;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garin-Bastuji</surname>
+            <given-names>Bruno</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rossi</surname>
+            <given-names>Sophie</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af2-microorganisms-11-01976" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Djokic</surname>
+            <given-names>Vitomir</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9633-4464</contrib-id>
+          <name>
+            <surname>Ponsart</surname>
+            <given-names>Claire</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af1-microorganisms-11-01976" ref-type="aff">1</xref>
+          <xref rid="c1-microorganisms-11-01976" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Massis</surname>
+            <given-names>Fabrizio De</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Garofolo</surname>
+            <given-names>Giuliano</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-microorganisms-11-01976"><label>1</label>EU/WOAH &amp; National Reference Laboratory for Animal Brucellosis, ANSES/Paris-Est University, 94700 Maisons-Alfort, France<email>maeline.ribeiro@anses.fr</email> (M.R.); <email>maryne.jay@anses.fr</email> (M.J.); </aff>
+      <aff id="af2-microorganisms-11-01976"><label>2</label>French Office for Biodiversity (OFB), Research and Scientific Support, 74320 S&#xE9;vrier, France</aff>
+      <aff id="af3-microorganisms-11-01976"><label>3</label>The Biometrics and Evolutionary Biology Laboratory UMR 5558, CNRS, VetAgro Sup, Universit&#xE9; de Lyon, 69622 Villeurbanne, France</aff>
+      <aff id="af4-microorganisms-11-01976"><label>4</label>Departmental Veterinary Laboratory of Savoie (LDAV 73), 73000 Chamb&#xE9;ry, France</aff>
+      <aff id="af5-microorganisms-11-01976"><label>5</label>R&#xE9;serve Zoologique de la Haute Touche, Mus&#xE9;um National d&#x2019;Histoire Naturelle (MNHN), 36290 Obterre, France</aff>
+      <aff id="af6-microorganisms-11-01976"><label>6</label>Institut Universitaire Technologique (IUT), D&#xE9;partement G&#xE9;nie Biologique, Universit&#xE9; de Tours, 37082 Tours, France</aff>
+      <aff id="af7-microorganisms-11-01976"><label>7</label>UMR-1282 Infectiologie et Sant&#xE9; Publique (ISP), INRAE Centre Val de Loire, Universit&#xE9; de Tours, 37380 Nouzilly, France</aff>
+      <aff id="af8-microorganisms-11-01976"><label>8</label>UE-1277 Plateforme d&#x2019;Infectiologie Exp&#xE9;rimentale, INRAE Centre Val de Loire, 37380 Nouzilly, France</aff>
+      <author-notes>
+        <corresp id="c1-microorganisms-11-01976"><label>*</label>Correspondence: <email>claire.ponsart@anses.fr</email></corresp>
+        <fn id="fn1-microorganisms-11-01976">
+          <label>&#x2020;</label>
+          <p>Current Address: UMR Mycoplasmoses des Ruminants, Laboratoire de Lyon, ANSES, Universit&#xE9; de Lyon, VetAgro Sup, 69280 Marcy L&#x2019;Etoile, France.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>8</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <issue>8</issue>
+      <elocation-id>1976</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>26</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>28</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 by the authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>France has been officially free of bovine brucellosis since 2005. Nevertheless, in 2012, as the source of two human cases, a bovine outbreak due to <italic toggle="yes">B. melitensis</italic> biovar 3 was confirmed in the French Alpine Bargy massif, due to a spillover from wild, protected Alpine ibex (<italic toggle="yes">Capra ibex</italic>). In order to reduce high <italic toggle="yes">Brucella</italic> prevalence in the local ibex population, successive management strategies have been implemented. Lateral flow immunochromatography assay (LFIA) was thus identified as a promising on-site screening test, allowing for a rapid diagnosis far from the laboratory. This study compared a commercial LFIA for brucellosis diagnosis with the WOAH-recommended tests for small ruminants (i.e., Rose Bengal test (RBT), Complement fixation test, (CFT) and Indirect ELISA, (iELISA)). LFIA showed the same analytical sensitivity as iELISA on successive dilutions of the International Standard anti-<italic toggle="yes">Brucella melitensis</italic> Serum (ISaBmS) and the EU Goat <italic toggle="yes">Brucella</italic> Standard Serum (EUGBSS). Selectivity was estimated at 100% when vaccinated ibex sera were analyzed. When used on samples from naturally infected ibex, LFIA showed high concordance, as well as relative sensitivity and specificity (&gt;97.25%) in comparison with RBT and CFT. This work shows high reliability and ensures a better standardization of LFIA testing for wild ruminants.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Alpine ibex</kwd>
+        <kwd>
+          <italic toggle="yes">Brucella melitensis</italic>
+        </kwd>
+        <kwd>brucellosis</kwd>
+        <kwd>lateral flow immunochromatography assay</kwd>
+        <kwd>wildlife diagnosis</kwd>
+        <kwd>RBT</kwd>
+        <kwd>CFT</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>European Union Reference Laboratory for Brucellosis</funding-source>
+          <award-id>SI2.801943</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>French Directorate General for Food (DGAL)</funding-source>
+          <funding-source>Ministry of Agriculture and Food</funding-source>
+          <award-id>020602002001</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Ministry for an Ecological and Solidary Transition</funding-source>
+          <award-id>2102054258</award-id>
+        </award-group>
+        <funding-statement>This work was supported by the European Union Reference Laboratory for Brucellosis (Grant Agreement No. SI2.801943) and by the French Directorate General for Food (DGAL), Ministry of Agriculture and Food (Grant No. 020602002001, 2017-104, France) and the Ministry for an Ecological and Solidary Transition (Grant No. 2102054258, France).</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-microorganisms-11-01976">
+      <title>1. Introduction</title>
+      <p><italic toggle="yes">Brucellae</italic> are highly infectious Gram-negative bacteria causing brucellosis, a worldwide zoonosis with more than 500,000 incident human cases reported every year [<xref rid="B1-microorganisms-11-01976" ref-type="bibr">1</xref>,<xref rid="B2-microorganisms-11-01976" ref-type="bibr">2</xref>]. In humans, symptoms of brucellosis are fever, sweats, headache, joint and muscle ache, with emphasis on the lower back, while in extreme cases it can affect the central nervous system and heart [<xref rid="B1-microorganisms-11-01976" ref-type="bibr">1</xref>,<xref rid="B3-microorganisms-11-01976" ref-type="bibr">3</xref>]. Usually, human infection is a result of consumption of contaminated animal products (including unpasteurized milk or cheese) or direct contact with the tissues or blood of infected animals. Brucellosis affects developing economies and causes veterinary and public health damages [<xref rid="B4-microorganisms-11-01976" ref-type="bibr">4</xref>,<xref rid="B5-microorganisms-11-01976" ref-type="bibr">5</xref>,<xref rid="B6-microorganisms-11-01976" ref-type="bibr">6</xref>]. Classical <italic toggle="yes">Brucella</italic> species, <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. suis</italic>, preferentially infect cattle, small ruminants and swine, respectively, causing abortions and infertility [<xref rid="B7-microorganisms-11-01976" ref-type="bibr">7</xref>,<xref rid="B8-microorganisms-11-01976" ref-type="bibr">8</xref>]. These <italic toggle="yes">Brucella</italic> species are the most common agents of human infections as well [<xref rid="B2-microorganisms-11-01976" ref-type="bibr">2</xref>,<xref rid="B4-microorganisms-11-01976" ref-type="bibr">4</xref>,<xref rid="B7-microorganisms-11-01976" ref-type="bibr">7</xref>]. Brucellosis eradication in ruminants has been achieved in most of the European Union (EU) through the implementation of long-term management [<xref rid="B9-microorganisms-11-01976" ref-type="bibr">9</xref>], while wild ruminants have not been considered as important reservoirs so far [<xref rid="B10-microorganisms-11-01976" ref-type="bibr">10</xref>].</p>
+      <p>France has been officially free of bovine brucellosis since 2005, which is the result of a regular exhaustive control and eradication measures. Since 2003, no infection cases have been reported in any domestic ruminants [<xref rid="B11-microorganisms-11-01976" ref-type="bibr">11</xref>]. Nevertheless, a bovine outbreak due to <italic toggle="yes">B. melitensis</italic> biovar 3 was confirmed in 2012 in the French Alps and identified as the source of two human cases. Epidemiological investigations since then in the concerned Bargy massif have revealed a high <italic toggle="yes">B. melitensis</italic> prevalence in Alpine ibex (<italic toggle="yes">Capra ibex</italic>), making this species the most likely source of infection for domestic livestock [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-11-01976" ref-type="bibr">13</xref>]. Consequently, in the northern French Alps, <italic toggle="yes">B. melitensis</italic> biovar 3 was identified in Alpine ibex, at a high prevalence level, making this species the most likely source of infection for domestic livestock [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-11-01976" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-11-01976" ref-type="bibr">14</xref>]. The localized brucellosis detection in the Bargy area (Haute-Savoie, French Alps) suggests a contained reservoir in wildlife, entailing a risk of human and domestic animal infection as well as for the local economy, largely based on tourism and the production of raw-milk cheese.</p>
+      <p>The Alpine ibex is a protected species of high patrimonial value, reintroduced after extinction in France in the 1970s (in the Bargy massif: 6 males and 8 females from the Mont-Pleureur population (Switzerland) between 1974 and 1976). In 2013, the Bargy population size (without newborns) was estimated at 567 (CI95% [487; 660]) and currently comprises a population of limited size and distribution. In an attempt to control this wildlife brucellosis reservoir, and to preserve ecologically important species, successive national management actions were undertaken by the French authorities. Firstly, operations were dominated by massive culling, especially in 2013, targeting animals estimated to be older than five years, based on the observation that seroprevalence was significantly higher in this age category [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>]. This led to the reduction of almost 44% of the estimated population between 2013 and 2014 [<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>]. Afterwards, management strategies were essentially based on test-and-remove operations [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>]. Animals were first captured by chemical immobilization for blood sampling and serological testing. In the early campaigns, Ibex sera was tested in laboratory conditions only, and seropositive individuals were culled. The introduction of on-site rapid serological tests allowed to shorten the containment time, euthanize positive ibex during the capture while seronegatives were marked and, most of them, equipped with a GPS collar before being released. This monitoring allowed for investigating population and disease dynamics. The bacteriology analysis of seropositive ibex allowed the characterization of young females with high shedding potential, principally responsible for disease transmission in the population [<xref rid="B16-microorganisms-11-01976" ref-type="bibr">16</xref>]. The data acquired by GPS collars confirmed that female ibex of the Bargy massif were spatially segregated into five groups, whereas males were more prone to move between those herds, and the group location and individual animal age were identified [<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>]. Focusing on the female ibex in the central area of the massif, which constitutes the majority of the population with an active infection, the overall seroprevalence in the area dropped from 51% in 2013 to 21% in 2018 [<xref rid="B17-microorganisms-11-01976" ref-type="bibr">17</xref>]. The data were also corroborated by an exponential predicted model able to calculate the reduction in the force of infection in the monitored ibex population from 2012 to 2018 [<xref rid="B18-microorganisms-11-01976" ref-type="bibr">18</xref>]. The possible use of an extended vaccination program for brucellosis eradication in the ibex population was also explored. However, the implementation of Rev.1 conjunctival vaccine in natura has not been recommended, as the amplification and shedding capacity of Rev.1 was much higher in ibex compared to goats within 90 days following vaccination [<xref rid="B19-microorganisms-11-01976" ref-type="bibr">19</xref>].</p>
+      <p>The ruminant brucellosis definitive diagnosis needs bacteriological, molecular and serological methods, the latter being routinely used in control, eradication and surveillance programs [<xref rid="B20-microorganisms-11-01976" ref-type="bibr">20</xref>,<xref rid="B21-microorganisms-11-01976" ref-type="bibr">21</xref>]. Indirect immunological tests were developed in order to detect antibodies against O-polysaccharide of the smooth <italic toggle="yes">Brucella</italic> lipopolysaccharide (S-LPS). WOAH-recommended tests for brucellosis diagnosis in small ruminants are the Rose Bengal test (RBT), the complement fixation test (CFT) and the indirect ELISA (iELISA) [<xref rid="B22-microorganisms-11-01976" ref-type="bibr">22</xref>]. The lateral flow immunochromatography assay (LFIA) is developed for rapid diagnosis, applicable to various matrices and requires neither specific expertise, nor equipment or electricity. This allows the application of LFIA in field conditions or wild areas. The simplicity combined with high sensitivity and specificity in domestic small ruminants encouraged its use as a primary screening method in Bargy massif ibex [<xref rid="B23-microorganisms-11-01976" ref-type="bibr">23</xref>,<xref rid="B24-microorganisms-11-01976" ref-type="bibr">24</xref>,<xref rid="B25-microorganisms-11-01976" ref-type="bibr">25</xref>,<xref rid="B26-microorganisms-11-01976" ref-type="bibr">26</xref>].</p>
+      <p>In the present work, we evaluated the implementation of a field detection of brucellosis antibodies in the Alpine ibex using the LFIA. The LFIA analytical performance was evaluated against the minimum limit of detection and the selectivity criteria using reference serum and sera from vaccinated ibex, respectively. We also assessed the diagnostic performance using the sera and whole blood of naturally infected ibex. Finally, a batch control system has been implemented to ensure batch minimal requirements.</p>
+    </sec>
+    <sec id="sec2-microorganisms-11-01976">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-microorganisms-11-01976">
+        <title>2.1. Screening Methods</title>
+        <p>For LFIA, the Anigen<sup>&#xAE;</sup> Rapid GS. <italic toggle="yes">Brucella</italic> Ab Test Kit (Cat No. RB2306, BIONOTE, Hwaseong, Republic of Korea) was used on 10 &#x3BC;L of sera and/or whole blood according to the manufacturer&#x2019;s instructions. The test was used on ibex whole blood samples immediately after capture, in the field, as well as in laboratory conditions on extracted sera. This test qualitatively detects <italic toggle="yes">B. melitensis</italic>, <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. suis</italic> anti-S-LPS antibodies in the serum, plasma, whole blood or milk of goats and sheep. The test device allows a visualization of results after 20 min. If the control line was absent, the test was repeated once, and if the control line was not visible the second time, the sample was excluded from the analysis. All samples, including reference sera, were examined for the presence of smooth <italic toggle="yes">Brucella</italic> antibodies using Pourquier Rose Bengale Antigen; (P00215; IDEXX, Hoofddrop, The Netherlands) or RSA (Innovative Diagnostics, Montpellier, France). RBT was performed using the standard procedure according to WOAH and EU requirements, using 25 &#x3BC;L of sera and controls for the reaction [<xref rid="B22-microorganisms-11-01976" ref-type="bibr">22</xref>,<xref rid="B27-microorganisms-11-01976" ref-type="bibr">27</xref>]. Any visible agglutination reaction was considered positive. Pourquier CFT Brucellosis Antigen (P00120; IDEXX, Hoofddrop, The Netherlands) was used to perform the CFT in all sera, including the reference, according to WOAH and EU requirements [<xref rid="B22-microorganisms-11-01976" ref-type="bibr">22</xref>,<xref rid="B28-microorganisms-11-01976" ref-type="bibr">28</xref>]. First, the undiluted sera were inactivated in a water bath at 59 &#xB0;C &#xB1; 1 &#xB0;C for 30 min, and then 50 &#x3BC;L of serial twofold dilutions, ranging from 1/2 to 1/64, were tested. For each test repetition, the anticomplementary activity control from 1/2 to 1/4 was included. CFT results were expressed as a titer (ICFTU/mL) with a positivity threshold of 20 ICFTU/mL. Ten microliters of sera from all animals including international standards were analyzed in duplicate with indirect ELISA for Ovine/Caprine Brucellosis Ab Test IDEXX (P04310-10; IDEXX, Hoofddrop, The Netherlands) in laboratory conditions according to manufacturer&#x2019;s instructions. Any sera showing a percentage of optical density ratio bigger than or equal to 120% was considered as positive, between 110% and 120% as suspect, and equal or less than 110% as negative.</p>
+      </sec>
+      <sec id="sec2dot2-microorganisms-11-01976">
+        <title>2.2. Samples</title>
+        <p>International standard goat sera for brucellosis (EU Goat <italic toggle="yes">Brucella</italic> Standard Serum, EUGBSS, and WOAH International Standard anti-<italic toggle="yes">Brucella melitensis</italic> Serum, ISaBmS [<xref rid="B29-microorganisms-11-01976" ref-type="bibr">29</xref>]) were included in this study to estimate the lower limit of detection. The ISaBmS was developed for harmonization of serological diagnostic tests against smooth <italic toggle="yes">Brucella</italic> in sheep and goats, and the EU Reference Laboratory later developed EUGBSS as a secondary standard [<xref rid="B29-microorganisms-11-01976" ref-type="bibr">29</xref>].</p>
+        <sec id="sec2dot2dot1-microorganisms-11-01976">
+          <title>2.2.1. Bargy Ibex Field Samples</title>
+          <p>Blood samples from naturally infected ibex were collected on-site in the Bargy massif during successive management campaigns from 2012 to 2018 (<xref rid="microorganisms-11-01976-t001" ref-type="table">Table 1</xref>). The Bargy massif is an area located in the mid/south French Alps (46&#xB0; N, 6.5&#xB0; E; elevation: 600&#x2013;2348 m; area: ca. 7000 ha). The Alpine ibex repopulated, 6 males and 8 females, from the Mont-Pleureur population (H&#xE9;r&#xE9;mence, Switzerland) between 1974 and 1976 [<xref rid="B30-microorganisms-11-01976" ref-type="bibr">30</xref>,<xref rid="B31-microorganisms-11-01976" ref-type="bibr">31</xref>]. Because of irregular census tracking, information concerning population size and sanitary status was missing when the first brucellosis outbreak in 2012 was recorded [<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>]. Since then until 2018, the population size without newborns was estimated at 567 (CI 95% [487&#x2013;660]), 310 (CI 95% [275&#x2013;352]) and at 277 (CI 95% [220&#x2013;351]) in 2013, 2014 and 2015, respectively [<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-11-01976" ref-type="bibr">16</xref>]). In the two first years (2012 and 2013), only ibex sera were separated and tested in the laboratory. In the successive annual campaigns until 2018, both sera and whole blood were tested. Ibex were captured and sampled as described in Lambert et al. 2018 [<xref rid="B16-microorganisms-11-01976" ref-type="bibr">16</xref>]. Blood samples were directly tested with an Anigen<sup>&#xAE;</sup> Rapid GS. <italic toggle="yes">Brucella</italic> Ab Test Kit in the field immediately after sampling. The rest of the whole blood was then transferred within 24 h and analyzed in BSL-3 laboratory conditions, upon sera separation (centrifugation at 600&#xD7; <italic toggle="yes">g</italic> for15 min).</p>
+        </sec>
+        <sec id="sec2dot2dot2-microorganisms-11-01976">
+          <title>2.2.2. Experimentally Rev.1 Vaccinated Ibex Samples</title>
+          <p>Blood as serum samples from a previous experimental study were used for the comparison of indirect diagnostic tests [<xref rid="B19-microorganisms-11-01976" ref-type="bibr">19</xref>]. Briefly, six male and six female ibex were recruited for <italic toggle="yes">Brucella melitensis</italic> vaccination. The animals included in the experiment were neither pregnant nor lactating, sexually mature and of a good health status, confirmed in RBT and CFT as <italic toggle="yes">Brucella</italic> spp. negatives. Nine ibex (five males and four females) were vaccinated with conjunctival Rev.1 vaccine (Ocurev<sup>&#xAE;</sup>, CZ Veterinaria, Spain; 1&#x2013;2 &#xD7; 10<sup>9</sup> CFU in a 35 &#x3BC;L/dose), while three animals (one male and two females) were used as unvaccinated controls. At 45 days post vaccination (dpv), 4 vaccinated and 2 control ibexes were euthanized, while others were observed until 90 dpv. Blood samples were collected at 0, 20, 45, 65 and 90 dpv from both vaccinated and control ibex.</p>
+        </sec>
+      </sec>
+      <sec id="sec2dot3-microorganisms-11-01976">
+        <title>2.3. Statistical Analysis</title>
+        <p>All statistical analyses were performed using R Studio 2022.07.0 [<xref rid="B33-microorganisms-11-01976" ref-type="bibr">33</xref>], correlated with R version 3.5 [<xref rid="B34-microorganisms-11-01976" ref-type="bibr">34</xref>].</p>
+        <sec id="sec2dot3dot1-microorganisms-11-01976">
+          <title>2.3.1. Analytical Sensitivity</title>
+          <p>To estimate the LFIA analytical sensitivity, the WOAH (ISaBmS) and EU (EUGBSS) goat standard sera were analyzed in parallel by LFIA and iELISA. The serum dilutions corresponded to the required level of detection defined for iELISA in small ruminants (ISaBmS 1/64; EUGBSS 1/8). Both EUGBSS and ISaBmS were diluted in negative ibex serum or whole blood in order to simulate the real-field conditions. Furthermore, eight different batches of LFIA test were analyzed in order to estimate the minimum limit of detection and batch homogeneity (<xref rid="microorganisms-11-01976-t002" ref-type="table">Table 2</xref>). The EUGBSS was used in five twofold (from pure to 1/16) dilutions. Each batch of LFIA was tested in triplicate with both standards&#x2019; sera.</p>
+        </sec>
+        <sec id="sec2dot3dot2-microorganisms-11-01976">
+          <title>2.3.2. Selectivity</title>
+          <p>Forty-eight experimentally vaccinated ibex serum samples from 12 animals (nine vaccinated and three controls) were used to evaluate the selectivity. The performance of LFIA was compared to RBT, CFT and iELISA on 0, 20, 45, 65 and 90 dpv.</p>
+        </sec>
+        <sec id="sec2dot3dot3-microorganisms-11-01976">
+          <title>2.3.3. Diagnostic Performances</title>
+          <p>To determine the diagnostic sensitivity (Se) and specificity (Sp) for LFIA, 480 (172 sera and 308 whole blood) ibex samples were tested and compared according to serological reference assays (RBT, CFT). Accuracy parameters regarding Positive Predictive Value (PPV), Negative Predictive Value (NPV), Positive Likelihood Ratio (LR+) and Negative Likelihood Ratio (LR+) were estimated using the report ROC and base R. To compare the differences between the diagnostic tests on sera and blood, analysis of variance (ANOVA) was used. Furthermore, concordance between the LFIA and RBT, LFIA and CFT, was calculated as the number of samples that gave the same result (positive or negative) by both tests, expressed as a percentage of the total amount of blood/sera tested. To analyze the concordance, Cohen&#x2019;s kappa was used. Values &#x2264; 0% indicate no agreement, between 1&#x2013;20% as none to slight, 21&#x2013;40% as fair, 41&#x2013;60% as moderate, 61&#x2013;80% as substantial, and 81 and 100% as almost perfect agreement. For each parameter, Standard Error (SE) and 95% Confidence Interval (95% CI) were calculated.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-microorganisms-11-01976">
+      <title>3. Results</title>
+      <sec id="sec3dot1-microorganisms-11-01976">
+        <title>3.1. LFIA Analytical Sensitivity</title>
+        <p>The analytical sensitivity of LFIA was tested on WOAH and EU goat standard sera using 1/64 and 1/8 as final dilutions, respectively. All positive and negative expected results for iELISA and LFIA were the same for both tests. The serum dilutions in which tests yielded negative results produced expected outcomes in both assays. Moreover, the positive (below or equal to ISaBmS 1/64, EUGBSS 1/8 dilutions) and negative (above ISaBmS 1/64, EUGBSS 1/8 dilutions) results were obtained in LFIA, when standard sera were diluted in <italic toggle="yes">Brucella</italic> negative ibex blood.</p>
+        <p>To test repeatability and stability of LFIA, eight production batches were tested (<xref rid="microorganisms-11-01976-t002" ref-type="table">Table 2</xref>). These batches had various expiration dates ranging from December 2015 to May 2023, in order to cover at least several years of production. For repeatability and stability, the EUGBSS, in 5 serial twofold dilutions from 1 to 1/16 was used. In the dilutions from 1 to 1/4 all batches had identical results (<xref rid="microorganisms-11-01976-t002" ref-type="table">Table 2</xref>). A minimal level of detection was reached for each batch ensuring a positive result at dilution 1/8. At 1/8 sera dilution, all except the batch numbered T2306DD001 had slightly lighter positive band, still yielding a positive result. However, the 1/16 dilution was negative when tested with six batches, while two, T2306DD001 and T2306DD010, still detected antibodies, although with lighter bands, but clearly visible (<xref rid="microorganisms-11-01976-t002" ref-type="table">Table 2</xref>).</p>
+      </sec>
+      <sec id="sec3dot2-microorganisms-11-01976">
+        <title>3.2. LFIA Selectivity</title>
+        <p>The LFIA selectivity was calculated on sera from experimentally vaccinated ibex. The sera were collected on days 0, 20, 45, 65 and 90 dpv and tested by RBT, CFT, iELISA and LFIA. RBT, CFT and LFIA identified all nine vaccinated ibex as positive 20 dpv, while iELISA identified only six seropositive animals (<xref rid="microorganisms-11-01976-t003" ref-type="table">Table 3</xref>). However, all vaccinated animals had a positive result at 45, 65 and 90 dpv in all four tests (<xref rid="microorganisms-11-01976-t003" ref-type="table">Table 3</xref>). Nonvaccinated animals remained negative in all serological tests performed during the 90 days of experiment. The results of LFIA had a 100% concordance rate with the ones obtained by RBT and CFT (<xref rid="microorganisms-11-01976-t003" ref-type="table">Table 3</xref>). On the other hand, the concordance rate between LFIA and iELISA was calculated at 87.5% (<xref rid="microorganisms-11-01976-t003" ref-type="table">Table 3</xref>).</p>
+      </sec>
+      <sec id="sec3dot3-microorganisms-11-01976">
+        <title>3.3. Diagnostic Sensitivity and Specificity</title>
+        <p>Ibex sera (<italic toggle="yes">n</italic> = 172) collected during the 2012&#x2013;2013 campaigns were tested by RBT and CFT and then retested by LFIA. In RBT and CFT, 32 out of 172 were positive in both tests, compared to 34 positives in LFIA (<xref rid="microorganisms-11-01976-t004" ref-type="table">Table 4</xref>). Only one serum, detected positive with the RBT, was found negative with the LFIA. One sample was LFIA- and CFT-positive, while RBT was negative. Moreover, only two ibex sera were found negative with the RBT and the CFT, despite being positive in LFIA. Out of 172 samples, an excellent concordance rate was observed between the results of LFIA rapid test and RBT as well as LFIA and CFT (97.7% and 98.8%, respectively) (<xref rid="microorganisms-11-01976-t004" ref-type="table">Table 4</xref>).</p>
+        <p>From spring 2014, the LFIA was applied in field conditions. The whole blood from anesthetized ibex (<italic toggle="yes">n</italic> = 308) wase collected during successive sampling campaigns from 2014 to 2018 (<xref rid="microorganisms-11-01976-t004" ref-type="table">Table 4</xref>). After LFIA blood field test, the corresponding sera were analyzed in RBT and CFT for confirmation in the laboratory conditions (<xref rid="microorganisms-11-01976-t001" ref-type="table">Table 1</xref>). The concordance rate between LFIA and RBT was estimated at 97.7%, while concordance between LFIA and CFT was 98.1% (<xref rid="microorganisms-11-01976-t004" ref-type="table">Table 4</xref>). Only three captured animals presented different results in three different tests: one ibex negative in LFIA and RBT was CFT-positive, and two animals were CFT-negative, while positive in LFIA and RBT. Additionally, five ibex were negative in both RBT and CFT, while positives in LFIA (<xref rid="microorganisms-11-01976-t004" ref-type="table">Table 4</xref>).</p>
+        <p>For all sera and whole blood results (<italic toggle="yes">n</italic> = 480), diagnostic sensitivity and specificity were calculated considering RBT and CFT as WOAH-recommended tests (<xref rid="microorganisms-11-01976-t005" ref-type="table">Table 5</xref> and <xref rid="microorganisms-11-01976-t006" ref-type="table">Table 6</xref>). When sera were tested, the estimated Sensitivity (Sn) of LFIA, compared to RBT and CFT, was 96.99% (95% CI 90.86&#x2013;100.00%) and 100.00% (95% CI 100.00&#x2013;100.00%), respectively. At the same time, Specificity (Sp) of LFIA used on sera was 98.66% (95% CI 95.59&#x2013;100.00%) and 97.06% (95% CI 96.64&#x2013;100.00%), in comparison with RBT and CFT, respectively (<xref rid="microorganisms-11-01976-t005" ref-type="table">Table 5</xref>). The diagnostic accuracy of LFIA compared to RBT and CFT on serum samples was 0.977 and 0.988, respectively. Tested on field sera from naturally infected ibex, the Positive Predictive Value (PPV) was 91.20% (95% CI 81.62&#x2013;100.00%) and 93.34% (95% CI 90.40&#x2013;100.00%), while the Negative Predictive Value (NPV) was 99.35% (95% CI 97.99&#x2013;100.00%) and 100% (95% CI 100&#x2013;100%), when LFIA was compared to RBT and CFT as WOAH reference methods, respectively (<xref rid="microorganisms-11-01976-t005" ref-type="table">Table 5</xref>). An the same time, the LFIA-positive likelihood ratio (LR+) in comparison with reference tests (RBT and CFT) was 46.14 and 71.43, respectively; whereas, negative likelihood ration (LR-) was 0.03 and 0.00, respectively (<xref rid="microorganisms-11-01976-t005" ref-type="table">Table 5</xref>).</p>
+        <p>When LFIA was used on the whole blood samples from naturally infected ibex, it showed sensitivity of 94.45% (95% CI 86.49&#x2013;100.00%) and 94.59% (95% CI 86.66&#x2013;100.00%) compared to RBT and CFT as WOAH-recommended tests, respectively (<xref rid="microorganisms-11-01976-t006" ref-type="table">Table 6</xref>). Contrary to sera, LFIA tested on blood showed higher specificity compared to both RBT and CFT, 99.10% (95% CI 97.58&#x2013;100.00%) and 100.00% (95% CI 100.00&#x2013;100.00%), respectively. PPV also increased to 97.76% (95% CI 94.55&#x2013;100.00%) compared to RBT and 100% (95% CI 100.00&#x2013;100.00%) in comparison with CFT, while the NPV was 97.87% (95% CI 95.83&#x2013;99.79%) and 97.85% (95% CI 95.82&#x2013;99.72%), when RBT and CFT were used as WOAH reference methods, respectively. The diagnostic accuracy of LFIA in comparison with RBT and CFT was 97.76% and 98.48%, respectively. The LFIA LR+ was 104.76% (95% CI 52.25&#x2013;162.12%) compared to RBT, while LR- was 0.057% (95% CI 0.03&#x2013;0.09%) and 0.055% (95% CI 0.02&#x2013;0.102%), when RBT and CFT were used as WOAH reference methods, respectively.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-microorganisms-11-01976">
+      <title>4. Discussion</title>
+      <p>A national control plan for brucellosis in small ruminants has been implemented in France since 1977. The Alpine ibex is a protected species in France. In order to ensure the survival of Alpine ibex and, at the same time, prevent environmental contamination and potential transmission to humans and domestic livestock of one of the most zoonotic bacteria, the surveillance and management campaigns were organized since the brucellosis outbreak in 2012. Moreover, one of the main products&#x2019; region exports is the raw-milk cheese, and any disruption of the export could have high economic consequences. That is why in Haute-Savoie (French Alps), the ibex brucellosis outbreak management decisions were coordinated by the ministry of agriculture, ecology and food (DGAL) and local authorities with the support of national agencies (ANSES and OFB). Management actions were adapted throughout the surveillance campaigns using the available scientific knowledge, including epidemiological modeling using GPS tracking and the latest testing strategies. The integrated modeling approach was also employed to prioritize when and where to implement intervention measures, since spatial distribution of the infection is not homogenous, as the ibex in the central area have a higher infection rate than those in the peripheral sectors [<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>,<xref rid="B35-microorganisms-11-01976" ref-type="bibr">35</xref>].</p>
+      <p>To reduce the <italic toggle="yes">Brucella</italic> prevalence in Alpine ibex, serological screening within the test-and-cull campaign was favored as a strategy by expert groups managed by ANSES, organized to allow monitoring of the disease prevalence and to evaluate the risks of transmission to domestic livestock and to humans, as well as to evaluate different management options to control the infection. The use of on-site serological testing allowed for a fast removal of seropositive ibex, more efficient capture campaigns (no need to capture and cull positive ibex posteriori) and the reduction of additional stress for animals. However, the ibex live at high altitudes, on the steep mountain rocks, and capture is limited by a short period (especially from mid-April to mid-June), when animals come down to the valley pastures, the same used by dairy herds. The human cases and livestock contamination with <italic toggle="yes">B. melitensis</italic> bv3 [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-11-01976" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-11-01976" ref-type="bibr">14</xref>] highlighted the importance of monitoring the disease, to control the <italic toggle="yes">Brucella</italic> circulation in the wildlife and protect animal and public health. Implementation of this strategy will pave the way to control brucellosis in other wild ruminants. This is why, in the present study, samples collected from naturally infected and experimentally vaccinated ibex were used to compare and evaluate LFIA, as a routine test for on-site rapid serological testing, with the current WOAH reference method for smooth <italic toggle="yes">Brucella</italic> spp. in small ruminants&#x2014;RBT, CFT and iELISA.</p>
+      <p>In the absence of international ibex standard serum, the LFIA analytical sensitivity was estimated by WOAH and EU goat standard sera. In iELISA, 1/64 and 1/8 pre-dilutions of ISaBmS and EUGBSS must give a positive reaction, while 1/750 and 1/256 respective dilutions must be negative. The detection limits of the standard sera tested in LFIA were at the same threshold defined for iELISA (1/64 and 1/8, respectively) (<xref rid="microorganisms-11-01976-t002" ref-type="table">Table 2</xref>). These results show that analytical sensitivity of the rapid LFIA test may be applied to ibex sera and is equivalent to the analytical sensitivity of iELISA for the diagnosis of brucellosis in small ruminants. Moreover, compared to iELISA, LFIA can be done directly on freshly collected whole blood, and it showed the same sensitivity when serum samples of experimentally infected ibex were tested.</p>
+      <p>According to the analytical sensitivity results, we expected EUGBSS to give a positive signal at 1/8 dilution in LFIA. The same result was obtained for the eight different LFIA batches tested. However, at this dilution, the obtained bands had a low intensity for most of the tested batches, and sometimes appeared late during incubation. As dilutions were tested in triplicate for each batch and dilution, some batches showed lighter bands in the same dilution, although this did not affect the correct interpretation of the test. This goes to show the importance of the incubation period preconized by the manufacturer, especially in time-limited field situations, when animals are tranquilized and the need for rapid results makes the difference to define their infectious status, and consequently, the decision on culling or releasing them back to the wild.</p>
+      <p>The inclusion of sera from experimentally vaccinated animals, with defined immune status, made it possible to estimate the selectivity of LFIA compared to standard diagnostic tests&#x2014;RBT, CFT and iELISA. LFIA presented a high concordance with RBT and CFT, indicating that it could be used 2 to 4 weeks following vaccination to control the appearance of immune response and vaccination success in remote areas. Twenty days after vaccination, only three ibex were negative in iELISA compared to RBT, CFT and LFIA, suggesting a potential lack of iELISA&#x2019;s sensitivity, compared to standard tests and LFIA.</p>
+      <p>The results obtained in this study show that quick serological diagnostic tests could be easily implemented in the field conditions for detection of anti-<italic toggle="yes">Brucella</italic> antibodies in ibex, even directly using the whole blood. In our study, on naturally infected Alpine ibex, LFIA showed an excellent concordance rate, greater than 97.7%, when compared to standard serological methods for brucellosis diagnosis in small ruminants (<xref rid="microorganisms-11-01976-t005" ref-type="table">Table 5</xref>). Otherwise, the diagnostic specificity should be tested with a healthy control population outside this <italic toggle="yes">Brucella</italic> positive region. However, no serum from a wild ibex population with a disease-free status was available for this study.</p>
+      <p>Nevertheless, two sera and five blood samples, respectively, were found negative with the RBT and the CFT, but not with the LFIA. On the contrary, two animals presented LFIA-negative results together with a positive RBT or CFT. Considering the high number of tested animals under field conditions, these rare discrepancies appear acceptable and did not impair the surveillance strategy. After almost ten years of use, this LFIA has been a major pillar of the control of brucellosis in this area, with current predicted prevalence rates under 10% [<xref rid="B17-microorganisms-11-01976" ref-type="bibr">17</xref>,<xref rid="B35-microorganisms-11-01976" ref-type="bibr">35</xref>]. Unfortunately, after the culling of these animals, it was not possible to obtain the tissue samples for all tested, in order to confirm the ongoing infection. Otherwise, the bacteriological findings have been demonstrated in 58% out of 88% seropositive ibex, and significant heterogeneity of isolation has been highlighted between sex and age classes of captured animals [<xref rid="B16-microorganisms-11-01976" ref-type="bibr">16</xref>]. Moreover, the whole blood LFIA field results were systematically confirmed with the lab-based WOAH reference tests on sera. Considering the high prevalence of <italic toggle="yes">Brucella</italic> infection in the local ibex population [<xref rid="B12-microorganisms-11-01976" ref-type="bibr">12</xref>,<xref rid="B15-microorganisms-11-01976" ref-type="bibr">15</xref>,<xref rid="B17-microorganisms-11-01976" ref-type="bibr">17</xref>], the analytical performances of LFIA in sheep and goat serum are Sn 98.3% (95% CL = 91.1~99.7%) and Sp 100.0% (95% CL = 92.9~100.0%), and Sn 98.1% (95% CL = 90.1~99.7%) and Sp 96.5.0% (95% CL = 90.2~98.8%), respectively (Bionote, Product data sheet: Doc N&#xB0;I2306-7E, Revised date 10 January 2017). Our analyses confirmed a high Sn &gt; 99% and Sp &gt; 97% between LFIA in both blood and sera compared to RBT and CFT when used on wild, naturally infected Alpine ibex. The LFIA accuracy is also supported by high PPV and NPV &gt; 92%. Moreover, an LR+ of 51 and 36, compared to RBT and CFT, respectively, highlight a significant increase of LFIA detection limits compared to WOAH reference methods. On the other hand, an LR- of 0.01 compared to both tests suggests a possible discrepancy in LFIA-negative detection. The limited number of negative samples could be one of the reasons for this divergence.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors want to thank the technicians and researchers from the Zoological Park of Haute Touche, INRAE (ISP + PFIE (<uri xlink:href="https://doi.org/10.15454/1.5572352821559333E12">https://doi.org/10.15454/1.5572352821559333E12</uri>, accessed on 3 July 2023), ANSES, Inovalys (LDAV 37), the technicians and scientists of LDAV 73 and the French Office for Biodiversity (OFB) for their contribution to this study.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, L.F., A.F.V., Y.G., Y.L., M.J., B.G.-B., S.R. and C.P.; Methodology, L.F., A.F.V., M.R. (Ma&#xEB;line Ribeiro), Y.L., I.J., M.R. (Micka&#xEB;l Riou), M.J. and S.R.; Software, V.D.; Validation, B.G.-B., S.R. and C.P.; Formal analysis, M.R. (Ma&#xEB;line Ribeiro); Investigation, L.F., A.F.V., E.P., M.R. (Ma&#xEB;line Ribeiro), Y.G., M.J. and C.P.; Data curation, L.F., A.F.V., E.P., I.J., M.R. (Micka&#xEB;l Riou), M.J., B.G.-B., S.R. and V.D.; Writing&#x2014;original draft, L.F., A.F.V., V.D. and C.P.; Writing&#x2014;review &amp; editing, L.F., E.P., Y.L., I.J., M.R. (Micka&#xEB;l Riou), B.G.-B., V.D. and C.P.; Visualization, L.F.; Supervision, L.F., A.F.V., E.P., Y.G., Y.L., I.J., B.G.-B., S.R. and C.P.; Project administration, L.F., Y.G., Y.L., M.R. (Micka&#xEB;l Riou) and C.P.; Funding acquisition, Y.G., S.R. and C.P. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>The Statement of Ethics does not apply to this set of samples taken for diagnostic purposes.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-microorganisms-11-01976">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>de Figueiredo</surname><given-names>P.</given-names></name>
+<name><surname>Ficht</surname><given-names>T.A.</given-names></name>
+<name><surname>Rice-Ficht</surname><given-names>A.</given-names></name>
+<name><surname>Rossetti</surname><given-names>C.A.</given-names></name>
+<name><surname>Adams</surname><given-names>L.G.</given-names></name>
+</person-group>
+          <article-title>Pathogenesis and immunobiology of brucellosis: Review of <italic toggle="yes">Brucella</italic>&#x2013;Host interactions</article-title>
+          <source>Am. J. Pathol.</source>
+          <year>2015</year>
+          <volume>185</volume>
+          <fpage>1505</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>
+          <pub-id pub-id-type="pmid">25892682</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-microorganisms-11-01976">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pappas</surname><given-names>G.</given-names></name>
+<name><surname>Papadimitriou</surname><given-names>P.</given-names></name>
+<name><surname>Akritidis</surname><given-names>N.</given-names></name>
+<name><surname>Christou</surname><given-names>L.</given-names></name>
+<name><surname>Tsianos</surname><given-names>E.V.</given-names></name>
+</person-group>
+          <article-title>The new global map of human brucellosis</article-title>
+          <source>Lancet Infect. Dis.</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>91</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id>
+          <pub-id pub-id-type="pmid">16439329</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-microorganisms-11-01976">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Celli</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>The intracellular life cycle of <italic toggle="yes">Brucella</italic> spp.</article-title>
+          <source>Microbiol. Spectr.</source>
+          <year>2019</year>
+          <volume>7</volume>
+          <fpage>11</fpage>
+          <pub-id pub-id-type="doi">10.1128/microbiolspec.BAI-0006-2019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-microorganisms-11-01976">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Franco</surname><given-names>M.P.</given-names></name>
+<name><surname>Mulder</surname><given-names>M.</given-names></name>
+<name><surname>Gilman</surname><given-names>R.H.</given-names></name>
+<name><surname>Smits</surname><given-names>H.L.</given-names></name>
+</person-group>
+          <article-title>Human brucellosis</article-title>
+          <source>Lancet Infect. Dis.</source>
+          <year>2007</year>
+          <volume>7</volume>
+          <fpage>775</fpage>
+          <lpage>786</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id>
+          <pub-id pub-id-type="pmid">18045560</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-microorganisms-11-01976">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Godfroid</surname><given-names>J.</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A.</given-names></name>
+<name><surname>Liautard</surname><given-names>J.-P.</given-names></name>
+<name><surname>Kohler</surname><given-names>S.</given-names></name>
+<name><surname>Fretin</surname><given-names>D.</given-names></name>
+<name><surname>Walravens</surname><given-names>K.</given-names></name>
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+<name><surname>Letesson</surname><given-names>J.-J.</given-names></name>
+</person-group>
+          <article-title>From the Discovery of the Malta fever&#x2019;s agent to the discovery of a marine mammal reservoir, brucellosis has continuously been a re-emerging zoonosis</article-title>
+          <source>Vet. Res.</source>
+          <year>2005</year>
+          <volume>36</volume>
+          <fpage>313</fpage>
+          <lpage>326</lpage>
+          <pub-id pub-id-type="doi">10.1051/vetres:2005003</pub-id>
+          <pub-id pub-id-type="pmid">15845228</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-microorganisms-11-01976">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>McDermott</surname><given-names>J.</given-names></name>
+<name><surname>Grace</surname><given-names>D.</given-names></name>
+<name><surname>Zinsstag</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Economics of brucellosis impact and control in low-income countries</article-title>
+          <source>Rev. Sci. Tech. Int. Off. Epizoot.</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <fpage>249</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.32.1.2197</pub-id>
+          <pub-id pub-id-type="pmid">23837382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-microorganisms-11-01976">
+        <label>7.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Corbel</surname><given-names>M.J.</given-names></name>
+<collab>Food and Agriculture Organization of the United Nations</collab>
+<collab>World Health Organization</collab>
+<collab>World Organisation for Animal Health</collab>
+</person-group>
+          <source>Brucellosis in Humans and Animals</source>
+          <publisher-name>World Health Organization</publisher-name>
+          <publisher-loc>Geneva, Switzerland</publisher-loc>
+          <year>2006</year>
+          <isbn>978-7-5091-9003-6</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B8-microorganisms-11-01976">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Seleem</surname><given-names>M.N.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.M.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Brucellosis: A re-emerging zoonosis</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2010</year>
+          <volume>140</volume>
+          <fpage>392</fpage>
+          <lpage>398</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2009.06.021</pub-id>
+          <pub-id pub-id-type="pmid">19604656</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-microorganisms-11-01976">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+</person-group>
+          <article-title>A Review of the use of <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine in adult sheep and goats</article-title>
+          <source>Prev. Vet. Med.</source>
+          <year>1997</year>
+          <volume>31</volume>
+          <fpage>275</fpage>
+          <lpage>283</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0167-5877(96)01110-5</pub-id>
+          <pub-id pub-id-type="pmid">9234451</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-microorganisms-11-01976">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Godfroid</surname><given-names>J.</given-names></name>
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+<name><surname>Saegerman</surname><given-names>C.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+</person-group>
+          <article-title>Brucellosis in terrestrial wildlife</article-title>
+          <source>Rev. Sci. Tech. Int. Off. Epizoot.</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <fpage>27</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.32.1.2180</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-microorganisms-11-01976">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<collab>European Food Safety Authority</collab>
+<collab>European Centre for Disease Prevention and Control</collab>
+</person-group>
+          <article-title>The European Union Summary Report on Trends and Sources of Zoonoses, Zoonotic Agents and Food-Borne Outbreaks in 2017</article-title>
+          <source>EFSA J.</source>
+          <year>2018</year>
+          <volume>16</volume>
+          <fpage>e05500</fpage>
+          <pub-id pub-id-type="doi">10.2903/j.efsa.2018.5500</pub-id>
+          <pub-id pub-id-type="pmid">32625785</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-microorganisms-11-01976">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+<name><surname>Hars</surname><given-names>J.</given-names></name>
+<name><surname>Drapeau</surname><given-names>A.</given-names></name>
+<name><surname>Cherfa</surname><given-names>M.-A.</given-names></name>
+<name><surname>Game</surname><given-names>Y.</given-names></name>
+<name><surname>Le Horgne</surname><given-names>J.-M.</given-names></name>
+<name><surname>Rautureau</surname><given-names>S.</given-names></name>
+<name><surname>Maucci</surname><given-names>E.</given-names></name>
+<name><surname>Pasquier</surname><given-names>J.-J.</given-names></name>
+<name><surname>Jay</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Reemergence of <italic toggle="yes">Brucella melitensis</italic> infection in wildlife, France</article-title>
+          <source>Emerg. Infect. Dis.</source>
+          <year>2014</year>
+          <volume>20</volume>
+          <fpage>1570</fpage>
+          <lpage>1571</lpage>
+          <pub-id pub-id-type="doi">10.3201/eid2009.131517</pub-id>
+          <pub-id pub-id-type="pmid">25152274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-microorganisms-11-01976">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mick</surname><given-names>V.</given-names></name>
+<name><surname>Le Carrou</surname><given-names>G.</given-names></name>
+<name><surname>Corde</surname><given-names>Y.</given-names></name>
+<name><surname>Game</surname><given-names>Y.</given-names></name>
+<name><surname>Jay</surname><given-names>M.</given-names></name>
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella melitensis</italic> in France: Persistence in wildlife and probable spillover from <italic toggle="yes">Alpine ibex</italic> to domestic animals</article-title>
+          <source>PLoS ONE</source>
+          <year>2014</year>
+          <volume>9</volume>
+          <elocation-id>e94168</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0094168</pub-id>
+          <pub-id pub-id-type="pmid">24732322</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-microorganisms-11-01976">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mailles</surname><given-names>A.</given-names></name>
+<name><surname>Rautureau</surname><given-names>S.</given-names></name>
+<name><surname>Horgne</surname><given-names>J.M.L.</given-names></name>
+<name><surname>Poignet-Leroux</surname><given-names>B.</given-names></name>
+<name><surname>d&#x2019;Arnoux</surname><given-names>C.</given-names></name>
+<name><surname>Denneti&#xE8;re</surname><given-names>G.</given-names></name>
+<name><surname>Faure</surname><given-names>M.</given-names></name>
+<name><surname>Lavigne</surname><given-names>J.P.</given-names></name>
+<name><surname>Bru</surname><given-names>J.P.</given-names></name>
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+</person-group>
+          <article-title>Re-emergence of brucellosis in cattle in France and risk for human health</article-title>
+          <source>Eurosurveillance</source>
+          <year>2012</year>
+          <volume>17</volume>
+          <fpage>20227</fpage>
+          <pub-id pub-id-type="doi">10.2807/ese.17.30.20227-en</pub-id>
+          <pub-id pub-id-type="pmid">22856510</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-microorganisms-11-01976">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Marchand</surname><given-names>P.</given-names></name>
+<name><surname>Freycon</surname><given-names>P.</given-names></name>
+<name><surname>Herbaux</surname><given-names>J.-P.</given-names></name>
+<name><surname>Game</surname><given-names>Y.</given-names></name>
+<name><surname>To&#xEF;go</surname><given-names>C.</given-names></name>
+<name><surname>Gilot-Fromont</surname><given-names>E.</given-names></name>
+<name><surname>Rossi</surname><given-names>S.</given-names></name>
+<name><surname>Hars</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Sociospatial structure explains marked variation in brucellosis seroprevalence in an Alpine ibex population</article-title>
+          <source>Sci. Rep.</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <fpage>15592</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-017-15803-w</pub-id>
+          <pub-id pub-id-type="pmid">29142204</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-microorganisms-11-01976">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lambert</surname><given-names>S.</given-names></name>
+<name><surname>Gilot-Fromont</surname><given-names>E.</given-names></name>
+<name><surname>Freycon</surname><given-names>P.</given-names></name>
+<name><surname>Th&#xE9;bault</surname><given-names>A.</given-names></name>
+<name><surname>Game</surname><given-names>Y.</given-names></name>
+<name><surname>To&#xEF;go</surname><given-names>C.</given-names></name>
+<name><surname>Petit</surname><given-names>E.</given-names></name>
+<name><surname>Barthe</surname><given-names>M.-N.</given-names></name>
+<name><surname>Reynaud</surname><given-names>G.</given-names></name>
+<name><surname>Ja&#xFF;</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>High shedding potential and significant individual heterogeneity in naturally-infected <italic toggle="yes">Alpine ibex</italic> (<italic toggle="yes">Capra ibex</italic>) with <italic toggle="yes">Brucella melitensis</italic></article-title>
+          <source>Front. Microbiol.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>1065</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2018.01065</pub-id>
+          <pub-id pub-id-type="pmid">29892274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-microorganisms-11-01976">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Calenge</surname><given-names>C.</given-names></name>
+<name><surname>Lambert</surname><given-names>S.</given-names></name>
+<name><surname>Petit</surname><given-names>E.</given-names></name>
+<name><surname>Th&#xE9;bault</surname><given-names>A.</given-names></name>
+<name><surname>Gilot-Fromont</surname><given-names>E.</given-names></name>
+<name><surname>To&#xEF;go</surname><given-names>C.</given-names></name>
+<name><surname>Rossi</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Estimating disease prevalence and temporal dynamics using biased capture serological data in a wildlife reservoir: The example of brucellosis in <italic toggle="yes">Alpine ibex</italic> (<italic toggle="yes">Capra ibex</italic>)</article-title>
+          <source>Prev. Vet. Med.</source>
+          <year>2021</year>
+          <volume>187</volume>
+          <fpage>105239</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.prevetmed.2020.105239</pub-id>
+          <pub-id pub-id-type="pmid">33373957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-microorganisms-11-01976">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lambert</surname><given-names>S.</given-names></name>
+<name><surname>Gilot-Fromont</surname><given-names>E.</given-names></name>
+<name><surname>To&#xEF;go</surname><given-names>C.</given-names></name>
+<name><surname>Marchand</surname><given-names>P.</given-names></name>
+<name><surname>Petit</surname><given-names>E.</given-names></name>
+<name><surname>Rossi</surname><given-names>S.</given-names></name>
+<name><surname>Th&#xE9;bault</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Combining seroprevalence and capture-mark-recapture data to estimate the force of infection of brucellosis in a managed population of <italic toggle="yes">Alpine ibex</italic></article-title>
+          <source>Epidemics</source>
+          <year>2022</year>
+          <volume>38</volume>
+          <fpage>100542</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.epidem.2022.100542</pub-id>
+          <pub-id pub-id-type="pmid">35152060</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-microorganisms-11-01976">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ponsart</surname><given-names>C.</given-names></name>
+<name><surname>Riou</surname><given-names>M.</given-names></name>
+<name><surname>Locatelli</surname><given-names>Y.</given-names></name>
+<name><surname>Jacques</surname><given-names>I.</given-names></name>
+<name><surname>Fadeau</surname><given-names>A.</given-names></name>
+<name><surname>Jay</surname><given-names>M.</given-names></name>
+<name><surname>Simon</surname><given-names>R.</given-names></name>
+<name><surname>Perrot</surname><given-names>L.</given-names></name>
+<name><surname>Freddi</surname><given-names>L.</given-names></name>
+<name><surname>Breton</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title><italic toggle="yes">Brucella melitensis</italic> Rev.1 vaccination generates a higher shedding risk of the vaccine strain in <italic toggle="yes">Alpine ibex</italic> (<italic toggle="yes">Capra ibex</italic>) compared to the domestic goat (<italic toggle="yes">Capra hircus</italic>)</article-title>
+          <source>Vet. Res.</source>
+          <year>2019</year>
+          <volume>50</volume>
+          <fpage>100</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-019-0717-0</pub-id>
+          <pub-id pub-id-type="pmid">31775863</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-microorganisms-11-01976">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ducrotoy</surname><given-names>M.J.</given-names></name>
+<name><surname>Conde-&#xC1;lvarez</surname><given-names>R.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+<name><surname>Moriy&#xF3;n</surname><given-names>I.</given-names></name>
+</person-group>
+          <article-title>A review of the basis of the immunological diagnosis of ruminant brucellosis</article-title>
+          <source>Vet. Immunol. Immunopathol.</source>
+          <year>2016</year>
+          <volume>171</volume>
+          <fpage>81</fpage>
+          <lpage>102</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetimm.2016.02.002</pub-id>
+          <pub-id pub-id-type="pmid">26964721</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-microorganisms-11-01976">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Godfroid</surname><given-names>J.</given-names></name>
+<name><surname>Nielsen</surname><given-names>K.</given-names></name>
+<name><surname>Saegerman</surname><given-names>C.</given-names></name>
+</person-group>
+          <article-title>Diagnosis of brucellosis in livestock and wildlife</article-title>
+          <source>Croat. Med. J.</source>
+          <year>2010</year>
+          <volume>51</volume>
+          <fpage>296</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="doi">10.3325/cmj.2010.51.296</pub-id>
+          <pub-id pub-id-type="pmid">20718082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-microorganisms-11-01976">
+        <label>22.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<collab>World Organisation for Animal Health</collab>
+</person-group>
+          <article-title>Brucellosis (Infection with <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitenis</italic> and <italic toggle="yes">B. suis</italic>)</article-title>
+          <source>OIE Terrestrial Manual 2022</source>
+          <publisher-name>World Organisation for Animal Health</publisher-name>
+          <publisher-loc>Paris, France</publisher-loc>
+          <year>2022</year>
+        </element-citation>
+      </ref>
+      <ref id="B23-microorganisms-11-01976">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Abdoel</surname><given-names>T.</given-names></name>
+<name><surname>Dias</surname><given-names>I.T.</given-names></name>
+<name><surname>Cardoso</surname><given-names>R.</given-names></name>
+<name><surname>Smits</surname><given-names>H.L.</given-names></name>
+</person-group>
+          <article-title>Simple and rapid field tests for brucellosis in livestock</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2008</year>
+          <volume>130</volume>
+          <fpage>312</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2008.01.009</pub-id>
+          <pub-id pub-id-type="pmid">18321664</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-microorganisms-11-01976">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ashraf</surname><given-names>A.</given-names></name>
+<name><surname>El Hofy</surname><given-names>F.I.</given-names></name>
+<name><surname>Ramadan</surname><given-names>K.M.</given-names></name>
+<name><surname>Harb</surname><given-names>F.E.</given-names></name>
+</person-group>
+          <article-title>Comparative evaluation of standard serological tests for diagnosis of ovine brucellosis</article-title>
+          <source>Benha Vet. Med. J.</source>
+          <year>2014</year>
+          <volume>2</volume>
+          <fpage>423</fpage>
+          <lpage>429</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B25-microorganisms-11-01976">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gusi</surname><given-names>A.M.</given-names></name>
+<name><surname>Bertu</surname><given-names>W.J.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Dieste-P&#xE9;rez</surname><given-names>L.</given-names></name>
+<name><surname>Smits</surname><given-names>H.L.</given-names></name>
+<name><surname>Ocholi</surname><given-names>R.A.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+<name><surname>Moriy&#xF3;n</surname><given-names>I.</given-names></name>
+<name><surname>Mu&#xF1;oz</surname><given-names>P.M.</given-names></name>
+</person-group>
+          <article-title>Comparative performance of lateral flow immunochromatography, iELISA and rose bengal tests for the diagnosis of cattle, sheep, goat and swine brucellosis</article-title>
+          <source>PLoS Negl. Trop. Dis.</source>
+          <year>2019</year>
+          <volume>13</volume>
+          <elocation-id>e0007509</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pntd.0007509</pub-id>
+          <pub-id pub-id-type="pmid">31216271</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-microorganisms-11-01976">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Manasa</surname><given-names>M.</given-names></name>
+<name><surname>Revathi</surname><given-names>P.</given-names></name>
+<name><surname>Chand</surname><given-names>M.P.</given-names></name>
+<name><surname>Maroudam</surname><given-names>V.</given-names></name>
+<name><surname>Navaneetha</surname><given-names>P.</given-names></name>
+<name><surname>Raj</surname><given-names>G.D.</given-names></name>
+<name><surname>Kishor</surname><given-names>P.B.K.</given-names></name>
+<name><surname>De</surname><given-names>B.</given-names></name>
+<name><surname>Rathnagiri</surname><given-names>P.</given-names></name>
+</person-group>
+          <article-title>Protein-G-based lateral flow assay for rapid serodiagnosis of brucellosis in domesticated animals</article-title>
+          <source>J. Immunoass. Immunochem.</source>
+          <year>2019</year>
+          <volume>40</volume>
+          <fpage>149</fpage>
+          <lpage>158</lpage>
+          <pub-id pub-id-type="doi">10.1080/15321819.2018.1541803</pub-id>
+          <pub-id pub-id-type="pmid">30477402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-microorganisms-11-01976">
+        <label>27.</label>
+        <element-citation publication-type="book">
+          <std>NF U47-004</std>
+          <source>Animal Health Analysis Method&#x2014;Detection of Antibodies against Brucellosis by the Complement Fixation Test</source>
+          <edition>AFNOR Editions</edition>
+          <publisher-name>AFNOR</publisher-name>
+          <publisher-loc>La Plaine Saint-Denis, France</publisher-loc>
+          <year>2009</year>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+          <comment>Available online: <ext-link xlink:href="https://www.boutique.afnor.org/en-gb/standard/nf-u47004/animal-health-analysis-methods-detection-of-antibodies-against-brucellosis-/fa048555/62829" ext-link-type="uri">https://www.boutique.afnor.org/en-gb/standard/nf-u47004/animal-health-analysis-methods-detection-of-antibodies-against-brucellosis-/fa048555/62829</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-07-03">(accessed on 3 July 2023)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B28-microorganisms-11-01976">
+        <label>28.</label>
+        <element-citation publication-type="book">
+          <std>NF U47-003</std>
+          <source>Animal Health Analysis Methods&#x2014;Detection of Antibodies against Brucellosis by the Rose-Bengal Plate Test</source>
+          <edition>AFNOR Editions</edition>
+          <publisher-name>AFNOR</publisher-name>
+          <publisher-loc>La Plaine Saint-Denis, France</publisher-loc>
+          <year>2009</year>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <comment>Available online: <ext-link xlink:href="https://www.boutique.afnor.org/en-gb/standard/nf-u47003/animal-health-analysis-methods-detection-of-antibodies-against-brucellosis-/fa159228/32897" ext-link-type="uri">https://www.boutique.afnor.org/en-gb/standard/nf-u47003/animal-health-analysis-methods-detection-of-antibodies-against-brucellosis-/fa159228/32897</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-07-03">(accessed on 3 July 2023)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B29-microorganisms-11-01976">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>McGiven</surname><given-names>J.</given-names></name>
+<name><surname>Taylor</surname><given-names>A.</given-names></name>
+<name><surname>Duncombe</surname><given-names>L.</given-names></name>
+<name><surname>Sayers</surname><given-names>R.</given-names></name>
+<name><surname>Albert</surname><given-names>D.</given-names></name>
+<name><surname>Banai</surname><given-names>M.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+<name><surname>Elena</surname><given-names>S.</given-names></name>
+<name><surname>Fretin</surname><given-names>D.</given-names></name>
+<name><surname>Garin-Bastuji</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The first international standard anti-<italic toggle="yes">Brucella melitensis</italic> serum</article-title>
+          <source>Rev. Sci. Tech. Int. Off. Epizoot.</source>
+          <year>2011</year>
+          <volume>30</volume>
+          <fpage>809</fpage>
+          <lpage>819</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.30.3.2076</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-microorganisms-11-01976">
+        <label>30.</label>
+        <element-citation publication-type="book">
+          <article-title>ANSES Mesures de Ma&#xEE;trise de la Brucellose Chez les Bouquetins du Bargy</article-title>
+          <source>Avis de l&#x2019;Anses et Rapport D&#x2019;expertise Collective</source>
+          <publisher-name>Maisons</publisher-name>
+          <publisher-loc>Alfort, France</publisher-loc>
+          <year>2015</year>
+          <comment>Available online: <ext-link xlink:href="https://www.anses.fr/fr/system/files/SANT2014sa0218Ra.pdf" ext-link-type="uri">https://www.anses.fr/fr/system/files/SANT2014sa0218Ra.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-07-03">(accessed on 3 July 2023)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B31-microorganisms-11-01976">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gauthier</surname><given-names>D.</given-names></name>
+<name><surname>Villaret</surname><given-names>J.C.</given-names></name>
+</person-group>
+          <article-title>La R&#xE9;introduction en France du bouquetin des Alpes</article-title>
+          <source>Rev. Ecol.</source>
+          <year>1990</year>
+          <volume>45</volume>
+          <fpage>97</fpage>
+          <lpage>120</lpage>
+          <pub-id pub-id-type="doi">10.3406/revec.1990.6338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-microorganisms-11-01976">
+        <label>32.</label>
+        <element-citation publication-type="book">
+          <article-title>ANSES Evaluation de La Pertinence de la Vaccination des Bouquetins du Bargy Contre la Brucellose</article-title>
+          <source>Rapport D&#x2019;expertise Collective</source>
+          <publisher-name>Maisons</publisher-name>
+          <publisher-loc>Alfort, France</publisher-loc>
+          <year>2019</year>
+          <fpage>1</fpage>
+          <lpage>92</lpage>
+          <comment>Available online: <ext-link xlink:href="https://www.anses.fr/fr/system/files/SABA2018SA0017Ra.pdf" ext-link-type="uri">https://www.anses.fr/fr/system/files/SABA2018SA0017Ra.pdf</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-07-03">(accessed on 3 July 2023)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B33-microorganisms-11-01976">
+        <label>33.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<collab>RStudio Team</collab>
+</person-group>
+          <source>RStudio: Integrated Development Environment for R 2020</source>
+          <publisher-name>RStudio, Inc.</publisher-name>
+          <publisher-loc>Boston, MA, USA</publisher-loc>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="B34-microorganisms-11-01976">
+        <label>34.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<collab>R Core Team</collab>
+</person-group>
+          <source>R: A Language and Environment for Statistical Computing Year</source>
+          <publisher-name>R Core Team</publisher-name>
+          <publisher-loc>Vienna, Austria</publisher-loc>
+          <year>2019</year>
+        </element-citation>
+      </ref>
+      <ref id="B35-microorganisms-11-01976">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lambert</surname><given-names>S.</given-names></name>
+<name><surname>Th&#xE9;bault</surname><given-names>A.</given-names></name>
+<name><surname>Rossi</surname><given-names>S.</given-names></name>
+<name><surname>Marchand</surname><given-names>P.</given-names></name>
+<name><surname>Petit</surname><given-names>E.</given-names></name>
+<name><surname>To&#xEF;go</surname><given-names>C.</given-names></name>
+<name><surname>Gilot-Fromont</surname><given-names>E.</given-names></name>
+</person-group>
+          <article-title>Targeted strategies for the management of wildlife diseases: The case of brucellosis in Alpine ibex</article-title>
+          <source>Vet. Res.</source>
+          <year>2021</year>
+          <volume>52</volume>
+          <fpage>116</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-021-00984-0</pub-id>
+          <pub-id pub-id-type="pmid">34521471</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap position="float" id="microorganisms-11-01976-t001">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Key figures of brucellosis surveillance applied to the ibex population in the French Alps between 2012 and 2018 (adapted from [<xref rid="B32-microorganisms-11-01976" ref-type="bibr">32</xref>]).</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Year</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Management Policy and Associated Ibex Populations</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Number of Tested Animals</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Field Testing of Whole Blood (Positive Results)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Laboratory Sera Testing (Positive Results)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2012&#x2013;2013</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>-</label><p>Massive slaughter, <italic toggle="yes">n</italic> = 237</p></list-item><list-item><label>-</label><p>Capture for blood collection, <italic toggle="yes">n</italic> = 81</p></list-item></list>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">172</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No<break/></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes<break/>(32 RBT + CFT and 34 LFIA/172)</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2014&#x2013;2015</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>-</label><p>GPS animal tracking (Test and cull), <italic toggle="yes">n</italic> = 166</p></list-item><list-item><label>-</label><p>Recapture (Test and cull), <italic toggle="yes">n</italic> = 30</p></list-item><list-item><label>-</label><p>Indiscriminate slaughter of unmarked animals, <italic toggle="yes">n</italic> = 88</p></list-item></list>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">201</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes<break/>(72 LFIA/201)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes<break/>(70 RBT and 73 CFT/201)</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2016&#x2013;2018</td>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<list list-type="simple"><list-item><label>-</label><p>GPS animal tracking (Test and cull), <italic toggle="yes">n</italic> = 76</p></list-item><list-item><label>-</label><p>Recapture (Test and cull), <italic toggle="yes">n</italic> = 34</p></list-item><list-item><label>-</label><p>Indiscriminate slaughter of unmarked animals, <italic toggle="yes">n</italic> = 10</p></list-item></list>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">107</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes<break/>(19 LFIA/107)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yes<break/>(14 CFT and 14 RBT/107)</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-11-01976-t002">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t002_Table 2</object-id>
+      <label>Table 2</label>
+      <caption>
+        <p>Stability of LFIA batches using the EUGBSS reference sera serial dilutions.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">LFIA Batch</th>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Expiry Date</th>
+            <th colspan="5" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">EUGBSS Successive Dilutions</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/2</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/4</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/8</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1/16</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306012</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">December 2015</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306016</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">August 2016</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306036</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">January 2017</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306DD001</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">August 2017</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306DD010</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">January 2019</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306DD015</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">December 2019</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306D004</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">April 2022</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">T2306D007</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">May 2023</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pos (LB *)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Neg</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>* LB: lighter band; Pos: positive; Neg: negative.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-11-01976-t003">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t003_Table 3</object-id>
+      <label>Table 3</label>
+      <caption>
+        <p>Concordance between LFIA and RBT, CFT and iELISA on experimentally vaccinated Ibex sera collected at 0, 25, 45, 65 and 90 days post infection (adapted from [<xref rid="B19-microorganisms-11-01976" ref-type="bibr">19</xref>]).</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Test Method</th>
+            <th colspan="5" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Day Post Vaccination</th>
+            <th colspan="3" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Comparison with LFIA</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0<break/>+; &#x2212;</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20<break/>+; &#x2212;</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">45<break/>+; &#x2212;</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">65<break/>+; &#x2212;</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90<break/>+; &#x2212;</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Concordance *</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RBT</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">28</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CFT</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">20</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">28</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">100%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">iELISA</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">23</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">25</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">87.5%</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LFIA</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9/9; 0/3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5/5; 0/1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">/</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>&#x201C;+&#x201D; = vaccinated animals; &#x201C;&#x2212;&#x201D; = unvaccinated animals. * Concordance rate is calculated as the percentage of analyzed samples in which two compared methods have the same positive or negative results.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-11-01976-t004">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t004_Table 4</object-id>
+      <label>Table 4</label>
+      <caption>
+        <p>Concordance of LFIA with RBT and CFT on ibex field sera and blood samples.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">No. of Samples</th>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">LFIA</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">RBT</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">CFT</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">172 field serum samples </td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">137</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">138</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">31</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">32</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">140<break/>(81.4%)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">32<break/>(18.6%)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">140<break/>(81.4%)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">32<break/>(18.6%)</td>
+          </tr>
+          <tr>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Concordance *</td>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">97.7%</td>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">98.8%</td>
+          </tr>
+          <tr>
+            <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">308 field whole blood samples</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">217</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">216</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">86</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Total</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">224<break/>(72.7)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">84<break/>(27.3)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">221<break/>(71.8)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">87<break/>(28.2)</td>
+          </tr>
+          <tr>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">Concordance *</td>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">97.7%</td>
+            <td colspan="2" align="center" valign="middle" style="border-bottom:solid thin" rowspan="1">98.1%</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>* Concordance rate is calculated as the percentage of analyzed samples in which two compared methods have the same positive or negative results.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-11-01976-t005">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t005_Table 5</object-id>
+      <label>Table 5</label>
+      <caption>
+        <p>LFIA accuracy parameters calculated using the field sera samples.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">LFIA Compared on Sera</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Reference Tests</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RBT</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CFT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Area Under Curve</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.974</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.986</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.951&#x2013;0.994</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.976&#x2013;0.997</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Accuracy</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.977</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.988</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.953&#x2013;0.982</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.979&#x2013;0.993</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sensitivity</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.969</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.908&#x2013;1.000</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000&#x2013;1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.986</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.979</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.955&#x2013;1.000</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.966&#x2013;1.003</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Predictive Value</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.912</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.933</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.816&#x2013;1.003</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.904&#x2013;1.020</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative Predictive Value</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.993</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.979&#x2013;1.006</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000&#x2013;1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Positive Likelihood Ratio</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">46.14 </td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">71.429</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">15.950&#x2013;94.219 </td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">36.567&#x2013;112.746</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative Likelihood Ratio</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.032</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.015&#x2013;0.105</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.000&#x2013;NaN *</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>* NaN: not a number.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-11-01976-t006">
+      <object-id pub-id-type="pii">microorganisms-11-01976-t006_Table 6</object-id>
+      <label>Table 6</label>
+      <caption>
+        <p>LFIA accuracy parameters calculated using the naturally infected ibex blood samples.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">LFIA Compared on Blood</th>
+            <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Reference Tests</th>
+          </tr>
+          <tr>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RBT</th>
+            <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CFT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Area Under Curve</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.978</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.989</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.962&#x2013;0.999</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.976&#x2013;0.998</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Accuracy</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.977</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.984</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.973&#x2013;0.990</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.979&#x2013;0.990</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.944</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.945</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.864&#x2013;1.000</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.866&#x2013;1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Specificity</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.991</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.975&#x2013;1.000</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000&#x2013;1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Positive Predictive Value</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.977</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">1.000</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.945&#x2013;1.009</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.000&#x2013;1.020</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Negative Predictive Value</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.978</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.978</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.958&#x2013;0.997</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.958&#x2013;0.997</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Positive Likelihood Ratio</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">104.764 </td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">NaN *</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">52.250&#x2013;162.119 </td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NaN *&#x2013;NaN *</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" rowspan="1" colspan="1">Negative Likelihood Ratio</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.057</td>
+            <td align="center" valign="middle" rowspan="1" colspan="1">0.055</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">95% CI</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.035&#x2013;0.095</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.023&#x2013;0.102</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>* NaN: not a number.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

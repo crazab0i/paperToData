@@ -1,0 +1,954 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J R Soc Interface</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J R Soc Interface</journal-id>
+      <journal-id journal-id-type="publisher-id">RSIF</journal-id>
+      <journal-id journal-id-type="hwp">royinterface</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of the Royal Society Interface</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1742-5689</issn>
+      <issn pub-type="epub">1742-5662</issn>
+      <publisher>
+        <publisher-name>The Royal Society</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36882115</article-id>
+      <article-id pub-id-type="pmc">9991488</article-id>
+      <article-id pub-id-type="doi">10.1098/rsif.2022.0756</article-id>
+      <article-id pub-id-type="publisher-id">rsif20220756</article-id>
+      <article-categories>
+        <subj-group subj-group-type="discipline-codes">
+          <compound-subject>
+            <compound-subject-part content-type="code">1004</compound-subject-part>
+          </compound-subject>
+        </subj-group>
+        <subj-group subj-group-type="subject-codes">
+          <compound-subject>
+            <compound-subject-part content-type="code">181</compound-subject-part>
+          </compound-subject>
+          <compound-subject>
+            <compound-subject-part content-type="code">44</compound-subject-part>
+          </compound-subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Life Sciences&#x2013;Mathematics interface</subject>
+        </subj-group>
+        <subj-group subj-group-type="type-of-publication">
+          <subject>Research Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Modelling the control of bovine brucellosis in India</article-title>
+        <alt-title alt-title-type="short">Modelling the control of bovine brucellosis in India</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid" authenticated="true">http://orcid.org/0000-0002-0892-0034</contrib-id>
+          <name>
+            <surname>Holt</surname>
+            <given-names>H. R.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-original-draft/">Writing &#x2013; original draft</role>
+          <email>hholt@rvc.ac.uk</email>
+          <xref rid="af1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="af2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Walker</surname>
+            <given-names>M.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="af3" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beauvais</surname>
+            <given-names>W.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <xref rid="af4" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kaur</surname>
+            <given-names>P.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <xref rid="af5" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bedi</surname>
+            <given-names>J. S.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <xref rid="af6" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mangtani</surname>
+            <given-names>P.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <xref rid="af7" ref-type="aff">
+<sup>7</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sharma</surname>
+            <given-names>N. S.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af5" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gill</surname>
+            <given-names>J. P. S.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <xref rid="af6" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Godfroid</surname>
+            <given-names>J.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Validation" vocab-term-identifier="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af8" ref-type="aff">
+<sup>8</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McGiven</surname>
+            <given-names>J.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af9" ref-type="aff">
+<sup>9</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guitian</surname>
+            <given-names>J.</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-&#x2013;-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="af1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <aff id="af1">
+<label>
+<sup>1</sup>
+</label>
+<addr-line>Veterinary Epidemiology, Economics and Public Health Group, WOAH Collaborating Centre in Risk Analysis and Modelling, Department of Pathobiology and Population Sciences, Royal Veterinary College, <institution>University of London</institution>, Hatfield AL9 7TA, <country>UK</country></addr-line>
+</aff>
+        <aff id="af2">
+<label>
+<sup>2</sup>
+</label>
+<addr-line>Communicable Diseases Policy Research Group, <institution>London School of Hygiene and Tropical Medicine</institution>, Keppel St, London WC1E 7HT, <country>UK</country></addr-line>
+</aff>
+        <aff id="af3">
+<label>
+<sup>3</sup>
+</label>
+<addr-line>London Centre for Neglected Tropical Disease Research, Department of Infectious Disease Epidemiology, <institution>Imperial College London</institution>, London W2 1PG, <country>UK</country></addr-line>
+</aff>
+        <aff id="af4">
+<label>
+<sup>4</sup>
+</label>
+<addr-line>Comparative Pathobiology Department, College of Veterinary Medicine, <institution>Purdue University</institution>, West Lafayette, IN 47906, <country>USA</country></addr-line>
+</aff>
+        <aff id="af5">
+<label>
+<sup>5</sup>
+</label>
+<addr-line>Department of Veterinary Microbiology, <institution>Guru Angad Dev Veterinary and Animal Sciences University</institution>, Ludhiana, Punjab, <country>India</country></addr-line>
+</aff>
+        <aff id="af6">
+<label>
+<sup>6</sup>
+</label>
+<addr-line>School of Public Health and Zoonosis, <institution>Guru Angad Dev Veterinary and Animal Sciences University</institution>, Ludhiana, Punjab, <country>India</country></addr-line>
+</aff>
+        <aff id="af7">
+<label>
+<sup>7</sup>
+</label>
+<addr-line>Faculty of Epidemiology and Population Health, Department of Infectious Disease Epidemiology, <institution>London School of Hygiene and Tropical Medicine</institution>, London, <country>UK</country></addr-line>
+</aff>
+        <aff id="af8">
+<label>
+<sup>8</sup>
+</label>
+<addr-line>Faculty of Biosciences, Fisheries and Economics, Department of Arctic and Marine Biology, <institution>UiT &#x2013; The Arctic University of Norway</institution>, Hansine Hansens veg 18, 9019 Troms&#xF8;, <country>Norway</country></addr-line>
+</aff>
+        <aff id="af9">
+<label>
+<sup>9</sup>
+</label>
+<addr-line>WOAH Brucellosis Reference Laboratory, FAO Collaborating Centre for Brucellosis, Department of Bacteriology, <institution>Animal &amp; Plant Health Agency</institution>, Surrey, <country>UK</country></addr-line>
+</aff>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="other">
+          <p>Electronic supplementary material is available online at <ext-link xlink:href="https://doi.org/10.6084/m9.figshare.c.6442412" ext-link-type="uri">https://doi.org/10.6084/m9.figshare.c.6442412</ext-link>.</p>
+        </fn>
+      </author-notes>
+      <pub-date publication-format="electronic" date-type="pub">
+        <day>8</day>
+        <month>3</month>
+        <year>2023</year>
+        <string-date>March 8, 2023</string-date>
+      </pub-date>
+      <pub-date publication-format="electronic" date-type="collection">
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>8</day>
+        <month>3</month>
+        <year>2023</year>
+        <string-date>March 8, 2023</string-date>
+      </pub-date>
+      <volume>20</volume>
+      <issue>200</issue>
+      <elocation-id>20220756</elocation-id>
+      <history>
+<date date-type="received"><day>15</day><month>10</month><year>2022</year><string-date>October 15, 2022</string-date></date>
+<date date-type="accepted"><day>17</day><month>2</month><year>2023</year><string-date>Feburary 17, 2023</string-date></date>
+</history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 The Authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Published by the Royal Society under the terms of the Creative Commons Attribution License <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>, which permits unrestricted use, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="rsif.2022.0756.pdf"/>
+      <abstract>
+        <p>Brucellosis imposes substantial impacts on livestock production and public health worldwide. A stochastic, age-structured model incorporating herd demographics was developed describing within- and between-herd transmission of <italic toggle="yes">Brucella abortus</italic> in dairy cattle herds. The model was fitted to data from a cross-sectional study conducted in Punjab State of India and used to evaluate the effectiveness of control strategies under consideration. Based on model results, stakeholder acceptance and constraints regarding vaccine supply, vaccination of replacement calves in large farms should be prioritized. Test and removal applied at early stages of the control programme where seroprevalence is high would not constitute an effective or acceptable use of resources because significant numbers of animals would be &#x2018;removed&#x2019; (culled or not used for breeding) based on false positive results. To achieve sustained reductions in brucellosis, policymakers must commit to maintaining vaccination in the long term, which may eventually reduce frequency of infection in the livestock reservoir to a low enough level for elimination to be a realistic objective. This work provides key strategic insights into the control of brucellosis in India, which has the largest cattle population globally, and a general modelling framework for evaluating control strategies in endemic settings.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>brucellosis</kwd>
+        <x xml:space="preserve">, </x>
+        <kwd>transmission model</kwd>
+        <x xml:space="preserve">, </x>
+        <kwd>zoonosis</kwd>
+        <x xml:space="preserve">, </x>
+        <kwd>India</kwd>
+        <x xml:space="preserve">, </x>
+        <kwd>dairy cattle</kwd>
+        <x xml:space="preserve">, </x>
+        <kwd>s19 vaccination</kwd>
+      </kwd-group>
+      <funding-group specific-use="FundRef">
+        <award-group>
+          <funding-source>
+<institution-wrap><institution>Biotechnology and Biological Sciences Research Council</institution><institution-id>http://dx.doi.org/10.13039/501100000268</institution-id></institution-wrap>
+</funding-source>
+          <award-id>BB/L004836/1</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <label>1<x xml:space="preserve">. </x></label>
+      <title>Introduction</title>
+      <p>Brucellosis is a bacterial zoonosis imposing significant impacts on human health, livestock production and international trade of livestock products [<xref rid="RSIF20220756C1" ref-type="bibr">1</xref>,<xref rid="RSIF20220756C2" ref-type="bibr">2</xref>]. In 2011, the World Bank ranked brucellosis among the top 10 diseases in cattle, buffalo, sheep and goats and camelidae in terms of &#x2018;Livestock Units Lost&#x2019; [<xref rid="RSIF20220756C2" ref-type="bibr">2</xref>]. The main transmission routes for human infection are foodborne, from consumption of raw milk or unpasteurized dairy products, and direct contact with contaminated tissues (placenta, aborted foetuses, carcasses) and parturition fluids from infected livestock. Brucellosis causes acute febrile illness which, if not diagnosed and treated, can lead to chronic debilitation [<xref rid="RSIF20220756C2" ref-type="bibr">2</xref>&#x2013;<xref rid="RSIF20220756C4" ref-type="bibr">4</xref>]. Systematic targeting of the livestock reservoir through vaccination with high-efficacy vaccines, culling of animals deemed to be infected and movement restrictions have led to elimination of the disease in several countries [<xref rid="RSIF20220756C5" ref-type="bibr">5</xref>&#x2013;<xref rid="RSIF20220756C7" ref-type="bibr">7</xref>]. However, these strategies require significant resources and long-term commitment and are difficult to implement in areas where smallholder systems predominate. As a result, the disease remains endemic in many countries of Africa, Asia, Latin America and the Middle East where it is one of the major contributors to disability-adjusted life years (DALYs) lost as a result of foodborne illness [<xref rid="RSIF20220756C3" ref-type="bibr">3</xref>,<xref rid="RSIF20220756C8" ref-type="bibr">8</xref>&#x2013;<xref rid="RSIF20220756C10" ref-type="bibr">10</xref>].</p>
+      <p>India is the world's leading milk producer, with the world's largest bovine population, kept predominantly in smallholder systems. Bovine brucellosis is considered endemic throughout the subcontinent [<xref rid="RSIF20220756C8" ref-type="bibr">8</xref>,<xref rid="RSIF20220756C11" ref-type="bibr">11</xref>&#x2013;<xref rid="RSIF20220756C14" ref-type="bibr">14</xref>], however, high-quality epidemiological studies are lacking [<xref rid="RSIF20220756C15" ref-type="bibr">15</xref>]. India is also home to approximately 18% of the world's human population and it is therefore likely that a significant proportion of the global burden of brucellosis infections in both people and cattle occurs here [<xref rid="RSIF20220756C16" ref-type="bibr">16</xref>,<xref rid="RSIF20220756C17" ref-type="bibr">17</xref>]. Control of brucellosis, and other cattle diseases, is particularly complex in India, where slaughter of cattle is not usually acceptable and is illegal in several states [<xref rid="RSIF20220756C12" ref-type="bibr">12</xref>,<xref rid="RSIF20220756C15" ref-type="bibr">15</xref>]. Brucellosis control has gained interest from Indian policymakers in recent years; a pilot programme termed the &#x2018;<italic toggle="yes">Brucella</italic> free village&#x2019; was launched in 2016; aiming to eliminate brucellosis in milk-producing cattle and buffalo within 50 selected villages in 10 states [<xref rid="RSIF20220756C18" ref-type="bibr">18</xref>]. This programme originally considered testing adult livestock in selected villages, culling seropositive buffalo and segregating cows testing seropositive and then vaccinating the remaining seronegative livestock in order to create &#x2018;disease free&#x2019; villages [<xref rid="RSIF20220756C18" ref-type="bibr">18</xref>]. In addition, a National Animal Disease Control Programme for Foot and Mouth Disease (FMD) and Brucellosis was approved by the Cabinet of the Central Government on 31 May 2019 and was in the planning stages while this study was conducted. The National Control Programme proposes vaccination as the primary control strategy; however, one of the major challenges is the procurement of sufficient vaccine doses. It is unlikely that very high coverage of the vaccine will be achieved in the short term, given current low availability, logistics of implementing large-scale vaccination campaigns, reluctance of some farmers to vaccinate as live vaccines may induce abortion in livestock and the sheer size of the bovine population to be vaccinated [<xref rid="RSIF20220756C8" ref-type="bibr">8</xref>,<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. Therefore, evidence of whether vaccination at low coverage can still be effective and how best to allocate vaccine doses are particularly timely.</p>
+      <p>In order to evaluate the likely effectiveness of competing intervention strategies, we present a stochastic model for bovine brucellosis which captures both herd demographics and disease dynamics over time. The model is parametrized using data from a recent cross-sectional study conducted in 425 dairy farms in Punjab State of India, the state that produces the most cattle and buffalo milk per capita in India [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>]. Previous work has demonstrated that brucellosis is widespread in dairy farms in Punjab where exposure of people in direct contact with cattle and buffaloes is common [<xref rid="RSIF20220756C4" ref-type="bibr">4</xref>,<xref rid="RSIF20220756C20" ref-type="bibr">20</xref>,<xref rid="RSIF20220756C21" ref-type="bibr">21</xref>]. The effect of vaccinating a varying proportion of herds, and animals within herds, with (<italic toggle="yes">Brucella</italic> free village) and without (National Control Programme) implementation of test and removal at the inception of the control programme was investigated. This is the first brucellosis model that explicitly incorporates within- and between-herd transmission in a setting where the control programme does not include movement restrictions, which are difficult to implement in most endemic settings.</p>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <label>2<x xml:space="preserve">. </x></label>
+      <title>Material and methods</title>
+      <sec id="s2a">
+        <label>2.1<x xml:space="preserve">. </x></label>
+        <title>Disease transmission model</title>
+        <p>A dynamic age-structured stochastic compartmental model incorporating dairy herd demographics was written in R [<xref rid="RSIF20220756C22" ref-type="bibr">22</xref>] to capture transmission of <italic toggle="yes">B. abortus</italic> within and between dairy herds. As the model is used to capture dynamics in dairy herds typical of Punjab State of India, large ruminants (cows/buffalo) are the only species considered as very few farms or households in this area keep small ruminants (2%) [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>]. In addition, <italic toggle="yes">B. abortus</italic> is the only species to be isolated from large ruminants here [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>]. Cows and buffalo are assumed to mix homogeneously within the herd as management practices in Punjab are very similar and farms often keep a mixture of both species. Transition between compartments follows a Poisson process using the event-driven Gillespie stochastic simulation algorithm (SSA) implemented using the R package GillespieSSA [<xref rid="RSIF20220756C23" ref-type="bibr">23</xref>]. The model tracks the numbers of livestock in each state; susceptible (<italic toggle="yes">S</italic><sub>i</sub>), infected (<italic toggle="yes">E</italic><sub>i</sub>), vaccinated (<italic toggle="yes">V</italic><sub>i</sub>) (all age groups) and infectious (<italic toggle="yes">I</italic><sub>i</sub>; adults only), as well as vaccine doses and the number of animals &#x2018;removed&#x2019; from the dairy herds when implementing test and removal strategies (<xref rid="RSIF20220756F1" ref-type="fig">figure 1</xref> and electronic supplementary material).
+<fig position="float" id="RSIF20220756F1"><label>Figure 1<x xml:space="preserve">. </x></label><caption><p>Model schematic showing the transition between different compartments, where <inline-formula><mml:math id="IM1"><mml:msub><mml:mi>N</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:msubsup><mml:mo movablelimits="false">&#x2211;</mml:mo><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msubsup><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula>, <inline-formula><mml:math id="IM2"><mml:msub><mml:mi>N</mml:mi><mml:mi>E</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:msubsup><mml:mo movablelimits="false">&#x2211;</mml:mo><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msubsup><mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> and <inline-formula><mml:math id="IM3"><mml:msub><mml:mi>N</mml:mi><mml:mi>V</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo><mml:mo>=</mml:mo><mml:msubsup><mml:mo movablelimits="false">&#x2211;</mml:mo><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>3</mml:mn></mml:mrow><mml:mrow><mml:mo>&#x2009;</mml:mo><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>11</mml:mn></mml:mrow></mml:msubsup><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math></inline-formula> denote, respectively, the total number of susceptible, exposed and vaccinated adults in the herd; <italic toggle="yes">&#x3BB;</italic>, <italic toggle="yes">&#x3B8;</italic>, <italic toggle="yes">&#x3B1;</italic><sub>1</sub> and <italic toggle="yes">&#x3C9;</italic> denote, respectively, the calving rate, probability of vertical transmission, removal rate of newborns and probability a calf is vaccinated and becomes immune; <italic toggle="yes">&#x3B3;</italic> is the transition rate between age groups (1 year); <italic toggle="yes">&#x3B2;</italic> is the effective contact rate; &#x3B5;<italic toggle="yes"><sub>j</sub></italic>, <italic toggle="yes">P</italic>, &#x3C6;, <italic toggle="yes">&#x3BC;</italic> and <italic toggle="yes">&#x3B1;</italic><italic toggle="yes"><sub>j</sub></italic> are the number of new purchases (&#x3B5;<italic toggle="yes"><sub>j</sub></italic>, <italic toggle="yes">j</italic> = 4), the probability that a purchased animal is infected (<italic toggle="yes">P</italic>) and vaccinated (&#x3C6;), the rate of loss of infectiousness (<italic toggle="yes">&#x3BC;</italic>) and the rate of removal of adults (<italic toggle="yes">&#x3B1;<sub>j</sub></italic>).</p></caption><graphic xlink:href="rsif20220756f01" position="float"/></fig></p>
+      </sec>
+      <sec id="s2b">
+        <label>2.2<x xml:space="preserve">. </x></label>
+        <title>Model events</title>
+        <p>Replacement animals are modelled as being sourced either from new births on the farm, with <italic toggle="yes">&#x3BB;</italic> denoting the annual calving rate, or from the purchase of new animals of age group <italic toggle="yes">j</italic> = 4 (&#x3B5;<italic toggle="yes"><sub>j</sub></italic>). Male calves, new-borns sold off the farm or calves that die in their first year of life cannot become infectious while on the farm and therefore do not contribute to transmission; these events are incorporated in a single rate parameter, <italic toggle="yes">&#x3B1;</italic><sub>1</sub><italic toggle="yes">.</italic> In other age groups, livestock die, are sold or are no longer reproductively active and these events are captured by parameter, <italic toggle="yes">&#x3B1;<sub>j</sub></italic>. Of those calves remaining in the farm, those born to infected cows can be infected (exposed), <italic toggle="yes">E</italic><sub>1</sub>, via vertical transmission from mother to calf, with probability <italic toggle="yes">&#x3B8;.</italic> When calfhood vaccination is implemented, a proportion of calves enter the <italic toggle="yes">V</italic><sub>1</sub> compartment with probability <italic toggle="yes">&#x3C9;</italic>. The remaining calves enter the <italic toggle="yes">S</italic><sub>1</sub> compartment.</p>
+        <p>Susceptible cattle become infected following an effective contact with infectious cattle, governed by (transmission rate) parameter <italic toggle="yes">&#x3B2;</italic>. Infected cattle become infectious when they abort or give birth (rate <italic toggle="yes">&#x3BB;</italic>). Following a period of infectiousness, capturing shedding of the infectious cattle and the survival of <italic toggle="yes">B. abortus</italic> organisms in the environment, cattle return to the infected (exposed) compartment at rate <italic toggle="yes">&#x3BC;</italic> until they give birth again. Transmission of <italic toggle="yes">Brucella</italic> spp. is via proximity to calving livestock, contaminated environments, <italic toggle="yes">in utero</italic> or during service/artificial insemination. Therefore, as herds in Punjab are primarily sedentary and effective contacts are unlikely to occur between livestock from different farms [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>], it is assumed that between-herd transmission only occurs through purchase of infected cattle. This is modelled as a function of the number of annual purchases (&#x3B5;<italic toggle="yes"><sub>j</sub></italic>) and the probability that a replacement animal is infected, as given by the animal-level prevalence, <italic toggle="yes">P</italic>.</p>
+      </sec>
+      <sec id="s2c">
+        <label>2.3<x xml:space="preserve">. </x></label>
+        <title>Model parametrization and assumptions</title>
+        <p>The model is parametrized using data from a sero-survey of 425 dairy herds in rural Ludhiana district of Punjab conducted between 2015 and 2017; 139 herds had at least one positive animal (median within-herd prevalence 33.3%) [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. These data are supplemented with information collected from a survey of 409 household herds [<xref rid="RSIF20220756C21" ref-type="bibr">21</xref>] and published literature. Infection in a farm is seeded from the purchase of infected animals. Two zero-inflated negative binomial distributions for purchase numbers were fitted using maximum-likelihood estimation implemented with the R package fitdistrplus [<xref rid="RSIF20220756C24" ref-type="bibr">24</xref>] to data on the number of purchases per farm per year; one for herds with less than nine adult females and one for herds with nine or more females. The effective contact (transmission) rate within a farm, <italic toggle="yes">&#x3B2;</italic>, was fitted using approximate Bayesian computation (ABC) techniques.</p>
+        <p>The model parameters are listed in <xref rid="RSIF20220756TB1" ref-type="table">table 1</xref>. As there was high uncertainty associated with the probability a calf born to an infected animal is infected <italic toggle="yes">&#x3B8;</italic> and this could potentially influence which control strategies are considered most effective this parameter was varied as part of a scenario analysis. See <xref rid="RSIF20220756TB1" ref-type="table">table 1</xref>, electronic supplementary material and Holt <italic toggle="yes">et al.</italic> [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>] for further details.
+<table-wrap position="float" id="RSIF20220756TB1"><label>Table 1<x xml:space="preserve">. </x></label><caption><p>Model parameter definitions and values.</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead valign="bottom"><tr><th align="left" rowspan="1" colspan="1">parameter</th><th align="left" rowspan="1" colspan="1">definition</th><th align="left" rowspan="1" colspan="1">value</th><th align="left" rowspan="1" colspan="1">source</th></tr></thead><tbody><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3BB;</italic></td><td rowspan="1" colspan="1">calving rate (and rate that exposed animals become infectious)</td><td rowspan="1" colspan="1">0.605 per year</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3B3;</italic></td><td rowspan="1" colspan="1">transition rate between age groups</td><td rowspan="1" colspan="1">1 per year</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x3B5;<italic toggle="yes"><sub>j</sub></italic></td><td rowspan="1" colspan="1">rate of purchasing new animals of age group <italic toggle="yes">j</italic></td><td rowspan="1" colspan="1">sampled for <italic toggle="yes">j</italic> = 4; 0 otherwise</td><td rowspan="1" colspan="1">estimated from observed data [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3B1;</italic><sub>1</sub></td><td rowspan="1" colspan="1">rate of removal of newborn calves (composite parameter capturing male calves, death and sale of calves)</td><td rowspan="1" colspan="1">0.685 per year</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3B1;<sub>j</sub></italic></td><td rowspan="1" colspan="1">rate of removal of adults (composite parameter capturing death, sale and end of reproductive activity of adults)</td><td rowspan="1" colspan="1">12/72 for <italic toggle="yes">j</italic> = 3 &#x2026; 10 0.835 for <italic toggle="yes">j</italic> = 11</td><td rowspan="1" colspan="1">estimated from age distribution [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3B2;</italic></td><td rowspan="1" colspan="1">cattle-to-cattle effective contact (transmission) rate</td><td rowspan="1" colspan="1">5.279</td><td rowspan="1" colspan="1">this work</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3BC;</italic></td><td rowspan="1" colspan="1">rate of loss of infectiousness (composite rarameter capturing period bacteria are shed plus their survival in the environment)</td><td rowspan="1" colspan="1">12/4 per year</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C25" ref-type="bibr">25</xref>,<xref rid="RSIF20220756C26" ref-type="bibr">26</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3B8;</italic></td><td rowspan="1" colspan="1">probability calf born to infected animal is infected</td><td rowspan="1" colspan="1">0.05 (0.2 in scenario analysis)</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C27" ref-type="bibr">27</xref>&#x2013;<xref rid="RSIF20220756C29" ref-type="bibr">29</xref>]</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">&#x3C9;</italic></td><td rowspan="1" colspan="1">calves which are immune (proportion vaccinated &#x2217; VE)</td><td rowspan="1" colspan="1">varied value</td><td rowspan="1" colspan="1">proportion vaccinated = 0.25; 0.5; 0.75 or 1.0 depending on scenario</td></tr><tr><td rowspan="1" colspan="1">&#x3C6;</td><td rowspan="1" colspan="1">probability that a purchased animal is vaccinated</td><td rowspan="1" colspan="1">varied value</td><td rowspan="1" colspan="1">initially 0, updated annually when simulating control strategies</td></tr><tr><td rowspan="1" colspan="1"><italic toggle="yes">P</italic></td><td rowspan="1" colspan="1">probability that a purchased animal is infected</td><td rowspan="1" colspan="1">initially 0.151. Then varied as control strategies are implemented.</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr><tr><td rowspan="1" colspan="1">VE</td><td rowspan="1" colspan="1">vaccine efficacy</td><td rowspan="1" colspan="1">0.8</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C30" ref-type="bibr">30</xref>]</td></tr><tr><td rowspan="1" colspan="1">Se</td><td rowspan="1" colspan="1">test sensitivity Rose Bengal test (RBT)</td><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C31" ref-type="bibr">31</xref>]</td></tr><tr><td rowspan="1" colspan="1">Sp</td><td rowspan="1" colspan="1">test specificity RBT</td><td rowspan="1" colspan="1">0.9</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">proportion of animals that are buffalo (versus cows)</td><td rowspan="1" colspan="1">0.45</td><td rowspan="1" colspan="1">[<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="s2d">
+        <label>2.4<x xml:space="preserve">. </x></label>
+        <title>Fitting cattle-to-cattle effective contact (transmission rate)</title>
+        <p>The rate that susceptible cattle become infected is driven by the effective contact rate, <italic toggle="yes">&#x3B2;</italic>. This was estimated by fitting the model to the observed within-herd seroprevalence data presented in Holt <italic toggle="yes">et al</italic>. [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>] using an approximate Bayesian computation (ABC) algorithm. The algorithm samples a value of <italic toggle="yes">&#x3B2;</italic> from a prior distribution and then produces a stochastic simulation of the prevalence of infection for each of the 425 observed herds (after a burn-in period of 75 years to ensure endemic stability). An uninformative uniform prior bounded between 1 and 10 was used for <italic toggle="yes">&#x3B2;</italic> and 5000 values were sampled from this distribution. Initial herd sizes for each simulated herd were set to match the corresponding observed herd size and all animals within herds were initially assumed to be uninfected (i.e. infection introduced from the purchase of infected animals). Infections were seeded through the purchase of new animals. The sum of the squared difference between the observed and simulated mean and standard deviation of the within-herd prevalence values was used as the distance measure to minimize (<xref rid="RSIF20220756F2" ref-type="fig">figure 2</xref>), with differences less than 0.005 retained for approximation of the posterior. The median value of <italic toggle="yes">&#x3B2;</italic> (=5.279) was selected as a fixed parameter value for simulations of different control strategies for computational feasibility.
+<fig position="float" id="RSIF20220756F2"><label>Figure 2<x xml:space="preserve">. </x></label><caption><p>Scatterplot showing the sum of squared difference between the mean and standard deviation of the observed and simulated herd prevalence data for each value of the cattle-to-cattle effective contact (transmission) rate parameter <italic toggle="yes">&#x3B2;</italic> (beta).</p></caption><graphic xlink:href="rsif20220756f02" position="float"/></fig></p>
+      </sec>
+      <sec id="s2e">
+        <label>2.5<x xml:space="preserve">. </x></label>
+        <title>Simulation of control scenarios</title>
+        <p>Simulations of the impact of different control scenarios were based on vaccinating farms within villages, with &#x2018;village&#x2019; being the unit considered for control by the <italic toggle="yes">Brucella</italic> free village and National Control programmes. The mean population of a village and household size in the study area is approximately 1500 and 5.2 people, respectively [<xref rid="RSIF20220756C32" ref-type="bibr">32</xref>] and with 61.0% of households keeping cattle [<xref rid="RSIF20220756C21" ref-type="bibr">21</xref>]. Therefore, it was assumed an average village would contain 180 herds. Median herd size in the study area was four (2.5th&#x2013;97.5th percentile; 1&#x2013;16) with a maximum of 24 animals [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. Therefore, initial herd sizes for 180 dairy herds per village were sampled from zero-truncated negative binomial distribution fitted to the herd size data, and the model was run for 75 years to stabilize.</p>
+        <p>Control scenarios were selected based on interventions proposed by the <italic toggle="yes">Brucella</italic> free village programme (test and removal at the inception of the control programme and subsequent vaccination) and the National Control Programme (vaccination only). Hence, the model was used to investigate the impact of different combinations of the following:</p>
+        <sec id="s2e1">
+          <label>2.5.1<x xml:space="preserve">. </x></label>
+          <title>Vaccination strategies</title>
+          <list list-type="simple">
+            <list-item>
+              <label>(i)<x xml:space="preserve"> </x></label>
+              <p>vaccinating livestock within different subsets of herds within villages. A: all herds; B: 50% of herds (randomly selected); C: large herds only (9+ animals)</p>
+            </list-item>
+            <list-item>
+              <label>(ii)<x xml:space="preserve"> </x></label>
+              <p>vaccinating different proportions of livestock (all age groups) within vaccinated herds at the inception of the control programme (year 1) (0, 0.5 or 1)</p>
+            </list-item>
+            <list-item>
+              <label>(iii)<x xml:space="preserve"> </x></label>
+              <p>vaccinating different proportions of calves within vaccinated herds annually (0.25, 0.5, 0.75 or 1)</p>
+            </list-item>
+          </list>
+          <p>Within vaccinated herds (i), it is assumed that vaccination of &#x2018;all age groups&#x2019; (ii) occurs at a single time point once &#x2018;endemic stability&#x2019; has been reached. A proportion (<italic toggle="yes">VE</italic> &#x2217; proportion vaccinated) of <italic toggle="yes">S</italic><sub>j</sub> animals move into the <italic toggle="yes">V</italic><sub>j</sub> compartments at the inception of the control programme and remain there until they leave the herd. Calfhood vaccination (iii) strategies are simulated by varying parameter <italic toggle="yes">&#x3C9;</italic> in the within-herd model.</p>
+        </sec>
+        <sec id="s2e2">
+          <label>2.5.2<x xml:space="preserve">. </x></label>
+          <title>&#x2018;Test and removal&#x2019;</title>
+          <p>Scenarios combining calfhood vaccination with testing of all animals (cows and buffalo of all age groups using the Rose Bengal test) and immediate removal of test positives were also simulated. Test and removal is assumed to occur at a single point in time, at the inception of the control programme (as proposed in the <italic toggle="yes">Brucella</italic> free village programme). There is no differentiate infected from vaccinated animals (DIVA) test available for brucellosis, therefore this strategy was not combined with vaccination at the inception of the programme. The number of true test positive animals is sampled from a Bernoulli distribution with the number of trials equal to <italic toggle="yes">E</italic><sub>j</sub>+ <italic toggle="yes">I</italic><sub>j</sub> and the probability of testing positive given by the test sensitivity, Se. False positive animals are also sampled from a Bernoulli distribution with number of trials equal to <italic toggle="yes">S</italic><sub>j</sub> and the probability of giving a false positive result equal to 1 &#x2212; Sp<italic toggle="yes">.</italic> Scenario B was not simulated with test and removal as it was not considered an effective use of resources compared with Scenario C (see Results).</p>
+          <p>Targets for control were set using prevalence (percentage of infected animals in a village), as this is measurable via surveillance. Therefore, we define &#x2018;control&#x2019; as animal-level prevalence below 1%, as indicative of a nominally low level of infection whereby Punjab could consider moving towards elimination. The &#x2018;probability of control&#x2019; is the percentage of simulations with prevalence less than 1%. Predicted (cumulative) incidence, the percentage of animals infected with <italic toggle="yes">B. abortus</italic> per year, is also presented.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <label>3<x xml:space="preserve">. </x></label>
+      <title>Results</title>
+      <sec id="s3a">
+        <label>3.1<x xml:space="preserve">. </x></label>
+        <title>Scenarios without &#x2018;test and removal&#x2019;</title>
+        <p>The most aggressive Scenario A strategies&#x2014;which involved vaccinating all herds within a village and up to 100% of replacement calves&#x2014;could reduce the incidence and median prevalence of <italic toggle="yes">B. abortus</italic> to below 1% within 30 years, providing at least 75% of calves were vaccinated (figures <xref rid="RSIF20220756F3" ref-type="fig">3</xref><italic toggle="yes">a</italic>,<italic toggle="yes">b</italic>, <xref rid="RSIF20220756F4" ref-type="fig">4</xref><italic toggle="yes">a</italic>). Control (less than 1% prevalence within 30 years) could not be achieved in any of the Scenario B strategies where 50% of herds were chosen at random to be enrolled in the vaccination programme, irrespective of coverage (less than 20% probability of control; figures <xref rid="RSIF20220756F3" ref-type="fig">3</xref><italic toggle="yes">b</italic>, <xref rid="RSIF20220756F4" ref-type="fig">4</xref><italic toggle="yes">a</italic>). Vaccination of animals in herds with nine or more animals (Scenario C), where 100% or 75% of calves were vaccinated annually, resulted in control with at least 75% probability (figures <xref rid="RSIF20220756F3" ref-type="fig">3</xref><italic toggle="yes">b</italic>, <xref rid="RSIF20220756F4" ref-type="fig">4</xref><italic toggle="yes">a</italic>). Scenarios A and C averted the most bovine infections, with a median of over 1000 infections averted per village during the 30-year control period when 75% or 100% of replacement calves were vaccinated (<xref rid="RSIF20220756F4" ref-type="fig">figure 4</xref><italic toggle="yes">b</italic>). Employing Scenario C, as opposed to Scenario A, was estimated to delay control by a median of 5 years (<xref rid="RSIF20220756F4" ref-type="fig">figure 4</xref><italic toggle="yes">c</italic>). However, Scenario C reduces the vaccine doses by around a third and saves additional resources, as only 35% of farms need to be vaccinated (as opposed to 100%; <xref rid="RSIF20220756F4" ref-type="fig">figure 4</xref><italic toggle="yes">d</italic>).
+<fig position="float" id="RSIF20220756F3"><label>Figure 3<x xml:space="preserve">. </x></label><caption><p>Incidence (<italic toggle="yes">a</italic>) and prevalence (<italic toggle="yes">b</italic>) of bovine brucellosis during 30 years of simulated control programmes. Different intervention strategies are indicated by different colours on the legend, where &#x2018;start&#x2019; indicates the percentage of animals within herds (all ages) that are vaccinated in the first year and &#x2018;calves&#x2019; indicates the percentage of calves that are vaccinated annually thereafter. All results are based on 1000 iterations (repeat stochastic simulations) per village. Scenario A, all herds selected for vaccination; Scenario B, 50% of herds randomly selected for vaccination; Scenario C, large herds (9 + animals) selected for vaccination.</p></caption><graphic xlink:href="rsif20220756f03" position="float"/></fig>
+<fig position="float" id="RSIF20220756F4"><label>Figure 4<x xml:space="preserve">. </x></label><caption><p>Summary of the effectiveness of different vaccination strategies for controlling brucellosis. Probability &#x2018;control&#x2019; (defined as animal-level prevalence below 1%) is achieved (<italic toggle="yes">a</italic>), number of infections averted per village (compared with baseline scenario of no control) (<italic toggle="yes">b</italic>), time to achieve control (<italic toggle="yes">c</italic>) and number of vaccine doses (<italic toggle="yes">d</italic>) after simulating each strategy for 30 years, based on 1000 iterations. &#x2018;start&#x2019; refers to the percentage of the herd (all ages) vaccinated in year 1 of the control programme and &#x2018;calves&#x2019; refers to the percentage of calves vaccinated annually. Median and 95% credible intervals are presented in (<italic toggle="yes">a</italic>), (<italic toggle="yes">b</italic>) and (<italic toggle="yes">d</italic>). Scenario A, all herds are selected for vaccination; Scenario B, 50% of herds randomly selected for vaccination; Scenario C, large herds (9 + animals) selected for vaccination.</p></caption><graphic xlink:href="rsif20220756f04" position="float"/></fig></p>
+      </sec>
+      <sec id="s3b">
+        <label>3.2<x xml:space="preserve">. </x></label>
+        <title>Scenarios with &#x2018;test and removal&#x2019;</title>
+        <p>The impact of combining vaccination of calves within all herds (Scenario A) and large herds (Scenario C) with testing and removal of positive adults at the inception of the control programme was also investigated. These simulations resulted in control (animal-level prevalence within a village less than 1%) with more than 85% probability (<xref rid="RSIF20220756F5" ref-type="fig">figure 5</xref><italic toggle="yes">d</italic>), within a median of 1 year (<xref rid="RSIF20220756F5" ref-type="fig">figure 5</xref><italic toggle="yes">e</italic>). However, under the conservative assumption of a test sensitivity and specificity of 90%, these scenarios did not remove all infected livestock in year 1 (<xref rid="RSIF20220756F5" ref-type="fig">figure 5</xref><italic toggle="yes">a</italic>) and would result in the removal of large numbers of uninfected animals (false positives). In these scenarios, a median of 102 (95% credible interval, CI: 82&#x2013;132) uninfected and 141 (95% CI: 91&#x2013;207) infected animals were removed per village (approx. 20% of the village population; 7 uninfected animals per 10 infected removed). Over the 30-year period, the number of new infections averted per village ranged from 1197 in Scenario C, where 25% of replacement calves were vaccinated, to 1393 in Scenario A, where 100% of calves were vaccinated. Compared with the equivalent vaccination-only scenarios, the addition of test and removal resulted in substantial reductions in new cases in scenarios with low vaccination coverage (e.g. 807 fewer infections in Scenario C with 25% of replacements vaccinated). However, in scenarios with higher coverage, similar reductions in new infections were achieved (142 fewer infections in Scenario A with 100% of replacements vaccinated) (<xref rid="RSIF20220756F5" ref-type="fig">figure 5</xref>).
+<fig position="float" id="RSIF20220756F5"><label>Figure 5<x xml:space="preserve">. </x></label><caption><p>Summary of the effectiveness of combining &#x2018;test and removal&#x2019; at the inception of the control programme combined with different calfhood vaccination strategies for controlling brucellosis. Simulated cumulative incidence over time in intervention strategies where seropositive animals are removed in year 1 (<italic toggle="yes">a</italic>), prevalence (proportion of infected bovines) after employing each strategy for 15 and 30 years (<italic toggle="yes">b</italic>), number of infections averted per village (compared with baseline scenario of no control) (<italic toggle="yes">c</italic>), probability &#x2018;control&#x2019; (defined as animal-level prevalence below 1%) is achieved (<italic toggle="yes">d</italic>) and time to achieve control in a village (<italic toggle="yes">e</italic>). In all scenarios, test and removal is performed in year 1, and model is run over 30 years for 1000 iterations/villages &#x2018;calves&#x2019; refers to the % of calves vaccinated. Median and 95% credible interval are presented in (<italic toggle="yes">b</italic>), (<italic toggle="yes">c</italic>) and (<italic toggle="yes">e</italic>), where Scenario A = all herds are selected for vaccination and C = large herds (9 + animals) selected for vaccination.</p></caption><graphic xlink:href="rsif20220756f05" position="float"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <label>4<x xml:space="preserve">. </x></label>
+      <title>Discussion</title>
+      <p>Despite successful elimination of bovine brucellosis in some countries, its control in many settings, including India, remains elusive [<xref rid="RSIF20220756C8" ref-type="bibr">8</xref>]. Lack of management options for positive animals is often perceived as one of the main barriers to controlling brucellosis in India [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>,<xref rid="RSIF20220756C33" ref-type="bibr">33</xref>]. However, this study demonstrates that control (defined here as animal-level prevalence below 1%) of <italic toggle="yes">Brucella</italic> infections in bovines in endemic areas can be achieved through long-term vaccination, without the need to vaccinate all animals or implement a &#x2018;test and removal&#x2019; policy. Although control, as opposed to elimination, will not result in the attainment of official brucellosis free (OBF) status, a marked decrease in the incidence of infection can be expected to result in comparable reductions in financial losses to farmers and the incidence of human infection [<xref rid="RSIF20220756C34" ref-type="bibr">34</xref>&#x2013;<xref rid="RSIF20220756C41" ref-type="bibr">41</xref>]. Sustainability, due to limited resources and political will, has constrained brucellosis vaccination campaigns in many contexts [<xref rid="RSIF20220756C5" ref-type="bibr">5</xref>,<xref rid="RSIF20220756C42" ref-type="bibr">42</xref>]. Due to the chronic nature of the disease and the long lifespan of cattle in India, if vaccination campaigns are to be an effective use of resources the commitment must be long term, the goal (e.g. sustained reduction/control versus elimination) should be achievable and the control strategy realistic. The results suggest that calfhood vaccination is likely to be successful at lowering the animal prevalence of the infection below 1%. However, even with the most aggressive vaccination strategy (vaccination of 100% of animals at the start of the control programme and 100% of calves annually) the median time estimated to achieve this was 10 years, with 95% of estimates falling between 8 and 14 years. The National Control Programme, which envisages 100% vaccination of female cattle and buffalo calves once in their lifetime, has initially been budgeted for 5 years [<xref rid="RSIF20220756C18" ref-type="bibr">18</xref>]. However, our results indicate that it would take a median of 14 years to achieve control when only calves are vaccinated. Furthermore, vaccination is unlikely to result in elimination, therefore calfhood vaccination would need to be implemented indefinitely to prevent re-emergence of brucellosis [<xref rid="RSIF20220756C5" ref-type="bibr">5</xref>].</p>
+      <p>Strategies applied to complex settings require adaptation and should consider the diversity of the livestock systems, infrastructure and available resources. A lesson from previous brucellosis control programmes in other countries is that test and slaughter should not be introduced too early, without the resources for compensation to farmers, or where the baseline prevalence is so high that a large proportion of the livestock population requires culling [<xref rid="RSIF20220756C3" ref-type="bibr">3</xref>,<xref rid="RSIF20220756C5" ref-type="bibr">5</xref>,<xref rid="RSIF20220756C43" ref-type="bibr">43</xref>]. For example, in the European Union, legislation related to control and eradication programmes of bovine brucellosis started in 1962, and only seven out of 15 Member States were recognized as OBF in 1999, 37 years after inception [<xref rid="RSIF20220756C44" ref-type="bibr">44</xref>]. In India, the <italic toggle="yes">Brucella</italic> free village programme initially included a component on test and removal of infected livestock. If this was implemented, elimination would be accelerated with animal prevalence projected to go below 1% within the first year. However, given that 12.9% (95% CI: 9.2&#x2013;17.6) of animals in the study area were estimated to be seropositive at the start of the control programme, huge resources would be required to identify these animals and remove them from the population, especially since the <italic toggle="yes">Brucella</italic> free village programme proposes to maintain infected cows in an area separate from the village [<xref rid="RSIF20220756C18" ref-type="bibr">18</xref>]. In addition, replacement livestock would need to be sourced externally which may result in infected livestock being reintroduced in the village [<xref rid="RSIF20220756C45" ref-type="bibr">45</xref>]. Alternatively, if sustained reductions in prevalence were achieved through targeted vaccination, then reallocation of resources towards elimination activities in certain farms, villages, states or at a national level may become feasible.</p>
+      <p>Stakeholder consultation revealed that vaccine availability is a limiting factor and one of the major activities of the National Control Programme will be vaccine procurement [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. The situation is likely to become even more challenging as Indian Immunologicals&#x2014;who introduced the brucellosis vaccine &#x2018;Bruvax&#x2019; to the Indian market&#x2014;are the primary manufacturer a SARS-CoV-2 vaccine [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>,<xref rid="RSIF20220756C46" ref-type="bibr">46</xref>,<xref rid="RSIF20220756C47" ref-type="bibr">47</xref>]. The SARS-CoV-2 pandemic also disrupted supply chains for reagents and consumables, having caused unpredictable shutdowns of manufacturing and movement restrictions [<xref rid="RSIF20220756C48" ref-type="bibr">48</xref>,<xref rid="RSIF20220756C49" ref-type="bibr">49</xref>]. Policymakers should ensure that brucellosis vaccine programmes are resilient to such shocks prior to implementation. In addition to the difficulties and costs associated with the manufacture and procurement of the vaccine, deployment faces logistical issues. The most successful strategy for brucellosis control may not be the most efficient use of resources [<xref rid="RSIF20220756C50" ref-type="bibr">50</xref>]; policymakers can use the information presented here to assess which vaccination scenarios will be optimal based on available doses and resources. For example, vaccinating 100% of calves under Scenario C (targeting large herds only) and Scenario A (all herds) with no test and removal and no initial vaccination was estimated to save similar numbers of infections per village (median 1326 versus 1430 over 30 years) and resulted in the control of brucellosis (animal-level prevalence &lt;1%) in 100% of simulations. However, the former required around 30% fewer vaccine doses and only animals within about one-third of herds to be vaccinated. As well as increased herd sizes, this finding is driven by the higher rate of purchasing of new livestock in these farms, therefore screening of animals prior to sale may also present a potential future control option [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. Stakeholders envisioned calfhood vaccination being more acceptable to farmers and veterinary offices due to the negative effects of the vaccine that can occur in adult livestock and the potential to reduce needlestick or other injuries [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. They also reported that larger commercialized farms would be easier to target due to their heightened awareness of the disease and willingness to invest in herd health.</p>
+      <p>The aim of this study was to predict the <italic toggle="yes">relative impact</italic> of different control scenarios; hence the parameters were mostly fixed to maximize comparability. However, there is uncertainty associated with these parameters, particularly the probability a calf born to an infected cow is infected (<italic toggle="yes">&#x3B8;</italic>). This was explored in sensitivity analysis using a worst case (20%) estimate which did not alter the relative effectiveness of the different scenarios [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>] (electronic supplementary material). The same calving rates were used for both susceptible and infected livestock, as there is little high-quality data comparing abortion rates with <italic toggle="yes">Brucella</italic> infection in highly endemic settings. Although this may result in an overestimate of infected calves in the herd, this was considered negligible, as the probability of horizontal transmission was only 5% (20% for scenario analysis), and most infected animals do not abort more than once in their lifetime [<xref rid="RSIF20220756C12" ref-type="bibr">12</xref>]. A conservative estimate for test performance (90% sensitivity and specificity, Rose Bengal test) was used; however, it is likely that accuracy, particularly specificity, is higher, which may have led to an overestimate of the number of susceptible animals giving false positive results [<xref rid="RSIF20220756C19" ref-type="bibr">19</xref>]. However, even with perfect test specificity, large numbers of true positive animals (median 141 (95% CI: 91&#x2013;207) per village) would still need to be culled or segregated and it would be difficult to source sufficient disease-free animals to replace those removed. Test and removal strategies are most useful in low-prevalence settings [<xref rid="RSIF20220756C5" ref-type="bibr">5</xref>]. As the results already suggested that test and removal was not an effective use of resources, using these values for test performance, it was not necessary to simulate further scenarios for diagnostic accuracy.</p>
+      <p>A vaccine efficacy of 80% was used throughout; however, a recent systematic review and meta-analysis indicate this may be optimistic [<xref rid="RSIF20220756C51" ref-type="bibr">51</xref>]. The S19 vaccine at a dose of 10<sup>9</sup> colony-forming units (CFUs) has been estimated to be 75% (95% CI: 48&#x2013;88%) and 72% (95% CI: 30.9&#x2013;84%) efficacious against abortion and infection, respectively [<xref rid="RSIF20220756C51" ref-type="bibr">51</xref>]. It was also found that a dose of 10<sup>9</sup> CFU had the highest vaccine efficacy, which is 50&#x2013;80 times lower than the dose currently recommended by the World Organisation for Animal Health (OIE) for subcutaneous administration. If the lower dose was shown to be efficacious in this setting, it could also help address the issue of lack of vaccine doses. Control was still achieved in Scenarios A and C when 60% (0.8 efficacy &#xD7; 0.75 coverage) of calves enter the vaccinated compartment (greater than 75% probability for all scenarios). Therefore, a lower vaccination efficacy than the one used for this analysis could still be effective providing high enough coverage is achieved.</p>
+      <p>The model used here includes several components omitted in previous simulations of control strategies, allowing for stochastic extinction within a herd and contact rates between livestock to vary by explicitly modelling within- and between-herd transmission. A novel method of the seeding of infected livestock through trade is used, and infected animals become infectious following a calving/abortion event, as opposed to at a fixed rate. This achieves more realistic simulations, making the outputs more applicable to the issue of sustainable brucellosis control in complex settings. As with all compartmental models, waiting times between contiguous compartments are assumed to be exponentially distributed. Although this means some events can occur very quickly and others very slowly, on average the waiting time is given by the reciprocal of the associated rate parameter (e.g. the average time between calving is around 18 months). Other important assumptions include that the probability of a purchased animal being infected is equivalent to the current farm-level prevalence in the region (i.e. no infections introduced from outside of the region) and that vaccine immunity is lifelong. The former is justified based on a survey of 413 farms which found that no bovines were purchased from outside Punjab and only 10% were purchased from another district. As the National Control Programme for Brucellosis is being carried out at a large scale, we implicitly assumed that replacement animals will be sourced locally or from an area also undergoing control activities [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>]. Lifelong vaccine-induced immunity was informed by past studies in the US and UK which suggest that S19-induced immunity lasts for at least five pregnancies, the normal milking length of cow [<xref rid="RSIF20220756C52" ref-type="bibr">52</xref>]. Finally, cattle and buffalo are assumed to have similar management and contribution to transmission, as estimates of reproductive parameters and the odds of seropositivity did not differ between species in this setting [<xref rid="RSIF20220756C13" ref-type="bibr">13</xref>], and hence there is no evidence to support their separation in the model. There are limited data on differences in susceptibility and transmissibility of <italic toggle="yes">B. abortus</italic> between the species, and differences have mostly been attributed to management or the <italic toggle="yes">B. abortus</italic> strain [<xref rid="RSIF20220756C53" ref-type="bibr">53</xref>,<xref rid="RSIF20220756C54" ref-type="bibr">54</xref>].</p>
+      <p>Potential further applications of the model include simulation of additional control strategies and further testing model assumptions, including diagnostic test performance and vaccine efficacy. The model can be adapted to simulate brucellosis control in other settings where both within- and between-herd transmission is important and where within-herd seroprevalence data are available. In settings where <italic toggle="yes">B. melitensis</italic> is circulating in small ruminants and cattle, then small ruminants could be considered in such modelling exercises as they are considered reservoirs for this species [<xref rid="RSIF20220756C55" ref-type="bibr">55</xref>]. The National Brucellosis Control Programme presents an opportunity for data to be gathered on the implementation and the effectiveness of brucellosis control programmes which could be used to refine modelling assumptions. In addition, future data from the control programme in Punjab could be used for model validation, assessing the model's predictive performance.</p>
+      <p>In conclusion, taking Punjab State of India as a case study, this work demonstrates the application of a stochastic mathematical transmission model to evaluate the effectiveness of options for controlling bovine brucellosis, a livestock zoonosis that exerts a heavy global health and economic burden [<xref rid="RSIF20220756C2" ref-type="bibr">2</xref>,<xref rid="RSIF20220756C56" ref-type="bibr">56</xref>]. The results suggest that control can be achieved through targeted vaccination of larger herds without the need to achieve perfect coverage. Targeting animals within large herds and replacement calves to receive vaccination will probably be a more efficient use of resources than blanket vaccination, which is not feasible while vaccine doses are limited. However, for control to be sustained, policymakers and funders must commit to long-term vaccination campaigns beyond currently proposed timeframes of current programmes. Indeed, in the absence of additional control measures, it would be necessary to pursue vaccination indefinitely, as the model suggests elimination (prevalence close to 0) is unlikely to be achieved using vaccination-only strategies. It is imperative that stakeholders are aware of this before vaccination campaigns are implemented. Test and removal of livestock, although being efficient in reducing animal prevalence, is unlikely to be an acceptable strategy&#x2014;particularly at the outset of intervention&#x2014;for livestock owners in Punjab. However, once prevalence reaches a low enough level with vaccination, stakeholders could consider test and slaughter to move toward elimination.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors are grateful to dairy sector stakeholders for sharing their views with the project team. They also express thanks to Dr Amanda Minter for providing advice on model fitting and to Dr Tom Sumner for their constructive comments.</p>
+    </ack>
+    <sec id="s5">
+      <title>Ethics</title>
+      <p>Ethical approval was obtained from the ethics committees at Guru Angad Dev Veterinary and Animal Sciences University, and the Post-Graduate Institute of Medical Education and Research (PGIMER), India, the London School of Hygiene and Tropical Medicine (LSHTM) and the Royal Veterinary College (RVC) in the UK.</p>
+    </sec>
+    <sec sec-type="data-availability" id="s6">
+      <title>Data accessibility</title>
+      <p>The model is available in an open source repository: <uri xlink:href="https://bitbucket.org/hannah_holt/brucellosis/src/master/">https://bitbucket.org/hannah_holt/brucellosis/src/master/</uri>.</p>
+      <p>The data are provided in electronic supplementary material [<xref rid="RSIF20220756C57" ref-type="bibr">57</xref>].</p>
+    </sec>
+    <sec id="s7">
+      <title>Authors' contributions</title>
+      <p>H.R.H.: conceptualization, data curation, formal analysis, investigation, methodology, project administration, writing&#x2014;original draft; M.W.: conceptualization, formal analysis, methodology, validation, writing&#x2014;original draft, writing&#x2014;review and editing; W.B.: formal analysis, validation; P.K.: conceptualization, data curation, project administration; J.S.B.: conceptualization, data curation, investigation; P.M.: conceptualization, funding acquisition, investigation; N.S.S.: conceptualization, funding acquisition; J.P.S.G.: conceptualization, funding acquisition; J.G.: validation, writing&#x2014;review and editing; J.M.: conceptualization, funding acquisition, writing&#x2014;review and editing; J.G.: conceptualization, funding acquisition, investigation, methodology, project administration, supervision, writing&#x2014;original draft, writing&#x2014;review and editing.</p>
+      <p>All authors gave final approval for publication and agreed to be held accountable for the work performed therein.</p>
+    </sec>
+    <sec id="s8">
+      <title>Conflict of interest declaration</title>
+      <p>The authors declare no conflict of interest.</p>
+    </sec>
+    <sec id="s9">
+      <title>Funding</title>
+      <p>The project was enabled by joint funding from Biotechnology and Biological Sciences Research Council, UK (grant nos. BB/L004836/1 and BB/L004895/1) and the Department of Biotechnology in India (grant no. BT/IN/Indo-UK/FADH/51/NSS/2013).</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="RSIF20220756C1">
+        <label>1<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dean</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Crump</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Greter</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Hattendorf</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Schelling</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Zinsstag</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2012</year>
+<article-title>Clinical manifestations of human brucellosis: a systematic review and meta-analysis</article-title>. <source>PLoS Negl. Trop. Dis.</source>
+<volume><bold>6</bold></volume>, <fpage>e1929</fpage>. (<pub-id pub-id-type="doi">10.1371/journal.pntd.0001929</pub-id>)<pub-id pub-id-type="pmid">23236528</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C2">
+        <label>2<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>World Bank</collab>. <year>2011</year>
+<comment><italic toggle="yes">World livestock disease atlas: a quantitative analysis of global animal health data (2006&#x2013;2009)</italic></comment>. World Bank. (<pub-id pub-id-type="doi">10.1596/27118</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C3">
+        <label>3<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Musallam</surname>
+<given-names>II</given-names></string-name>, <string-name><surname>Abo-Shehada</surname>
+<given-names>MN</given-names></string-name>, <string-name><surname>Hegazy</surname>
+<given-names>YM</given-names></string-name>, <string-name><surname>Holt</surname>
+<given-names>HR</given-names></string-name>, <string-name><surname>Guitian</surname>
+<given-names>FJ</given-names></string-name></person-group>. <year>2016</year>
+<article-title>Systematic review of brucellosis in the Middle East: disease frequency in ruminants and humans and risk factors for human infection</article-title>. <source>Epidemiol. Infect.</source>
+<volume><bold>144</bold></volume>, <fpage>671</fpage>-<lpage>685</lpage>. (<pub-id pub-id-type="doi">10.1017/S0950268815002575</pub-id>)<pub-id pub-id-type="pmid">26508323</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C4">
+        <label>4<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Proch</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Singh</surname>
+<given-names>BB</given-names></string-name>, <string-name><surname>Schemann</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Gill</surname>
+<given-names>JPS</given-names></string-name>, <string-name><surname>Ward</surname>
+<given-names>MP</given-names></string-name>, <string-name><surname>Dhand</surname>
+<given-names>NK</given-names></string-name></person-group>. <year>2018</year>
+<article-title>Risk factors for occupational <italic toggle="yes">Brucella</italic> infection in veterinary personnel in India</article-title>. <source>Transbound. Emerg. Dis.</source>
+<volume><bold>65</bold></volume>, <fpage>791</fpage>-<lpage>798</lpage>. (<pub-id pub-id-type="doi">10.1111/tbed.12804</pub-id>)<pub-id pub-id-type="pmid">29363286</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C5">
+        <label>5<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Godfroid</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Al Dahouk</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Pappas</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Roth</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Matope</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Muma</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Marcotty</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Pfeiffer</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Skjerve</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2013</year>
+<article-title>A &#x2018;One Health&#x2019; surveillance and control of brucellosis in developing countries: moving away from improvisation</article-title>. <source>Comp. Immunol. Microbiol. Infect. Dis.</source>
+<volume><bold>36</bold></volume>, <fpage>241</fpage>-<lpage>248</lpage>. (<pub-id pub-id-type="doi">10.1016/j.cimid.2012.09.001</pub-id>)<pub-id pub-id-type="pmid">23044181</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C6">
+        <label>6<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Nicoletti</surname>
+<given-names>P</given-names></string-name></person-group>. <year>2001</year>
+<article-title>Control, eradication and prevention</article-title>. In <source>Madkour's brucellosis</source> (ed. <person-group person-group-type="editor"><string-name><given-names>MM</given-names>
+<surname>Madkour</surname></string-name></person-group>), pp. <fpage>280</fpage>-<lpage>285</lpage>. <publisher-loc>Berlin, Germany</publisher-loc>: <publisher-name>Springer Berlin Heidelberg</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C7">
+        <label>7<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Moreno</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2014</year>
+<article-title>Retrospective and prospective perspectives on zoonotic brucellosis</article-title>. <source>Front. Microbiol.</source>
+<volume><bold>5</bold></volume>, <fpage>213</fpage>. (<pub-id pub-id-type="doi">10.3389/fmicb.2014.00213</pub-id>)<pub-id pub-id-type="pmid">24860561</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C8">
+        <label>8<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Deka</surname>
+<given-names>RP</given-names></string-name>, <string-name><surname>Magnusson</surname>
+<given-names>U</given-names></string-name>, <string-name><surname>Grace</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Lindahl</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2018</year>
+<article-title>Bovine brucellosis: prevalence, risk factors, economic cost and control options with particular reference to India- a review</article-title>. <source>Infect. Ecol. Epidemiol.</source>
+<volume><bold>8</bold></volume>, <fpage>1556548</fpage>. (<pub-id pub-id-type="doi">10.1080/20008686.2018.1556548</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C9">
+        <label>9<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Roth</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Zinsstag</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Orkhon</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Chimed-Ochir</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Hutton</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Cosivi</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Carrin</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Otte</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2003</year>
+<article-title>Human health benefits from livestock vaccination for brucellosis: case study</article-title>. <source>Bull. World Health Organ.</source>
+<volume><bold>81</bold></volume>, <fpage>867</fpage>-<lpage>876</lpage>.<pub-id pub-id-type="pmid">14997239</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C10">
+        <label>10<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Havelaar</surname>
+<given-names>Arie H</given-names></string-name>
+<etal>et al</etal></person-group>. <year>2015</year>
+<article-title>World Health Organization global estimates and regional comparisons of the burden of foodborne disease in 2010</article-title>. <source>PLOS Medicine</source>
+<volume><bold>12</bold></volume>, <fpage>e1001923</fpage>. (<pub-id pub-id-type="doi">10.1371/journal.pmed.1001923</pub-id>)<pub-id pub-id-type="pmid">26633896</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C11">
+        <label>11<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lindahl</surname>
+<given-names>JF</given-names></string-name>, <string-name><surname>Gill</surname>
+<given-names>JPS</given-names></string-name>, <string-name><surname>Hazarika</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Fairoze</surname>
+<given-names>NM</given-names></string-name>, <string-name><surname>Bedi</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Dohoo</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Chauhan</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Grace</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Kakkar</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2019</year>
+<article-title>Risk factors for <italic toggle="yes">Brucella</italic> seroprevalence in peri-urban dairy farms in five indian cities</article-title>. <source>Trop. Med. Infect. Dis.</source>
+<volume><bold>4</bold></volume>, <fpage>70</fpage>. (<pub-id pub-id-type="doi">10.3390/tropicalmed4020070</pub-id>)<pub-id pub-id-type="pmid">31013592</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C12">
+        <label>12<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Deka</surname>
+<given-names>RP</given-names></string-name>, <string-name><surname>Shome</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Dohoo</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Magnusson</surname>
+<given-names>U</given-names></string-name>, <string-name><surname>Randolph</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Lindahl</surname>
+<given-names>JF</given-names></string-name></person-group>. <year>2021</year>
+<article-title>Seroprevalence and risk factors of <italic toggle="yes">Brucella</italic> infection in dairy animals in urban and rural areas of Bihar and Assam, India</article-title>. <source>Microorganisms</source>
+<volume><bold>9</bold></volume>, <fpage>783</fpage>. (<pub-id pub-id-type="doi">10.3390/microorganisms9040783</pub-id>)<pub-id pub-id-type="pmid">33918538</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C13">
+        <label>13<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Holt</surname>
+<given-names>HR</given-names></string-name>
+<etal>et al.</etal></person-group>
+<year>2021</year>
+<article-title>Epidemiology of brucellosis in cattle and dairy farmers of rural Ludhiana, Punjab</article-title>. <source>PLOS Negl. Trop. Dis.</source>
+<volume><bold>15</bold></volume>, <fpage>e0009102</fpage>. (<pub-id pub-id-type="doi">10.1371/journal.pntd.0009102</pub-id>)<pub-id pub-id-type="pmid">33735243</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C14">
+        <label>14<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Isloor</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Renukaradhya</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Rajasekhar</surname>
+<given-names>M</given-names></string-name></person-group>. <year>1998</year>
+<article-title>A serological survey of bovine brucellosis in India</article-title>. <source>Rev. Sci. Tech. (Int. Off. Epizoot.)</source>
+<volume><bold>17</bold></volume>, <fpage>781</fpage>-<lpage>785</lpage>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C15">
+        <label>15<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dhand</surname>
+<given-names>NK</given-names></string-name>
+<etal>et al.</etal></person-group>
+<year>2021</year>
+<article-title>The feasibility and acceptability of various bovine brucellosis control strategies in India</article-title>. <source>Prev. Vet. Med.</source>
+<volume><bold>189</bold></volume>, <fpage>105291</fpage>. (<pub-id pub-id-type="doi">10.1016/j.prevetmed.2021.105291</pub-id>)<pub-id pub-id-type="pmid">33582551</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C16">
+        <label>16<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>United Nations</collab>. <year>2019</year>
+<comment><italic toggle="yes">World Population Prospects &#x2013; Population Division &#x2013; United Nations</italic>. See <uri xlink:href="https://population.un.org/wpp/DataQuery/">https://population.un.org/wpp/DataQuery/</uri> (accessed 17 July 2019)</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C17">
+        <label>17<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Singh</surname>
+<given-names>BB</given-names></string-name>, <string-name><surname>Khatkar</surname>
+<given-names>MS</given-names></string-name>, <string-name><surname>Aulakh</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Gill</surname>
+<given-names>JPS</given-names></string-name>, <string-name><surname>Dhand</surname>
+<given-names>NK</given-names></string-name></person-group>. <year>2018</year>
+<article-title>Estimation of the health and economic burden of human brucellosis in India</article-title>. <source>Prev. Vet. Med.</source>
+<volume><bold>154</bold></volume>, <fpage>148</fpage>-<lpage>155</lpage>. (<pub-id pub-id-type="doi">10.1016/j.prevetmed.2018.03.023</pub-id>)<pub-id pub-id-type="pmid">29685439</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C18">
+        <label>18<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>DBT</collab>. <year>2016</year>
+<comment><italic toggle="yes">Guidelines and SOPs for implementation of network program on &#x2018;Brucella Free Villages (BFV)&#x2019; in India</italic>. A program by Department of Biotechnology, Ministry of Science and Technology, in collaboration with Veterinary Council of India, Ministry of Agriculture India</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C19">
+        <label>19<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Holt</surname>
+<given-names>HR</given-names></string-name></person-group>. <year>2020</year>
+<article-title>Towards progressive control of brucellosis in Punjab State (India): epidemiology and simulation of control strategies</article-title>. <comment>PhD thesis</comment>, <publisher-name>Royal Veterinary College</publisher-name>, <publisher-loc>London, UK</publisher-loc>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C20">
+        <label>20<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Aulakh</surname>
+<given-names>HK</given-names></string-name>, <string-name><surname>Patil</surname>
+<given-names>PK</given-names></string-name>, <string-name><surname>Sharma</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Kumar</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Mahajan</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Sandhu</surname>
+<given-names>KS</given-names></string-name></person-group>. <year>2008</year>
+<article-title>A study on the epidemiology of bovine brucellosis in Punjab (India) using milk-ELISA</article-title>. <source>Acta Veterinaria Brno.</source>
+<volume><bold>77</bold></volume>, <fpage>393</fpage>-<lpage>399</lpage>. (<pub-id pub-id-type="doi">10.2754/avb200877030393</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C21">
+        <label>21<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mangtani</surname>
+<given-names>P</given-names></string-name>
+<etal>et al.</etal></person-group>
+<year>2020</year>
+<article-title>The prevalence and risk factors for human <italic toggle="yes">Brucella</italic> species infection in a cross-sectional survey of a rural population in Punjab, India</article-title>. <source>Trans. R Soc. Trop. Med. Hyg.</source>
+<volume><bold>114</bold></volume>, <fpage>255</fpage>-<lpage>263</lpage>. (<pub-id pub-id-type="doi">10.1093/trstmh/trz133</pub-id>)<pub-id pub-id-type="pmid">32086527</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C22">
+        <label>22<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="book"><collab>R Core Team</collab>. <year>2018</year>
+<source>R: a language and environment for statistical computing</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>R Foundation for Statistical Computing</publisher-name>. <comment><uri xlink:href="https://www.R-project.org/">https://www.R-project.org/</uri></comment></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C23">
+        <label>23<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Pineda-Krch</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2012</year>
+<comment><italic toggle="yes">GillespieSSA: Gillespie's Stochastic Simulation Algorithm (SSA)</italic>. See <uri xlink:href="https://CRAN.R-project.org/package=GillespieSSA">https://CRAN.R-project.org/package=GillespieSSA</uri></comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C24">
+        <label>24<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Delignette-Muller</surname>
+<given-names>ML</given-names></string-name></person-group>. <year>2015</year>
+<article-title>Dutang C. fitdistrplus: an R Package for Fitting Distributions</article-title>. <source>J. Stat. Softw.</source>
+<volume><bold>64</bold></volume>, <fpage>1</fpage>-<lpage>34</lpage>. (<pub-id pub-id-type="doi">10.18637/jss.v064.i04</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C25">
+        <label>25<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Aune</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Rhyan</surname>
+<given-names>JC</given-names></string-name>, <string-name><surname>Russell</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Roffe</surname>
+<given-names>TJ</given-names></string-name>, <string-name><surname>Corso</surname>
+<given-names>B</given-names></string-name></person-group>. <year>2012</year>
+<article-title>Environmental persistence of <italic toggle="yes">Brucella abortus</italic> in the Greater Yellowstone Area</article-title>. <source>J. Wildl. Manage.</source>
+<volume><bold>76</bold></volume>, <fpage>253</fpage>-<lpage>261</lpage>. (<pub-id pub-id-type="doi">10.1002/jwmg.274</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C26">
+        <label>26<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>The Center for Food Security &amp; Public Health</collab>. <year>2018</year>
+<comment><italic toggle="yes">Brucellosis</italic> [Internet]. Factsheets. See <uri xlink:href="http://www.cfsph.iastate.edu/Factsheets/pdfs/brucellosis.pdf">http://www.cfsph.iastate.edu/Factsheets/pdfs/brucellosis.pdf</uri> (accessed 7 May 2020)</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C27">
+        <label>27<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ray</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Brown</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Stringfellow</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Schnurrenberger</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Scanlan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Swann</surname>
+<given-names>A</given-names></string-name></person-group>. <year>1988</year>
+<article-title>Bovine brucellosis: an investigation of latency in progeny of culture-positive cows</article-title>. <source>J. Am. Vet. Med. Assoc.</source>
+<volume><bold>192</bold></volume>, <fpage>182</fpage>-<lpage>186</lpage>.<pub-id pub-id-type="pmid">3127368</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C28">
+        <label>28<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wilesmith</surname>
+<given-names>J</given-names></string-name></person-group>. <year>1978</year>
+<article-title>The persistence of <italic toggle="yes">Brucella abortus</italic> infection in calves: a retrospective study of heavily infected herds</article-title>. <source>Vet. Rec.</source>
+<volume><bold>103</bold></volume>, <fpage>149</fpage>-<lpage>153</lpage>. (<pub-id pub-id-type="doi">10.1136/vr.103.8.149</pub-id>)<pub-id pub-id-type="pmid">695262</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C29">
+        <label>29<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Plommet</surname>
+<given-names>M</given-names></string-name>
+<etal>et al</etal></person-group>. <year>1973</year>
+<article-title>Brucellose bovine exp&#xE9;rimentale. Xii.&#x2013;persistance a l&#x2019;&#xE2;ge adulte de l'infection cong&#xE9;nitale de la g&#xE9;nisse</article-title>. <source>Ann. Rech. Vet.</source>
+<volume><bold>4</bold></volume>, <fpage>419</fpage>-<lpage>435</lpage>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C30">
+        <label>30<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dorneles</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Sriranganathan</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Lage</surname>
+<given-names>AP</given-names></string-name></person-group>. <year>2015</year>
+<article-title>Recent advances in <italic toggle="yes">Brucella abortus</italic> vaccines</article-title>. <source>Vet. Res.</source>
+<volume><bold>46</bold></volume>, <fpage>76</fpage>. (<pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id>)<pub-id pub-id-type="pmid">26155935</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C31">
+        <label>31<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gall</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Nielsen</surname>
+<given-names>K</given-names></string-name></person-group>. <year>2004</year>
+<article-title>Serological diagnosis of bovine brucellosis: a review of test performance and cost comparison</article-title>. <source>Rev. Sci. Tech.</source>
+<volume><bold>23</bold></volume>, <fpage>989</fpage>-<lpage>1002</lpage>. (<pub-id pub-id-type="doi">10.20506/rst.23.3.1545</pub-id>)<pub-id pub-id-type="pmid">15861895</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C32">
+        <label>32<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>Census of India</collab>. <year>2011</year>
+<comment><italic toggle="yes">Census of India Website</italic>. Office of the Registrar General &amp; Census Commissioner, India. See <uri xlink:href="http://censusindia.gov.in/">http://censusindia.gov.in/</uri> (accessed 16, July 2019)</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C33">
+        <label>33<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="confproc"><person-group person-group-type="author"><string-name><surname>Gill</surname>
+<given-names>JPS</given-names></string-name>, <string-name><surname>Kaur</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Joshi</surname>
+<given-names>DV</given-names></string-name>, <string-name><surname>Sharma</surname>
+<given-names>JK</given-names></string-name></person-group>. <year>2000</year>
+<article-title>Epidemiological studies on brucellosis in farm animals in Punjab State of India and its public health significance</article-title>. In <conf-name>ISVEE 9: Proc. of the 9th Symp. of the International Society for Veterinary Epidemiology and Economics, Breckenridge, CO, 6&#x2013;11 August</conf-name>, pp. <fpage>Id 283</fpage>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C34">
+        <label>34<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Aznar</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Samartino</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Humblet</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Saegerman</surname>
+<given-names>C</given-names></string-name></person-group>. <year>2014</year>
+<article-title>Bovine brucellosis in Argentina and bordering countries: update</article-title>. <source>Transbound. Emerg. Dis.</source>
+<volume><bold>61</bold></volume>, <fpage>121</fpage>-<lpage>133</lpage>. (<pub-id pub-id-type="doi">10.1111/tbed.12018</pub-id>)<pub-id pub-id-type="pmid">23046031</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C35">
+        <label>35<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Saez</surname>
+<given-names>JL</given-names></string-name>
+<etal>et al.</etal></person-group>
+<year>2014</year>
+<article-title>Comparison of depopulation and S19-RB51 vaccination strategies for control of bovine brucellosis in high prevalence areas</article-title>. <source>Vet. Rec.</source>
+<volume><bold>174</bold></volume>, <fpage>634</fpage>. (<pub-id pub-id-type="doi">10.1136/vr.101979</pub-id>)<pub-id pub-id-type="pmid">24836427</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C36">
+        <label>36<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Al-Khalaf</surname>
+<given-names>SS</given-names></string-name>, <string-name><surname>Mohamad</surname>
+<given-names>BT</given-names></string-name>, <string-name><surname>Nicoletti</surname>
+<given-names>P</given-names></string-name></person-group>. <year>1992</year>
+<article-title>Control of brucellosis in Kuwait by vaccination of cattle, sheep and goats with <italic toggle="yes">Brucella abortus</italic> strain 19 or <italic toggle="yes">Brucella melitensis</italic> strain Rev. 1</article-title>. <source>Trop. Anim. Health Prod.</source>
+<volume><bold>24</bold></volume>, <fpage>45</fpage>-<lpage>49</lpage>. (<pub-id pub-id-type="doi">10.1007/BF02357236</pub-id>)<pub-id pub-id-type="pmid">1306918</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C37">
+        <label>37<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Alves</surname>
+<given-names>AJS</given-names></string-name>, <string-name><surname>Rocha</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Amaku</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ferreira</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Telles</surname>
+<given-names>EO</given-names></string-name>, <string-name><surname>Grisi Filho</surname>
+<given-names>JHH</given-names></string-name>, <string-name><surname>Neto</surname>
+<given-names>JF</given-names></string-name>, <string-name><surname>Zylbersztajn</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Dias</surname>
+<given-names>RA</given-names></string-name></person-group>. <year>2015</year>
+<article-title>Economic analysis of vaccination to control bovine brucellosis in the States of Sao Paulo and Mato Grosso, Brazil</article-title>. <source>Prev. Vet. Med.</source>
+<volume><bold>118</bold></volume>, <fpage>351</fpage>-<lpage>358</lpage>. (<pub-id pub-id-type="doi">10.1016/j.prevetmed.2014.12.010</pub-id>)<pub-id pub-id-type="pmid">25548080</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C38">
+        <label>38<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lopetegui</surname>
+<given-names>P</given-names></string-name></person-group>. <year>2004</year>
+<article-title>Bovine brucellosis control and eradication programme in Chile: vaccine use as a tool within the programme</article-title>. <source>Dev. Biol. (Basel)</source>
+<volume><bold>119</bold></volume>, <fpage>473</fpage>-<lpage>479</lpage>.<pub-id pub-id-type="pmid">15742662</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C39">
+        <label>39<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Martins</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Garin-Bastuji</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Lima</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Flor</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Pina Fonseca</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Boinas</surname>
+<given-names>F</given-names></string-name></person-group>. <year>2009</year>
+<article-title>Eradication of bovine brucellosis in the Azores, Portugal&#x2014;outcome of a 5-year programme (2002&#x2013;2007) based on test-and-slaughter and RB51 vaccination</article-title>. <source>Prev. Vet. Med.</source>
+<volume><bold>90</bold></volume>, <fpage>80</fpage>-<lpage>89</lpage>. (<pub-id pub-id-type="doi">10.1016/j.prevetmed.2009.04.002</pub-id>)<pub-id pub-id-type="pmid">19439382</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C40">
+        <label>40<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Refai</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2002</year>
+<article-title>Incidence and control of brucellosis in the Near East region</article-title>. <source>Vet. Microbiol.</source>
+<volume><bold>90</bold></volume>, <fpage>81</fpage>-<lpage>110</lpage>. (<pub-id pub-id-type="doi">10.1016/S0378-1135(02)00248-1</pub-id>)<pub-id pub-id-type="pmid">12414137</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C41">
+        <label>41<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yumuk</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>O'Callaghan</surname>
+<given-names>D</given-names></string-name></person-group>. <year>2012</year>
+<article-title>Brucellosis in Turkey &#x2014; an overview</article-title>. <source>Int. J. Infect. Dis.</source>
+<volume><bold>16</bold></volume>, <fpage>e228</fpage>-<lpage>e235</lpage>. (<pub-id pub-id-type="doi">10.1016/j.ijid.2011.12.011</pub-id>)<pub-id pub-id-type="pmid">22333223</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C42">
+        <label>42<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Moreno</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2002</year>
+<article-title>Brucellosis in Central America</article-title>. <source>Vet. Microbiol.</source>
+<volume><bold>90</bold></volume>, <fpage>31</fpage>-<lpage>38</lpage>. (<pub-id pub-id-type="doi">10.1016/S0378-1135(02)00242-0</pub-id>)<pub-id pub-id-type="pmid">12414131</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C43">
+        <label>43<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hegazy</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Ridler</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Guitian</surname>
+<given-names>F</given-names></string-name></person-group>. <year>2009</year>
+<article-title>Assessment and simulation of the implementation of brucellosis control programme in an endemic area of the Middle East</article-title>. <source>Epidemiol. Infect.</source>
+<volume><bold>137</bold></volume>, <fpage>1436</fpage>-<lpage>1448</lpage>. (<pub-id pub-id-type="doi">10.1017/S0950268809002301</pub-id>)<pub-id pub-id-type="pmid">19288957</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C44">
+        <label>44<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Godfroid</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>K&#xE4;sbohrer</surname>
+<given-names>A</given-names></string-name></person-group>. <year>2002</year>
+<article-title>Brucellosis in the European Union and Norway at the turn of the twenty-first century</article-title>. <source>Vet. Microbiol.</source>
+<volume><bold>90</bold></volume>, <fpage>135</fpage>-<lpage>145</lpage>. (<pub-id pub-id-type="doi">10.1016/S0378-1135(02)00217-1</pub-id>)<pub-id pub-id-type="pmid">12414139</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C45">
+        <label>45<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Stronati</surname>
+<given-names>S</given-names></string-name></person-group>. <year>2020</year>
+<source>Introduction of brucellosis in a disease-free village in Punjab, India &#x2013; quantitative risk assessment and evaluation of intervention strategies [MSc One health: ecosystems, humans and animals project report]</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Royal Veterinary College</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C46">
+        <label>46<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>NDDB</collab>. <comment>Indian Immunologicals Ltd | nddb.coop. See <uri xlink:href="https://www.nddb.coop/services/rdbiotech/immunology">https://www.nddb.coop/services/rdbiotech/immunology</uri> (accessed 22 August 2021)</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C47">
+        <label>47<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><collab>CNBC</collab>. <year>2021</year>
+<comment>Indian Immunologicals to begin manufacturing of COVID-19 vaccine Covaxin by July. See <uri xlink:href="https://www.cnbctv18.com/healthcare/indian-immunologicals-to-begin-manufacturing-of-covid-19-vaccine-covaxin-by-july-9382441.htm">https://www.cnbctv18.com/healthcare/indian-immunologicals-to-begin-manufacturing-of-covid-19-vaccine-covaxin-by-july-9382441.htm</uri> (accessed 22 August 2021)</comment>.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C48">
+        <label>48<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Meghana</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Aparna</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Chandra</surname>
+<given-names>SM</given-names></string-name>, <string-name><surname>Sanjeev</surname>
+<given-names>S</given-names></string-name></person-group>. <year>2021</year>
+<article-title>Emergency preparedness and response (EP&amp;R) by pharmacy professionals in India: lessons from the COVID-19 pandemic and the way forward</article-title>. <source>Res. Soc. Adm. Pharm.</source>
+<volume><bold>17</bold></volume>, <fpage>2018</fpage>-<lpage>2022</lpage>. (<pub-id pub-id-type="doi">10.1016/j.sapharm.2020.04.028</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C49">
+        <label>49<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sahoo</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Ashwani</surname></string-name></person-group>. <year>2020</year>
+<article-title>COVID-19 and Indian economy: impact on growth, manufacturing, trade and MSME sector</article-title>. <source>Glob. Bus. Rev.</source>
+<volume><bold>21</bold></volume>, <fpage>1159</fpage>-<lpage>1183</lpage>. (<pub-id pub-id-type="doi">10.1177/0972150920945687</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C50">
+        <label>50<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Bruce</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2016</year>
+<comment>The impact of brucellosis in Albania: a systems approach</comment>. PhD thesis, University of London Royal Veterinary College, London, UK.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C51">
+        <label>51<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>de Oliveira</surname>
+<given-names>MM</given-names></string-name>, <string-name><surname>Pereira</surname>
+<given-names>CR</given-names></string-name>, <string-name><surname>de Oliveira</surname>
+<given-names>IRC</given-names></string-name>, <string-name><surname>Godfroid</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Lage</surname>
+<given-names>AP</given-names></string-name>, <string-name><surname>Dorneles</surname>
+<given-names>EMS</given-names></string-name></person-group>. <year>2021</year>
+<article-title>Efficacy of <italic toggle="yes">Brucella abortus</italic> S19 and RB51 vaccine strains: a systematic review and meta-analysis</article-title>. <source>Transbound. Emerg. Dis.</source>
+<volume><bold>69</bold></volume>, <fpage>e32</fpage>-<lpage>e51</lpage>. (<pub-id pub-id-type="doi">10.1111/tbed.14259</pub-id>)<pub-id pub-id-type="pmid">34328699</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C52">
+        <label>52<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><string-name><surname>Manthei</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Mingle</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Carter</surname>
+<given-names>R</given-names></string-name></person-group>. <year>1951</year>
+<comment>Duration of immunity to brucellosis induced in cattle with Strain 19 vaccine</comment>. In <italic toggle="yes">Proc. of the 88th Annual Meeting of the American Veterinary Medical Association, Milwaukee, WI, 20&#x2013;23 August</italic>, pp. 128&#x2013;141.</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C53">
+        <label>53<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sousa</surname>
+<given-names>MG</given-names></string-name>, <string-name><surname>Salvarani</surname>
+<given-names>FM</given-names></string-name>, <string-name><surname>Bomjardim</surname>
+<given-names>HA</given-names></string-name>, <string-name><surname>Brito</surname>
+<given-names>MF</given-names></string-name>, <string-name><surname>Barbosa</surname>
+<given-names>JD</given-names></string-name></person-group>. <year>2017</year>
+<article-title>Brucellosis in water buffaloes</article-title>. <source>Pesqui. Vet. Bras.</source>
+<volume><bold>37</bold></volume>, <fpage>234</fpage>-<lpage>240</lpage>. (<pub-id pub-id-type="doi">10.1590/s0100-736&#xD7;2017000300006</pub-id>)</mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C54">
+        <label>54<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Adesiyun</surname>
+<given-names>AA</given-names></string-name>, <string-name><surname>Fosgate</surname>
+<given-names>GT</given-names></string-name>, <string-name><surname>Seebaransingh</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Brown</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Stoute</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Stewart-Johnson</surname>
+<given-names>A</given-names></string-name></person-group>. <year>2011</year>
+<article-title>Virulence of <italic toggle="yes">Brucella abortus</italic> isolated from cattle and water buffalo</article-title>. <source>Trop. Anim. Health Prod.</source>
+<volume><bold>43</bold></volume>, <fpage>13</fpage>-<lpage>16</lpage>. (<pub-id pub-id-type="doi">10.1007/s11250-010-9679-y</pub-id>)<pub-id pub-id-type="pmid">20972706</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C55">
+        <label>55<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Beauvais</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Musallam</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Guitian</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2016</year>
+<article-title>Vaccination control programs for multiple livestock host species: an age-stratified, seasonal transmission model for brucellosis control in endemic settings</article-title>. <source>Parasites Vectors</source>
+<volume><bold>9</bold></volume>, <fpage>55</fpage>. (<pub-id pub-id-type="doi">10.1186/s13071-016-1327-6</pub-id>)<pub-id pub-id-type="pmid">26825313</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C56">
+        <label>56<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dean</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Crump</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Greter</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Schelling</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Zinsstag</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2012</year>
+<article-title>Global burden of human brucellosis: a systematic review of disease frequency</article-title>. <source>PLOS Negl. Trop. Dis.</source>
+<volume><bold>6</bold></volume>, <fpage>e1865</fpage>. (<pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id>)<pub-id pub-id-type="pmid">23145195</pub-id></mixed-citation>
+      </ref>
+      <ref id="RSIF20220756C57">
+        <label>57<x xml:space="preserve">.</x></label>
+        <mixed-citation publication-type="data"><person-group person-group-type="author"><string-name><surname>Holt</surname>
+<given-names>HR</given-names></string-name>
+<etal>et al</etal></person-group>. <year>2013</year>
+<data-title>Modelling the control of bovine brucellosis in India</data-title>. <source><italic toggle="yes">Figshare</italic></source>. (<pub-id pub-id-type="doi">10.6084/m9.figshare.c.6442412</pub-id>)</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

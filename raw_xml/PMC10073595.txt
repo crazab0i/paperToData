@@ -1,0 +1,754 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Microbiol</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Microbiol.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-302X</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37032899</article-id>
+      <article-id pub-id-type="pmc">10073595</article-id>
+      <article-id pub-id-type="doi">10.3389/fmicb.2023.1106994</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Microbiology</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title><italic>Brucella abortus</italic> in Kazakhstan, population structure and comparison with worldwide genetic diversity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Shevtsov</surname>
+            <given-names>Alexandr</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <xref rid="fn0001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/684810/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cloeckaert</surname>
+            <given-names>Axel</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="fn0001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/22940/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berdimuratova</surname>
+            <given-names>Kalysh</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shevtsova</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shustov</surname>
+            <given-names>Alexandr V.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/785950/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Amirgazin</surname>
+            <given-names>Asylulan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1491589/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Karibayev</surname>
+            <given-names>Talgat</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/407688/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kamalova</surname>
+            <given-names>Dinara</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2174508/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zygmunt</surname>
+            <given-names>Michel S.</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/25551/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramanculov</surname>
+            <given-names>Yerlan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Vergnaud</surname>
+            <given-names>Gilles</given-names>
+          </name>
+          <xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <xref rid="c002" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/555275/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>National Center for Biotechnology</institution>, <addr-line>Astana</addr-line>, <country>Kazakhstan</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>INRAE, UMR ISP, Universit&#xE9; de Tours</institution>, <addr-line>Nouzilly</addr-line>, <country>France</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>National Reference Center for Veterinary</institution>, <addr-line>Astana</addr-line>, <country>Kazakhstan</country></aff>
+      <aff id="aff4"><sup>4</sup><institution>School of Sciences and Humanities, Nazarbayev University</institution>, <addr-line>Astana</addr-line>, <country>Kazakhstan</country></aff>
+      <aff id="aff5"><sup>5</sup><institution>Universit&#xE9; Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC)</institution>, <addr-line>Gif-sur-Yvette</addr-line>, <country>France</country></aff>
+      <author-notes>
+        <fn id="fn0002" fn-type="edited-by">
+          <p>Edited by: Jens Andre Hammerl, Bundesinstitut f&#xFC;r Risikobewertung, Germany</p>
+        </fn>
+        <fn id="fn0003" fn-type="edited-by">
+          <p>Reviewed by: Jiabo Ding, Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, China; Mostafa Y. Abdel-Glil, Friedrich Loeffler Institut, Germany</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Alexandr Shevtsov, <email>ncbshevtsov@gmail.com</email></corresp>
+        <corresp id="c002">Gilles Vergnaud, <email>gilles.vergnaud@universite-paris-saclay.fr</email></corresp>
+        <fn id="fn0001" fn-type="equal">
+          <p><sup>&#x2020;</sup>These authors have contributed equally to this work and share first authorship</p>
+        </fn>
+        <fn id="fn0004" fn-type="other">
+          <p>This article was submitted to Infectious Agents and Disease, a section of the journal Frontiers in Microbiology</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>14</volume>
+      <elocation-id>1106994</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>01</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Shevtsov, Cloeckaert, Berdimuratova, Shevtsova, Shustov, Amirgazin, Karibayev, Kamalova, Zygmunt, Ramanculov and Vergnaud.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Shevtsov, Cloeckaert, Berdimuratova, Shevtsova, Shustov, Amirgazin, Karibayev, Kamalova, Zygmunt, Ramanculov and Vergnaud</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic>Brucella abortus</italic> is the main causative agent of brucellosis in cattle, leading to severe economic consequences in agriculture and affecting public health. The zoonotic nature of the infection increases the need to control the spread and dynamics of outbreaks in animals with the incorporation of high resolution genotyping techniques. Based on such methods, <italic>B. abortus</italic> is currently divided into three clades, A, B, and C. The latter includes subclades C1 and C2. This study presents the results of whole-genome sequencing of 49 <italic>B. abortus</italic> strains isolated in Kazakhstan between 1947 and 2015 and of 36 <italic>B. abortus</italic> strains of various geographic origins isolated from 1940 to 2004. <italic>In silico</italic> Multiple Locus Sequence Typing (MLST) allowed to assign strains from Kazakhstan to subclades C1 and to a much lower extend C2. Whole-genome Single-Nucleotide Polymorphism (wgSNP) analysis of the 46 strains of subclade C1 with strains of worldwide origins showed clustering with strains from neighboring countries, mostly North Caucasia, Western Russia, but also Siberia, China, and Mongolia. One of the three Kazakhstan strains assigned to subclade C2 matched the <italic>B. abortus</italic> S19 vaccine strain used in cattle, the other two were genetically close to the 104&#x2009;M vaccine strain. Bayesian phylodynamic analysis dated the introduction of <italic>B. abortus</italic> subclade C1 into Kazakhstan to the 19th and early 20th centuries. We discuss this observation in view of the history of population migrations from Russia to the Kazakhstan steppes.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic>Brucella abortus</italic>
+        </kwd>
+        <kwd>genetic diversity</kwd>
+        <kwd>WGS</kwd>
+        <kwd>SNP</kwd>
+        <kwd>genotyping</kwd>
+        <kwd>epidemiology</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn1">
+            <institution-wrap>
+              <institution>Ministry of Education and Science of the Republic of Kazakhstan</institution>
+              <institution-id institution-id-type="doi">10.13039/501100004561</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id award-type="contract" rid="cn1">AP08052352</award-id>
+        </award-group>
+        <award-group>
+          <funding-source id="cn2">
+            <institution-wrap>
+              <institution>Agence Nationale de la Recherche</institution>
+              <institution-id institution-id-type="doi">10.13039/501100001665</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id award-type="contract" rid="cn2">ANR-14-ASMA-0002-02</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="73"/>
+        <page-count count="12"/>
+        <word-count count="9067"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1">
+      <label>1.</label>
+      <title>Introduction</title>
+      <p>Brucellosis is a bacterial zoonotic disease caused by species belonging to the genus <italic>Brucella</italic> and results in high economic impact (<xref rid="ref35" ref-type="bibr">McDermott et al., 2013</xref>). <italic>Brucella</italic> spp. may be transmitted to humans resulting in a severe disease requiring a specific and long-term antibiotic treatment with significant burden to public health systems (<xref rid="ref18" ref-type="bibr">Franc et al., 2018</xref>). The genus <italic>Brucella</italic> currently contains 12 validly published species (<xref rid="ref40" ref-type="bibr">Olsen and Palmer, 2014</xref>; <xref rid="ref69" ref-type="bibr">Whatmore and Foster, 2021</xref>; <xref rid="ref39" ref-type="bibr">Occhialini et al., 2022</xref>). <italic>Brucella melitensis</italic>, <italic>Brucella abortus</italic>, <italic>B. suis</italic>, <italic>B. ovis</italic>, <italic>B. neotomae,</italic> and <italic>B. canis</italic> are often referred to as &#x201C;classical&#x201D; <italic>Brucella</italic> species in the literature. These have been identified between 1887 and 1968 and were differentiated on the basis of phenotypic traits and host preference (<xref rid="ref8" ref-type="bibr">Buddle, 1956</xref>; <xref rid="ref62" ref-type="bibr">Stoenner and Lackman, 1957</xref>; <xref rid="ref9" ref-type="bibr">Carmichael and Bruner, 1968</xref>; <xref rid="ref36" ref-type="bibr">Moreno et al., 2002</xref>). Since 2007, the wider use of genetic methods of identification and differentiation has led to the identification of <italic>B. ceti</italic>, <italic>B. pinnipedialis</italic>, <italic>B. microti</italic>, <italic>B. inopinata</italic>, <italic>B. papionis,</italic> and <italic>B. vulpis</italic>, which also preserve the tradition of naming the species in accordance with their original host (with the exception of <italic>B. inopinata</italic> isolated from a breast implant; <xref rid="ref17" ref-type="bibr">Foster et al., 2007</xref>; <xref rid="ref49" ref-type="bibr">Scholz et al., 2008</xref>, <xref rid="ref50" ref-type="bibr">2010</xref>; <xref rid="ref68" ref-type="bibr">Whatmore et al., 2014</xref>; <xref rid="ref51" ref-type="bibr">Scholz et al., 2016</xref>). The use of molecular methods made it possible to identify other potential new species recovered not only from mammals but also from amphibians, reptiles, and fish (<xref rid="ref60" ref-type="bibr">Soler-Llorens et al., 2016</xref>; <xref rid="ref2" ref-type="bibr">Al Dahouk et al., 2017</xref>; <xref rid="ref15" ref-type="bibr">Eisenberg et al., 2017</xref>; <xref rid="ref37" ref-type="bibr">M&#xFC;hldorfer et al., 2017</xref>; <xref rid="ref16" ref-type="bibr">Eisenberg et al., 2020</xref>), leading to further expansion of our knowledge of the genus <italic>Brucella</italic>. Based on whole-genome comparisons, a merge of the <italic>Ochrobactrum</italic> and <italic>Brucella</italic> genus was recently proposed (<xref rid="ref24" ref-type="bibr">Hordt et al., 2020</xref>; <xref rid="ref32" ref-type="bibr">Leclercq et al., 2020</xref>). Nonetheless, the greatest impact on public health and livestock infections around the globe have to date only been caused by <italic>B. melitensis, B. abortus</italic> and <italic>B. suis</italic> (<xref rid="ref21" ref-type="bibr">Godfroid et al., 2011</xref>; <xref rid="ref18" ref-type="bibr">Franc et al., 2018</xref>). An increase of human cases due to <italic>B. canis</italic> is currently suspected (<xref rid="ref22" ref-type="bibr">Hensel et al., 2018</xref>; <xref rid="ref72" ref-type="bibr">Zhou et al., 2020</xref>).</p>
+      <p>The majority of brucellosis cases are reported in the Mediterranean countries, South and Central America, Africa, Asia, Arabian Peninsula, Indian subcontinent, Eastern Europe, and the Middle East (<xref rid="ref41" ref-type="bibr">Pappas et al., 2006</xref>; <xref rid="ref38" ref-type="bibr">Nicoletti, 2010</xref>). Over the past decade, there has been a decline in incidence in many regions previously considered to be highly endemic, but also new reservoirs have been identified, such as in Africa and the Middle East, possibly resulting from a better implementation of diagnostic methods (<xref rid="ref67" ref-type="bibr">Wang and Jiang, 2020</xref>). The real incidence of the disease in the mentioned regions is most probably largely underestimated because registration is based on passively collected data (<xref rid="ref13" ref-type="bibr">Dean et al., 2012</xref>).</p>
+      <p>In Kazakhstan, brucellosis remains a major livestock and public health problem. More than 1,300 cases of human brucellosis are registered annually corresponding to an incidence of 7.6 per 100,000 inhabitants. Seropositivity to <italic>Brucella</italic> antigens in cattle and small cattle is 0.6% and 0.4%, respectively (<xref rid="ref10" ref-type="bibr">Charypkhan and Ruegg, 2022</xref>).</p>
+      <p>The high zoonotic potential, re-emergence of the infection in previously disease-free regions, and identification of new reservoirs underscore the need for modern molecular epidemiology approaches such as genotyping to trace source reservoirs and paths of introduction. For <italic>Brucella</italic> genotyping at subspecies level, two methods are most widely used, Multilocus Sequence Typing (MLST) and Multiple Loci VNTR polymorphisms (Variable Number of Tandem Repeats, MLVA; <xref rid="ref70" ref-type="bibr">Whatmore et al., 2016</xref>; <xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>). Robust phylogenetic relationships can be obtained from nucleotide sequencing data owing to the strictly clonal evolution of classical <italic>Brucella</italic> spp. (<xref rid="ref69" ref-type="bibr">Whatmore and Foster, 2021</xref>). The first MLST scheme included nine loci, seven housekeeping genes, the outer membrane protein gene <italic>omp25</italic> and int-hyp. Six <italic>B. abortus</italic> MLST9 sequence types (STs) were initially described (<xref rid="ref71" ref-type="bibr">Whatmore et al., 2007</xref>). Twenty-six <italic>B. abortus</italic> MLST9 STs are recorded in the current version of the <italic>Brucella</italic> spp. MLST database.<xref rid="fn0005" ref-type="fn"><sup>1</sup></xref> Including 12 housekeeping genes in the genotyping resulted in the more discriminatory MLST21. Thirty MLST21 STs were initially described in 172 <italic>B. abortus</italic> strains defining three clades (A, B, C including C1 and C2; <xref rid="ref70" ref-type="bibr">Whatmore et al., 2016</xref>) and 43 STs are recorded in the current version of the <italic>Brucella</italic> spp. MLST database (see text footnote 1). The rare clades A and B include strains originating almost exclusively from Africa and allow defining the most ancestral nodes within the <italic>B. abortus</italic> phylogeny. Clades C1 and C2 are found on five continents and their presence in Africa seem to result from livestock importation (<xref rid="ref70" ref-type="bibr">Whatmore et al., 2016</xref>; <xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>). Several MLVA genotyping schemes have been proposed for <italic>Brucella</italic>, one most commonly used scheme is MLVA16 (<xref rid="ref52" ref-type="bibr">Scholz and Vergnaud, 2013</xref>). MLVA16 combines two panels of markers: one VNTR panel with a low discriminatory ability allows determining the species and main genetic lineages, and the other VNTR panel with a high discriminatory ability but low phylogenetic value allows differentiating strains in local outbreaks (<xref rid="ref52" ref-type="bibr">Scholz and Vergnaud, 2013</xref>; <xref rid="ref69" ref-type="bibr">Whatmore and Foster, 2021</xref>). The current version (Brucella v4_6_5) of the Brucella MLVA data hosted by MLVAbank<xref rid="fn0006" ref-type="fn"><sup>2</sup></xref> contains <italic>in vitro</italic> data derived from more than 1,400 <italic>B. abortus</italic> strains. The eight VNTR loci with the low discriminatory power (MLVA8) cluster <italic>B. abortus</italic> into 28 genotypes represented by at least two entries. MLVA alone is not suitable for phylogenetic reconstructions because of the high homoplasy at VNTR loci (<xref rid="ref29" ref-type="bibr">Keim et al., 2004</xref>), but interestingly, MLVA using the low discriminatory markers (MLVA8, MLVA10 or MLVA11) and MLST clustering are highly congruent allowing to indirectly deduce phylogenetic signal from MLVA data (<xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>). Consequently, MLVA may constitute a first-line assay with low phylogenetic resolution until whole-genome sequencing (WGS) becomes sufficiently low-cost to be directly used as first line assay. MLVA genotypes can be readily deduced from WGS data with sequencing reads longer than 200&#x2009;bp so that the highly discriminatory MLVA loci can also constitute a strain identity control tool (<xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>; <xref rid="ref23" ref-type="bibr">Holzer et al., 2021</xref>; <xref rid="ref42" ref-type="bibr">Pelerito et al., 2021</xref>).</p>
+      <p>The availability of whole-genome sequence (WGS) data opened the way to whole-genome and core genome MLST assays (wgMLST and cgMLST, respectively) with much higher resolution and phylogenetic value than these classical genotyping tools (<xref rid="ref25" ref-type="bibr">Janowicz et al., 2018</xref>; <xref rid="ref1" ref-type="bibr">Abdel-Glil et al., 2022</xref>). Genome-scale MLST assays as well as genome-wide SNP-genotyping confirmed the presence of the four major clusters A, B, C1, C2 in a collection of <italic>B. abortus</italic> with strains collected at a global scale (<xref rid="ref69" ref-type="bibr">Whatmore and Foster, 2021</xref>; <xref rid="ref1" ref-type="bibr">Abdel-Glil et al., 2022</xref>).</p>
+      <p>The current knowledge on the genetic diversity of <italic>B. abortus</italic> circulating in Kazakhstan is limited to MLVA-typing data. Interestingly, the MLVA genotyping investigations demonstrated low genetic diversity among strains circulating in Kazakhstan (<xref rid="ref55" ref-type="bibr">Shevtsov et al., 2015</xref>; <xref rid="ref12" ref-type="bibr">Daugaliyeva et al., 2018</xref>). Inclusion in the analysis of strains deposited since 1935 made it possible to describe the predominance of <italic>B. abortus</italic> clade C1, with genetic proximity of the majority of strains to Russian, Chinese and European strains. A few strains were assigned to <italic>B. abortus</italic> clade C2 (<xref rid="ref56" ref-type="bibr">Shevtsova et al., 2016</xref>; <xref rid="ref12" ref-type="bibr">Daugaliyeva et al., 2018</xref>). In order to better understand the population structure and origins of <italic>B. abortus</italic> in Kazakhstan, we selected 49 representative strains from Kazakhstan for whole-genome sequencing. We also selected 36 <italic>B. abortus</italic> strains representing the genetic diversity previously uncovered by MLVA within the historical collection maintained by Inrae, Nouzilly, France (<xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>) to determine phylogenic relations among <italic>B. abortus</italic> strains and to evaluate the usefulness of genomic data in the epidemiological control of the infection in a highly endemic region, such as Kazakhstan.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec2">
+      <label>2.</label>
+      <title>Materials and methods</title>
+      <sec id="sec3">
+        <label>2.1.</label>
+        <title><italic>Brucella abortus</italic> DNA and selection of strains for WGS</title>
+        <p>DNA analyzed were selected among 213 <italic>B. abortus</italic> strains isolated in Kazakhstan between 1943 and 2015 from bovine clinical material (aborted fetuses, lymph nodes, or whole blood). The strains were previously characterized by MLVA genotyping (<xref rid="ref55" ref-type="bibr">Shevtsov et al., 2015</xref>; <xref rid="ref56" ref-type="bibr">Shevtsova et al., 2016</xref>). The full MLVA assay (MLVA16) resolved 28 genotypes, 12 of which were represented by individual strains, the remaining genotypes were represented by up to 86 strains. The choice of strains for WGS was based on MLVA data, year and geographic origin. We selected 49 strains representing the 28 genotypes (up to eight strains per MLVA16 genotype). The selected strains originated from eight regions of Kazakhstan (<xref rid="SM5" ref-type="supplementary-material">Supplementary Table S1</xref>; <xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>).</p>
+        <p>Similarly, 212 <italic>B. abortus</italic> representative strains from the Inrae BCCN (Brucella Culture Collection Nouzilly) collected worldwide during the period 1976&#x2013;2006 were previously characterized by MLVA (<xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>). Clade B and clade C represented 197 and 15 strains, respectively. A representative subset of 36 strains was selected for WGS (<xref rid="SM5" ref-type="supplementary-material">Supplementary Table S1</xref>).</p>
+      </sec>
+      <sec id="sec4">
+        <label>2.2.</label>
+        <title>Whole-genome sequencing</title>
+        <p>Kazakhstan strain sequencing was performed on the MiSeq platform (Illumina) as recommended by the manufacturer (Illumina, CA, United States). Nextera XT DNA Library preparation Kit (Illumina, CA, United States) was used to prepare libraries with double barcoding. Paired-end libraries were sequenced using MiSeq Reagent Kit v3 (600&#x2009;cycles or 300&#x2009;bp read length). <italic>De novo</italic> assemblies were produced using SKESA version 2.3.0 (<xref rid="ref61" ref-type="bibr">Souvorov et al., 2018</xref>). The assemblies had an average of 49 contigs (range 33 to 88), an average N50 value of 171&#x2009;kb (range 75 to 260&#x2009;kb) and an average total assembly length of 3.25&#x2009;Mb (range 3.229&#x2013;3.256&#x2009;Mb).</p>
+        <p>BCCN strains were sequenced by Genoscreen (Lille, France) using the MiSeq platform (Illumina). Read length was 250&#x2009;bp. Sequencing reads were assembled using SPAdes version 3.13 (<xref rid="ref4" ref-type="bibr">Bankevich et al., 2012</xref>). The assemblies had an average of 25 contigs (range 18 to 60), an average N50 value of 417&#x2009;kb (range 251 to 884&#x2009;kb) and an average total assembly length of 3.27&#x2009;Mb (range 3.260&#x2013;3.327&#x2009;Mb).</p>
+        <p>Whole-genome MLST was run on genome assemblies using the BioNumerics &#x201C;MLST for WGS&#x201D; and &#x201C;WGS tools&#x201D; plugin and associated <italic>Brucella</italic> spp. scheme (Applied-Maths, Sint-Martens-Latem, Belgium). The plugins were also used to recover the MLST9 and MLST21 assignments (<xref rid="ref71" ref-type="bibr">Whatmore et al., 2007</xref>, <xref rid="ref70" ref-type="bibr">2016</xref>) defined in the <italic>Brucella</italic> spp. database hosted by PubMLST (<xref rid="ref26" ref-type="bibr">Jolley et al., 2018</xref>; <xref rid="SM5" ref-type="supplementary-material">Supplementary Table S1</xref>).</p>
+        <p>Raw reads were deposited in the European Nucleotide Archive BioProject PRJNA892249 (Kazakhstan collection) and PRJNA901374 (BCCN collection, France). Individual sequence reads archives (SRA), bioproject and biosample accessions are indicated in <xref rid="SM5" ref-type="supplementary-material">Supplementary Table S1</xref>.</p>
+      </sec>
+      <sec id="sec5">
+        <label>2.3.</label>
+        <title>Whole-genome single-nucleotide polymorphism analysis</title>
+        <p>All publicly available <italic>Brucella</italic> assemblies, sequence reads archive, and associated metadata, were downloaded from EBI ENA (read archives) or NCBI (assemblies) (last updated 2022-09-10). Sequence read archives were <italic>de novo</italic> assembled with SKESA. All assemblies were imported into BioNumerics version 8.1 (Applied-Maths, Sint-Martens-Latem, Belgium). The assemblies were used to produce artificial reads data sets (50&#x2009;bp long, 10x coverage) for SNP calling by read mapping using genome assembly GCA_000740155 (<italic>B. abortus</italic> strain Tulya) as reference genome (<xref rid="ref7" ref-type="bibr">Blouin et al., 2012</xref>; <xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>). The BioNumerics parameters for reads mapping were 95% minimum sequence identity, minimum inter-SNP distance 12 base-pairs. Maximum parsimony trees were drawn within BioNumerics. The list of all public datasets evaluated is presented in <xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>. <xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref> includes comments facilitating the selection of strains, including &#x201C;duplicates&#x201D; (more than one dataset available for the same strain), &#x201C;redundant&#x201D; (coincident wgSNP genotype). Some datasets provided poor coverage or induced topological issues, due to sample mix or inappropriate assembly procedure.</p>
+        <p>For input in BEAST version 1.10.4 (<xref rid="ref64" ref-type="bibr">Suchard et al., 2018</xref>), a table of SNP positions from selected strains was exported from BioNumerics and SNPs were concatenated as fasta files. BEAST was run under a general time-reversible model of nucleotide substitution with a gamma distribution between sites, a relaxed molecular clock, Bayesian skyline plot (BSP) demographic model, lognormal distribution for population sizes as previously described (<xref rid="ref27" ref-type="bibr">Kamath et al., 2016</xref>). The convergence of 20 independent runs with a chain length of 150 million was examined using Tracer v1.7 (<xref rid="ref46" ref-type="bibr">Rambaut et al., 2018</xref>). The selected runs were merged with a burning of 15 million using LogCombiner and TreeAnnotator (<xref rid="ref64" ref-type="bibr">Suchard et al., 2018</xref>). The resulting trees were visualized using FigTree v1.4.4 (<xref rid="ref45" ref-type="bibr">Rambaut, 2018</xref>).</p>
+      </sec>
+      <sec id="sec6">
+        <label>2.4.</label>
+        <title>Analysis of homoplasia in MLVA profiles</title>
+        <p>The previously published MLVA16 profiles of 49 strains from Kazakhstan were used within BioNumerics for clustering based on categorical data distance measure and unweighted paired group with arithmetic means method (UPGMA). MLVA homoplasia was recognized when MLVA clustering was not congruent with the phylogeny deduced from wgSNP analysis.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec7">
+      <label>3.</label>
+      <title>Results</title>
+      <sec id="sec8">
+        <label>3.1.</label>
+        <title>MLST assignment of the 49 <italic>Brucella abortus</italic> strains from Kazakhstan</title>
+        <p>Four MLST9 STs were present, ST1 (two strains) ST2 (45 strains), ST5 (one strain), and ST119 (new MLST9 genotype, represented by one strain). ST2 and the closely related ST119 belong to subclade C1 whereas ST1 and ST5 belong to subclade C2 (<xref rid="ref71" ref-type="bibr">Whatmore et al., 2007</xref>). MLST21 resolves one additional genotype, as subclade C1 strain Kaz041 defined a new allele at MLST21 locus csdb due to a single-nucleotide variation (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>). Using the wgMLST analysis assay, alleles could be called at 3,312 up to 3,345 loci in the 46 clade C1 strains. Seven hundred and three loci were called in all 46 strains and were polymorphic. <xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref> shows the clustering derived from the corresponding wgMLST character dataset of the 46 clade C1 strains.</p>
+      </sec>
+      <sec id="sec9">
+        <label>3.2.</label>
+        <title>Wgsnp based phylogenetic analysis of the 46 <italic>Brucella abortus</italic> subclade C1 strains from Kazakhstan</title>
+        <p><xref rid="fig1" ref-type="fig">Figure 1</xref> shows the phylogeny of 46 <italic>B. abortus</italic> subclade C1 strains from Kazakhstan deduced from wgSNP analysis. The maximum distance between two strains was 208 SNPs. Distances from root (blue star) to tips varied from 76 up to 117 SNPs. The analyzed Kazakhstan strains partitioned into six main branches labeled A to F. The topology obtained with wgSNP and wgMLST (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>) were identical. Branches A to D are defined by one to three different wgSNP genotypes corresponding to &#x201C;historical&#x201D; strains mainly collected in the Almaty region during the 1948&#x2013;1970 period. All strains isolated from 2007 to 2015 were assigned to branches E and F. Whereas branch F was defined by a single strain, Kaz021, branch E could be further subdivided into four sub lineages labeled I to IV. Each one contained one or two historical strains in addition to recent strains. Lineage E-I is geographically associated with the Eastern and Northern parts of Kazakhstan (<xref rid="fig2" ref-type="fig">Figure 2</xref>). Lineages E-II to E-IV are predominantly associated with strains collected in 2015 in six settlements of the West Kazakhstan region (WKR).</p>
+        <fig position="float" id="fig1">
+          <label>Figure 1</label>
+          <caption>
+            <p><italic>Brucella abortus</italic> subclade C1, 46 strains from Kazakhstan. Maximum parsimony tree based on core genome SNPs. 1,146 SNPs were called by mapping on genome accession GCA_000740155 (<italic>B. abortus</italic> clade B strain Tulya). The size of the resulting tree is 1,151 SNPs (homoplasia 0.44%). Thirty-three whole-genome SNP (wgSNP) genotypes are resolved. Branch lengths of two SNPs and more are indicated by black numbers. Strains are labeled in gray with collection year and strain Ids and colored according to region of origin as indicated. The MLVA11 genotype is indicated for new lineages distinct from GT72 (GT338 to GT341). The blue star indicates the root of the phylogeny (branching point toward <italic>B. melitensis</italic> type strain 16&#x2009;M used as outgroup). From the blue star, early splits define six branches, labeled A to F. Blue branches A to D are defined by a few ancient strains isolated between 1947 and 1970. Blue branch F is defined by one recent strain, KAZ021 isolated in 2015. Red branch E with 34 strains (24 wgSNP genotypes) is remarkable by its diversity (24 wgSNP genotypes) and high number of associated strains (34 out of 46). It contains all but one of the recent strains (isolated in 2007&#x2013;2015) together with five ancient strains. The E branch is structured into four subbranches labeled I to IV in red. Strains closely related or coincident in terms of wgSNP genotype define eight clusters labeled WGS_1 to WGS_8.</p>
+          </caption>
+          <graphic xlink:href="fmicb-14-1106994-g001" position="float"/>
+        </fig>
+        <fig position="float" id="fig2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Geographic origin of the <italic>B. abortus</italic> clade C1 strains from Kazakhstan. The size of the labels reflect the number of strains (from 1 to 10) in the corresponding location. The color code shown in the central inset reflects the phylogenetic position (branch assignment) indicated in <xref rid="fig1" ref-type="fig">Figures 1</xref>, <xref rid="fig3" ref-type="fig">3</xref>.</p>
+          </caption>
+          <graphic xlink:href="fmicb-14-1106994-g002" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec10">
+        <label>3.3.</label>
+        <title>Congruence between WGS phylogeny and MLVA clustering</title>
+        <p>The wgSNP analysis grouped 31 strains from Kazakhstan into 8 clusters labeled WGS_1 to WGS_8 in <xref rid="fig1" ref-type="fig">Figure 1</xref>; <xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>, which show a difference within each cluster of no more than 7 SNPs. Cluster WGS_1 comprised six &#x201C;historical&#x201D; strains lacking accompanying epizootological data, isolated in WKR, Akmola and Almaty regions between 1948 and 1970. The four strains identical by wgSNP from WGS_1 were also identical by MLVA16, while Kaz049 and Kaz046 differed at the highly variable Bruce07 locus. In spite of their very high wgSNP similarity, the strains were collected over a period of 13&#x2009;years in three regions of Kazakhstan. Previous reports described similar long term maintenance of highly similar wgSNP or wgMLST genotypes (<xref rid="ref20" ref-type="bibr">Garofolo et al., 2017</xref>; <xref rid="ref25" ref-type="bibr">Janowicz et al., 2018</xref>; <xref rid="ref3" ref-type="bibr">Allen et al., 2020</xref>; <xref rid="ref23" ref-type="bibr">Holzer et al., 2021</xref>). Cluster WGS_2 was formed by ten strains isolated from Kostanay region in the 2008&#x2013;2011 period and strain a_1 isolated in Almaty region in 2007. According to epidemiological data, nine out of ten strains from the Kostanay region represented four independent outbreaks. These strains represented three MLVA16 genotypes with a difference in the Bruce09 hypervariable locus. Cluster WGS_3 included two epidemiologically unrelated strains from EKR and Almaty regions, differing from each other by one SNPs, and by MLVA16 at the Bruce09 locus. Cluster WGS_4 was represented by two strains from the Kostanay region from two independent outbreaks which are identical in wgSNP and MLVA16. Cluster WGS_5 cluster was represented by two &#x201C;historical&#x201D; epidemiologically independent strains from WKR and Almaty regions identical in MLVA16 analysis and separated by two SNPs. Cluster WGS-6 combined two epidemiologically unrelated strains which are identical in their MLVA16 profiles and differ by three SNPs. Cluster WGS_7 combined two strains from the same outbreak in WKR, with an identical wgSNP genotype and differing in MLVA16 at locus Bruce07. Cluster WGS_8 combined four strains isolated in 2015 in the Akmola region, all from the same settlement and representing a single outbreak. The maximum difference between these strains is two SNPs, with all having an individual MLVA16 profile that differs in Bruce07 or Bruce09.</p>
+        <p>According to clustering on the basis of MLVA data, 10 MLVA16 genotypes (out of 28 genotypes) combined two to eight strains (<xref rid="SM2" ref-type="supplementary-material">Supplementary Figure S2</xref>). Homoplasia was suspected in five genotypes: MLVA_6 genotype includes two historical strains from Almaty (Kaz030 and Kaz041) and one recent strain from WKR (Kaz086). Kaz041 belongs to branch C, whereas Kaz086 and Kaz030 belong to E-III and E-IV, respectively, (<xref rid="fig1" ref-type="fig">Figure 1</xref>; <xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>). Genotype MLVA_7 included two strains, Kaz052 and Kaz070 isolated from Akmola and WKR regions in 2015, and belonging to E-IV and E-II, respectively. Genotype MLVA_14 combined four historical strains isolated from WKR and Akmola part of cluster WGS_1 from branch C and strain a_112 isolated in Kostanay in 2011 from branch E-I. Genotype MLVA_16 combined seven strains from cluster WGS_2 in branch E-I isolated in Almaty and Kostanay between 2007 and 2011, and also historical strain Kaz046 isolated in Almaty in 1957, belonging to cluster WGS_1 branch C. The MLVA_19 genotype combined strain Kaz020 (branch E-I, isolated in 2015, EKR region) and historical strain Kaz029 from Atyrau region from branch E-III. These lack of congruence between MLVA16 typing and wgSNP phylogeny are due to minor variations in the most variable loci constituting panel2B, in agreement with previous observations regarding the instability of these loci (<xref rid="ref19" ref-type="bibr">Garcia-Yoldi et al., 2007</xref>; <xref rid="ref34" ref-type="bibr">Maquart et al., 2009</xref>; <xref rid="ref3" ref-type="bibr">Allen et al., 2020</xref>).</p>
+      </sec>
+      <sec id="sec11">
+        <label>3.4.</label>
+        <title>Comparison of the 46 <italic>Brucella abortus</italic> subclade C1 strains from Kazakhstan with public datasets</title>
+        <p>For comparison, we recovered 148 public WGS datasets, and eight <italic>B. abortus</italic> subclade C1 WGS datasets from the BCCN collection (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>). Fifty-three duplicate datasets were removed (WGS data available as assembly and sequence reads archives, or identical strains sequenced by different institutions). Datasets contributing terminal branches shorter than five SNPs were also removed. <xref rid="fig3" ref-type="fig">Figure 3</xref> shows the result of wgSNP analysis of the 46 <italic>B. abortus</italic> subclade C1 strains from Kazakhstan together with 77 selected WGS datasets of worldwide origins. Starting from the root, four main lineages were defined. Branch length from root to tip vary from 280 up to 309 SNPs. All 46 Kazakhstan strains clustered in one of these four clade C1 sub-lineages. Most Kazakhstan strains were closest to strains from neighboring countries, Russia and to a lower extend, China. About 10 independent introductions from these neighbors would be sufficient to explain the observed topology of the tree. <xref rid="fig4" ref-type="fig">Figure 4</xref> shows an enlarged view of the subclade C1 lineages containing the Kazakhstan strains, together with the region of origin of the strains. Most strains from Kazakhstan appeared to be closest to strains from neighboring Russia and Georgia (<xref rid="ref58" ref-type="bibr">Sidamonidze et al., 2017</xref>; <xref rid="ref31" ref-type="bibr">Kovalev et al., 2021</xref>). For instance, the unique branch F representative from Kazakhstan, Kaz021 isolated in 2015, is surrounded in <xref rid="fig4" ref-type="fig">Figure 4</xref> by multiple strains from Russia (North Caucasus) and Georgia. Branches A and D showed interesting features. In branch D, a split created a sublineage populated by seven strains collected in Western Europe, and one from Egypt. Branch A comprised only one strain from Kazakhstan and one from Italy.</p>
+        <fig position="float" id="fig3">
+          <label>Figure 3</label>
+          <caption>
+            <p><italic>Brucella abortus</italic> subclade C1, position of the Kazakhstan strains within the global subclade C1 phylogeny. Maximum parsimony tree based on core genome SNPs. A total of 123 strains was used, including 77 selected strains of worldwide origins in addition to the 46 Kazakhstan strains. 5,446 SNPs were called by mapping on genome accession GCA_000740155 (<italic>B. abortus</italic> strain Tulya). The size of the resulting tree is 5,487 SNPs (homoplasia 0.75%). Strains are colored according to country of origin as indicated. The blue star indicates the root of the phylogeny (branching point toward <italic>B. abortus</italic> clade B strain Tulya used as outgroup). Representative estimated divergence dates are indicated (CE, common era).</p>
+          </caption>
+          <graphic xlink:href="fmicb-14-1106994-g003" position="float"/>
+        </fig>
+        <fig position="float" id="fig4">
+          <label>Figure 4</label>
+          <caption>
+            <p>Zoom on <italic>B. abortus</italic> subclade C1, position of the Kazakhstan strains within the global subclade C1 phylogeny. Close-up on <xref rid="fig3" ref-type="fig">Figure 3</xref>. Strains are colored according to country of origin as indicated and labeled with region of origin when known. The blue star indicates the root of the phylogeny (branching point toward <italic>B. abortus</italic> clade B strain Tulya used as outgroup). Branch names A to F defined in <xref rid="fig1" ref-type="fig">Figure 1</xref> are shown. Representative estimated divergence dates are indicated (CE, common era).</p>
+          </caption>
+          <graphic xlink:href="fmicb-14-1106994-g004" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec12">
+        <label>3.5.</label>
+        <title>Comparison of the three <italic>Brucella abortus</italic> clade C2 strains from Kazakhstan with public datasets</title>
+        <p>Public databases contain 880 <italic>B. abortus</italic> subclade C2 WGS datasets including assemblies and sequence read archives (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>). After removal of datasets achieving a poor coverage of the reference genome, 870 datasets were available for comparison. Strain Kaz031 from Kazakhstan clustered in a tight group of approximately 100 strains, including representatives of strains 2308, RB51, S19, and <italic>B. abortus</italic> reference strain 544. RB51 is used as a vaccine, and was derived from 2308 (<xref rid="ref53" ref-type="bibr">Schurig et al., 1991</xref>). Of note, Kaz031 differs by two SNPs from <italic>Brucella</italic> vaccine strain A19 (assembly accession GCA_003290345). The two other subclade C2 strains from Kazakhstan clustered together with vaccine strain 104&#x2009;M. A total of 80 and 87 SNPs separated strains Kaz027 and Kaz025 from the vaccine strain <italic>B. abortus</italic> 104&#x2009;M (assembly accession GCA_001296965). The two strains are also separated by three up to 18 SNPs from assembly accessions GCA_000250835 (an entry incorrectly labeled as a derivative of <italic>B. melitensis</italic> type strain 16&#x2009;M, strain 16M13W), GCA_000292025 and GCA_000298635 (<xref rid="SM3" ref-type="supplementary-material">Supplementary Figure S3</xref>).</p>
+      </sec>
+      <sec id="sec13">
+        <label>3.6.</label>
+        <title>Global view of <italic>Brucella abortus</italic> phylogeny based on currently available WGS datasets</title>
+        <p>A total of 1,169 <italic>B. abortus</italic> WGS datasets could be investigated including public datasets (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>) and the 85 datasets produced for this report. Two hundred and thirty-six datasets were kept after removal of duplicates, redundant datasets, poor datasets, and closely related strains contributing terminal branches shorter than 5 SNPs. <xref rid="fig5" ref-type="fig">Figure 5</xref> shows a global view of the phylogeny of <italic>B. abortus</italic> deduced from this dataset. The three clades, A, B, and C, were clearly resolved. Clades A and B showed a strong geographic association, clade A with East Africa, and clade B with West Africa. Clade C subclade C1 was predominantly associated with the eastern part of Eurasia, and subclade C2 with the western part of Eurasia as well as North and South America. Estimated divergence dates of the most ancestral nodes are shown. <xref rid="SM4" ref-type="supplementary-material">Supplementary Figure S4</xref> shows the same phylogeny with more detailed metadata information.</p>
+        <fig position="float" id="fig5">
+          <label>Figure 5</label>
+          <caption>
+            <p>Global <italic>B. abortus</italic> phylogeny. Maximum parsimony tree based on core genome SNPs. A total of 236 representative strains was used and 16,987 SNPs were called by mapping on genome accession GCA_000740155 (<italic>B. abortus</italic> strain Tulya). The size of the resulting tree is 17,178 SNPs (homoplasia 1.12%). Nodes are colored according to geographic origin as indicated. The blue star indicates the root of the phylogeny (branching point toward the <italic>B. melitensis</italic> type strain 16&#x2009;M). The largest branch lengths and the scale are shown. Representative estimated divergence dates are indicated (CE, common era; BCE, before common era).</p>
+          </caption>
+          <graphic xlink:href="fmicb-14-1106994-g005" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec14">
+        <label>3.7.</label>
+        <title>Tentative dating of <italic>Brucella abortus</italic> introduction events in Kazakhstan</title>
+        <p>As a preliminary attempt to date these introduction events, we applied BEAST to the previous selection of 236 <italic>B. abortus</italic> and to 193 <italic>B. melitensis</italic> strains (<xref rid="SM6" ref-type="supplementary-material">Supplementary Table S2</xref>). <italic>B. melitensis</italic> and <italic>B. abortus</italic> are closest relatives within genus <italic>Brucella</italic>. They share the same mutation inactivating the Entner&#x2013;Doudoroff pathway (EDP) for hexose catabolism, suggesting that their most recent common ancestor was already an obligate animal pathogen (<xref rid="ref33" ref-type="bibr">Machelart et al., 2020</xref>). The inclusion of <italic>B. melitensis</italic> allowed to take advantage of the WGS sequence data recovered from a well-dated Medieval sample (Sardinia, <italic>circa</italic> year 1,375&#x2009;CE), thus providing a key time point (<xref rid="ref28" ref-type="bibr">Kay et al., 2014</xref>). SNPs were called by mapping on genome accession GCA_000740155 from <italic>B. abortus</italic> strain Tulya (23,086 SNPs were identified). Representative dating estimates are included in <xref rid="fig3" ref-type="fig">Figures 3</xref>&#x2013;<xref rid="fig5" ref-type="fig">5</xref>. The analysis suggested that currently circulating <italic>B. abortus</italic> strains in Kazakhstan originated from imports in the 19<sup>th</sup> and 20<sup>th</sup> century. The split toward the European sublineage in branch D would have occurred in year 1759&#x2013;1842. The Italian and Kazakhstan strains constituting branch A would share a most recent common ancestor <italic>circa</italic> year 1,641&#x2013;1762. The estimated molecular evolution rate is 0.3 SNP per year per genome (95% HPD&#x2014;highest probability density&#x2014;range 0.24&#x2013;0.45). A higher evolution rate of 0.46 SNP per year per genome (95% HPD range 0.30&#x2013;0.74) was previously proposed (<xref rid="ref27" ref-type="bibr">Kamath et al., 2016</xref>). The main differences in the two investigations were the collection of strains used (both <italic>B. abortus</italic> and <italic>B. melitensis</italic> in the present investigation versus North American <italic>B. abortus</italic> clade C2 only in Kamath et al.) and the inclusion in the present investigation of the Medieval sample.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussions" id="sec15">
+      <label>4.</label>
+      <title>Discussion</title>
+      <p>Brucellosis in cattle remains a major problem for cattle breeders in Kazakhstan. Genetic monitoring of genotypic dynamics is not included in the infection control strategy at the state level, but is implemented in the country through scientific grants and is mainly based on MLVA technology. This is the first study to describe the genetic diversity of <italic>B. abortus</italic> isolated between 1947 and 2015 in the territory of Kazakhstan using genome-wide sequence data that confirmed the presence of the two major subclades C1 and C2. Clades A and B were absent, in agreement with the previously published MLVA clustering analysis (<xref rid="ref56" ref-type="bibr">Shevtsova et al., 2016</xref>; <xref rid="ref12" ref-type="bibr">Daugaliyeva et al., 2018</xref>) and well established very strong geographic association of clades A and B with East and West Africa, respectively, (<xref rid="ref70" ref-type="bibr">Whatmore et al., 2016</xref>; <xref rid="ref66" ref-type="bibr">Vergnaud et al., 2018</xref>).</p>
+      <p>In this study, in five among the 10 MLVA16 genotypes represented by at least two strains, unrelated wgSNP genotypes were observed. The high percentage of homoplasia in the VNTR analysis is primarily due to the targeted selection of strains with identical MLVA16 from outbreaks which are unrelated by epidemiological data, and to the high level of homoplasia associated with the most variable VNTR loci. Four out of five cases of MLVA16 homoplasia involved combinations of the &#x201C;historical&#x201D; and currently circulating strains. Therefore, MLVA16 homoplasia seems higher in strains collected over an extended period of time. Eight wgSNP clusters were identical in MLVA16 or differed only in one or two hypervariable loci (Bruce07 or Bruce09), generally supporting the MLVA clustering. Previous studies of <italic>B. abortus</italic> strains using whole-genome SNP analysis and MLVA demonstrated similar results in outbreak differentiation and detection of imported strains, with a conclusion of a need to use genome-wide SNPs for reliable phylogenetic inference (<xref rid="ref20" ref-type="bibr">Garofolo et al., 2017</xref>; <xref rid="ref3" ref-type="bibr">Allen et al., 2020</xref>; <xref rid="ref63" ref-type="bibr">Su&#xE1;rez-Esquivel et al., 2020</xref>; <xref rid="ref23" ref-type="bibr">Holzer et al., 2021</xref>). Comparable strain clustering for MLVA11 and wgSNP allows MLVA in combination with epidemiological data to be considered as a first choice of methods to select strains for WGS in highly endemic regions, but only WGS analyzes will provide sufficiently precise phylogenetic information and might progressively become the first choice methods if global sequencing costs keep decreasing.</p>
+      <p>The identification of very closely related wgSNP genotypes in different regions with a difference of isolation by several years indicates a long-term circulation of <italic>B. abortus</italic> genotypes in Kazakhstan. Also, identification of the same wgSNP genotype cluster in unrelated outbreaks in the same region, such as Kostanay, indicates circulation of infected animals between farms. Thus, uncontrolled cattle trade and movement, as well as keeping animals from different farms on the same pastures, is postulated to be among main factors in the spread of the cattle brucellosis infection in Kazakhstan (<xref rid="ref65" ref-type="bibr">Syzdykov et al., 2014</xref>; <xref rid="ref11" ref-type="bibr">Charypkhan et al., 2019</xref>).</p>
+      <p>The Bayesian phylodynamic approach suggested that <italic>B. abortus</italic> lineages currently circulating in Kazakhstan were introduced in the 19th-20th centuries from Europe, mainly from Russia (North Caucasia). It may be interesting to note that evolution of subclades C1 and C2 showed similarities in this respect. The import of clade C2 into the United States was dated to the end of the 17<sup>th</sup> century (<xref rid="ref27" ref-type="bibr">Kamath et al., 2016</xref>), with closest neighbor lineages corresponding to strains isolated in Western Europe.</p>
+      <p>The introduction of <italic>B. abortus</italic> clade C1 in Kazakhstan might have happened during periods of human migration and because of the importation of numerous livestock for breeding with native breeds of cattle. Migration processes to Kazakhstan from the territory of the Russian Empire, and later the USSR, began with the accession of the northern territories of Kazakhstan in the Russian Empire in the 1730s and continued until the 1970s (<xref rid="ref44" ref-type="bibr">Qazaqstan_tarihy, 2018</xref>; <xref rid="ref43" ref-type="bibr">Presidential_Library_RF, 2022</xref>). The imperial period was characterized by mass migration of peasants, whose migration had an impact on the livestock breeding system of the nomadic people. Migrations had a wave-like character and were associated with the abolition of serfdom and the resettlement of free peasants from the European part of Russia since 1861. In 1889 the law on resettlement provided land plots and loans to peasant settlers. Crop failure and famine in European Russia and the Stolypin reforms of 1906&#x2013;1911 further stimulated these migrations (<xref rid="ref47" ref-type="bibr">Rather and Abdullah, 2018</xref>). In 1897 Russians made up 12 percent of the total population of Kazakhstan, i.e., 600,000 inhabitants. From the end of the 19th century to 1916, about 1,400,000 European Russians arrived in the Kazakh steppes, making up 40% of the population of the steppe regions of Kazakhstan (<xref rid="ref5" ref-type="bibr">Bell-Fialloff, 2016</xref>). There are no exact data on imported livestock for that period, however, there are some data indicating that people moved with their livestock, and original Kalmyk-cattle-breeds appeared in Kazakhstan along with immigrants from Voronezh, Stavropol, Astrakhan, and other provinces of southern Russia (<xref rid="ref6" ref-type="bibr">Belmont, 1960</xref>). During this period, many Kazakhs were forced to rebuild their traditional way of life with the transition to agriculture and a semi-nomadic lifestyle due to the seizure of land in favor of settlers for farming and taking rangelands to graze Russian riches&#x2019; cattle (<xref rid="ref48" ref-type="bibr">Sailaukyzy et al., 2018</xref>). In the structure of Kazakhs herds, the number of cattle had increased because of greater demand for cattle meat. At the end of the 19th and the beginning of the 20th century, selective transformation of aboriginal cattle began, for which a massive import of cattle from various regions of Russia was carried out. For example, to create the Alatau breed from 1904 to 1940, Swiss and Kostroma cattle were brought to Kazakhstan and Kyrgyzstan from the Smolensk, Sumy and Kostroma regions (<xref rid="ref59" ref-type="bibr">Soldatov, 2001</xref>). The Aulieatinskaya cattle breed has been developed since 1885 by crossing the Dutch Black Pied breed with aboriginal cattle and subsequent improvement in the 1930s of the 20th century by East Friesian bulls (<xref rid="ref14" ref-type="bibr">Dmitriev and Ernst, 1989</xref>). All these processes might have constituted opportunities for a wide distribution of European strains of <italic>B. abortus</italic> in Kazakhstan, but it is important to note that essentially subclade C1 strains contaminate Kazakhstan whereas Western Europe is associated with subclade C2. Subclade C1 is common in North Caucasus (<xref rid="ref31" ref-type="bibr">Kovalev et al., 2021</xref>). At the same time, the disastrous large-scale collectivization carried out in 1929&#x2013;1933 resulted in a four-fold reduction in the local cattle population (<xref rid="ref73" ref-type="bibr">Zhumasultanova, 2021</xref>), which could lead to a reduction in the historically circulating strains of <italic>B. abortus</italic>. The observed reduction in the genetic diversity of <italic>B. abortus</italic> strains in Kazakhstan in the 21st century is possibly associated with the successful implementation of epidemic-control activities similar to methods implemented in the 1970&#x2013;1980s. During 4&#x2009;years, from 1981 to 1985, the incidence of brucellosis in cattle decreased from 3.5 to 2.2% and a reduction in the most affected areas was as high as 30% (<xref rid="ref54" ref-type="bibr">Shablov et al., 1988</xref>). Another factor for consideration is a two-fold reduction in the cattle population from 1991 to 2000.</p>
+      <p>The isolation of two <italic>B. abortus</italic> subclade C2 strains Kaz025 and Kaz027 genetically closest to the <italic>B. abortus</italic> 104&#x2009;M vaccine strain is intriguing. We could not find records of the use of this vaccine in Kazakhstan. The <italic>B. abortus</italic> 104&#x2009;M strain was first isolated from an aborted fetus of cattle in the central European Russia in 1929, selected and proposed as a vaccine strain for human vaccination by Kh. S. Kotlyarova in 1950 (<xref rid="ref30" ref-type="bibr">Kotlyarova, 1950</xref>; <xref rid="ref57" ref-type="bibr">Shumilov et al., 1983</xref>). Despite proven immunogenicity, strain 104&#x2009;M did not find wide application in the USSR and was used in experimental vaccination of cattle and in limited production trials on small cattle. In this connection, the probability of importation of a vaccinated animal is low. We are more inclined toward the introduction of genetically close pathogenic strains. Expanding the results of genome-wide data on <italic>B. abortus</italic> strains isolated in the central European Russia will improve understanding of the origin of strains Kaz025 and Kaz027.</p>
+    </sec>
+    <sec id="sec16">
+      <label>5.</label>
+      <title>Concluding remarks</title>
+      <p>The new data of various origins contributed in this report strengthen the strong association of clades A and B with East and West Africa, respectively. The topology of the observed phylogeny combined with human history is pointing to East Africa as current most parsimonious scenario for the origin of <italic>B. abortus</italic>. The WGS data analysis of <italic>B. abortus</italic> strains from Kazakhstan shows that currently circulating lineages were introduced only recently in Kazakhstan, most of them during the 19<sup>th</sup> or 20<sup>th</sup> century. The closest currently known lineages are present in Caucasia, in agreement with the history of recent population migrations. This recent introduction is reminiscent of the situation described in Costa Rica, in which WGS data analysis allowed to identify five independent introductions responsible for the current population structure of <italic>B. abortus</italic> in Costa Rica (<xref rid="ref63" ref-type="bibr">Su&#xE1;rez-Esquivel et al., 2020</xref>). Costa Rica was contaminated by <italic>B. abortus</italic> subclade C2 strains, imported from neighboring countries, whereas Kazakhstan was contaminated essentially by subclade C1 strains. This reflects the progressive spread of <italic>Brucella</italic> worldwide.</p>
+    </sec>
+    <sec sec-type="data-availability" id="sec17">
+      <title>Data availability statement</title>
+      <p>The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found below: Bioproject PRJNA892249 and PRJNA901374.</p>
+    </sec>
+    <sec id="sec18">
+      <title>Author contributions</title>
+      <p>GV editing of the original manuscript. GV, AC, and AShe conceptualization, designed the experiments, and analyzed the data. AShe and AC wrote the first draft of the manuscript. KB, MZ, ES, AShu, AA, DK, and YR genotyping and wrote sections of the manuscript. TK bacteriological researches and wrote sections of the manuscript. All authors contributed to the article and approved the submitted version.</p>
+    </sec>
+    <sec sec-type="funding-information" id="sec19">
+      <title>Funding</title>
+      <p>This study was supported by the Ministry of Education and Science of the Republic of Kazakhstan (grant no. AP08052352) and by the french &#xAB;Agence Nationale de la Recherche&#xBB; grant ASTRID430 Maturation ANR-14-ASMA-0002-02.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="sec100">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn0005">
+        <p><sup>1</sup><ext-link xlink:href="https://pubmlst.org/organisms/brucella-spp/" ext-link-type="uri">https://pubmlst.org/organisms/brucella-spp/</ext-link> (Accessed January 24, 2023).</p>
+      </fn>
+      <fn id="fn0006">
+        <p>
+<sup>2</sup>
+<ext-link xlink:href="https://microbesgenotyping.i2bc.paris-saclay.fr/" ext-link-type="uri">https://microbesgenotyping.i2bc.paris-saclay.fr/</ext-link>
+</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="supplementary-material" id="sec21">
+      <title>Supplementary material</title>
+      <p>The Supplementary material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fmicb.2023.1106994/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fmicb.2023.1106994/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <media xlink:href="Image_1.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM2" position="float" content-type="local-data">
+        <media xlink:href="Image_2.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM3" position="float" content-type="local-data">
+        <media xlink:href="Image_3.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM4" position="float" content-type="local-data">
+        <media xlink:href="Image_4.TIFF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM5" position="float" content-type="local-data">
+        <media xlink:href="Table_1.XLSX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM6" position="float" content-type="local-data">
+        <media xlink:href="Table_2.XLSX">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref1">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdel-Glil</surname><given-names>M. Y.</given-names></name><name><surname>Thomas</surname><given-names>P.</given-names></name><name><surname>Brandt</surname><given-names>C.</given-names></name><name><surname>Melzer</surname><given-names>F.</given-names></name><name><surname>Subbaiyan</surname><given-names>A.</given-names></name><name><surname>Chaudhuri</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>Core genome multilocus sequence typing scheme for improved characterization and epidemiological surveillance of pathogenic <italic>Brucella</italic></article-title>. <source>J. Clin. Microbiol.</source>
+<volume>60</volume>:<fpage>e0031122</fpage>. doi: <pub-id pub-id-type="doi">10.1128/jcm.00311-22</pub-id>, PMID: <pub-id pub-id-type="pmid">35852343</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al Dahouk</surname><given-names>S.</given-names></name><name><surname>Kohler</surname><given-names>S.</given-names></name><name><surname>Occhialini</surname><given-names>A.</given-names></name><name><surname>Jimenez de Bagues</surname><given-names>M. P.</given-names></name><name><surname>Hammerl</surname><given-names>J. A.</given-names></name><name><surname>Eisenberg</surname><given-names>T.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title><italic>Brucella</italic> spp. of amphibians comprise genomically diverse motile strains competent for replication in macrophages and survival in mammalian hosts</article-title>. <source>Sci. Rep.</source>
+<volume>7</volume>:<fpage>44420</fpage>. doi: <pub-id pub-id-type="doi">10.1038/srep44420</pub-id>, PMID: <pub-id pub-id-type="pmid">28300153</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Allen</surname><given-names>A. R.</given-names></name><name><surname>Milne</surname><given-names>G.</given-names></name><name><surname>Drees</surname><given-names>K.</given-names></name><name><surname>Presho</surname><given-names>E.</given-names></name><name><surname>Graham</surname><given-names>J.</given-names></name><name><surname>McAdam</surname><given-names>P.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Genomic epizootiology of a <italic>Brucella abortus</italic> outbreak in Northern Ireland (1997-2012)</article-title>. <source>Infect. Genet. Evol.</source>
+<volume>81</volume>:<fpage>104235</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2020.104235</pub-id>, PMID: <pub-id pub-id-type="pmid">32035245</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bankevich</surname><given-names>A.</given-names></name><name><surname>Nurk</surname><given-names>S.</given-names></name><name><surname>Antipov</surname><given-names>D.</given-names></name><name><surname>Gurevich</surname><given-names>A. A.</given-names></name><name><surname>Dvorkin</surname><given-names>M.</given-names></name><name><surname>Kulikov</surname><given-names>A. S.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing</article-title>. <source>J. Comput. Biol.</source>
+<volume>19</volume>, <fpage>455</fpage>&#x2013;<lpage>477</lpage>. doi: <pub-id pub-id-type="doi">10.1089/cmb.2012.0021</pub-id>, PMID: <pub-id pub-id-type="pmid">22506599</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bell-Fialloff</surname><given-names>A.</given-names></name></person-group> (<year>2016</year>). <source>The Role of Migration in the History of the Eurasian Steppe: Sedentary Civilization vs.'Barbarian'and Nomad</source>
+<publisher-loc>Houndmills, Basingstoke, Hampshire and London</publisher-loc>: <publisher-name>MacMillan Press LTD</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Belmont</surname><given-names>V.</given-names></name></person-group> (<year>1960</year>). <source>Breeds of Farm Animals Bred in Kazakhstan. [Porody Selskohozyajstvennyh Zhivotnyh, Vyvedennye v Kazahstane]</source>. <publisher-loc>Alma-Ata</publisher-loc>: <publisher-name>Kazakh state publishing house Alma-Ata</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blouin</surname><given-names>Y.</given-names></name><name><surname>Hauck</surname><given-names>Y.</given-names></name><name><surname>Soler</surname><given-names>C.</given-names></name><name><surname>Fabre</surname><given-names>M.</given-names></name><name><surname>Vong</surname><given-names>R.</given-names></name><name><surname>Dehan</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Significance of the identification in the horn of Africa of an exceptionally deep branching <italic>mycobacterium tuberculosis</italic> clade</article-title>. <source>PLoS One</source>
+<volume>7</volume>:<fpage>e52841</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0052841</pub-id>, PMID: <comment>PONE-D-12-22563 [pii]</comment><pub-id pub-id-type="pmid">23300794</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buddle</surname><given-names>M. B.</given-names></name></person-group> (<year>1956</year>). <article-title>Studies on <italic>Brucella ovis</italic> (n.sp.), a cause of genital disease of sheep in New Zealand and Australia</article-title>. <source>J. Hyg. (Lond)</source>
+<volume>54</volume>, <fpage>351</fpage>&#x2013;<lpage>364</lpage>. doi: <pub-id pub-id-type="doi">10.1017/s0022172400044612</pub-id>, PMID: <pub-id pub-id-type="pmid">13367402</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carmichael</surname><given-names>L. E.</given-names></name><name><surname>Bruner</surname><given-names>D. W.</given-names></name></person-group> (<year>1968</year>). <article-title>Characteristics of a newly-recognized species of <italic>Brucella</italic> responsible for infectious canine abortions</article-title>. <source>Cornell Vet.</source>
+<volume>48</volume>, <fpage>579</fpage>&#x2013;<lpage>592</lpage>. PMID: <pub-id pub-id-type="pmid">5693645</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charypkhan</surname><given-names>D.</given-names></name><name><surname>Ruegg</surname><given-names>S. R.</given-names></name></person-group> (<year>2022</year>). <article-title>One health evaluation of brucellosis control in Kazakhstan</article-title>. <source>PLoS One</source>
+<volume>17</volume>:<fpage>e0277118</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0277118</pub-id>, PMID: <pub-id pub-id-type="pmid">36322602</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charypkhan</surname><given-names>D.</given-names></name><name><surname>Sultanov</surname><given-names>A. A.</given-names></name><name><surname>Ivanov</surname><given-names>N. P.</given-names></name><name><surname>Baramova</surname><given-names>S. A.</given-names></name><name><surname>Taitubayev</surname><given-names>M. K.</given-names></name><name><surname>Torgerson</surname><given-names>P. R.</given-names></name></person-group> (<year>2019</year>). <article-title>Economic and health burden of brucellosis in Kazakhstan</article-title>. <source>Zoonoses Public Health</source>
+<volume>66</volume>, <fpage>487</fpage>&#x2013;<lpage>494</lpage>. doi: <pub-id pub-id-type="doi">10.1111/zph.12582</pub-id>, PMID: <pub-id pub-id-type="pmid">31090193</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Daugaliyeva</surname><given-names>A.</given-names></name><name><surname>Sultanov</surname><given-names>A.</given-names></name><name><surname>Usserbayev</surname><given-names>B.</given-names></name><name><surname>Baramova</surname><given-names>S.</given-names></name><name><surname>Modesto</surname><given-names>P.</given-names></name><name><surname>Adambayeva</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>Genotyping of <italic>Brucella melitensis</italic> and <italic>Brucella abortus</italic> strains in Kazakhstan using MLVA-15</article-title>. <source>Infect. Genet. Evol.</source>
+<volume>58</volume>, <fpage>135</fpage>&#x2013;<lpage>144</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2017.12.022</pub-id>, PMID: <pub-id pub-id-type="pmid">29278754</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dean</surname><given-names>A. S.</given-names></name><name><surname>Crump</surname><given-names>L.</given-names></name><name><surname>Greter</surname><given-names>H.</given-names></name><name><surname>Schelling</surname><given-names>E.</given-names></name><name><surname>Zinsstag</surname><given-names>J.</given-names></name></person-group> (<year>2012</year>). <article-title>Global burden of human brucellosis: a systematic review of disease frequency</article-title>. <source>PLoS Negl. Trop. Dis.</source>
+<volume>6</volume>:<fpage>e1865</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id>, PMID: <pub-id pub-id-type="pmid">23145195</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Dmitriev</surname><given-names>N.</given-names></name><name><surname>Ernst</surname><given-names>L.</given-names></name></person-group>
+<source>Animal Genetic Resources of the USSR; FAO and UNEP</source>: <publisher-loc>Rome, Italy</publisher-loc>: <publisher-name>Food and Agriculture Organization of the United Nations and United Nations Environment Programme</publisher-name>. (<year>1989</year>).</mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eisenberg</surname><given-names>T.</given-names></name><name><surname>Risse</surname><given-names>K.</given-names></name><name><surname>Schauerte</surname><given-names>N.</given-names></name><name><surname>Geiger</surname><given-names>C.</given-names></name><name><surname>Blom</surname><given-names>J.</given-names></name><name><surname>Scholz</surname><given-names>H. C.</given-names></name></person-group> (<year>2017</year>). <article-title>Isolation of a novel 'atypical' <italic>Brucella</italic> strain from a bluespotted ribbontail ray (<italic>Taeniura lymma</italic>)</article-title>. <source>Antonie Van Leeuwenhoek</source>
+<volume>110</volume>, <fpage>221</fpage>&#x2013;<lpage>234</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10482-016-0792-4</pub-id>, PMID: <pub-id pub-id-type="pmid">27785661</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eisenberg</surname><given-names>T.</given-names></name><name><surname>Schlez</surname><given-names>K.</given-names></name><name><surname>Fawzy</surname><given-names>A.</given-names></name><name><surname>V&#xF6;lker</surname><given-names>I.</given-names></name><name><surname>Hechinger</surname><given-names>S.</given-names></name><name><surname>Curic</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Expanding the host range: infection of a reptilian host (<italic>Furcifer pardalis</italic>) by an atypical <italic>Brucella</italic> strain</article-title>. <source>Antonie Van Leeuwenhoek</source>
+<volume>113</volume>, <fpage>1531</fpage>&#x2013;<lpage>1537</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10482-020-01448-9</pub-id>, PMID: <pub-id pub-id-type="pmid">32699967</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Foster</surname><given-names>G.</given-names></name><name><surname>Osterman</surname><given-names>B. R.</given-names></name><name><surname>Godfroid</surname><given-names>J.</given-names></name><name><surname>Jacques</surname><given-names>I.</given-names></name><name><surname>Cloeckaert</surname><given-names>A.</given-names></name></person-group> (<year>2007</year>). <article-title><italic>Brucella ceti</italic> sp. nov. and <italic>Brucella pinnipedialis</italic> sp. nov. for <italic>Brucella</italic> strains with cetaceans and seals as their preferred hosts</article-title>
+<volume>57</volume>, <fpage>2688</fpage>&#x2013;<lpage>2693</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.65269-0</pub-id>,</mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franc</surname><given-names>K. A.</given-names></name><name><surname>Krecek</surname><given-names>R. C.</given-names></name><name><surname>Hasler</surname><given-names>B. N.</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>A. M.</given-names></name></person-group> (<year>2018</year>). <article-title>Brucellosis remains a neglected disease in the developing world: a call for interdisciplinary action</article-title>. <source>BMC Public Health</source>
+<volume>18</volume>:<fpage>125</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12889-017-5016-y</pub-id>, PMID: <pub-id pub-id-type="pmid">29325516</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garcia-Yoldi</surname><given-names>D.</given-names></name><name><surname>Le Fleche</surname><given-names>P.</given-names></name><name><surname>Marin</surname><given-names>C. M.</given-names></name><name><surname>De Miguel</surname><given-names>M. J.</given-names></name><name><surname>Munoz</surname><given-names>P. M.</given-names></name><name><surname>Vergnaud</surname><given-names>G.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>Assessment of genetic stability of <italic>Brucella melitensis</italic> rev 1 vaccine strain by multiple-locus variable-number tandem repeat analysis</article-title>. <source>Vaccine</source>
+<volume>25</volume>, <fpage>2858</fpage>&#x2013;<lpage>2862</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2006.09.063</pub-id>, PMID: <pub-id pub-id-type="pmid">17050051</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garofolo</surname><given-names>G.</given-names></name><name><surname>Di Giannatale</surname><given-names>E.</given-names></name><name><surname>Platone</surname><given-names>I.</given-names></name><name><surname>Zilli</surname><given-names>K.</given-names></name><name><surname>Sacchini</surname><given-names>L.</given-names></name><name><surname>Abass</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Origins and global context of <italic>Brucella abortus</italic> in Italy</article-title>. <source>BMC Microbiol.</source>
+<volume>17</volume>:<fpage>28</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12866-017-0939-0</pub-id>, PMID: <pub-id pub-id-type="pmid">28152976</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfroid</surname><given-names>J.</given-names></name><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Barbier</surname><given-names>T.</given-names></name><name><surname>Nicolas</surname><given-names>C.</given-names></name><name><surname>Wattiau</surname><given-names>P.</given-names></name><name><surname>Fretin</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>Brucellosis at the animal/ecosystem/human interface at the beginning of the 21st century</article-title>. <source>Prev. Vet. Med.</source>
+<volume>102</volume>, <fpage>118</fpage>&#x2013;<lpage>131</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.prevetmed.2011.04.007</pub-id>, PMID: <pub-id pub-id-type="pmid">21571380</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hensel</surname><given-names>M. E.</given-names></name><name><surname>Negron</surname><given-names>M.</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>A. M.</given-names></name></person-group> (<year>2018</year>). <article-title>Brucellosis in dogs and public health risk</article-title>. <source>Emerg. Infect. Dis.</source>
+<volume>24</volume>, <fpage>1401</fpage>&#x2013;<lpage>1406</lpage>. doi: <pub-id pub-id-type="doi">10.3201/eid2408.171171</pub-id>, PMID: <pub-id pub-id-type="pmid">30014831</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holzer</surname><given-names>K.</given-names></name><name><surname>El-Diasty</surname><given-names>M.</given-names></name><name><surname>Wareth</surname><given-names>G.</given-names></name><name><surname>Abdel-Hamid</surname><given-names>N. H.</given-names></name><name><surname>Hamdy</surname><given-names>M. E. R.</given-names></name><name><surname>Moustafa</surname><given-names>S. A.</given-names></name><etal/></person-group>. (<year>2021</year>). <article-title>Tracking the distribution of <italic>Brucella abortus</italic> in Egypt based on Core genome SNP analysis and in silico MLVA-16</article-title>. <source>Microorganisms</source>
+<volume>9</volume>:<fpage>1942</fpage>. doi: <pub-id pub-id-type="doi">10.3390/microorganisms9091942</pub-id>, PMID: <pub-id pub-id-type="pmid">34576838</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hordt</surname><given-names>A.</given-names></name><name><surname>Lopez</surname><given-names>M. G.</given-names></name><name><surname>Meier-Kolthoff</surname><given-names>J. P.</given-names></name><name><surname>Schleuning</surname><given-names>M.</given-names></name><name><surname>Weinhold</surname><given-names>L. M.</given-names></name><name><surname>Tindall</surname><given-names>B. J.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Analysis of 1,000+type-strain genomes substantially improves taxonomic classification of Alphaproteobacteria</article-title>. <source>Front. Microbiol.</source>
+<volume>11</volume>:<fpage>468</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2020.00468</pub-id>, PMID: <pub-id pub-id-type="pmid">32373076</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Janowicz</surname><given-names>A.</given-names></name><name><surname>De Massis</surname><given-names>F.</given-names></name><name><surname>Ancora</surname><given-names>M.</given-names></name><name><surname>Camma</surname><given-names>C.</given-names></name><name><surname>Patavino</surname><given-names>C.</given-names></name><name><surname>Battisti</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>Core genome multilocus sequence typing and single nucleotide polymorphism analysis in the epidemiology of <italic>Brucella melitensis</italic> infections</article-title>. <source>J. Clin. Microbiol.</source>
+<volume>56</volume>, <fpage>e00517</fpage>&#x2013;<lpage>e00518</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.00517-18</pub-id>, PMID: <pub-id pub-id-type="pmid">29925641</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jolley</surname><given-names>K. A.</given-names></name><name><surname>Bray</surname><given-names>J. E.</given-names></name><name><surname>Maiden</surname><given-names>M. C. J.</given-names></name></person-group> (<year>2018</year>). <article-title>Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications</article-title>. <source>Wellcome Open Res</source>
+<volume>3</volume>:<fpage>124</fpage>. doi: <pub-id pub-id-type="doi">10.12688/wellcomeopenres.14826.1</pub-id>, PMID: <pub-id pub-id-type="pmid">30345391</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kamath</surname><given-names>P. L.</given-names></name><name><surname>Foster</surname><given-names>J. T.</given-names></name><name><surname>Drees</surname><given-names>K. P.</given-names></name><name><surname>Luikart</surname><given-names>G.</given-names></name><name><surname>Quance</surname><given-names>C.</given-names></name><name><surname>Anderson</surname><given-names>N. J.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Genomics reveals historic and contemporary transmission dynamics of a bacterial disease among wildlife and livestock</article-title>. <source>Nat. Commun.</source>
+<volume>7</volume>:<fpage>11448</fpage>. doi: <pub-id pub-id-type="doi">10.1038/ncomms11448</pub-id>, PMID: <pub-id pub-id-type="pmid">27165544</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kay</surname><given-names>G. L.</given-names></name><name><surname>Sergeant</surname><given-names>M. J.</given-names></name><name><surname>Giuffra</surname><given-names>V.</given-names></name><name><surname>Bandiera</surname><given-names>P.</given-names></name><name><surname>Milanese</surname><given-names>M.</given-names></name><name><surname>Bramanti</surname><given-names>B.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Recovery of a medieval <italic>Brucella melitensis</italic> genome using shotgun metagenomics</article-title>. <source>MBio</source>
+<volume>5</volume>, <fpage>e01337</fpage>&#x2013;<lpage>e01314</lpage>. doi: <pub-id pub-id-type="doi">10.1128/mBio.01337-14</pub-id>, PMID: <pub-id pub-id-type="pmid">25028426</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Keim</surname><given-names>P.</given-names></name><name><surname>Van Ert</surname><given-names>M. N.</given-names></name><name><surname>Pearson</surname><given-names>T.</given-names></name><name><surname>Vogler</surname><given-names>A. J.</given-names></name><name><surname>Huynh</surname><given-names>L. Y.</given-names></name><name><surname>Wagner</surname><given-names>D. M.</given-names></name></person-group> (<year>2004</year>). <article-title>Anthrax molecular epidemiology and forensics: using the appropriate marker for different evolutionary scales</article-title>. <source>Infect. Gene. Evol.</source>
+<volume>4</volume>, <fpage>205</fpage>&#x2013;<lpage>213</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2004.02.005</pub-id>, PMID: <pub-id pub-id-type="pmid">15450200</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kotlyarova</surname><given-names>H.</given-names></name></person-group> (<year>1950</year>). <article-title>Comparative data on vaccine strains of brucella bovine type in experiments on Guinea pigs [Sravnitelnye dannye o vakcinnyh shtammah brucell korovego tipa v opytah na morskih svinkah]</article-title>. <source>J. Microbiol. Epidemiol. Immunobiol.</source>
+<volume>6</volume>, <fpage>13</fpage>&#x2013;<lpage>19</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kovalev</surname><given-names>D. A.</given-names></name><name><surname>Ponomarenko</surname><given-names>D. G.</given-names></name><name><surname>Pisarenko</surname><given-names>S. V.</given-names></name><name><surname>Shapakov</surname><given-names>N. A.</given-names></name><name><surname>Khachaturova</surname><given-names>A. A.</given-names></name><name><surname>Serdyuk</surname><given-names>N. S.</given-names></name><etal/></person-group>. (<year>2021</year>). <article-title>Phylogeny of <italic>Brucella abortus</italic> strains isolated in the Russian Federation</article-title>. <source>Asian Pac. J. Trop. Med.</source>
+<volume>14</volume>, <fpage>323</fpage>&#x2013;<lpage>329</lpage>. doi: <pub-id pub-id-type="doi">10.4103/1995-7645.320523</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leclercq</surname><given-names>S. O.</given-names></name><name><surname>Cloeckaert</surname><given-names>A.</given-names></name><name><surname>Zygmunt</surname><given-names>M. S.</given-names></name></person-group> (<year>2020</year>). <article-title>Taxonomic Organization of the Family Brucellaceae Based on a Phylogenomic approach</article-title>. <source>Front. Microbiol.</source>
+<volume>10</volume>:<fpage>3083</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2019.03083</pub-id>, PMID: <pub-id pub-id-type="pmid">32082266</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Machelart</surname><given-names>A.</given-names></name><name><surname>Willemart</surname><given-names>K.</given-names></name><name><surname>Z&#xFA;&#xF1;iga-Ripa</surname><given-names>A.</given-names></name><name><surname>Godard</surname><given-names>T.</given-names></name><name><surname>Plovier</surname><given-names>H.</given-names></name><name><surname>Wittmann</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Convergent evolution of zoonotic <italic>Brucella</italic> species toward the selective use of the pentose phosphate pathway</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>117</volume>, <fpage>26374</fpage>&#x2013;<lpage>26381</lpage>. doi: <pub-id pub-id-type="doi">10.1073/pnas.2008939117</pub-id>, PMID: <pub-id pub-id-type="pmid">33020286</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maquart</surname><given-names>M.</given-names></name><name><surname>Le Fl&#xE8;che</surname><given-names>P.</given-names></name><name><surname>Foster</surname><given-names>G.</given-names></name><name><surname>Tryland</surname><given-names>M.</given-names></name><name><surname>Ramisse</surname><given-names>F.</given-names></name><name><surname>Djonne</surname><given-names>B.</given-names></name><etal/></person-group>. (<year>2009</year>). <article-title>MLVA-16 typing of 295 marine mammal <italic>Brucella</italic> isolates from different animal and geographic origins identifies 7 major groups within <italic>Brucella ceti</italic> and <italic>Brucella pinnipedialis</italic></article-title>. <source>BMC Microbiol.</source>
+<volume>9</volume>:<fpage>145</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1471-2180-9-145</pub-id>, PMID: <pub-id pub-id-type="pmid">19619320</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDermott</surname><given-names>J.</given-names></name><name><surname>Grace</surname><given-names>D.</given-names></name><name><surname>Zinsstag</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>Economics of brucellosis impact and control in low-income countries</article-title>. <source>Rev. Sci. Tech.</source>
+<volume>32</volume>, <fpage>249</fpage>&#x2013;<lpage>261</lpage>. doi: <pub-id pub-id-type="doi">10.20506/rst.32.1.2197</pub-id>, PMID: <pub-id pub-id-type="pmid">23837382</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moreno</surname><given-names>E.</given-names></name><name><surname>Cloeckaert</surname><given-names>A.</given-names></name><name><surname>Moriyon</surname><given-names>I.</given-names></name></person-group> (<year>2002</year>). <article-title><italic>Brucella</italic> evolution and taxonomy</article-title>. <source>Vet. Microbiol.</source>
+<volume>90</volume>, <fpage>209</fpage>&#x2013;<lpage>227</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s0378-1135(02)00210-9</pub-id><pub-id pub-id-type="pmid">12414145</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M&#xFC;hldorfer</surname><given-names>K.</given-names></name><name><surname>Wibbelt</surname><given-names>G.</given-names></name><name><surname>Szentiks</surname><given-names>C. A.</given-names></name><name><surname>Fischer</surname><given-names>D.</given-names></name><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Zsch&#xF6;ck</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>The role of 'atypical' <italic>Brucella</italic> in amphibians: are we facing novel emerging pathogens?</article-title>
+<source>J. Appl. Microbiol.</source>
+<volume>122</volume>, <fpage>40</fpage>&#x2013;<lpage>53</lpage>. doi: <pub-id pub-id-type="doi">10.1111/jam.13326</pub-id>, PMID: <pub-id pub-id-type="pmid">27740712</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nicoletti</surname><given-names>P.</given-names></name></person-group> (<year>2010</year>). <article-title>Brucellosis: past, present and future</article-title>. <source>Prilozi</source>
+<volume>31</volume>, <fpage>21</fpage>&#x2013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">20703181</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Occhialini</surname><given-names>A.</given-names></name><name><surname>Hofreuter</surname><given-names>D.</given-names></name><name><surname>Ufermann</surname><given-names>C. M.</given-names></name><name><surname>Al Dahouk</surname><given-names>S.</given-names></name><name><surname>Kohler</surname><given-names>S.</given-names></name></person-group> (<year>2022</year>). <article-title>The retrospective on atypical <italic>Brucella</italic> species leads to novel definitions</article-title>. <source>Microorganisms</source>
+<volume>10</volume>:<fpage>813</fpage>. doi: <pub-id pub-id-type="doi">10.3390/microorganisms10040813</pub-id>, PMID: <pub-id pub-id-type="pmid">35456863</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olsen</surname><given-names>S. C.</given-names></name><name><surname>Palmer</surname><given-names>M. V.</given-names></name></person-group> (<year>2014</year>). <article-title>Advancement of knowledge of <italic>Brucella</italic> over the past 50 years</article-title>. <source>Vet. Pathol.</source>
+<volume>51</volume>, <fpage>1076</fpage>&#x2013;<lpage>1089</lpage>. doi: <pub-id pub-id-type="doi">10.1177/0300985814540545</pub-id><pub-id pub-id-type="pmid">24981716</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pappas</surname><given-names>G.</given-names></name><name><surname>Papadimitriou</surname><given-names>P.</given-names></name><name><surname>Akritidis</surname><given-names>N.</given-names></name><name><surname>Christou</surname><given-names>L.</given-names></name><name><surname>Tsianos</surname><given-names>E. V.</given-names></name></person-group> (<year>2006</year>). <article-title>The new global map of human brucellosis</article-title>. <source>Lancet Infect. Dis.</source>
+<volume>6</volume>, <fpage>91</fpage>&#x2013;<lpage>99</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id>, PMID: <pub-id pub-id-type="pmid">16439329</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pelerito</surname><given-names>A.</given-names></name><name><surname>Nunes</surname><given-names>A.</given-names></name><name><surname>Grilo</surname><given-names>T.</given-names></name><name><surname>Isidro</surname><given-names>J.</given-names></name><name><surname>Silva</surname><given-names>C.</given-names></name><name><surname>Ferreira</surname><given-names>A. C.</given-names></name><etal/></person-group>. (<year>2021</year>). <article-title>Genetic characterization of <italic>Brucella</italic> spp.: whole genome sequencing-based approach for the determination of multiple locus variable number tandem repeat profiles</article-title>. <source>Front. Microbiol.</source>
+<volume>12</volume>:<fpage>740068</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2021.740068</pub-id>, PMID: <pub-id pub-id-type="pmid">34867857</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab id="coll1">Presidential_Library_RF</collab></person-group> (<year>2022</year>). <source>Incorporation of Kazakh khanate into Russia was launched [online]</source>. Available at: <ext-link xlink:href="https://www.prlib.ru/en/history/619652" ext-link-type="uri">https://www.prlib.ru/en/history/619652</ext-link> (Accessed).</mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><collab id="coll2">Qazaqstan_tarihy</collab></person-group> (<year>2018</year>). Beginning of accession of Kazakhstan to the Russian empire [online]. Available at: <ext-link xlink:href="https://e-history.kz/en/history-of-kazakhstan/show/9565" ext-link-type="uri">https://e-history.kz/en/history-of-kazakhstan/show/9565</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Rambaut</surname><given-names>A.</given-names></name></person-group> (<year>2018</year>). FigTree v1.4.4 [Online]. Available at: <ext-link xlink:href="https://github.com/rambaut/figtree" ext-link-type="uri">https://github.com/rambaut/figtree</ext-link> (Accessed February 02, 2023).</mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Rambaut</surname><given-names>A.</given-names></name><name><surname>Drummond</surname><given-names>A. J.</given-names></name><name><surname>Xie</surname><given-names>D.</given-names></name><name><surname>Baele</surname><given-names>G.</given-names></name><name><surname>Suchard</surname><given-names>M. A.</given-names></name></person-group> (<year>2018</year>). Tracer v1.7 [online]. Available at: <ext-link xlink:href="http://beast.community/tracer" ext-link-type="uri">http://beast.community/tracer</ext-link> (Accessed February 02, 2023).</mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rather</surname><given-names>Z.</given-names></name><name><surname>Abdullah</surname><given-names>D.</given-names></name></person-group> (<year>2018</year>). <article-title>Russian migration and structural change in Kazakh SSR with special reference to agricultural developments (1917-1991)</article-title>. <source>J. Central Asian Stud.</source>
+<volume>25</volume>, <fpage>25</fpage>&#x2013;<lpage>43</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sailaukyzy</surname><given-names>A.</given-names></name><name><surname>Shakuova</surname><given-names>R.</given-names></name><name><surname>Sak</surname><given-names>K.</given-names></name><name><surname>Lebedeva</surname><given-names>T.</given-names></name></person-group> (<year>2018</year>). <article-title>Contemporary view to the history of Kazakhstan's democratic journalism and publicism</article-title>. <source>Opci&#xF3;n</source>
+<volume>34</volume>, <fpage>774</fpage>&#x2013;<lpage>799</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Hubalek</surname><given-names>Z.</given-names></name><name><surname>Sedlacek</surname><given-names>I.</given-names></name><name><surname>Vergnaud</surname><given-names>G.</given-names></name><name><surname>Tomaso</surname><given-names>H.</given-names></name><name><surname>Al Dahouk</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title><italic>Brucella microti</italic> sp. nov., isolated from the common vole Microtus arvalis</article-title>. <source>Int. J. Syst. Evol. Microbiol.</source>
+<volume>58</volume>, <fpage>375</fpage>&#x2013;<lpage>382</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.65356-0</pub-id>, PMID: <pub-id pub-id-type="pmid">18218934</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Nockler</surname><given-names>K.</given-names></name><name><surname>Gollner</surname><given-names>C.</given-names></name><name><surname>Bahn</surname><given-names>P.</given-names></name><name><surname>Vergnaud</surname><given-names>G.</given-names></name><name><surname>Tomaso</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title><italic>Brucella inopinata</italic> sp. nov., isolated from a breast implant infection</article-title>. <source>Int. J. Syst. Evol. Microbiol.</source>
+<volume>60</volume>, <fpage>801</fpage>&#x2013;<lpage>808</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.011148-0</pub-id>, PMID: <pub-id pub-id-type="pmid">19661515</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Revilla-Fernandez</surname><given-names>S.</given-names></name><name><surname>Dahouk</surname><given-names>S. A.</given-names></name><name><surname>Hammerl</surname><given-names>J. A.</given-names></name><name><surname>Zygmunt</surname><given-names>M. S.</given-names></name><name><surname>Cloeckaert</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title><italic>Brucella vulpis</italic> sp. nov., isolated from mandibular lymph nodes of red foxes (<italic>Vulpes vulpes</italic>)</article-title>. <source>Int. J. Syst. Evol. Microbiol.</source>
+<volume>66</volume>, <fpage>2090</fpage>&#x2013;<lpage>2098</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijsem.0.000998</pub-id>, PMID: <pub-id pub-id-type="pmid">26928956</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>H. C.</given-names></name><name><surname>Vergnaud</surname><given-names>G.</given-names></name></person-group> (<year>2013</year>). <article-title>Molecular characterisation of <italic>Brucella</italic> species</article-title>. <source>Rev. Sci. Tech.</source>
+<volume>32</volume>, <fpage>149</fpage>&#x2013;<lpage>162</lpage>. doi: <pub-id pub-id-type="doi">10.20506/rst.32.1.2189</pub-id><pub-id pub-id-type="pmid">23837373</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schurig</surname><given-names>G. G.</given-names></name><name><surname>Roop</surname><given-names>R. M.</given-names><suffix>2nd</suffix></name><name><surname>Bagchi</surname><given-names>T.</given-names></name><name><surname>Boyle</surname><given-names>S.</given-names></name><name><surname>Buhrman</surname><given-names>D.</given-names></name><name><surname>Sriranganathan</surname><given-names>N.</given-names></name></person-group> (<year>1991</year>). <article-title>Biological properties of RB51; a stable rough strain of <italic>Brucella abortus</italic></article-title>. <source>Vet. Microbiol.</source>
+<volume>28</volume>, <fpage>171</fpage>&#x2013;<lpage>188</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0378-1135(91)90091-s</pub-id>, PMID: <pub-id pub-id-type="pmid">1908158</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Shablov</surname><given-names>V.</given-names></name><name><surname>Ivanov</surname><given-names>N.</given-names></name><name><surname>Zadorozhnyj</surname><given-names>I.</given-names></name></person-group> (<year>1988</year>). &#x201C;<article-title>Features of the regional epizootology of brucellosis and their impact on the course and spread of infection [Osobennosti kraevoj epizootologii brucelleza i ih vliyanie na techenie i rasprostranenie infekcii]</article-title>&#x201D; in <source>Improving Measures to Combat Brucellosis and Tuberculosis in Farm Animals [Sovershenstvovanie mer borby s Brucellezom i Tuberkulezom Selskohozyajstvennyh Zhivotnyh]</source>. ed. <person-group person-group-type="editor"><name><surname>Kozhebekov</surname><given-names>Z. K.</given-names></name></person-group> (<publisher-loc>Alma-Ata</publisher-loc>: <publisher-name>Eastern Branch of VASKhNIL, Kazakh Research Veterinary Institute</publisher-name>).</mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shevtsov</surname><given-names>A.</given-names></name><name><surname>Ramanculov</surname><given-names>E.</given-names></name><name><surname>Shevtsova</surname><given-names>E.</given-names></name><name><surname>Kairzhanova</surname><given-names>A.</given-names></name><name><surname>Tarlykov</surname><given-names>P.</given-names></name><name><surname>Filipenko</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Genetic diversity of <italic>Brucella abortus</italic> and <italic>Brucella melitensis</italic> in Kazakhstan using MLVA-16</article-title>. <source>Infect. Genet. Evol.</source>
+<volume>34</volume>, <fpage>173</fpage>&#x2013;<lpage>180</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2015.07.008</pub-id>, PMID: <pub-id pub-id-type="pmid">26160544</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shevtsova</surname><given-names>E.</given-names></name><name><surname>Shevtsov</surname><given-names>A.</given-names></name><name><surname>Mukanov</surname><given-names>K.</given-names></name><name><surname>Filipenko</surname><given-names>M.</given-names></name><name><surname>Kamalova</surname><given-names>D.</given-names></name><name><surname>Sytnik</surname><given-names>I.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Epidemiology of brucellosis and genetic diversity of <italic>Brucella abortus</italic> in Kazakhstan</article-title>. <source>PLoS One</source>
+<volume>11</volume>:<fpage>e0167496</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0167496</pub-id>, PMID: <pub-id pub-id-type="pmid">27907105</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shumilov</surname><given-names>K.</given-names></name><name><surname>Albertyan</surname><given-names>M.</given-names></name><name><surname>Klochkov</surname><given-names>A.</given-names></name><name><surname>Romahov</surname><given-names>V.</given-names></name></person-group> (<year>1983</year>). <article-title>Immunization of heifers with a low dose of vaccine from the strain <italic>B. abortus</italic> 104-M [Immunizaciya telok maloj dozoj vakciny iz shtama Br.Abortus 104-M]</article-title>. <source>Trudi VIEV</source>
+<volume>51</volume>, <fpage>71</fpage>&#x2013;<lpage>74</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sidamonidze</surname><given-names>K.</given-names></name><name><surname>Hang</surname><given-names>J.</given-names></name><name><surname>Yang</surname><given-names>Y.</given-names></name><name><surname>Dzavashvili</surname><given-names>G.</given-names></name><name><surname>Zhgenti</surname><given-names>E.</given-names></name><name><surname>Trapaidze</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Genome sequences of human and livestock isolates of <italic>Brucella melitensis</italic> and <italic>Brucella abortus</italic> from the country of Georgia</article-title>. <source>Genome Announc.</source>
+<volume>5</volume>, <fpage>e01518</fpage>&#x2013;<lpage>e01516</lpage>. doi: <pub-id pub-id-type="doi">10.1128/genomeA.01518-16</pub-id>, PMID: <pub-id pub-id-type="pmid">28183751</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Soldatov</surname><given-names>A.</given-names></name></person-group> (<year>2001</year>). &#x201C;<article-title>Complete catalog of breeds of farm animals in Russia</article-title>&#x201D; in <source>Pets [Polnyj katalog Porod Selskohozyajstvennyh Zhivotnyh Rossii. Domashnie Zhivotnye]</source> (<publisher-loc>Moscow</publisher-loc>: <publisher-name>Eksmo-Press, Lik-Press</publisher-name>)</mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soler-Llorens</surname><given-names>P. F.</given-names></name><name><surname>Quance</surname><given-names>C. R.</given-names></name><name><surname>Lawhon</surname><given-names>S. D.</given-names></name><name><surname>Stuber</surname><given-names>T. P.</given-names></name><name><surname>Edwards</surname><given-names>J. F.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>A <italic>Brucella</italic> spp. isolate from a Pac-man frog (<italic>Ceratophrys ornata</italic>) reveals characteristics departing from classical Brucellae</article-title>. <source>Front. Cell. Infect. Microbiol.</source>
+<volume>6</volume>:<fpage>116</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2016.00116</pub-id>, PMID: <pub-id pub-id-type="pmid">27734009</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Souvorov</surname><given-names>A.</given-names></name><name><surname>Agarwala</surname><given-names>R.</given-names></name><name><surname>Lipman</surname><given-names>D. J.</given-names></name></person-group> (<year>2018</year>). <article-title>SKESA: strategic k-mer extension for scrupulous assemblies</article-title>. <source>Genome Biol.</source>
+<volume>19</volume>:<fpage>153</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13059-018-1540-z</pub-id>, PMID: <pub-id pub-id-type="pmid">30286803</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stoenner</surname><given-names>H. G.</given-names></name><name><surname>Lackman</surname><given-names>D. B.</given-names></name></person-group> (<year>1957</year>). <article-title>A new species of <italic>Brucella</italic> isolated from the desert wood rat, <italic>Neotoma lepida</italic> Thomas</article-title>. <source>Am. J. Vet. Res.</source>
+<volume>18</volume>, <fpage>947</fpage>&#x2013;<lpage>951</lpage>. PMID: <pub-id pub-id-type="pmid">13470254</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Su&#xE1;rez-Esquivel</surname><given-names>M.</given-names></name><name><surname>Hern&#xE1;ndez-Mora</surname><given-names>G.</given-names></name><name><surname>Ruiz-Villalobos</surname><given-names>N.</given-names></name><name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name><name><surname>Chac&#xF3;n-D&#xED;az</surname><given-names>C.</given-names></name><name><surname>Ladner</surname><given-names>J. T.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Persistence of <italic>Brucella abortus</italic> lineages revealed by genomic characterization and phylodynamic analysis</article-title>. <source>PLoS Negl. Trop. Dis.</source>
+<volume>14</volume>:<fpage>e0008235</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0008235</pub-id>, PMID: <pub-id pub-id-type="pmid">32287327</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Suchard</surname><given-names>M. A.</given-names></name><name><surname>Lemey</surname><given-names>P.</given-names></name><name><surname>Baele</surname><given-names>G.</given-names></name><name><surname>Ayres</surname><given-names>D. L.</given-names></name><name><surname>Drummond</surname><given-names>A. J.</given-names></name><name><surname>Rambaut</surname><given-names>A.</given-names></name></person-group> (<year>2018</year>). <article-title>Bayesian phylogenetic and phylodynamic data integration using BEAST 1.10</article-title>. <source>Virus Evol.</source>
+<volume>4</volume>:<fpage>vey016</fpage>. doi: <pub-id pub-id-type="doi">10.1093/ve/vey016</pub-id>, PMID: <pub-id pub-id-type="pmid">29942656</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Syzdykov</surname><given-names>M.</given-names></name><name><surname>Kuznetsov</surname><given-names>A.</given-names></name><name><surname>Kazakov</surname><given-names>S.</given-names></name><name><surname>Daulbayeva</surname><given-names>S.</given-names></name><name><surname>Duysenova</surname><given-names>A.</given-names></name><name><surname>Berezovskiy</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Analiz prostranstvenno-vremennogo raspredeleniya brutselloza cheloveka i zhivotnykh s ispol'zovaniyem Geograficheskikh informatsionnykh tekhnologiy&#x2014;[analysis of the spatial and temporal distribution of human and animal brucellosis using geographic information technology]</article-title>. <source>Gig., Epidemiol. immunobiol. -[Hyg. Epidemiol. Immunbiol.]</source>
+<volume>72</volume>, <fpage>24</fpage>&#x2013;<lpage>26</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vergnaud</surname><given-names>G.</given-names></name><name><surname>Hauck</surname><given-names>Y.</given-names></name><name><surname>Christiany</surname><given-names>D.</given-names></name><name><surname>Daoud</surname><given-names>B.</given-names></name><name><surname>Pourcel</surname><given-names>C.</given-names></name><name><surname>Jacques</surname><given-names>I.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>Genotypic expansion within the population structure of classical <italic>Brucella</italic> species revealed by MLVA16 typing of 1404 <italic>Brucella</italic> isolates from different animal and geographic origins, 1974-2006</article-title>. <source>Front. Microbiol.</source>
+<volume>9</volume>:<fpage>1545</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2018.01545</pub-id>, PMID: <pub-id pub-id-type="pmid">30050522</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>X. H.</given-names></name><name><surname>Jiang</surname><given-names>H.</given-names></name></person-group> (<year>2020</year>). <article-title>Global prevalence of human brucellosis</article-title>. <source>Zhonghua Liu Xing Bing Xue Za Zhi</source>
+<volume>41</volume>, <fpage>1717</fpage>&#x2013;<lpage>1722</lpage>. doi: <pub-id pub-id-type="doi">10.3760/cma.j.cn112338-20191022-00751</pub-id><pub-id pub-id-type="pmid">33297632</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whatmore</surname><given-names>A. M.</given-names></name><name><surname>Davison</surname><given-names>N.</given-names></name><name><surname>Cloeckaert</surname><given-names>A.</given-names></name><name><surname>Al Dahouk</surname><given-names>S.</given-names></name><name><surname>Zygmunt</surname><given-names>M. S.</given-names></name><name><surname>Brew</surname><given-names>S. D.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title><italic>Brucella papionis</italic> sp. nov., isolated from baboons (<italic>Papio</italic> spp.)</article-title>. <source>Int. J. Syst. Evol. Microbiol.</source>
+<volume>64</volume>, <fpage>4120</fpage>&#x2013;<lpage>4128</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.065482-0</pub-id>, PMID: <pub-id pub-id-type="pmid">25242540</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whatmore</surname><given-names>A. M.</given-names></name><name><surname>Foster</surname><given-names>J. T.</given-names></name></person-group> (<year>2021</year>). <article-title>Emerging diversity and ongoing expansion of the genus <italic>Brucella</italic></article-title>. <source>Infect. Genet. Evol.</source>
+<volume>92</volume>:<fpage>104865</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2021.104865</pub-id>, PMID: <pub-id pub-id-type="pmid">33872784</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whatmore</surname><given-names>A. M.</given-names></name><name><surname>Koylass</surname><given-names>M. S.</given-names></name><name><surname>Muchowski</surname><given-names>J.</given-names></name><name><surname>Edwards-Smallbone</surname><given-names>J.</given-names></name><name><surname>Gopaul</surname><given-names>K. K.</given-names></name><name><surname>Perrett</surname><given-names>L. L.</given-names></name></person-group> (<year>2016</year>). <article-title>Extended multilocus sequence analysis to describe the global population structure of the genus <italic>Brucella</italic>: Phylogeography and relationship to Biovars</article-title>. <source>Front. Microbiol.</source>
+<volume>7</volume>:<fpage>2049</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2016.02049</pub-id>, PMID: <pub-id pub-id-type="pmid">28066370</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whatmore</surname><given-names>A. M.</given-names></name><name><surname>Perrett</surname><given-names>L. L.</given-names></name><name><surname>MacMillan</surname><given-names>A. P.</given-names></name></person-group> (<year>2007</year>). <article-title>Characterisation of the genetic diversity of <italic>Brucella</italic> by multilocus sequencing</article-title>. <source>BMC Microbiol.</source>
+<volume>7</volume>:<fpage>34</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1471-2180-7-34</pub-id>, PMID: <pub-id pub-id-type="pmid">17448232</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>K.</given-names></name><name><surname>Wu</surname><given-names>B. B.</given-names></name><name><surname>Pan</surname><given-names>H.</given-names></name><name><surname>Paudyal</surname><given-names>N.</given-names></name><name><surname>Jiang</surname><given-names>J. Z.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>ONE health approach to address zoonotic brucellosis: a spatiotemporal associations study between animals and humans</article-title>. <source>Front. Vet. Sci.</source>
+<volume>7</volume>:<fpage>521</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fvets.2020.00521</pub-id>, PMID: <pub-id pub-id-type="pmid">32984409</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref73">
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhumasultanova</surname><given-names>G.</given-names></name></person-group> (<year>2021</year>). <article-title>Political repression in the context of complete collectivization of agriculture in Kazakhstan as a way to strengthen the Stalinist regime</article-title>. <source>J. Int. scientific rev. (LXXX)</source>, <fpage>42</fpage>&#x2013;<lpage>49</lpage>. doi: <pub-id pub-id-type="doi">10.24411/2542-0798-2021-18004</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

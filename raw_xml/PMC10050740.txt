@@ -1,0 +1,983 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Public Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Public Health</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Public Health</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Public Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2296-2565</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37006545</article-id>
+      <article-id pub-id-type="pmc">10050740</article-id>
+      <article-id pub-id-type="doi">10.3389/fpubh.2023.1106361</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Public Health</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Original and introduced lineages co-driving the persistence of <italic>Brucella abortus</italic> circulating in West Africa</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Zhiguo</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/369611/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Miao</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shi</surname>
+            <given-names>Qi</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dong</surname>
+            <given-names>Xiaoping</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/368000/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Gao</surname>
+            <given-names>Liping</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1928941/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Li</surname>
+            <given-names>Zhenjun</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <xref rid="c002" ref-type="corresp">
+<sup>*</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>National Institute for Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention</institution>, <addr-line>Beijing</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Vocational and Technical College, Inner Mongolia Agricultural University</institution>, <addr-line>Baotou</addr-line>, <country>China</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>Comprehensive Office, Ulanqab Center for Disease Control and Prevention, Jining</institution>, <addr-line>Inner Mongolia</addr-line>, <country>China</country></aff>
+      <aff id="aff4"><sup>4</sup><institution>National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention</institution>, <addr-line>Beijing</addr-line>, <country>China</country></aff>
+      <aff id="aff5"><sup>5</sup><institution>Changzhi Medical College, Changzhi</institution>, <addr-line>Shanxi</addr-line>, <country>China</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Shuchao Wang, Changchun Veterinary Research Institute (CAAS), China</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Henriette Van Heerden, University of Pretoria, South Africa; Maryam Dadar, Razi Vaccine and Serum Research Institute, Iran</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Liping Gao <email>gaolp@ivdc.chinacdc.cn</email></corresp>
+        <corresp id="c002">Zhenjun Li <email>zhenjunli@icdc.cn</email></corresp>
+        <fn fn-type="other" id="fn001">
+          <p>This article was submitted to Infectious Diseases: Epidemiology and Prevention, a section of the journal Frontiers in Public Health</p>
+        </fn>
+        <fn fn-type="equal" id="fn002">
+          <p>&#x2020;These authors have contributed equally to this work</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>1106361</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Liu, Wang, Shi, Dong, Gao and Li.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Liu, Wang, Shi, Dong, Gao and Li</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Introduction</title>
+          <p>Brucellosis, a serious public health issue affecting animals and humans, is neglected in West Africa (WA).</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>In the present study, bio-typing, multi-locus sequence typing (MLST), multiple-locus variable-number tandem repeat analysis (MLVA), and whole genome sequencing single-nucleotide polymorphism (WGS-SNP) analysis were used to characterize the <italic>Brucella abortus (B. abortus</italic>) strains from WA.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>All of the 309 strains analyzed in this study were extracted and downloaded from the international MLVA bank and were from 10 hosts (cattle, humans, ovine, buffalo, dromedaries, horse, sheep, zebu, dog, and cat) distributed in 17 countries in WA. Based on the bio-typing, three biovars, dominated by <italic>B. abortus</italic> bv.3, were observed and reported across seven decades (1958&#x2013;2019). With MLST, 129 <italic>B. abortus</italic> strains from the present study were sorted into 14 STs, with ST34 as the predicted founder. These 14 STs clustered into the global MLST data into three clone complexes (C I&#x2013;C III) with the majority of strains clustering in C I, while C II forms an independent branch, and C III harbors three STs shared by different continents. These data revealed that most cases were caused by strains from native lineages. According to the MLVA-11 comparison, 309 strains were divided into 22 MLVA-11 genotypes, 15 of which were unique to WA and the remaining seven had a global distribution. MLVA-16 analysis showed that there were no epidemiological links among these strains. Based on the MLVA data, <italic>B. abortus</italic> strains from WA have high genetic diversity, and predominated genotypes were descended from a native lineage. While the MLVA-16 globally highlights that the dominant native and few introduced lineages (from Brazil, the USA, South Korea, Argentina, India, Italy, Portugal, the UK, Costa Rica, and China) co-driving the <italic>B. abortus</italic> ongoing prevalence in WA. The high-resolution SNP analysis implied the existence of introduced <italic>B. abortus</italic> lineages, which may be reasonably explained by the movement and trade of dominant hosts (cattle) and/or their products.</p>
+        </sec>
+        <sec>
+          <title>Discussion</title>
+          <p>Our results indicated that <italic>B. abortus</italic> strains in WA consist of native and introduced strains that necessitate control such as vaccination, testing, slaughtering, and movement control by the relevant country authorities to reduce brucellosis in livestock.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic>Brucella abortus</italic>
+        </kwd>
+        <kwd>species/biovars</kwd>
+        <kwd>genetic diversity</kwd>
+        <kwd>MLST</kwd>
+        <kwd>MLVA</kwd>
+        <kwd>WGS-SNP</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This work was supported by the Strategic Research and Consulting Project of the Chinese Academy of Engineering (No. 2022-XBZD-18, Project Name: Prevention and Control of Emerging Infectious Diseases, Institute No. 29163) and the Youth Science Foundation of the State Key Laboratory of Infectious Disease Prevention and Control, Chinese Center for Disease Control and Prevention (No. 2021SKLID503). The funders had no role in the study design, data collection and analysis, the decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="2"/>
+        <equation-count count="0"/>
+        <ref-count count="60"/>
+        <page-count count="13"/>
+        <word-count count="7451"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Brucellosis, a widespread bacterial zoonotic disease that can cause considerable suffering in humans and massive economic losses in the animal industry, is caused by Gram-negative facultative intracellular bacteria of the genus <italic>Brucella</italic> (<xref rid="B1" ref-type="bibr">1</xref>&#x2013;<xref rid="B3" ref-type="bibr">3</xref>). The genus includes 12 species, among which <italic>Brucella melitensis, B. abortus</italic>, and <italic>B. suis</italic> are the most important species and responsible for the majority of human and animal brucellosis cases (<xref rid="B4" ref-type="bibr">4</xref>). It has been reported that there are ~500,000 new cases of human infection annually, especially in low-income tropical countries (<xref rid="B5" ref-type="bibr">5</xref>). Cattle are natural hosts of the intracellular pathogen <italic>B. abortus</italic>, which can also be isolated in other hosts, such as sheep, camels, and horses, and imposes a significant burden on the health and reproduction of these important livestock (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>). Infected animals can have live offspring following the initial abortion, and they may continue to shed the bacteria (<xref rid="B8" ref-type="bibr">8</xref>). Transmission to human occurs through unprotected handling of tissues or body fluids from infected animals, consumption of unpasteurized milk and milk products, or inhalation of <italic>Brucella</italic>-contaminated aerosols (<xref rid="B9" ref-type="bibr">9</xref>, <xref rid="B10" ref-type="bibr">10</xref>). Although <italic>B. abortus</italic> causes less severe infections than <italic>B. melitensis</italic> (<xref rid="B11" ref-type="bibr">11</xref>), back pain and arthralgia are common symptoms in patients infected with <italic>B. abortus</italic> in Turkey (<xref rid="B12" ref-type="bibr">12</xref>).</p>
+      <p>A previous study reported that the annual economic burden of bovine brucellosis in Latin America is ~$600 million (<xref rid="B13" ref-type="bibr">13</xref>). In 2015, in Kazakhstan, around $21 million was spent on compensation for slaughtered animals with brucellosis, and an additional $24 million was spent on testing and screening of animals (<xref rid="B14" ref-type="bibr">14</xref>). Therefore, brucellosis can not only lead to substantial economic losses in the animal industry but also pose an ongoing threat to public health.</p>
+      <p>Countries declared brucellosis-free are located in Europe and Oceania, whereas the prevalence is high in enzootic countries in central and South America, Africa, and parts of Asia (<xref rid="B15" ref-type="bibr">15</xref>). In these developing countries, especially in Africa, livestock husbandry development is continuously challenged by brucellosis (<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B17" ref-type="bibr">17</xref>). Bovine brucellosis remains the most widespread disease in animals and the main concern in sub-Saharan countries (<xref rid="B18" ref-type="bibr">18</xref>). In African countries, <italic>B. abortus</italic> has been reported in Sudan, in both cattle and their handlers (<xref rid="B19" ref-type="bibr">19</xref>), as well as in Gambia, Mali, Niger, and more frequently in Nigeria, Senegal, and Ivory Coast (<xref rid="B20" ref-type="bibr">20</xref>). Therefore, a comprehensive analysis of the genetic diversity of <italic>B. abortus</italic> strains and the epidemiology of the disease in animals and humans in sub-Saharan countries is necessary.</p>
+      <p>Molecular characterization of the predominated circulating strains is critical to understanding <italic>B. abortus</italic> diversity and epidemiology in the country. Multi-locus sequence typing (MLST) is a reliable tool for the characterization of <italic>Brucella spp</italic>. populations and the determination of phylogenetic relationships (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B22" ref-type="bibr">22</xref>); however, this method yields less detailed typing results than MLVA and WGS-SNP due to the lower-resolution power (<xref rid="B21" ref-type="bibr">21</xref>, <xref rid="B23" ref-type="bibr">23</xref>). Multiple locus variable-number tandem repeat analysis (MLVA) enables <italic>Brucella</italic> genotyping to infer genetic diversity and investigate the geographic clustering of the isolates (<xref rid="B24" ref-type="bibr">24</xref>&#x2013;<xref rid="B26" ref-type="bibr">26</xref>). Moreover, whole genome sequencing single-nucleotide polymorphism (WGS-SNP) has higher discriminatory power to efficiently track the origin and spread of <italic>Brucella</italic> strains, leading to be targeted and effective control of disease spread (<xref rid="B27" ref-type="bibr">27</xref>, <xref rid="B28" ref-type="bibr">28</xref>). At present, MLVA has been used to explore the diversity of <italic>B. abortus</italic> biovar 3 isolated in West Africa (<xref rid="B29" ref-type="bibr">29</xref>) and investigate the epidemiological links of the <italic>B. melitensis</italic> in Egypt (<xref rid="B30" ref-type="bibr">30</xref>). Moreover, studies that used MLVA and WGS-SNP (<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>) indicated that WGS-SNP analysis allows a better differentiation than MLVA-16. WGS-SNP analysis has been used to type, discriminate and track outbreak strains (<xref rid="B31" ref-type="bibr">31</xref>&#x2013;<xref rid="B33" ref-type="bibr">33</xref>). Therefore, the purpose of this study was to use a series of molecular typing assays, including MLST, MLVA, and WGS-SNP, to investigate the species population, genetic diversity, geographical origin, and molecular epidemiology of <italic>B. abortus</italic> strains from West Africa (WA), to provide insight into the comprehensive understanding of the <italic>B. abortus</italic> brucellosis epidemiology features in WA, and to facilitate surveillance and control strategy development.</p>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <sec>
+        <title>Source of MLST and MLVA genotyping data</title>
+        <p>The MLST genotyping data of 129 <italic>B. abortus</italic> strains (<xref rid="T1" ref-type="table">Table 1</xref>; <xref rid="SM3" ref-type="supplementary-material">Supplementary Table S1</xref>) were downloaded from the PubMLST (<ext-link xlink:href="https://pubmlst.org/organisms/brucella-spp" ext-link-type="uri">https://pubmlst.org/organisms/brucella-spp</ext-link>), including the key (code) of isolates, sequence type (ST), allotype of nine loci (aroA/cobQ/dnaK/gap/glk/gyrB/int_hyp/omp25/typE), <italic>Brucella</italic> species/biovars, host, country, continent, and years isolated. Moreover, the MLVA-16 genotyping data of 309 <italic>B. abortus</italic> strains (<xref rid="T2" ref-type="table">Table 2</xref>; <xref rid="SM4" ref-type="supplementary-material">Supplementary Table S2</xref>) from 17 WA countries, including Senegal, Egypt, Togo, Nigeria, Rwanda, Kenya, Guinea-Bissau, Uganda, Niger, Zimbabwe, Cameroon, Sudan, Tanzania, Guinea, Ivory Coast, Chad, and Gambia, were abstracted from the MLVA bank database (<ext-link xlink:href="https://microbesgenotyping.i2bc.paris-saclay.fr/databases" ext-link-type="uri">https://microbesgenotyping.i2bc.paris-saclay.fr/databases</ext-link>). The key (code) of strains, number of tandem repeats at each of the MLVA-16 loci, MLVA-8 genotype, MLVA-11 genotype, hosts, species/biovars, isolated regions, years isolated, and lineage groups were obtained. The MLVA-8 genotype, MLVA-11 genotype, and lineage group data from 19 <italic>B. abortus</italic> MLVA-8 and 21 MLVA-11 genotypes were not previously identified genotypes in the international MLVA bank database.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Country, hosts, number of strains and sequencing type (ST) of 129 <italic>Brucella abortus</italic> strains from Africa used for multi-locus sequence typing (MLST) genotyping.</p>
+          </caption>
+          <table frame="box" rules="all">
+            <thead>
+              <tr style="background-color:#919498;color:#ffffff">
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Country</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Host</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Strains number</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>ST</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cameroon</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">32</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chad</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle, Bovine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2, 32, 34</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Egypt</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle, Buffalo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">11</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1, 2</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ethiopia</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">30</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">72</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Kenya</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">32, 38</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Mozambique</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine, Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">8</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1, 37, 72</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Niger</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">83</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Nigeria</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">7</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34, 36</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rwanda</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">32</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Senegal</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine, Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">36, 82, 84</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Sudan</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine, Cattle, Camel</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">32</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2, 6, 33, 34</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tanzania</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">32</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Togo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">36</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Uganda</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2, 6</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zambia</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zimbabwe</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Bovine, Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">12</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1, 5, 6</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <p>Country, MLVA-8, MLVA-11, host, species/biovar, number, and year of 309 <italic>B. abortus</italic> strains used for MLVA genotyping.</p>
+          </caption>
+          <table frame="box" rules="all">
+            <thead>
+              <tr style="background-color:#919498;color:#ffffff">
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Country</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>MLVA8</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>MLVA11</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Host</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Species biovar</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Number</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Year</bold>
+</th>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Group</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Chad</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34, 35, new type (nt8-8)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">62, 63, nt11-13</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3, bv6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cameroon</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">63</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle, Zebu</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1989&#x2013;1990</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Sudan</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">63</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Dromedary</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1993</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Togo</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">64, nt11-12</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">31</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1979&#x2013;1980</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Uganda</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">64</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Human</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">5</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1958</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Guinea</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1982&#x2013;1992</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Guinea-Bissau</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1982</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Kenya</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">10</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Rwanda</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle, Human</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">14</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1982&#x2013;1983</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ivory coast</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2009</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Gambia</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Senegal</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">34, 137, 139, 142</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">63, 64, 310, 311, 312, 314, 315, 316, 317</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv1, bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">138</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1976&#x2013;1979</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Nigeria</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">28, 34, 35, new types 7 (nt8-2, 3, 4, 5, 6, 7, 9)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">62, 63, 310, new types 11 (nt11-3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle, Sheep, Horse</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">19</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1976&#x2013;2012</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Egypt</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">27, 28, 33</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">76, 79, 81, 82, 83, 400</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Ovine, Buffalo, Cattle, human, dog, cat, and vaccine (<italic>n</italic> = 2)</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">56</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2002&#x2013;2020</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus C, RB51_2308</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Zimbabwe</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">28, 31, 37</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">74, 77, 82</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus C</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Tanzania</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">nt8-1</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">nt11-1, nt11-2</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">2012&#x2013;2013</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Unknown</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Niger</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">134</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">313</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv3</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1983</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus B</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Africa</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">40, 178</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">66, 348</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Cattle</td>
+                <td valign="top" align="left" rowspan="1" colspan="1"><italic>B. abortus</italic> bv6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">6</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">1959</td>
+                <td valign="top" align="left" rowspan="1" colspan="1">Abortus C</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Analysis and visualization of MLST and MLVA data</title>
+        <p>All data in this study were cleaned and processed using Excel 2016 software (Microsoft Corporation, Redmond, WA, USA). For MLST analysis, genetic similarities between the STs of 129 strains from WA and 631 strains from other continents (PUBMLST) (<xref rid="SM3" ref-type="supplementary-material">Supplementary Table S1</xref>) were investigated using eBURST software 2.0. Finally, the genetic relationships between the isolates and allelic profiles of MLST data were analyzed with the software PHYLOViZ version 2.0 using the goeBURST Full Minimum Spanning Tree algorithms (<xref rid="B34" ref-type="bibr">34</xref>). Subsequently, MLVA data were processed according to genotype information, species/biovars, hosts, location, and years isolated for all <italic>B. abortus</italic> strains. A minimum spanning tree (MST) of <italic>B. abortus</italic> strains was constructed using BioNumerics 8.0 software based on the 309 <italic>B. abortus</italic> strains' MLVA-11 data (<xref rid="SM4" ref-type="supplementary-material">Supplementary Table S2</xref>) to investigate the host lineage, genotype distribution, and the geographical origin of the <italic>B. abortus</italic> strains. At the global level, an MST was constructed using the MLVA-11 data of 1,746 strains (<xref rid="SM4" ref-type="supplementary-material">Supplementary Table S2</xref>) to explore the geographical origin feature of genotypes from this study at the global level. Moreover, the MST based on the MLVA-16 data of 1,746 <italic>B. abortus</italic> strains (<xref rid="SM4" ref-type="supplementary-material">Supplementary Table S2</xref>) was used to determinate the relationship among strains at a global scale. In this study, the MST trees were weighted according to MLVA panels, as described by previous reports (<xref rid="B35" ref-type="bibr">35</xref>).</p>
+      </sec>
+      <sec>
+        <title>Phylogenetic analysis based on the SNPs of 80 strains at the global level</title>
+        <p>WGS-SNP analysis was performed as previously described (<xref rid="B36" ref-type="bibr">36</xref>). Briefly, genomic alignment between the sample genome and reference genome (<italic>B. abortus</italic> 2308; Assembly ID: GCA_000054005.1) was performed using the MUMmer (<xref rid="B37" ref-type="bibr">37</xref>) and LASTZ (<xref rid="B38" ref-type="bibr">38</xref>) tools. The phylogenetic tree of 18 <italic>B. abortus</italic> strains from WA and 62 strains from outside WA (<xref rid="SM5" ref-type="supplementary-material">Supplementary Table S3</xref>) in GenBank was constructed using TreeBeST (<xref rid="B39" ref-type="bibr">39</xref>) based on the Maximum-Likelihood Phylogenies (PHYML) algorithm with 1,000 bootstrap replicates to investigate the genetic relationships of <italic>B. abortus</italic> strains.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Species/biovars, host, and geographic distribution of 309 <italic>B. abortus</italic> strains</title>
+        <p>Of the identified biovars of 309 <italic>B. abortus</italic> African strains, 239 <italic>B. abortus</italic> bv 3, 9 <italic>B. abortus</italic> bv 1 and 6 <italic>B. abortus</italic> bv 6 were identified with 55 not typed to biovar level (<xref rid="F1" ref-type="fig">Figure 1</xref>; <xref rid="T2" ref-type="table">Table 2</xref>). The <italic>B. abortus</italic> bv. 1 was distributed in Egypt (<italic>n</italic> = 6), Zimbabwe (<italic>n</italic> = 2), and Senegal (<italic>n</italic> = 1). <italic>B. abortus</italic> bv. 6 was found in Chad (<italic>n</italic> = 2), and the location of the remaining six is unknown. However, the <italic>B. abortus</italic> bv. 3 strains were distributed in 15 countries, i.e., all 17 countries except Egypt and Zimbabwe (<xref rid="F1" ref-type="fig">Figure 1</xref>; <xref rid="T2" ref-type="table">Table 2</xref>). Based on the host, 280 strains were found in cattle, 8 in humans, 4 in ovine, 4 in buffalo, 3 in the dromedary, 2 in horse, 2 in sheep, 2 in zebu, 1 in a dog, and 1 in a cat, and the remaining two were vaccine strains (<xref rid="T2" ref-type="table">Table 2</xref>). A total of 309 <italic>B. abortus</italic> were collected from 17 countries, including 138 in Senegal, 56 in Egypt, 31 in Togo, 19 in Nigeria, 14 in Rwanda, and remaining countries contained 1&#x2013;10 different numbers strains (<xref rid="F1" ref-type="fig">Figure 1</xref>; <xref rid="T2" ref-type="table">Table 2</xref>). According to the MLVA data, strains were divided into the abortus B group (<italic>n</italic> = 209), the abortus C group (<italic>n</italic> = 55), and the abortus C_RB51_2308 group from Egypt (<italic>n</italic> = 11), and the remaining 24 strains were unknown. These strains were isolated between 1958 and 2020, including 5 in the 1950s, 147 in the 1970s, 43 in the 1980s, 7 in the 1990s, 13 in the 2000s, 46 in the 2010s, and 2 in 2020, and the year of isolation of the remaining isolates is unknown (<xref rid="T2" ref-type="table">Table 2</xref>; <xref rid="SM4" ref-type="supplementary-material">Supplementary Table S2</xref>).</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Geographic and genotype distribution features of 309 <italic>B. abortus</italic> in the present study. Red dot indicates the location (country) of the strains collected in this study. The letter in brackets is the abbreviation of the national name in the figure; <italic>n</italic>, Number of strains collected; figures marked with the bold refer into the MLVA-11 genotypes of strains from the location. The map of Africa used in this study was obtained from Google Maps (<ext-link xlink:href="https://www.google.com/maps" ext-link-type="uri">https://www.google.com/maps</ext-link>).</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>MLST genotyping characteristic of <italic>B. abortus</italic> strains in the present study</title>
+        <p>The results of eBURST analysis showed that the 129 <italic>B. abortus</italic> strains from the present study could be sorted into 14 STs, including ST1 (<italic>n</italic> = 16), ST2 (<italic>n</italic> = 8), ST5 (<italic>n</italic> = 3), ST6 (<italic>n</italic> = 9), ST32 (<italic>n</italic> = 8), ST33 (<italic>n</italic> = 4), ST34 (<italic>n</italic> = 31), ST36 (<italic>n</italic> = 8), ST37 (<italic>n</italic> = 5), ST38 (<italic>n</italic> = 3), ST72 (<italic>n</italic> = 31), ST82 (<italic>n</italic> = 1), ST83 (<italic>n</italic> = 1), and ST84 (<italic>n</italic> = 1) (<xref rid="T1" ref-type="table">Table 1</xref>). Of these, ST34 was the predicted founder and included two single locus variants, zero double locus variants, one triple locus variant, and 10 more distantly related (satellites) (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>). The ST34 is comprised of strains from three countries, including Sudan (<italic>n</italic> = 24), Nigeria (<italic>n</italic> = 4), and Chad (<italic>n</italic> = 3). The MST at the global scale indicated that among those strains (<italic>n</italic> = 760) from six continents, 14 STs in the present study were divided into three clone complexes (C I&#x2013;C III) (<xref rid="F2" ref-type="fig">Figure 2</xref>), of which C I and C II comprised strains from the present study and formed the independent complex. C I comprised eight STs (ST6, 32, 33, 34, 36, 82, 83, and 84; and strains from Cameroon, Chad, Kenya, Niger, Nigeria, Rwanda, Senegal, Sudan, Tanzania, Togo, Uganda and Zimbabwe) and C II contained three STs (ST37, 38, and 72; and strains from Ethiopia, Kenya, and Mozambique) (<xref rid="F2" ref-type="fig">Figure 2</xref>). C III harbored three single STs (ST 1, 2 and 5; and strains from Chad, Egypt, Mozambique, Sudan, Uganda, Zambia, and Zimbabwe) that were shared between three and five continents: ST1 was shared by strains from Asia, Europe, North America, Oceania, and South America (<xref rid="F2" ref-type="fig">Figure 2</xref>); ST2 was shared by strains from Asia, Europe, and South America; and ST5 was shared by strains from four continents, including Asia, Europe, North America, and South America (<xref rid="F2" ref-type="fig">Figure 2</xref>).</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p>PHYLOViZ analysis showing the genetic relationships among STs of 760 <italic>B. abortus</italic> strains. Color coding according to continents. Circle size indicates the number of strains. Each circle represents a distinct ST, and the STs from the present study are shaded in pink <bold>(C I, C II)</bold> and light red <bold>(C III)</bold>.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Diversity characteristics of MLVA-8 and MLVA-11 data of strains from this study</title>
+        <p>A total of 13 known MLVA-8 genotypes and nine new genotypes (nt8-1&#x2013;nt8-9) were recorded among 309 strains, known 13 MLVA-8 genotypes including 27 (<italic>n</italic> = 11), 28 (<italic>n</italic> = 45), 31 (<italic>n</italic> = 1), 33 (<italic>n</italic> = 2), 34 (<italic>n</italic> = 206), 35 (<italic>n</italic> = 1), 37 (<italic>n</italic> = 1), 40 (<italic>n</italic> = 5), 134 (<italic>n</italic> = 3), 137 (<italic>n</italic> = 1), 139 (<italic>n</italic> = 1), 142 (<italic>n</italic> = 2), and 178 (<italic>n</italic> = 1) (<xref rid="T2" ref-type="table">Table 2</xref>). According to the MLVA-11 analysis showed that a total of 37 MLVA-11 genotypes identified among 309 strains, and 22 out of 37 MLVA-11 genotypes were previously identified including 62 (<italic>n</italic> = 1), 63 (<italic>n</italic> = 12), 64 (<italic>n</italic> = 80), 66 (<italic>n</italic> = 5), 74 (<italic>n</italic> = 1), 76 (<italic>n</italic> = 2), 77 (<italic>n</italic> = 1), 79 (<italic>n</italic> = 11), 81 (<italic>n</italic> = 6), 82 (<italic>n</italic> = 37), 83 (<italic>n</italic> = 1), 310 (<italic>n</italic> = 1), 311 (<italic>n</italic> = 1), 312 (<italic>n</italic> = 1), 313 (<italic>n</italic> = 3), 314 (<italic>n</italic> = 1), 315 (<italic>n</italic> = 5), 316 (<italic>n</italic> = 11), 317 (<italic>n</italic> = 98), 348 (<italic>n</italic> = 1), and 400 (<italic>n</italic> = 1) (<xref rid="T2" ref-type="table">Table 2</xref>); and the remaining 15 new MLVA genotypes were first found in this study, then named them as into nt11-1&#x2013;nt11-15 (<xref rid="T2" ref-type="table">Table 2</xref>). MLVA-11 genotype 317 (<italic>n</italic> = 98) and 64 (<italic>n</italic> = 80) are the predominant circulating lineages (<xref rid="F3" ref-type="fig">Figure 3</xref>). Moreover, MLVA-11 genotypes 317 and 64 were mainly distributed in Senegal, and MLVA-11 genotype 82 was mainly distributed in Egypt. MLVA-11 genotype 63 was observed in Senegal, Uganda, and Cameroon (<xref rid="F3" ref-type="fig">Figure 3</xref>).</p>
+        <fig position="float" id="F3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Minimal spanning tree (MST) of MLVA-11 genotype geographic distribution based on the multi-loci variable number of tandem repeats (VNTR) 11 data from West African <italic>Brucella abortus</italic> strains. Color coding according to countries distributed of MLVA-11 genotypes (the detail genotype profile is presented in <xref rid="SM2" ref-type="supplementary-material">Supplementary Figure S2</xref>), the predominated MLVA-11 genotypes in the present study were marked with the bold in figures. Circle size indicates the number of strains, GT indicates MLVA-11 Genotype. The number on the horizontal line is the number of site differences between genotypes.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0003" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Geographic origin and genetic relatedness of <italic>B. abortus</italic> strains on a global scale</title>
+        <p>Phylogenetic analysis of MLVA-11 data on <italic>B. abortus</italic> strains on a global scale showed that out of 22 MLVA-11 genotypes, 15 formed an independence lineage (<xref rid="F4" ref-type="fig">Figure 4</xref>). Of these 15, except for three genotypes (MLVA-11 genotypes 74, 348, and 400) that were related to strains from other countries, the remaining 12 MLVA-11 genotypes formed a unique cluster (<xref rid="F4" ref-type="fig">Figure 4</xref>). Moreover, strains from seven other MLVA-11 genotypes (MLVA-11 genotypes 66, 76, 77, 79, 81, 82, and 83) were shared with strains from 2 to 14 different countries (<xref rid="F4" ref-type="fig">Figure 4</xref>). Of these, MLVA-11 genotype 66 was shared by strains from three countries, including Bangladesh, Brazil, and France; MLVA-11 genotype 76 was shared with strains from four countries, including Brazil, China, France, and Portugal; MLVA-11 genotype 76 was shared by strains from the present study and China; MLVA-11 genotype 79 was shared by strains from Costa Rica, India, Italia, Portugal, South Korea, Switzerland, and the USA (<xref rid="F4" ref-type="fig">Figure 4</xref>); MLVA-11 genotype 81 was shared by strains from Italy and this study; MLVA-11 genotype 82 was shared by strains from Argentina, Belgium, Brazil, China, Costa Rica, France, Germany, India, Kazakhstan, Portugal, South Korea, Switzerland, the UK, and the USA (<xref rid="F4" ref-type="fig">Figure 4</xref>); MLVA-11 genotype 83 was shared by strains from Brazil, China, Costa Rica, England, and the UK (<xref rid="F4" ref-type="fig">Figure 4</xref>).</p>
+        <fig position="float" id="F4">
+          <label>Figure 4</label>
+          <caption>
+            <p>Geographic origin analysis of <italic>B. abortus</italic> strains in West Africa on a global scale based on the multi-loci variable number of tandem repeats (VNTR) 11 data worldwide. Color coding according to countries. Circle size indicates the number of strains.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0004" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Molecular epidemiological links of <italic>B. abortus</italic> in West Africa and on a global scale</title>
+        <p>Based on the MST of MLVA-16 data on 309 strains from 17 countries, the strains were divided into two branches (I and II). Branch I comprised strains from Egypt, Zimbabwe, and Uganda (<xref rid="F5" ref-type="fig">Figure 5</xref>), and branch II contained strains from the other 14 countries (<xref rid="F5" ref-type="fig">Figure 5</xref>). Remarkably, only one MVA-16 genotype was shared among two strains from two different countries (Senegal and Nigeria) (<xref rid="F5" ref-type="fig">Figure 5</xref>). Based on the MST of 1,746 strains on a global scale, the majority of strains from this study formed independent clades, and only few strains have shared the same MLVA-16 genotype with strains from many countries, including Brazil, the USA, South Korea, Argentina, India, Italia, Portugal, the UK, Costa Rica, and China (<xref rid="F6" ref-type="fig">Figure 6</xref>).</p>
+        <fig position="float" id="F5">
+          <label>Figure 5</label>
+          <caption>
+            <p>Molecular epidemiology relatedness of <italic>B. abortus</italic> strains from West Africa based on the MLVA-16 data of 309 <italic>B. abortus</italic>. Color coding according to the country in this study. Circle size indicates the number of strains. Branch <bold>(I)</bold> comprised strains from Egypt, Zimbabwe, and Uganda and branch <bold>(II)</bold> contained strains from the other 14 countries.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0005" position="float"/>
+        </fig>
+        <fig position="float" id="F6">
+          <label>Figure 6</label>
+          <caption>
+            <p>Molecular relationships between <italic>B. abortus</italic> strains from West Africa and worldwide strains based on the MLVA-16 data of 1,476 <italic>B. abortus</italic> strains globally. Color coding according to countries. Circle size indicates the number of strains.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0006" position="float"/>
+        </fig>
+        <p>Additionally, the MST based on our WGS-SNP matrix analysis showed that the 18 strains from the present study formed 17 SNP genotypes, and which one was shared by two strains from Mozambique and Zimbabwe (<xref rid="F7" ref-type="fig">Figure 7</xref>). Furthermore, five out of 17 SNP genotypes contained only strains from this study (<xref rid="F7" ref-type="fig">Figure 7</xref>), the remaining 12 were shared SNP genotypes that comprised strains from this study and strains from eight different countries, including the USA (Nigeria and Zimbabwe), the UK (Uganda and Senegal), Germany (Chad), France (Egypt), Poland (Sudan), Spain (Chad), New Zealand (Zimbabwe), Bolivia (Mozambique and Zimbabwe), and China (Sudan) (<xref rid="F7" ref-type="fig">Figure 7</xref>).</p>
+        <fig position="float" id="F7">
+          <label>Figure 7</label>
+          <caption>
+            <p>WGS-SNP phylogeny analysis of <italic>B. abortus</italic> strains from the present study and worldwide strains based on the SNP matrix of 80 <italic>B. abortus</italic>. Strains code are marked in black if they share the same SNP genotype with the strain in the circle. The countries marked in the figures indicate that strains from this country have identical SNP genotypes with strains from the present study.</p>
+          </caption>
+          <graphic xlink:href="fpubh-11-1106361-g0007" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>In this study, three molecular methods, including MLST, MLVA, and WGS-SNP, were applied to analyze the genetic diversity, population structure, and molecular relationship among 309 <italic>B. abortus</italic> strains from WA with global strains. Our analysis highlights that <italic>B. abortus</italic> strains have a high species/biovars, host diversity, as well as wide geographic distribution in WA. In the present study, more than 90% (280/309) of <italic>B. abortus</italic> strains were isolated from cattle, and the remaining strains were obtained from 10 other hosts, including wildlife. <italic>B. abortus</italic> predominantly infect cattle but also infect other host species and seems to be a spill-over from the dominant host species to other species due to farming and grazing (<xref rid="B40" ref-type="bibr">40</xref>), which is also evident from in the present study. A previous study showed that 273 <italic>Brucella</italic> strains from Africa were identified and typed since 1976, among which 272 strains were from cattle and ~95% (260/270) were from native animals showing hygromas (<xref rid="B41" ref-type="bibr">41</xref>). Similar when focusing on WA, <italic>B. abortus</italic> strains were historically prevalent mainly in cattle (<xref rid="B42" ref-type="bibr">42</xref>&#x2013;<xref rid="B44" ref-type="bibr">44</xref>). Bio-typing identified three biovars in WA, and <italic>B. abortus</italic> bv.3 was the predominant biovar (<xref rid="B45" ref-type="bibr">45</xref>).</p>
+      <p>MLVA11 identified <italic>B. abortus</italic> bv 3 isolated from cattle as new major clusters from WA. In contrast to WA where <italic>B. abortus</italic> biovar 3 strains occur in cattle, <italic>B. abortus</italic> biovar 1 is the dominate biovar in South Africa (<xref rid="B46" ref-type="bibr">46</xref>). These data suggest that the predominated <italic>B. abortus</italic> biovars are unique in WA compared to southern Africa, but further investigation is needed to better understand the epidemiological trait of <italic>B. abortus</italic> in Africa.</p>
+      <p>Cattle production plays a crucial role in Africa including WA, as cattle are traded for status and serve as a &#x201C;savings account&#x201D; in nomadic systems in Nigeria (<xref rid="B47" ref-type="bibr">47</xref>). It has been reported that 20% of cattle are imported in Nigeria, mostly from Chad and Niger (<xref rid="B48" ref-type="bibr">48</xref>). Moreover, according to literature, brucellosis is one of the major transboundary animal diseases in North African countries, while the illegal animal movement was identified as one of the major constraining factors (<xref rid="B49" ref-type="bibr">49</xref>).</p>
+      <p>In cattle, <italic>B. abortus</italic> mainly invades the reproductive organs and causes symptoms such as abortion and a decline in milk productivity, resulting in substantial economic losses (<xref rid="B50" ref-type="bibr">50</xref>). Therefore, strengthening disease surveillance in cattle is necessary to map the epidemiology of <italic>B. abortus</italic>. However, strains were found in 10 wildlife species in WA, indicating that the <italic>B. abortus</italic> strains circulate among animal species that are not the preferential hosts. These reservoirs pose a crucial risk to domestic animals and humans. A previous study showed that exploring the wildlife reservoir of brucellosis may represent a new challenge to be faced by the medical and veterinarian community in the twenty-first century (<xref rid="B51" ref-type="bibr">51</xref>). Brucellosis in wildlife in this region cannot be neglected, detection and surveillance should be implemented to block the transmission chain.</p>
+      <p>Although MLVA has a higher resolution power for <italic>Brucella</italic> strains than MLST, both the MLST and MLVA are crucial to epidemiologic surveillance and investigation into the geographical distribution of <italic>B. abortus</italic> strains. MLST analysis highlighted that the predominant circulating <italic>B. abortus</italic> population of WA was native lineages, while three STs were shared by many continents (<xref rid="F2" ref-type="fig">Figure 2</xref>). However, these shared populations were predominant in Europe (ST1 and 2) and America (ST1 and 5), implying that the introduced <italic>B. abortus</italic> lineage was from outside WA, but a further survey into the trade activities of cattle is needed.</p>
+      <p>The MLVA-11 highlights the high genetic diversity and multiple geographic original of strains from the present study as reflected by the 37 MLVA-11 genotypes were identified among 309 strains that include 22 known and 15 new genotypes. Two predominant MLVA-11 genotypes (317 and 64) were observed in WA (<xref rid="B52" ref-type="bibr">52</xref>, <xref rid="B53" ref-type="bibr">53</xref>), while genotype 317 was distributed in Kenya, Senegal, Guinea, Guinea-Bissau, and Rwanda (<xref rid="B52" ref-type="bibr">52</xref>, <xref rid="B53" ref-type="bibr">53</xref>), and 64 was also distributed in Senegal and Togo (<xref rid="B53" ref-type="bibr">53</xref>). Comparison analysis of global MLVA-11 data suggests that these genotypes originate from WA. Three MLVA-11 genotypes (66, 79, and 82) were shared with strains from Brazil (<xref rid="B54" ref-type="bibr">54</xref>), the USA (<xref rid="B55" ref-type="bibr">55</xref>), Italy, Portugal (<xref rid="B56" ref-type="bibr">56</xref>), France, and South Korea (<xref rid="B26" ref-type="bibr">26</xref>). The WA <italic>B. abortus</italic> strains from the present study existed multiple geographic original that suggest introduction from multiple regions outside WA similar to study by Wareth et al. (<xref rid="B57" ref-type="bibr">57</xref>).</p>
+      <p>The global analysis of <italic>B. abortus</italic> strains base on MLVA-16 highlights that the native dominant strains in WA are driving the ongoing prevalence of <italic>B. abortus</italic> in this region. This was similar to findings by Liu et al. (<xref rid="B58" ref-type="bibr">58</xref>) suggesting that <italic>B. abortus</italic> strains were transmitted within the national borders of a country despite common geographical origins of the strain in countries along the silk road. <italic>B. abortus</italic> bv 3 strains from Algeria grouped in two separate clusters using MLVA11 which most strains clustering with European isolates from France and Spain while a few strains cluster in African lineage (<xref rid="B59" ref-type="bibr">59</xref>). These studies thus indicate presence of introduced strains as well as native strains in WA. Therefore, further extensive bacteriological and molecular investigations are necessary for a comprehensive understanding of the epidemiology of cattle brucellosis in African countries.</p>
+      <p>WGS-SNP analysis identified <italic>B. abortus</italic> lineages circulating in WA was introduced through the import of animals and/or animal products from multiple countries as 12 of 17 SNP genotypes were from nine countries (regions). The MLST, MLVA, and SNP analyses demonstrated that native strains and introduced lineages are co-driving with the persistence of <italic>B. abortus</italic> circulating in WA. Similarly, WGS-SNP analysis demonstrated that brucellosis in South Africa spreads within the herd on some farms, whereas the introduction of infected animals is the mode of transmission on other farms (<xref rid="B33" ref-type="bibr">33</xref>). WGS phylodynamics analysis identified the main <italic>B. abortus</italic> lineage circulate in Costa Rica are widespread while new introductions seem to be more geographically restricted, which might be similar in various other middle- and low-income countries where brucellosis is endemic with similar farming practices and lack of control (<xref rid="B60" ref-type="bibr">60</xref>).</p>
+      <p>Therefore, a control program involving improved surveillance, animal movement restrictions, public health education is suggested. Moreover, there is a strong need for more sustainable molecular data on prevailing <italic>Brucella</italic> strains in WA, and on all susceptible species, including humans, to comprehensively analyze the relatedness between field strains of <italic>Brucella</italic> and the epidemiology of brucellosis within WA countries (<xref rid="B29" ref-type="bibr">29</xref>).</p>
+    </sec>
+    <sec sec-type="conclusions" id="s5">
+      <title>Conclusions</title>
+      <p>The present study revealed the constant circulation of <italic>B. abortus</italic> strains in cattle throughout WA and neighboring countries. These strains exhibited high species/biovars, host spectrum, and genetic diversity as well as multiple geographic origins. Moreover, most cases were caused by native strains, and few cases resulted from introduced lineages. The surveillance and control of <italic>B. abortus</italic> in WA should be made a priority which can be enhanced by improving molecular databases that can elucidate epidemiological relationships between strains. Regulations should be strictly implemented when introducing animals to prevent the spread of this species (<xref rid="B48" ref-type="bibr">48</xref>).</p>
+    </sec>
+    <sec sec-type="data-availability" id="s6">
+      <title>Data availability statement</title>
+      <p>The original contributions presented in the study are included in the article/<xref rid="s10" ref-type="sec">Supplementary material</xref>, further inquiries can be directed to the corresponding authors.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="s7">
+      <title>Author contributions</title>
+      <p>LG and ZLiu performed the data collection and data analysis and drafted the manuscript. MW and QS conducted the data check and critically reviewed the manuscript. ZLiu, ZLi, and XD participated in the design of the study and managed the project. All authors read and approved the final manuscript.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We are grateful to all of the authors who have previously published data on brucellosis in WA.</p>
+    </ack>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s9">
+      <title>Publisher's note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="s10">
+      <title>Supplementary material</title>
+      <p>The Supplementary Material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1106361/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fpubh.2023.1106361/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <label>Supplementary Figure S1</label>
+        <caption>
+          <p>Genetic relationships based on the STs of <italic>B. abortus</italic> strains (<italic>n</italic> = 129) in this study using eBURST. Re-sampling for bootstrapping = 1,000; minimum number of identical loci for group definition = 3; minimum number of SLVs for subgroup definition = 1. Strains in ST34 are from Sudan (<italic>n</italic> = 24), Nigeria (<italic>n</italic> = 4), and Chad (<italic>n</italic> = 3).</p>
+        </caption>
+        <media xlink:href="Image_1.TIF">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM2" position="float" content-type="local-data">
+        <label>Supplementary Figure S2</label>
+        <caption>
+          <p>Minimal spanning tree (MST) of MLVA-11 genotype diversity based on the multi-loci variable number of tandem repeats (VNTR) 11 data from West African <italic>Brucella abortus</italic> strains. Color coding according to MLVA-11 genotypes. Circle size indicates the number of strains.</p>
+        </caption>
+        <media xlink:href="Image_2.pdf">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM3" position="float" content-type="local-data">
+        <label>Supplementary Table S1</label>
+        <caption>
+          <p>MLST data sets of <italic>B. abortus</italic> strains used in the present study. 129 strains from the present study (Africa) and 631 strains from the outside of Africa.</p>
+        </caption>
+        <media xlink:href="Data_Sheet_1.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM4" position="float" content-type="local-data">
+        <label>Supplementary Table S2</label>
+        <caption>
+          <p>The MLVA-16 data sets of <italic>B. abortus</italic> strains used for the present study. 309 marked with gray-used from the present study, MLVA-11 data from the 1,746 <italic>B. abortus</italic> strains used for geographical origin analysis globally and all data were used to determinate the relationship among strains at a global scale.</p>
+        </caption>
+        <media xlink:href="Data_Sheet_1.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="SM5" position="float" content-type="local-data">
+        <label>Supplementary Table S3</label>
+        <caption>
+          <p>A total of 80 <italic>B. abortus</italic> strains genome data from GenBank (<italic>n</italic> = 62) and this study (<italic>n</italic> = 18) were used in the present study for WGS-SNP phylogeny analysis globally.</p>
+        </caption>
+        <media xlink:href="Data_Sheet_1.xlsx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carvalho Neta</surname><given-names>AV</given-names></name><name><surname>Mol</surname><given-names>JP</given-names></name><name><surname>Xavier</surname><given-names>MN</given-names></name><name><surname>Paixao</surname><given-names>TA</given-names></name><name><surname>Lage</surname><given-names>AP</given-names></name><name><surname>Santos</surname><given-names>RL</given-names></name></person-group>. <article-title>Pathogenesis of bovine brucellosis</article-title>. <source>Vet J.</source> (<year>2010</year>) <volume>184</volume>:<fpage>146</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.tvjl.2009.04.010</pub-id><pub-id pub-id-type="pmid">19733101</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Migisha</surname><given-names>R</given-names></name><name><surname>Dan</surname><given-names>N</given-names></name><name><surname>Boum</surname><given-names>Y</given-names></name><name><surname>Page</surname><given-names>AL</given-names></name><name><surname>Z&#xFA;&#xF1;iga-Ripa</surname><given-names>A</given-names></name><name><surname>Conde-&#xC1;lvarez</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Prevalence and risk factors of brucellosis among febrile patients attending a community hospital in south western Uganda</article-title>. <source>Sci Rep.</source> (<year>2018</year>) <volume>8</volume>:<fpage>15465</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-018-33915-9</pub-id><pub-id pub-id-type="pmid">30337685</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mufinda</surname><given-names>FC</given-names></name><name><surname>Boinas</surname><given-names>F</given-names></name><name><surname>Nunes</surname><given-names>C</given-names></name></person-group>. <article-title>Prevalence and factors associated with human brucellosis in livestock professionals</article-title>. <source>Rev Saude Publ.</source> (<year>2017</year>) <volume>51</volume>:<fpage>57</fpage>. <pub-id pub-id-type="doi">10.1590/s1518-8787.2017051006051</pub-id><pub-id pub-id-type="pmid">28658364</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Alton</surname><given-names>GG</given-names></name><name><surname>Jones</surname><given-names>LM</given-names></name><name><surname>Angus</surname><given-names>R</given-names></name><name><surname>Verger</surname><given-names>J</given-names></name></person-group>. <source>Techniques for the Brucellosis Laboratory</source>. <publisher-loc>Paris</publisher-loc>: <publisher-name>Institut National de la recherche Agronomique (INRA)</publisher-name> (<year>1988</year>).</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pappas</surname><given-names>G</given-names></name><name><surname>Papadimitriou</surname><given-names>P</given-names></name><name><surname>Akritidis</surname><given-names>N</given-names></name><name><surname>Christou</surname><given-names>L</given-names></name><name><surname>Tsianos</surname><given-names>EV</given-names></name></person-group>. <article-title>The new global map of human brucellosis</article-title>. <source>Lancet</source>. (<year>2006</year>) <volume>6</volume>:<fpage>91</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id><pub-id pub-id-type="pmid">16439329</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Corbel</surname><given-names>MJ</given-names></name></person-group>. <source>Brucellosis in Humans and Animals</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name> (<year>2006</year>).</mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fiebig</surname><given-names>A</given-names></name><name><surname>Vrentas</surname><given-names>CE</given-names></name><name><surname>Le</surname><given-names>T</given-names></name><name><surname>Huebner</surname><given-names>M</given-names></name><name><surname>Boggiatto</surname><given-names>PM</given-names></name><name><surname>Olsen</surname><given-names>SC</given-names></name><name><surname>Crosson</surname><given-names>S</given-names></name></person-group>. <article-title>Quantification of <italic>Brucella abortus</italic> population structure in a natural host</article-title>. <source>Proc Natl Acad Sci USA</source>. (<year>2021</year>) <volume>118</volume>:<fpage>e2023500118</fpage>. <pub-id pub-id-type="doi">10.1073/pnas.2023500118</pub-id><pub-id pub-id-type="pmid">33688053</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>OIE. Brucellosis.</collab></person-group> (<year>2018</year>). Available online at: <ext-link xlink:href="https://www.woah.org/en/disease/brucellosis/" ext-link-type="uri">https://www.woah.org/en/disease/brucellosis/</ext-link></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kaufmann</surname><given-names>AF</given-names></name><name><surname>Fox</surname><given-names>MD</given-names></name><name><surname>Boyce</surname><given-names>JM</given-names></name><name><surname>Anderson</surname><given-names>DC</given-names></name><name><surname>Potter</surname><given-names>ME</given-names></name><name><surname>Martone</surname><given-names>WJ</given-names></name><etal/></person-group>. <article-title>Airborne spread of brucellosis</article-title>. <source>Ann NY Acad Sci.</source> (<year>1980</year>) <volume>353</volume>:<fpage>105</fpage>&#x2013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1111/j.1749-6632.1980.tb18912.x</pub-id><pub-id pub-id-type="pmid">6939379</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corbel</surname><given-names>MJ</given-names></name></person-group>. <article-title>Recent advances in brucellosis</article-title>. <source>J Med Microbiol.</source> (<year>1997</year>) <volume>46</volume>:<fpage>101</fpage>&#x2013;<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1099/00222615-46-2-101</pub-id><pub-id pub-id-type="pmid">9060868</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Davis</surname><given-names>CE</given-names></name><name><surname>Troy</surname><given-names>SB</given-names></name></person-group>. <article-title>Brucellosis</article-title>. <source>N Engl J Med.</source> (<year>2005</year>) <volume>353</volume>:<fpage>1071</fpage>&#x2013;<lpage>2</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMc051799</pub-id><pub-id pub-id-type="pmid">16148300</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dokuzoguz</surname><given-names>B</given-names></name><name><surname>Erg&#xF6;n&#xFC;l</surname><given-names>O</given-names></name><name><surname>Baykam</surname><given-names>N</given-names></name><name><surname>Esener</surname><given-names>H</given-names></name><name><surname>Kili&#xE7;</surname><given-names>S</given-names></name><name><surname>Celikba&#x15F;</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Characteristics of <italic>B. melitensis</italic> versus <italic>B. abortus</italic> bacteraemias</article-title>. <source>J Infect.</source> (<year>2005</year>) <volume>50</volume>:<fpage>41</fpage>&#x2013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinf.2004.02.005</pub-id><pub-id pub-id-type="pmid">15603839</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seleem</surname><given-names>MN</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name></person-group>. <article-title>Brucellosis: a re-emerging zoonosis</article-title>. <source>Vet Microbiol.</source> (<year>2010</year>) <volume>140</volume>:<fpage>392</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.vetmic.2009.06.021</pub-id><pub-id pub-id-type="pmid">19604656</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Charypkhan</surname><given-names>D</given-names></name><name><surname>Sultanov</surname><given-names>AA</given-names></name><name><surname>Ivanov</surname><given-names>NP</given-names></name><name><surname>Baramova</surname><given-names>SA</given-names></name><name><surname>Taitubayev</surname><given-names>MK</given-names></name><name><surname>Torgerson</surname><given-names>PR</given-names></name></person-group>. <article-title>Economic and health burden of brucellosis in Kazakhstan</article-title>. <source>Zoonoses Public Health.</source> (<year>2019</year>) <volume>66</volume>:<fpage>487</fpage>&#x2013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1111/zph.12582</pub-id><pub-id pub-id-type="pmid">31090193</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>C&#xE1;rdenas</surname><given-names>L</given-names></name><name><surname>Awada</surname><given-names>L</given-names></name><name><surname>Tizzani</surname><given-names>P</given-names></name><name><surname>C&#xE1;ceres</surname><given-names>P</given-names></name><name><surname>Casal</surname><given-names>J</given-names></name></person-group>. <article-title>Characterization and evolution of countries affected by bovine brucellosis (1996&#x2013;2014)</article-title>. <source>Transbound Emerg Dis.</source> (<year>2019</year>) <volume>66</volume>:<fpage>1280</fpage>&#x2013;<lpage>90</lpage>. <pub-id pub-id-type="doi">10.1111/tbed.13144</pub-id><pub-id pub-id-type="pmid">30739391</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ekiri</surname><given-names>AB</given-names></name><name><surname>Kilonzo</surname><given-names>C</given-names></name><name><surname>Bird</surname><given-names>BH</given-names></name><name><surname>VanWormer</surname><given-names>E</given-names></name><name><surname>Wolking</surname><given-names>DJ</given-names></name><name><surname>Smith</surname><given-names>WA</given-names></name><etal/></person-group>. <article-title>Utility of the rose Bengal test as a point-of-care test for human brucellosis in endemic African settings: a systematic review</article-title>. <source>J Trop Med.</source> (<year>2020</year>) <volume>2020</volume>:<fpage>6586182</fpage>. <pub-id pub-id-type="doi">10.1155/2020/6586182</pub-id><pub-id pub-id-type="pmid">33014074</pub-id></mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Woodburn</surname><given-names>DB</given-names></name><name><surname>Steyl</surname><given-names>J</given-names></name><name><surname>Du Plessis</surname><given-names>EC</given-names></name><name><surname>Last</surname><given-names>RD</given-names></name><name><surname>Reininghaus</surname><given-names>B</given-names></name><name><surname>Mitchell</surname><given-names>EP</given-names></name></person-group>. <article-title>Pathological findings in African buffaloes (<italic>Syncerus caffer</italic>) in South Africa</article-title>. <source>J S Afr Vet Assoc.</source> (<year>2021</year>) <volume>92</volume>:<fpage>e1</fpage>&#x2013;<lpage>e11</lpage>. <pub-id pub-id-type="doi">10.4102/jsava.v92i0.2117</pub-id><pub-id pub-id-type="pmid">34476957</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bronsvoort</surname><given-names>BM</given-names></name><name><surname>Koterwas</surname><given-names>B</given-names></name><name><surname>Land</surname><given-names>F</given-names></name><name><surname>Handel</surname><given-names>IG</given-names></name><name><surname>Tucker</surname><given-names>J</given-names></name><name><surname>Morgan</surname><given-names>KL</given-names></name><etal/></person-group>. <article-title>Comparison of a flow assay for brucellosis antibodies with the reference cELISA test in West African <italic>Bos indicus</italic></article-title>. PLoS ONE. (<year>2009</year>) <volume>4</volume>:<fpage>e5221</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0005221</pub-id><pub-id pub-id-type="pmid">19381332</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Madut</surname><given-names>NA</given-names></name><name><surname>Muwonge</surname><given-names>A</given-names></name><name><surname>Nasinyama</surname><given-names>GW</given-names></name><name><surname>Muma</surname><given-names>JB</given-names></name><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Jubara</surname><given-names>AS</given-names></name><etal/></person-group>. <article-title>The sero-prevalence of brucellosis in cattle and their herders in Bahr el Ghazal region, South Sudan</article-title>. <source>PLoS Negl Trop Dis.</source> (<year>2018</year>) <volume>12</volume>:<fpage>e0006456</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pntd.0006456</pub-id><pub-id pub-id-type="pmid">29924843</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanogo</surname><given-names>M</given-names></name><name><surname>Abatih</surname><given-names>E</given-names></name><name><surname>Thys</surname><given-names>E</given-names></name><name><surname>Fretin</surname><given-names>D</given-names></name><name><surname>Berkvens</surname><given-names>D</given-names></name><name><surname>Saegerman</surname><given-names>C</given-names></name></person-group>. <article-title>Importance of identification and typing of <italic>Brucellae</italic> from West African cattle: a review</article-title>. <source>Vet Microbiol.</source> (<year>2013</year>) <volume>164</volume>:<fpage>202</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.1016/j.vetmic.2013.02.009</pub-id><pub-id pub-id-type="pmid">23499188</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>HC</given-names></name><name><surname>Vergnaud</surname><given-names>G</given-names></name></person-group>. <article-title>Molecular characterisation of <italic>Brucella</italic> species</article-title>. <source>Rev Sci Tech.</source> (<year>2013</year>) <volume>32</volume>:<fpage>149</fpage>&#x2013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.20506/rst.32.1.2189</pub-id><pub-id pub-id-type="pmid">23837373</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>ZG</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><name><surname>Zhao</surname><given-names>HY</given-names></name><name><surname>Piao</surname><given-names>DR</given-names></name><name><surname>Jiang</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>ZJ</given-names></name></person-group>. <article-title>Investigation of the molecular characteristics of <italic>Brucella</italic> isolates from Guangxi Province, China</article-title>. <source>BMC Microbiol.</source> (<year>2019</year>) <volume>19</volume>:<fpage>292</fpage>. <pub-id pub-id-type="doi">10.1186/s12866-019-1665-6</pub-id><pub-id pub-id-type="pmid">31842756</pub-id></mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kydyshov</surname><given-names>K</given-names></name><name><surname>Usenbaev</surname><given-names>N</given-names></name><name><surname>Berdiev</surname><given-names>S</given-names></name><name><surname>Dzhaparova</surname><given-names>A</given-names></name><name><surname>Abidova</surname><given-names>A</given-names></name><name><surname>Kebekbaeva</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>First record of the human infection of <italic>Brucella melitensis</italic> in Kyrgyzstan: evidence from whole-genome sequencing-based analysis</article-title>. <source>Infect Dis Poverty.</source> (<year>2022</year>) <volume>11</volume>:<fpage>120</fpage>. <pub-id pub-id-type="doi">10.1186/s40249-022-01044-1</pub-id><pub-id pub-id-type="pmid">36482466</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>X</given-names></name><name><surname>Zhao</surname><given-names>Z</given-names></name><name><surname>Ma</surname><given-names>S</given-names></name><name><surname>Guo</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name><etal/></person-group>. Brucella melitensis, a latent &#x201C;travel bacterium,&#x201D; continual spread and expansion from Northern to Southern China and its relationship to worldwide lineages. <source>Emerg Microbes Infect.</source> (<year>2020</year>) <volume>9</volume>:<fpage>1618</fpage>&#x2013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1080/22221751.2020.1788995</pub-id><pub-id pub-id-type="pmid">32594852</pub-id></mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pelerito</surname><given-names>A</given-names></name><name><surname>Nunes</surname><given-names>A</given-names></name><name><surname>Grilo</surname><given-names>T</given-names></name><name><surname>Isidro</surname><given-names>J</given-names></name><name><surname>Silva</surname><given-names>C</given-names></name><name><surname>Ferreira</surname><given-names>AC</given-names></name><etal/></person-group>. <article-title>Genetic Characterization of <italic>Brucella</italic> spp</article-title>.: whole genome sequencing-based approach for the determination of multiple locus variable number tandem repeat profiles. <source>Front Microbiol.</source> (<year>2021</year>) <volume>12</volume>:<fpage>740068</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2021.740068</pub-id><pub-id pub-id-type="pmid">34867857</pub-id></mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Le Fl&#xE8;che</surname><given-names>P</given-names></name><name><surname>Jacques</surname><given-names>I</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name><name><surname>Al Dahouk</surname><given-names>S</given-names></name><name><surname>Bouchon</surname><given-names>P</given-names></name><name><surname>Denoeud</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Evaluation and selection of tandem repeat loci for a <italic>Brucella</italic> MLVA typing assay</article-title>. <source>BMC Microbiol.</source> (<year>2006</year>) <volume>6</volume>:<fpage>9</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2180-6-9</pub-id><pub-id pub-id-type="pmid">16469109</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Armstrong</surname><given-names>GL</given-names></name><name><surname>MacCannell</surname><given-names>DR</given-names></name><name><surname>Taylor</surname><given-names>J</given-names></name><name><surname>Carleton</surname><given-names>HA</given-names></name><name><surname>Neuhaus</surname><given-names>EB</given-names></name><name><surname>Bradbury</surname><given-names>RS</given-names></name><etal/></person-group>. <article-title>Pathogen genomics in public health</article-title>. <source>N Engl J Med.</source> (<year>2019</year>) <volume>381</volume>:<fpage>2569</fpage>&#x2013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMsr1813907</pub-id><pub-id pub-id-type="pmid">31881145</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferdinand</surname><given-names>AS</given-names></name><name><surname>Kelaher</surname><given-names>M</given-names></name><name><surname>Lane</surname><given-names>CR</given-names></name><name><surname>da Silva</surname><given-names>AG</given-names></name><name><surname>Sherry</surname><given-names>NL</given-names></name><name><surname>Ballard</surname><given-names>SA</given-names></name><etal/></person-group>. <article-title>An implementation science approach to evaluating pathogen whole genome sequencing in public health</article-title>. <source>Genome Med.</source> (<year>2021</year>) <volume>13</volume>:<fpage>121</fpage>. <pub-id pub-id-type="doi">10.1186/s13073-021-00934-7</pub-id><pub-id pub-id-type="pmid">34321076</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanogo</surname><given-names>M</given-names></name><name><surname>Fretin</surname><given-names>D</given-names></name><name><surname>Thys</surname><given-names>E</given-names></name><name><surname>Saegerman</surname><given-names>C</given-names></name></person-group>. <article-title>Exploring the diversity of field strains of <italic>Brucella abortus</italic> biovar 3 isolated in West Africa</article-title>. <source>Front Microbiol.</source> (<year>2017</year>) <volume>8</volume>:<fpage>1232</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2017.01232</pub-id><pub-id pub-id-type="pmid">28713359</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sayour</surname><given-names>AE</given-names></name><name><surname>Elbauomy</surname><given-names>E</given-names></name><name><surname>Abdel-Hamid</surname><given-names>NH</given-names></name><name><surname>Mahrous</surname><given-names>A</given-names></name><name><surname>Carychao</surname><given-names>D</given-names></name><name><surname>Cooley</surname><given-names>MB</given-names></name><etal/></person-group>. <article-title>Fingerprinting of <italic>Brucella melitensis</italic> circulating among livestock and cases of sporadic human illness in Egypt</article-title>. <source>Transbound Emerg Dis.</source> (<year>2020</year>) <volume>67</volume>:<fpage>2435</fpage>&#x2013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1111/tbed.13581</pub-id><pub-id pub-id-type="pmid">32304280</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ledwaba</surname><given-names>MB</given-names></name><name><surname>Gomo</surname><given-names>C</given-names></name><name><surname>Lekota</surname><given-names>KE</given-names></name><name><surname>Le Fl&#xE8;che</surname><given-names>P</given-names></name><name><surname>Hassim</surname><given-names>A</given-names></name><name><surname>Vergnaud</surname><given-names>G</given-names></name><etal/></person-group>. <article-title>Molecular characterization of <italic>Brucella</italic> species from Zimbabwe</article-title>. <source>PLoS Negl Trop Dis.</source> (<year>2019</year>) <volume>13</volume>:<fpage>e0007311</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pntd.0007311</pub-id><pub-id pub-id-type="pmid">31107864</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Holzer</surname><given-names>K</given-names></name><name><surname>Wareth</surname><given-names>G</given-names></name><name><surname>El-Diasty</surname><given-names>M</given-names></name><name><surname>Abdel-Hamid</surname><given-names>NH</given-names></name><name><surname>Hamdy</surname><given-names>MER</given-names></name><name><surname>Moustafa</surname><given-names>SA</given-names></name><etal/></person-group>. <article-title>Tracking the distribution, genetic diversity and lineage of <italic>Brucella melitensis</italic> recovered from humans and animals in Egypt based on core-genome SNP analysis and in silico MLVA-16</article-title>. <source>Transbound Emerg Dis.</source> (<year>2022</year>) <volume>69</volume>:<fpage>3952</fpage>&#x2013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1111/tbed.14768</pub-id><pub-id pub-id-type="pmid">36383491</pub-id></mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ledwaba</surname><given-names>MB</given-names></name><name><surname>Glover</surname><given-names>BA</given-names></name><name><surname>Matle</surname><given-names>I</given-names></name><name><surname>Profiti</surname><given-names>G</given-names></name><name><surname>Martelli</surname><given-names>PL</given-names></name><name><surname>Casadio</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Whole genome sequence analysis of <italic>Brucella abortus</italic> isolates from various regions of South Africa</article-title>. <source>Microorganisms</source>. (<year>2021</year>) <volume>9</volume>:<fpage>e570</fpage>. <pub-id pub-id-type="doi">10.3390/microorganisms9030570</pub-id><pub-id pub-id-type="pmid">33799545</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nascimento</surname><given-names>M</given-names></name><name><surname>Sousa</surname><given-names>A</given-names></name><name><surname>Ramirez</surname><given-names>M</given-names></name><name><surname>Francisco</surname><given-names>AP</given-names></name><name><surname>Carri&#xE7;o</surname><given-names>JA</given-names></name><name><surname>Vaz</surname><given-names>C</given-names></name><etal/></person-group>. 2.0: providing scalable data integration and visualization for multiple phylogenetic inference methods. <source>Bioinformatics.</source> (<year>2016</year>) <volume>33</volume>:<fpage>128</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btw582</pub-id><pub-id pub-id-type="pmid">27605102</pub-id></mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al Dahouk</surname><given-names>S</given-names></name><name><surname>Fl&#xE8;che</surname><given-names>PL</given-names></name><name><surname>N&#xF6;ckler</surname><given-names>K</given-names></name><name><surname>Jacques</surname><given-names>I</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name><name><surname>Scholz</surname><given-names>HC</given-names></name><etal/></person-group>. <article-title>Evaluation of Brucella MLVA typing for human brucellosis</article-title>. <source>J Microbiol Methods.</source> (<year>2007</year>) <volume>69</volume>:<fpage>137</fpage>&#x2013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/j.mimet.2006.12.015</pub-id><pub-id pub-id-type="pmid">17261338</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>XM</given-names></name><name><surname>Zhu</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><name><surname>Cheng</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Molecular characteristics of <italic>Brucella</italic> isolates collected from humans in Hainan Province, China</article-title>. <source>Front Microbiol.</source> (<year>2020</year>) <volume>11</volume>:<fpage>452</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2020.00452</pub-id><pub-id pub-id-type="pmid">32292391</pub-id></mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurtz</surname><given-names>S</given-names></name><name><surname>Phillippy</surname><given-names>A</given-names></name><name><surname>Delcher</surname><given-names>AL</given-names></name><name><surname>Smoot</surname><given-names>M</given-names></name><name><surname>Shumway</surname><given-names>M</given-names></name><name><surname>Antonescu</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Versatile and open software for comparing large genomes</article-title>. <source>Genome Biol.</source> (<year>2004</year>) <volume>5</volume>:<fpage>R12</fpage>. <pub-id pub-id-type="doi">10.1186/gb-2004-5-2-r12</pub-id><pub-id pub-id-type="pmid">14759262</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chiaromonte</surname><given-names>F</given-names></name><name><surname>Yap</surname><given-names>VB</given-names></name><name><surname>Miller</surname><given-names>W</given-names></name></person-group>. <article-title>Scoring pairwise genomic sequence alignments</article-title>. <source>Pac Symp Biocomput.</source> (<year>2002</year>) <volume>2002</volume>:<fpage>115</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1142/9789812799623_0012</pub-id><pub-id pub-id-type="pmid">11928468</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vilella</surname><given-names>AJ</given-names></name><name><surname>Severin</surname><given-names>J</given-names></name><name><surname>Ureta-Vidal</surname><given-names>A</given-names></name><name><surname>Heng</surname><given-names>L</given-names></name><name><surname>Durbin</surname><given-names>R</given-names></name><name><surname>Birney</surname><given-names>E</given-names></name></person-group>. <article-title>EnsemblCompara GeneTrees: complete, duplication-aware phylogenetic trees in vertebrates</article-title>. <source>Genome Res.</source> (<year>2009</year>) <volume>19</volume>:<fpage>327</fpage>&#x2013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1101/gr.073585.107</pub-id><pub-id pub-id-type="pmid">19029536</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simpson</surname><given-names>G</given-names></name><name><surname>Thompson</surname><given-names>PN</given-names></name><name><surname>Saegerman</surname><given-names>C</given-names></name><name><surname>Marcotty</surname><given-names>T</given-names></name><name><surname>Letesson</surname><given-names>JJ</given-names></name><name><surname>de Bolle</surname><given-names>X</given-names></name><etal/></person-group>. <article-title>Brucellosis in wildlife in Africa: a systematic review and meta-analysis</article-title>. <source>Sci Rep.</source> (<year>2021</year>) <volume>11</volume>:<fpage>5960</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-021-85441-w</pub-id><pub-id pub-id-type="pmid">33727580</pub-id></mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verger</surname><given-names>JM</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name></person-group>. <article-title>Characteristics of 273 strains of <italic>Brucella abortus</italic> of African origin</article-title>. <source>Dev Biol Stand.</source> (<year>1984</year>) <volume>56</volume>:<fpage>63</fpage>&#x2013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">6436118</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Akoko</surname><given-names>JM</given-names></name><name><surname>Pelle</surname><given-names>R</given-names></name><name><surname>Lukambagire</surname><given-names>AS</given-names></name><name><surname>Machuka</surname><given-names>EM</given-names></name><name><surname>Nthiwa</surname><given-names>D</given-names></name><name><surname>Mathew</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Molecular epidemiology of Brucella species in mixed livestock-human ecosystems in Kenya</article-title>. <source>Sci Rep.</source> (<year>2021</year>) <volume>11</volume>:<fpage>8881</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-021-88327-z</pub-id><pub-id pub-id-type="pmid">33893352</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>D'Anastasio</surname><given-names>R</given-names></name><name><surname>Zipfel</surname><given-names>B</given-names></name><name><surname>Moggi-Cecchi</surname><given-names>J</given-names></name><name><surname>Stanyon</surname><given-names>R</given-names></name><name><surname>Capasso</surname><given-names>L</given-names></name></person-group>. <article-title>Possible brucellosis in an early hominin skeleton from sterkfontein, South Africa</article-title>. <source>PLoS ONE.</source> (<year>2009</year>) <volume>4</volume>:<fpage>e6439</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0006439</pub-id><pub-id pub-id-type="pmid">19649274</pub-id></mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mathew</surname><given-names>C</given-names></name><name><surname>Stokstad</surname><given-names>M</given-names></name><name><surname>Johansen</surname><given-names>TB</given-names></name><name><surname>Klevar</surname><given-names>S</given-names></name><name><surname>Mdegela</surname><given-names>RH</given-names></name><name><surname>Mwamengele</surname><given-names>G</given-names></name><etal/></person-group>. <article-title>First isolation, identification, phenotypic and genotypic characterization of Brucella abortus biovar 3 from dairy cattle in Tanzania</article-title>. <source>BMC Vet Res.</source> (<year>2015</year>) <volume>11</volume>:<fpage>156</fpage>. <pub-id pub-id-type="doi">10.1186/s12917-015-0476-8</pub-id><pub-id pub-id-type="pmid">26195218</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bertu</surname><given-names>WJ</given-names></name><name><surname>Ducrotoy</surname><given-names>MJ</given-names></name><name><surname>Mu&#xF1;oz</surname><given-names>PM</given-names></name><name><surname>Mick</surname><given-names>V</given-names></name><name><surname>Z&#xFA;&#xF1;iga-Ripa</surname><given-names>A</given-names></name><name><surname>Bryssinckx</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>Phenotypic and genotypic characterization of Brucella strains isolated from autochthonous livestock reveals the dominance of <italic>B. abortus</italic> biovar 3a in Nigeria</article-title>. <source>Vet Microbiol.</source> (<year>2015</year>) <volume>180</volume>:<fpage>103</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.vetmic.2015.08.014</pub-id><pub-id pub-id-type="pmid">26315770</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matle</surname><given-names>I</given-names></name><name><surname>Ledwaba</surname><given-names>B</given-names></name><name><surname>Madiba</surname><given-names>K</given-names></name><name><surname>Makhado</surname><given-names>L</given-names></name><name><surname>Jambwa</surname><given-names>K</given-names></name><name><surname>Ntushelo</surname><given-names>N</given-names></name></person-group>. <article-title>Characterisation of <italic>Brucella</italic> species and biovars in South Africa between 2008 and 2018 using laboratory diagnostic data</article-title>. <source>Vet Med Sci.</source> (<year>2020</year>) <volume>7</volume>:<fpage>1245</fpage>&#x2013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1002/vms3.483</pub-id><pub-id pub-id-type="pmid">33974356</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alausa</surname><given-names>OK</given-names></name></person-group>. <article-title>The investigation and control of a large-scale community outbreak of brucellosis in Nigeria</article-title>. <source>Public Health.</source> (<year>1979</year>) <volume>93</volume>:<fpage>185</fpage>&#x2013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1016/S0033-3506(79)80124-9</pub-id><pub-id pub-id-type="pmid">451129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Esuruoso</surname><given-names>GO</given-names></name></person-group>. <article-title>Bovine brucellosis in Nigeria</article-title>. <source>Vet Rec.</source> (<year>1974</year>) <volume>95</volume>:<fpage>54</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1136/vr.95.3.54</pub-id><pub-id pub-id-type="pmid">4217017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kardjadj</surname><given-names>M</given-names></name></person-group>. <article-title>Epidemiological situation of transboundary animal diseases in North African countries-proposition of a regional control strategy</article-title>. <source>Trop Anim Health Prod.</source> (<year>2018</year>) <volume>50</volume>:<fpage>459</fpage>&#x2013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1007/s11250-017-1453-y</pub-id><pub-id pub-id-type="pmid">29302776</pub-id></mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Liautard</surname><given-names>JP</given-names></name><name><surname>Kohler</surname><given-names>S</given-names></name><name><surname>Fretin</surname><given-names>D</given-names></name><name><surname>Walravens</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>From the discovery of the Malta fever's agent to the discovery of a marine mammal reservoir, brucellosis has continuously been a re-emerging zoonosis</article-title>. <source>Vet Res.</source> (<year>2005</year>) <volume>36</volume>:<fpage>313</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1051/vetres:2005003</pub-id><pub-id pub-id-type="pmid">15845228</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maurin</surname><given-names>M</given-names></name></person-group>. <article-title>Brucellosis at the dawn of the 21st century</article-title>. <source>Med Mal Infect.</source> (<year>2005</year>) <volume>35</volume>:<fpage>6</fpage>&#x2013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1016/j.medmal.2004.08.003</pub-id><pub-id pub-id-type="pmid">15695027</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muendo</surname><given-names>EN</given-names></name><name><surname>Mbatha</surname><given-names>PM</given-names></name><name><surname>Macharia</surname><given-names>J</given-names></name><name><surname>Abdoel</surname><given-names>TH</given-names></name><name><surname>Janszen</surname><given-names>PV</given-names></name><name><surname>Pastoor</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Infection of cattle in Kenya with <italic>Brucella abortus</italic> biovar 3 and <italic>Brucella melitensis</italic> biovar 1 genotypes</article-title>. <source>Trop Anim Health Prod.</source> (<year>2012</year>) <volume>44</volume>:<fpage>17</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1007/s11250-011-9899-9</pub-id><pub-id pub-id-type="pmid">21660647</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vergnaud</surname><given-names>G</given-names></name><name><surname>Hauck</surname><given-names>Y</given-names></name><name><surname>Christiany</surname><given-names>D</given-names></name><name><surname>Daoud</surname><given-names>B</given-names></name><name><surname>Pourcel</surname><given-names>C</given-names></name><name><surname>Jacques</surname><given-names>I</given-names></name><etal/></person-group>. <article-title>Genotypic expansion within the population structure of classical brucella species revealed by MLVA16 typing of 1404 brucella isolates from different animal and geographic origins, 1974&#x2013;2006</article-title>. <source>Front Microbiol.</source> (<year>2018</year>) <volume>9</volume>:<fpage>1545</fpage>. <pub-id pub-id-type="doi">10.3389/fmicb.2018.01545</pub-id><pub-id pub-id-type="pmid">30050522</pub-id></mixed-citation>
+      </ref>
+      <ref id="B54">
+        <label>54.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minharro</surname><given-names>S</given-names></name><name><surname>Silva Mol</surname><given-names>JP</given-names></name><name><surname>Dorneles</surname><given-names>EM</given-names></name><name><surname>Pauletti</surname><given-names>RB</given-names></name><name><surname>Neubauer</surname><given-names>H</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Biotyping and genotyping (MLVA16) of <italic>Brucella abortus</italic> isolated from cattle in Brazil, 1977 to 2008</article-title>. <source>PLoS ONE.</source> (<year>2013</year>) <volume>8</volume>:<fpage>e81152</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0081152</pub-id><pub-id pub-id-type="pmid">24324670</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Her</surname><given-names>M</given-names></name><name><surname>Kang</surname><given-names>SI</given-names></name><name><surname>Cho</surname><given-names>DH</given-names></name><name><surname>Cho</surname><given-names>YS</given-names></name><name><surname>Hwang</surname><given-names>IY</given-names></name><name><surname>Heo</surname><given-names>YR</given-names></name><etal/></person-group>. <article-title>Application and evaluation of the MLVA typing assay for the <italic>Brucella abortus</italic> strains isolated in Korea</article-title>. <source>BMC Microbiol.</source> (<year>2009</year>) <volume>9</volume>:<fpage>230</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2180-9-230</pub-id><pub-id pub-id-type="pmid">19863821</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferreira</surname><given-names>AC</given-names></name><name><surname>Chambel</surname><given-names>L</given-names></name><name><surname>Tenreiro</surname><given-names>T</given-names></name><name><surname>Cardoso</surname><given-names>R</given-names></name><name><surname>Flor</surname><given-names>L</given-names></name><name><surname>Dias</surname><given-names>IT</given-names></name><etal/></person-group>. <article-title>MLVA16 typing of Portuguese human and animal <italic>Brucella melitensis</italic> and <italic>Brucella abortus</italic> isolates</article-title>. <source>PLoS ONE.</source> (<year>2012</year>) <volume>7</volume>:<fpage>e42514</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0042514</pub-id><pub-id pub-id-type="pmid">22905141</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <label>57.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wareth</surname><given-names>G</given-names></name><name><surname>El-Diasty</surname><given-names>M</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><name><surname>Schmoock</surname><given-names>G</given-names></name><name><surname>Moustafa</surname><given-names>SA</given-names></name><name><surname>El-Beskawy</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>MLVA-16 genotyping of <italic>Brucella abortus</italic> and <italic>Brucella melitensis</italic> isolates from different animal species in Egypt: geographical relatedness and the Mediterranean Lineage</article-title>. <source>Pathogens.</source> (<year>2020</year>) <volume>9</volume>:<fpage>498</fpage>. <pub-id pub-id-type="doi">10.3390/pathogens9060498</pub-id><pub-id pub-id-type="pmid">32580472</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <label>58.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>C</given-names></name><name><surname>Wei</surname><given-names>K</given-names></name><name><surname>Zhao</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>M</given-names></name><name><surname>Li</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Investigation of genetic relatedness of brucella strains in countries along the silk road</article-title>. <source>Front Vet Sci.</source> (<year>2020</year>) <volume>7</volume>:<fpage>539444</fpage>. <pub-id pub-id-type="doi">10.3389/fvets.2020.539444</pub-id><pub-id pub-id-type="pmid">33490123</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khames</surname><given-names>M</given-names></name><name><surname>Mick</surname><given-names>V</given-names></name><name><surname>de Miguel</surname><given-names>MJ</given-names></name><name><surname>Girault</surname><given-names>G</given-names></name><name><surname>Conde-&#xC1;lvarez</surname><given-names>R</given-names></name><name><surname>Khelef</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>The characterization of Brucella strains isolated from cattle in Algeria reveals the existence of a <italic>B. abortus</italic> lineage distinct from European and Sub-Saharan Africa strains</article-title>. <source>Vet Microbiol.</source> (<year>2017</year>) <volume>211</volume>:<fpage>124</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.vetmic.2017.10.008</pub-id><pub-id pub-id-type="pmid">29102107</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Su&#xE1;rez-Esquivel</surname><given-names>M</given-names></name><name><surname>Hern&#xE1;ndez-Mora</surname><given-names>G</given-names></name><name><surname>Ruiz-Villalobos</surname><given-names>N</given-names></name><name><surname>Barquero-Calvo</surname><given-names>E</given-names></name><name><surname>Chac&#xF3;n-D&#xED;az</surname><given-names>C</given-names></name><name><surname>Ladner</surname><given-names>JT</given-names></name><etal/></person-group>. <article-title>Persistence of <italic>Brucella abortus</italic> lineages revealed by genomic characterization and phylodynamic analysis</article-title>. <source>PLoS Negl Trop Dis.</source> (<year>2020</year>) <volume>14</volume>:<fpage>e0008235</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pntd.0008235</pub-id><pub-id pub-id-type="pmid">32287327</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

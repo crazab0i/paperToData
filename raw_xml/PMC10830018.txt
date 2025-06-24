@@ -1,0 +1,1144 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Negl Trop Dis</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Negl Trop Dis</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS Neglected Tropical Diseases</journal-title></journal-title-group><issn pub-type="ppub">1935-2727</issn><issn pub-type="epub">1935-2735</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38190394</article-id><article-id pub-id-type="pmc">10830018</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pntd.0011889</article-id><article-id pub-id-type="publisher-id">PNTD-D-23-00623</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Infectious Disease Control</subject><subj-group><subject>Vaccines</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Bacteria</subject><subj-group><subject>Brucella</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Bacterial Pathogens</subject><subj-group><subject>Brucella</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Bacterial Pathogens</subject><subj-group><subject>Brucella</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Bacterial Diseases</subject><subj-group><subject>Brucellosis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Tropical Diseases</subject><subj-group><subject>Neglected Tropical Diseases</subject><subj-group><subject>Brucellosis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Zoonoses</subject><subj-group><subject>Brucellosis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Medical Risk Factors</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Vaccination and Immunization</subject><subj-group><subject>Vaccine Development</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Vaccination and Immunization</subject><subj-group><subject>Vaccine Development</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject><subj-group><subject>Preventive Medicine</subject><subj-group><subject>Vaccination and Immunization</subject><subj-group><subject>Vaccine Development</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Engineering and Technology</subject><subj-group><subject>Equipment</subject><subj-group><subject>Safety Equipment</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject><subj-group><subject>Safety</subject><subj-group><subject>Safety Equipment</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Serology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>What risk do <italic toggle="yes">Brucella</italic> vaccines pose to humans? A systematic review of the scientific literature on occupational exposure</article-title><alt-title alt-title-type="running-head">Occupational risk to humans from <italic toggle="yes">Brucella</italic> vaccines</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Vives-Soto</surname><given-names>Manuel</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Puerta-Garc&#xED;a</surname><given-names>Amparo</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Rodr&#xED;guez-S&#xE1;nchez</surname><given-names>Esteban</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Pereira</surname><given-names>Jos&#xE9;-Luis</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes" equal-contrib="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-9517-3083</contrib-id><name><surname>Solera</surname><given-names>Javier</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Albacete Quironsalud Hospital, Albacete, Spain</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>CZ Vaccines Zendal Group, Pontevedra, Spain</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>University of Castilla&#x2013;La Mancha, Albacete, Spain</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Pappas</surname><given-names>Georgios</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Institute of Continuing Medical Education of Ioannina, GREECE</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>All authors declare that not competing interests exists.</p></fn><fn fn-type="other" id="econtrib001"><p>&#x2021; AP-G, ER-S and J-LP also contributed equally to this work.</p></fn><corresp id="cor001">* E-mail: <email>solera53@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>8</day><month>1</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2024</year></pub-date><volume>18</volume><issue>1</issue><elocation-id>e0011889</elocation-id><history><date date-type="received"><day>22</day><month>6</month><year>2023</year></date><date date-type="accepted"><day>27</day><month>12</month><year>2023</year></date></history><permissions><copyright-statement>&#xA9; 2024 Vives-Soto et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Vives-Soto et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pntd.0011889.pdf"/><abstract><sec id="sec001"><title>Background</title><p>Currently, vaccination of livestock with attenuated strains of <italic toggle="yes">Brucella</italic> remains an essential measure for controlling brucellosis, although these vaccines may be dangerous to humans. The aim of this study was to review the risk posed to humans by occupational exposure to vaccine strains and the measures that should be implemented to minimize this risk.</p></sec><sec id="sec002"><title>Methods</title><p>This article reviewed the scientific literature indexed in PubMed up to September 30, 2023, following "the PRISMA guidelines". Special emphasis was placed on the vaccine strain used and the route of exposure. Non-occupational exposure to vaccine strains, intentional human inoculation, publications on exposure to wild strains, and secondary scientific sources were excluded from the study.</p></sec><sec id="sec003"><title>Results</title><p>Nineteen primary reports were found and classified in three subgroups: safety accidents in vaccine factories that led to an outbreak (n = 2), survellaince studies on vaccine manufacturing workers with a serologic diagnosis of <italic toggle="yes">Brucella</italic> infection (n = 3), and publications of infection by vaccine strains during their administration, including case reports, records of occupational accidents and investigations of outbreaks in vaccination campaigns (n = 14). Although accidental exposure during vaccine manufacturing were uncommon, they could provoke large outbreaks through airborne spread with risk of spread to the neighboring population. Besides, despite strict protection measures, a percentage of vaccine manufacturing workers developed positive <italic toggle="yes">Brucella</italic> serology without clinical infection. The most frequent type of exposure with symptomatic infection was needle injury during vaccine administration. Prolonged contact with the pathogen, lack of information and a low adherence to personal protective equipment (PPE) use in the work environment were commonly associated with infection.</p></sec><sec id="sec004"><title>Conclusions</title><p><italic toggle="yes">Brucella</italic> vaccines pose occupational risk of contagion to humans from their production to their administration to livestock, although morbidity is low and deaths were not reported. Recommended protective measures and active surveillance of exposed workers appeared to reduce this risk. It would be advisable to carry out observational studies and/or systematic registries using solid diagnostic criteria.</p></sec></abstract><abstract abstract-type="summary"><title>Summary</title><p>Vaccination of livestock with attenuated strains of <italic toggle="yes">Brucella</italic> is an effective measure for controlling brucellosis, and they will continue to apply. Following "the PRISMA guidelines" we reviewed the risk posed to humans by occupational exposure to these strains and the measures that should be implemented to minimize this risk. Nineteen primary reports were included. The most frequent type of exposure was needle injury during vaccine administration, while safety accidents during vaccine manufacturing were less frequent but caused large outbreaks. Prolonged contact with the pathogen, lack of information and a low adherence to personal protective equipment (PPE) use in the work environment were commonly associated with infection. Despite strict protection measures, a percentage of vaccine manufacturing workers developed a positive serology to the vaccine strain without clinical infection. To conclude, <italic toggle="yes">Brucella</italic> vaccines pose risk of contagion to humans from their production to their administration to livestock, but with a low morbi-mortality.</p></abstract><funding-group><funding-statement>The author(s) received no specific funding for this work. The authors thank the Biofabri company for paying the costs of publishing this scientific article.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="12"/></counts><custom-meta-group><custom-meta><meta-name>PLOS Publication Stage</meta-name><meta-value>vor-update-to-uncorrected-proof</meta-value></custom-meta><custom-meta><meta-name>Publication Update</meta-name><meta-value>2024-01-31</meta-value></custom-meta><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>The authors confirm that all data underlying the findings are fully available without restriction. All relevant data are within the paper.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>The authors confirm that all data underlying the findings are fully available without restriction. All relevant data are within the paper.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec005">
+      <title>Introduction</title>
+      <p>Human brucellosis is a zoonosis with worldwide distribution. A recent study has estimated that there are at least 1.6&#x2013;2.1 million new cases of human brucellosis each year [<xref rid="pntd.0011889.ref001" ref-type="bibr">1</xref>]. Although the number of reported cases have decreased in more developed countries, the continued presence of the disease in some endemic areas, particularly in Eastern Europe, the Asia-Pacific, Central and South America, and Africa, and the potential use of <italic toggle="yes">Brucella</italic> species as an agent of bioterrorism, make brucellosis a major public health hazard with important sanitary and economic repercussions [<xref rid="pntd.0011889.ref002" ref-type="bibr">2</xref>].</p>
+      <p>Currently, livestock vaccination remains an essential measure for the control of this zoonosis, and only live attenuated vaccines have shown efficacy in preventing infection in these animals [<xref rid="pntd.0011889.ref003" ref-type="bibr">3</xref>,<xref rid="pntd.0011889.ref004" ref-type="bibr">4</xref>]. The strains currently used in most countries for the control of bovine brucellosis are <italic toggle="yes">Brucella abortus</italic> S19 and <italic toggle="yes">B</italic>. <italic toggle="yes">abortus</italic> RB51, while the strain used for small ruminants is <italic toggle="yes">B</italic>. <italic toggle="yes">melitensis</italic> Rev.1 [<xref rid="pntd.0011889.ref005" ref-type="bibr">5</xref>]. In China, <italic toggle="yes">B</italic>. <italic toggle="yes">abortus</italic> A19, a strain derived from S19, is used for cattle, and <italic toggle="yes">B</italic>. <italic toggle="yes">abortus</italic> S2 strain for pigs [<xref rid="pntd.0011889.ref006" ref-type="bibr">6</xref>].</p>
+      <p>These strains are capable of establishing limited infection in livestock, mimicking the natural infection process by wild strains and thus conferring protection. However, these vaccines are not used in humans due to the high risk of developing acute brucellosis [<xref rid="pntd.0011889.ref004" ref-type="bibr">4</xref>,<xref rid="pntd.0011889.ref007" ref-type="bibr">7</xref>]; they are capable of infecting humans with occupational exposure via the oral, nasal, or conjunctival routes, and by accidental needle inoculation [<xref rid="pntd.0011889.ref008" ref-type="bibr">8</xref>,<xref rid="pntd.0011889.ref009" ref-type="bibr">9</xref>]. Whatever the route of entry, the infection can be symptomatic or asymptomatic, and localized or systemic [<xref rid="pntd.0011889.ref009" ref-type="bibr">9</xref>,<xref rid="pntd.0011889.ref010" ref-type="bibr">10</xref>]. Serologic tests continue to be used to diagnose brucellosis, given the risk and difficulty involved in obtaining positive cultures [<xref rid="pntd.0011889.ref009" ref-type="bibr">9</xref>,<xref rid="pntd.0011889.ref011" ref-type="bibr">11</xref>]. However, serology cannot distinguish between vaccine and wild strains and current standard serologic assays cannot detect antibodies against RB51 infection [<xref rid="pntd.0011889.ref012" ref-type="bibr">12</xref>]. The recent development of molecular techniques (PCR) has made it possible to distinguish vaccine from wild strains in animal and human samples [<xref rid="pntd.0011889.ref013" ref-type="bibr">13</xref>].</p>
+      <p>Two meta-analyses on the occupational risks of contracting brucellosis have been published, with some references to the risks that <italic toggle="yes">Brucella</italic> vaccine handling poses for humans. One of these, by Xie et al (2018), analyzed 27 papers reviewing adverse effects in animals (n = 23) and humans (n = 4) associated with three licensed brucellosis vaccines: S19, Rev.1 and RB51 [<xref rid="pntd.0011889.ref014" ref-type="bibr">14</xref>]. They found that human adverse effects from occupational exposure to the vaccines usually involved behavioral and neurological systems, and highlighted that no fatal or permanent human damage was reported. The other systematic review was published by Pereira et al. in 2020 [<xref rid="pntd.0011889.ref015" ref-type="bibr">15</xref>], addressing the risk for human of contracting brucellosis by savage and vaccine <italic toggle="yes">Brucella</italic> strains. Regarding <italic toggle="yes">Brucella</italic> vaccine strains, they found only 7 elegible reports unsuitable for conducting a meta-analysis. New evidence has recently been published that sheds light on the risk of infection to humans by these vaccine strains.</p>
+      <p>At present, uncertainty remains about the real risk of these live attenuated vaccines for those who manufacture or administer them. Despite advances in the protection measures that must be applied when there is a risk of contact with these live bacterial vaccines [<xref rid="pntd.0011889.ref016" ref-type="bibr">16</xref>], accidental contagion still occurs. The aim of this study was to review the risk posed to humans by occupational exposure to vaccine strains and the effectiveness of the preventive measures being implemented to minimize this risk.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec006">
+      <title>Material and methods</title>
+      <p>The guidelines of the PRISMA statement (Preferred Reported Items for Systematic Reviews and Meta-Analyses) were formally adopted in this review [<xref rid="pntd.0011889.ref017" ref-type="bibr">17</xref>]. The search was conducted on September 30, 2023, with no date or country restrictions, using the PubMed database. Next, titles, abstracts and full texts were independently analyzed by two investigators. Three search algorithms were applied consecutively: firstly &#x201C;<italic toggle="yes">Brucella</italic> AND (Rev-1 OR Rev.1 OR S19 OR S.19 OR B19 OR B-19 OR RB51 OR A19 OR S2) AND Human[Mesh]&#x201D;, secondly &#x201C;<italic toggle="yes">Brucella</italic> AND Vaccine AND occupational AND Human[Mesh]&#x201D;, and thirdly &#x201C;("Laboratory Infection"[Mesh]) AND <italic toggle="yes">Brucella</italic>[Mesh]&#x201D;. Once the relevant studies were selected, their references were reviewed. Non-occupational exposure to vaccine strains, intentional human inoculation, publications on exposure to wild strains, and secondary scientific sources were excluded from the study.</p>
+    </sec>
+    <sec sec-type="results" id="sec007">
+      <title>Results</title>
+      <p>The PRISMA Flow Diagram is shown in <xref rid="pntd.0011889.g001" ref-type="fig">Fig 1</xref>. Nineteen articles were included from 185 records screened. Of the articles finally included, 12 were identified with the first algorithm, 3 with the second algorithm, 1 with the third algorithm, and 3 more from review of the reference lists. <xref rid="pntd.0011889.t001" ref-type="table">Table 1</xref> lists the publications of brucellosis cases acquired through laboral exposure to vaccine strains. These publications are summarized below in three subgroups: outbreaks after safety accidents in vaccine factories, risk for vaccine manufacturing workers, and risk during vaccine administration.</p>
+      <fig position="float" id="pntd.0011889.g001">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0011889.g001</object-id>
+        <label>Fig 1</label>
+        <caption>
+          <title>PRISMA flow diagram.</title>
+        </caption>
+        <graphic xlink:href="pntd.0011889.g001" position="float"/>
+      </fig>
+      <table-wrap position="float" id="pntd.0011889.t001">
+        <object-id pub-id-type="doi">10.1371/journal.pntd.0011889.t001</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>Publications of brucellosis cases acquired through exposure to vaccine strains.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="pntd.0011889.t001" id="pntd.0011889.t001g" position="float"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Reference</th>
+                <th align="left" rowspan="1" colspan="1">Year</th>
+                <th align="left" rowspan="1" colspan="1">Country</th>
+                <th align="left" rowspan="1" colspan="1">Vaccine strain</th>
+                <th align="center" rowspan="1" colspan="1">Case / exposed</th>
+                <th align="center" rowspan="1" colspan="1">Diagnostic criteria</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center" colspan="6" rowspan="1">
+<bold>Manufacturing safety accident</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Oll&#xE9;-Goig [<xref rid="pntd.0011889.ref018" ref-type="bibr">18</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1987</td>
+                <td align="left" rowspan="1" colspan="1">Spain</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">28/164</td>
+                <td align="left" rowspan="1" colspan="1">Clinical, serological<xref rid="t001fn002" ref-type="table-fn">*</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Pappas [<xref rid="pntd.0011889.ref019" ref-type="bibr">19</xref>&#x2013;<xref rid="pntd.0011889.ref021" ref-type="bibr">21</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2022</td>
+                <td align="left" rowspan="1" colspan="1">China</td>
+                <td align="left" rowspan="1" colspan="1">A19<xref rid="t001fn003" ref-type="table-fn">&#x2020;</xref></td>
+                <td align="center" rowspan="1" colspan="1">8/NR<xref rid="t001fn004" ref-type="table-fn">&#x2021;</xref></td>
+                <td align="left" rowspan="1" colspan="1">Serological, clinical, blood PCR</td>
+              </tr>
+              <tr>
+                <td align="center" colspan="6" rowspan="1">
+<bold>Manufacturing exposure</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Wallach [<xref rid="pntd.0011889.ref022" ref-type="bibr">22</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2008</td>
+                <td align="left" rowspan="1" colspan="1">Argentina</td>
+                <td align="left" rowspan="1" colspan="1">S19</td>
+                <td align="center" rowspan="1" colspan="1">21/30</td>
+                <td align="left" rowspan="1" colspan="1">Serological, clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Vives-Soto [<xref rid="pntd.0011889.ref023" ref-type="bibr">23</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2022</td>
+                <td align="left" rowspan="1" colspan="1">Spain</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1 (S19)<xref rid="t001fn005" ref-type="table-fn">&#xA7;</xref></td>
+                <td align="center" rowspan="1" colspan="1">47/115</td>
+                <td align="left" rowspan="1" colspan="1">Serosurveillance<xref rid="t001fn006" ref-type="table-fn">&#xB6;</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Zhou [<xref rid="pntd.0011889.ref006" ref-type="bibr">6</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2022</td>
+                <td align="left" rowspan="1" colspan="1">China</td>
+                <td align="left" rowspan="1" colspan="1">A19/S2</td>
+                <td align="center" rowspan="1" colspan="1">61/140</td>
+                <td align="left" rowspan="1" colspan="1">Serosurveillance<xref rid="t001fn006" ref-type="table-fn">&#xB6;</xref></td>
+              </tr>
+              <tr>
+                <td align="center" colspan="6" rowspan="1">
+<bold>Vaccine administration</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Blasco [<xref rid="pntd.0011889.ref024" ref-type="bibr">24</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1993</td>
+                <td align="left" rowspan="1" colspan="1">Spain</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">2/NR</td>
+                <td align="left" rowspan="1" colspan="1">Blood culture</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Arapovic [<xref rid="pntd.0011889.ref025" ref-type="bibr">25</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2020</td>
+                <td align="left" rowspan="1" colspan="1">Bosnia Herzegovina</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">1/NR</td>
+                <td align="left" rowspan="1" colspan="1">Blood cultured<xref rid="t001fn007" ref-type="table-fn">#</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Vincent [<xref rid="pntd.0011889.ref026" ref-type="bibr">26</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1970</td>
+                <td align="left" rowspan="1" colspan="1">France</td>
+                <td align="left" rowspan="1" colspan="1">S19</td>
+                <td align="center" rowspan="1" colspan="1">2/NR</td>
+                <td align="left" rowspan="1" colspan="1">Clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Nicoletti [<xref rid="pntd.0011889.ref027" ref-type="bibr">27</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1986</td>
+                <td align="left" rowspan="1" colspan="1">USA</td>
+                <td align="left" rowspan="1" colspan="1">S19</td>
+                <td align="center" rowspan="1" colspan="1">1/NR</td>
+                <td align="left" rowspan="1" colspan="1">Clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Squarcione [<xref rid="pntd.0011889.ref028" ref-type="bibr">28</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1990</td>
+                <td align="left" rowspan="1" colspan="1">Italy</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">1/NR</td>
+                <td align="left" rowspan="1" colspan="1">Clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Hatcher [<xref rid="pntd.0011889.ref029" ref-type="bibr">29</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2018</td>
+                <td align="left" rowspan="1" colspan="1">USA</td>
+                <td align="left" rowspan="1" colspan="1">RB51</td>
+                <td align="center" rowspan="1" colspan="1">1/NR</td>
+                <td align="left" rowspan="1" colspan="1">Clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Pivnick [<xref rid="pntd.0011889.ref030" ref-type="bibr">30</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1966</td>
+                <td align="left" rowspan="1" colspan="1">Canada</td>
+                <td align="left" rowspan="1" colspan="1">S19</td>
+                <td align="center" rowspan="1" colspan="1">21%</td>
+                <td align="left" rowspan="1" colspan="1">Clinical<xref rid="t001fn008" ref-type="table-fn">**</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Stauffer [<xref rid="pntd.0011889.ref031" ref-type="bibr">31</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">1998</td>
+                <td align="left" rowspan="1" colspan="1">USA</td>
+                <td align="left" rowspan="1" colspan="1">RB51</td>
+                <td align="center" rowspan="1" colspan="1">4/32</td>
+                <td align="left" rowspan="1" colspan="1">Clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Ashford [<xref rid="pntd.0011889.ref032" ref-type="bibr">32</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2004</td>
+                <td align="left" rowspan="1" colspan="1">USA</td>
+                <td align="left" rowspan="1" colspan="1">RB51</td>
+                <td align="center" rowspan="1" colspan="1">19/26</td>
+                <td align="left" rowspan="1" colspan="1">Clinical, blood culture<xref rid="t001fn009" ref-type="table-fn">&#x2020;&#x2020;</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Avdikou [<xref rid="pntd.0011889.ref033" ref-type="bibr">33</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2005</td>
+                <td align="left" rowspan="1" colspan="1">Greece</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">41/NR</td>
+                <td align="left" rowspan="1" colspan="1">Serological</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Gunes [<xref rid="pntd.0011889.ref034" ref-type="bibr">34</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2013</td>
+                <td align="left" rowspan="1" colspan="1">Turkey</td>
+                <td align="left" rowspan="1" colspan="1">Rev.1</td>
+                <td align="center" rowspan="1" colspan="1">10/46</td>
+                <td align="left" rowspan="1" colspan="1">Serosurveillance<xref rid="t001fn010" ref-type="table-fn">&#x2021;&#x2021;</xref></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Proch [<xref rid="pntd.0011889.ref035" ref-type="bibr">35</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2018</td>
+                <td align="left" rowspan="1" colspan="1">India</td>
+                <td align="left" rowspan="1" colspan="1">S19</td>
+                <td align="center" rowspan="1" colspan="1">5/12</td>
+                <td align="left" rowspan="1" colspan="1">Serological</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Zhang [<xref rid="pntd.0011889.ref036" ref-type="bibr">36</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2018</td>
+                <td align="left" rowspan="1" colspan="1">China</td>
+                <td align="left" rowspan="1" colspan="1">S2</td>
+                <td align="center" rowspan="1" colspan="1">51/206</td>
+                <td align="left" rowspan="1" colspan="1">Serological, clinical</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Pereira [<xref rid="pntd.0011889.ref037" ref-type="bibr">37</xref>]</td>
+                <td align="left" rowspan="1" colspan="1">2021</td>
+                <td align="left" rowspan="1" colspan="1">Brazil</td>
+                <td align="left" rowspan="1" colspan="1">S19 / RB51</td>
+                <td align="center" rowspan="1" colspan="1">7/108</td>
+                <td align="left" rowspan="1" colspan="1">Clinical<xref rid="t001fn011" ref-type="table-fn">&#xA7;&#xA7;</xref></td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+        <table-wrap-foot>
+          <fn id="t001fn001">
+            <p>NR = not reported.</p>
+          </fn>
+          <fn id="t001fn002">
+            <p>* Two positive cultures.</p>
+          </fn>
+          <fn id="t001fn003">
+            <p>&#x2020; A19 specific PCR assay in blood samples.</p>
+          </fn>
+          <fn id="t001fn004">
+            <p>&#x2021; General population atack rate 10,528 / 68,571 at november 2020. Aerosol transmission with some evidence of zoonotic transmission.</p>
+          </fn>
+          <fn id="t001fn005">
+            <p>&#xA7; S19 vaccine manufacturing was marginal.</p>
+          </fn>
+          <fn id="t001fn006">
+            <p>&#xB6; No clinical infections.</p>
+          </fn>
+          <fn id="t001fn007">
+            <p># Confirmed by molecular methods (PCR).</p>
+          </fn>
+          <fn id="t001fn008">
+            <p>** Reported through a questionnaire. Number of cases not available.</p>
+          </fn>
+          <fn id="t001fn009">
+            <p>&#x2020;&#x2020; One positive culture taken from the inoculation site.</p>
+          </fn>
+          <fn id="t001fn010">
+            <p>&#x2021;&#x2021; Two clinical infections.</p>
+          </fn>
+          <fn id="t001fn011">
+            <p>&#xA7;&#xA7; Reported through an online questionnaire.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec id="sec008">
+        <title>Outbreaks after safety accidents in vaccine factories</title>
+        <p>Two safety accidents have been reported in <italic toggle="yes">Brucella</italic> vaccine factories. In both cases, a failure in the ventilation system and inadequate disinfection led to an outbreak through airborne spread. Although the first one only affected factory workers, the second one in addition spread to the nearby general population, giving rise to a serious public health problem. These reports are briefly described below.</p>
+        <p>In 1987, Oll&#xE9;-Goig et al. described an airborne-acquired outbreak of brucellosis in workers accidentally exposed to the Rev.1 strain at a manufacturing plant for veterinary biologic products in Gerona (Spain) [<xref rid="pntd.0011889.ref018" ref-type="bibr">18</xref>]. The study included 164 workers, of which 22 had clinical symptoms and serology compatible with acute brucellosis, and six had &#x201C;acute&#x201D; serology without symptoms (attack rate: 17.1 per cent). On the other hand, 20 workers had chronic brucellosis, 106 were infection-free, and 18 had no clear diagnosis. The laboratory was located in a Spanish province not considered an area of especially high endemicity for brucellosis, making acute brucellosis acquired outside the factory very unlikely. The epidemiological research demonstrated that a failure in the ventilation system resulted in an outbreak of brucellosis in nearby workers.</p>
+        <p>During late July to August 2019, a laboratory accident with dramatic public health consequences occurred at a <italic toggle="yes">Brucella</italic> vaccine factory in the city of Lanzhou, located in Gansu province of northwest China. The outbreak initially affected 213 individuals from the nearby Veterinary Research Institute, 8 workers from the biopharmaceutical plant, 2,500 residents of neighboring areas, and 150 people located further away [<xref rid="pntd.0011889.ref019" ref-type="bibr">19</xref>]. Until November 30, 2020, when the investigation was completed, the infection was confirmed in 10,528 individuals after testing 68,571 people (attack rate 15.4%) [<xref rid="pntd.0011889.ref020" ref-type="bibr">20</xref>]. There were no deaths reported related to this outbreak. Samples from the outbreak patients were subsequently analyzed using a specific PCR that identified the A19 strain, providing pathogenic evidence of the vaccine-derived infection outbreak [<xref rid="pntd.0011889.ref021" ref-type="bibr">21</xref>]. Transmission appears to have been by aerosols spread by the wind in a southeast direction. The epidemiologic research reported the use of an expired disinfectant for cleaning that did not kill bacteria, coupled with a leak at the plant that allowed contaminated waste to be leaked in the air. Interestingly, the contamination affected some animals and there were cases of zoonotic spread to humans.</p>
+      </sec>
+      <sec id="sec009">
+        <title>Risk for vaccine manufacturing workers</title>
+        <p>Only three observational studies on vaccine manufacturing workers have been reported. In all of them, the diagnosis of <italic toggle="yes">Brucella</italic> infection was serological and the prevalence was related to the degree of exposure to the vaccine strains.</p>
+        <p>In Argentina, Wallach et al. (2008) evaluated the pathological consequences of exposure to the vaccine strain <italic toggle="yes">Brucella abortus</italic> S19 in 30 employees from vaccine manufacturing plants, between 1999 and 2006 [<xref rid="pntd.0011889.ref022" ref-type="bibr">22</xref>]. Fifteen out of 21 laboratory employees with serologically-defined active infection showed clinical manifestations. Blood cultures were performed on nine patients and were negative in all cases. Fever, fatigue, joint stiffness, headache, muscle aches and neuropsycological symptoms were the most frequent findings. Only five of these workers recalled an accidental exposure, indicating that employees from laboratories producing the S19 vaccine are at risk of exposure to <italic toggle="yes">Brucella abortus</italic> by definition, and may become infected by this strain.</p>
+        <p>In 2022, a Spanish study by Vives-Soto et al. analyzed the human serologic response over time in a cohort of vaccine manufacturing workers exposed to the <italic toggle="yes">Brucella melitensis</italic> Rev.1 vaccine strain and, to a much lesser degree, the <italic toggle="yes">Brucella abortus</italic> S19 vaccine [<xref rid="pntd.0011889.ref023" ref-type="bibr">23</xref>]. Although none of the workers developed symptomatic brucellosis, seropositivity was observed in 47 (40.9%) of the 115 individuals examined, indicating asymptomatic infection with the vaccine strains, despite strict safety measures. This seropositivity was significantly associated with greater level of proximity to <italic toggle="yes">Brucella</italic> vaccine strain cultures. Although serology does not allow to distinguish between vaccine and wild strains, the possibility of contact with <italic toggle="yes">Brucella</italic> outside the factory was minimal, given the almost absence of cases in the region where the factory is located: &lt;0.08 cases per 100,000 inhabitants / year in the local official registry (<ext-link xlink:href="https://www.sergas.es/Saude-publica/Documents/105/BEG_XXV-1.pdf" ext-link-type="uri">https://www.sergas.es/Saude-publica/Documents/105/BEG_XXV-1.pdf</ext-link>). The fact that none of the workers studied developed the disease could be explained by the lower virulence of both vaccine strains and / or by a smaller bacterial inoculum due to strict compliance with safety measures. In Chongqing, China, Zhou et al. (2022) published a seroprevalence case-control study among employees of a vaccine factory engaged in the production of A19 and S2 <italic toggle="yes">Brucella</italic> strains with findings similar to those of the publication described above. They reported a sero-prevalence of 43.6% (61/140), although all workers were asymptomatic and no suspected or confirmed case was found [<xref rid="pntd.0011889.ref006" ref-type="bibr">6</xref>]. The investigation pointed out that close contact with biological products and aerosols were the potential transmission routes in the context of insufficient personal protection and disinfection.</p>
+      </sec>
+      <sec id="sec010">
+        <title>Risk during vaccine administration</title>
+        <p>Publications of infection by vaccine strains during administration are scarce and heterogeneous, making unfeasible to carry out a meta-analysis. We have collected data from various types of publications: case reports, surveillance systems of occupational accidents, and investigations of outbreaks in vaccination campaigns. Three of these publications also address the effectiveness of security measures.</p>
+        <p>Firstly we summarized the six case report articles. In 1993, Blasco et al. published two cases of culture-positive <italic toggle="yes">Brucella</italic> infection in Spanish veterinarians accidentally exposed to the Rev.1 strain by needlestick [<xref rid="pntd.0011889.ref024" ref-type="bibr">24</xref>]. In both individuals, the Rev.1 <italic toggle="yes">Brucella mellitensis</italic> strain was isolated from blood cultures. Later, in 2020, Arapovic reported the first case of Rev.1 human brucellosis in Bosnia and Herzegovina [<xref rid="pntd.0011889.ref025" ref-type="bibr">25</xref>]. The patient, a farmer, had assisted the veterinarian in vaccinating his sheep, without wearing any personal protective equipment (PPE). The diagnosis was made by blood culture isolation of the Rev.1 strain, which was identified by molecular methods (multiplex PCR). The other 4 case reports had negative cultures and were diagnosed by clinical and serological criteria after accidental punctures with the <italic toggle="yes">Brucella</italic> vaccine strains S19 [<xref rid="pntd.0011889.ref026" ref-type="bibr">26</xref>,<xref rid="pntd.0011889.ref027" ref-type="bibr">27</xref>], Rev.1 [<xref rid="pntd.0011889.ref028" ref-type="bibr">28</xref>] and RB51 [<xref rid="pntd.0011889.ref029" ref-type="bibr">29</xref>].</p>
+        <p>The first report with an incidence rate was published in 1966 by Pivnick et al. based on a survey of Canadian veterinarians who vaccinated cattle with the S19 strain [<xref rid="pntd.0011889.ref030" ref-type="bibr">30</xref>].They found that 46% had accidentally injected themselves at least once and 45% of them developed moderate to severe symptoms (attack rate 20.7%). In the United States (USA), the RB51 vaccine strain replaced the S19 vaccine in 1996, since RB51 was found to be equally immunogenic but less virulent than S19 [<xref rid="pntd.0011889.ref012" ref-type="bibr">12</xref>]. In 1998, the Centers for Disease Control and Prevention (CDC) published 32 notifications of unintentional inoculation or conjunctival exposure to the RB51 vaccine, occurring in Kansas (USA) in1997 [<xref rid="pntd.0011889.ref031" ref-type="bibr">31</xref>]. Three of the cases reported inflammation at the inoculation site, and another person described systemic symptoms. Subsequently, Ashford et al. (2004) published findings from the CDC registry involving reports received from 26 veterinarians accidentally exposed to RB51 during animal vaccination in USA, between 1998 and 2002 [<xref rid="pntd.0011889.ref032" ref-type="bibr">32</xref>]. Nineteen of them cited local or systemic symptoms, while 7 reported no adverse events associated with the accidental exposure. Only one of the veterinarians showed a positive culture, which was taken from the cutaneous injection site. Since current standard serologic assays cannot detect antibodies against RB51 infection [<xref rid="pntd.0011889.ref012" ref-type="bibr">12</xref>], and the passive surveillance registry probably underestimates rates of needlestick injuries, the authors concluded that we cannot yet determine whether the RB51vaccine has the potential to cause systemic brucellosis in humans.</p>
+        <p>In 2005, Avdikou et al. described the results of a local brucellosis surveillance system implemented in a defined region of Northwestern Greece [<xref rid="pntd.0011889.ref033" ref-type="bibr">33</xref>]. Of a total of 152 newly diagnosed cases recorded during a 2-year study period, 41 (27.0%) reported contact with the Rev.1 vaccine during its administration.</p>
+        <p>Gunes et al. published in 2013 a serosurveillance study of 46 veterinary staff assigned to a sheep vaccination campaign in Turkey using the Rev.1 strain [<xref rid="pntd.0011889.ref034" ref-type="bibr">34</xref>]. Ten persons became seropositive (Rose Bengal test and Wright test &#x2265;1/160), but only 2 developed symptoms of infection and were treated with antibiotics. At 6 months, all of them showed negative serology (Wright test). The study suffers from some limitations since serologic tests were not performed prior to the vaccination campaign, and the prevention measures applied were not stated.</p>
+        <p>Between 2015 and 2016, Proch et al conducted a study aimed to identify risk factors associated with occupational <italic toggle="yes">Brucella</italic> infection in 296 veterinary personnel in India [<xref rid="pntd.0011889.ref035" ref-type="bibr">35</xref>]. Blood samples were taken from 279 individuals and the Rose Bengal, standard tube agglutination (STAT) and ELISA tests were performed. Previous <italic toggle="yes">Brucella</italic> needlestick injury with the S19 strain was reported in 12 individuals, of whom 5 had a positive serologic test for <italic toggle="yes">Brucella</italic>. After adjusting for other variables, the odds of having a positive serologic test were higher for non-veterinarians, individuals with more seniority and, paradoxically, for those using personal protective equipment (PPE). However, only 29/275 (10.5%) subjects used PPE, and the appropriateness of its use could not be assesed.</p>
+        <p>In 2017, an outbreak of brucellosis caused by S2 strain was reported in Tianzhu County, located in the Gansu province of China, during an animal vaccination campaign [<xref rid="pntd.0011889.ref036" ref-type="bibr">36</xref>]. A total of 206 controllers participated in the immunization, of wich 51 were postive by serologic testing (infection rate: 24.8%). Although blood cultures of the 51 workers were negative, 48/51 (94.1%) suffered fatigue and sweat, 4 had fever, and 5 swelling of the testis. The vaccination work did not comply with biosafety recommendations, including improper handling in vaccination, inadequate use of PPE, and imperfect emergency measures.</p>
+        <p>Recently, in 2021, Pereira et al. published the results of an online questionnaire carried out on veterinarians registered to administer S19 and RB51 vaccines in Minas Gerais state, Brazil [<xref rid="pntd.0011889.ref037" ref-type="bibr">37</xref>]. Three hundred and twenty-nine veterinarians were included in the analyses, using stratified random sampling. One hundred and eight (32.8%) of them cited accidental exposure to S19 or RB51 vaccine strains, 15 (4.6%) reported having had brucellosis, and 7 of those 15 considered that the infection was due to accidental exposure to <italic toggle="yes">Brucella</italic> vaccines. Poor knowledge of human brucellosis symptoms and lack of appropriate PPE use were risk factors for unintentional contact with S19 and RB51 vaccine strains.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec011">
+      <title>Discussion</title>
+      <p>Our results show that there is a risk of occupational infection by <italic toggle="yes">Brucella</italic> vaccine strains, although the small number of symptomatic infections recorded compared to the enormous number of doses administered [<ext-link xlink:href="https://www.coherentmarketinsights.com/market-insight/brucellosis-vaccines-market-5038" ext-link-type="uri">https://www.coherentmarketinsights.com/market-insight/brucellosis-vaccines-market-5038</ext-link>], suggests that most of them are subclinical. Humans can be infected through aerosol exposure and by mucosal and non-intact skin contact with live attenuated strains. Of the 5 vaccine strains currently used (Rev.1, S19, RB51, A19 and S2), Rev.1 seems to be the most virulent [<xref rid="pntd.0011889.ref007" ref-type="bibr">7</xref>]. Prolonged contact with the pathogen, lack of information and instructions provided to the occupational groups exposed, and low adherence to personal protective equipment (PPE) in the work environment, appeared to be the main risk factors leading to infection by these vaccine strains [<xref rid="pntd.0011889.ref006" ref-type="bibr">6</xref>,<xref rid="pntd.0011889.ref035" ref-type="bibr">35</xref>&#x2013;<xref rid="pntd.0011889.ref037" ref-type="bibr">37</xref>]. Vaccine factories accidents are infrequent but can cause serious outbreaks due to aerial spread. On the other hand, despite strict protection measures, a percentage of vaccine manufacturing workers developed positive serology without symptomatic illness [<xref rid="pntd.0011889.ref006" ref-type="bibr">6</xref>,<xref rid="pntd.0011889.ref023" ref-type="bibr">23</xref>]. In fact, Buchanan et al. had observed in slaughterhouses that workers with positive serology showed a lower risk of acquiring brucellosis [<xref rid="pntd.0011889.ref038" ref-type="bibr">38</xref>]. Among veterinarians and other vaccine administration workers, vaccine handling was the most reported source of exposure to <italic toggle="yes">Brucella</italic>.</p>
+      <p>The danger of these <italic toggle="yes">Brucella</italic> vaccine strains for use in human inoculation has been studied in various clinical trials. In 1962 Spink et al. carried out a clinical trial of the <italic toggle="yes">Brucella</italic> vaccines conducted in Minnesota, USA [<xref rid="pntd.0011889.ref007" ref-type="bibr">7</xref>]; 11 (68.7%) of the 16 volunteers receiving the Rev.1 strain developed acute brucellosis, four of them requiring hospitalization, while only 4 (25.0%) of the 16 individuals receiving the S19 vaccine reported &#x201C;undesirable sequelae&#x201D;. The efficacy and safety of human vaccination with <italic toggle="yes">Brucella</italic> attenuate strains, mainly S19, has been studied in some population studies in the last 60 years. Between 1952 and 1958, Vershilova et al. conducted the largest clinical trial on 3 million people engaged in the livestock/meat/food processing industries in the former Soviet Union, using the S19 strain for human vaccination [<xref rid="pntd.0011889.ref039" ref-type="bibr">39</xref>]. They observed an 59.5% reduction in cases of human brucellosis, with a &#x201C;high safety rate&#x201D; for the vaccine. In 1992, in France, Strady et al. carried out a prospective phase IV study with the S19 strain, on 161 professionally exposed human volunteers [<xref rid="pntd.0011889.ref040" ref-type="bibr">40</xref>]. The authors observed local pain after injection in 45.2% of subjects and systemic reactions in 5.0%; however, the clinical efficacy of the vaccine could not be evaluated due to an insufficient number of participants. Lastly, in 1994, Hadjichristodoulou et al. conducted a clinical trial on 271 volunteers in Greece; although the S19 vaccine caused some side effects in a quarter of subjects, it was considered safe enough for use on a large scale [<xref rid="pntd.0011889.ref041" ref-type="bibr">41</xref>]. Nonetheless, there is currently no licensed anti-<italic toggle="yes">Brucella</italic> vaccine for humans. Having said that, at the present time, research is being conducted on developing safe, effective, cross-protecting, exclusively human vaccines due to <italic toggle="yes">Brucella</italic>&#xB4;s zoonotic potential and possible use in bio-warfare [<xref rid="pntd.0011889.ref003" ref-type="bibr">3</xref>, <xref rid="pntd.0011889.ref004" ref-type="bibr">4</xref>].</p>
+      <p>On the other hand, indirect exposure to <italic toggle="yes">Brucella</italic> vaccine strains has been reported, including the assistance to livestick births and abortions, handling dairy products, and analyzing contaminated samples in clinical laboratories. As explained below, symptomatic cases were not due to exposure during vaccine manufacturing or administration. In 1998, the CDC described the case of a stillborn calf, delivered by cesarean. The necropsy revealed that death was due to infection by the RB51 strain <italic toggle="yes">Brucella abortus</italic> [<xref rid="pntd.0011889.ref031" ref-type="bibr">31</xref>]. The strain was isolated from placental and fetal lung tissue, as well as from the blood of the calf&#xB4;s mother and was identified by molecular methods (PCR). The nine persons who participated in the procedures received post-exposure prophylaxis, and none developed brucellosis during the 6-month follow-up period. Besides, <italic toggle="yes">Brucella abortus</italic> RB51 and S19 is transiently excreted in the milk of vaccinated cattle and can survive throughout the manufacture and conservation processes of both fresh and ripened cheeses [<xref rid="pntd.0011889.ref042" ref-type="bibr">42</xref>] which poses a risk of infection through ingestion. In this setting, in 2015 Osman et al. reported a serosurveillance study on 100 asymptomatic farmworkers employed in Khartoum, Sudan [<xref rid="pntd.0011889.ref043" ref-type="bibr">43</xref>]. Ten of them tested seropositive, including 4 milkers with a positive blood culture, and only in one of them the S19 strain was identified by PCR, but milk ingestion could not be excluded. Later, in 2018, Cossaboom et al. reported a case of human brucellosis associated with the consumption of unpasteurized cow&#x2019;s milk purchased from a dairy in Paradise, Texas, USA [<xref rid="pntd.0011889.ref044" ref-type="bibr">44</xref>]. The CDC&#x2019;s Bacterial Special Pathogens Branch (BSPB) confirmed the isolate as <italic toggle="yes">Brucella abortus</italic> vaccine strain RB51. Recently, in 2021, Sarmiento-Clemente et al. reported in Houston, USA, the first case of neurobrucellosis due to the vaccine strain RB51 [<xref rid="pntd.0011889.ref045" ref-type="bibr">45</xref>]. The patient was an 18-year old Hispanic female who had consumed unpasteurized cheese brought from Mexico 1 month before onset of symptoms. The strain was isolated in blood cultures and identified by molecular methods in the Houston Health Department/Laboratory. The authors also mentioned that the CDC reported 3 confirmed cases in the United States of human infection by RB51 through consumption of raw milk. Finally, in regard to clinical laboratory exposure, the CDC conducted in 2007 a laboratory proficiency test to a total of 254 laboratories of USA and Canada with potential RB51 exposure [<xref rid="pntd.0011889.ref046" ref-type="bibr">46</xref>]. Despite correct labeling of the samples, 916 laboratory workers did not handled the RB51 samples properly, including 679 (74.1%) with high-risk exposures and 237 (25.9%) with low-risk exposures, although no cases of brucellosis were reported. The authors highlight the need for routine adherence to recommended biosafety practices when working with infectious organisms.</p>
+      <p>To protect workers from being infected by these live attenuated vaccines, all individuals exposed to <italic toggle="yes">Brucella</italic> vaccine strains should be considered in a high-risk category, and procedures should be implemented to minimize spills, splashes and aerosols, as well as accidental needlesticks. Appropriate PPE for vaccination or close exposure to vaccinated animals must include gloves, closed footware, eye protection, a face shield and respiratory protection [<xref rid="pntd.0011889.ref016" ref-type="bibr">16</xref>]. During the vaccine manufacturing process and the handling of potentially contaminated laboratory samples, strict safety measures in compliance with the Biosafety in Microbiological and Biomedical Laboratories (BMBL) standards are currently in place. They include: a) at least class II Biological Safety Cabinets (BSCs), b) proper personal protective equipment (PPE) and c) use of primary and secondary barriers [<xref rid="pntd.0011889.ref047" ref-type="bibr">47</xref>]. Following accidental exposure to <italic toggle="yes">Brucella</italic> vaccine strains, symptoms should be monitored and antibiotic post-exposure prophylaxis administered [<xref rid="pntd.0011889.ref016" ref-type="bibr">16</xref>]. However, despite the exhaustive protection measures in place, a certain likelihood of exposure persists. Moreover, the applicability of these measures is not always guaranteed, due to human factors such as carelessness, negligence or malingering. Therefore, in addition to protocolize biosafety practices and adequate training for workers, programs monitoring adherence to these standards and quality audits should be implemented [<xref rid="pntd.0011889.ref046" ref-type="bibr">46</xref>]. Besides, companies should actively monitor their employees through periodic check-ups that include <italic toggle="yes">Brucella</italic> serology as quality control of the measures applied.</p>
+      <p>The present review suffers from some limitations. Firstly, there are relatively few published studies on occupational exposure to <italic toggle="yes">Brucella</italic> vaccine strains. In addition, these studies are highly heterogeneous in terms of methodology and diagnostic criteria, as shown in <xref rid="pntd.0011889.t001" ref-type="table">Table 1</xref>. Moreover, many of them used serology as a diagnostic criterion, which does not distinguish infections caused by vaccine strains from those produced by wild strains. Only two of the studies in our analysis [<xref rid="pntd.0011889.ref035" ref-type="bibr">35</xref>,<xref rid="pntd.0011889.ref037" ref-type="bibr">37</xref>] evaluated which protective measures were the most effective for exposed workers (that is to say, proper use of PPE, careful handling of vials and needles, and correct disinfection measures), but they were not entirely conclusive due to the difficulty in assessing degree of individual adherence to PPE use.</p>
+      <p>In conclusion, brucellosis vaccines pose risk of contagion to humans, both from the manufacturing process and their administration to cattle. Recommended protective measures, such as proper use of PPE, employment of primary and secondary barriers and the handling of vaccines in Biological Safety Cabinets, appeared to reduce this risk. Nonetheless, evidence for the efficacy of these measures is weak, and the incidence of human infection with these vaccines is unclear. Therefore, it would be advisable to carry out observational studies and/or systematic registries using solid diagnostic criteria in populations exposed to <italic toggle="yes">Brucella</italic> vaccine strains. In addition, clinical and serological follow-up programs for exposed workers should be established.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors thank Alexandra Salewski Msc for expert English review of the manuscript, and Carlos de Cabo PhD for preparation of the edition and presentation of the work for its publication.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pntd.0011889.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>G Laine</surname><given-names>CG</given-names></name>, <name><surname>Johnson</surname><given-names>VE</given-names></name>, <name><surname>Scott</surname><given-names>HM</given-names></name>, <name><surname>Arenas-Gamboa</surname><given-names>AM</given-names></name>. <article-title>Global estimate of human brucellosis incidence</article-title>. <source>Emerg Infect Dis</source>. <year>2023</year>; <volume>29</volume>:<fpage>1789</fpage>&#x2013;<lpage>1797</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3201/eid2909.230052</pub-id>
+<pub-id pub-id-type="pmid">37610167</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Dean</surname><given-names>A</given-names></name>, <name><surname>Crump</surname><given-names>L</given-names></name>, <name><surname>Greter</surname><given-names>H</given-names></name>, <name><surname>Schelling</surname><given-names>E</given-names></name>, <name><surname>Zinsstag</surname><given-names>J</given-names></name>. <article-title>Global burden of human brucellosis: a systematic review of disease frequency.</article-title>
+<source>PLOS Negl Trop Dis</source>
+<year>2012</year>; <volume>6</volume>:<fpage>e1865</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id>
+<pub-id pub-id-type="pmid">23145195</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Lalsiamthara</surname><given-names>J</given-names></name>, <name><surname>Lee</surname><given-names>JH</given-names></name>. <article-title>Development and trial of vaccines against Brucella</article-title>. <source>J Vet Sci</source>. <year>2017</year>; <volume>18</volume>(<issue>S1</issue>):<fpage>281</fpage>&#x2013;<lpage>290</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.4142/jvs.2017.18.S1.281</pub-id>
+<pub-id pub-id-type="pmid">28859268</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Heidary</surname><given-names>M</given-names></name>, <name><surname>Dashtbin</surname><given-names>S</given-names></name>, <name><surname>Ghanavati</surname><given-names>R</given-names></name>, <name><surname>Mahdizade Ari</surname><given-names>M</given-names></name>, <name><surname>Bostanghadiri</surname><given-names>N</given-names></name>, <name><surname>Darbandi</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Evaluation of brucellosis vaccines: a comprehensive review.</article-title>
+<source>Front Vet Sci</source>
+<year>2022</year>; <volume>9</volume>:<fpage>925773</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fvets.2022.925773</pub-id>
+<pub-id pub-id-type="pmid">35923818</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Carvalho</surname><given-names>TF</given-names></name>, <name><surname>Haddad</surname><given-names>JP</given-names></name>, <name><surname>Paix&#xE3;o</surname><given-names>TA</given-names></name>, <name><surname>Santos</surname><given-names>RL</given-names></name>. <article-title>Meta-analysis and advancement of brucellosis vaccinology.</article-title>
+<source>Plos One</source>
+<year>2016</year>; <volume>11</volume>: <fpage>e0166582</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0166582</pub-id>
+<pub-id pub-id-type="pmid">27846274</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhou</surname><given-names>C</given-names></name>, <name><surname>Huang</surname><given-names>W</given-names></name>, <name><surname>Xiang</surname><given-names>X</given-names></name>, <name><surname>Qiu</surname><given-names>J</given-names></name>, <name><surname>Xiao</surname><given-names>D</given-names></name>, <name><surname>Yao</surname><given-names>N</given-names></name>, <etal>et al</etal>. <article-title>Outbreak of occupational Brucella infection caused by live attenuated Brucella vaccine in a biological products company in Chongqing, China, 2020.</article-title>
+<source>Emerg Microbes Infect</source>
+<year>2022</year>; <volume>11</volume>:<fpage>2544</fpage>&#x2013;<lpage>2552</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/22221751.2022.2130099</pub-id>
+<pub-id pub-id-type="pmid">36178040</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Spink</surname><given-names>WW</given-names></name>, <name><surname>Hall</surname><given-names>JW</given-names><suffix>III</suffix></name>, <name><surname>Finstad</surname><given-names>J</given-names></name>, <name><surname>Mallet</surname><given-names>E</given-names></name>. <article-title>Immunization with viable Brucella organisms: results of a safety test in humans</article-title>. <source>Bull World Health Organ</source>
+<year>1962</year>; <volume>26</volume>:<fpage>409</fpage>&#x2013;<lpage>419</lpage>. PMCID: PMC2555657.<pub-id pub-id-type="pmid">13915813</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Berkelman</surname><given-names>RL</given-names></name>. <article-title>Human illness associated with use of veterinary vaccines</article-title>. <source>Clin Infect Dis</source>
+<year>2003</year>; <volume>37</volume>:<fpage>407</fpage>&#x2013;<lpage>414</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1086/375595</pub-id>
+<pub-id pub-id-type="pmid">12884166</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="book"><name><surname>Young</surname><given-names>JE</given-names></name>. <part-title>Chapter 8: Clinical manifestations of human brucellosis.</part-title> In: <name><surname>Young</surname><given-names>Edward J.</given-names></name>, <name><surname>Corbel</surname><given-names>Michael J.</given-names></name>, eds. <source>Brucellosis Clinical and Laboratory Aspects</source> (<edition designator="1">1st Edition</edition>). ISBN 9780849366611. Published May 31, <year>1989</year> by <publisher-name>CRC Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Pappas</surname><given-names>G</given-names></name>, <name><surname>Akritidis</surname><given-names>N</given-names></name>, <name><surname>Bosilkovski</surname><given-names>M</given-names></name>, <name><surname>Tsianos</surname><given-names>E</given-names></name>. <article-title>Brucellosis.</article-title>
+<source>N Engl J Med</source>
+<year>2005</year>; <volume>352</volume>:<fpage>2325</fpage>&#x2013;<lpage>2336</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1056/NEJMra050570</pub-id>
+<pub-id pub-id-type="pmid">15930423</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Al Dahouk</surname><given-names>SA</given-names></name>, <name><surname>N&#xF6;ckler</surname><given-names>K</given-names></name>. <article-title>Implications of laboratory diagnosis on brucellosis therapy.</article-title>
+<source>Expert Rev Anti Infect Ther</source>
+<year>2011</year>; <volume>9</volume>:<fpage>833</fpage>&#x2013;<lpage>845</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1586/eri.11.55</pub-id>
+<pub-id pub-id-type="pmid">21810055</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Kahler</surname><given-names>SC</given-names></name>. <article-title>Brucella abortus strain RB51 vaccine: its advantages and risks</article-title>. <source>J Am Vet Med Assoc</source>. <year>1998</year>; <volume>213</volume>:<fpage>12</fpage>, 22. .<pub-id pub-id-type="pmid">9656011</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>L&#xF3;pez-Go&#xF1;i</surname><given-names>I</given-names></name>, <name><surname>Garc&#xED;a-Yoldi</surname><given-names>D</given-names></name>, <name><surname>Mar&#xED;n</surname><given-names>CM</given-names></name>, <name><surname>de Miguel</surname><given-names>MJ</given-names></name>, <name><surname>Mu&#xF1;oz</surname><given-names>PM</given-names></name>, <name><surname>Blasco</surname><given-names>JM</given-names></name>, <etal>et al</etal>. <article-title>Evaluation of a multiplex PCR assay (Bruce-ladder) for molecular typing of all Brucella species, including the vaccine strains.</article-title>
+<source>J Clin Microbiol</source>. <year>2008</year>; <volume>46</volume>:<fpage>3484</fpage>&#x2013;<lpage>3487</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1128/JCM.00837-08</pub-id> Epub 2008 Aug 20. <pub-id pub-id-type="pmid">18716225</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Xie</surname><given-names>J</given-names></name>, <name><surname>Wang</surname><given-names>J</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Wang</surname><given-names>W</given-names></name>, <name><surname>Pang</surname><given-names>Y</given-names></name>, and <name><surname>He</surname><given-names>Y</given-names></name>. <article-title>Ontology-based meta-analysis of animal and human adverse events associated with licensed brucellosis vaccines.</article-title>
+<source>Front Pharmacol</source>
+<year>2018</year>: <volume>9</volume> (article 503):<fpage>1</fpage>&#x2013;<lpage>11</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fphar.2018.00503</pub-id>
+<pub-id pub-id-type="pmid">29387012</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Pereira</surname><given-names>CR</given-names></name>, <name><surname>Cotrim de Almeida</surname><given-names>JVF</given-names></name>, <name><surname>Cardoso de Oliveira</surname><given-names>IR</given-names></name>, <name><surname>Faria de Oliveira</surname><given-names>L</given-names></name>, <name><surname>Pereira</surname><given-names>LJ</given-names></name>, <name><surname>Zanger&#xF4;nimo</surname><given-names>MG</given-names></name>, <etal>et al</etal>. <article-title>Occupational exposure to Brucella spp.: A systematic review and meta-analysis.</article-title>
+<source>PLoS Negl Trop Dis</source>
+<year>2020</year>: <volume>14</volume>:<fpage>e0008164</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pntd.0008164</pub-id>
+<pub-id pub-id-type="pmid">32392223</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="other">Centers for Disease Control and Prevention. National Center for Emerging and Zoonotic Infectious Diseases. Brucellosis reference guide: exposures, testing, and prevention. Updated February 2017. 16. <ext-link xlink:href="https://www.cdc.gov/brucellosis/pdf/brucellosi-reference-guide.pdf" ext-link-type="uri">https://www.cdc.gov/brucellosis/pdf/brucellosi-reference-guide.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Moher</surname><given-names>D</given-names></name>, <name><surname>Liberati</surname><given-names>A</given-names></name>, <name><surname>Tetzlaff</surname><given-names>J</given-names></name>, <name><surname>Altman</surname><given-names>DG</given-names></name>, <name><surname>The</surname><given-names>PG</given-names></name>. <article-title>preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement.</article-title>
+<source>PLOS Medicine.</source>
+<year>2009</year>; <volume>6</volume>:<fpage>e1000097</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1000097</pub-id>
+<pub-id pub-id-type="pmid">19621072</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Oll&#xE9;-Goig</surname><given-names>J</given-names></name>, <name><surname>Canela-Soler</surname><given-names>J</given-names></name>. <article-title>An outbreak of Brucella melitensis infection by airborne transmission among laboratory workers.</article-title>
+<source>Am J Public Health</source>
+<year>1987</year>; <volume>77</volume>:<fpage>335</fpage>&#x2013;<lpage>338</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2105/ajph.77.3.335</pub-id>
+<pub-id pub-id-type="pmid">3812841</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Pappas</surname><given-names>G.</given-names></name>
+<article-title>The Lanzhou Brucella leak: the largest laboratory accident in the history of infectious diseases?</article-title>
+<source>Clin Infect Dis</source>
+<year>2022</year>; <volume>75</volume>:<fpage>1845</fpage>&#x2013;<lpage>1847</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/cid/ciac463</pub-id> Correction in: Clin Infect Dis 2023; 76(7): 1347. <pub-id pub-id-type="doi">10.1093/cid/ciac806</pub-id><pub-id pub-id-type="pmid">35675697</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Lina</surname><given-names>SMM</given-names></name>, <name><surname>Kunasekaran</surname><given-names>MP</given-names></name>, <name><surname>Moa</surname><given-names>A</given-names></name>. <article-title>Brucellosis outbreak in China, 2019.</article-title>
+<source>Global Biosecurity</source>
+<year>2021</year>; <volume>3</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.31646/gbio.108</pub-id></mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Baoshan</surname><given-names>L</given-names></name>, <name><surname>Yinbo</surname><given-names>Y</given-names></name>, <name><surname>Jingbo</surname><given-names>Z</given-names></name>, <etal>et al</etal>. <article-title>Combined nucleic acid assays for diagnosis of A19 vaccine-caused human brucellosis.</article-title>
+<source>Transbound Emerg Dis</source>
+<year>2021</year>; <volume>68</volume>:<fpage>368</fpage>&#x2013;<lpage>374</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/tbed.13685</pub-id> Epub 2020 Jul 29. <pub-id pub-id-type="pmid">32543112</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Wallach</surname><given-names>JC</given-names></name>, <name><surname>Ferrero</surname><given-names>MC</given-names></name>, <name><surname>Victoria</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Occupational infection due to Brucella abortus S19 among workers involved in vaccine production in Argentina</article-title>. <source>Clin Microbiol Infect</source>
+<year>2008</year>; <volume>14</volume>:<fpage>805</fpage>&#x2013;<lpage>807</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/j.1469-0691.2008.02029.x</pub-id>
+<pub-id pub-id-type="pmid">18727806</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Vives-Soto</surname><given-names>M</given-names></name>, <name><surname>Puerta-Garc&#xED;a</surname><given-names>A</given-names></name>, <name><surname>Pereira</surname><given-names>JL</given-names></name>, <name><surname>Rodr&#xED;guez-S&#xE1;nchez</surname><given-names>E</given-names></name>, <name><surname>Solera</surname><given-names>J</given-names></name>. <article-title>Seroprevalence of Brucella antibodies among vaccine manufacturing workers in contact with the Brucella melitensis Rev.1 vaccine strain</article-title>. <source>Clin Microbiol Infect</source>
+<year>2022</year>; <volume>10</volume>:<fpage>S1198</fpage>&#x2013;<lpage>743X</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.cmi.2022.02.036</pub-id>
+<pub-id pub-id-type="pmid">35283311</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Blasco</surname><given-names>JM</given-names></name>. <article-title>Brucella melitensis Rev-1 vaccine as a cause of human brucellosis</article-title>. <source>Lancet</source>
+<year>1993</year>; <volume>242</volume>:<fpage>805</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/0140-6736(93)91571-3</pub-id>
+<pub-id pub-id-type="pmid">8103891</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Arapovic</surname><given-names>J</given-names></name>, <name><surname>&#x160;pi&#x10D;i&#x107;</surname><given-names>S</given-names></name>, <name><surname>Duvnjak</surname><given-names>S</given-names></name>, <name><surname>Ostoji&#x107;</surname><given-names>M</given-names></name>, <name><surname>Arapovi&#x107;</surname><given-names>M</given-names></name>, <name><surname>Nikoli&#x107;</surname><given-names>J</given-names></name>, <name><surname>Cvetni&#x107;</surname><given-names>&#x17D;</given-names></name>. <article-title>The first report of Brucella melitensis Rev.1 human brucellosis in Bosnia and Herzegovina.</article-title>
+<source>J Infect Dev Ctries</source>. <year>2020</year>; <volume>14</volume>:<fpage>232</fpage>&#x2013;<lpage>235</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3855/jidc.11949</pub-id>
+<pub-id pub-id-type="pmid">32146460</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Vincent</surname><given-names>P</given-names></name>, <name><surname>Joubert</surname><given-names>L</given-names></name>, <name><surname>Prave</surname><given-names>M</given-names></name>. <article-title>Two occupational cases of brucellar infection after inoculation of B 19 vaccine</article-title>. <source>Bull Acad Vet Fr</source>. <year>1970</year>; <volume>43</volume>:<fpage>89</fpage>&#x2013;<lpage>97</lpage>. French. .<pub-id pub-id-type="pmid">5426924</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Nicoletti</surname><given-names>P</given-names></name>, <name><surname>Ring</surname><given-names>J</given-names></name>, <name><surname>Boysen</surname><given-names>B</given-names></name>, <name><surname>Buczek</surname><given-names>J</given-names></name>. <article-title>Illness in a veterinary student following accidental inoculation of Brucella abortus strain 19.</article-title>
+<source>J Am Coll Health</source>
+<year>1986</year>; <volume>34</volume>:<fpage>236</fpage>&#x2013;<lpage>237</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/07448481.1986.9938944</pub-id>
+<pub-id pub-id-type="pmid">3086415</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Squarcione</surname><given-names>S</given-names></name>, <name><surname>Maggi</surname><given-names>P</given-names></name>, <name><surname>Lo Caputo</surname><given-names>S</given-names></name>, <name><surname>De Gennaro</surname><given-names>M</given-names></name>, <name><surname>Carbonara</surname><given-names>S</given-names></name>. <article-title>A case of human brucellosis caused by accidental injection of animal vaccine</article-title>. <source>G Ital Med Lav</source>
+<year>1990</year>; <volume>12</volume>:<fpage>25</fpage>&#x2013;<lpage>26</lpage>. Italian. .<pub-id pub-id-type="pmid">2136335</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Hatcher</surname><given-names>SM</given-names></name>, <name><surname>Shih</surname><given-names>D</given-names></name>, <name><surname>Holderman</surname><given-names>J</given-names></name>, <name><surname>Cossaboom</surname><given-names>C</given-names></name>, <name><surname>Leman</surname><given-names>R</given-names></name>, <name><surname>DeBess</surname><given-names>E</given-names></name>. <article-title>notes from the field: adverse event associated with unintentional exposure to the Brucella abortus RB51 Vaccine&#x2014;Oregon, December 2017.</article-title>
+<source>MMWR Morb Mortal Wkly Rep</source>. <year>2018</year>; <volume>67</volume>:<fpage>747</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.15585/mmwr.mm6726a4</pub-id>
+<pub-id pub-id-type="pmid">29975674</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Pivnick</surname><given-names>H</given-names></name>, <name><surname>Worton</surname><given-names>H</given-names></name>, <name><surname>Smith</surname><given-names>DL</given-names></name>, <name><surname>Barnum</surname><given-names>D</given-names></name>. <article-title>Infection of veterinarians in Ontario by Brucella abortus strain 19</article-title>. <source>Can J Public Health</source>. <year>1966</year>; <volume>57</volume>:<fpage>225</fpage>&#x2013;<lpage>231</lpage>. .<pub-id pub-id-type="pmid">4956571</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>Stauffer</surname><given-names>B</given-names></name>, <name><surname>Reppert</surname><given-names>J</given-names></name>, <name><surname>van Metre</surname><given-names>D</given-names></name>, <name><surname>Fingland</surname><given-names>R</given-names></name>, <name><surname>Kennedy</surname><given-names>G</given-names></name>, <name><surname>Hansen</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Human Exposure to Brucella abortus Strain RB51&#x2014;Kansas, 1997.</article-title>
+<source>Morb Mortal Wkly Rep 1998</source>; <volume>47</volume>:<fpage>172</fpage>&#x2013;<lpage>175</lpage>. .<pub-id pub-id-type="pmid">9518281</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><name><surname>Ashford</surname><given-names>DA</given-names></name>, <name><surname>di Pietra</surname><given-names>J</given-names></name>, <name><surname>Lingappa</surname><given-names>J</given-names></name>, <name><surname>Woods</surname><given-names>C</given-names></name>, <name><surname>Noll</surname><given-names>H</given-names></name>, <name><surname>Neville</surname><given-names>B</given-names></name>, <etal>et al</etal>. <article-title>Adverse events in humans associated with accidental exposure to the livestock brucellosis vaccine RB51</article-title>. <source>Vaccine</source>
+<year>2004</year>; <volume>22</volume>:<fpage>3435</fpage>&#x2013;<lpage>3439</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.vaccine.2004.02.041</pub-id>
+<pub-id pub-id-type="pmid">15308369</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Avdikou</surname><given-names>I</given-names></name>, <name><surname>Maipa</surname><given-names>V</given-names></name>, <name><surname>Alamanos</surname><given-names>Y</given-names></name>. <article-title>Epidemiology of human brucellosis in a defined area of Northwestern Greece</article-title>. <source>Epidemiol Infect</source>
+<year>2005</year>; <volume>133</volume>:<fpage>905</fpage>&#x2013;<lpage>910</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1017/S0950268805003973</pub-id>
+<pub-id pub-id-type="pmid">16181512</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Gunes</surname><given-names>H</given-names></name>, <name><surname>Dogan</surname><given-names>M</given-names></name>. <article-title>False-positivity in diagnosis of brucellosis associated with Rev-1 vaccine</article-title>. <source>Libyan J Med</source>
+<year>2013</year>; <volume>8</volume>:<fpage>20417</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3402/ljm.v8i0.20417</pub-id>
+<pub-id pub-id-type="pmid">23424609</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Proch</surname><given-names>V</given-names></name>, <name><surname>Singh</surname><given-names>BB</given-names></name>, <name><surname>Schemann</surname><given-names>K</given-names></name>, <name><surname>Gill</surname><given-names>JPS</given-names></name>, <name><surname>Ward</surname><given-names>MP</given-names></name>, <name><surname>Dhand</surname><given-names>NK</given-names></name>. <article-title>Risk factors for occupational Brucella infection in veterinary personnel in India.</article-title>
+<source>Transbound Emerg Dis</source>. <year>2018</year>; <volume>65</volume>:<fpage>791</fpage>&#x2013;<lpage>798</lpage>. Epub 2018/01/25. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/tbed.12804</pub-id>
+<pub-id pub-id-type="pmid">29363286</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>P</given-names></name>, <name><surname>Fang</surname><given-names>C</given-names></name>, <name><surname>Cui</surname><given-names>BY</given-names></name>. <article-title>A report of a brucellosis outbreak caused by vaccination.</article-title>
+<source>Dis Surv</source>
+<year>2018</year>; <volume>33</volume>:<fpage>222</fpage>&#x2013;<lpage>224</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Pereira</surname><given-names>CR</given-names></name>, <name><surname>de Oliveira</surname><given-names>IRC</given-names></name>, <name><surname>de Oliveira</surname><given-names>LF</given-names></name>, <name><surname>de Oliveira</surname><given-names>CSF</given-names></name>, <name><surname>Lage</surname><given-names>AP</given-names></name>, <name><surname>Dorneles</surname><given-names>EMS</given-names></name>. <article-title>Accidental exposure to Brucella abortus vaccines and occupational brucellosis among veterinarians in Minas Gerais state, Brazil.</article-title>
+<source>Transbound Emerg Dis</source>
+<year>2021</year>; <volume>68</volume>:<fpage>1363</fpage>&#x2013;<lpage>1376</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/tbed.13797</pub-id>
+<pub-id pub-id-type="pmid">32810924</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Buchanan</surname><given-names>TM</given-names></name>, <name><surname>Hendricks</surname><given-names>SL</given-names></name>, <name><surname>Patton</surname><given-names>CM</given-names></name>, <name><surname>Feldman</surname><given-names>RA</given-names></name>. <article-title>Brucellosis in the United States, 1960&#x2013;1972. An abattoir-associated disease. Part III. Epidemiology and evidence for acquired immunity.</article-title>
+<source>Medicine (Baltimore).</source>
+<year>1974</year>; <volume>53</volume>:<fpage>27</fpage>&#x2013;<lpage>39</lpage>. .<pub-id pub-id-type="pmid">4612294</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Vershilova</surname><given-names>PA</given-names></name>. <article-title>The use of live vaccine for vaccination of human beings against brucellosis in the USSR</article-title>. <source>Bull Wld HIth Org</source>
+<year>1961</year>; <volume>24</volume>:<fpage>85</fpage>&#x2013;<lpage>89</lpage>. PMCID: PMC2555373. <pub-id pub-id-type="pmid">13780996</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Strady</surname><given-names>A</given-names></name>, <name><surname>Lienard</surname><given-names>M</given-names></name>, <name><surname>Gillant</surname><given-names>JC</given-names></name>, <name><surname>Barrat</surname><given-names>F</given-names></name>, <name><surname>Poncelet</surname><given-names>S</given-names></name>, <name><surname>Laudat</surname><given-names>P</given-names></name>, <etal>et al</etal>. <article-title>Brucella vaccination in professionally exposed subjects. Prospective study.</article-title>
+<source>Presse Med</source>
+<year>1992</year>; <volume>21</volume>:<fpage>1408</fpage>&#x2013;<lpage>1412</lpage>. .<pub-id pub-id-type="pmid">1454777</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Hadjichristodoulou</surname><given-names>C</given-names></name>, <name><surname>Voulgaris</surname><given-names>P</given-names></name>, <name><surname>Toulieres</surname><given-names>L</given-names></name>, <name><surname>Babalis</surname><given-names>T</given-names></name>, <name><surname>Manetas</surname><given-names>S</given-names></name>, <name><surname>Goutziana</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Tolerance of the human brucellosis vaccine and the intradermal reaction test for brucellosis</article-title>. <source>Eur J Clin Microbiol Infect Dis</source>
+<year>1994</year>; <volume>13</volume>:<fpage>129</fpage>&#x2013;<lpage>134</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/BF01982185</pub-id>
+<pub-id pub-id-type="pmid">8013484</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Ben&#xED;tez-Serrano</surname><given-names>JC</given-names></name>, <name><surname>Palomares-Resendiz</surname><given-names>G</given-names></name>, <name><surname>D&#xED;az-Aparicio</surname><given-names>E</given-names></name>, <name><surname>Hern&#xE1;ndez-Castro</surname><given-names>R</given-names></name>, <name><surname>Mart&#xED;nez-P&#xE9;rez</surname><given-names>L</given-names></name>, <name><surname>Su&#xE1;rez-G&#xFC;emes</surname><given-names>F</given-names></name>, <name><surname>Arellano-Reynoso</surname><given-names>B</given-names></name>. <article-title>Survival of Brucella abortus RB51 and S19 vaccine strains in fresh and ripened cheeses</article-title>. <source>Foodborne Pathog Dis</source>. <year>2022</year>; <volume>19</volume>:<fpage>535</fpage>&#x2013;<lpage>542</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1089/fpd.2022.0001</pub-id>
+<pub-id pub-id-type="pmid">35675662</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Osman</surname><given-names>AE</given-names></name>, <name><surname>Hassan</surname><given-names>AN</given-names></name>, <name><surname>Ali</surname><given-names>AE</given-names></name>, <name><surname>Abdoel</surname><given-names>TH</given-names></name>, <name><surname>Smits</surname><given-names>HL</given-names></name>. <article-title>Brucella melitensis biovar 1 and Brucella abortus S19 vaccine strain infections in milkers working at cattle farms in the Khartoum area, Sudan.</article-title>
+<source>PLoS One</source>
+<year>2015</year>; <volume>10</volume>:<fpage>e0123374</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0123374</pub-id> ECollection 2015. <pub-id pub-id-type="pmid">25938483</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><name><surname>Cossaboom</surname><given-names>CM</given-names></name>, <name><surname>Kharod</surname><given-names>GA</given-names></name>, <name><surname>Salzer</surname><given-names>JS</given-names></name>, <name><surname>Tiller</surname><given-names>RV</given-names></name>, <name><surname>Campbell</surname><given-names>LP</given-names></name>, <name><surname>Wu</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>Notes from the field: Brucella abortus vaccine strain RB51 infection and exposures associated with raw milk consumption&#x2014;Wise County, Texas, 2017.</article-title>
+<source>Morb Mortal Wkly Rep</source>
+<year>2018</year>; <volume>67</volume>:<fpage>286</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.15585/mmwr.mm6709a4</pub-id>
+<pub-id pub-id-type="pmid">29518066</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Sarmiento-Clemente</surname><given-names>A</given-names></name>, <name><surname>Amerson-Brown</surname><given-names>MH</given-names></name>, <name><surname>Foster</surname><given-names>CE</given-names></name>. <article-title>An Adolescent with neurobrucellosis caused by Brucella abortus cattle vaccine strain RB51.</article-title>
+<source>Pediatr Infect Dis J</source>
+<year>2021</year>; <volume>40</volume>:<fpage>e353</fpage>&#x2013;<lpage>e355</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/INF.0000000000003200</pub-id>
+<pub-id pub-id-type="pmid">34260490</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><collab>Centers for Disease Control and Prevention (CDC).</collab>
+<article-title>Update: potential exposures to attenuated vaccine strain Brucella abortus RB51 during a laboratory proficiency test&#x2014;United States and Canada, 2007.</article-title>
+<source>Morb Mortal Wkly Rep</source>
+<year>2008</year>;<volume>57</volume>:<fpage>36</fpage>&#x2013;<lpage>39</lpage>. .<pub-id pub-id-type="pmid">18199966</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pntd.0011889.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="other">U.S. Department of Health and Human Services. Public Health Service. Centers for Disease Control and Prevention (CDC). National Institutes of Health (NIH). Biosafety in microbiological and biomedical laboratories (BMBL). 6th Edition. Revised June 2020. <ext-link xlink:href="https://www.cdc.gov/labs/BMBL.html" ext-link-type="uri">https://www.cdc.gov/labs/BMBL.html</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="aggregated-review-documents" id="pntd.0011889.r001" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r001</article-id>
+      <title-group>
+        <article-title>Decision Letter 0</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pappas</surname>
+            <given-names>Georgios</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nascimento</surname>
+            <given-names>Ana LTO</given-names>
+          </name>
+          <role>Section Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Pappas, Nascimento</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Pappas, Nascimento</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj001" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>0</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">28 Aug 2023</named-content>
+</p>
+      <p>Dear Dr. Solera Santos,</p>
+      <p>Thank you very much for submitting your manuscript "What risk do Brucella vaccines pose to humans? A systematic review of the scientific literature on occupational exposure." for consideration at PLOS Neglected Tropical Diseases. As with all papers reviewed by the journal, your manuscript was reviewed by members of the editorial board and by several independent reviewers. In light of the reviews (below this email), we would like to invite the resubmission of a significantly-revised version that takes into account the reviewers' comments. </p>
+      <p>Please respond to author queries, or explain why any changes will be not made</p>
+      <p>We cannot make any decision about publication until we have seen the revised manuscript and your response to the reviewers' comments. Your revised manuscript is also likely to be sent to reviewers for further evaluation.</p>
+      <p>When you are ready to resubmit, please upload the following:</p>
+      <p>[1] A letter containing a detailed list of your responses to the review comments and a description of the changes you have made in the manuscript.&#xA0;Please note while forming your response, if your article is accepted, you may have the opportunity to make the peer review history publicly available. The record will include editor decision letters (with reviews) and your responses to reviewer comments. If eligible, we will contact you to opt in or out.</p>
+      <p>[2] Two versions of the revised manuscript: one with either highlights or tracked changes denoting where the text has been changed; the other a clean version (uploaded as the manuscript file). </p>
+      <p>Important additional instructions are given below your reviewer comments.</p>
+      <p>Please prepare and submit your revised manuscript within 60 days. If you anticipate any delay, please let us know the expected resubmission date by replying to this email. Please note that revised manuscripts received after the 60-day due date may require evaluation and peer review similar to newly submitted manuscripts.</p>
+      <p>Thank you again for your submission. We hope that our editorial process has been constructive so far, and we welcome your feedback at any time. Please don't hesitate to contact us if you have any questions or comments.</p>
+      <p>Sincerely,</p>
+      <p>Georgios Pappas</p>
+      <p>Academic Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>Ana LTO Nascimento</p>
+      <p>Section Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>***********************</p>
+      <p>Please respond to author queries, or explain why any changes will be not made</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<bold>Key Review Criteria Required for Acceptance?</bold>
+</p>
+      <p>As you describe the new analyses required for acceptance, please consider the following:</p>
+      <p>
+<bold>Methods</bold>
+</p>
+      <p>-Are the objectives of the study clearly articulated with a clear testable hypothesis stated?</p>
+      <p>-Is the study design appropriate to address the stated objectives?</p>
+      <p>-Is the population clearly described and appropriate for the hypothesis being tested?</p>
+      <p>-Is the sample size sufficient to ensure adequate power to address the hypothesis being tested?</p>
+      <p>-Were correct statistical analysis used to support conclusions?</p>
+      <p>-Are there concerns about ethical or regulatory requirements being met?</p>
+      <p>Reviewer #1: The methods used for the systematic review are correct.</p>
+      <p>Reviewer #2: I have copied my comments under Summary and General Comments</p>
+      <p>Reviewer #3: The objective should include the risk of brucellosis due to milk consumption contaminated with vaccine isolate and the mechanism (microbiological and immunological).</p>
+      <p>The study design is not appropriate to capture all the vaccine related incidence, as such events may not be published in a scientific peer-review journals. Background vaccine use information is necessary but lacking.</p>
+      <p>The number of articles is small.</p>
+      <p>--------------------</p>
+      <p>
+<bold>Results</bold>
+</p>
+      <p>-Does the analysis presented match the analysis plan?</p>
+      <p>-Are the results clearly and completely presented?</p>
+      <p>-Are the figures (Tables, Images) of sufficient quality for clarity?</p>
+      <p>Reviewer #1: (No Response)</p>
+      <p>Reviewer #2: I have copied my comments under Summary and General Comments</p>
+      <p>Reviewer #3: The results failed to show all the evidence of vaccine related brucellosis infections.</p>
+      <p>Table itself showed that the results are not representative of global vaccine related incidence. And they are not comparable or compared.</p>
+      <p>--------------------</p>
+      <p>
+<bold>Conclusions</bold>
+</p>
+      <p>-Are the conclusions supported by the data presented?</p>
+      <p>-Are the limitations of analysis clearly described?</p>
+      <p>-Do the authors discuss how these data can be helpful to advance our understanding of the topic under study?</p>
+      <p>-Is public health relevance addressed?</p>
+      <p>Reviewer #1: The conclusions are in general supported by the data presented, although some specific comments are provided below.</p>
+      <p>Reviewer #2: I have copied my comments under Summary and General Comments</p>
+      <p>Reviewer #3: No.</p>
+      <p>--------------------</p>
+      <p>
+<bold>Editorial and Data Presentation Modifications?</bold>
+</p>
+      <p>Use this section for editorial suggestions as well as relatively minor modifications of existing data that would enhance clarity. If the only modifications needed are minor and/or editorial, you may wish to recommend &#x201C;Minor Revision&#x201D; or &#x201C;Accept&#x201D;. </p>
+      <p>Reviewer #1: (No Response)</p>
+      <p>Reviewer #2: I have copied my comments under Summary and General Comments</p>
+      <p>Reviewer #3: (No Response)</p>
+      <p>--------------------</p>
+      <p>
+<bold>Summary and General Comments</bold>
+</p>
+      <p>Use this section to provide overall comments, discuss strengths/weaknesses of the study, novelty, significance, general execution and scholarship. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. If requesting major revision, please articulate the new experiments that are needed.</p>
+      <p>Reviewer #1: This is an important review on the pathogenicity for humans of Brucella vaccine strains used in the animal vaccination programs in endemic countries. Some specific comments to help to improve the manuscript are provided below:</p>
+      <p>1) Lines 34-36. &#x201C;Despite strict protection measures, a percentage of vaccine manufacturing workers developed a positive serology to the vaccine strain, which may have conferred immunity.&#x201D; </p>
+      <p>COMMENT: Serological tests do not allow determining the Brucella species that elicited the antibody response. Moreover, cross-reactivity with other bacteria may lead to false positive results. In addition, please provide references supporting the protection conferred to humans by the accidental exposure to vaccine strains.</p>
+      <p>2) While a systematic review of the relevant literature has been performed, some reports of human infection by vaccine Brucella strains seem to be missing. For example, an important outbreak that took place in China in 2019 should be mentioned (Pappas G, Clin Infect Dis. 2022 Nov 14;75(10):1845-1847; Baoshan L et al., Transbound Emerg Dis 2021 Mar;68(2):368-374.) We also recommend including relevant information provided in chapter 8 of the book Brucellosis Clinical and Laboratory Aspects (Young EJ, Corbe MJ, CRC Press, 1989).</p>
+      <p>3) Lines 31-32. In our opinion, exposure accidents during vaccine manufacturing should not be considered exceptional, as several cases have been described.</p>
+      <p>4) Lines 41-44. &#x201C;Human brucellosis is a zoonosis with worldwide distribution. Although the number of cases of brucellosis may be decreasing in the world, the continued presence of the disease in some endemic areas and the potential use of Brucella species as an agent of bioterrorism, make brucellosis a major public health hazard with important sanitary and economic repercussions&#x201D;.</p>
+      <p>COMMENT: As the apparent decrease of brucellosis cases may be due to subnotification, I suggest to use &#x201C;reported cases&#x201D; instead of &#x201C;cases&#x201D;.</p>
+      <p>5) Lines 52-55. &#x201C;However, these vaccines are not used in humans due to the high risk of developing acute brucellosis; they are capable of infecting humans with occupational exposure via the oral, nasal, conjunctival or genital routes, and by accidental needle inoculation&#x201D;.</p>
+      <p>COMMENT: To our best knowledge, there are no reports of vaccine strain infection in humans through the genital route.</p>
+      <p>Reviewer #2: In this study, the authors reviewed the risk of occupational exposure to the Brucellosis vaccine. The research question is valid and is of interest to the journal audience. However, the study does not appear to be well designed and conducted.</p>
+      <p>Although the authors report that they followed the PRISMA guidelines, it is surprising to note that 11 of the 12 studies finally selected for inclusion in the systematic review were not in the systematic search they conducted but rather were selected based on a manual search of references found in the full-text articles reviewed. This nullifies any of the benefits of the systematic search and incorporates bias into the search that the systematic review aims to avoid. </p>
+      <p>Secondly, the authors have a tendency to summarise information from the studies rather than comparing and contrasting or evaluating evidence and developing an argument. This is not acceptable, even in a simple critical review. </p>
+      <p>Thus, although the subject is worthy of investigation, the manuscript would have to be substantially improved before it can be published in PLOS Neglected Tropical Diseases.</p>
+      <p>Reviewer #3: General comments</p>
+      <p> At the first look at the first half of the title, I thought the scope is to discuss the risk from milk shed by vaccinated animals. The risk from milk cannot be ignored when considered Brucella vaccines. Also, microbiological and immunological aspects should be included. The number of articles examined is rather small, which may suggest the low attention paid by brucellosis endemic countries. The approach of systematic review is just summarizing these literatures, and there is no original analysis conducted for meaningful summary or comparisons. Moreover, I remember that a large-scale outbreak of brucellosis associated with a vaccine production unit in China a few years ago, but it is not included. Such incidence may not be in a scientific literature, and due to the same reason, the authors might have missed several other such accidents/incidence.</p>
+      <p> In brucellosis endemic countries, as occupational exposure is always one of the most important risk factors, infections with wildtype Brucella are very common; which means the authors&#x2019; argument that sero-positivity is due to Brucella vaccine is flawed, though some or a few of them can be truly due to the exposure to the vaccine strain. The study lacked the investigation into the quantitative information on the actual use (relative usage) of different types of the vaccine and the cases. The authors argue that Rev1 is the most virulent vaccine but the quantitative or qualitative evidence is not enough and the statement is not convincing. The suitability of this article to PLoS NTD should be judged by the editor, but I am not convinced due to above reasons. However, the information on the risk of brucellosis vaccine to humans is still indeed scarce. I would like to encourage the authors to anyway improve the article to make it more informative.</p>
+      <p>Specific comments</p>
+      <p>Material and methods</p>
+      <p>Line 69: Please Italicize &#x201C;Brucella&#x201D;.</p>
+      <p>Results</p>
+      <p>Line 75-76: The sentence is not clear: &#x201C;Eleven of these articles were identified by manual search of the references found in the full text articles reviewed, and one of them was included in the study&#x201D;. Out of 12, 11 were found from manual search and 1 was by what? Manual search is also not clear. </p>
+      <p>Line 108: &#x201C;Since current standard serologic assays cannot detect antibodies against RB51 infection&#x201D;, please provide the reference here. What about animals?</p>
+      <p>Line 146: RB51?</p>
+      <p>Line 158: Having brucellosis &#x2013; having had brucellosis, or was the prevalence 4.6%?</p>
+      <p>Line 169: Sero-positivity associated with higher levels of exposure to the vaccine strains: what is the level of exposure you mean? High level is the high degree of invasion?</p>
+      <p>Discussion</p>
+      <p>Line 177: How did you judge that Rev.1 seems to be the most virulent?</p>
+      <p>Line 183: Please use references to state about the incidence in manufacturing workers.</p>
+      <p>Line 190: which country Spink conducted the clinical trial?</p>
+      <p>Line 199: clinical trial in Greece &#x2013; it was considered safe enough: please discuss why it was considered so by the authors at that time.</p>
+      <p>Line 230: Please provide the key findings clearly when you refer systematic reviews. What were the risk factors for example? Exposure to vaccine strains through vaccination to animals?</p>
+      <p>Line 239-241: Enormous number of vaccine doses administered to humans? In which countries? Please present the evidence.</p>
+      <p>P266: Here please remind which were effective measures.</p>
+      <p>--------------------</p>
+      <p>PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosntds/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.</p>
+      <p>Reviewer #1: Yes: Jorge C. Wallach</p>
+      <p>Reviewer #2: No</p>
+      <p>Reviewer #3: No</p>
+      <p>Figure Files:</p>
+      <p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, <ext-link xlink:href="https://pacev2.apexcovantage.com.&#xA0;PACE" ext-link-type="uri">https://pacev2.apexcovantage.com.&#xA0;PACE</ext-link> helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email us at <email>figures@plos.org</email>.</p>
+      <p>Data Requirements:</p>
+      <p>Please note that, as a condition of publication, PLOS' data policy requires that you make available all data used to draw the conclusions outlined in your manuscript. Data must be deposited in an appropriate repository, included within the body of the manuscript, or uploaded as supporting information. This includes all numerical values that were used to generate graphs, histograms etc.. For an example see here: <ext-link xlink:href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001908#s5" ext-link-type="uri">http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001908#s5</ext-link>.</p>
+      <p>Reproducibility:</p>
+      <p>To enhance the reproducibility of your results, we recommend that you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option to publish peer-reviewed clinical study protocols. Read more information on sharing protocols at <ext-link xlink:href="https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols" ext-link-type="uri">https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols</ext-link></p>
+      <supplementary-material id="pntd.0011889.s001" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">Review comments_PNTD-D-23-00623.docx</named-content></p>
+        </caption>
+        <media xlink:href="pntd.0011889.s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="author-comment" id="pntd.0011889.r002">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r002</article-id>
+      <title-group>
+        <article-title>Author response to Decision Letter 0</article-title>
+      </title-group>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj002" related-article-type="editor-report"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="author-response-date">14 Nov 2023</named-content>
+</p>
+      <supplementary-material id="pntd.0011889.s002" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">Response to Reviewers.doc</named-content></p>
+        </caption>
+        <media xlink:href="pntd.0011889.s002.doc">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="aggregated-review-documents" id="pntd.0011889.r003" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r003</article-id>
+      <title-group>
+        <article-title>Decision Letter 1</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pappas</surname>
+            <given-names>Georgios</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nascimento</surname>
+            <given-names>Ana LTO</given-names>
+          </name>
+          <role>Section Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Pappas, Nascimento</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Pappas, Nascimento</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj003" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">11 Dec 2023</named-content>
+</p>
+      <p>Dear Dr. Santos,</p>
+      <p>Thank you very much for submitting your manuscript "What risk do Brucella vaccines pose to humans? A systematic review of the scientific literature on occupational exposure." for consideration at PLOS Neglected Tropical Diseases. As with all papers reviewed by the journal, your manuscript was reviewed by members of the editorial board and by several independent reviewers. The reviewers appreciated the attention to an important topic. Based on the reviews, we are likely to accept this manuscript for publication, providing that you modify the manuscript according to the review recommendations. </p>
+      <p>please do these minor corrections requested by the reviewer before final acceptance</p>
+      <p>Please prepare and submit your revised manuscript within 30 days. If you anticipate any delay, please let us know the expected resubmission date by replying to this email. </p>
+      <p>When you are ready to resubmit, please upload the following:</p>
+      <p>[1] A letter containing a detailed list of your responses to all review comments, and a description of the changes you have made in the manuscript. </p>
+      <p>Please note while forming your response, if your article is accepted, you may have the opportunity to make the peer review history publicly available. The record will include editor decision letters (with reviews) and your responses to reviewer comments. If eligible, we will contact you to opt in or out</p>
+      <p>[2] Two versions of the revised manuscript: one with either highlights or tracked changes denoting where the text has been changed; the other a clean version (uploaded as the manuscript file).</p>
+      <p>Important additional instructions are given below your reviewer comments. </p>
+      <p>Thank you again for your submission to our journal. We hope that our editorial process has been constructive so far, and we welcome your feedback at any time. Please don't hesitate to contact us if you have any questions or comments.</p>
+      <p>Sincerely,</p>
+      <p>Georgios Pappas</p>
+      <p>Academic Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>Ana LTO Nascimento</p>
+      <p>Section Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>***********************</p>
+      <p>please do these minor corrections requested by the reviewer before final acceptance</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<bold>Key Review Criteria Required for Acceptance?</bold>
+</p>
+      <p>As you describe the new analyses required for acceptance, please consider the following:</p>
+      <p>
+<bold>Methods</bold>
+</p>
+      <p>-Are the objectives of the study clearly articulated with a clear testable hypothesis stated?</p>
+      <p>-Is the study design appropriate to address the stated objectives?</p>
+      <p>-Is the population clearly described and appropriate for the hypothesis being tested?</p>
+      <p>-Is the sample size sufficient to ensure adequate power to address the hypothesis being tested?</p>
+      <p>-Were correct statistical analysis used to support conclusions?</p>
+      <p>-Are there concerns about ethical or regulatory requirements being met?</p>
+      <p>Reviewer #3: -Are the objectives of the study clearly articulated with a clear testable hypothesis stated? Yes</p>
+      <p>-Is the study design appropriate to address the stated objectives? Yes</p>
+      <p>-Is the population clearly described and appropriate for the hypothesis being tested? Not applicable</p>
+      <p>-Is the sample size sufficient to ensure adequate power to address the hypothesis being tested? Not applicable</p>
+      <p>-Were correct statistical analysis used to support conclusions? Not applicable</p>
+      <p>-Are there concerns about ethical or regulatory requirements being met? No</p>
+      <p>--------------------</p>
+      <p>
+<bold>Results</bold>
+</p>
+      <p>-Does the analysis presented match the analysis plan?</p>
+      <p>-Are the results clearly and completely presented?</p>
+      <p>-Are the figures (Tables, Images) of sufficient quality for clarity?</p>
+      <p>Reviewer #3: -Does the analysis presented match the analysis plan? Yes</p>
+      <p>-Are the results clearly and completely presented? Yes</p>
+      <p>-Are the figures (Tables, Images) of sufficient quality for clarity? Yes</p>
+      <p>--------------------</p>
+      <p>
+<bold>Conclusions</bold>
+</p>
+      <p>-Are the conclusions supported by the data presented?</p>
+      <p>-Are the limitations of analysis clearly described?</p>
+      <p>-Do the authors discuss how these data can be helpful to advance our understanding of the topic under study?</p>
+      <p>-Is public health relevance addressed?</p>
+      <p>Reviewer #3: -Are the conclusions supported by the data presented? Yes</p>
+      <p>-Are the limitations of analysis clearly described? Yes</p>
+      <p>-Do the authors discuss how these data can be helpful to advance our understanding of the topic under study? Yes</p>
+      <p>-Is public health relevance addressed? Yes</p>
+      <p>--------------------</p>
+      <p>
+<bold>Editorial and Data Presentation Modifications?</bold>
+</p>
+      <p>Use this section for editorial suggestions as well as relatively minor modifications of existing data that would enhance clarity. If the only modifications needed are minor and/or editorial, you may wish to recommend &#x201C;Minor Revision&#x201D; or &#x201C;Accept&#x201D;. </p>
+      <p>Reviewer #3: Abstract</p>
+      <p>Line 40: risk factors &#x2013; please rephrase unless statistics are conducted. For example, commonly associated with &#x2026;</p>
+      <p>Line 44: separate &#x2018;workersappeared&#x2019;.</p>
+      <p>Introduction</p>
+      <p>Line 72: After the first appearance of Brucella, it can be abbreviated as B.</p>
+      <p>Result</p>
+      <p>Line 153, please show the date or month of the accident. In the line 157, it says &#x2018;until November&#x2019;, and readers would want to know how long after the accident the investigation was carried out.</p>
+      <p>Lines 154, 195, 215 and so forth: Please Italicize Brucella.</p>
+      <p>Line 196: one digit below zero &#x2013; please unify this format throughout the manuscript. It should be &#x2018;sero-positive rate&#x2019; or &#x2018;sero-prevalence&#x2019;, instead &#x2018;infection rate&#x2019;.</p>
+      <p>--------------------</p>
+      <p>
+<bold>Summary and General Comments</bold>
+</p>
+      <p>Use this section to provide overall comments, discuss strengths/weaknesses of the study, novelty, significance, general execution and scholarship. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. If requesting major revision, please articulate the new experiments that are needed.</p>
+      <p>Reviewer #3: My previous comments were addressed.</p>
+      <p>--------------------</p>
+      <p>PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosntds/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.</p>
+      <p>Reviewer #3: Yes: Kohei Makita</p>
+      <p>Figure Files:</p>
+      <p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, <ext-link xlink:href="https://pacev2.apexcovantage.com" ext-link-type="uri">https://pacev2.apexcovantage.com</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email us at <email>figures@plos.org</email>.</p>
+      <p>Data Requirements:</p>
+      <p>Please note that, as a condition of publication, PLOS' data policy requires that you make available all data used to draw the conclusions outlined in your manuscript. Data must be deposited in an appropriate repository, included within the body of the manuscript, or uploaded as supporting information. This includes all numerical values that were used to generate graphs, histograms etc.. For an example see here: <ext-link xlink:href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001908#s5" ext-link-type="uri">http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001908#s5</ext-link>.</p>
+      <p>Reproducibility:</p>
+      <p>To enhance the reproducibility of your results, we recommend that you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option to publish peer-reviewed clinical study protocols. Read more information on sharing protocols at <ext-link xlink:href="https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols" ext-link-type="uri">https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols</ext-link></p>
+      <p>References</p>
+      <p>Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article's retracted status in the References list and also include a citation and full reference for the retraction notice.</p>
+    </body>
+  </sub-article>
+  <sub-article article-type="author-comment" id="pntd.0011889.r004">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r004</article-id>
+      <title-group>
+        <article-title>Author response to Decision Letter 1</article-title>
+      </title-group>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj004" related-article-type="editor-report"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>2</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="author-response-date">22 Dec 2023</named-content>
+</p>
+      <supplementary-material id="pntd.0011889.s003" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">PNTD-D-23-00623R1 Response to Reviewers.doc</named-content></p>
+        </caption>
+        <media xlink:href="pntd.0011889.s003.doc">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="editor-report" id="pntd.0011889.r005" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r005</article-id>
+      <title-group>
+        <article-title>Decision Letter 2</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pappas</surname>
+            <given-names>Georgios</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nascimento</surname>
+            <given-names>Ana LTO</given-names>
+          </name>
+          <role>Section Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Pappas, Nascimento</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Pappas, Nascimento</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj005" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>2</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">27 Dec 2023</named-content>
+</p>
+      <p>Dear Dr. Santos,</p>
+      <p>We are pleased to inform you that your manuscript 'What risk do Brucella vaccines pose to humans? A systematic review of the scientific literature on occupational exposure.' has been provisionally accepted for publication in PLOS Neglected Tropical Diseases.</p>
+      <p>Before your manuscript can be formally accepted you will need to complete some formatting changes, which you will receive in a follow up email. A member of our team will be in touch with a set of requests.</p>
+      <p>Please note that your manuscript will not be scheduled for publication until you have made the required changes, so a swift response is appreciated.</p>
+      <p>IMPORTANT: The editorial review process is now complete. PLOS will only permit corrections to spelling, formatting or significant scientific errors from this point onwards. Requests for major changes, or any which affect the scientific understanding of your work, will cause delays to the publication date of your manuscript.</p>
+      <p>Should you, your institution's press office or the journal office choose to press release your paper, you will automatically be opted out of early publication. We ask that you notify us now if you or your institution is planning to press release the article. All press must be co-ordinated with PLOS.</p>
+      <p>Thank you again for supporting Open Access publishing; we are looking forward to publishing your work in PLOS Neglected Tropical Diseases.</p>
+      <p>Best regards,</p>
+      <p>Georgios Pappas</p>
+      <p>Academic Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>Ana LTO Nascimento</p>
+      <p>Section Editor</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>***********************************************************</p>
+      <p>=</p>
+      <p>&lt;style type="text/css"&gt;p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 14.0px Arial; color: #323333; -webkit-text-stroke: #323333}span.s1 {font-kerning: none</p>
+      <p>&lt;/style&gt;</p>
+    </body>
+  </sub-article>
+  <sub-article article-type="editor-report" id="pntd.0011889.r006" specific-use="acceptance-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pntd.0011889.r006</article-id>
+      <title-group>
+        <article-title>Acceptance letter</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pappas</surname>
+            <given-names>Georgios</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nascimento</surname>
+            <given-names>Ana LTO</given-names>
+          </name>
+          <role>Section Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Pappas, Nascimento</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Pappas, Nascimento</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pntd.0011889" id="rel-obj006" related-article-type="reviewed-article"/>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">3 Jan 2024</named-content>
+</p>
+      <p>Dear Doctor Solera Santos,</p>
+      <p>We are delighted to inform you that your manuscript, "What risk do Brucella vaccines pose to humans? A systematic review of the scientific literature on occupational exposure.," has been formally accepted for publication in PLOS Neglected Tropical Diseases.</p>
+      <p>We have now passed your article onto the PLOS Production Department who will complete the rest of the publication process. All authors will receive a confirmation email upon publication.</p>
+      <p>The corresponding author will soon be receiving a typeset proof for review, to ensure errors have not been introduced during production. Please review the PDF proof of your manuscript carefully, as this is the last chance to correct any scientific or type-setting errors. Please note that major changes, or those which affect the scientific understanding of the work, will likely cause delays to the publication date of your manuscript. Note: Proofs for Front Matter articles (Editorial, Viewpoint, Symposium, Review, etc...) are generated on a different schedule and may not be made available as quickly.</p>
+      <p>Soon after your final files are uploaded, the early version of your manuscript will be published online unless you opted out of this process. The date of the early version will be your article's publication date. The final article will be published to the same URL, and all versions of the paper will be accessible to readers.</p>
+      <p>Thank you again for supporting open-access publishing; we are looking forward to publishing your work in PLOS Neglected Tropical Diseases. </p>
+      <p>Best regards,</p>
+      <p>Shaden Kamhawi</p>
+      <p>co-Editor-in-Chief</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+      <p>Paul Brindley</p>
+      <p>co-Editor-in-Chief</p>
+      <p>PLOS Neglected Tropical Diseases</p>
+    </body>
+  </sub-article>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Acta Biochim Biophys Sin (Shanghai)</journal-id><journal-id journal-id-type="iso-abbrev">Acta Biochim Biophys Sin (Shanghai)</journal-id><journal-id journal-id-type="publisher-id">ABBS</journal-id><journal-title-group><journal-title>Acta Biochimica et Biophysica Sinica</journal-title></journal-title-group><issn pub-type="ppub">1672-9145</issn><issn pub-type="epub">1745-7270</issn><publisher><publisher-name>Science Press</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38419498</article-id><article-id pub-id-type="pmc">11292127</article-id>
+<article-id pub-id-type="doi">10.3724/abbs.2024023</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>A subunit vaccine based on
+<italic toggle="yes">Brucella</italic> rBP26 induces Th1 immune responses and M1 macrophage activation
+</article-title><subtitle>Th1 and M1 activation by rBP26
+<italic toggle="yes">Brucella</italic> vaccine
+</subtitle></title-group><contrib-group><contrib contrib-type="author"><name specific-use="en"><surname>Wen</surname><given-names>Jia</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Li</surname><given-names>Zihua</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Lv</surname><given-names>Yongxue</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Ding</surname><given-names>Shuqin</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Zhu</surname><given-names>Yazhou</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Yang</surname><given-names>Jihui</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Tang</surname><given-names>Jing</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Zhu</surname><given-names>Mingxing</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Zhao</surname><given-names>Yinqi</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name specific-use="en"><surname>Zhao</surname><given-names>Wei</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="fn1" ref-type="corresp">*</xref></contrib><aff id="aff1">
+<label>1</label>
+<institution content-type="orgname">School of Basic Medicine</institution>
+<institution content-type="orgname">Ningxia Medical University</institution>
+<addr-line>
+<named-content content-type="city">Yinchuan</named-content>
+<named-content content-type="zipcode">750004</named-content>
+</addr-line>
+<country>China</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution content-type="orgname">General Medicine Department</institution>
+<institution content-type="orgname">General Hospital of Ningxia Medical University</institution>
+<addr-line>
+<named-content content-type="city">Yinchuan</named-content>
+<named-content content-type="zipcode">750004</named-content>
+</addr-line>
+<country>China</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution content-type="orgname">Ningxia Key Laboratory of Prevention and Control of Common Infectious Diseases</institution>
+<institution content-type="orgname">Ningxia Hui Autonomous Region</institution>
+<addr-line>
+<named-content content-type="city">Yinchuan</named-content>
+<named-content content-type="zipcode">750004</named-content>
+</addr-line>
+<country>China</country>
+</aff></contrib-group><author-notes><corresp id="fn1">Correspondence address. Tel: +86-13895112892; zw-6915@163.com</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>2</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>25</day><month>6</month><year>2024</year></pub-date><volume content-type="Vol.">56</volume><issue content-type="No.">6</issue><fpage>879</fpage><lpage>891</lpage><history><date date-type="received"><day>2</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>12</day><month>2</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; The Author(s) 2021.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>
+<open-access><p>This is an open access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/).</p></open-access>
+</license-p></license></permissions><abstract><p>Brucellosis is a global zoonotic infection caused by
+<italic toggle="yes">Brucella</italic> bacteria, which poses a significant burden on society. While transmission prevention is currently the most effective method, the absence of a licenced vaccine for humans necessitates the urgent development of a safe and effective vaccine. Recombinant protein-based subunit vaccines are considered promising options, and in this study, the
+<italic toggle="yes">Brucella</italic> BP26 protein is expressed using prokaryotic expression systems. The immune responses are evaluated using the well-established adjuvant CpG-ODN. The results demonstrate that rBP26 supplemented with a CpG adjuvant induces M1 macrophage polarization and stimulates cellular immune responses mediated by Th1 cells and CD8
+<sup>+</sup> T cells. Additionally, it generates high levels of rBP26-specific antibodies in immunized mice. Furthermore, rBP26 immunization activates, proliferates, and produces cytokines in T lymphocytes while also maintaining immune memory for an extended period of time. These findings shed light on the potential biological function of rBP26, which is crucial for understanding brucellosis pathogenesis. Moreover, rBP26 holds promise as an effective subunit vaccine candidate for use in endemic areas.
+</p></abstract><kwd-group kwd-group-type="inspec"><kwd>BP26</kwd><kwd>M1 macrophage</kwd><kwd>recombinant protein vaccine</kwd><kwd>Th1 immune responses</kwd><kwd>immunogenicity</kwd></kwd-group><funding-group><award-group><funding-source>the grant from the Natural Science Foundation of Ningxia Hui Autonomous Region</funding-source><award-id>No.</award-id><award-id>2023AAC03671</award-id></award-group><funding-statement>This work was supported by the grant from the Natural Science Foundation of Ningxia Hui Autonomous Region (No. 2023AAC03671).</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>J Wen, Z Li, Y Lv, S Ding, Y Zhu, J Yang, J Tang, et al. A subunit vaccine based on
+<italic toggle="yes">Brucella melitensis</italic> rBP26 induces Th1 immune responses and M1 macrophage activation. Acta Biochim Biophys Sin, 2024, Vol.: fpage&#x2013;lpage,
+<uri xlink:href="https://doi.org/10.3724/abbs.2024023">https://doi.org/10.3724/abbs.2024023</uri>
+</meta-value></custom-meta><custom-meta><meta-name>Crossmark</meta-name><meta-value>2024/2/27 10:34:15</meta-value></custom-meta><custom-meta><meta-name>AuthorMark</meta-name><meta-value>J Wen</meta-value></custom-meta><custom-meta><meta-name>AuthorMarkCite</meta-name><meta-value>J Wen, Z Li, Y Lv, S Ding, Y Zhu, J Yang, J Tang, et al.</meta-value></custom-meta><custom-meta><meta-name>article-title</meta-name><meta-value>A subunit vaccine based on
+<italic toggle="yes">Brucella melitensis</italic> rBP26 induces Th1 immune responses and M1 macrophage activation
+</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec>
+      <title id="SEC1">Introduction</title>
+      <p>Brucellosis, a zoonotic infection caused by
+<italic toggle="yes">Brucella</italic> bacteria, poses a significant public health concern, affecting an estimated 3.5 billion people worldwide
+<xref rid="REF1" ref-type="bibr">[1]</xref>.
+<italic toggle="yes">Brucella</italic> are transmitted primarily through close contact with the blood, feces, urine, and placenta of infected host animals. Infections can result in miscarriages in female animals and orchitis in males, leading to a decrease in reproductive capacity and compromising the quality and safety of animal products
+<xref rid="REF2" ref-type="bibr">[2]</xref>. In humans, brucellosis manifests as symptoms such as fever, arthritis, orchitis, hepatitis, encephalomyelitis, and endocarditis
+<xref rid="REF3" ref-type="bibr">[3]</xref>. Presently, several live attenuated vaccines, including S19, Rev.1, S2, SR82, and RB51, are widely used [
+<xref rid="REF4" ref-type="bibr">4</xref>,
+<xref rid="REF5" ref-type="bibr">5</xref>]; however, these vaccines have certain limitations. For instance, some infections and complications may occur in humans, including the risk of miscarriage in pregnant cows
+<xref rid="REF6" ref-type="bibr">[6]</xref>. Given the absence of a licenced vaccine for human use, there is an urgent need to develop a safe and effective vaccine suitable for high-risk workers and individuals residing in endemic areas.
+</p>
+      <p>With advancements in molecular biology technology and a deeper understanding of the pathogenesis of brucellosis, there is a promising opportunity for the development of new transgenic vaccines to replace conventional vaccines for brucellosis control. Moreover, recombinant protein vaccines based on antigen recognition have gained significant attention and have been extensively studied [
+<xref rid="REF7" ref-type="bibr">7</xref>,
+<xref rid="REF8" ref-type="bibr">8</xref>]. These vaccines, expressed in either eukaryotic or prokaryotic systems, offer the advantage of inducing high levels of antibodies while addressing safety concerns associated with live vaccines
+<xref rid="REF6" ref-type="bibr">[6]</xref>. Researchers have cloned various
+<italic toggle="yes">Brucella</italic> outer membrane proteins and explored their immunogenicity in an effort to identify components that can effectively protect target animal species. Notable examples include p39
+<xref rid="REF9" ref-type="bibr">[9]</xref>, OMP31
+<xref rid="REF10" ref-type="bibr">[10]</xref>, Cu-Zn-SOD
+<xref rid="REF11" ref-type="bibr">[11]</xref>, L7/L12
+<xref rid="REF12" ref-type="bibr">[12]</xref>, OMP2b
+<xref rid="REF13" ref-type="bibr">[13]</xref>, and TF
+<xref rid="REF14" ref-type="bibr">[14]</xref>. These studies aimed to identify specific protein components that could be utilized in the development of protective vaccines. Among the many outer membrane proteins, BP26 is located in the periplasm of
+<italic toggle="yes">Brucella</italic> and has been identified as an important diagnostic antigen for brucellosis. It is highly conserved in the
+<italic toggle="yes">Brucella</italic> genus and widely used as a specific marker for diagnosing brucellosis [
+<xref rid="REF15" ref-type="bibr">15</xref>&#x2012;
+<xref rid="REF17" ref-type="bibr">17</xref>]. As a potential vaccine candidate, BP26 can stimulate both humoral and cellular immune responses in the host in combination with other agents, providing protection against
+<italic toggle="yes">Brucella</italic> infection [
+<xref rid="REF18" ref-type="bibr">18</xref>,
+<xref rid="REF19" ref-type="bibr">19</xref>]. However, macrophages, which are the first line of defense against
+<italic toggle="yes">Brucella</italic>, play a crucial role in linking innate and adaptive immunity. When being infected with
+<italic toggle="yes">Brucella</italic>, macrophages recognize, bind, and internalize the pathogen while also secreting soluble antimicrobial agents and innate immune mediators to defend against the infection. Although several
+<italic toggle="yes">Brucella</italic> outer membrane proteins have been shown to activate macrophages to secrete pro-inflammatory cytokines, the function of rBP26 in innate and adaptive immunity, as well as its protective role in host defense against brucellosis, remains largely unknown.
+</p>
+      <p>To ensure the safety and effectiveness of the vaccine, we selected CpG as the adjuvant for our next study. CpG-ODN is a synthetic oligodeoxyribonucleotide that contains non-methylated cytosine guanine dinucleotide. It mimics the activation of cellular DNA and has been shown to have potent adjuvant activity when co-administered with antigens, stimulating cell-mediated immune responses
+<xref rid="REF20" ref-type="bibr">[20]</xref>. Notably, CpG-ODNs have already been licenced as adjuvants for human hepatitis B virus vaccines, ensuring their safety.
+</p>
+      <p>In the present study, we successfully expressed rBP26 using a prokaryotic system. We then carried out further studies to investigate the effects of rBP26 on various aspects of the immune response, including macrophage polarisation, T lymphocyte activation and proliferation, and immune memory after immunisation. These findings provide a crucial theoretical foundation for better understanding the biological functions of BP26 and developing effective strategies for controlling brucellosis.</p>
+    </sec>
+    <sec>
+      <title id="SEC2">Materials and Methods</title>
+      <sec>
+        <title id="SEC2.1">Animals</title>
+        <p>Female C57BL/6N mice aged 6&#x2012;8 weeks were obtained from Beijing Vital River Laboratory Animal Technology Co., Ltd (Beijing, China). The animal study protocol was approved by the Ethics Committee of the General Hospital of Ningxia Medical University (KYLL-2022-0685). All animals were administered isoflurane anaesthesia and subsequently euthanized through cervical dislocation.</p>
+      </sec>
+      <sec>
+        <title id="SEC2.2">Chemicals and reagents</title>
+        <p>All the reagents used in the present study were of analytical and molecular biology grade. CpG-ODN 1826 (TCCATGACGTTCCTGACGTT) was synthesized by Sangon (Shanghai, China) and dissolved in sterile phosphate-buffered saline (PBS; 0.01 M, pH 7.2).</p>
+      </sec>
+      <sec>
+        <title id="SEC2.3">PCR amplification and cloning</title>
+        <p>The
+<italic toggle="yes">bp26</italic> gene was amplified using
+<italic toggle="yes">Brucella suis</italic> S2 DNA as a template, and the resulting PCR product was inserted into the pET-30a vector after digestion using both the
+<italic toggle="yes">EcoR</italic>I and
+<italic toggle="yes">Hind</italic>III restriction enzymes, cloned and inserted into the pET-30a expression vector. The primers used in this study are shown as follows: forward, 5&#x2032;-CGGAATTCATGAACACTCGTGCTAGCAATTTTCTC-3&#x2032; and reverse, 5&#x2032;-CCCAAGCTTTTACTTGATTTCAAAAACGACATTGACCGA-3&#x2032;. PCR was conducted for 35 cycles at 98&#xB0;C for 2&#x2005;min, 98&#xB0;C for 20&#x2005;s, 55&#xB0;C for 30&#x2005;s, 72&#xB0;C for 30&#x2005;s and finally 72&#xB0;C for 5&#x2005;min. The PCR amplification products were eluted from the agarose gel and ligated to the pET-30a vector using T4 DNA ligase. Finally, the newly constructed plasmid was transformed into
+<italic toggle="yes">E</italic>.
+<italic toggle="yes">coli</italic> BL21 (DE3) cells.
+</p>
+      </sec>
+      <sec>
+        <title id="SEC2.4">Purification of rBP26 by Ni-NTA column chromatography</title>
+        <p>
+<italic toggle="yes">E</italic>.
+<italic toggle="yes">coli</italic> BL21 (DE3) carrying the recombinant plasmid pET30a-
+<italic toggle="yes">bp26</italic> was cultured in LB medium until the OD
+<sub>600 nm</sub> reached 0.5. The cells were then induced with IPTG (0.5&#x2005;mM) and incubated for an additional 12&#x2005;h at 29&#xB0;C. A His purification kit (Merck, Kenilworth, USA) was used to purify the rBP26 protein according to the manufacturer&#x2019;s instructions. Purified rBP26 was identified by sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE), and the protein concentration was determined using a Bradford kit (Beyotime, Shanghai, China).
+</p>
+      </sec>
+      <sec>
+        <title id="SEC2.5">Immunization</title>
+        <p>Here we established an immunological system using inbred female C57BL/6N mice. Fifteen mice were randomly divided into three groups: the control group (injected with PBS only), the CpG group (injected with 40&#x2005;&#x3BC;g of CpG-ODN1826), and the rBP26+CpG group (injected with 30&#x2005;&#x3BC;g of rBP26 and 40&#x2005;&#x3BC;g of CpG-ODN1826). The mixture was then suspended in PBS and injected into the lower abdomen of the mice (100&#x2005;&#x3BC;L/mouse). To boost immunity, purified rBP26 was mixed with CpG ODN 1826 as a protein vaccine. We performed two boosts, as shown in
+<xref rid="FIG1" ref-type="fig">Figure 1</xref>A, one week apart.
+<fig position="float" id="FIG1"><caption><title>
+<xref rid="FIG1" ref-type="fig">Figure 1</xref>
+</title><p>SDS-PAGE and western blot analysis of rBP26 and animal immunisation and sampling protocols</p><p>(A) C57BL/6 mice (n=5) were subcutaneously immunized according to the prime-boost protocol. Two enhancements (&#x2012;1 and 0) were performed. Spleen and serum samples were collected and tested at 1, 2, 4 and 8 weeks after the last immunisation. (B) SDS-PAGE analysis of recombinant protein BP26. Lane 1, protein marker; Lane 2, empty vehicle induction product; Lane 3, uninduced negative control; Lane 4, whole bacteria after induction; and Lane 5, purfied rBP26. (C) Western blot analysis of rBP26 with serum from PBS immunised groups of mice. Lane 1, protein marker; and Lane 2, serum from mice in the PBS group. (D) Western blot of rBP26 with serum from rBP26 immunised groups of mice. Lane 1, protein marker; and Lane 2, serum from mice immunized with purified rBP26.</p></caption><graphic xlink:href="abbs-2023-579-t1" position="float"/></fig>
+</p>
+      </sec>
+      <sec>
+        <title id="SEC2.6">Sample collection and cell culture</title>
+        <p>At the designated time after immunization, the mice were anaesthetized with isoflurane, and blood and spleen samples were collected from each mouse. Each spleen was minced and filtered through a 70-&#x3BC;m mesh filter. Approximately 5&#x2005;mL of erythrocyte lysis buffer was then added to the cell suspension, which was subsequently incubated on ice for 5&#x2005;min. The reaction was stopped by adding an equal volume of PBS. The cells were subsequently centrifuged at 350
+<italic toggle="yes">g</italic> for 5&#x2005;min, washed once with PBS, and resuspended in complete RPMI-1640 medium (HyClone, Logan, USA) supplemented with 10% heat-inactivated fetal calf serum (FCS; GeminiBio, West Sacramento, USA), 100&#x2005;&#x3BC;g/mL streptomycin, 100 U/mL penicillin, 2&#x2005;mM&#x2005;L-glutamine, and 50&#x2005;&#x3BC;M 2-mercaptoethanol (Gibco, Big Island, USA).
+</p>
+      </sec>
+      <sec>
+        <title id="SEC2.7">Western blot analysis</title>
+        <p>The protein concentration was determined using a Bradford kit. The proteins were subsequently boiled at 100&#xB0;C for 10&#x2005;min and separated by using 12% SDS-PAGE. Polyvinylidene fluoride (PVDF) membranes (Solarbio Science &amp; Technology Co., Ltd, Beijing, China) were used for protein transfer. The first antibody used for the rBP26 protein was obtained from the serum of immunized and control mice (1:500 dilution), and the second antibody used was goat anti-mouse IgG/HRP (1:20,000; Abcam, Shanghai, China). Finally, protein expression was analysed using an Enhanced chemiluminescence (ECL) detection kit (KeyGen Biotech Co., Ltd, Nanjing, China) on a ChemiDocTM touch imaging system (Bio-Rad, Shanghai, China).</p>
+      </sec>
+      <sec>
+        <title id="SEC2.8">ELISA and ELISpot</title>
+        <p>To begin the experiment, 200&#x2005;&#x3BC;L of splenocytes at a concentration of 2&#xD7;10
+<sup>6</sup> cells/mL were inoculated into 96-well plates. These plates were divided into two groups: one group was treated with recombinant BP26 at a concentration of 10&#x2005;&#x3BC;g/mL, and the other group was not treated. Additionally, an anti-CD28 antibody was added to each well at a concentration of 1&#x2005;&#x3BC;g/mL. The plates were then placed in an environment at 37&#xB0;C with CO
+<sub>2</sub> 5% concentration for 72&#x2005;h. After the incubation period, the culture supernatant was collected, and the levels of cytokines (IFN-&#x3B3;, TNF-&#x3B1;, IL-2, IL-4, and IL-6) were measured using a BD OptEIA ELISA kit (BD Biosciences, San Jose, USA). To stop the reaction, 1 M H
+<sub>2</sub>SO
+<sub>4</sub> was added to each well. The OD value of each well was then determined at a wavelength of 450&#x2005;nm using a microplate reader (Thermo Fisher, Waltham, USA).
+</p>
+        <p>A BD OptEIA Mouse ELISPOT kit (BD Biosciences) was used for the detection of IFN-&#x3B3; and IL-4 puncta. First, the capture antibodies were diluted 1:250 in coating buffer, and the ELISPOT plates were diluted with 100&#x2005;&#x3BC;L of capture antibody per well. The plate was then sealed and incubated at 4&#xB0;C overnight. After the coated antibody was discarded, the wells were washed with 200&#x2005;&#x3BC;L of Closure Solution (RPMI 1640 medium containing 10% fetal calf serum). Subsequently, 200&#x2005;&#x3BC;L of Closure Solution was added to each well, and the plates were incubated at 37&#xB0;C for 2&#x2005;h. The cells were suspended in complete RPMI 1640 medium at a density of 1&#xD7;10
+<sup>6</sup> cells/mL and were incubated in ELISPOT plates at 200&#x2005;&#x3BC;L per well. This mixture was incubated at 37&#xB0;C and 5% CO
+<sub>2</sub> in the presence of anti-CD28 (1&#x2005;&#x3BC;g/mL) with or without rBP26 (10&#x2005;&#x3BC;g/mL). The plates were subsequently washed twice with deionized water and three times with PBST. The detection antibody was diluted in dilution buffer (PBS containing 10% fetal calf serum) and incubated for 2&#x2005;h at 37&#xB0;C. This was achieved by adding 100&#x2005;&#x3BC;L of diluted detection antibody to each well. The plate was then washed three times with PBST. Next, a predetermined dilution of HRP-conjugated antibodies in 100&#x2005;&#x3BC;L of dilution buffer was added to each well, and the plate was incubated for 1&#x2005;h at 37&#xB0;C. The plates were washed four times with PBST and twice with PBS. Subsequently, 100&#x2005;&#x3BC;L of 3-amino-9-ethylcarbazole (AEC) was added to each well. The substrate reaction was stopped using deionized water, and the spots were analyzed using an ELISPOT plate reader (AID Fluorospot; Autoimmun Diagnostika GmbH, Strassberg, Germany).
+</p>
+      </sec>
+      <sec>
+        <title id="SEC2.9">Flow cytometric analysis</title>
+        <p>To assess intracellular cytokine levels, cells were cultured at a concentration of 1&#xD7;10
+<sup>6</sup> cells/mL in medium supplemented with an anti-CD28 antibody (1&#x2005;&#x3BC;g/mL). The cells were then incubated with or without rBP26 at a concentration of 10&#x2005;&#x3BC;g/mL for 24&#x2005;h. During the last 6&#x2005;h of incubation, brefeldin A (10&#x2005;&#x3BC;g/mL; Sigma-Aldrich, St Louis, USA) was added. The cells were subsequently washed twice with PBS containing 0.1% BSA and 0.05% sodium (buffer 1) and stained with fluorescent dye-labelled monoclonal antibodies for 30&#x2005;min at 4&#xB0;C in the dark. This staining procedure was subsequently conducted for phenotypic analysis. After staining, the cells were washed with buffer 1 and fixed with 4% paraformaldehyde. Subsequently, the cells were permeabilized overnight at 4&#xB0;C using buffer 2 (buffer 1 supplemented with 0.1% diosgenin). The cells were then stained with fluorescence-labelled monoclonal antibodies in the dark at 4&#xB0;C for 30&#x2005;min. Following another wash with buffer 1, the levels of intracellular cytokines were determined using the BD Biosciences FACSCelesta method. The data were analyzed using FlowJo 10 software (TreeStar, San Carlos, USA). Prior to analysing the macrophages, they were treated with the Fcg blocking antibody against mouse CD16/32 for 10&#x2005;min, followed by the same steps as those used for the determination of intracellular factors.
+</p>
+        <p>The following fluorescein antibodies are purchased from BD Bioscience, including phycoerythrin-Texas red (PE-CF594)-coupled anti-CD3 antibody, allophycocyanin-7 (APC-Cy7)-coupled anti-CD4 antibody, Pacific blue (Pacific Blue)-coupled anti-CD8 antibody, fluorescein isothiocyanate (FITC)-coupled anti-interferon-&#x3B3; antibody, brilliant Violet 605 (BV605)-coupled anti-IL-4 antibody, PE-coupled anti-CD25 antibody, Alexa Fluor-coupled anti-CD69 antibody, immobilized active antibody BV510, Block mouse anti-CD16/32, APC-coupled anti-CD44 antibody, PE-coupled anti-CD25 antibody, Alexa Fluor-coupled anti-CD69 antibody, immobilized active antibody BV510, FCG anti-CD16/32, APC-coupled anti-CD44 antibody, PE-coupled anti-CD25 antibody, Alexa Fluor-coupled anti-CD69 antibody, fixable active antibody BV510, Blocking anti-CD16/32Peridinin chlorophyll protein-Cyanine5.5 (PerCP-CY5.5) conjugated-anti-CD62L antibody, BV421 Rat anti-mouse F4/80, FITC conjugated-anti-CD11b antibody, PerCP-CY5.5 conjugated-anti-CD11c antibody, and Alexa Fluor647-conjugated-anti-CD206 antibody.</p>
+      </sec>
+      <sec>
+        <title id="SEC2.10">Cell proliferation assay</title>
+        <p>Briefly, splenocytes were washed twice with prewarmed PBS, incubated with 2.5&#x2005;&#x3BC;M carboxyfluorescein diacetate succinimide (CFSE; Invitrogen, Carlsbad, USA) for 15&#x2005;min in the dark at 37&#xB0;C, and then washed with precooled PBS (containing 10% FBS). The cells were washed twice with precooled phosphate buffer and cultured with or without rBP26 (10&#x2005;&#x3BC;g/mL) for a period of time at 37&#xB0;C and 5% carbon dioxide. The cells were harvested, and phenotypic analysis was performed using fluorescence-labelled monoclonal antibodies in the dark at 4&#xB0;C. The samples were scored using FACSCelesta, and the data were analyzed using FlowJo.</p>
+      </sec>
+      <sec>
+        <title id="SEC2.11">Statistical analysis</title>
+        <p>All the statistical tests were performed using GraphPad Prism 10.1 (GraphPad, San Diego, USA) and SPSS 22.0. A nonpaired
+<italic toggle="yes">t</italic> test was used for comparisons between groups, and one-way or two-way analysis was used for comparisons among more than two groups. Normally distributed or homogeneously distributed data were tested by the LSD test or SNK test. Dunnett&#x2019;s
+<italic toggle="yes">t</italic> test or an independent sample
+<italic toggle="yes">t</italic> test was used to test normally distributed data with unequal variance. The data are expressed as the mean&#xB1;standard deviation.
+<italic toggle="yes">P</italic>&lt;0.05 was considered to indicate statistical significance.
+</p>
+      </sec>
+    </sec>
+    <sec>
+      <title id="SEC3">Results</title>
+      <sec>
+        <title id="SEC3.1">SDS-PAGE and immunoblot analysis of recombinant BP26</title>
+        <p>To obtain the purified recombinant protein, the pET30a expression vector system was used to facilitate the expression of the protein encoded by the
+<italic toggle="yes">bp26</italic> gene in
+<italic toggle="yes">E</italic>.
+<italic toggle="yes">coli</italic>. Following induction of the recombinant expression vector pET30a-
+<italic toggle="yes">bp26</italic>/BL21 (DE3) with IPTG, the BP26 protein was purified using affinity chromatography on a Ni-NTA column. The purity and integrity of the proteins were confirmed through analysis via SDS-PAGE. Remarkably, distinct and well-defined protein bands were observed at approximately 35 kDa (
+<xref rid="FIG1" ref-type="fig">Figure 1</xref>B).
+</p>
+        <p>To assess the antigenicity and specificity of the purified rBP26 protein, western blot analysis was conducted using antisera obtained from immunized mice. The rBP26 protein exhibited no reactivity with antisera derived from PBS-treated mice (
+<xref rid="FIG1" ref-type="fig">Figure 1</xref>C). Conversely, the protein was able to recognize antisera obtained from rBP26-immunized mice (
+<xref rid="FIG1" ref-type="fig">Figure 1</xref>D). This observation indicated that the sera of immunized mice contained specific antibodies capable of binding to the rBP26 protein, thereby demonstrating its immunogenicity.
+</p>
+      </sec>
+      <sec>
+        <title id="SEC3.2">rBP26 induces stronger and longer lasting antibody responses when combined with CpG adjuvant</title>
+        <p>Serum samples were collected at specific time points (1, 2, 4, and 8 weeks) after the final immunization to assess the presence of specific antibodies against rBP26 using an indirect ELISA. The antibodies tested included IgM, IgG, IgG1, IgG3, IgG2a, IgG2b, IgG2c, and IgA. As anticipated, immunization with rBP26 resulted in significantly greater levels of rBP26-specific IgG antibodies and their subtypes than did immunization with the control agents (PBS and CpG). The peak antibody response for most subtypes, except for IgM, was observed two weeks after the final immunization and remained detectable for at least 8 weeks. Notably, the expression level of IgA in the rBP26-immunized group reached its highest point after two weeks of booster immunization, but the duration was relatively short (
+<xref rid="FIG2" ref-type="fig">Figure 2</xref>A).
+<fig position="float" id="FIG2"><caption><title>
+<xref rid="FIG2" ref-type="fig">Figure 2</xref>
+</title><p>Antigen-specific humoral immunity induced after recombinant protein vaccination</p><p>Serum samples were collected at 1, 2, 4 and 8 weeks after last immunisation and antibody levels were determined. (A) rBP26-specific antibodies. (B) rBP26-specific IgG1/IgG2a ratio. (C) Titers of rBP26-specific IgG antibodies in serum from C57BL/6 mice were detected. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. ****P&lt;0.0001. ns, P&gt;0.05.</p></caption><graphic xlink:href="abbs-2023-579-t2" position="float"/></fig>
+</p>
+        <p>Furthermore, the analysis of Th1 (IgG2a) and Th2 (IgG1) antibody levels revealed a significant increase in the immunized group compared to the PBS and CpG control groups. The IgG1/IgG2a ratio, measured at detection, was consistently less than 1, indicating that rBP26 immunization primarily induced a Th1 immune response (
+<xref rid="FIG2" ref-type="fig">Figure 2</xref>B). Additionally, the antibody titres produced by rBP26 immunization were greater than those observed in the PBS and CpG groups (
+<xref rid="FIG2" ref-type="fig">Figure 2</xref>C). These findings strongly suggest that mice vaccinated with CpG-adjuvanted rBP26 exhibit robust and sustained antibody responses.
+</p>
+      </sec>
+      <sec>
+        <title id="SEC3.3">Antigen-specific cellular immune responses to the rBP26 vaccine</title>
+        <p>At 2 weeks after the final immunization, the levels of IFN-&#x3B3;, IL-2, TNF-&#x3B1;, and IL-6 secreted by splenocytes in the rBP26-immunized group were significantly greater than those in the PBS group and the CpG adjuvant group following
+<italic toggle="yes">in vitro</italic> rBP26 stimulation. Conversely, the secretion of IL-4 did not significantly differ among the three groups (
+<xref rid="FIG3" ref-type="fig">Figure 3</xref>A). These findings strongly suggest that rBP26 immunization primarily elicits Th1-type cellular immune responses rather than Th2-type cellular immune responses. Furthermore, the secretion levels of IFN-&#x3B3; and TNF-&#x3B1; in the rBP26-immunized group peaked approximately two weeks after the final immunization and gradually declined thereafter until the eighth week. Notably, no IL-4 secretion was detected during this period (
+<xref rid="FIG3" ref-type="fig">Figure 3</xref>B).
+<fig position="float" id="FIG3"><caption><title>
+<xref rid="FIG3" ref-type="fig">Figure 3</xref>
+</title><p>Ability of rBP26 to stimulate cytokine production</p><p>Mice from different group were primed and boosted with PBS, CpG, or rBP26+CpG, respectively, and sacrificed at week 2 after boosting. Splenocytes were isolated from the spleen tissues. (A) At 2 weeks after booster immunization, splenocytes were isolated and stimulated with rBP26, and cytokine production of the supernatant was tested by ELISA. (B) At 1, 2, 4 and 8 weeks post-immunization, splenocytes were collected, and cytokine levels were determined by ELISA. (C) Splenocytes after 1 week post-immunization were collected, stimulated with rBP26 in vitro, and antigen-specific IFN-&#x3B3; and IL-4 secretion were measured using ELISPOT. (D) Antigen-specific IFN-&#x3B3; spot-forming cells. (E) Antigen-specific IL-4 spot-forming cells. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. ***P&lt;0.001, ****P&lt;0.0001. ns, P&gt;0.05.</p></caption><graphic xlink:href="abbs-2023-579-t3" position="float"/></fig>
+</p>
+        <p>To further confirm the effectiveness of the recombinant protein vaccine in stimulating cellular immune responses in mice, splenocytes were collected for IFN-&#x3B3;/IL-4 ELISPOT analysis after 1 week of rBP26 immunization. The results demonstrated that the rBP26-immunized group had a greater number of rBP26-specific IFN-&#x3B3;-expressing splenocytes than the PBS and CpG groups did (
+<xref rid="FIG3" ref-type="fig">Figure 3</xref>C,D). However, similar numbers of splenocytes specifically expressing IL-4 were observed in the rBP26, PBS, and CpG groups (
+<xref rid="FIG3" ref-type="fig">Figure 3</xref>C,E).
+</p>
+      </sec>
+      <sec>
+        <title id="SEC3.4">rBP26 activates M1 macrophages as well as antigen-specific CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells
+</title>
+        <p>The immune cell profiles of mouse spleen tissues were assessed using flow cytometry analysis. Briefly, splenocytes were extracted from the spleens of mice in the PBS, CpG, and rBP26+CpG groups at 1, 2, 4, and 8 weeks after booster immunization. Flow cytometry was used to analyse the immune cell profiles of both M1 and M2 macrophages in detail (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>A,D). During the second week following the final immunization, compared to the control groups, the number of M1 macrophages (F4/80
+<sup>+</sup>CD11c
+<sup>+</sup> cells) and the mean fluorescence intensity (MFI) of CD11c in the rBP26-immunized group were significantly greater (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>B,C). Conversely, the number of M2 macrophages (F4/80
+<sup>+</sup>CD206
+<sup>+</sup> cells) and the MFI of CD206 were significantly lower in the rBP26-immunized group (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>E,F). Furthermore, phenotypic changes in macrophages were observed at different time points after immunization. Specifically, compared with those in the PBS and CpG groups, the number of M1 macrophages in the rBP26-immunized group was significantly greater in the first and second weeks following immunization (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>G), while the number of M2 macrophages was significantly lower (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>H). However, there was minimal disparity in the number of M1-type and M2-type macrophages among the three groups at 4 and 8 weeks after immunization (
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>G,H).
+<fig position="float" id="FIG4"><caption><title>
+<xref rid="FIG4" ref-type="fig">Figure 4</xref>
+</title><p>Detection of macrophage polarization through flow cytometry</p><p>Splenocytes were isolated from mice injected with PBS, CpG, and rBP26+CpG at 1, 2, 4, and 8 weeks following the final immunization. The macrophage phenotype was analyzed using flow cytometry after surface labeling and intracellular staining. (A) Representative dot plot showed the identification of M1 macrophages (F4/80+ CD11c+ cells) at 2 week after the last immunisation. (B) Frequency of M1 macrophages. (C) MFI of CD11c. (D) Representative dot plot showed the identification of M2 macrophages (F4/80+ CD206+ cells) at 2 week after the last immunisation. (E) Frequency of M2 macrophages. (F) MFI of CD206. (G) Comparison of frequencies of M1 macrophages at different time interval. (H) Comparison of frequencies of M2 macrophages at different time interval. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. *P&lt;0.05, **P&lt;0.01, ***P&lt;0.001. ns, P&gt;0.05.</p></caption><graphic xlink:href="abbs-2023-579-t4" position="float"/></fig>
+</p>
+        <p>To evaluate the potential disparities in the quality of T-cell responses in mice immunized with rBP26, a thorough analysis of antigen-specific T-cell responses was conducted. This analysis aimed to assess the presence of IFN-&#x3B3; and IL-4-secreting T cells in an antigen-dependent manner. For this purpose, splenocytes collected from immunized mice were stimulated with rBP26
+<italic toggle="yes">in vitro</italic>, and the resulting cytokine-positive T-cell subsets were subsequently analyzed using flow cytometry. Compared to those in the PBS and CpG groups, the frequency of CD4
+<sup>+</sup> IFN-&#x3B3;
+<sup>+</sup> T cells in the rBP26-immunized group was significantly greater (
+<xref rid="FIG5" ref-type="fig">Figure 5</xref>A,C), indicating a robust cellular immune response. However, there was no significant difference in the number of IL-4-secreting CD4
+<sup>+</sup> T cells among the three groups (
+<xref rid="FIG5" ref-type="fig">Figure 5</xref>E,G). Furthermore, the frequency of IFN-&#x3B3;-secreting CD8
+<sup>+</sup> T cells also increased following stimulation with rBP26 compared to that in unstimulated splenocytes (
+<xref rid="FIG5" ref-type="fig">Figure 5</xref>B,D). Like in the CD4
+<sup>+</sup> T-cell response, there was no notable difference in the frequency of CD8
+<sup>+</sup> IL-4
+<sup>+</sup> T cells among the different groups (
+<xref rid="FIG5" ref-type="fig">Figure 5</xref>F,H).
+<fig position="float" id="FIG5"><caption><title>
+<xref rid="FIG5" ref-type="fig">Figure 5</xref>
+</title><p>Flow cytometry analysis of antigen-specific CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T-cell secretion of IFN-&#x3B3; and IL-4 in splenocytes after immunization
+</p><p>One week after the last immunisation, splenocytes were isolated, and stimulated with rBP26 or culture medium. Antigen-specific CD4+/CD8+ T-cell secretion of IFN-&#x3B3;/IL-4 was determined using flow cytometry assay. Representative flow cytometry plots for measuring IFN-&#x3B3;-secreting (A) CD4+ and (B) CD8+ T cells. Antigen-specific (C) CD4+ and (D) CD8+ T cells were analyzed for secretion of IFN-&#x3B3; from the spleens. Representative flow cytometry plots for measuring IL-4-secreting (E) CD4+ and (F) CD8+ T cells. Antigen-specific (G) CD4+ and (H) CD8+ T cells were analyzed for secretion of IL-4 from the spleens. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. **P&lt;0.01, ***P&lt;0.001, ****P&lt;0.0001.</p></caption><graphic xlink:href="abbs-2023-579-t5" position="float"/></fig>
+</p>
+      </sec>
+      <sec>
+        <title id="SEC3.5">rBP26 promotes the activation and proliferation of CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells
+</title>
+        <p>To gain more insight into the kinetics of T-cell activation, we examined the peak expression of CD69 and CD25 on CD4
+<sup>+</sup> T cells (
+<xref rid="FIG6" ref-type="fig">Figure 6</xref>A,B) and CD8
+<sup>+</sup> T cells by flow cytometry analysis (
+<xref rid="FIG6" ref-type="fig">Figure 6</xref>E,F). Following incubation with rBP26 (10&#x2005;&#x3BC;g/mL) and an anti-CD28 antibody (1&#x2005;&#x3BC;g/mL), we observed significantly greater CD69 and CD25 expression on CD4
+<sup>+</sup> T cells in the rBP26-immunized group than in the PBS and CpG groups (
+<xref rid="FIG6" ref-type="fig">Figure 6</xref>C,D). Notably, CD8
+<sup>+</sup> T cells also exhibited activation in the rBP26 groups (
+<xref rid="FIG6" ref-type="fig">Figure 6</xref>G,H).
+<fig position="float" id="FIG6"><caption><title>
+<xref rid="FIG6" ref-type="fig">Figure 6</xref>
+</title><p>rBP26 activated specific CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells
+</p><p>Mice were induced and enhanced with PBS, CpG, or rBP26+CpG, and were executed at the second week after enhancement. Splenocytes were isolated and cultured with rBP26 or culture medium for 1&#x2005;day. After stained with fluorochrome-conjugated monoclonal antibodies for CD69 and CD25, cells were analyzed by flow cytometry and data were analyzed using FlowJo. Representative peak plots showing (A) CD69 and (B) CD25 expressions in CD4+ T cells. Frequencies of (C) CD69 and (D) CD25 expression in CD4+ T cells from PBS, CpG, and rBP26+CpG group. Representative peak plots showing (E) CD69 and (F) CD25 expressions in CD8+ T cells. Frequencies of (G) CD69 and (H) CD25 expression in CD8+ T cells from PBS, CpG, and rBP26+CpG group. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. *P&lt;0.05, ***P&lt;0.001.</p></caption><graphic xlink:href="abbs-2023-579-t6" position="float"/></fig>
+</p>
+        <p>To investigate cell proliferation, we employed CFSE labelling. As expected, the rBP26-immunized group displayed enhanced proliferation of CD4
+<sup>+</sup> T cells on day 5 poststimulation with rBP26 in vitro (
+<xref rid="FIG7" ref-type="fig">Figure 7</xref>A,C). Similarly, rBP26 promoted the proliferation of CD8
+<sup>+</sup> T cells (
+<xref rid="FIG7" ref-type="fig">Figure 7</xref>B,D). Importantly, this proliferation phenomenon was not observed in the PBS or CpG adjuvant groups.
+<fig position="float" id="FIG7"><caption><title>
+<xref rid="FIG7" ref-type="fig">Figure 7</xref>
+</title><p>rBP26 promoted the proliferation of CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells
+</p><p>Mice were primed and boosted with PBS, CpG, or rBP26+CpG and sacrificed at week 2 after boosting. Splenocytes were treated with CFSE labelling and stimulated with rBP26 or culture medium for 5 days. Then cells were stained with fluorochrome-conjugated monoclonal antibodies for CD4 and CD8. Flow cytometry and FlowJo were performed to collect and analyze the data. Representative peak plots showing the identification of proliferative (A) CD4+ and (B) CD8+ T cells. Frequencies of proliferative (C) CD4+ and (D) CD8+ T cells. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. *P&lt;0.05, **P&lt;0.01, ***P&lt;0.001.</p></caption><graphic xlink:href="abbs-2023-579-t7" position="float"/></fig>
+</p>
+      </sec>
+      <sec>
+        <title id="SEC3.6">rBP26 vaccine induces splenic memory cells</title>
+        <p>In addition, we conducted a comprehensive investigation into the differentiation patterns of CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells following subcutaneous administration of rBP26+CpG. To achieve this goal, we employed a sorting strategy to identify central memory T cells (TCMs) and effector memory T cells (TEMs) (
+<xref rid="FIG8" ref-type="fig">Figure 8</xref>A,B).
+<fig position="float" id="FIG8"><caption><title>
+<xref rid="FIG8" ref-type="fig">Figure 8</xref>
+</title><p>Memory phenotypes of CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells
+</p><p>Splenocytes were collected at 1, 2, 4 and 8 weeks after the last immunisation to determine the memory phenotype of CD4+ and CD8+ T cells. (A) The gating strategies for CD44+CD62- T cells and CD44+CD62+ T cells. (B) Representative contour plot analysis of gated CD4+ T and CD8+ T cells expressing CD44 and CD62L. Numbers of CD4+ T cells presenting the cell surface phenotype (C) CD44+CD62&#x2212; T cells and (D) CD44+CD62+ T cells. Numbers of CD8+T cells presenting the cell surface phenotype (E) CD44+CD62&#x2212; T cells and (F) CD44+CD62+ T cells. Data were collected from a sample size of 5 mice, and the error bars indicate the standard deviation. *P&lt;0.05, **P&lt;0.01, ***P&lt;0.001, ****P&lt;0.0001.</p></caption><graphic xlink:href="abbs-2023-579-t8" position="float"/></fig>
+</p>
+        <p>The results revealed a significant increase in the frequency of CD44
+<sup>+</sup> CD62L
+<sup>&#x2013;</sup> TEM and CD44
+<sup>+</sup> CD62L
+<sup>+</sup> TCM cells among the CD4
+<sup>+</sup> T cells in the rBP26 + CpG group compared to that in the PBS and CpG groups one week after the final immunization (
+<xref rid="FIG8" ref-type="fig">Figure 8</xref>C,D). Furthermore, the induction of TEM within the CD8
+<sup>+</sup> T-cell population in the rBP26+CpG group was significantly greater than that in the other two groups at weeks 1, 2, 4, and 8 following the final immunization (
+<xref rid="FIG8" ref-type="fig">Figure 8</xref>E). In contrast, the rate of TCM induction in the CD8
+<sup>+</sup> T cell population was significantly higher than in the PBS groups only at week 1 after the last immunisation (
+<xref rid="FIG8" ref-type="fig">Figure 8</xref>F).
+</p>
+      </sec>
+    </sec>
+    <sec>
+      <title id="SEC4">Discussion</title>
+      <p>Brucellosis, a severe zoonotic disease, can be effectively controlled through vaccination. However, progress in the development of brucellosis vaccines has been slow, and human vaccines are not yet available. The challenge lies in developing a safe and effective vaccine against
+<italic toggle="yes">Brucella</italic>, a parthenogenous intracellular pathogen that mainly resides in macrophages. Protective immunity against brucellosis relies on cellular immune responses dominated by the Th1 subpopulation of T lymphocytes, which play a central role in combating infection
+<xref rid="REF21" ref-type="bibr">[21]</xref>. Currently, vaccine development has entered the molecular vaccine stage, and recombinant protein vaccines show promise as safer, cheaper, and more suitable candidates for large-scale production than conventional vaccines. These recombinant protein vaccines have been shown to induce cell-mediated immune responses. Previous studies have demonstrated the immunogenicity and protective properties of
+<italic toggle="yes">Brucella</italic> OMPs, which are crucial for maintaining membrane integrity and selective permeability. As a result, additional studies have focused on using
+<italic toggle="yes">Brucella</italic> membrane proteins as subunit vaccines to provide protection against
+<italic toggle="yes">Brucella</italic> infection [
+<xref rid="REF22" ref-type="bibr">22</xref>&#x2012;
+<xref rid="REF24" ref-type="bibr">24</xref>]. Although many cell surface and intracellular components have been identified as potential factors for preventing
+<italic toggle="yes">Brucella</italic> infection, only low to moderate levels of protection have been achieved [
+<xref rid="REF9" ref-type="bibr">9</xref>,
+<xref rid="REF25" ref-type="bibr">25</xref>].
+</p>
+      <p>In addition, previous research has focused primarily on OMPs [
+<xref rid="REF26" ref-type="bibr">26</xref>,
+<xref rid="REF27" ref-type="bibr">27</xref>], whereas BP26 was initially identified as the primary protein responsible for the immune response in animals infected with
+<italic toggle="yes">Brucella</italic>. It was discovered to possess a distinctive functional structural domain known as &#x201C;SIMPL,&#x201D; which implies that BP26 may have a role in the innate immune response pathway
+<xref rid="REF28" ref-type="bibr">[28]</xref>. This study aimed to further investigate the impact of BP26 on host immune responses and propose potential immune mechanisms.
+<italic toggle="yes">Brucella</italic> enters the host and persists within host macrophages, resulting in chronic infection [
+<xref rid="REF29" ref-type="bibr">29</xref>,
+<xref rid="REF30" ref-type="bibr">30</xref>]. As the first line of defense against
+<italic toggle="yes">Brucella</italic>, macrophages play a crucial role in maintaining internal environmental stability and eliminating pathogenic microorganisms
+<xref rid="REF31" ref-type="bibr">[31]</xref>. Macrophages (M0) employ various activation mechanisms to effectively combat pathogenic microorganisms and/or host mediators. These mechanisms equip them with either proinflammatory and bactericidal effects (M1 macrophages), which play a crucial role in humoral immunity and the proinflammatory response
+<italic toggle="yes">in vivo</italic>
+<xref rid="REF32" ref-type="bibr">[32]</xref>, or anti-inflammatory effects (M2 macrophages), which are primarily involved in curbing the inflammatory response and facilitating tissue repair
+<xref rid="REF33" ref-type="bibr">[33]</xref>. Furthermore, studies conducted on animals have revealed notable disparities in macrophage subpopulations during different stages of
+<italic toggle="yes">Brucella</italic> infection. During the early/acute stage of infection, the presence of M1 macrophages fosters enhanced bactericidal capacity, while heightened expression of IFN-&#x3B3; leads to a reduction in
+<italic toggle="yes">Brucella</italic> survival within the spleens of infected mice. In contrast, the later stages of infection are characterized by an increase in M2 macrophages, which prolongs the survival time of
+<italic toggle="yes">Brucella</italic>
+<xref rid="REF34" ref-type="bibr">[34]</xref>. Numerous studies have substantiated the efficacy of modulating macrophage polarization. Our findings indicate that, compared to those in the PBS and CpG groups, the proportion of M1-type macrophages significantly increased, while the proportion of M2 macrophages notably decreased in the rBP26-immunized group. Additionally, the production of proinflammatory cytokines (TNF-&#x3B1; and IL-6), vital effectors mediating macrophage resistance against
+<italic toggle="yes">Brucella</italic> infection, was augmented in the rBP26-immunized group. These cytokines stimulate phagocytic lysosomal fusion events and the generation of antimicrobial effectors such as ROS, NO, and lysosomal enzymes [
+<xref rid="REF35" ref-type="bibr">35</xref>,
+<xref rid="REF36" ref-type="bibr">36</xref>]. Thus, these
+<italic toggle="yes">in vivo</italic> experiments suggest that BP26 serves as a pivotal initiator of innate immunity, specifically activating macrophages to trigger antimicrobial effectors, thereby facilitating early control of infection.
+</p>
+      <p>Macrophages play a crucial role in both innate and adaptive immunity, acting as a vital link between the two. Upon receiving activation signals from antigen-presenting cells, initial CD4
+<sup>+</sup> T cells differentiate into various helper T-cell subtypes, guided by the provided information and cytokines. Th1 cells secrete type 1 cytokines, such as IFN-&#x3B3;, which are key cytokines in the immune response to
+<italic toggle="yes">Brucella</italic> infection. This cytokine not only protects the host during the early stages of infection but also stimulates the proliferation of CD8
+<sup>+</sup> T cells. On the other hand, Th2 cells secrete type 2 cytokines, such as IL-4
+<xref rid="REF21" ref-type="bibr">[21]</xref>, which contribute to the chronic infection caused by
+<italic toggle="yes">Brucella</italic>
+<xref rid="REF37" ref-type="bibr">[37]</xref>. The results of this study, obtained through ELISA, ELISPOT, and flow cytometry analysis, demonstrated that immunization with rBP26 effectively stimulated the production of Th1-type cytokines, including IFN-&#x3B3;, IL-2, and TNF-&#x3B1;, while Th2-type cytokines, such as IL-4, were not significantly affected compared to those in the PBS or CpG group. Furthermore, rBP26 also stimulated the production of IFN-&#x3B3; by both CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells. These findings suggest that rBP26 induces a Th1-biased T-cell response, which may contribute to the protective effects against
+<italic toggle="yes">Brucella</italic> infection
+<xref rid="REF38" ref-type="bibr">[38]</xref>. Overall, these results provide further evidence that modulating macrophage polarization and promoting a Th1-type immune response, as achieved through rBP26 immunization, can effectively control
+<italic toggle="yes">Brucella</italic> infection. By activating macrophages and stimulating the production of antimicrobial effectors, rBP26 serves as a crucial initiator of innate immunity, facilitating the early control of infection. This study highlights the importance of macrophages and T-cell responses in the immune defense against
+<italic toggle="yes">Brucella</italic> and provides valuable insights for the development of novel therapeutic strategies.
+</p>
+      <p>Antibody-mediated humoral immune responses also play a crucial role in regulating the levels of circulating
+<italic toggle="yes">Brucella</italic> in the bloodstream of infected hosts. Compared to those in the PBS or CpG groups, the presence of rBP26-induced antibodies persisted for a longer duration, and the IgG titres were greater. Moreover, the production of both IgG1 and IgG2a antibodies increased. These observations suggest that rBP26 effectively induces Th1-type cellular immune responses and stimulates the production of associated antibodies
+<xref rid="REF39" ref-type="bibr">[39]</xref>. Furthermore, our study revealed that the introduction of rBP26 resulted in an increase in CD69 and CD25 expression on CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells after exposure to the homologous antigen for one day. The frequency of CD69 expression was notably greater in the rBP26 group than in the PBS and CpG groups. Additionally, rBP26 also facilitated the proliferation of specific CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells. In conclusion, the changes in cytokine and antibody profiles, together with the enhanced activation and proliferation of CD4
+<sup>+</sup> and CD8
+<sup>+</sup> T cells in response to rBP26, collectively indicate the effectiveness of rBP26 in stimulating Th1-type cellular immune responses and associated antibody production
+<xref rid="REF40" ref-type="bibr">[40]</xref>.
+</p>
+      <p>Immune memory is an essential aspect of adaptive immune responses, and the formation and maintenance of memory cells are crucial for inducing long-lasting protective immunity
+<xref rid="REF42" ref-type="bibr">[42]</xref>. While the production of cytokines and antibodies is associated with terminal differentiation and exhaustion, memory cells are responsible for controlling
+<italic toggle="yes">Brucella</italic> and other infections, manifested in the secondary response of the immune system to encountered antigens. Among memory cells, CD8
+<sup>+</sup> T cells play a critical role in controlling pathogenic infections. Therefore, the generation of protective memory CD8
+<sup>+</sup> T cells through vaccination is an attractive strategy for preventing and treating various human diseases. These memory CD8
+<sup>+</sup> T cells enhance the host&#x2032;s ability to defend against secondary infections [
+<xref rid="REF41" ref-type="bibr">41</xref>&#x2012;
+<xref rid="REF45" ref-type="bibr">45</xref>].
+</p>
+      <p>Given the importance of optimizing vaccine-induced immunity, it is crucial to determine the composition of protective memory CD8
+<sup>+</sup> T-cell responses. In our study, we observed that, compared with the control treatment, vaccination with rBP26 induced both effector and central memory CD4
+<sup>+</sup> T cells (CD4
+<sup>+</sup> TEM and CD4
+<sup>+</sup> TCM cells) as well as CD8
+<sup>+</sup> T cells (CD8
+<sup>+</sup> TEM and CD8
+<sup>+</sup> TCM cells). Furthermore, effector memory CD8
+<sup>+</sup> T cells were found to persist for up to 8 weeks after the last immunization. These findings suggest that the rBP26 vaccine promotes the development of durable immune memory, which is primarily dominated by effector memory CD8
+<sup>+</sup> T cells. This further enhances our understanding of BP26-induced protective T-cell immunity and advances research on anti-brucellosis vaccines.
+</p>
+      <p>Our findings provide valuable insights into the immunological properties of rBP26. We observed that rBP26 induces M1 macrophage polarization, promoting Th1-type cellular immune responses. Additionally, rBP26 has been shown to stimulate lymphocyte activation and proliferation, resulting in long-lasting immune memory. These novel findings build upon previous basic immunological studies of rBP26 and offer significant contributions toward understanding the immune mechanisms involved in host clearance of
+<italic toggle="yes">Brucella</italic>. With these compelling results, further studies focusing on rBP26 as a recombinant protein vaccine hold great promise in the prevention of
+<italic toggle="yes">Brucella</italic> infections.
+</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank the Ningxia Key Laboratory of Prevention and Control of Common Infectious Diseases for providing us with the laboratory environment.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>COMPETING INTERESTS</title>
+      <p>The authors declare that they have no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <ref id="REF1">
+        <label>1</label>
+        <element-citation publication-type="other" id="CITATION1">
+          <article-title>Rossetti CA, Arenas-Gamboa AM, Maurizio E. Caprine brucellosis: a historically neglected disease with significant impact on public health.
+<italic toggle="yes">
+<uri xlink:href="https://doi.org/10.1371/journal.pntd.0005692">PLoS Negl Trop Dis</uri>
+</italic> 2017, 11: e0005692
+</article-title>
+        </element-citation>
+      </ref>
+      <ref id="REF2">
+        <label>2</label>
+        <element-citation publication-type="other" id="CITATION2">
+          <article-title>J&#xFA;nior CAC, Moustacas VS, Xavier MN, Costa EA, Costa LF, Silva TMA, Paix&#xE3;o TA,
+<italic toggle="yes">et al</italic>. Andrological, pathologic, morphometric, and ultrasonographic findings in rams experimentally infected with
+<italic toggle="yes">Brucella</italic> ovis.
+<italic toggle="yes">
+<uri xlink:href="https://doi.org/10.1016/j.smallrumres.2011.08.004">Small Ruminant Res</uri>
+</italic> 2012, 102: 213&#x2013;222
+</article-title>
+        </element-citation>
+      </ref>
+      <ref id="REF3">
+        <label>3</label>
+        <element-citation publication-type="journal" id="CITATION3"><person-group person-group-type="author">
+<name><surname>Delpino</surname><given-names>MV</given-names></name>
+<name><surname>Barrionuevo</surname><given-names>P</given-names></name>
+<name><surname>Scian</surname><given-names>R</given-names></name>
+<name><surname>Fossati</surname><given-names>CA</given-names></name>
+<name><surname>Baldi</surname><given-names>PC</given-names></name>
+</person-group><article-title>
+<italic toggle="yes">Brucella</italic>-infected hepatocytes mediate potentially tissue-damaging immune responses
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.jhep.2010.02.028">J Hepatol</uri>
+</source><year>2010</year><volume>53</volume><fpage>145</fpage><lpage>154</lpage><pub-id pub-id-type="doi">10.1016/j.jhep.2010.02.028</pub-id><pub-id pub-id-type="pmid">20452697</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF4">
+        <label>4</label>
+        <element-citation publication-type="journal" id="CITATION4"><person-group person-group-type="author">
+<name><surname>Ivanov</surname><given-names>AV</given-names></name>
+<name><surname>Salmakov</surname><given-names>KM</given-names></name>
+<name><surname>Olsen</surname><given-names>SC</given-names></name>
+<name><surname>Plumb</surname><given-names>GE</given-names></name>
+</person-group><article-title>A live vaccine from
+<italic toggle="yes">Brucella abortus</italic> strain 82 for control of cattle brucellosis in the Russian Federation
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1017/S1466252311000028">Anim Health Res Rev</uri>
+</source><year>2011</year><volume>12</volume><fpage>113</fpage><lpage>121</lpage><pub-id pub-id-type="doi">10.1017/S1466252311000028</pub-id><pub-id pub-id-type="pmid">21676343</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF5">
+        <label>5</label>
+        <element-citation publication-type="journal" id="CITATION5"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>SC</given-names></name>
+<name><surname>Stoffregen</surname><given-names>WS</given-names></name>
+</person-group><article-title>Essential role of vaccines in brucellosis control and eradication programs for livestock</article-title><source>
+<uri xlink:href="https://doi.org/10.1586/14760584.4.6.915">Expert Rev Vaccines</uri>
+</source><year>2005</year><volume>4</volume><fpage>915</fpage><lpage>928</lpage><pub-id pub-id-type="doi">10.1586/14760584.4.6.915</pub-id><pub-id pub-id-type="pmid">16372886</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF6">
+        <label>6</label>
+        <element-citation publication-type="journal" id="CITATION6">
+          <person-group person-group-type="author">
+<name><surname>Avila-Calder&#xF3;n</surname><given-names>ED</given-names></name>
+<name><surname>Lopez-Merino</surname><given-names>A</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N</given-names></name>
+<name><surname>Boyle</surname><given-names>SM</given-names></name>
+<name><surname>Contreras-Rodr&#xED;guez</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>A history of the development of
+<italic toggle="yes">Brucella</italic> vaccines
+</article-title>
+          <source>
+<uri xlink:href="https://doi.org/10.1155/2013/743509">Biomed Res Int</uri>
+</source>
+          <year>2013</year>
+          <volume>2013</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1155/2013/743509</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="REF7">
+        <label>7</label>
+        <element-citation publication-type="journal" id="CITATION7"><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>D</given-names></name>
+<name><surname>Li</surname><given-names>L</given-names></name>
+<name><surname>Song</surname><given-names>D</given-names></name>
+<name><surname>Liu</surname><given-names>Y</given-names></name>
+<name><surname>Ju</surname><given-names>W</given-names></name>
+<name><surname>Song</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>A novel recombinant multi-epitope protein against Brucella melitensis infection</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.imlet.2016.04.016">Immunol Lett</uri>
+</source><year>2016</year><volume>175</volume><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.imlet.2016.04.016</pub-id><pub-id pub-id-type="pmid">27133932</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF8">
+        <label>8</label>
+        <element-citation publication-type="journal" id="CITATION8"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>L</given-names></name>
+<name><surname>Yu</surname><given-names>C</given-names></name>
+<name><surname>Wang</surname><given-names>C</given-names></name>
+<name><surname>Shao</surname><given-names>M</given-names></name>
+<name><surname>Yan</surname><given-names>Z</given-names></name>
+<name><surname>Jiang</surname><given-names>X</given-names></name>
+<name><surname>Chi</surname><given-names>S</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Immuno-enhancement of Taishan Pinus massoniana pollen polysaccharides on recombinant Bordetella avium ompA expressed in
+<italic toggle="yes">Pichia pastoris</italic>
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.micpath.2016.03.002">Microb Pathog</uri>
+</source><year>2016</year><volume>95</volume><fpage>54</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1016/j.micpath.2016.03.002</pub-id><pub-id pub-id-type="pmid">26975477</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF9">
+        <label>9</label>
+        <element-citation publication-type="other" id="CITATION9">
+          <article-title>Al-Mariri A, Tibor A, Mertens P, De Bolle X, Michel P, Godefroid J, Walravens K,
+<italic toggle="yes">et al</italic>. Protection of BALB/c mice against
+<italic toggle="yes">Brucella abortus</italic> 544 challenge by vaccination with bacterioferritin or P39 recombinant proteins with CpG oligodeoxynucleotides as adjuvant.
+<italic toggle="yes">
+<uri xlink:href="https://doi.org/10.1128/IAI.69.8.4816-4822.2001">Infect Immun</uri>
+</italic> 2001, 69: 4816&#x2013;4822
+</article-title>
+        </element-citation>
+      </ref>
+      <ref id="REF10">
+        <label>10</label>
+        <element-citation publication-type="journal" id="CITATION10">
+          <person-group person-group-type="author">
+<name><surname>Shirdast</surname><given-names>H</given-names></name>
+<name><surname>Ebrahimzadeh</surname><given-names>F</given-names></name>
+<name><surname>Taromchi</surname><given-names>AH</given-names></name>
+<name><surname>Mortazavi</surname><given-names>Y</given-names></name>
+<name><surname>Esmaeilzadeh</surname><given-names>A</given-names></name>
+<name><surname>Sekhavati</surname><given-names>MH</given-names></name>
+<name><surname>Nedaei</surname><given-names>K</given-names></name>
+<etal>et al.</etal>
+</person-group>
+          <article-title>Recombinant lactococcus lactis displaying omp31 antigen of
+<italic toggle="yes">brucella melitensis</italic> can induce an immunogenic response in BALB/c mice
+</article-title>
+          <source>
+<uri xlink:href="https://doi.org/10.1007/s12602-020-09684-1">Probiotics Antimicro Prot</uri>
+</source>
+          <year>2021</year>
+          <volume>13</volume>
+          <fpage>80</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12602-020-09684-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="REF11">
+        <label>11</label>
+        <element-citation publication-type="journal" id="CITATION11"><person-group person-group-type="author">
+<name><surname>Gonz&#xE1;lez-Smith</surname><given-names>A</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>R</given-names></name>
+<name><surname>Andrews</surname><given-names>E</given-names></name>
+<name><surname>O&#xF1;ate</surname><given-names>A</given-names></name>
+</person-group><article-title>Evaluation of
+<italic toggle="yes">Brucella abortus</italic> DNA vaccine by expression of Cu-Zn superoxide dismutase antigen fused to IL-2
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.imbio.2005.09.004">Immunobiology</uri>
+</source><year>2006</year><volume>211</volume><fpage>65</fpage><lpage>74</lpage><pub-id pub-id-type="doi">10.1016/j.imbio.2005.09.004</pub-id><pub-id pub-id-type="pmid">16446171</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF12">
+        <label>12</label>
+        <element-citation publication-type="journal" id="CITATION12"><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>ZQ</given-names></name>
+<name><surname>Li</surname><given-names>X</given-names></name>
+<name><surname>Wang</surname><given-names>JY</given-names></name>
+</person-group><article-title>Immunogenicity analysis of a novel subunit vaccine candidate molecule-recombinant L7/L12 ribosomal protein of brucella suis</article-title><source>
+<uri xlink:href="https://doi.org/10.1007/s12010-016-2076-x">Appl Biochem Biotechnol</uri>
+</source><year>2016</year><volume>179</volume><fpage>1445</fpage><lpage>1455</lpage><pub-id pub-id-type="doi">10.1007/s12010-016-2076-x</pub-id><pub-id pub-id-type="pmid">27075455</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF13">
+        <label>13</label>
+        <element-citation publication-type="journal" id="CITATION13"><person-group person-group-type="author">
+<name><surname>Golshani</surname><given-names>M</given-names></name>
+<name><surname>Rafati</surname><given-names>S</given-names></name>
+<name><surname>Nejati-Moheimani</surname><given-names>M</given-names></name>
+<name><surname>Pourabdi</surname><given-names>S</given-names></name>
+<name><surname>Arsang</surname><given-names>A</given-names></name>
+<name><surname>Bouzari</surname><given-names>S</given-names></name>
+</person-group><article-title>Protein/Protein, DNA/DNA and DNA/Protein based vaccination strategies using truncated Omp2b against
+<italic toggle="yes">Brucella</italic> infection in BALB/c Mice
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.ijmm.2017.03.004">Int J Med Microbiol</uri>
+</source><year>2017</year><volume>307</volume><fpage>249</fpage><lpage>256</lpage><pub-id pub-id-type="doi">10.1016/j.ijmm.2017.03.004</pub-id><pub-id pub-id-type="pmid">28391992</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF14">
+        <label>14</label>
+        <element-citation publication-type="journal" id="CITATION14"><person-group person-group-type="author">
+<name><surname>Ghasemi</surname><given-names>A</given-names></name>
+<name><surname>Jeddi-Tehrani</surname><given-names>M</given-names></name>
+<name><surname>Mautner</surname><given-names>J</given-names></name>
+<name><surname>Salari</surname><given-names>MH</given-names></name>
+<name><surname>Zarnani</surname><given-names>AH</given-names></name>
+</person-group><article-title>Simultaneous immunization of mice with Omp31 and TF provides protection against
+<italic toggle="yes">Brucella melitensis</italic> infection
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.vaccine.2015.09.013">Vaccine</uri>
+</source><year>2015</year><volume>33</volume><fpage>5532</fpage><lpage>5538</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2015.09.013</pub-id><pub-id pub-id-type="pmid">26384448</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF15">
+        <label>15</label>
+        <element-citation publication-type="journal" id="CITATION15"><person-group person-group-type="author">
+<name><surname>Rossetti</surname><given-names>OL</given-names></name>
+<name><surname>Arese</surname><given-names>AI</given-names></name>
+<name><surname>Boschiroli</surname><given-names>ML</given-names></name>
+<name><surname>Cravero</surname><given-names>SL</given-names></name>
+</person-group><article-title>Cloning of
+<italic toggle="yes">Brucella abortus</italic> gene and characterization of expressed 26-kilodalton periplasmic protein: potential use for diagnosis
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/jcm.34.1.165-169.1996">J Clin Microbiol</uri>
+</source><year>1996</year><volume>34</volume><fpage>165</fpage><lpage>169</lpage><pub-id pub-id-type="doi">10.1128/jcm.34.1.165-169.1996</pub-id><pub-id pub-id-type="pmid">8748294</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF16">
+        <label>16</label>
+        <element-citation publication-type="journal" id="CITATION16"><person-group person-group-type="author">
+<name><surname>Lindler</surname><given-names>LE</given-names></name>
+<name><surname>Hadfield</surname><given-names>TL</given-names></name>
+<name><surname>Tall</surname><given-names>BD</given-names></name>
+<name><surname>Snellings</surname><given-names>NJ</given-names></name>
+<name><surname>Rubin</surname><given-names>FA</given-names></name>
+<name><surname>Van De Verg</surname><given-names>LL</given-names></name>
+<name><surname>Hoover</surname><given-names>D</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Cloning of a
+<italic toggle="yes">Brucella melitensis</italic> group 3 antigen gene encoding Omp28, a protein recognized by the humoral immune response during human brucellosis
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/iai.64.7.2490-2499.1996">Infect Immun</uri>
+</source><year>1996</year><volume>64</volume><fpage>2490</fpage><lpage>2499</lpage><pub-id pub-id-type="doi">10.1128/iai.64.7.2490-2499.1996</pub-id><pub-id pub-id-type="pmid">8698471</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF17">
+        <label>17</label>
+        <element-citation publication-type="journal" id="CITATION17"><person-group person-group-type="author">
+<name><surname>Qiu</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>W</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<name><surname>Qiao</surname><given-names>J</given-names></name>
+<name><surname>Chen</surname><given-names>C</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Characterization of periplasmic protein BP26 epitopes of
+<italic toggle="yes">brucella melitensis</italic> reacting with murine monoclonal and sheep antibodies
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1371/journal.pone.0034246">PLoS One</uri>
+</source><year>2012</year><volume>7</volume><fpage>e34246</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0034246</pub-id><pub-id pub-id-type="other">2012PLoSO...734246Q</pub-id><pub-id pub-id-type="pmid">22457830</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF18">
+        <label>18</label>
+        <element-citation publication-type="journal" id="CITATION18"><person-group person-group-type="author">
+<name><surname>Cloeckaert</surname><given-names>A</given-names></name>
+<name><surname>Vizca&#xED;no</surname><given-names>N</given-names></name>
+<name><surname>Paquet</surname><given-names>JY</given-names></name>
+<name><surname>Bowden</surname><given-names>RA</given-names></name>
+<name><surname>Elzer</surname><given-names>PH</given-names></name>
+</person-group><article-title>Major outer membrane proteins of
+<italic toggle="yes">Brucella</italic> spp.: past, present and future
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/S0378-1135(02)00211-0">Vet Microbiol</uri>
+</source><year>2002</year><volume>90</volume><fpage>229</fpage><lpage>247</lpage><pub-id pub-id-type="doi">10.1016/S0378-1135(02)00211-0</pub-id><pub-id pub-id-type="pmid">12414146</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF19">
+        <label>19</label>
+        <element-citation publication-type="journal" id="CITATION19"><person-group person-group-type="author">
+<name><surname>Kaushik</surname><given-names>P</given-names></name>
+<name><surname>Singh</surname><given-names>DK</given-names></name>
+<name><surname>Kumar</surname><given-names>SV</given-names></name>
+<name><surname>Tiwari</surname><given-names>AK</given-names></name>
+<name><surname>Shukla</surname><given-names>G</given-names></name>
+<name><surname>Dayal</surname><given-names>S</given-names></name>
+<name><surname>Chaudhuri</surname><given-names>P</given-names></name>
+</person-group><article-title>Protection of mice against
+<italic toggle="yes">Brucella abortus</italic> 544 challenge by vaccination with recombinant OMP28 adjuvanted with CpG oligonucleotides
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1007/s11259-009-9337-x">Vet Res Commun</uri>
+</source><year>2010</year><volume>34</volume><fpage>119</fpage><lpage>132</lpage><pub-id pub-id-type="doi">10.1007/s11259-009-9337-x</pub-id><pub-id pub-id-type="pmid">20013309</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF20">
+        <label>20</label>
+        <element-citation publication-type="journal" id="CITATION20">
+          <person-group person-group-type="author">
+<name><surname>Hawksworth</surname><given-names>D</given-names></name>
+</person-group>
+          <article-title>Advancing freund&#x2032;s and addavax adjuvant regimens using CpG oligodeoxynucleotides</article-title>
+          <source>
+<uri xlink:href="https://doi.org/10.1089/mab.2018.0022">Monoclonal Antibodies Immunodiagnosis ImmunoTher</uri>
+</source>
+          <year>2018</year>
+          <volume>37</volume>
+          <fpage>195</fpage>
+          <lpage>199</lpage>
+          <pub-id pub-id-type="doi">10.1089/mab.2018.0022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="REF21">
+        <label>21</label>
+        <element-citation publication-type="journal" id="CITATION21"><person-group person-group-type="author">
+<name><surname>Vitry</surname><given-names>MA</given-names></name>
+<name><surname>Hanot Mambres</surname><given-names>D</given-names></name>
+<name><surname>De Trez</surname><given-names>C</given-names></name>
+<name><surname>Akira</surname><given-names>S</given-names></name>
+<name><surname>Ryffel</surname><given-names>B</given-names></name>
+<name><surname>Letesson</surname><given-names>JJ</given-names></name>
+<name><surname>Muraille</surname><given-names>E</given-names></name>
+</person-group><article-title>Humoral immunity and CD4
+<sup>+</sup> Th1 cells are both necessary for a fully protective immune response upon secondary infection with
+<italic toggle="yes">Brucella melitensis</italic>
+</article-title><source>
+<uri xlink:href="https://doi.org/10.4049/jimmunol.1302561">J Immunol</uri>
+</source><year>2014</year><volume>192</volume><fpage>3740</fpage><lpage>3752</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.1302561</pub-id><pub-id pub-id-type="pmid">24646742</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF22">
+        <label>22</label>
+        <element-citation publication-type="journal" id="CITATION22"><person-group person-group-type="author">
+<name><surname>Cassataro</surname><given-names>J</given-names></name>
+<name><surname>Velikovsky</surname><given-names>CA</given-names></name>
+<name><surname>de la Barrera</surname><given-names>S</given-names></name>
+<name><surname>Estein</surname><given-names>SM</given-names></name>
+<name><surname>Bruno</surname><given-names>L</given-names></name>
+<name><surname>Bowden</surname><given-names>R</given-names></name>
+<name><surname>Pasquevich</surname><given-names>KA</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>A DNA vaccine coding for the
+<italic toggle="yes">Brucella</italic> outer membrane protein 31 confers protection against
+<italic toggle="yes">B. melitensis</italic> and
+<italic toggle="yes">B. ovis</italic> infection by eliciting a specific cytotoxic response
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/IAI.73.10.6537-6546.2005">Infect Immun</uri>
+</source><year>2005</year><volume>73</volume><fpage>6537</fpage><lpage>6546</lpage><pub-id pub-id-type="doi">10.1128/IAI.73.10.6537-6546.2005</pub-id><pub-id pub-id-type="pmid">16177328</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF23">
+        <label>23</label>
+        <element-citation publication-type="journal" id="CITATION23"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>Y</given-names></name>
+<name><surname>Vemulapalli</surname><given-names>R</given-names></name>
+<name><surname>Schurig</surname><given-names>GG</given-names></name>
+</person-group><article-title>Recombinant
+<italic toggle="yes">Ochrobactrum anthropi</italic> Expressing
+<italic toggle="yes">Brucella abortus</italic> Cu,Zn superoxide dismutase protects mice against
+<italic toggle="yes">B. abortus</italic> infection only after switching of immune responses to Th1 type
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/IAI.70.5.2535-2543.2002">Infect Immun</uri>
+</source><year>2002</year><volume>70</volume><fpage>2535</fpage><lpage>2543</lpage><pub-id pub-id-type="doi">10.1128/IAI.70.5.2535-2543.2002</pub-id><pub-id pub-id-type="pmid">11953393</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF24">
+        <label>24</label>
+        <element-citation publication-type="journal" id="CITATION24"><person-group person-group-type="author">
+<name><surname>Velikovsky</surname><given-names>CA</given-names></name>
+<name><surname>Goldbaum</surname><given-names>FA</given-names></name>
+<name><surname>Cassataro</surname><given-names>J</given-names></name>
+<name><surname>Estein</surname><given-names>S</given-names></name>
+<name><surname>Bowden</surname><given-names>RA</given-names></name>
+<name><surname>Bruno</surname><given-names>L</given-names></name>
+<name><surname>Fossati</surname><given-names>CA</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>
+<italic toggle="yes">Brucella</italic> lumazine synthase elicits a mixed Th1-Th2 immune response and reduces infection in mice challenged with
+<italic toggle="yes">Brucella abortus</italic> 544 independently of the adjuvant formulation used
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/IAI.71.10.5750-5755.2003">Infect Immun</uri>
+</source><year>2003</year><volume>71</volume><fpage>5750</fpage><lpage>5755</lpage><pub-id pub-id-type="doi">10.1128/IAI.71.10.5750-5755.2003</pub-id><pub-id pub-id-type="pmid">14500496</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF25">
+        <label>25</label>
+        <element-citation publication-type="journal" id="CITATION25"><person-group person-group-type="author">
+<name><surname>Cespedes</surname><given-names>S</given-names></name>
+<name><surname>Andrews</surname><given-names>E</given-names></name>
+<name><surname>Folch</surname><given-names>H</given-names></name>
+<name><surname>O&#xF1;ate</surname><given-names>A</given-names></name>
+</person-group><article-title>Identification and partial characterisation of a new protective antigen of
+<italic toggle="yes">Brucella abortus</italic>
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1099/0022-1317-49-2-165">J Med Microbiol</uri>
+</source><year>2000</year><volume>49</volume><fpage>165</fpage><lpage>170</lpage><pub-id pub-id-type="doi">10.1099/0022-1317-49-2-165</pub-id><pub-id pub-id-type="pmid">10670567</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF26">
+        <label>26</label>
+        <element-citation publication-type="journal" id="CITATION26"><person-group person-group-type="author">
+<name><surname>Edmonds</surname><given-names>MD</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A</given-names></name>
+<name><surname>Booth</surname><given-names>NJ</given-names></name>
+<name><surname>Fulton</surname><given-names>WT</given-names></name>
+<name><surname>Hagius</surname><given-names>SD</given-names></name>
+<name><surname>Walker</surname><given-names>JV</given-names></name>
+<name><surname>Elzer</surname><given-names>PH</given-names></name>
+</person-group><article-title>Attenuation of a
+<italic toggle="yes">Brucella abortus</italic> mutant lacking a major 25 kDa outer membrane protein in cattle
+</article-title><source>
+<uri xlink:href="https://doi.org/10.2460/ajvr.2001.62.1461">Am J Vet Res</uri>
+</source><year>2001</year><volume>62</volume><fpage>1461</fpage><lpage>1466</lpage><pub-id pub-id-type="doi">10.2460/ajvr.2001.62.1461</pub-id><pub-id pub-id-type="pmid">11560278</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF27">
+        <label>27</label>
+        <element-citation publication-type="journal" id="CITATION27"><person-group person-group-type="author">
+<name><surname>Caro-Hern&#xE1;ndez</surname><given-names>P</given-names></name>
+<name><surname>Fern&#xE1;ndez-Lago</surname><given-names>L</given-names></name>
+<name><surname>de Miguel</surname><given-names>MJ</given-names></name>
+<name><surname>Mart&#xED;n-Mart&#xED;n</surname><given-names>AI</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A</given-names></name>
+<name><surname>Grill&#xF3;</surname><given-names>MJ</given-names></name>
+<name><surname>Vizca&#xED;no</surname><given-names>N</given-names></name>
+</person-group><article-title>Role of the Omp25/Omp31 family in outer membrane properties and virulence of
+<italic toggle="yes">Brucella ovis</italic>
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1128/IAI.00486-07">Infect Immun</uri>
+</source><year>2007</year><volume>75</volume><fpage>4050</fpage><lpage>4061</lpage><pub-id pub-id-type="doi">10.1128/IAI.00486-07</pub-id><pub-id pub-id-type="pmid">17562767</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF28">
+        <label>28</label>
+        <element-citation publication-type="journal" id="CITATION28"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>D</given-names></name>
+<name><surname>Park</surname><given-names>J</given-names></name>
+<name><surname>Kim</surname><given-names>SJ</given-names></name>
+<name><surname>Soh</surname><given-names>YM</given-names></name>
+<name><surname>Kim</surname><given-names>HM</given-names></name>
+<name><surname>Oh</surname><given-names>BH</given-names></name>
+<name><surname>Song</surname><given-names>JJ</given-names></name>
+</person-group><article-title>
+<italic toggle="yes">Brucella</italic> immunogenic BP26 forms a channel-like structure
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.jmb.2013.01.015">J Mol Biol</uri>
+</source><year>2013</year><volume>425</volume><fpage>1119</fpage><lpage>1126</lpage><pub-id pub-id-type="doi">10.1016/j.jmb.2013.01.015</pub-id><pub-id pub-id-type="pmid">23353825</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF29">
+        <label>29</label>
+        <element-citation publication-type="journal" id="CITATION29"><person-group person-group-type="author">
+<name><surname>Barbier</surname><given-names>T</given-names></name>
+<name><surname>Nicolas</surname><given-names>C</given-names></name>
+<name><surname>Letesson</surname><given-names>JJ</given-names></name>
+</person-group><article-title>
+<italic toggle="yes">Brucella</italic> adaptation and survival at the crossroad of metabolism and virulence
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.febslet.2011.08.011">FEBS Lett</uri>
+</source><year>2011</year><volume>585</volume><fpage>2929</fpage><lpage>2934</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2011.08.011</pub-id><pub-id pub-id-type="pmid">21864534</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF30">
+        <label>30</label>
+        <element-citation publication-type="journal" id="CITATION30"><person-group person-group-type="author">
+<name><surname>Benoit</surname><given-names>M</given-names></name>
+<name><surname>Desnues</surname><given-names>B</given-names></name>
+<name><surname>Mege</surname><given-names>JL</given-names></name>
+</person-group><article-title>Macrophage polarization in bacterial infections</article-title><source>
+<uri xlink:href="https://doi.org/10.4049/jimmunol.181.6.3733">J Immunol</uri>
+</source><year>2008</year><volume>181</volume><fpage>3733</fpage><lpage>3739</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.181.6.3733</pub-id><pub-id pub-id-type="pmid">18768823</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF31">
+        <label>31</label>
+        <element-citation publication-type="journal" id="CITATION31"><person-group person-group-type="author">
+<name><surname>Weiss</surname><given-names>G</given-names></name>
+<name><surname>Schaible</surname><given-names>UE</given-names></name>
+</person-group><article-title>Macrophage defense mechanisms against intracellular bacteria</article-title><source>
+<uri xlink:href="https://doi.org/10.1111/imr.12266">Immunol Rev</uri>
+</source><year>2015</year><volume>264</volume><fpage>182</fpage><lpage>203</lpage><pub-id pub-id-type="doi">10.1111/imr.12266</pub-id><pub-id pub-id-type="pmid">25703560</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF32">
+        <label>32</label>
+        <element-citation publication-type="journal" id="CITATION32"><person-group person-group-type="author">
+<name><surname>Gundra</surname><given-names>UM</given-names></name>
+<name><surname>Girgis</surname><given-names>NM</given-names></name>
+<name><surname>Ruckerl</surname><given-names>D</given-names></name>
+<name><surname>Jenkins</surname><given-names>S</given-names></name>
+<name><surname>Ward</surname><given-names>LN</given-names></name>
+<name><surname>Kurtz</surname><given-names>ZD</given-names></name>
+<name><surname>Wiens</surname><given-names>KE</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Alternatively activated macrophages derived from monocytes and tissue macrophages are phenotypically and functionally distinct</article-title><source>
+<uri xlink:href="https://doi.org/10.1182/blood-2013-08-520619">Blood</uri>
+</source><year>2014</year><volume>123</volume><fpage>e110</fpage><lpage>e122</lpage><pub-id pub-id-type="doi">10.1182/blood-2013-08-520619</pub-id><pub-id pub-id-type="pmid">24695852</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF33">
+        <label>33</label>
+        <element-citation publication-type="journal" id="CITATION33"><person-group person-group-type="author">
+<name><surname>Glass</surname><given-names>CK</given-names></name>
+<name><surname>Natoli</surname><given-names>G</given-names></name>
+</person-group><article-title>Molecular control of activation and priming in macrophages</article-title><source>
+<uri xlink:href="https://doi.org/10.1038/ni.3306">Nat Immunol</uri>
+</source><year>2016</year><volume>17</volume><fpage>26</fpage><lpage>33</lpage><pub-id pub-id-type="doi">10.1038/ni.3306</pub-id><pub-id pub-id-type="pmid">26681459</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF34">
+        <label>34</label>
+        <element-citation publication-type="journal" id="CITATION34"><person-group person-group-type="author">
+<name><surname>Rafiei</surname><given-names>A</given-names></name>
+<name><surname>Ardestani</surname><given-names>SK</given-names></name>
+<name><surname>Kariminia</surname><given-names>A</given-names></name>
+<name><surname>Keyhani</surname><given-names>A</given-names></name>
+<name><surname>Mohraz</surname><given-names>M</given-names></name>
+<name><surname>Amirkhani</surname><given-names>A</given-names></name>
+</person-group><article-title>Dominant Th1 cytokine production in early onset of human brucellosis followed by switching towards Th2 along prolongation of disease</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.jinf.2005.11.024">J Infect</uri>
+</source><year>2006</year><volume>53</volume><fpage>315</fpage><lpage>324</lpage><pub-id pub-id-type="doi">10.1016/j.jinf.2005.11.024</pub-id><pub-id pub-id-type="pmid">16488475</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF35">
+        <label>35</label>
+        <element-citation publication-type="journal" id="CITATION35"><person-group person-group-type="author">
+<name><surname>Hop</surname><given-names>HT</given-names></name>
+<name><surname>Reyes</surname><given-names>AWB</given-names></name>
+<name><surname>Huy</surname><given-names>TXN</given-names></name>
+<name><surname>Arayan</surname><given-names>LT</given-names></name>
+<name><surname>Min</surname><given-names>WG</given-names></name>
+<name><surname>Lee</surname><given-names>HJ</given-names></name>
+<name><surname>Rhee</surname><given-names>MH</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Activation of NF-&#x3BA;B-mediated TNF-induced antimicrobial immunity is required for the efficient
+<italic toggle="yes">Brucella abortus</italic> clearance in RAW 264.7 cells
+</article-title><source>
+<uri xlink:href="https://doi.org/10.3389/fcimb.2017.00437">Front Cell Infect Microbiol</uri>
+</source><year>2017</year><volume>7</volume><fpage>437</fpage><pub-id pub-id-type="doi">10.3389/fcimb.2017.00437</pub-id><pub-id pub-id-type="pmid">29062811</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF36">
+        <label>36</label>
+        <element-citation publication-type="other" id="CITATION36">
+          <article-title>Hop HT, Huy TXN, Reyes AWB, Arayan LT, Vu SH, Lee HJ, Kang CK, Kim DH, et al. Interleukin 6 promotes
+<italic toggle="yes">Brucella abortus</italic> clearance by controlling bactericidal activity of macrophages and CD8
+<sup>+</sup> T-Cell differentiation.
+<italic toggle="yes">
+<uri xlink:href="https://doi.org/10.1128/IAI.00431-19">Infect Immun</uri>
+</italic> 2019, 87: e00431&#x2013;19
+</article-title>
+        </element-citation>
+      </ref>
+      <ref id="REF37">
+        <label>37</label>
+        <element-citation publication-type="journal" id="CITATION37"><person-group person-group-type="author">
+<name><surname>Atluri</surname><given-names>VL</given-names></name>
+<name><surname>Xavier</surname><given-names>MN</given-names></name>
+<name><surname>de Jong</surname><given-names>MF</given-names></name>
+<name><surname>den Hartigh</surname><given-names>AB</given-names></name>
+<name><surname>Tsolis</surname><given-names>RM</given-names></name>
+</person-group><article-title>Interactions of the human pathogenic
+<italic toggle="yes">Brucella</italic> species with their hosts
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1146/annurev-micro-090110-102905">Annu Rev Microbiol</uri>
+</source><year>2011</year><volume>65</volume><fpage>523</fpage><lpage>541</lpage><pub-id pub-id-type="doi">10.1146/annurev-micro-090110-102905</pub-id><pub-id pub-id-type="pmid">21939378</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF38">
+        <label>38</label>
+        <element-citation publication-type="journal" id="CITATION38"><person-group person-group-type="author">
+<name><surname>Xavier</surname><given-names>MN</given-names></name>
+<name><surname>Winter</surname><given-names>MG</given-names></name>
+<name><surname>Spees</surname><given-names>AM</given-names></name>
+<name><surname>den Hartigh</surname><given-names>AB</given-names></name>
+<name><surname>Nguyen</surname><given-names>K</given-names></name>
+<name><surname>Roux</surname><given-names>CM</given-names></name>
+<name><surname>Silva</surname><given-names>TMA</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>PPAR&#x3B3;-mediated increase in glucose availability sustains chronic brucella abortus infection in alternatively activated macrophages</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/j.chom.2013.07.009">Cell Host Microbe</uri>
+</source><year>2013</year><volume>14</volume><fpage>159</fpage><lpage>170</lpage><pub-id pub-id-type="doi">10.1016/j.chom.2013.07.009</pub-id><pub-id pub-id-type="pmid">23954155</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF39">
+        <label>39</label>
+        <element-citation publication-type="journal" id="CITATION39"><person-group person-group-type="author">
+<name><surname>Lv</surname><given-names>Y</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Chang</surname><given-names>L</given-names></name>
+<name><surname>Yang</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>Y</given-names></name>
+<etal>et al.</etal>
+</person-group><article-title>Identification of a dominant murine T-cell epitope in recombinant protein P29 from
+<italic toggle="yes">Echinococcus granulosus</italic>
+</article-title><source>
+<uri xlink:href="https://doi.org/10.3724/abbs.2022036">Acta Biochim Biophys Sin</uri>
+</source><year>2022</year><volume>54</volume><fpage>482</fpage><lpage>493</lpage><pub-id pub-id-type="doi">10.3724/abbs.2022036</pub-id><pub-id pub-id-type="pmid">35607954</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF40">
+        <label>40</label>
+        <element-citation publication-type="journal" id="CITATION40">
+          <person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Song</surname><given-names>J</given-names></name>
+<name><surname>Zhao</surname><given-names>W</given-names></name>
+</person-group>
+          <article-title>Immunoprotective effect and mechanism of rEg.P29 against CD4
+<sup>+</sup> T cell-deficient mice with
+<italic toggle="yes">Echinococcus multilocularis</italic> infection
+</article-title>
+          <source>
+<uri xlink:href="https://doi.org/10.3724/abbs.2023282">Acta Biochim Biophys Sin</uri>
+</source>
+          <year>2023, doi: 10.3724/abbs.2023282</year>
+          <pub-id pub-id-type="doi">10.3724/abbs.2023282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="REF41">
+        <label>41</label>
+        <element-citation publication-type="journal" id="CITATION41"><person-group person-group-type="author">
+<name><surname>Harty</surname><given-names>JT</given-names></name>
+<name><surname>Tvinnereim</surname><given-names>AR</given-names></name>
+<name><surname>White</surname><given-names>DW</given-names></name>
+</person-group><article-title>CD8
+<sup>+</sup> T cell effector mechanisms in resistance to infection
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1146/annurev.immunol.18.1.275">Annu Rev Immunol</uri>
+</source><year>2000</year><volume>18</volume><fpage>275</fpage><lpage>308</lpage><pub-id pub-id-type="doi">10.1146/annurev.immunol.18.1.275</pub-id><pub-id pub-id-type="pmid">10837060</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF42">
+        <label>42</label>
+        <element-citation publication-type="journal" id="CITATION42"><person-group person-group-type="author">
+<name><surname>Welsh</surname><given-names>RM</given-names></name>
+<name><surname>Selin</surname><given-names>LK</given-names></name>
+<name><surname>Szomolanyi-Tsuda</surname><given-names>E</given-names></name>
+</person-group><article-title>Immunological memory to viral infections</article-title><source>
+<uri xlink:href="https://doi.org/10.1146/annurev.immunol.22.012703.104527">Annu Rev Immunol</uri>
+</source><year>2004</year><volume>22</volume><fpage>711</fpage><lpage>743</lpage><pub-id pub-id-type="doi">10.1146/annurev.immunol.22.012703.104527</pub-id><pub-id pub-id-type="pmid">15032594</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF43">
+        <label>43</label>
+        <element-citation publication-type="journal" id="CITATION43"><person-group person-group-type="author">
+<name><surname>Barber</surname><given-names>DL</given-names></name>
+<name><surname>Wherry</surname><given-names>EJ</given-names></name>
+<name><surname>Ahmed</surname><given-names>R</given-names></name>
+</person-group><article-title>Cutting edge: rapid
+<italic toggle="yes">in vivo</italic> killing by memory CD8 T cells
+</article-title><source>
+<uri xlink:href="https://doi.org/10.4049/jimmunol.171.1.27">J Immunol</uri>
+</source><year>2003</year><volume>171</volume><fpage>27</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.171.1.27</pub-id><pub-id pub-id-type="pmid">12816979</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF44">
+        <label>44</label>
+        <element-citation publication-type="journal" id="CITATION44"><person-group person-group-type="author">
+<name><surname>Lalvani</surname><given-names>A</given-names></name>
+<name><surname>Brookes</surname><given-names>R</given-names></name>
+<name><surname>Hambleton</surname><given-names>S</given-names></name>
+<name><surname>Britton</surname><given-names>WJ</given-names></name>
+<name><surname>Hill</surname><given-names>AVS</given-names></name>
+<name><surname>McMichael</surname><given-names>AJ</given-names></name>
+</person-group><article-title>Rapid effector function in CD8
+<sup>+</sup> memory T cells
+</article-title><source>
+<uri xlink:href="https://doi.org/10.1084/jem.186.6.859">J Exp Med</uri>
+</source><year>1997</year><volume>186</volume><fpage>859</fpage><lpage>865</lpage><pub-id pub-id-type="doi">10.1084/jem.186.6.859</pub-id><pub-id pub-id-type="pmid">9294140</pub-id>
+</element-citation>
+      </ref>
+      <ref id="REF45">
+        <label>45</label>
+        <element-citation publication-type="journal" id="CITATION45"><person-group person-group-type="author">
+<name><surname>Kaech</surname><given-names>SM</given-names></name>
+<name><surname>Hemby</surname><given-names>S</given-names></name>
+<name><surname>Kersh</surname><given-names>E</given-names></name>
+<name><surname>Ahmed</surname><given-names>R</given-names></name>
+</person-group><article-title>Molecular and functional profiling of memory CD8 T cell differentiation</article-title><source>
+<uri xlink:href="https://doi.org/10.1016/S0092-8674(02)01139-X">Cell</uri>
+</source><year>2002</year><volume>111</volume><fpage>837</fpage><lpage>851</lpage><pub-id pub-id-type="doi">10.1016/S0092-8674(02)01139-X</pub-id><pub-id pub-id-type="pmid">12526810</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1212 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Front Cell Infect Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Front Cell Infect Microbiol</journal-id><journal-id journal-id-type="publisher-id">Front. Cell. Infect. Microbiol.</journal-id><journal-title-group><journal-title>Frontiers in Cellular and Infection Microbiology</journal-title></journal-title-group><issn pub-type="epub">2235-2988</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38533384</article-id><article-id pub-id-type="pmc">10963510</article-id><article-id pub-id-type="doi">10.3389/fcimb.2024.1342684</article-id><article-categories><subj-group subj-group-type="heading"><subject>Cellular and Infection Microbiology</subject><subj-group><subject>Review</subject></subj-group></subj-group></article-categories><title-group><article-title>
+<italic>Brucella</italic> infection and Toll-like receptors</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Yu</surname><given-names>Hui</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/supervision/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Gu</surname><given-names>Xinyi</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Danfeng</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Zhanli</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn001" ref-type="author-notes">
+<sup>*</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/309022"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib></contrib-group><aff id="aff1">
+<sup>1</sup>
+<institution>Inner Mongolia Key Laboratory of Disease-Related Biomarkers, The Second Affiliated Hospital, Baotou Medical College</institution>, <addr-line>Baotou</addr-line>, <country>China</country>
+</aff><aff id="aff2">
+<sup>2</sup>
+<institution>School of Basic Medicine, Baotou Medical College</institution>, <addr-line>Baotou</addr-line>, <country>China</country>
+</aff><aff id="aff3">
+<sup>3</sup>
+<institution>The College of Medical Technology, Shanghai University of Medicine &amp; Health Sciences</institution>, <addr-line>Shanghai</addr-line>, <country>China</country>
+</aff><author-notes><fn fn-type="edited-by"><p>Edited by: Collins Ouma, Maseno University, Kenya</p></fn><fn fn-type="edited-by"><p>Reviewed by: Isaac Ndede, Moi University, Kenya</p><p>James Miser Akoko, International Livestock Research Institute (ILRI), Kenya</p><p>Bernard Ochieng Guyah, Maseno University, Kenya</p></fn><corresp id="fn001">*Correspondence: Zhanli Wang, <email xlink:href="mailto:wang.zhanli@hotmail.com">wang.zhanli@hotmail.com</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>3</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>14</volume><elocation-id>1342684</elocation-id><history><date date-type="received"><day>22</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>17</day><month>1</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 Yu, Gu, Wang and Wang</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Yu, Gu, Wang and Wang</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><p>
+<italic>Brucella</italic> consists of gram-negative bacteria that have the ability to invade and replicate in professional and non-professional phagocytes, and its prolonged persistence in the host leads to brucellosis, a serious zoonosis. Toll-like receptors (TLRs) are the best-known sensors of microorganisms implicated in the regulation of innate and adaptive immunity. In particular, TLRs are transmembrane proteins with a typical structure of an extracellular leucine-rich repeat (LRR) region and an intracellular Toll/interleukin-1 receptor (TIR) domain. In this review, we discuss <italic>Brucella</italic> infection and the aspects of host immune responses induced by pathogens. Furthermore, we summarize the roles of TLRs in <italic>Brucella</italic> infection, with substantial emphasis on the molecular insights into its mechanisms of action.</p></abstract><kwd-group><kwd><italic>Brucella</italic></kwd><kwd>Toll-like receptor</kwd><kwd>innate immunity</kwd><kwd>pathogen-associated molecular pattern</kwd><kwd>vaccine</kwd></kwd-group><funding-group><funding-statement>The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This work was support in part by grants from the National Natural Science Foundation of China (No. 82260092, 82170296 and 82060084) and Major Science and Technology Projects of Inner Mongolia Autonomous Region (No. 2021ZD0006).</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="0"/><equation-count count="0"/><ref-count count="149"/><page-count count="9"/><word-count count="3620"/></counts><custom-meta-group><custom-meta><meta-name>section-in-acceptance</meta-name><meta-value>Veterinary and Zoonotic Infection</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <label>1</label>
+      <title>Introduction</title>
+      <p>Brucellosis is a classical bacterial zoonosis found worldwide (<xref rid="B36" ref-type="bibr">de Figueiredo et&#xA0;al., 2015</xref>). Based on clinical presentation, brucellosis can be classified as acute, subacute, or chronic. Although the mortality rate of brucellosis is low, it can cause chronic complications or even disabilities, which severely endanger human health (<xref rid="B139" ref-type="bibr">Willems et&#xA0;al., 2022</xref>).</p>
+      <p>Brucellosis is caused by <italic>Brucella</italic> infection. <italic>Brucella</italic>, a facultative intracellular pathogen belonging to the phylum Proteobacteria, was discovered by David Bruce in 1887 (<xref rid="B51" ref-type="bibr">G&#x142;owacka et&#xA0;al., 2018</xref>). Originally, <italic>Brucella</italic> was thought to contain three species: <italic>Brucella abortus</italic>, <italic>Brucella melitensis</italic>, and <italic>Brucella suis</italic>. Presently, more species have been identified in both domesticated and wildlife species, such as <italic>Brucella ceti</italic>, <italic>Brucella canis</italic>, <italic>Brucella ovis</italic>, <italic>Brucella neotomae</italic>, and <italic>Brucella microti</italic>. It has been reported that some <italic>Brucella</italic> species can be further classified into biovars. For example, <italic>B. abortus</italic> has nine biovars, and <italic>B. suis</italic> contains five biovars (<xref rid="B19" ref-type="bibr">Boschiroli et&#xA0;al., 2001</xref>).</p>
+      <p>
+<italic>Brucella</italic> contains various virulence factors. The type IV secretion system (T4SS) is highly conserved among <italic>Brucella</italic> species and is a major virulence factor. Additionally, lipopolysaccharide (LPS) is identified as a key pathogenicity determinant of <italic>Brucella</italic>. Furthermore, previous reports have claimed that <italic>Brucella</italic> virulence factor A (BvfA), base excision repair (BER), and BvrR/BvrS system are also essential for virulence (<xref rid="B19" ref-type="bibr">Boschiroli et&#xA0;al., 2001</xref>). It has been proven that virulence factors play key roles in chronic persistence of <italic>Brucella</italic>.</p>
+    </sec>
+    <sec id="s2">
+      <label>2</label>
+      <title>
+<italic>Brucella</italic> infection</title>
+      <p>
+<italic>Brucella</italic> can infect the host by inhalation or ingestion, through genital mucosa, and even via injured skin. In general, <italic>Brucella</italic> rapidly translocates in the mucosal epithelium to the body, where it is efficiently endocytosed by main target cells including mucosal macrophages and dendritic cells (DCs) and subsequently invades and survives within specialized phagocytes (such as macrophages) instead of non-specialized phagocytes (such as epithelial cells), circumventing and modulating the host&#x2019;s immune responses (<xref rid="B40" ref-type="bibr">Dominguez-Flores et&#xA0;al., 2023</xref>). Recently, researchers investigated the molecular mechanisms of chronic <italic>Brucella</italic> infections using non-specialized phagocyte HeLa cells. The results showed that <italic>Brucella</italic> was able to inhibit phagosome&#x2013;lysosome fusion and replicate in a different compartment (<xref rid="B73" ref-type="bibr">Kim et&#xA0;al., 2004</xref>).</p>
+      <p>Four steps must be taken for <italic>Brucella</italic> to infect a host: adhesion, cellular internalization, intracellular growth, and transmission (<xref rid="B98" ref-type="bibr">Parihar et&#xA0;al., 2019</xref>). A number of adhesins have been identified in <italic>Brucella</italic>, such as the bacterial Ig-like (Blg-like) domain-containing proteins, the monomeric autotransporters, Bp26, the trimeric autotransporters, the sialic acid-binding proteins, and T4SS-VirB5 (<xref rid="B16" ref-type="bibr">Bialer et&#xA0;al., 2020</xref>). These bacterial cell surface proteins enable <italic>Brucella</italic> to bind to host cell surfaces. Once <italic>Brucella</italic> binds to the cell surface, it can be tested by adhering to a variety of cellular receptors. Fc gamma receptor IIa (<xref rid="B56" ref-type="bibr">Hashemi et&#xA0;al., 2007</xref>) and complement receptor 3 (CR3) (<xref rid="B49" ref-type="bibr">Gamazo et&#xA0;al., 2006</xref>), the conditioning receptors, recognize O-chain fragments of <italic>Brucella</italic> LPS. Non-conditioning receptors include the class A scavenger receptor (SR-A) and Toll-like receptors (TLRs). Compared to conditioning receptors, these receptors have a wide spectrum of biological roles because of their broad ligand-binding capacity. SR-A recognizes lipid A LPS (<xref rid="B73" ref-type="bibr">Kim et&#xA0;al., 2004</xref>). TLR2, TLR4, and TLR6 detect <italic>Brucella</italic> LPS and lipoproteins, whereas TLR3, TLR7, and TLR9 can recognize nucleic acid motifs (<xref rid="B96" ref-type="bibr">Oliveira et&#xA0;al., 2008</xref>). After detecting <italic>Brucella</italic> through the specific receptors, the host cell activates a signaling pathway that leads to the polymerization of actin filaments (<xref rid="B77" ref-type="bibr">Kusumawati et&#xA0;al., 2000</xref>). <italic>Brucella</italic> recognizes lipid rafts contained in the host cell membrane, contributing to the intracellular transport of <italic>Brucella</italic>.</p>
+      <p>
+<italic>Brucella</italic> enters host macrophages and forms replicative phagosomes called <italic>Brucella</italic>-containing vacuole (BCV) (<xref rid="f1" ref-type="fig">
+<bold>Figure&#xA0;1</bold>
+</xref>). Early BCV was defined as endosome-like BCV (eBCV), which obtains several marker molecules of the host. As eBCV matures, eBCV loses early endosomal markers and acquires late endosomal and lysosome-recognized marker molecules, which facilitates the fusion of eBCV with lysosomes (<xref rid="B25" ref-type="bibr">Celli, 2019</xref>). A proportion of the eBCV escapes lysosomal degradation and reaches the endoplasmic reticulum (ER) (<xref rid="B35" ref-type="bibr">de Bolle et&#xA0;al., 2012</xref>), where it then fuses with the ER to generate a replication-permissive BCV (rBCV) (<xref rid="B93" ref-type="bibr">Miller et&#xA0;al., 2017</xref>). <italic>Brucella</italic> then proliferates in rBCV. During the late period of bacterial infection, rBCV contains large amounts of <italic>Brucella</italic> and converts to autophagic BCV (aBCV) (<xref rid="B124" ref-type="bibr">Starr et&#xA0;al., 2012</xref>). Then, aBCV releases pathogens by both cleavage and non-cleavage mechanisms, and the <italic>Brucella</italic> intracellular life cycle ends (<xref rid="B122" ref-type="bibr">Smith et&#xA0;al., 2016</xref>).</p>
+      <fig position="float" id="f1">
+        <label>Figure&#xA0;1</label>
+        <caption>
+          <p>Establishment of <italic>Brucella</italic> infection.</p>
+        </caption>
+        <graphic xlink:href="fcimb-14-1342684-g001" position="float"/>
+      </fig>
+    </sec>
+    <sec id="s3">
+      <label>3</label>
+      <title>
+<italic>Brucella</italic> infection elicits immune responses in the host</title>
+      <p>
+<italic>Brucella</italic> infection activates innate immunity and subsequently leads to the activation of adaptive immunity (<xref rid="B120" ref-type="bibr">Skendros and Boura, 2013</xref>). The innate immune response system constitutes the body&#x2019;s first line of defense mechanisms that protect the host from pathogen invasion. Innate immune sensing of <italic>Brucella</italic> via pattern-recognition receptors (PRRs) that recognize specific molecular motifs called pathogen-associated molecular patterns (PAMPs) (<xref rid="B121" ref-type="bibr">Skendros et&#xA0;al., 2011</xref>; <xref rid="B113" ref-type="bibr">Sadeghi et&#xA0;al., 2023</xref>). After PRR recognition of the specific PAMP, some PRRs trigger intracellular signaling in the antigen-presenting cells (macrophages and DCs) and elicit an inflammatory response that effectively destroys the invading pathogen (<xref rid="B52" ref-type="bibr">Golding et&#xA0;al., 2001</xref>). The innate immune response against <italic>Brucella</italic> involves PRRs, such as TLRs and Nod-like receptors (NLRs) (<xref rid="B26" ref-type="bibr">Cerqueira et&#xA0;al., 2018</xref>). Among the functionally unique class of PRRs, TLRs are optimally characterized and have been intensively studied for their ability to specifically recognize distinct PAMPs from different pathogens (<xref rid="B113" ref-type="bibr">Sadeghi et&#xA0;al., 2023</xref>). Recognition of PAMPs by TLRs initiates multiple intracellular signaling cascades mediated by adapter molecules, such as myeloid differentiation factor 88 (MyD88) and Toll/interleukin-1 receptor (TIR) domain-containing adapter-inducing interferon-beta (IFN-beta) (TRIF), leading to the activation of inflammatory factors and the upregulation of co-stimulatory molecules (<xref rid="B113" ref-type="bibr">Sadeghi et&#xA0;al., 2023</xref>). For example, TLRs (except TLR3) bind to MyD88 and initiate cellular signaling, resulting in the activation of the I&#x3BA;B kinase complex and p38 mitogen-activated protein kinase (MAPK) (<xref rid="B53" ref-type="bibr">Gomes et&#xA0;al., 2012</xref>; <xref rid="B39" ref-type="bibr">Dimitrakopoulos et&#xA0;al., 2013</xref>). These pathways lead to the activation of the transcription factors NF-&#x3BA;B (<xref rid="B61" ref-type="bibr">Hop et&#xA0;al., 2017</xref>; <xref rid="B103" ref-type="bibr">Peng et&#xA0;al., 2021</xref>) and AP-1 (<xref rid="B70" ref-type="bibr">Jim&#xE9;nez de Bag&#xFC;&#xE9;s et&#xA0;al., 2005</xref>), leading to the secretion of proinflammatory cytokines (<xref rid="B7" ref-type="bibr">Baldi and Giambartolomei, 2013</xref>). Common PAMPs include numerous microbial products, such as bacterial LPS, peptidoglycan, lipoproteins, flagellin, and nucleic acids (<xref rid="B76" ref-type="bibr">Kumar et&#xA0;al., 2011</xref>).</p>
+      <p>The cell-mediated immune response is the body&#x2019;s predominant way of fighting <italic>Brucella</italic> (<xref rid="B4" ref-type="bibr">Ali et&#xA0;al., 2023</xref>). This includes the activation of antigen-presenting cells such as macrophages and DCs. Macrophages are the frontline cells for defense against Brucella (<xref rid="B65" ref-type="bibr">Jacob et&#xA0;al., 2016</xref>), and they play a critical role in innate immunity by phagocytosis and degradation of invading microorganisms (<xref rid="B97" ref-type="bibr">Oliveira et&#xA0;al., 1998</xref>). DCs are recognized as one of the most important antigen-presenting cells for eliciting effective cellular immunity. Immature DCs capture and process antigens before migrating to secondary lymphoid organs and presenting specific major histocompatibility complex (MHC) antigens. Upon maturation, DCs express high levels of MHC and costimulatory molecules and improve antigen presentation. Cytokines produced by mature DCs enhance adaptive immunity (<xref rid="B17" ref-type="bibr">Billard et&#xA0;al., 2007</xref>; <xref rid="B45" ref-type="bibr">Fabrik et&#xA0;al., 2013</xref>; <xref rid="B6" ref-type="bibr">Avila-Calder&#xF3;n et&#xA0;al., 2020</xref>).</p>
+      <p>TLRs play a key role in linking pathogen recognition with the activation of innate immune response and are also essential for initiating the adaptive immune response (<xref rid="B126" ref-type="bibr">Surendran et&#xA0;al., 2012</xref>). TLR stimulation can activate the innate immune response through activation of NK cells, DCs, or macrophages and secretion of IFN-&#x3B1;, IFN-&#x3B3;, and TNF-&#x3B1; (<xref rid="B8" ref-type="bibr">Baldwin and Winter, 1994</xref>; <xref rid="B63" ref-type="bibr">Huang et&#xA0;al., 2005</xref>; <xref rid="B34" ref-type="bibr">de Almeida et&#xA0;al., 2013</xref>). TLR stimulation can also activate adaptive immune responses by promoting cross-presentation, Th1 polarization, and induction of cytotoxic T cells (<xref rid="B5" ref-type="bibr">Arias et&#xA0;al., 2017</xref>; <xref rid="B18" ref-type="bibr">Bin Park et&#xA0;al., 2023</xref>). There is evidence that the immune responses against most pathogens require multiple TLRs rather than a single TLR (<xref rid="B94" ref-type="bibr">Murugan et&#xA0;al., 2023</xref>).</p>
+      <p>It is well known that <italic>Brucella</italic> has developed a wide range of strategies to evade both innate and adaptive immune responses (<xref rid="B89" ref-type="bibr">Martirosyan and Gorvel, 2013</xref>; <xref rid="B120" ref-type="bibr">Skendros and Boura, 2013</xref>; <xref rid="B69" ref-type="bibr">Jiao et&#xA0;al., 2021</xref>). The main escape mechanisms of <italic>Brucella</italic> against the host immune system are inhibition of the complement pathway and TLR signaling pathways, interference with antigen presentation, selective subversion of the autophagy pathway, inhibition of DC stimulation, inhibition of autophagic lysosomal fusion, and macrophage apoptosis (<xref rid="f2" ref-type="fig">
+<bold>Figure&#xA0;2</bold>
+</xref>) (<xref rid="B107" ref-type="bibr">Radhakrishnan and Splitter, 2010</xref>; <xref rid="B110" ref-type="bibr">Rana et&#xA0;al., 2013</xref>; <xref rid="B13" ref-type="bibr">Barrionuevo and Giambartolomei, 2019</xref>; <xref rid="B125" ref-type="bibr">Stranahan and Arenas-Gamboa, 2021</xref>). There are strategies for modifying the LPS to evade effective recognition by TLR4 strategies (<xref rid="B10" ref-type="bibr">Barquero-Calvo et&#xA0;al., 2015</xref>; <xref rid="B91" ref-type="bibr">Matamoros-Recio et&#xA0;al., 2023</xref>). Additionally, there are also strategies to encode various outer membrane proteins to facilitate their invasion and immunomodulation (<xref rid="B11" ref-type="bibr">Barrionuevo et&#xA0;al., 2008</xref>; <xref rid="B131" ref-type="bibr">Vel&#xE1;squez et&#xA0;al., 2017</xref>; <xref rid="B99" ref-type="bibr">Pasquevich et&#xA0;al., 2019</xref>). Moreover, microRNAs (miRNAs) have recently been found to play a crucial role in immune evasion mechanisms in brucellosis (<xref rid="B1" ref-type="bibr">Ahmed et al., 2016</xref>).</p>
+      <fig position="float" id="f2">
+        <label>Figure&#xA0;2</label>
+        <caption>
+          <p>The main escape mechanisms of <italic>Brucella</italic> against the host immune system.</p>
+        </caption>
+        <graphic xlink:href="fcimb-14-1342684-g002" position="float"/>
+      </fig>
+    </sec>
+    <sec id="s4">
+      <label>4</label>
+      <title>
+<italic>Brucella</italic> vaccines for humans</title>
+      <p>A limited number of antibiotics are effective against <italic>Brucella</italic> because of the intracellular lifestyle of these organisms. Therefore, there is a desire to develop a safe and efficacious vaccine for human brucellosis. In order to develop <italic>Brucella</italic> vaccines for humans, an understanding of the mechanisms of the adaptive immune response in brucellosis is required. In fact, CD4+, CD8+, and &#x3B3;&#x3B4; T cells are stimulated to produce IFN-&#x3B3; to reduce the intracellular survival of <italic>Brucella</italic>. Additionally, CD8+ and &#x3B3;&#x3B4; T cytotoxic cells were capable of killing infected macrophages. Furthermore, Th1-type immune response occurs to promote phagocytosis of <italic>Brucella</italic> (<xref rid="B104" ref-type="bibr">Perkins et&#xA0;al., 2010</xref>). Several decades ago, various <italic>Brucella</italic> vaccines for humans have been studied, such as <italic>B. abortus</italic> S19 (<xref rid="B133" ref-type="bibr">Vershilova, 1961</xref>), <italic>B. melitensis</italic> Rev.1 (<xref rid="B123" ref-type="bibr">Spink et&#xA0;al., 1962</xref>), <italic>B. abortus</italic> strain 19BA, and <italic>B. melitensis</italic> 104M (<xref rid="B104" ref-type="bibr">Perkins et&#xA0;al., 2010</xref>). However, these vaccines were highly reactogenic or caused brucellosis in humans and were considered unsuitable for human vaccination. Up to now, several human brucellosis vaccine candidates have been reported, including live attenuated vaccines, subunit vaccines, recombinant protein-based vaccines, vectored vaccines, and DNA vaccines (<xref rid="B104" ref-type="bibr">Perkins et&#xA0;al., 2010</xref>). An ideal vaccine for use in humans would be considered for its safety, immunogenicity, and protective efficacy (<xref rid="B57" ref-type="bibr">Hashemzadeh et&#xA0;al., 2023</xref>). It is well known that the inclusion of adjuvants within vaccines can enhance vaccine-induced protection and thus offer an alternative approach to vaccine development. Interestingly, several TLRLs are now being selectively investigated for the development of novel vaccine adjuvants within vaccines (<xref rid="B43" ref-type="bibr">Duthie et&#xA0;al., 2011</xref>).</p>
+    </sec>
+    <sec id="s5">
+      <label>5</label>
+      <title>Role of TLRs in <italic>Brucella</italic> infection</title>
+      <p>TLRs are essential for activating the innate immune response and initiating adaptive immunity (<xref rid="B47" ref-type="bibr">Fitzgerald and Kagan, 2020</xref>; <xref rid="B41" ref-type="bibr">Duan et&#xA0;al., 2022</xref>). TLRs are characterized by sharing an extracellular leucine-rich repeat (LRR) region and an intracellular TIR structural domain (<xref rid="B71" ref-type="bibr">Kawasaki and Kawai, 2014</xref>; <xref rid="B74" ref-type="bibr">Kornilov et&#xA0;al., 2023</xref>). The LRR structural domain is responsible for binding to PAMP, and the TIR structural domain is responsible for binding to TIR structural domains containing adapter molecules, including MyD88, TIR domain-containing adapter (TIRAP), TRIF, TRIF-related adapter molecule (TRAM), and sterile alpha and HEAT-Armadillo motifs (SARM), to initiate signaling (<xref rid="B20" ref-type="bibr">Brikos and O'Neill, 2008</xref>; <xref rid="B33" ref-type="bibr">Cui et&#xA0;al., 2014</xref>). MyD88 and TRIF can bind to the TLR, while TIRAP and TRAM act as bridging adapters, binding to MyD88 and TRIF, respectively (<xref rid="B128" ref-type="bibr">Takeda and Akira, 2004</xref>; <xref rid="B138" ref-type="bibr">West et&#xA0;al., 2006</xref>; <xref rid="B95" ref-type="bibr">Nilsen et&#xA0;al., 2023</xref>). SARM can only act as a negative regulator by interacting with TRIF (<xref rid="B24" ref-type="bibr">Carty and Bowie, 2019</xref>; <xref rid="B136" ref-type="bibr">Wang et&#xA0;al., 2021</xref>). The TLR is localized to the plasma membrane or endocytosis membranes. PAMP recognition of TLRs can initiate signaling and activate transcription factors, which in turn trigger the production of cytokines, chemokines, and antimicrobial peptides, ultimately controlling or clearing the infection (<xref rid="B27" ref-type="bibr">Chen et&#xA0;al., 2005</xref>; <xref rid="B116" ref-type="bibr">Sanjeewa et&#xA0;al., 2020</xref>).</p>
+      <p>Of the 13 TLRs identified in mammals (<xref rid="B135" ref-type="bibr">Vijay, 2018</xref>), TLR1 to TLR9 are conserved between humans and mice (<xref rid="B75" ref-type="bibr">Kumar and Barrett, 2022</xref>). TLR1, 2, 4, 5, and 6 are expressed in cell membranes. TLR3, 7, 8, and 9 are present in the endosomes of cells (<xref rid="B85" ref-type="bibr">Luchner et&#xA0;al., 2021</xref>; <xref rid="B48" ref-type="bibr">Fore et&#xA0;al., 2022</xref>). TLR2 recognizes a variety of microbial molecules such as peptidoglycan and lipoproteins (<xref rid="B132" ref-type="bibr">Venkataranganayaka Abhilasha and Kedihithlu Marathe, 2021</xref>), TLR4 recognizes LPS and several viral envelope proteins (<xref rid="B141" ref-type="bibr">Wu et&#xA0;al., 2022</xref>), TLR5 recognizes the flagellum (<xref rid="B28" ref-type="bibr">Clasen et&#xA0;al., 2023</xref>), and TLR3, 7, 8, and 9 recognize microbial and viral nucleic acid motifs (<xref rid="B44" ref-type="bibr">Eisen&#xE4;cher et&#xA0;al., 2007</xref>). Of these, TLR3 recognizes double-stranded RNA (<xref rid="B114" ref-type="bibr">Sakaniwa et&#xA0;al., 2023</xref>), TLR7/8 recognizes single-stranded RNA (<xref rid="B144" ref-type="bibr">Yu et&#xA0;al., 2012</xref>), and TLR9 recognizes CpG-DNA (<xref rid="B143" ref-type="bibr">Yu et&#xA0;al., 2017</xref>; <xref rid="B127" ref-type="bibr">Takano et&#xA0;al., 2023</xref>).</p>
+      <sec id="s5_1">
+        <label>5.1</label>
+        <title>TLR2</title>
+        <p>The interaction of <italic>Brucella</italic> strains with TLR2 on host cells affects the induction of innate immune responses during infection (<xref rid="B50" ref-type="bibr">Giambartolomei et&#xA0;al., 2004</xref>; <xref rid="B87" ref-type="bibr">Macedo et&#xA0;al., 2008</xref>; <xref rid="B149" ref-type="bibr">Zwerdling et&#xA0;al., 2008</xref>; <xref rid="B101" ref-type="bibr">Pei et&#xA0;al., 2012</xref>; <xref rid="B126" ref-type="bibr">Surendran et&#xA0;al., 2012</xref>; <xref rid="B78" ref-type="bibr">Lee, K. M. et&#xA0;al., 2013</xref>; <xref rid="B137" ref-type="bibr">Weinhold et&#xA0;al., 2013</xref>; <xref rid="B46" ref-type="bibr">Ferrero et&#xA0;al., 2014</xref>; <xref rid="B5" ref-type="bibr">Arias et&#xA0;al., 2017</xref>; <xref rid="B40" ref-type="bibr">Dominguez-Flores et&#xA0;al., 2023</xref>). TLR2, located on the cell surface, is required for the production of tumor necrosis factor (TNF) (<xref rid="B62" ref-type="bibr">Huang et&#xA0;al., 2003</xref>; <xref rid="B37" ref-type="bibr">Delpino et&#xA0;al., 2012</xref>). Previous studies also showed that TLR2 is required for TNF production and regulates TLR9 signaling for the effective induction of IL-12 upon stimulation by heat-killed <italic>B. abortus</italic> (<xref rid="B145" ref-type="bibr">Zhang et&#xA0;al., 2012</xref>). In addition, recombinant <italic>Brucella</italic> cell-surface protein 31 (rBCSP31), an agonist of TLR2, induces cytokine production, upregulates macrophage function, and induces a Th1 immune response (<xref rid="B80" ref-type="bibr">Li et&#xA0;al., 2014</xref>). <italic>B. abortus</italic> Mdh enhanced Th2-related responses triggered by the MyD88-dependent TLR2 signaling pathway and could induce an inflammatory response in microfold cells (<xref rid="B119" ref-type="bibr">Shim et&#xA0;al., 2020</xref>). <italic>B. abortus</italic>-activated microglia induce neuronal death via <italic>Brucella</italic> lipoprotein-mediated TLR2 activation (<xref rid="B112" ref-type="bibr">Rodr&#xED;guez et&#xA0;al., 2017</xref>).</p>
+        <p>
+<italic>Brucella</italic> uses various stealthy strategies to avoid activation of the innate immune system (<xref rid="B9" ref-type="bibr">Barquero-Calvo et&#xA0;al., 2007</xref>). Researchers identified a new <italic>Brucella</italic> protein Btp1, which down-modulates maturation of infected DCs by interfering with the TLR2 signaling pathway (<xref rid="B115" ref-type="bibr">Salcedo et&#xA0;al., 2008</xref>). Similarly, BtpB inhibits TLR2 and disrupts NLRP3 signaling pathways to inhibit host immune responses in early <italic>Brucella</italic> infections (<xref rid="B82" ref-type="bibr">Li, J. et&#xA0;al., 2022</xref>). Moreover, <italic>Brucella</italic> encodes a TIR domain-containing protein (TcpB) that mimics the properties of the TLR adaptor protein TIRAP to subvert TLR signaling (<xref rid="B108" ref-type="bibr">Radhakrishnan et&#xA0;al., 2009</xref>; <xref rid="B107" ref-type="bibr">Radhakrishnan and Splitter, 2010</xref>; <xref rid="B3" ref-type="bibr">Alaidarous et&#xA0;al., 2013</xref>; <xref rid="B67" ref-type="bibr">Jakka et&#xA0;al., 2017</xref>). Outer membrane vesicles (OMVs) from <italic>B. abortus</italic> also inhibit the cytokine response of monocytes to TLR2 agonists that favor the persistence of <italic>Brucella</italic> within host cells (<xref rid="B105" ref-type="bibr">Pollak et&#xA0;al., 2012</xref>). <italic>B. abortus</italic> utilizes its lipoproteins to inhibit IFN-&#x3B3;-induced expression of the type I receptor for the Fc portion of IgG (Fc&#x3B3;RI and CD64) and Fc&#x3B3;RI-restricted phagocytosis via TLR2 and to subvert host immunonological responses (<xref rid="B12" ref-type="bibr">Barrionuevo et&#xA0;al., 2011</xref>).</p>
+      </sec>
+      <sec id="s5_2">
+        <label>5.2</label>
+        <title>TLR3</title>
+        <p>It has been shown that TLR3 signaling triggered by <italic>B. abortus</italic> RNA contributes to cytokine responses and type I IFN expression in mouse DCs, highlighting the important role of TLR3 in proinflammatory cytokine production induced by <italic>B. abortus</italic> infection (<xref rid="B22" ref-type="bibr">Campos et&#xA0;al., 2017</xref>). A previous study found that <italic>B. abortus</italic> also down-modulates TLR3 gene and dampens the type I IFN response, leading to inefficient immune response and bacterial persistence within the host (<xref rid="B55" ref-type="bibr">Gorvel et&#xA0;al., 2014</xref>).</p>
+      </sec>
+      <sec id="s5_3">
+        <label>5.3</label>
+        <title>TLR4</title>
+        <p>The interaction of <italic>Brucella</italic> with TLR4 on host cells affects the induction of the immune response, and TLR4 plays a role in resistance to <italic>Brucella</italic> infection (<xref rid="B23" ref-type="bibr">Campos et&#xA0;al., 2004</xref>; <xref rid="B42" ref-type="bibr">Due&#xF1;as et&#xA0;al., 2004</xref>; <xref rid="B31" ref-type="bibr">Copin et&#xA0;al., 2007</xref>; <xref rid="B90" ref-type="bibr">Martirosyan et&#xA0;al., 2012</xref>; <xref rid="B86" ref-type="bibr">Ma et&#xA0;al., 2015</xref>; <xref rid="B148" ref-type="bibr">Zhu et&#xA0;al., 2022</xref>). <italic>B. melitensis</italic> OMP25 interacted with ferritin heavy polypeptide 1 (FTH1) in human placenta trophoblastic cells (HPT&#x2212;8) and led to the increase of the levels of TLR4 and inflammatory factors, suggesting that OMP25 serves an important role in intracellular parasitism of <italic>Brucella</italic> (<xref rid="B146" ref-type="bibr">Zhang et&#xA0;al., 2022</xref>). TLR4-linked Janus kinase 2 signaling plays a pivotal role in <italic>B. abortus</italic> phagocytosis by macrophages (<xref rid="B79" ref-type="bibr">Lee, J. J. et&#xA0;al., 2013</xref>). The cellular oncogene c-Fos also participates in host defense mechanisms against <italic>Brucella</italic> infection via TLR4 signaling (<xref rid="B60" ref-type="bibr">Hop et&#xA0;al., 2018</xref>). TLR4 agonists effectively stimulate innate immunity and enhance bacterial clearance in the mouse model of brucellosis (<xref rid="B58" ref-type="bibr">Hedges et&#xA0;al., 2023</xref>).</p>
+        <p>A recent study shows that TcpB from <italic>Brucella</italic> interferes with the MAL-TLR4 interaction. This in turn leads to suppressing host immune responses (<xref rid="B118" ref-type="bibr">Sengupta et&#xA0;al., 2010</xref>; <xref rid="B106" ref-type="bibr">Radhakrishnan et&#xA0;al., 2011</xref>; <xref rid="B2" ref-type="bibr">Alaidarous et&#xA0;al., 2014</xref>; <xref rid="B117" ref-type="bibr">Saqib and Baig, 2019</xref>). <italic>Brucella</italic> TcpB-derived decoy peptides (TB-8 and TB-9) also inhibited TLR4 signaling and avoided host immune recognition (<xref rid="B72" ref-type="bibr">Ke et&#xA0;al., 2016</xref>). Cytoplasmic linker protein 170 (CLIP170) was found to negatively regulate TLR4-mediated proinflammatory responses by targeting TIRAP (<xref rid="B66" ref-type="bibr">Jakka et&#xA0;al., 2018</xref>). Matamoros-Recio et&#xA0;al. elucidated the impact of the core oligosaccharides from &#x3B1;2-Proteobacteria atypical lipopolysaccharides for immune system evasion in opportunistic bacteria, including <italic>B. melitensis</italic> (<xref rid="B91" ref-type="bibr">Matamoros-Recio et&#xA0;al., 2023</xref>). <italic>B. abortus</italic> O-polysaccharide (OPS) also dictates the interactions between <italic>Brucella</italic> and TLR4 and enhances <italic>Brucella</italic> persistence (<xref rid="B102" ref-type="bibr">Pei et&#xA0;al., 2008</xref>).</p>
+        <p>The modified LPS with a defective core purified from <italic>Brucella</italic> carrying a mutated wadC gene potentiated cytokine secretion, representing a potential for vaccine development (<xref rid="B30" ref-type="bibr">Conde-&#xC1;lvarez et&#xA0;al., 2012</xref>; <xref rid="B29" ref-type="bibr">Conde-&#xC1;lvarez et&#xA0;al., 2013</xref>; <xref rid="B147" ref-type="bibr">Zhao et&#xA0;al., 2018</xref>). Based on the TLR4, some groups design the multi-epitope vaccine candidates against <italic>Brucella</italic> (<xref rid="B83" ref-type="bibr">Li, M. et&#xA0;al., 2022</xref>; <xref rid="B129" ref-type="bibr">Tarrahimofrad et&#xA0;al., 2022</xref>; <xref rid="B68" ref-type="bibr">Jalal et&#xA0;al., 2023</xref>; <xref rid="B88" ref-type="bibr">Malik et&#xA0;al., 2023</xref>; <xref rid="B142" ref-type="bibr">Yin et&#xA0;al., 2023</xref>). <italic>B. abortus</italic> Omp16 lipoprotein would be able to induce a protective immune response via a TLR4-dependent manner and is a promising self-adjuvanting vaccine against brucellosis (<xref rid="B100" ref-type="bibr">Pasquevich et&#xA0;al., 2010</xref>). The enzyme lumazine synthase from <italic>Brucella</italic> (BLS) can insert foreign peptides and proteins at the 10 N-termini. These chimeras induced proinflammatory cytokine secretion via TLR4, providing an excellent candidate for vaccine development (<xref rid="B15" ref-type="bibr">Berguer et&#xA0;al., 2006</xref>; <xref rid="B14" ref-type="bibr">Berguer et&#xA0;al., 2012</xref>).</p>
+      </sec>
+      <sec id="s5_4">
+        <label>5.4</label>
+        <title>TLR5</title>
+        <p>The lack of TLR5 activity of <italic>Brucella</italic> flagellin is part of the stealthy strategy of <italic>Brucella</italic> toward the innate immune system (<xref rid="B130" ref-type="bibr">Terwagne et&#xA0;al., 2013</xref>). Hiriart et&#xA0;al. generated a chimeric protein by fusing flagellin from <italic>Salmonella</italic> in the 10 N-termini of <italic>Brucella</italic> lumazine synthase (BLS). This fusion protein elicits the TLR5-mediated humoral response against BLS and could be exploited as a vaccine carrier/adjuvant (<xref rid="B59" ref-type="bibr">Hiriart et&#xA0;al., 2017</xref>).</p>
+      </sec>
+      <sec id="s5_5">
+        <label>5.5</label>
+        <title>TLR6</title>
+        <p>TLR6 is required to trigger innate immune responses against <italic>B. abortus in vivo</italic> through DC maturation and proinflammatory cytokine production (de Almeida LA et&#xA0;al., 2013). Retamal-D&#xED;az et&#xA0;al. found that TLR2/6 agonist <italic>S</italic>-[2,3-bispalmitoyiloxy-(2<italic>R</italic>)-propyl]-<italic>R</italic>-cysteinyl-amido-monomethoxy polyethylene glycol (BPPcysMPEG) induced improved immunogenicity and protective efficacy of a DNA vaccine encoding <italic>B. abortus</italic> Cu,Zn superoxide dismutase (SOD) (<xref rid="B111" ref-type="bibr">Retamal-D&#xED;az et&#xA0;al., 2014</xref>). Woodman et&#xA0;al. analyzed the structural characterization of TLR1 and TLR6 from both harbor and elephant seals, identifying variants that will help to understand species-specific immune responses (<xref rid="B140" ref-type="bibr">Woodman et&#xA0;al., 2016</xref>).</p>
+      </sec>
+      <sec id="s5_6">
+        <label>5.6</label>
+        <title>TLR7/8</title>
+        <p>TLR7 plays an important role in IL-12 production induced by <italic>B. abortus</italic> infection (<xref rid="B22" ref-type="bibr">Campos et&#xA0;al., 2017</xref>). Li et&#xA0;al. found that overexpression of melatonin synthetic enzyme acetylserotonin <italic>O</italic>-methyltransferase (ASMT) enhances the resistance of transgenic sheep to brucellosis by influencing, at least in part, the TLR7 signaling pathway (<xref rid="B81" ref-type="bibr">Li et&#xA0;al., 2021</xref>). Im et&#xA0;al. reported that the two <italic>B. abortus</italic> antigens, OMP19 and malate dehydrogenase (Mdh), might be involved in the TLR8 signaling pathway in human leukemic monocyte cells (<xref rid="B64" ref-type="bibr">Im et&#xA0;al., 2018</xref>). Previous reports showed that the infection of human monocytes/macrophages with <italic>B. abortus</italic> inhibits the IFN-&#x3B3;-induced MHC-I surface expression by a TLR8-dependent mechanism. Thus, bacteria are able to persist and establish a chronic infection inside its host (<xref rid="B92" ref-type="bibr">Milillo et&#xA0;al., 2017</xref>).</p>
+      </sec>
+      <sec id="s5_7">
+        <label>5.7</label>
+        <title>TLR9</title>
+        <p>Signaling pathways triggered by <italic>Brucella</italic> DNA involve TLR9 (<xref rid="B134" ref-type="bibr">Vieira et&#xA0;al., 2013</xref>; <xref rid="B21" ref-type="bibr">Campos et&#xA0;al., 2014</xref>; <xref rid="B32" ref-type="bibr">Costa Franco et&#xA0;al., 2018</xref>). TLR9 recognized <italic>Brucella</italic> CpG motifs, leading to TLR9-MAPK/NF-&#x3BA;B signaling pathway activation and IL-12 and TNF-&#x3B1; production (<xref rid="B54" ref-type="bibr">Gomes et&#xA0;al., 2016</xref>). <italic>Brucella</italic> DNA can be sensed by TLR9 on the endosomal membrane of macrophages and can suppress <italic>Brucella</italic> intracellular replication by enhancing NO production (<xref rid="B84" ref-type="bibr">Liu et&#xA0;al., 2015</xref>). Copin et&#xA0;al. demonstrated that the induction of IFN-gamma and inducible NO synthase (iNOS) protein induced by <italic>Brucella</italic> infection required TLR4 and TLR9 stimulation (<xref rid="B31" ref-type="bibr">Copin et&#xA0;al., 2007</xref>; <xref rid="B38" ref-type="bibr">De Trez et&#xA0;al., 2009</xref>). Rahimnahal et&#xA0;al. developed a multi-epitope vaccine against bovine brucellosis, which is capable of being in interaction with bovine TLR4 and TLR9 (<xref rid="B109" ref-type="bibr">Rahimnahal et&#xA0;al., 2023</xref>). Our group found that repetitive extragenic palindromic DNA sequences from <italic>Brucella</italic> stimulate TLR9 signaling (<xref rid="B143" ref-type="bibr">Yu et&#xA0;al., 2017</xref>; <xref rid="B103" ref-type="bibr">Peng et&#xA0;al., 2021</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s6">
+      <label>6</label>
+      <title>Conclusions</title>
+      <p>In conclusion, host TLRs play a key role in the induction of the innate immune and adaptive immune responses against <italic>Brucella</italic> infection. The development of related drugs and vaccines is of great significance for the treatment of brucellosis. However, the process of <italic>Brucella</italic> infection is complex, and the fight against <italic>Brucella</italic> infections still faces many challenges. First, <italic>Brucella</italic> has evolutionarily developed diverse strategies that allow evasion of the innate and adaptive immune systems to establish persistent infections. Second, there is no effective vaccine for human brucellosis. Despite significant progress in our understanding of the molecular mechanisms of TLRs in <italic>Brucella</italic> infection, further focused research is needed to clarify their roles in modulating various immune events against <italic>Brucella</italic> pathogens.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="s7">
+      <title>Author contributions</title>
+      <p>ZW: Conceptualization, Funding acquisition, Writing &#x2013; original draft, Writing &#x2013; review &amp; editing. HY: Funding acquisition, Supervision, Writing &#x2013; original draft, Writing &#x2013; review &amp; editing. XG: Writing &#x2013; original draft. DW: Writing &#x2013; original draft.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="COI-statement" id="s9">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s10">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ahmed</surname><given-names>W.</given-names></name><name><surname>Zheng</surname><given-names>K.</given-names></name><name><surname>Liu</surname><given-names>Z. F.</given-names></name></person-group> (<year>2016</year>). <article-title>Establishment of chronic infection: Brucella's stealth strategy</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>6</volume>, <elocation-id>30</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2016.00030</pub-id>
+<pub-id pub-id-type="pmid">27014640</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alaidarous</surname><given-names>M.</given-names></name><name><surname>Ve</surname><given-names>T.</given-names></name><name><surname>Casey</surname><given-names>L. W.</given-names></name><name><surname>Valkov</surname><given-names>E.</given-names></name><name><surname>Ericsson</surname><given-names>D. J.</given-names></name><name><surname>Ullah</surname><given-names>M. O.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Mechanism of bacterial interference with TLR4 signaling by <italic>Brucella</italic> Toll/interleukin-1 receptor domain-containing protein TcpB</article-title>. <source>J. Biol. Chem.</source>
+<volume>289</volume> (<issue>2</issue>), <fpage>654</fpage>&#x2013;<lpage>668</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1074/jbc.M113.523274</pub-id>
+<pub-id pub-id-type="pmid">24265315</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alaidarous</surname><given-names>M.</given-names></name><name><surname>Ve</surname><given-names>T.</given-names></name><name><surname>Ullah</surname><given-names>M. O.</given-names></name><name><surname>Valkov</surname><given-names>E.</given-names></name><name><surname>Mansell</surname><given-names>A.</given-names></name><name><surname>Schembri</surname><given-names>M. A.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Cloning, expression, purification, crystallization and preliminary X-ray crystallographic analysis of the TIR domain from the <italic>Brucella melitensis</italic> TIR-domain-containing protein TcpB</article-title>. <source>Acta Crystallogr. Sect F Struct. Biol. Cryst Commun.</source>
+<volume>69</volume> (<issue>Pt 10</issue>), <fpage>1167</fpage>&#x2013;<lpage>1170</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1107/S1744309113024408</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ali</surname><given-names>A.</given-names></name><name><surname>Waris</surname><given-names>A.</given-names></name><name><surname>Khan</surname><given-names>M. A.</given-names></name><name><surname>Asim</surname><given-names>M.</given-names></name><name><surname>Khan</surname><given-names>A. U.</given-names></name><name><surname>Khan</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Recent advancement, immune responses, and mechanism of action of various vaccines against intracellular bacterial infections</article-title>. <source>Life Sci.</source>
+<volume>314</volume>, <elocation-id>121332</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.lfs.2022.121332</pub-id>
+<pub-id pub-id-type="pmid">36584914</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arias</surname><given-names>M. A.</given-names></name><name><surname>Santiago</surname><given-names>L.</given-names></name><name><surname>Costas-Ramon</surname><given-names>S.</given-names></name><name><surname>Jaime-S&#xE1;nchez</surname><given-names>P.</given-names></name><name><surname>Freudenberg</surname><given-names>M.</given-names></name><name><surname>Jim&#xE9;nez De Bag&#xFC;&#xE9;s</surname><given-names>M. P.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Toll-Like Receptors 2 and 4 cooperate in the control of the emerging pathogen <italic>Brucella microti</italic>
+</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>6</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2016.00205</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avila-Calder&#xF3;n</surname><given-names>E. D.</given-names></name><name><surname>Flores-Romo</surname><given-names>L.</given-names></name><name><surname>Sharon</surname><given-names>W.</given-names></name><name><surname>Donis-Maturano</surname><given-names>L.</given-names></name><name><surname>Becerril-Garc&#xED;a</surname><given-names>M. A.</given-names></name><name><surname>Arreola</surname><given-names>M. G. A.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Dendritic cells and Brucella spp. interaction: the sentinel host and the stealthy pathogen</article-title>. <source>Folia Microbiol. (Praha).</source>
+<volume>65</volume> (<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>16</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/s12223-019-00691-6</pub-id>
+<pub-id pub-id-type="pmid">30783994</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldi</surname><given-names>P. C.</given-names></name><name><surname>Giambartolomei</surname><given-names>G. H.</given-names></name></person-group> (<year>2013</year>). <article-title>Immunopathology of <italic>brucella</italic> infection</article-title>. <source>Recent Pat. Antiinfect. Drug Discovery</source>
+<volume>8</volume> (<issue>1</issue>), <fpage>18</fpage>&#x2013;<lpage>26</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.2174/1574891x11308010005</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>C. L.</given-names></name><name><surname>Winter</surname><given-names>A. J.</given-names></name></person-group> (<year>1994</year>). <article-title>Macrophages and <italic>brucella</italic>
+</article-title>. <source>Immunol. Ser.</source>
+<volume>60</volume>, <fpage>363</fpage>&#x2013;<lpage>380</lpage>.<pub-id pub-id-type="pmid">8251581</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name><name><surname>Chaves-Olarte</surname><given-names>E.</given-names></name><name><surname>Weiss</surname><given-names>D. S.</given-names></name><name><surname>Guzm&#xE1;n-Verri</surname><given-names>C.</given-names></name><name><surname>Chac&#xF3;n-D&#xED;az</surname><given-names>C.</given-names></name><name><surname>Rucavado</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2007</year>). <article-title>
+<italic>Brucella abortus</italic> uses a stealthy strategy to avoid activation of the innate immune system during the onset of infection</article-title>. <source>PloS One</source>
+<volume>2</volume> (<issue>7</issue>), <elocation-id>e631</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0000631</pub-id>
+<pub-id pub-id-type="pmid">17637846</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name><name><surname>Mora-Cart&#xED;n</surname><given-names>R.</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V.</given-names></name><name><surname>de Diego</surname><given-names>J. L.</given-names></name><name><surname>Chac&#xF3;n-D&#xED;az</surname><given-names>C.</given-names></name><name><surname>Chaves-Olarte</surname><given-names>E.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>
+<italic>Brucella abortus</italic> induces the premature death of human neutrophils through the action of its lipopolysaccharide</article-title>. <source>PloS Pathog.</source>
+<volume>11</volume> (<issue>5</issue>), <elocation-id>e1004853</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1004853</pub-id>
+<pub-id pub-id-type="pmid">25946018</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Cassataro</surname><given-names>J.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Zwerdling</surname><given-names>A.</given-names></name><name><surname>Pasquevich</surname><given-names>K. A.</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>
+<italic>Brucella abortus</italic> inhibits major histocompatibility complex class II expression and antigen processing through interleukin-6 secretion via Toll-like receptor 2</article-title>. <source>Infect. Immun.</source>
+<volume>76</volume> (<issue>1</issue>), <fpage>250</fpage>&#x2013;<lpage>262</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.00949-07</pub-id>
+<pub-id pub-id-type="pmid">17984211</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Vel&#xE1;squez</surname><given-names>L. N.</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C.</given-names></name><name><surname>Coria</surname><given-names>L. M.</given-names></name><name><surname>Iba&#xF1;ez</surname><given-names>A. E.</given-names></name><etal/></person-group>. (<year>2011</year>). <article-title>
+<italic>Brucella abortus</italic> inhibits IFN-&#x3B3;-induced Fc&#x3B3;RI expression and Fc&#x3B3;RI-restricted phagocytosis via toll-like receptor 2 on human monocytes/macrophages</article-title>. <source>Microbes Infect.</source>
+<volume>13</volume> (<issue>3</issue>), <fpage>239</fpage>&#x2013;<lpage>250</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2010.10.020</pub-id>
+<pub-id pub-id-type="pmid">21070860</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Giambartolomei</surname><given-names>G. H.</given-names></name></person-group> (<year>2019</year>). <article-title>Inhibition of antigen presentation by Brucella: many more than many ways</article-title>. <source>Microbes Infect.</source>
+<volume>21</volume> (<issue>3-4</issue>), <fpage>136</fpage>&#x2013;<lpage>142</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2018.12.004</pub-id>
+<pub-id pub-id-type="pmid">30677519</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berguer</surname><given-names>P. M.</given-names></name><name><surname>Alzogaray</surname><given-names>V. A.</given-names></name><name><surname>Rossi</surname><given-names>A. H.</given-names></name><name><surname>Mundi&#xF1;ano</surname><given-names>J.</given-names></name><name><surname>Piazzon</surname><given-names>I.</given-names></name><name><surname>Goldbaum</surname><given-names>F. A.</given-names></name></person-group> (<year>2012</year>). <article-title>A polymeric protein induces specific cytotoxicity in a TLR4 dependent manner in the absence of adjuvants</article-title>. <source>PloS One</source>
+<volume>7</volume> (<issue>9</issue>), <elocation-id>e45705</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0045705</pub-id>
+<pub-id pub-id-type="pmid">23029192</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berguer</surname><given-names>P. M.</given-names></name><name><surname>Mundi&#xF1;ano</surname><given-names>J.</given-names></name><name><surname>Piazzon</surname><given-names>I.</given-names></name><name><surname>Goldbaum</surname><given-names>F. A.</given-names></name></person-group> (<year>2006</year>). <article-title>A polymeric bacterial protein activates dendritic cells via TLR4</article-title>. <source>J. Immunol.</source>
+<volume>176</volume> (<issue>4</issue>), <fpage>2366</fpage>&#x2013;<lpage>2372</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.176.4.2366</pub-id>
+<pub-id pub-id-type="pmid">16455994</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bialer</surname><given-names>M. G.</given-names></name><name><surname>Sycz</surname><given-names>G.</given-names></name><name><surname>Mu&#xF1;oz Gonz&#xE1;lez</surname><given-names>F.</given-names></name><name><surname>Ferrero</surname><given-names>M. C.</given-names></name><name><surname>Baldi</surname><given-names>P. C.</given-names></name><name><surname>Zorreguieta</surname><given-names>A.</given-names></name></person-group> (<year>2020</year>). <article-title>Adhesins of <italic>Brucella</italic>: Their roles in the interaction with the host</article-title>. <source>Pathogens.</source>
+<volume>9</volume> (<issue>11</issue>), <elocation-id>942</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3390/pathogens9110942</pub-id>
+<pub-id pub-id-type="pmid">33198223</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Billard</surname><given-names>E.</given-names></name><name><surname>Dornand</surname><given-names>J.</given-names></name><name><surname>Gross</surname><given-names>A.</given-names></name></person-group> (<year>2007</year>). <article-title>Interaction of <italic>Brucella suis</italic> and <italic>Brucella abortus</italic> rough strains with human dendritic cells</article-title>. <source>Infect. Immun.</source>
+<volume>75</volume> (<issue>12</issue>), <fpage>5916</fpage>&#x2013;<lpage>5923</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.00931-07</pub-id>
+<pub-id pub-id-type="pmid">17938225</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bin Park</surname><given-names>W.</given-names></name><name><surname>Kim</surname><given-names>S.</given-names></name><name><surname>Kyung</surname><given-names>S. M.</given-names></name><name><surname>Lee</surname><given-names>E. S.</given-names></name><name><surname>Lee</surname><given-names>Y. J.</given-names></name><name><surname>Yoo</surname><given-names>H. S.</given-names></name></person-group> (<year>2023</year>). <article-title>Gene expression of Toll-like receptors, cytokines and a nuclear factor and cytokine secretion in DH82 canine macrophage cells infected with <italic>Brucella canis</italic>
+</article-title>. <source>Vet. Immunol. Immunopathol.</source>, <fpage>260</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.vetimm.2023.110607</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boschiroli</surname><given-names>M. L.</given-names></name><name><surname>Foulongne</surname><given-names>V.</given-names></name><name><surname>O'Callaghan</surname><given-names>D.</given-names></name></person-group> (<year>2001</year>). <article-title>Brucellosis: a worldwide zoonosis</article-title>. <source>Curr. Opin. Microbiol.</source>
+<volume>4</volume> (<issue>1</issue>), <fpage>58</fpage>&#x2013;<lpage>64</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/s1369-5274(00)00165-x</pub-id>
+<pub-id pub-id-type="pmid">11173035</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brikos</surname><given-names>C.</given-names></name><name><surname>O'Neill</surname><given-names>L. A.</given-names></name></person-group> (<year>2008</year>). <article-title>Signalling of toll-like receptors</article-title>. <source>Handb. Exp. Pharmacol.</source>
+<volume>183)</volume>, <fpage>21</fpage>&#x2013;<lpage>50</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/978-3-540-72167-3_2</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campos</surname><given-names>P. C.</given-names></name><name><surname>Gomes</surname><given-names>M. T.</given-names></name><name><surname>Guimar&#xE3;es</surname><given-names>G.</given-names></name><name><surname>Costa Franco</surname><given-names>M. M.</given-names></name><name><surname>Marim</surname><given-names>F. M.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name></person-group> (<year>2014</year>). <article-title>
+<italic>Brucella abortus</italic> DNA is a major bacterial agonist to activate the host innate immune system</article-title>. <source>Microbes Infect.</source>
+<volume>16</volume> (<issue>12</issue>), <fpage>979</fpage>&#x2013;<lpage>984</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2014.08.010</pub-id>
+<pub-id pub-id-type="pmid">25173577</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campos</surname><given-names>P. C.</given-names></name><name><surname>Gomes</surname><given-names>M. T.</given-names></name><name><surname>Guimar&#xE3;es</surname><given-names>E. S.</given-names></name><name><surname>Guimar&#xE3;es</surname><given-names>G.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name></person-group> (<year>2017</year>). <article-title>TLR7 and TLR3 sense <italic>Brucella abortus</italic> RNA to induce proinflammatory cytokine production but they are dispensable for host control of infection</article-title>. <source>Front. Immunol.</source>
+<volume>8</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fimmu.2017.00028</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Campos</surname><given-names>M. A.</given-names></name><name><surname>Rosinham</surname><given-names>G. M.</given-names></name><name><surname>Almeida</surname><given-names>I. C.</given-names></name><name><surname>Salgueiro</surname><given-names>X. S.</given-names></name><name><surname>Jarvis</surname><given-names>B. W.</given-names></name><name><surname>Splitter</surname><given-names>G. A.</given-names></name><etal/></person-group>. (<year>2004</year>). <article-title>Role of Toll-like receptor 4 in induction of cell-mediated immunity and resistance to <italic>Brucella abortus</italic> infection in mice</article-title>. <source>Infect. Immun.</source>
+<volume>72</volume> (<issue>1</issue>), <fpage>176</fpage>&#x2013;<lpage>186</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.72.1.176-186.2004</pub-id>
+<pub-id pub-id-type="pmid">14688095</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carty</surname><given-names>M.</given-names></name><name><surname>Bowie</surname><given-names>A. G.</given-names></name></person-group> (<year>2019</year>). <article-title>SARM: From immune regulator to cell executioner</article-title>. <source>Biochem. Pharmacol.</source>
+<volume>161</volume>, <fpage>52</fpage>&#x2013;<lpage>62</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.bcp.2019.01.005</pub-id>
+<pub-id pub-id-type="pmid">30633870</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Celli</surname><given-names>J.</given-names></name></person-group> (<year>2019</year>). <article-title>The intracellular life cycle of Brucella spp</article-title>. <source>Microbiol. Spectr.</source>
+<volume>7</volume> (<issue>2</issue>), <fpage>10</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/microbiolspec.BAI-0006-2019</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cerqueira</surname><given-names>D. M.</given-names></name><name><surname>Gomes</surname><given-names>M. T. R.</given-names></name><name><surname>Silva</surname><given-names>A. L. N.</given-names></name><name><surname>Rungue</surname><given-names>M.</given-names></name><name><surname>Assis</surname><given-names>N. R. G.</given-names></name><name><surname>Guimar&#xE3;es</surname><given-names>E. S.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>Guanylate-binding protein 5 licenses caspase-11 for Gasdermin-D mediated host resistance to Brucella abortus infection</article-title>. <source>PloS Pathog.</source>
+<volume>14</volume> (<issue>12</issue>), <elocation-id>e1007519</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1007519</pub-id>
+<pub-id pub-id-type="pmid">30589883</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>X. M.</given-names></name><name><surname>O'Hara</surname><given-names>S. P.</given-names></name><name><surname>Nelson</surname><given-names>J. B.</given-names></name><name><surname>Splinter</surname><given-names>P. L.</given-names></name><name><surname>Small</surname><given-names>A. J.</given-names></name><name><surname>Tietz</surname><given-names>P. S.</given-names></name><etal/></person-group>. (<year>2005</year>). <article-title>Multiple TLRs are expressed in human cholangiocytes and mediate host epithelial defense responses to <italic>Cryptosporidium parvum</italic> via activation of NF-kappaB</article-title>. <source>J. Immunol.</source>
+<volume>175</volume> (<issue>11</issue>), <fpage>7447</fpage>&#x2013;<lpage>7456</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.175.11.7447</pub-id>
+<pub-id pub-id-type="pmid">16301652</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clasen</surname><given-names>S. J.</given-names></name><name><surname>Bell</surname><given-names>M. E. W.</given-names></name><name><surname>Borb&#xF3;n</surname><given-names>A.</given-names></name><name><surname>Lee</surname><given-names>D. H.</given-names></name><name><surname>Henseler</surname><given-names>Z. M.</given-names></name><name><surname>de la Cuesta-Zuluaga</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Silent recognition of flagellins from human gut commensal bacteria by Toll-like receptor 5</article-title>. <source>Sci. Immunol.</source>
+<volume>8</volume> (<issue>79</issue>), <elocation-id>eabq7001</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1126/sciimmunol.abq7001</pub-id>
+<pub-id pub-id-type="pmid">36608151</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conde-&#xC1;lvarez</surname><given-names>R.</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V.</given-names></name><name><surname>Gil-Ram&#xED;rez</surname><given-names>Y.</given-names></name><name><surname>Iriarte</surname><given-names>M.</given-names></name><name><surname>Grill&#xF3;</surname><given-names>M. J.</given-names></name><name><surname>Gorvel</surname><given-names>J. P.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Lipopolysaccharide as a target for brucellosis vaccine design</article-title>. <source>Microb. Pathog.</source>
+<volume>58</volume>, <fpage>29</fpage>&#x2013;<lpage>34</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2012.11.011</pub-id>
+<pub-id pub-id-type="pmid">23219811</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conde-&#xC1;lvarez</surname><given-names>R.</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V.</given-names></name><name><surname>Iriarte</surname><given-names>M.</given-names></name><name><surname>Man&#x10D;ek-Keber</surname><given-names>M.</given-names></name><name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name><name><surname>Palacios-Chaves</surname><given-names>L.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>The lipopolysaccharide core of <italic>Brucella abortus</italic> acts as a shield against innate immunity recognition</article-title>. <source>PloS Pathog.</source>
+<volume>8</volume> (<issue>5</issue>), <elocation-id>e1002675</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1002675</pub-id>
+<pub-id pub-id-type="pmid">22589715</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Copin</surname><given-names>R.</given-names></name><name><surname>De Baetselier</surname><given-names>P.</given-names></name><name><surname>Carlier</surname><given-names>Y.</given-names></name><name><surname>Letesson</surname><given-names>J. J.</given-names></name><name><surname>Muraille</surname><given-names>E.</given-names></name></person-group> (<year>2007</year>). <article-title>MyD88-dependent activation of B220-CD11b+LY-6C+ dendritic cells during <italic>Brucella melitensis</italic> infection</article-title>. <source>J. Immunol.</source>
+<volume>178</volume> (<issue>8</issue>), <fpage>5182</fpage>&#x2013;<lpage>5191</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.178.8.5182</pub-id>
+<pub-id pub-id-type="pmid">17404301</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Costa Franco</surname><given-names>M. M.</given-names></name><name><surname>Marim</surname><given-names>F.</given-names></name><name><surname>Guimar&#xE3;es</surname><given-names>E. S.</given-names></name><name><surname>Assis</surname><given-names>N. R. G.</given-names></name><name><surname>Cerqueira</surname><given-names>D. M.</given-names></name><name><surname>Alves-Silva</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>
+<italic>Brucella abortus</italic> triggers a cGAS-independent STING pathway to induce host protection that involves guanylate-binding proteins and inflammasome activation</article-title>. <source>J. Immunol.</source>
+<volume>200</volume> (<issue>2</issue>), <fpage>607</fpage>&#x2013;<lpage>622</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.1700725</pub-id>
+<pub-id pub-id-type="pmid">29203515</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cui</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>H. Y.</given-names></name><name><surname>Wang</surname><given-names>R. F.</given-names></name></person-group> (<year>2014</year>). <article-title>Mechanisms and pathways of innate immune activation and regulation in health and cancer</article-title>. <source>Hum. Vaccin Immunother.</source>
+<volume>10</volume> (<issue>11</issue>), <fpage>3270</fpage>&#x2013;<lpage>3285</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4161/21645515.2014.979640</pub-id>
+<pub-id pub-id-type="pmid">25625930</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Almeida</surname><given-names>L. A.</given-names></name><name><surname>Macedo</surname><given-names>G. C.</given-names></name><name><surname>Marinho</surname><given-names>F. A.</given-names></name><name><surname>Gomes</surname><given-names>M. T.</given-names></name><name><surname>Corsetti</surname><given-names>P. P.</given-names></name><name><surname>Silva</surname><given-names>A. M.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Toll-like receptor 6 plays an important role in host innate resistance to <italic>Brucella abortus</italic> infection in mice</article-title>. <source>Infect. Immun.</source>
+<volume>81</volume> (<issue>5</issue>), <fpage>1654</fpage>&#x2013;<lpage>1662</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.01356-12</pub-id>
+<pub-id pub-id-type="pmid">23460520</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Bolle</surname><given-names>X.</given-names></name><name><surname>Letesson</surname><given-names>J. J.</given-names></name><name><surname>Gorvel</surname><given-names>J. P.</given-names></name></person-group> (<year>2012</year>). <article-title>Small GTPases and <italic>Brucella</italic> entry into the endoplasmic reticulum</article-title>. <source>Biochem. Soc. Trans.</source>
+<volume>40</volume> (<issue>6</issue>), <fpage>1348</fpage>&#x2013;<lpage>1352</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1042/BST20120156</pub-id>
+<pub-id pub-id-type="pmid">23176479</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B36">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Figueiredo</surname><given-names>P.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name><name><surname>Rice-Ficht</surname><given-names>A.</given-names></name><name><surname>Rossetti</surname><given-names>C. A.</given-names></name><name><surname>Adams</surname><given-names>L. G.</given-names></name></person-group> (<year>2015</year>). <article-title>Pathogenesis and immunobiology of brucellosis: review of <italic>Brucella</italic>-host interactions</article-title>. <source>Am. J. Pathol.</source>
+<volume>185</volume> (<issue>6</issue>), <fpage>1505</fpage>&#x2013;<lpage>1517</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>
+<pub-id pub-id-type="pmid">25892682</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Macedo</surname><given-names>G. C.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name><name><surname>Genaro</surname><given-names>S. D.</given-names></name><name><surname>Scian</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Macrophage-elicited osteoclastogenesis in response to <italic>Brucella abortus</italic> infection requires TLR2/MyD88-dependent TNF-&#x3B1; production</article-title>. <source>J. Leukoc. Biol.</source>
+<volume>91</volume> (<issue>2</issue>), <fpage>285</fpage>&#x2013;<lpage>298</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1189/jlb.04111185</pub-id>
+<pub-id pub-id-type="pmid">22075930</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Trez</surname><given-names>C.</given-names></name><name><surname>Magez</surname><given-names>S.</given-names></name><name><surname>Akira</surname><given-names>S.</given-names></name><name><surname>Ryffel</surname><given-names>B.</given-names></name><name><surname>Carlier</surname><given-names>Y.</given-names></name><name><surname>Muraille</surname><given-names>E.</given-names></name></person-group> (<year>2009</year>). <article-title>iNOS-producing inflammatory dendritic cells constitute the major infected cell type during the chronic Leishmania major infection phase of C57BL/6 resistant mice</article-title>. <source>PloS Pathog.</source>
+<volume>5</volume> (<issue>6</issue>), <elocation-id>e1000494</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1000494</pub-id>
+<pub-id pub-id-type="pmid">19557162</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B39">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dimitrakopoulos</surname><given-names>O.</given-names></name><name><surname>Liopeta</surname><given-names>K.</given-names></name><name><surname>Dimitracopoulos</surname><given-names>G.</given-names></name><name><surname>Paliogianni</surname><given-names>F.</given-names></name></person-group> (<year>2013</year>). <article-title>Replication of <italic>Brucella melitensis</italic> inside primary human monocytes depends on mitogen activated protein kinase signaling</article-title>. <source>Microbes Infect.</source>
+<volume>15</volume> (<issue>6-7</issue>), <fpage>450</fpage>&#x2013;<lpage>460</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2013.04.007</pub-id>
+<pub-id pub-id-type="pmid">23628412</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B40">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dominguez-Flores</surname><given-names>A.</given-names></name><name><surname>Rodr&#xED;guez L&#xF3;pez</surname><given-names>G. M.</given-names></name><name><surname>Soria-Castro</surname><given-names>R.</given-names></name><name><surname>L&#xF3;pez-Santiago</surname><given-names>R.</given-names></name><name><surname>Rodr&#xED;guez-Cort&#xE9;s</surname><given-names>O.</given-names></name><name><surname>P&#xE9;rez-Tapia</surname><given-names>S. M.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>
+<italic>Brucella abortus</italic> induces mast cell activation through TLR-2 and TLR-4</article-title>. <source>Microb. Pathog.</source>
+<volume>176</volume>, <elocation-id>106005</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2023.106005</pub-id>
+<pub-id pub-id-type="pmid">36717005</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B41">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duan</surname><given-names>T.</given-names></name><name><surname>Du</surname><given-names>Y.</given-names></name><name><surname>Xing</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>H. Y.</given-names></name><name><surname>Wang</surname><given-names>R. F.</given-names></name></person-group> (<year>2022</year>). <article-title>Toll-like receptor signaling and its role in cell-mediated immunity</article-title>. <source>Front. Immunol.</source>
+<volume>13</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fimmu.2022.812774</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B42">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Due&#xF1;as</surname><given-names>A. I.</given-names></name><name><surname>Ordu&#xF1;a</surname><given-names>A.</given-names></name><name><surname>Crespo</surname><given-names>M. S.</given-names></name><name><surname>Garc&#xED;a-Rodr&#xED;guez</surname><given-names>C.</given-names></name></person-group> (<year>2004</year>). <article-title>Interaction of endotoxins with Toll-like receptor 4 correlates with their endotoxic potential and may explain the proinflammatory effect of Brucella spp. LPS</article-title>. <source>Int. Immunol.</source>
+<volume>16</volume> (<issue>10</issue>), <fpage>1467</fpage>&#x2013;<lpage>1475</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1093/intimm/dxh148</pub-id>
+<pub-id pub-id-type="pmid">15339879</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B43">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duthie</surname><given-names>M. S.</given-names></name><name><surname>Windish</surname><given-names>H. P.</given-names></name><name><surname>Fox</surname><given-names>C. B.</given-names></name><name><surname>Reed</surname><given-names>S. G.</given-names></name></person-group> (<year>2011</year>). <article-title>Use of defined TLR ligands as adjuvants within human vaccines</article-title>. <source>Immunol. Rev.</source>
+<volume>239</volume> (<issue>1</issue>), <fpage>178</fpage>&#x2013;<lpage>196</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1111/j.1600-065X.2010.00978.x</pub-id>
+<pub-id pub-id-type="pmid">21198672</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B44">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eisen&#xE4;cher</surname><given-names>K.</given-names></name><name><surname>Steinberg</surname><given-names>C.</given-names></name><name><surname>Reindl</surname><given-names>W.</given-names></name><name><surname>Krug</surname><given-names>A.</given-names></name></person-group> (<year>2007</year>). <article-title>The role of viral nucleic acid recognition in dendritic cells for innate and adaptive antiviral immunity</article-title>. <source>Immunobiology.</source>
+<volume>212</volume> (<issue>9-10</issue>), <fpage>701</fpage>&#x2013;<lpage>714</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.imbio.2007.09.007</pub-id>
+<pub-id pub-id-type="pmid">18086372</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B45">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fabrik</surname><given-names>I.</given-names></name><name><surname>H&#xE4;rtlova</surname><given-names>A.</given-names></name><name><surname>Rehulka</surname><given-names>P.</given-names></name><name><surname>Stulik</surname><given-names>J.</given-names></name></person-group> (<year>2013</year>). <article-title>Serving the new masters - dendritic cells as hosts for stealth intracellular bacteria</article-title>. <source>Cell Microbiol.</source>
+<volume>15</volume> (<issue>9</issue>), <fpage>1473</fpage>&#x2013;<lpage>1483</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1111/cmi.12160</pub-id>
+<pub-id pub-id-type="pmid">23795643</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B46">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferrero</surname><given-names>M. C.</given-names></name><name><surname>Hielpos</surname><given-names>M. S.</given-names></name><name><surname>Carvalho</surname><given-names>N. B.</given-names></name><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Corsetti</surname><given-names>P. P.</given-names></name><name><surname>Giambartolomei</surname><given-names>G. H.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Key role of Toll-like receptor 2 in the inflammatory response and major histocompatibility complex class ii downregulation in <italic>Brucella abortus</italic>-infected alveolar macrophages</article-title>. <source>Infect. Immun.</source>
+<volume>82</volume> (<issue>2</issue>), <fpage>626</fpage>&#x2013;<lpage>639</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.01237-13</pub-id>
+<pub-id pub-id-type="pmid">24478078</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B47">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fitzgerald</surname><given-names>K. A.</given-names></name><name><surname>Kagan</surname><given-names>J. C.</given-names></name></person-group> (<year>2020</year>). <article-title>Toll-like receptors and the control of immunity</article-title>. <source>Cell.</source>
+<volume>180</volume> (<issue>6</issue>), <fpage>1044</fpage>&#x2013;<lpage>1066</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.cell.2020.02.041</pub-id>
+<pub-id pub-id-type="pmid">32164908</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B48">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fore</surname><given-names>F.</given-names></name><name><surname>Budipranama</surname><given-names>M.</given-names></name><name><surname>Destiawan</surname><given-names>R. A.</given-names></name></person-group> (<year>2022</year>). <article-title>TLR10 and its role in immunity</article-title>. <source>Handb. Exp. Pharmacol.</source>
+<volume>276</volume>, <fpage>161</fpage>&#x2013;<lpage>174</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/164_2021_541</pub-id>
+<pub-id pub-id-type="pmid">34595581</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B49">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gamazo</surname><given-names>C.</given-names></name><name><surname>Lec&#xE1;roz</surname><given-names>M. C.</given-names></name><name><surname>Prior</surname><given-names>S.</given-names></name><name><surname>Vitas</surname><given-names>A. I.</given-names></name><name><surname>Campanero</surname><given-names>M. A.</given-names></name><name><surname>Irache</surname><given-names>J. M.</given-names></name><etal/></person-group>. (<year>2006</year>). <article-title>Chemical and biological factors in the control of <italic>Brucella</italic> and brucellosis</article-title>. <source>Curr. Drug Deliv.</source>
+<volume>3</volume> (<issue>4</issue>), <fpage>359</fpage>&#x2013;<lpage>365</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.2174/156720106778559038</pub-id>
+<pub-id pub-id-type="pmid">17076637</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B50">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giambartolomei</surname><given-names>G. H.</given-names></name><name><surname>Zwerdling</surname><given-names>A.</given-names></name><name><surname>Cassataro</surname><given-names>J.</given-names></name><name><surname>Bruno</surname><given-names>L.</given-names></name><name><surname>Fossati</surname><given-names>C. A.</given-names></name><name><surname>Philipp</surname><given-names>M. T.</given-names></name></person-group> (<year>2004</year>). <article-title>Lipoproteins, not lipopolysaccharide, are the key mediators of the proinflammatory response elicited by heat-killed Brucella abortus</article-title>. <source>J. Immunol.</source>
+<volume>173</volume> (<issue>7</issue>), <fpage>4635</fpage>&#x2013;<lpage>4642</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.173.7.4635</pub-id>
+<pub-id pub-id-type="pmid">15383598</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B51">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x142;owacka</surname><given-names>P.</given-names></name><name><surname>&#x17B;akowska</surname><given-names>D.</given-names></name><name><surname>Naylo</surname><given-names>R. K.</given-names></name><name><surname>Niemcewicz</surname><given-names>M.</given-names></name><name><surname>Bielawska-Dr&#xF3;zd</surname><given-names>A.</given-names></name></person-group> (<year>2018</year>). <article-title>
+<italic>Brucella</italic> - virulence factors, pathogenesis and treatment</article-title>. <source>Pol. J. Microbiol.</source>
+<volume>67</volume> (<issue>2</issue>), <fpage>151</fpage>&#x2013;<lpage>161</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.21307/pjm-2018-029</pub-id>
+<pub-id pub-id-type="pmid">30015453</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B52">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Golding</surname><given-names>B.</given-names></name><name><surname>Scott</surname><given-names>D. E.</given-names></name><name><surname>Scharf</surname><given-names>O.</given-names></name><name><surname>Huang</surname><given-names>L. Y.</given-names></name><name><surname>Zaitseva</surname><given-names>M.</given-names></name><name><surname>Lapham</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2001</year>). <article-title>Immunity and protection against Brucella abortus</article-title>. <source>Microbes Infect.</source>
+<volume>3</volume> (<issue>1</issue>), <fpage>43</fpage>&#x2013;<lpage>48</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/s1286-4579(00)01350-2</pub-id>
+<pub-id pub-id-type="pmid">11226853</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B53">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gomes</surname><given-names>M. T.</given-names></name><name><surname>Campos</surname><given-names>P. C.</given-names></name><name><surname>de Almeida</surname><given-names>L. A.</given-names></name><name><surname>Oliveira</surname><given-names>F. S.</given-names></name><name><surname>Costa</surname><given-names>M. M.</given-names></name><name><surname>Marim</surname><given-names>F. M.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>The role of innate immune signals in immunity to <italic>Brucella abortus</italic>
+</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>2</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2012.00130</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B54">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gomes</surname><given-names>M. T.</given-names></name><name><surname>Campos</surname><given-names>P. C.</given-names></name><name><surname>Pereira Gde</surname><given-names>S.</given-names></name><name><surname>Bartholomeu</surname><given-names>D. C.</given-names></name><name><surname>Splitter</surname><given-names>G.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name></person-group> (<year>2016</year>). <article-title>TLR9 is required for MAPK/NF-&#x3BA;B activation but does not cooperate with TLR2 or TLR6 to induce host resistance to <italic>Brucella abortus</italic>
+</article-title>. <source>J. Leukoc. Biol.</source>
+<volume>99</volume> (<issue>5</issue>), <fpage>771</fpage>&#x2013;<lpage>780</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1189/jlb.4A0815-346R</pub-id>
+<pub-id pub-id-type="pmid">26578650</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B55">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gorvel</surname><given-names>L.</given-names></name><name><surname>Textoris</surname><given-names>J.</given-names></name><name><surname>Banchereau</surname><given-names>R.</given-names></name><name><surname>Ben Amara</surname><given-names>A.</given-names></name><name><surname>Tantibhedhyangkul</surname><given-names>W.</given-names></name><name><surname>von Bargen</surname><given-names>K.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Intracellular bacteria interfere with dendritic cell functions: role of the type I interferon pathway</article-title>. <source>PloS One</source>
+<volume>9</volume> (<issue>6</issue>), <elocation-id>e99420</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0099420</pub-id>
+<pub-id pub-id-type="pmid">24915541</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B56">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hashemi</surname><given-names>S. H.</given-names></name><name><surname>Hajilooi</surname><given-names>M.</given-names></name><name><surname>Mamani</surname><given-names>M.</given-names></name><name><surname>Jamal-Omidi</surname><given-names>S.</given-names></name></person-group> (<year>2007</year>). <article-title>Fc gamma receptor IIa polymorphism in patients with brucellosis</article-title>. <source>Jpn J. Infect. Dis.</source>
+<volume>60</volume> (<issue>4</issue>), <fpage>196</fpage>&#x2013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">17642530</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B57">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hashemzadeh</surname><given-names>P.</given-names></name><name><surname>Nezhad</surname><given-names>S. A.</given-names></name><name><surname>Khoshkhabar</surname><given-names>H.</given-names></name></person-group> (<year>2023</year>). <article-title>Immunoinformatics analysis of <italic>Brucella melitensis</italic> to approach a suitable vaccine against brucellosis</article-title>. <source>J.&#xA0;Genet. Eng. Biotechnol.</source>
+<volume>21</volume> (<issue>1</issue>), <fpage>152</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1186/s43141-023-00614-6</pub-id>
+<pub-id pub-id-type="pmid">38019359</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B58">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hedges</surname><given-names>J. F.</given-names></name><name><surname>Snyder</surname><given-names>D. T.</given-names></name><name><surname>Robison</surname><given-names>A.</given-names></name><name><surname>Thompson</surname><given-names>M. A.</given-names></name><name><surname>Aspelin</surname><given-names>K.</given-names></name><name><surname>Plewa</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>A TLR4 agonist liposome formulation effectively stimulates innate immunity and enhances protection from bacterial infection</article-title>. <source>Innate Immun.</source>
+<volume>29</volume> (<issue>3-4</issue>), <fpage>45</fpage>&#x2013;<lpage>57</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1177/17534259231168725</pub-id>
+<pub-id pub-id-type="pmid">37083049</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B59">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hiriart</surname><given-names>Y.</given-names></name><name><surname>Rossi</surname><given-names>A. H.</given-names></name><name><surname>Biedma</surname><given-names>M. E.</given-names></name><name><surname>Errea</surname><given-names>A. J.</given-names></name><name><surname>Moreno</surname><given-names>G.</given-names></name><name><surname>Cayet</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Characterization of structural and immunological properties of a fusion protein between flagellin from <italic>Salmonella</italic> and lumazine synthase from <italic>Brucella</italic>
+</article-title>. <source>Protein Sci.</source>
+<volume>26</volume> (<issue>5</issue>), <fpage>1049</fpage>&#x2013;<lpage>1059</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1002/pro.3151</pub-id>
+<pub-id pub-id-type="pmid">28257593</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B60">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hop</surname><given-names>H. T.</given-names></name><name><surname>Arayan</surname><given-names>L. T.</given-names></name><name><surname>Huy</surname><given-names>T. X. N.</given-names></name><name><surname>Reyes</surname><given-names>A. W. B.</given-names></name><name><surname>Vu</surname><given-names>S. H.</given-names></name><name><surname>Min</surname><given-names>W.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>The key role of c-Fos for immune regulation and bacterial dissemination in <italic>Brucella</italic> infected macrophage</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>8</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2018.00287</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B61">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hop</surname><given-names>H. T.</given-names></name><name><surname>Reyes</surname><given-names>A. W. B.</given-names></name><name><surname>Huy</surname><given-names>T. X. N.</given-names></name><name><surname>Arayan</surname><given-names>L. T.</given-names></name><name><surname>Min</surname><given-names>W.</given-names></name><name><surname>Lee</surname><given-names>H. J.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>Activation of NF-kB-mediated TNF-induced antimicrobial immunity is required for the efficient <italic>Brucella abortus</italic> clearance in RAW 264.7 cells</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>7</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2017.00437</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B62">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>L. Y.</given-names></name><name><surname>Aliberti</surname><given-names>J.</given-names></name><name><surname>Leifer</surname><given-names>C. A.</given-names></name><name><surname>Segal</surname><given-names>D. M.</given-names></name><name><surname>Sher</surname><given-names>A.</given-names></name><name><surname>Golenbock</surname><given-names>D. T.</given-names></name><etal/></person-group>. (<year>2003</year>). <article-title>Heat-killed <italic>Brucella abortus</italic> induces TNF and IL-12p40 by distinct MyD88-dependent pathways: TNF, unlike IL-12p40 secretion, is Toll-like receptor 2 dependent</article-title>. <source>J. Immunol.</source>
+<volume>171</volume> (<issue>3</issue>), <fpage>1441</fpage>&#x2013;<lpage>1446</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.171.3.1441</pub-id>
+<pub-id pub-id-type="pmid">12874236</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B63">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>L. Y.</given-names></name><name><surname>Ishii</surname><given-names>K. J.</given-names></name><name><surname>Akira</surname><given-names>S.</given-names></name><name><surname>Aliberti</surname><given-names>J.</given-names></name><name><surname>Golding</surname><given-names>B.</given-names></name></person-group> (<year>2005</year>). <article-title>Th1-like cytokine induction by heat-killed <italic>Brucella abortus</italic> is dependent on triggering of TLR9</article-title>. <source>J. Immunol.</source>
+<volume>175</volume> (<issue>6</issue>), <fpage>3964</fpage>&#x2013;<lpage>3970</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.175.6.3964</pub-id>
+<pub-id pub-id-type="pmid">16148144</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B64">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Im</surname><given-names>Y. B.</given-names></name><name><surname>Shim</surname><given-names>S.</given-names></name><name><surname>Soh</surname><given-names>S. H.</given-names></name><name><surname>Kim</surname><given-names>S.</given-names></name><name><surname>Yoo</surname><given-names>H. S.</given-names></name></person-group> (<year>2018</year>). <article-title>Cytokines production and toll-like receptors expression in human leukemic monocyte cells, THP-1, stimulated with <italic>Brucella abortus</italic> cellular antigens</article-title>. <source>Microb. Pathog.</source>
+<volume>122</volume>, <fpage>7</fpage>&#x2013;<lpage>12</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2018.06.007</pub-id>
+<pub-id pub-id-type="pmid">29883656</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B65">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacob</surname><given-names>J.</given-names></name><name><surname>Makou</surname><given-names>P.</given-names></name><name><surname>Finke</surname><given-names>A.</given-names></name><name><surname>Mielke</surname><given-names>M.</given-names></name></person-group> (<year>2016</year>). <article-title>Inflammatory response of TLR4 deficient spleen macrophages (CRL 2471) to <italic>Brucella abortus</italic> S19 and an isogenic &#x394;mglA deletion mutant</article-title>. <source>Int. J. Med. Microbiol.</source>
+<volume>306</volume> (<issue>3</issue>), <fpage>141</fpage>&#x2013;<lpage>151</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.ijmm.2016.02.006</pub-id>
+<pub-id pub-id-type="pmid">26946956</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B66">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jakka</surname><given-names>P.</given-names></name><name><surname>Bhargavi</surname><given-names>B.</given-names></name><name><surname>Namani</surname><given-names>S.</given-names></name><name><surname>Murugan</surname><given-names>S.</given-names></name><name><surname>Splitter</surname><given-names>G.</given-names></name><name><surname>Radhakrishnan</surname><given-names>G.</given-names></name></person-group> (<year>2018</year>). <article-title>Cytoplasmic linker protein CLIP170 negatively regulates TLR4 signaling by targeting the TLR adaptor protein TIRAP</article-title>. <source>J. Immunol.</source>
+<volume>200</volume> (<issue>2</issue>), <fpage>704</fpage>&#x2013;<lpage>714</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.1601559</pub-id>
+<pub-id pub-id-type="pmid">29222167</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B67">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jakka</surname><given-names>P.</given-names></name><name><surname>Namani</surname><given-names>S.</given-names></name><name><surname>Murugan</surname><given-names>S.</given-names></name><name><surname>Rai</surname><given-names>N.</given-names></name><name><surname>Radhakrishnan</surname><given-names>G.</given-names></name></person-group> (<year>2017</year>). <article-title>The <italic>Brucella</italic> effector protein TcpB induces degradation of inflammatory caspases and thereby subverts non-canonical inflammasome activation in macrophages</article-title>. <source>J. Biol. Chem.</source>
+<volume>292</volume> (<issue>50</issue>), <fpage>20613</fpage>&#x2013;<lpage>20627</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1074/jbc.M117.815878</pub-id>
+<pub-id pub-id-type="pmid">29061850</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B68">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jalal</surname><given-names>K.</given-names></name><name><surname>Khan</surname><given-names>K.</given-names></name><name><surname>Uddin</surname><given-names>R.</given-names></name></person-group> (<year>2023</year>). <article-title>Immunoinformatic-guided designing of multi-epitope vaccine construct against Brucella Suis 1300</article-title>. <source>Immunol. Res.</source>
+<volume>71</volume> (<issue>2</issue>), <fpage>247</fpage>&#x2013;<lpage>266</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/s12026-022-09346-0</pub-id>
+<pub-id pub-id-type="pmid">36459272</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B69">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jiao</surname><given-names>H.</given-names></name><name><surname>Zhou</surname><given-names>Z.</given-names></name><name><surname>Li</surname><given-names>B.</given-names></name><name><surname>Xiao</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>M.</given-names></name><name><surname>Zeng</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2021</year>). <article-title>The mechanism of facultative intracellular parasitism of brucella</article-title>. <source>Int. J. Mol. Sci.</source>
+<volume>22</volume> (<issue>7</issue>), <elocation-id>3673</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3390/ijms22073673</pub-id>
+<pub-id pub-id-type="pmid">33916050</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B70">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jim&#xE9;nez de Bag&#xFC;&#xE9;s</surname><given-names>M. P.</given-names></name><name><surname>Gross</surname><given-names>A.</given-names></name><name><surname>Terraza</surname><given-names>A.</given-names></name><name><surname>Dornand</surname><given-names>J.</given-names></name></person-group> (<year>2005</year>). <article-title>Regulation of the mitogen-activated protein kinases by Brucella spp. expressing a smooth and rough phenotype: relationship to pathogen invasiveness</article-title>. <source>Infect. Immun.</source>
+<volume>73</volume> (<issue>5</issue>), <fpage>3178</fpage>&#x2013;<lpage>3183</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.73.5.3178-3183.2005</pub-id>
+<pub-id pub-id-type="pmid">15845529</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B71">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawasaki</surname><given-names>T.</given-names></name><name><surname>Kawai</surname><given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Toll-like receptor signaling pathways</article-title>. <source>Front. Immunol.</source>
+<volume>5</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fimmu.2014.00461</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B72">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ke</surname><given-names>Y.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Yang</surname><given-names>M.</given-names></name><name><surname>Guo</surname><given-names>J.</given-names></name><name><surname>Zhan</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Inhibition of TLR4 signaling by Brucella TIR-containing protein TcpB-derived decoy peptides</article-title>. <source>Int. J. Med. Microbiol.</source>
+<volume>306</volume> (<issue>6</issue>), <fpage>391</fpage>&#x2013;<lpage>400</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.ijmm.2016.05.003</pub-id>
+<pub-id pub-id-type="pmid">27289452</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B73">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>S.</given-names></name><name><surname>Watarai</surname><given-names>M.</given-names></name><name><surname>Suzuki</surname><given-names>H.</given-names></name><name><surname>Makino</surname><given-names>S.</given-names></name><name><surname>Kodama</surname><given-names>T.</given-names></name><name><surname>Shirahata</surname><given-names>T.</given-names></name></person-group> (<year>2004</year>). <article-title>Lipid raft microdomains mediate class A scavenger receptor-dependent infection of Brucella abortus</article-title>. <source>Microb. Pathog.</source>
+<volume>37</volume> (<issue>1</issue>), <fpage>11</fpage>&#x2013;<lpage>19</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2004.04.002</pub-id>
+<pub-id pub-id-type="pmid">15194155</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B74">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kornilov</surname><given-names>F. D.</given-names></name><name><surname>Shabalkina</surname><given-names>A. V.</given-names></name><name><surname>Lin</surname><given-names>C.</given-names></name><name><surname>Volynsky</surname><given-names>P. E.</given-names></name><name><surname>Kot</surname><given-names>E. F.</given-names></name><name><surname>Kayushin</surname><given-names>A. L.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>The architecture of transmembrane and cytoplasmic juxtamembrane regions of Toll-like receptors</article-title>. <source>Nat. Commun.</source>
+<volume>14</volume> (<issue>1</issue>), <fpage>1503</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/s41467-023-37042-6</pub-id>
+<pub-id pub-id-type="pmid">36932058</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B75">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>V.</given-names></name><name><surname>Barrett</surname><given-names>J. E.</given-names></name></person-group> (<year>2022</year>). <article-title>Toll-like receptors (TLRs) in health and disease: An overview</article-title>. <source>Handb. Exp. Pharmacol.</source>
+<volume>276</volume>, <fpage>1</fpage>&#x2013;<lpage>21</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/164_2021_568</pub-id>
+<pub-id pub-id-type="pmid">35091824</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B76">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>H.</given-names></name><name><surname>Kawai</surname><given-names>T.</given-names></name><name><surname>Akira</surname><given-names>S.</given-names></name></person-group> (<year>2011</year>). <article-title>Pathogen recognition by the innate immune system</article-title>. <source>Int. Rev. Immunol.</source>
+<volume>30</volume> (<issue>1</issue>), <fpage>16</fpage>&#x2013;<lpage>34</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.3109/08830185.2010.529976</pub-id>
+<pub-id pub-id-type="pmid">21235323</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B77">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kusumawati</surname><given-names>A.</given-names></name><name><surname>Cazevieille</surname><given-names>C.</given-names></name><name><surname>Porte</surname><given-names>F.</given-names></name><name><surname>Bettache</surname><given-names>S.</given-names></name><name><surname>Liautard</surname><given-names>J. P.</given-names></name><name><surname>Sri Widada</surname><given-names>J.</given-names></name></person-group> (<year>2000</year>). <article-title>Early events and implication of F-actin and annexin I associated structures in the phagocytic uptake of <italic>Brucella suis</italic> by the J-774A.1 murine cell line and human monocytes</article-title>. <source>Microb. Pathog.</source>
+<volume>28</volume> (<issue>6</issue>), <fpage>343</fpage>&#x2013;<lpage>352</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1006/mpat.2000.0354</pub-id>
+<pub-id pub-id-type="pmid">10839971</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B78">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>K. M.</given-names></name><name><surname>Chiu</surname><given-names>K. B.</given-names></name><name><surname>Sansing</surname><given-names>H. A.</given-names></name><name><surname>Didier</surname><given-names>P. J.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>A. M.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Aerosol-induced brucellosis increases TLR-2 expression and increased complexity in the microanatomy of astroglia in rhesus macaques</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>3</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2013.00086</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B79">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>J. J.</given-names></name><name><surname>Kim</surname><given-names>D. H.</given-names></name><name><surname>Kim</surname><given-names>D. G.</given-names></name><name><surname>Lee</surname><given-names>H. J.</given-names></name><name><surname>Min</surname><given-names>W.</given-names></name><name><surname>Rhee</surname><given-names>M. H.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Toll-like receptor 4-linked Janus kinase 2 signaling contributes to internalization of <italic>Brucella abortus</italic> by macrophages</article-title>. <source>Infect. Immun.</source>
+<volume>81</volume> (<issue>7</issue>), <fpage>2448</fpage>&#x2013;<lpage>2458</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/IAI.00403-13</pub-id>
+<pub-id pub-id-type="pmid">23630962</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B80">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J. Y.</given-names></name><name><surname>Liu</surname><given-names>Y.</given-names></name><name><surname>Gao</surname><given-names>X. X.</given-names></name><name><surname>Gao</surname><given-names>X.</given-names></name><name><surname>Cai</surname><given-names>H.</given-names></name></person-group> (<year>2014</year>). <article-title>TLR2 and TLR4 signaling pathways are required for recombinant <italic>Brucella abortus</italic> BCSP31-induced cytokine production, functional upregulation of mouse macrophages, and the Th1 immune response in <italic>vivo</italic> and in <italic>vitro</italic>
+</article-title>. <source>Cell Mol. Immunol.</source>
+<volume>11</volume> (<issue>5</issue>), <fpage>477</fpage>&#x2013;<lpage>494</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/cmi.2014.28</pub-id>
+<pub-id pub-id-type="pmid">24769793</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B81">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>G.</given-names></name><name><surname>Lv</surname><given-names>D.</given-names></name><name><surname>Yao</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Deng</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2021</year>). <article-title>Overexpression of ASMT likely enhances the resistance of transgenic sheep to brucellosis by influencing immune-related signaling pathways and gut microbiota</article-title>. <source>FASEB J.</source>
+<volume>35</volume> (<issue>9</issue>), <elocation-id>e21783</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1096/fj.202100651R</pub-id>
+<pub-id pub-id-type="pmid">34403510</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B82">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>G.</given-names></name><name><surname>Zhi</surname><given-names>F.</given-names></name><name><surname>Zhai</surname><given-names>Y.</given-names></name><name><surname>Zhou</surname><given-names>D.</given-names></name><name><surname>Chen</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>BtpB inhibits innate inflammatory responses in goat alveolar macrophages through the TLR/NF-&#x3BA;B pathway and NLRP3 inflammasome during <italic>Brucella</italic> infection</article-title>. <source>Microb. Pathog.</source>
+<volume>166</volume>, <elocation-id>105536</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2022.105536</pub-id>
+<pub-id pub-id-type="pmid">35439555</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B83">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>M.</given-names></name><name><surname>Zhu</surname><given-names>Y.</given-names></name><name><surname>Niu</surname><given-names>C.</given-names></name><name><surname>Xie</surname><given-names>X.</given-names></name><name><surname>Haimiti</surname><given-names>G.</given-names></name><name><surname>Guo</surname><given-names>W.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>Design of a multi-epitope vaccine candidate against <italic>Brucella melitensis</italic>
+</article-title>. <source>Sci. Rep.</source>
+<volume>12</volume> (<issue>1</issue>), <fpage>10146</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/s41598-022-14427-z</pub-id>
+<pub-id pub-id-type="pmid">35710873</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B84">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>N.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Sun</surname><given-names>C.</given-names></name><name><surname>Yang</surname><given-names>L.</given-names></name><name><surname>Tang</surname><given-names>B.</given-names></name><name><surname>Sun</surname><given-names>W.</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>Macrophage activation induced by <italic>Brucella</italic> DNA suppresses bacterial intracellular replication via enhancing NO production</article-title>. <source>Microb. Pathog.</source>
+<volume>89</volume>, <fpage>177</fpage>&#x2013;<lpage>183</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2015.10.011</pub-id>
+<pub-id pub-id-type="pmid">26523973</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B85">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luchner</surname><given-names>M.</given-names></name><name><surname>Reinke</surname><given-names>S.</given-names></name><name><surname>Milicic</surname><given-names>A.</given-names></name></person-group> (<year>2021</year>). <article-title>TLR agonists as vaccine adjuvants targeting cancer and infectious diseases</article-title>. <source>Pharmaceutics.</source>
+<volume>13</volume> (<issue>2</issue>), <elocation-id>142</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3390/pharmaceutics13020142</pub-id>
+<pub-id pub-id-type="pmid">33499143</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B86">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ma</surname><given-names>Q. L.</given-names></name><name><surname>Liu</surname><given-names>A. C.</given-names></name><name><surname>Ma</surname><given-names>X. J.</given-names></name><name><surname>Wang</surname><given-names>Y. B.</given-names></name><name><surname>Hou</surname><given-names>Y. T.</given-names></name><name><surname>Wang</surname><given-names>Z. H.</given-names></name></person-group> (<year>2015</year>). <article-title>
+<italic>Brucella</italic> outer membrane protein Omp25 induces microglial cells in <italic>vitro</italic> to secrete inflammatory cytokines and inhibit apoptosis</article-title>. <source>Int. J. Clin. Exp. Med.</source>
+<volume>8</volume> (<issue>10</issue>), <fpage>17530</fpage>&#x2013;<lpage>17535</lpage>.<pub-id pub-id-type="pmid">26770344</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B87">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macedo</surname><given-names>G. C.</given-names></name><name><surname>Magnani</surname><given-names>D. M.</given-names></name><name><surname>Carvalho</surname><given-names>N. B.</given-names></name><name><surname>Bruna-Romero</surname><given-names>O.</given-names></name><name><surname>Gazzinelli</surname><given-names>R. T.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name></person-group> (<year>2008</year>). <article-title>Central role of MyD88-dependent dendritic cell maturation and proinflammatory cytokine production to control <italic>Brucella abortus</italic> infection</article-title>. <source>J.&#xA0;Immunol.</source>
+<volume>2180</volume> (<issue>2</issue>), <fpage>1080</fpage>&#x2013;<lpage>1087</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.180.2.1080</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B88">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malik</surname><given-names>M.</given-names></name><name><surname>Khan</surname><given-names>S.</given-names></name><name><surname>Ullah</surname><given-names>A.</given-names></name><name><surname>Hassan</surname><given-names>M.</given-names></name><name><surname>Haq</surname><given-names>M. U.</given-names></name><name><surname>Ahmad</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Proteome-wide screening of potential vaccine targets against <italic>Brucella melitensis</italic>
+</article-title>. <source>Vaccines (Basel).</source>
+<volume>11</volume> (<issue>2</issue>), <elocation-id>263</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3390/vaccines11020263</pub-id>
+<pub-id pub-id-type="pmid">36851141</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B89">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martirosyan</surname><given-names>A.</given-names></name><name><surname>Gorvel</surname><given-names>J. P.</given-names></name></person-group> (<year>2013</year>). <article-title>
+<italic>Brucella</italic> evasion of adaptive immunity</article-title>. <source>Future Microbiol.</source>
+<volume>8</volume> (<issue>2</issue>), <fpage>147</fpage>&#x2013;<lpage>154</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.2217/fmb.12.140</pub-id>
+<pub-id pub-id-type="pmid">23374122</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B90">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martirosyan</surname><given-names>A.</given-names></name><name><surname>P&#xE9;rez-Gutierrez</surname><given-names>C.</given-names></name><name><surname>Banchereau</surname><given-names>R.</given-names></name><name><surname>Dutartre</surname><given-names>H.</given-names></name><name><surname>Lecine</surname><given-names>P.</given-names></name><name><surname>Dullaers</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>
+<italic>Brucella</italic> &#x3B2; 1,2 cyclic glucan is an activator of human and mouse dendritic cells</article-title>. <source>PloS Pathog.</source>
+<volume>8</volume> (<issue>11</issue>), <elocation-id>e1002983</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1002983</pub-id>
+<pub-id pub-id-type="pmid">23166489</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B91">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matamoros-Recio</surname><given-names>A.</given-names></name><name><surname>Merino</surname><given-names>J.</given-names></name><name><surname>Gallego-Jim&#xE9;nez</surname><given-names>A.</given-names></name><name><surname>Conde-Alvarez</surname><given-names>R.</given-names></name><name><surname>Fresno</surname><given-names>M.</given-names></name><name><surname>Mart&#xED;n-Santamar&#xED;a</surname><given-names>S.</given-names></name></person-group> (<year>2023</year>). <article-title>Immune evasion through Toll-like receptor 4: The role of the core oligosaccharides from &#x3B1;2-Proteobacteria atypical lipopolysaccharides</article-title>. <source>Carbohydr Polym.</source>
+<volume>318</volume>, <elocation-id>121094</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.carbpol.2023.121094</pub-id>
+<pub-id pub-id-type="pmid">37479429</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B92">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milillo</surname><given-names>M. A.</given-names></name><name><surname>Vel&#xE1;squez</surname><given-names>L. N.</given-names></name><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Marinho</surname><given-names>F. V.</given-names></name><name><surname>Balboa</surname><given-names>L.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>
+<italic>B. abortus</italic> RNA is the component involved in the down-modulation of MHC-I expression on human monocytes via TLR8 and the EGFR pathway</article-title>. <source>PloS Pathog.</source>
+<volume>13</volume> (<issue>8</issue>), <elocation-id>e1006527</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.1006527</pub-id>
+<pub-id pub-id-type="pmid">28767704</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B93">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>C. N.</given-names></name><name><surname>Smith</surname><given-names>E. P.</given-names></name><name><surname>Cundiff</surname><given-names>J. A.</given-names></name><name><surname>Knodler</surname><given-names>L. A.</given-names></name><name><surname>Bailey Blackburn</surname><given-names>J.</given-names></name><name><surname>Lupashin</surname><given-names>V.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>A <italic>Brucella</italic> type IV effector targets the COG tethering complex to remodel host secretory traffic and promote intracellular replication</article-title>. <source>Cell Host Microbe</source>
+<volume>22</volume> (<issue>3</issue>), <fpage>317</fpage>&#x2013;<lpage>329.e7</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.chom.2017.07.017</pub-id>
+<pub-id pub-id-type="pmid">28844886</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B94">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murugan</surname><given-names>S.</given-names></name><name><surname>Nandi</surname><given-names>B. R.</given-names></name><name><surname>Mazumdar</surname><given-names>V.</given-names></name><name><surname>Joshi</surname><given-names>K.</given-names></name><name><surname>Nandini</surname><given-names>P.</given-names></name><name><surname>Namani</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Outer membrane protein 25 of Brucella suppresses TLR-mediated expression of proinflammatory cytokines through degradation of TLRs and adaptor proteins</article-title>. <source>J. Biol. Chem.</source>
+<volume>299</volume> (<issue>11</issue>), <elocation-id>105309</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.jbc.2023.105309</pub-id>
+<pub-id pub-id-type="pmid">37778729</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B95">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nilsen</surname><given-names>K. E.</given-names></name><name><surname>Zhang</surname><given-names>B.</given-names></name><name><surname>Skjesol</surname><given-names>A.</given-names></name><name><surname>Ryan</surname><given-names>L.</given-names></name><name><surname>Vagle</surname><given-names>H.</given-names></name><name><surname>B&#xF8;e</surname><given-names>M. H.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Peptide derived from SLAMF1 prevents TLR4-mediated inflammation in <italic>vitro</italic> and in <italic>vivo</italic>
+</article-title>. <source>Life Sci. Alliance.</source>
+<volume>6</volume> (<issue>12</issue>), <elocation-id>e202302164</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.26508/lsa.202302164</pub-id>
+<pub-id pub-id-type="pmid">37788908</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B96">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>S. C.</given-names></name><name><surname>de Oliveira</surname><given-names>F. S.</given-names></name><name><surname>Macedo</surname><given-names>G. C.</given-names></name><name><surname>de Almeida</surname><given-names>L. A.</given-names></name><name><surname>Carvalho</surname><given-names>N. B.</given-names></name></person-group> (<year>2008</year>). <article-title>The role of innate immune receptors in the control of <italic>Brucella abortus</italic> infection: toll-like receptors and beyond</article-title>. <source>Microbes Infect.</source>
+<volume>10</volume> (<issue>9</issue>), <fpage>1005</fpage>&#x2013;<lpage>1009</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2008.07.005</pub-id>
+<pub-id pub-id-type="pmid">18664388</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B97">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>S. C.</given-names></name><name><surname>Harms</surname><given-names>J. S.</given-names></name><name><surname>Rech</surname><given-names>E. L.</given-names></name><name><surname>Rodarte</surname><given-names>R. S.</given-names></name><name><surname>Bocca</surname><given-names>A. L.</given-names></name><name><surname>Goes</surname><given-names>A. M.</given-names></name><etal/></person-group>. (<year>1998</year>). <article-title>The role of T cell subsets and cytokines in the regulation of intracellular bacterial infection</article-title>. <source>Braz. J. Med. Biol. Res.</source>
+<volume>31</volume> (<issue>1</issue>), <fpage>77</fpage>&#x2013;<lpage>84</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1590/s0100-879x1998000100010</pub-id>
+<pub-id pub-id-type="pmid">9686182</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B98">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parihar</surname><given-names>S. P.</given-names></name><name><surname>Guler</surname><given-names>R.</given-names></name><name><surname>Brombacher</surname><given-names>F.</given-names></name></person-group> (<year>2019</year>). <article-title>Statins: a viable candidate for host-directed therapy against infectious diseases</article-title>. <source>Nat. Rev. Immunol.</source>
+<volume>19</volume> (<issue>2</issue>), <fpage>104</fpage>&#x2013;<lpage>117</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/s41577-018-0094-3</pub-id>
+<pub-id pub-id-type="pmid">30487528</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B99">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>K. A.</given-names></name><name><surname>Carabajal</surname><given-names>M. V.</given-names></name><name><surname>Guaimas</surname><given-names>F. F.</given-names></name><name><surname>Bruno</surname><given-names>L.</given-names></name><name><surname>Roset</surname><given-names>M. S.</given-names></name><name><surname>Coria</surname><given-names>L. M.</given-names></name><etal/></person-group>. (<year>2019</year>
+<elocation-id>1436</elocation-id>). <article-title>Omp19 enables <italic>Brucella abortus</italic> to evade the antimicrobial activity from host's proteolytic defense system</article-title>. <source>Front. Immunol.</source>
+<volume>10</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fimmu.2019.01436</pub-id>
+<pub-id pub-id-type="pmid">31297115</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B100">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>K. A.</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C.</given-names></name><name><surname>Coria</surname><given-names>L. M.</given-names></name><name><surname>Estein</surname><given-names>S. M.</given-names></name><name><surname>Zwerdling</surname><given-names>A.</given-names></name><name><surname>Iba&#xF1;ez</surname><given-names>A. E.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>The protein moiety of <italic>Brucella abortus</italic> outer membrane protein 16 is a new bacterial pathogen-associated molecular pattern that activates dendritic cells in <italic>vivo</italic>, induces a Th1 immune response, and is a promising self-adjuvanting vaccine against systemic and oral acquired brucellosis</article-title>. <source>J. Immunol.</source>
+<volume>184</volume> (<issue>9</issue>), <fpage>5200</fpage>&#x2013;<lpage>5212</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.0902209</pub-id>
+<pub-id pub-id-type="pmid">20351187</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B101">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pei</surname><given-names>J.</given-names></name><name><surname>Ding</surname><given-names>X.</given-names></name><name><surname>Fan</surname><given-names>Y.</given-names></name><name><surname>Rice-Ficht</surname><given-names>A.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name></person-group> (<year>2012</year>). <article-title>Toll-like receptors are critical for clearance of Brucella and play different roles in development of adaptive immunity following aerosol challenge in mice</article-title>. <source>Front. Cell Infect. Microbiol.</source>
+<volume>2</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fcimb.2012.00115</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B102">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pei</surname><given-names>J.</given-names></name><name><surname>Turse</surname><given-names>J. E.</given-names></name><name><surname>Ficht</surname><given-names>T. A.</given-names></name></person-group> (<year>2008</year>). <article-title>Evidence of <italic>Brucella abortus</italic> OPS dictating uptake and restricting NF-kappaB activation in murine macrophages</article-title>. <source>Microbes Infect.</source>
+<volume>10</volume> (<issue>6</issue>), <fpage>582</fpage>&#x2013;<lpage>590</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2008.01.005</pub-id>
+<pub-id pub-id-type="pmid">18457975</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B103">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peng</surname><given-names>Y.</given-names></name><name><surname>Bai</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Yu</surname><given-names>H.</given-names></name></person-group> (<year>2021</year>). <article-title>TLR9/NF-kB pathway regulates <italic>Brucella</italic> CpG DNA-mediated cytokine response in human peripheral blood mononuclear cells</article-title>. <source>Iran J. Immunol.</source>
+<volume>18</volume> (<issue>4</issue>), <fpage>268</fpage>&#x2013;<lpage>278</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.22034/IJI.2021.84578.1665</pub-id>
+<pub-id pub-id-type="pmid">34931613</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B104">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perkins</surname><given-names>S. D.</given-names></name><name><surname>Smither</surname><given-names>S. J.</given-names></name><name><surname>Atkins</surname><given-names>H. S.</given-names></name></person-group> (<year>2010</year>). <article-title>Towards a <italic>Brucella</italic> vaccine for humans</article-title>. <source>FEMS Microbiol. Rev.</source>
+<volume>34</volume> (<issue>3</issue>), <fpage>379</fpage>&#x2013;<lpage>394</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00211.x</pub-id>
+<pub-id pub-id-type="pmid">20180858</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B105">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pollak</surname><given-names>C. N.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Fossati</surname><given-names>C. A.</given-names></name><name><surname>Baldi</surname><given-names>P. C.</given-names></name></person-group> (<year>2012</year>). <article-title>Outer membrane vesicles from <italic>Brucella abortus</italic> promote bacterial internalization by human monocytes and modulate their innate immune response</article-title>. <source>PloS One</source>
+<volume>7</volume> (<issue>11</issue>), <elocation-id>e50214</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0050214</pub-id>
+<pub-id pub-id-type="pmid">23189190</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B106">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radhakrishnan</surname><given-names>G. K.</given-names></name><name><surname>Harms</surname><given-names>J. S.</given-names></name><name><surname>Splitter</surname><given-names>G. A.</given-names></name></person-group> (<year>2011</year>). <article-title>Modulation of microtubule dynamics by a TIR domain protein from the intracellular pathogen Brucella melitensis</article-title>. <source>Biochem. J.</source>
+<volume>439</volume> (<issue>1</issue>), <fpage>79</fpage>&#x2013;<lpage>83</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1042/BJ20110577</pub-id>
+<pub-id pub-id-type="pmid">21692747</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B107">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radhakrishnan</surname><given-names>G. K.</given-names></name><name><surname>Splitter</surname><given-names>G. A.</given-names></name></person-group> (<year>2010</year>). <article-title>Biochemical and functional analysis of TIR domain containing protein from <italic>Brucella melitensis</italic>
+</article-title>. <source>Biochem. Biophys. Res. Commun.</source>
+<volume>397</volume> (<issue>1</issue>), <fpage>59</fpage>&#x2013;<lpage>63</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.bbrc.2010.05.056</pub-id>
+<pub-id pub-id-type="pmid">20471373</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B108">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radhakrishnan</surname><given-names>G. K.</given-names></name><name><surname>Yu</surname><given-names>Q.</given-names></name><name><surname>Harms</surname><given-names>J. S.</given-names></name><name><surname>Splitter</surname><given-names>G. A.</given-names></name></person-group> (<year>2009</year>). <article-title>
+<italic>Brucella</italic> TIR domain-containing protein mimics properties of the Toll-like receptor adaptor protein TIRAP</article-title>. <source>J. Biol. Chem.</source>
+<volume>284</volume> (<issue>15</issue>), <fpage>9892</fpage>&#x2013;<lpage>9898</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1074/jbc.M805458200</pub-id>
+<pub-id pub-id-type="pmid">19196716</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B109">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rahimnahal</surname><given-names>S.</given-names></name><name><surname>Yousefizadeh</surname><given-names>S.</given-names></name><name><surname>Mohammadi</surname><given-names>Y.</given-names></name></person-group> (<year>2023</year>). <article-title>Novel multi-epitope vaccine against bovine brucellosis: approach from immunoinformatics to expression</article-title>. <source>J.&#xA0;Biomol Struct. Dyn.</source>
+<volume>16</volume>, <fpage>1</fpage>&#x2013;<lpage>25</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1080/07391102.2023.2188962</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B110">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rana</surname><given-names>R. R.</given-names></name><name><surname>Zhang</surname><given-names>M.</given-names></name><name><surname>Spear</surname><given-names>A. M.</given-names></name><name><surname>Atkins</surname><given-names>H. S.</given-names></name><name><surname>Byrne</surname><given-names>B.</given-names></name></person-group> (<year>2013</year>). <article-title>Bacterial TIR-containing proteins and host innate immune system evasion</article-title>. <source>Med. Microbiol. Immunol.</source>
+<volume>202</volume> (<issue>1</issue>), <fpage>1</fpage>&#x2013;<lpage>10</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1007/s00430-012-0253-2</pub-id>
+<pub-id pub-id-type="pmid">22772799</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B111">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Retamal-D&#xED;az</surname><given-names>A.</given-names></name><name><surname>Riquelme-Neira</surname><given-names>R.</given-names></name><name><surname>S&#xE1;ez</surname><given-names>D.</given-names></name><name><surname>Rivera</surname><given-names>A.</given-names></name><name><surname>Fern&#xE1;ndez</surname><given-names>P.</given-names></name><name><surname>Cabrera</surname><given-names>A.</given-names></name><etal/></person-group>. (<year>2014</year>). <article-title>Use of S-[2,3-bispalmitoyiloxy-(2R)-propyl]- R-cysteinyl-amido-monomethoxy polyethylene glycol as an adjuvant improved protective immunity associated with a DNA vaccine encoding Cu, Zn superoxide dismutase of <italic>Brucella abortus</italic> in mice</article-title>. <source>Clin. Vaccine Immunol.</source>
+<volume>21</volume> (<issue>11</issue>), <fpage>1474</fpage>&#x2013;<lpage>1480</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/CVI.00554-14</pub-id>
+<pub-id pub-id-type="pmid">25165025</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B112">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rodr&#xED;guez</surname><given-names>A. M.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Miraglia</surname><given-names>M. C.</given-names></name><name><surname>Costa Franco</surname><given-names>M. M.</given-names></name><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Dennis</surname><given-names>V. A.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>
+<italic>Brucella abortus</italic>-activated microglia induce neuronal death through primary phagocytosis</article-title>. <source>Glia.</source>
+<volume>65</volume> (<issue>7</issue>), <fpage>1137</fpage>&#x2013;<lpage>1151</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1002/glia.23149</pub-id>
+<pub-id pub-id-type="pmid">28398652</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B113">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sadeghi</surname><given-names>Z.</given-names></name><name><surname>Fasihi-Ramandi</surname><given-names>M.</given-names></name><name><surname>Davoudi</surname><given-names>Z.</given-names></name><name><surname>Bouzari</surname><given-names>S.</given-names></name></person-group> (<year>2023</year>). <article-title>Multi-epitope vaccine candidates associated with mannosylated chitosan and LPS conjugated chitosan nanoparticles against <italic>Brucella</italic> infection</article-title>. <source>J. Pharm. Sci.</source>
+<volume>112</volume> (<issue>4</issue>), <fpage>991</fpage>&#x2013;<lpage>999</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.xphs.2022.12.025</pub-id>
+<pub-id pub-id-type="pmid">36623693</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B114">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sakaniwa</surname><given-names>K.</given-names></name><name><surname>Fujimura</surname><given-names>A.</given-names></name><name><surname>Shibata</surname><given-names>T.</given-names></name><name><surname>Shigematsu</surname><given-names>H.</given-names></name><name><surname>Ekimoto</surname><given-names>T.</given-names></name><name><surname>Yamamoto</surname><given-names>M.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction</article-title>. <source>Nat. Commun.</source>
+<volume>14</volume> (<issue>1</issue>), <fpage>164</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/s41467-023-35844-2</pub-id>
+<pub-id pub-id-type="pmid">36631495</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B115">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salcedo</surname><given-names>S. P.</given-names></name><name><surname>Marchesini</surname><given-names>M. I.</given-names></name><name><surname>Lelouard</surname><given-names>H.</given-names></name><name><surname>Fugier</surname><given-names>E.</given-names></name><name><surname>Jolly</surname><given-names>G.</given-names></name><name><surname>Balor</surname><given-names>S.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>
+<italic>Brucella</italic> control of dendritic cell maturation is dependent on the TIR-containing protein Btp1</article-title>. <source>PloS Pathog.</source>
+<volume>4</volume> (<issue>2</issue>), <fpage>e21</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.ppat.0040021</pub-id>
+<pub-id pub-id-type="pmid">18266466</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B116">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanjeewa</surname><given-names>K. K. A.</given-names></name><name><surname>Nagahawatta</surname><given-names>D. P.</given-names></name><name><surname>Yang</surname><given-names>H. W.</given-names></name><name><surname>Oh</surname><given-names>J. Y.</given-names></name><name><surname>Jayawardena</surname><given-names>T. U.</given-names></name><name><surname>Jeon</surname><given-names>Y. J.</given-names></name><etal/></person-group>. (<year>2020</year>). <article-title>Octominin inhibits LPS-induced chemokine and pro-inflammatory cytokine secretion from RAW 264.7 macrophages via blocking TLRs/NF-&#x3BA;B signal transduction</article-title>. <source>Biomolecules.</source>
+<volume>10</volume> (<issue>4</issue>), <elocation-id>511</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.3390/biom10040511</pub-id>
+<pub-id pub-id-type="pmid">32230927</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B117">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saqib</surname><given-names>U.</given-names></name><name><surname>Baig</surname><given-names>M. S.</given-names></name></person-group> (<year>2019</year>). <article-title>Scaffolding role of TcpB in disrupting TLR4-Mal interactions: Three to tango</article-title>. <source>J. Cell Biochem.</source>
+<volume>120</volume> (<issue>3</issue>), <fpage>3455</fpage>&#x2013;<lpage>3458</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1002/jcb.27619</pub-id>
+<pub-id pub-id-type="pmid">30242887</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B118">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sengupta</surname><given-names>D.</given-names></name><name><surname>Koblansky</surname><given-names>A.</given-names></name><name><surname>Gaines</surname><given-names>J.</given-names></name><name><surname>Brown</surname><given-names>T.</given-names></name><name><surname>West</surname><given-names>A. P.</given-names></name><name><surname>Zhang</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2010</year>). <article-title>Subversion of innate immune responses by Brucella through the targeted degradation of the TLR signaling adapter, MAL</article-title>. <source>J. Immunol.</source>
+<volume>184</volume> (<issue>2</issue>), <fpage>956</fpage>&#x2013;<lpage>964</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.4049/jimmunol.0902008</pub-id>
+<pub-id pub-id-type="pmid">20018612</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B119">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shim</surname><given-names>S.</given-names></name><name><surname>Park</surname><given-names>H. E.</given-names></name><name><surname>Soh</surname><given-names>S. H.</given-names></name><name><surname>Im</surname><given-names>Y. B.</given-names></name><name><surname>Yoo</surname><given-names>H. S.</given-names></name></person-group> (<year>2020</year>). <article-title>Induction of Th2 response through TLR2-mediated MyD88-dependent pathway in human microfold cells stimulated with chitosan nanoparticles loaded with <italic>Brucella abortus Mdh</italic>
+</article-title>. <source>Microb. Pathog.</source>
+<volume>142</volume>, <elocation-id>104040</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micpath.2020.104040</pub-id>
+<pub-id pub-id-type="pmid">32032767</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B120">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skendros</surname><given-names>P.</given-names></name><name><surname>Boura</surname><given-names>P.</given-names></name></person-group> (<year>2013</year>). <article-title>Immunity to brucellosis</article-title>. <source>Rev. Sci. Tech.</source>
+<volume>32</volume> (<issue>1</issue>), <fpage>137</fpage>&#x2013;<lpage>147</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.20506/rst.32.1.2190</pub-id>
+<pub-id pub-id-type="pmid">23837372</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B121">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skendros</surname><given-names>P.</given-names></name><name><surname>Pappas</surname><given-names>G.</given-names></name><name><surname>Boura</surname><given-names>P.</given-names></name></person-group> (<year>2011</year>). <article-title>Cell-mediated immunity in human brucellosis</article-title>. <source>Microbes Infect.</source>
+<volume>13</volume> (<issue>2</issue>), <fpage>134</fpage>&#x2013;<lpage>142</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2010.10.015</pub-id>
+<pub-id pub-id-type="pmid">21034846</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B122">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>E. P.</given-names></name><name><surname>Miller</surname><given-names>C. N.</given-names></name><name><surname>Child</surname><given-names>R.</given-names></name><name><surname>Cundiff</surname><given-names>J. A.</given-names></name><name><surname>Celli</surname><given-names>J.</given-names></name></person-group> (<year>2016</year>). <article-title>Postreplication roles of the <italic>Brucella</italic> VirB type IV secretion system uncovered via conditional expression of the VirB11 ATPase</article-title>. <source>mBio.</source>
+<volume>7</volume> (<issue>6</issue>), <elocation-id>e01730-16</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1128/mBio.01730-16</pub-id>
+<pub-id pub-id-type="pmid">27899503</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B123">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spink</surname><given-names>W. W.</given-names></name><name><surname>Hall</surname><given-names>J. W.</given-names></name><name><surname>Finstad</surname><given-names>J.</given-names></name><name><surname>Mallet</surname><given-names>E.</given-names></name></person-group> (<year>1962</year>). <article-title>Immunization with viable Brucella organisms. Results of a safety test in humans</article-title>. <source>Bull. World Health Organ.</source>
+<volume>26</volume> (<issue>3</issue>), <fpage>409</fpage>&#x2013;<lpage>419</lpage>.<pub-id pub-id-type="pmid">13915813</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B124">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Starr</surname><given-names>T.</given-names></name><name><surname>Child</surname><given-names>R.</given-names></name><name><surname>Wehrly</surname><given-names>T. D.</given-names></name><name><surname>Hansen</surname><given-names>B.</given-names></name><name><surname>Hwang</surname><given-names>S.</given-names></name><name><surname>L&#xF3;pez-Otin</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Selective subversion of autophagy complexes facilitates completion of the Brucella intracellular cycle</article-title>. <source>Cell Host Microbe</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>33</fpage>&#x2013;<lpage>45</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.chom.2011.12.002</pub-id>
+<pub-id pub-id-type="pmid">22264511</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B125">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stranahan</surname><given-names>L. W.</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>A. M.</given-names></name></person-group> (<year>2021</year>). <article-title>When the going gets rough: The significance of <italic>Brucella</italic> lipopolysaccharide phenotype in host-pathogen interactions</article-title>. <source>Front. Microbiol.</source>
+<volume>12</volume>. doi:&#xA0;<pub-id pub-id-type="doi">10.3389/fmicb.2021.713157</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B126">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Surendran</surname><given-names>N.</given-names></name><name><surname>Hiltbold</surname><given-names>E. M.</given-names></name><name><surname>Heid</surname><given-names>B.</given-names></name><name><surname>Akira</surname><given-names>S.</given-names></name><name><surname>Standiford</surname><given-names>T. J.</given-names></name><name><surname>Sriranganathan</surname><given-names>N.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>Role of TLRs in <italic>Brucella</italic> mediated murine DC activation in <italic>vitro</italic> and clearance of pulmonary infection in <italic>vivo</italic>
+</article-title>. <source>Vaccine.</source>
+<volume>30</volume> (<issue>8</issue>), <fpage>1502</fpage>&#x2013;<lpage>1512</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.vaccine.2011.12.036</pub-id>
+<pub-id pub-id-type="pmid">22234268</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B127">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takano</surname><given-names>S.</given-names></name><name><surname>Miyashima</surname><given-names>Y.</given-names></name><name><surname>Fujii</surname><given-names>S.</given-names></name><name><surname>Sakurai</surname><given-names>K.</given-names></name></person-group> (<year>2023</year>). <article-title>Molecular bottlebrushes for immunostimulatory CpG ODN delivery: Relationship among cation density, complex formation ability, and cytotoxicity</article-title>. <source>Biomacromolecules.</source>
+<volume>24</volume> (<issue>3</issue>), <fpage>1299</fpage>&#x2013;<lpage>1309</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1021/acs.biomac.2c01348</pub-id>
+<pub-id pub-id-type="pmid">36762890</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B128">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takeda</surname><given-names>K.</given-names></name><name><surname>Akira</surname><given-names>S.</given-names></name></person-group> (<year>2004</year>). <article-title>Microbial recognition by Toll-like receptors</article-title>. <source>J.&#xA0;Dermatol. Sci.</source>
+<volume>34</volume> (<issue>2</issue>), <fpage>73</fpage>&#x2013;<lpage>82</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.jdermsci.2003.10.002</pub-id>
+<pub-id pub-id-type="pmid">15033189</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B129">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tarrahimofrad</surname><given-names>H.</given-names></name><name><surname>Zamani</surname><given-names>J.</given-names></name><name><surname>Hamblin</surname><given-names>M. R.</given-names></name><name><surname>Darvish</surname><given-names>M.</given-names></name><name><surname>Mirzaei</surname><given-names>H.</given-names></name></person-group> (<year>2022</year>). <article-title>A designed peptide-based vaccine to combat <italic>Brucella melitensis</italic>, <italic>B. suis</italic> and <italic>B. abortus</italic>: Harnessing an epitope mapping and immunoinformatics approach</article-title>. <source>BioMed. Pharmacother.</source>
+<volume>155</volume>, <elocation-id>113557</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.biopha.2022.113557</pub-id>
+<pub-id pub-id-type="pmid">36115112</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B130">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Terwagne</surname><given-names>M.</given-names></name><name><surname>Ferooz</surname><given-names>J.</given-names></name><name><surname>Rol&#xE1;n</surname><given-names>H. G.</given-names></name><name><surname>Sun</surname><given-names>Y. H.</given-names></name><name><surname>Atluri</surname><given-names>V.</given-names></name><name><surname>Xavier</surname><given-names>M. N.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>Innate immune recognition of flagellin limits systemic persistence of <italic>Brucella</italic>
+</article-title>. <source>Cell Microbiol.</source>
+<volume>15</volume> (<issue>6</issue>), <fpage>942</fpage>&#x2013;<lpage>960</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1111/cmi.12088</pub-id>
+<pub-id pub-id-type="pmid">23227931</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B131">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vel&#xE1;squez</surname><given-names>L. N.</given-names></name><name><surname>Milillo</surname><given-names>M. A.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Fern&#xE1;ndez</surname><given-names>P.</given-names></name><name><surname>Pozner</surname><given-names>R. G.</given-names></name><etal/></person-group>. (<year>2017</year>). <article-title>
+<italic>Brucella abortus</italic> down-regulates MHC class II by the IL-6-dependent inhibition of CIITA through the downmodulation of IFN regulatory factor-1 (IRF-1)</article-title>. <source>J.&#xA0;Leukoc. Biol.</source>
+<volume>101</volume> (<issue>3</issue>), <fpage>759</fpage>&#x2013;<lpage>773</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1189/jlb.4A0416-196R</pub-id>
+<pub-id pub-id-type="pmid">27765819</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B132">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Venkataranganayaka Abhilasha</surname><given-names>K.</given-names></name><name><surname>Kedihithlu Marathe</surname><given-names>G.</given-names></name></person-group> (<year>2021</year>). <article-title>Bacterial lipoproteins in sepsis</article-title>. <source>Immunobiology.</source>
+<volume>226</volume> (<issue>5</issue>), <elocation-id>152128</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.imbio.2021.152128</pub-id>
+<pub-id pub-id-type="pmid">34488139</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B133">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vershilova</surname><given-names>P. A.</given-names></name></person-group> (<year>1961</year>). <article-title>The use of live vaccine for vaccination of human beings against brucellosis in the USSR</article-title>. <source>B World Health Organ.</source>
+<volume>24</volume>, <fpage>85</fpage>&#x2013;<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B134">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vieira</surname><given-names>A. L.</given-names></name><name><surname>Silva</surname><given-names>T. M.</given-names></name><name><surname>Mol</surname><given-names>J. P.</given-names></name><name><surname>Oliveira</surname><given-names>S. C.</given-names></name><name><surname>Santos</surname><given-names>R. L.</given-names></name><name><surname>Paix&#xE3;o</surname><given-names>T. A.</given-names></name></person-group> (<year>2013</year>). <article-title>MyD88 and TLR9 are required for early control of <italic>Brucella ovis</italic> infection in mice</article-title>. <source>Res. Vet. Sci.</source>
+<volume>94</volume> (<issue>3</issue>), <fpage>399</fpage>&#x2013;<lpage>405</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.rvsc.2012.10.028</pub-id>
+<pub-id pub-id-type="pmid">23218066</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B135">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vijay</surname><given-names>K.</given-names></name></person-group> (<year>2018</year>). <article-title>Toll-like receptors in immunity and inflammatory diseases: Past, present, and future</article-title>. <source>Int. Immunopharmacol.</source>
+<volume>59</volume>, <fpage>391</fpage>&#x2013;<lpage>412</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.intimp.2018.03.002</pub-id>
+<pub-id pub-id-type="pmid">29730580</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B136">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>K. L.</given-names></name><name><surname>Chen</surname><given-names>S. N.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Huo</surname><given-names>H. J.</given-names></name><name><surname>Nie</surname><given-names>P.</given-names></name></person-group> (<year>2021</year>). <article-title>Functional characterization of four TIR domain-containing adaptors, MyD88, TRIF, MAL, and SARM in mandarin fish <italic>Siniperca chuatsi</italic>
+</article-title>. <source>Dev. Comp. Immunol.</source>
+<volume>122</volume>, <elocation-id>104110</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.dci.2021.104110</pub-id>
+<pub-id pub-id-type="pmid">33933533</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B137">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weinhold</surname><given-names>M.</given-names></name><name><surname>Eisenbl&#xE4;tter</surname><given-names>M.</given-names></name><name><surname>Jasny</surname><given-names>E.</given-names></name><name><surname>Fehlings</surname><given-names>M.</given-names></name><name><surname>Finke</surname><given-names>A.</given-names></name><name><surname>Gayum</surname><given-names>H.</given-names></name><etal/></person-group>. (<year>2013</year>). <article-title>The attenuated <italic>Brucella abortus</italic> strain 19 invades, persists in, and activates human dendritic cells, and induces the secretion of IL-12p70 but not IL-23</article-title>. <source>PloS One</source>
+<volume>8</volume> (<issue>6</issue>), <fpage>e65934</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0065934</pub-id>
+<pub-id pub-id-type="pmid">23805193</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B138">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>West</surname><given-names>A. P.</given-names></name><name><surname>Koblansky</surname><given-names>A. A.</given-names></name><name><surname>Ghosh</surname><given-names>S.</given-names></name></person-group> (<year>2006</year>). <article-title>Recognition and signaling by toll-like receptors</article-title>. <source>Annu. Rev. Cell Dev. Biol.</source>
+<volume>22</volume>, <fpage>409</fpage>&#x2013;<lpage>437</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1146/annurev.cellbio.21.122303.115827</pub-id>
+<pub-id pub-id-type="pmid">16822173</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B139">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Willems</surname><given-names>S. A.</given-names></name><name><surname>Brouwers</surname><given-names>J. J. W. M.</given-names></name><name><surname>Eefting</surname><given-names>D.</given-names></name></person-group> (<year>2022</year>). <article-title>Aortic and iliac involvement in Brucellosis - A rare but life threatening manifestation: A review of the literature</article-title>. <source>Eur. J. Vasc. Endovasc Surg.</source>
+<volume>63</volume> (<issue>5</issue>), <fpage>743</fpage>&#x2013;<lpage>750</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.ejvs.2022.02.004</pub-id>
+<pub-id pub-id-type="pmid">35282998</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B140">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woodman</surname><given-names>S.</given-names></name><name><surname>Gibson</surname><given-names>A. J.</given-names></name><name><surname>Garc&#xED;a</surname><given-names>A. R.</given-names></name><name><surname>Contreras</surname><given-names>G. S.</given-names></name><name><surname>Rossen</surname><given-names>J. W.</given-names></name><name><surname>Werling</surname><given-names>D.</given-names></name><etal/></person-group>. (<year>2016</year>). <article-title>Structural characterisation of Toll-like receptor 1 (TLR1) and Toll-like receptor 6 (TLR6) in elephant and harbor seals</article-title>. <source>Vet. Immunol. Immunopathol.</source>
+<volume>169</volume>, <fpage>10</fpage>&#x2013;<lpage>14</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.vetimm.2015.11.006</pub-id>
+<pub-id pub-id-type="pmid">26827833</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B141">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>Z.</given-names></name><name><surname>Hu</surname><given-names>T.</given-names></name><name><surname>Merits</surname><given-names>A.</given-names></name><name><surname>He</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>M.</given-names></name><name><surname>Jia</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>Toll-like receptor 4 and lipopolysaccharide from commensal microbes regulate <italic>Tembusu virus</italic> infection</article-title>. <source>J.&#xA0;Biol. Chem.</source>
+<volume>298</volume> (<issue>12</issue>), <elocation-id>102699</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.jbc.2022.102699</pub-id>
+<pub-id pub-id-type="pmid">36379254</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B142">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yin</surname><given-names>Z.</given-names></name><name><surname>Li</surname><given-names>M.</given-names></name><name><surname>Niu</surname><given-names>C.</given-names></name><name><surname>Yu</surname><given-names>M.</given-names></name><name><surname>Xie</surname><given-names>X.</given-names></name><name><surname>Haimiti</surname><given-names>G.</given-names></name><etal/></person-group>. (<year>2023</year>). <article-title>Design of multi-epitope vaccine candidate against Brucella type IV secretion system (T4SS)</article-title>. <source>PloS One</source>
+<volume>18</volume> (<issue>8</issue>), <elocation-id>e0286358</elocation-id>. doi:&#xA0;<pub-id pub-id-type="doi">10.1371/journal.pone.0286358</pub-id>
+<pub-id pub-id-type="pmid">37561685</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B143">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>H.</given-names></name><name><surname>Bai</surname><given-names>L.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Yu</surname><given-names>Y.</given-names></name></person-group> (<year>2017</year>). <article-title>Repetitive extragenic palindromic DNA sequences from <italic>Brucella melitensis</italic> stimulate Toll-like receptor 9 signaling in macrophages</article-title>. <source>Mol. Med. Rep.</source>
+<volume>15</volume> (<issue>1</issue>), <fpage>271</fpage>&#x2013;<lpage>276</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.3892/mmr.2016.5990</pub-id>
+<pub-id pub-id-type="pmid">27922679</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B144">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>Z.</given-names></name><name><surname>Sun</surname><given-names>G.</given-names></name><name><surname>Yu</surname><given-names>Y.</given-names></name></person-group> (<year>2012</year>). <article-title>Recognition of nucleic acid ligands by toll-like receptors 7/8: importance of chemical modification</article-title>. <source>Curr. Med. Chem.</source>
+<volume>19</volume> (<issue>9</issue>), <fpage>1365</fpage>&#x2013;<lpage>1377</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.2174/092986712799462603</pub-id>
+<pub-id pub-id-type="pmid">22204348</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B145">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>C. Y.</given-names></name><name><surname>Bai</surname><given-names>N.</given-names></name><name><surname>Zhang</surname><given-names>Z. H.</given-names></name><name><surname>Liang</surname><given-names>N.</given-names></name><name><surname>Dong</surname><given-names>L.</given-names></name><name><surname>Xiang</surname><given-names>R.</given-names></name><etal/></person-group>. (<year>2012</year>). <article-title>TLR2 signaling subpathways regulate TLR9 signaling for the effective induction of IL-12 upon stimulation by heat-killed <italic>Brucella abortus</italic>
+</article-title>. <source>Cell Mol. Immunol.</source>
+<volume>9</volume> (<issue>4</issue>), <fpage>324</fpage>&#x2013;<lpage>333</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1038/cmi.2012.11</pub-id>
+<pub-id pub-id-type="pmid">22635254</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B146">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Wu</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>
+<italic>Brucella melitensis</italic> outer membrane protein 25 interacts with ferritin heavy polypeptide 1 in human trophoblast cells</article-title>. <source>Mol. Med. Rep.</source>
+<volume>26</volume> (<issue>1</issue>), <fpage>224</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.3892/mmr.2022.12740</pub-id>
+<pub-id pub-id-type="pmid">35593274</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B147">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>Y.</given-names></name><name><surname>Hanniffy</surname><given-names>S.</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V.</given-names></name><name><surname>Conde-Alvarez</surname><given-names>R.</given-names></name><name><surname>Oh</surname><given-names>S.</given-names></name><name><surname>Moriy&#xF3;n</surname><given-names>I.</given-names></name><etal/></person-group>. (<year>2018</year>). <article-title>Immunomodulatory properties of <italic>Brucella melitensis</italic> lipopolysaccharide determinants on mouse dendritic cells in <italic>vitro</italic> and in <italic>vivo</italic>
+</article-title>. <source>Virulence.</source>
+<volume>9</volume> (<issue>1</issue>), <fpage>465</fpage>&#x2013;<lpage>479</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1080/21505594.2017.1386831</pub-id>
+<pub-id pub-id-type="pmid">28968180</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B148">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhu</surname><given-names>Y.</given-names></name><name><surname>Shi</surname><given-names>L.</given-names></name><name><surname>Zeng</surname><given-names>Y.</given-names></name><name><surname>Piao</surname><given-names>D.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Du</surname><given-names>J.</given-names></name><etal/></person-group>. (<year>2022</year>). <article-title>Key immunity characteristics of diverse stages of brucellosis in rural population from Inner Mongolia, China</article-title>. <source>Infect. Dis. Poverty.</source>
+<volume>11</volume> (<issue>1</issue>), <fpage>63</fpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1186/s40249-022-00989-7</pub-id>
+<pub-id pub-id-type="pmid">35659087</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B149">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zwerdling</surname><given-names>A.</given-names></name><name><surname>Delpino</surname><given-names>M. V.</given-names></name><name><surname>Barrionuevo</surname><given-names>P.</given-names></name><name><surname>Cassataro</surname><given-names>J.</given-names></name><name><surname>Pasquevich</surname><given-names>K. A.</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C.</given-names></name><etal/></person-group>. (<year>2008</year>). <article-title>
+<italic>Brucella</italic> lipoproteins mimic dendritic cell maturation induced by <italic>Brucella abortus</italic>
+</article-title>. <source>Microbes Infect.</source>
+<volume>10</volume> (<issue>12-13</issue>), <fpage>1346</fpage>&#x2013;<lpage>1354</lpage>. doi:&#xA0;<pub-id pub-id-type="doi">10.1016/j.micinf.2008.07.035</pub-id>
+<pub-id pub-id-type="pmid">18761420</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

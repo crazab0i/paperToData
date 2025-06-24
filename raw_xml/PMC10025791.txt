@@ -1,0 +1,1846 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Arch Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Arch Microbiol</journal-id>
+      <journal-title-group>
+        <journal-title>Archives of Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0302-8933</issn>
+      <issn pub-type="epub">1432-072X</issn>
+      <publisher>
+        <publisher-name>Springer Berlin Heidelberg</publisher-name>
+        <publisher-loc>Berlin/Heidelberg</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36939918</article-id>
+      <article-id pub-id-type="pmc">10025791</article-id>
+      <article-id pub-id-type="publisher-id">3471</article-id>
+      <article-id pub-id-type="doi">10.1007/s00203-023-03471-6</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Oral vaccination with novel <italic>Lactococcus</italic>
+<italic>lactis</italic> mucosal live vector-secreting <italic>Brucella</italic> lumazine synthase (BLS) protein induces humoral and cellular immune protection against <italic>Brucella</italic>
+<italic>abortus</italic></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fatehi</surname>
+            <given-names>Zahra</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Doosti</surname>
+            <given-names>Abbas</given-names>
+          </name>
+          <address>
+            <email>abbasdoosti@yahoo.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jami</surname>
+            <given-names>Mohammad Saeid</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.467523.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 0493 9277</institution-id><institution>Department of Biology, Shahrekord Branch, </institution><institution>Islamic Azad University, </institution></institution-wrap>Shahrekord, Iran </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.468149.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 5907 0003</institution-id><institution>Biotechnology Research Center, Shahrekord Branch, </institution><institution>Islamic Azad University, </institution></institution-wrap>Shahrekord, Iran </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.440801.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 0384 8883</institution-id><institution>Cellular and Molecular Research Center, </institution><institution>Basic Health Sciences Research Institute, Shahrekord University of Medical Sciences, </institution></institution-wrap>Shahrekord, Iran </aff>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="com">
+          <p>Communicated by Erko Stackebrandt.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2023</year>
+      </pub-date>
+      <volume>205</volume>
+      <issue>4</issue>
+      <elocation-id>122</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>4</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>25</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2023, Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.</copyright-statement>
+        <license>
+          <license-p>This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source. These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">This work aimed to provide recombinant <italic>Lactococcus</italic>
+<italic>lactis</italic> as a potential live vector for the manufacture of recombinant <italic>Brucella</italic>
+<italic>abortus</italic> (rBLS-Usp45). The sequences of the genes were collected from the GenBank database. Using Vaxijen and ccSOL, the proteins' immunogenicity and solubility were evaluated. Mice were given oral vaccinations with recombinant <italic>L.</italic>
+<italic>lactis</italic>. Anti-BLS-specific IgG antibodies were measured by ELISA assay. Cytokine reactions were examined using real-time PCR and the ELISA technique. The BLS protein was chosen for immunogenicity based on the vaccinology screening findings since it had maximum solubility and antigenic values &#x200B;&#x200B;of 99% and 0.75, respectively. The BLS gene, digested at 477&#xA0;bp, was electrophoretically isolated to demonstrate that the recombinant plasmid was successfully produced. Protein-level antigen expression showed that the target group produced the 18&#xA0;kDa-sized BLS protein, whereas the control group did not express any proteins. In the sera of mice given the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 vaccine 14&#xA0;days after priming, there was a significant level of BLS-specific IgG1, IgG2a (<italic>P</italic>&#x2009;&lt;&#x2009;0.001) compared to the PBS control group. Vaccinated mice showed higher levels of IFN-&#x3B3;, TNF&#x3B1;, IL-4, and IL-10 in samples obtained on days 14 and 28, after receiving the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 and IRBA vaccines (<italic>P</italic>&#x2009;&lt;&#x2009;0.001). The inflammatory reaction caused less severe spleen injuries, alveolar edema, lymphocyte infiltration, and morphological damage in the target group's spleen sections. Based on our findings, an oral or subunit-based vaccine against brucellosis might be developed using <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 as a novel, promising, and safe alternative to the live attenuated vaccines now available.</p>
+        <sec>
+          <title>Supplementary Information</title>
+          <p>The online version contains supplementary material available at 10.1007/s00203-023-03471-6.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>
+          <italic>Brucella</italic>
+        </kwd>
+        <kwd>
+          <italic>Lactococcus</italic>
+          <italic>lactis</italic>
+        </kwd>
+        <kwd>BLS protein</kwd>
+        <kwd>Mucosal live vector</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; Springer-Verlag GmbH Germany, part of Springer Nature 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p id="Par2">The brucellosis infection is brought on by tiny, aerotolerant, Gram-negative infectious pathogens belonging to the <italic>Brucella</italic> family. The 12 species in the <italic>Brucella</italic> family each have unique host preferences, levels of pathogenicity, and morphological characteristics (Munson et al. <xref ref-type="bibr" rid="CR22">2022</xref>; Dahouk et al. <xref ref-type="bibr" rid="CR8">2017</xref>). <italic>B.</italic>
+<italic>melitensis</italic>, <italic>B.</italic>
+<italic>abortus</italic>, <italic>B.</italic>
+<italic>suis</italic>, <italic>B.</italic>
+<italic>canis</italic>, <italic>B.</italic>
+<italic>ovis</italic>, and <italic>B.</italic>
+<italic>neotomae</italic> are classic <italic>Brucella</italic> species. The zoonotic endemic illness brucellosis is one of the most prevalent in several countries. It generally spreads through contact with infected animal tissues and fluids. It is recognized as an economically valuable livestock sickness that is mainly spread to humans through raw dairy foods and cheese made from unpasteurized milk (Pal et al. <xref ref-type="bibr" rid="CR25">2017</xref>). Due to the high prevalence of brucellosis in the Middle East, vaccination of animals is the most effective way to prevent illness and reduce the risk of human infection.</p>
+      <p id="Par3">All currently available live attenuated vaccines have drawbacks that make them unsuitable for usage (Klafack et al. <xref ref-type="bibr" rid="CR19">2022</xref>), for example, including interference with diagnostics, abortions in given pregnant animals, and others (Klafack et al. <xref ref-type="bibr" rid="CR19">2022</xref>). As an alternative to the present brucellosis vaccinations, a new generation of safer, more specific, and more cost-effective mucosal-delivered vaccines may be needed to stimulate the immune reaction at the location of clinical disease (Jeyananthan et al. <xref ref-type="bibr" rid="CR18">2022</xref>). Today, the use of mucosal administration and probiotic-based systems is encouraged by the vital capacity of <italic>Lactococcus</italic>
+<italic>lactis</italic> to express viral and bacterial proteins as a live vector (Wyszyska et al. <xref ref-type="bibr" rid="CR38">2015</xref>). Brucellosis has different vaccines, including the S-19 vaccine, used only once in 3&#x2013;6&#xA0;months old female calves. The RDS19 vaccine is intended for cows over six months and should not be used in calves under six months. Rev-I vaccine is used to prevent brucellosis in sheep and goats. This vaccine is injected into lambs and goats at four months and is repeated one month before they reach reproductive age. Rev I vaccine should not be used in adult sheep and goats. According to the above content, each of the above vaccines has limitations. Therefore, there is a great need to develop a vaccine that does not have these limitations (Wyszyska et al. 2015; Munson et al. <xref ref-type="bibr" rid="CR22">2022</xref>; Dahouk Al et al. 2017).</p>
+      <p id="Par4">New methods of treating illnesses brought on by this bacterium are thus needed. Scientific proof demonstrates that different pathogen-fighting vaccinations have eliminated or rendered inactive, such germs. Anti-bacterial vaccines can successfully activate the immune response (Chehelgerdi and Doosti <xref ref-type="bibr" rid="CR7">2020</xref>). Determining antigenic components, protein interactions, expression under various circumstances, immunogenicity, and ultimately constructing an appropriate vaccine may all be accomplished through bacterial proteome research. Recently, using proteomics, iron-regulating bacteria molecules were found to exhibit antigenic and immunogenic characteristics (Ansari et al. <xref ref-type="bibr" rid="CR1">2019</xref>). Five Outer membrane <italic>proteins</italic> (<italic>OMPs</italic>) with significant potential for vaccine development against <italic>S.</italic>
+<italic>flexneri</italic> infection were discovered due to the reverse vaccination strategy used to identify <italic>Shigella</italic>
+<italic>flexneri</italic> outer membrane antigens as cell-dependent vaccine and antibody candidates (Kazi et al. <xref ref-type="bibr" rid="CR20">2020</xref>). The <italic>Brucella</italic> lumazine synthase (BLS) is a viable surface-exposed alternative because of its practical expression, simple subsequent purification, and excellent molecular mass for distribution (Badmasti et al. <xref ref-type="bibr" rid="CR2">2021</xref>).</p>
+      <p id="Par5">The highly immunogenic protein BLS, which possesses adjuvant qualities, has been proposed as a helpful antigen transporter for vaccine development. This protein is essential for triggering the immune response. One of the low-molecular-weight proteins, the <italic>B.</italic>
+<italic>abortus</italic> BLS antigen, has been regarded as an immunodominant antigen (Rezaei et al. <xref ref-type="bibr" rid="CR30">2019</xref>). The BLS was chosen for this study primarily because it outperformed other intracellular and periplasmic proteins of <italic>Brucella</italic> previously studied, such as L7/L12 (Ribeiro et al. <xref ref-type="bibr" rid="CR32">2002</xref>), GroEL heat-shock protein (Miyoshi et al. <xref ref-type="bibr" rid="CR23">2006</xref>), and Cu, Zn superoxide dismutase (S&#xE1;ez et al. <xref ref-type="bibr" rid="CR33">2012</xref>). It also has higher antigenicity and accessibility. It is also a strong contender for utilization as an excellent option for good expression and a simple subsequent purification procedure. Comprehensive computational approaches predicted the immunogenicity of the BLS as an appropriate candidate for the advancement of the subunit-based vaccine (Rezaei et al. <xref ref-type="bibr" rid="CR30">2019</xref>). Therefore, rather than using <italic>Escherichia</italic>
+<italic>coli</italic>, we decided to consider <italic>L.</italic>
+<italic>lactis</italic> as a suitable host cell for generating the rBLS-Usp45 protein because of the benefits mentioned above.</p>
+      <p id="Par6">This study combined the nisin-inducible promoter (P nisA) and the Usp45 signal sequence in a high copy number pNZ8148 expression vector. The protein can be expressed in <italic>L.</italic>
+<italic>lactis</italic>. After orally administering <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148 and recombinant <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148 -rBLS-Ups45 to mice, we employed recombinant <italic>L.</italic>
+<italic>lactis</italic> inducible expression pNZ8148 vector to produce a <italic>Brucella</italic> BLS antigen and examined the IgG immunological response. In a different group of mice that received an intraperitoneal injection of purified rBLS-Ups45 protein, the anti-rBLS-Ups45 IgG response was also measured.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Materials and methods</title>
+      <sec id="Sec3">
+        <title>Bioinformatics analyses: screening of vaccine candidate proteins</title>
+        <p id="Par7">The following procedures were used to find and screen potential vaccinations while adhering to the concepts of reverse vaccinology. The sequences of the genes were typically collected from the GenBank database. PSORTb was used to determine where the protein was located inside the membrane. Using Vaxijen and ccSOL, the proteins&#x2019; immunogenicity and solubility were assessed. Finally, IEDB (Bepipred Linear Epitope Prediction 2.0) databases were used to evaluate each antigen's epitopes, and the antigens with the right antigenicity were selected (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>).</p>
+        <sec id="Sec4">
+          <title>Identification of potential vaccine antigens</title>
+          <p id="Par8">According to the vaxign2 website, six proteins&#x2014;including surface and non-surface proteins&#x2014;were chosen to find several potential vaccines. Each protein&#x2019;s DNA sequences that code for its proteins were obtained from the GenBank database (Beiranvand et al. <xref ref-type="bibr" rid="CR3">2021</xref>).</p>
+        </sec>
+        <sec id="Sec5">
+          <title><italic>B. abortus</italic> sequence alignment</title>
+          <p id="Par9">A total of six antigens were chosen for BLASTn. The protein sequences were aligned via BLASTn. With a 98% homology cut-off for each molecule, <italic>B.</italic>
+<italic>abortus</italic> was chosen as the alignment species. As <italic>B.</italic>
+<italic>abortus</italic> strain sequences, the sequences with the most significant homology percentage were chosen (Beiranvand et al. <xref ref-type="bibr" rid="CR3">2021</xref>; Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>).</p>
+        </sec>
+        <sec id="Sec6">
+          <title>Modeling of antigen localization in bacteria</title>
+          <p id="Par10">Initially, UniProtKB (<ext-link ext-link-type="uri" xlink:href="http://www.uniprot.org/">http://www.uniprot.org/</ext-link>) was used to obtain the sequence data. Then these antigens were analyzed using PSORTb to predict the subcellular localization. This software effectively determined protein localization by using a cut-off level over 7.5. With &#x201C;bacteria&#x201D; and &#x201C;Gram-negative&#x201D; selected as the &#x201C;organism&#x201D; and &#x201C;Gram stain&#x201D; attributes in this program (PSORTb), the functional site and localization of the ligands were identified (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>).</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Estimation of the proteins&#x2019; antigenicity</title>
+          <p id="Par11">The <ext-link ext-link-type="uri" xlink:href="http://www.ddg-pharmfac.net">www.ddg-pharmfac.net</ext-link> website hosted by Vaxijen is made for categorizing the antigenic characteristics of proteins. Their antigenicity was determined using the chosen protein sequences, and the results are displayed (Beiranvand et al. <xref ref-type="bibr" rid="CR3">2021</xref>).</p>
+        </sec>
+        <sec id="Sec8">
+          <title>Projection of protein solubility</title>
+          <p id="Par12">The finest and most effective database for determining protein solubility is called ccSOl omics (<ext-link ext-link-type="uri" xlink:href="http://service.tartaglialab.com/grant">http://service.tartaglialab.com/grant</ext-link> submission/ccsol omics). Figure&#xA0;<xref rid="Fig1" ref-type="fig">1</xref> displays the solubility of the molecules as determined by this database along with a graph of the outcomes (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Protein solubility diagram. According to the results, BLS, Oml and pliC proteins showed more solubility than 70%. However, the YidC proteins solubility was less than 20%</p></caption><graphic xlink:href="203_2023_3471_Fig1_HTML" id="MO1"/></fig></p>
+        </sec>
+        <sec id="Sec9">
+          <title>Prediction of B-cell epitope</title>
+          <p id="Par13">The most antigenic molecules were chosen based on the peptides&#x2019; &#x201C;maximum antigenic scores.&#x201D; Immunogenicity was estimated using the Kolaskar and Tongaonkar antigenic scales from the IEDB dataset. The maximal, median and minimal B-cell epitope immunogenic scores were obtained using this dataset. The threshold for antigenic scoring was (1000). In this database, total proteins are generally categorized as immunogenic if their score is more than 1000 (Beiranvand et al. <xref ref-type="bibr" rid="CR3">2021</xref>; Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR28">2023</xref>).</p>
+        </sec>
+        <sec id="Sec10">
+          <title>The analysis of the protein surface sequence</title>
+          <p id="Par14">PRED-TMBB is a database for detecting and recognizing protein sequence data and membrane localization was employed since vaccine design must anticipate protein epitope clustering and their exterior placement surface. Only multiple alignments are required for this database to make predictions; amino acid patterns and other data are not required. The ability of this website to find exterior membrane water-soluble molecules in a sizable dataset makes it a powerful tool for discriminating research. This tool provides a reliable and robust way of screening whole genomes. The functions of this web server include locating membrane strands, determining ring topology, and applying discriminating procedures to any amino acid sequence (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>; Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR28">2023</xref>; Ishwarlall et al. <xref ref-type="bibr" rid="CR16">2022</xref>).</p>
+        </sec>
+      </sec>
+      <sec id="Sec11">
+        <title>In-vitro analysis</title>
+        <sec id="Sec12">
+          <title>Bacterial strains and culture media</title>
+          <p id="Par15"><italic>Escherichia</italic>
+<italic>coli</italic> Top 10F and <italic>Lactococcus</italic>
+<italic>lactis</italic> PTCC1336 bacteria were produced by the Iranian Biological Resource Center for this investigation. The <italic>Lactococcus</italic>
+<italic>lactis</italic> bacteria were grown in M17 broth (DM565) produced by Quelab, Canada. Using a shaker incubator, <italic>Escherichia</italic>
+<italic>coli</italic> species Top 10F was grown in LB broth (Merck company, Germany) at 37&#xA0;&#xB0;C (200&#xA0;rpm). Microbiological agar medium made by Merck was introduced to each of the media at a ratio of 1.5% to create agar media in the plates.</p>
+        </sec>
+        <sec id="Sec13">
+          <title>Construction of <italic>L. lactis</italic>/pNZ8148 &#x2011;rBLS&#x2011;Usp45</title>
+          <p id="Par16">The Addgene website was used to gather details on the nisin-based expression vector pNZ8148, and Gene Runner was used to choose the restriction enzyme cleavage sites. An origin of replication (ORI), a gene for chloramphenicol resistance, two genes for the replication proteins repA and repC, a nisin-inducible promoter (P nisA), and a transcription terminator are all included in the expression vector pNZ8148 (T). This vector is made to allow cloned sequences to be expressed in gram-positive bacteria, particularly in species of lactic acid bacteria. The base pairs in this expression vector total 3167. The final organism was created using the 477&#xA0;bp BLS gene fragment with accession number Q2YKV1.1 and a 27 aa signal peptide sequence known as Usp45 with accession code ABY84357. Finally, the gene along with the signal peptide (Usp45-BLS) was synthetically cloned in the nisin-based vector pNZ8148 between Kpnl and Xbal cutting sites by Generay, China.</p>
+        </sec>
+        <sec id="Sec14">
+          <title>Confirmation of BLS gene cloning in pNZ8148 vector</title>
+          <p id="Par17">To validate the correctness of the cloning, polymerase chain reaction (PCR), enzyme digestion, and sequencing methods were performed. Using specified primers, the BLS gene's PCR was carried out, and the amplicon was electrophoresed on 1% agarose gel. With the help of the restriction enzymes KpnI and Xbal from GENEray products, the recombinant expression vector was digested. Nucleotide sequencing of the recombinant vector was performed by GENEray.</p>
+        </sec>
+        <sec id="Sec15">
+          <title>Transformation</title>
+          <p id="Par18">By using the electroporation technique, the recombinant plasmid pNZ8148-rBLS-Usp45 was successfully transformed into the <italic>L.</italic>
+<italic>lactis</italic> strain. Briefly, utilizing an electroporator (Xcell BIO-RAD Gene Pulser; with 2500&#xA0;V, 25 microfarads, and 200 ohms&#x2019; resistance), 400&#xA0;&#x3BC;L of <italic>Lactococcus</italic>
+<italic>lactis</italic> PTCC1336 host cells were transfected with 6&#xA0;&#x3BC;L (0.2&#xA0;&#x3BC;g/&#x3BC;L) of the recombinant plasmid pNZ8148-Usp45 carrying the BLS gene as well as 6&#xA0;&#x3BC;L (0.2&#xA0;&#x3BC;g/&#x3BC;L) of the pNZ8148 vector without the BLS gene. A suspension of <italic>Lactococcus</italic>
+<italic>lactis</italic> bacteria was cultured on an M17Agar medium containing the antibiotic chloramphenicol (25&#xA0;&#x3BC;g/mL). It was heated for 72&#xA0;h at 30&#xA0;&#xB0;C as a positive and a suspension of <italic>Lactococcus</italic>
+<italic>lactis</italic> bacteria containing recombinant vector as a negative control. The chloramphenicol-resistant gene in pNZ8148 was used to select the positive transformed <italic>L.</italic>
+<italic>lactis</italic>/pNZ814-8rBLS-Usp45, which was then identified by colony PCR using the specified primers.</p>
+          <p id="Par19">Forward primer: 5&#x2032;-ATGAATCAAAGCTGTCCAAATAAAAC-3&#x2032;.</p>
+          <p id="Par20">Reverse primer: 5&#x2032;&#x2032;TTAAACAAGAGCAGCAATACGTGAAC&#x2032;3&#x2032;.</p>
+          <p id="Par21">The PCR procedure was carried out under optimal conditions, which included preheating at 94&#xA0;&#xB0;C for 5&#xA0;min, 35 stages of denaturation at 94&#xA0;&#xB0;C for 30&#xA0;s, annealing at 53&#xA0;&#xB0;C for 1&#xA0;min, and elongation at 72&#xA0;&#xB0;C for 1&#xA0;min followed by the final elongation at 72&#xA0;&#xB0;C for 10&#xA0;min.</p>
+        </sec>
+      </sec>
+      <sec id="Sec16">
+        <title>In-vivo analysis</title>
+        <sec id="Sec17">
+          <title>Preparation of <italic>Lactococcus lactis</italic> cells for immunization</title>
+          <p id="Par22">In M17 medium supplemented with 1% glucose and 5&#xA0;&#x3BC;g of chloramphenicol (Sigma-Aldrich) per mL at 30&#xA0;&#xB0;C without shaking, the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148 (Harboring the empty vector) as control and pNZ8148-BLS-Usp45 strains are grown to an optical density at 600&#xA0;nm of 1.0. Following a second centrifugation (4000<italic>g</italic> at 4&#xA0;&#xB0;C) wash in sterile, ice-cold PBS, the collected cells are suspended in vaccination buffer (0.2&#xA0;M sodium bicarbonate, 5% casein hydrolysate, and 0.5% wt/vol glucose) at a dosage of 5&#x2009;&#xD7;&#x2009;10<sup>10</sup>&#xA0;CFU/mL (Berm&#xFA;dez-Humar&#xE1;n et al. <xref ref-type="bibr" rid="CR4">2003</xref>).</p>
+        </sec>
+        <sec id="Sec18">
+          <title>Animals and feeding procedure</title>
+          <p id="Par23">One hundred twenty female BALB/c mice weighing 15&#x2013;20&#xA0;g and 6 to 8&#xA0;weeks old were used in this study. Through oral vaccination with 100&#xA0;&#xB5;g of pDNA, pNZ8148-BLS-Usp45 has been administered to animals. 100 mice were divided into five groups of 20, and PBS was administered to an extra 20 mice used as negative controls (<italic>n</italic>&#x2009;=&#x2009;20). Table <xref rid="Tab1" ref-type="table">1</xref> displays the number of mice utilized in each group. Nisin was used to culture and stimulate the control and recombinant strains of <italic>L.</italic>
+<italic>lactis</italic>. A group of 20 mice was given 10<sup>8</sup> colony-forming units (CFU) of <italic>L.</italic>
+<italic>lactis</italic> pNZ8148-BLS-Usp45 three times by oral pipette. The three treatment days were spaced 15&#xA0;days apart (days 0&#x2013;2, 14&#x2013;16, and 28&#x2013;30)0.10<sup>8</sup>
+<italic>L.</italic>
+<italic>lactis</italic> or PBS vaccines were given to the animals in the standard control. The second set of mice underwent a subcutaneous injection immunization with the IRIBA vaccine containing 2&#x2009;&#xD7;&#x2009;10<sup>8</sup>&#xA0;CFU (Razi, Iran). As a positive control, 200&#xA0;&#xB5;l of PBS were vacuum-cleaned at zero time.<table-wrap id="Tab1"><label>Table 1</label><caption><p>The number of mice used in this experiment</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Group number</th><th align="left">Injection composition</th><th align="left">Number of mice</th><th align="left">Average weight of mice (gr)</th><th align="left">Type of injection</th><th align="left">Time of injection</th><th align="left">Injection day</th></tr></thead><tbody><tr><td align="left">1</td><td align="left"><italic>L.</italic>
+<italic>lactis</italic>
+<italic>/</italic>pNZ8148-BLS-Usp45</td><td align="left">20</td><td char="." align="char">18.7&#x2009;&#xB1;&#x2009;0.2</td><td align="left">oral</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td></tr><tr><td align="left">2</td><td align="left"><italic>L.</italic>
+<italic>lactis</italic>
+<italic>/</italic>pNZ8148</td><td align="left">20</td><td char="." align="char">18.5&#x2009;&#xB1;&#x2009;0.6</td><td align="left">oral</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td></tr><tr><td align="left">3</td><td align="left"><italic>L.</italic>
+<italic>lactis</italic></td><td align="left">20</td><td char="." align="char">18.6&#x2009;&#xB1;&#x2009;0.4</td><td align="left">oral</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td></tr><tr><td align="left">4</td><td align="left">IRIBA Vac</td><td align="left">20</td><td char="." align="char">18.3&#x2009;&#xB1;&#x2009;0.8</td><td align="left">Subcutaneous injection</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">1, 14, 28</td></tr><tr><td align="left">5</td><td align="left">pNZ8148</td><td align="left">20</td><td char="." align="char">18.6&#x2009;&#xB1;&#x2009;0.7</td><td align="left">oral</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td></tr><tr><td align="left">6</td><td align="left">PBS</td><td align="left">20</td><td char="." align="char">18.7&#x2009;&#xB1;&#x2009;0.9</td><td align="left">oral</td><td align="left">Every 8&#xA0;h for 3&#xA0;days</td><td align="left">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td></tr></tbody></table></table-wrap></p>
+        </sec>
+      </sec>
+      <sec id="Sec19">
+        <title>Indirect ELISA for detection of&#xA0;anti-rBLS-Usp45 IgG responses</title>
+        <p id="Par24">Two days before each vaccine and 15&#xA0;days after the final immunization, the serum IgG (IgG1, IgG2a) of each sample was measured using indirect ELISAs. The purified rBLS-Usp45 was employed to coat the wells of a polycarbonate plate with 100&#xA0;&#x3BC;L of a 5&#xA0;&#x3BC;g/mL solution in carbonate buffer (pH 9.6). To prevent non-specific binding, the plates were inhibited with 5% skim milk in PBS containing 0.5% Tween 20 for an additional overnight incubation at 4&#x25E6;C after being rinsed with PBS containing 0.05% (w/v) Tween 20. Plates were incubated with 100&#xA0;&#x3BC;L of diluted serum samples diluted 1:100 in preventing buffer for 2&#xA0;h at room temperature while being rocked after the blocking buffer was removed. Goat Anti-Mouse IgG (Bio-Rad Cat no: 170-6516) labeled with HRP was incorporated into the wells at a dilution of 1:2000 in PBS-Tween and cultured at room temperature for one hour after three further PBS-Tween washes were conducted between incubations. Following a final washing procedure, the administration of 50&#xA0;&#x3BC;L/well of the enzyme&#x2013;substrate TMB for 30&#xA0;min at 37 C was used to measure specific reactivity. When 2&#xA0;M H2SO4 was added to each well, the reaction was halted. After 10&#xA0;min, the ideal density (OD 492) at 492&#xA0;nm was determined. Every test was run in triplicate.</p>
+        <sec id="Sec20">
+          <title>Detection of cellular immune response</title>
+          <sec id="Sec21">
+            <title>ELISA assay</title>
+            <p id="Par25">The levels of IFN-&#x3B3;, TNF-&#x3B1;, IL-10, and IL-4 were evaluated to assess the cellular immunological response brought on by oral vaccination. According to the user&#x2019;s guide, karmania pars gene ELISA kits were used to measure the levels of proinflammatory cytokines in the serum sample (KPG, IRAN). A 96-well plate was coated with the coating antibody overnight at 4&#xA0;&#xB0;C (0.2&#xA0;&#x3BC;g/well). The plate was then blocked using PBS containing 0.5% BSA and 0.1% Tween 20. The material was then divided into two duplicate wells with a volume of 100&#xA0;&#x3BC;L, and 50&#xA0;&#x3BC;L of a detecting antibody at a concentration of 1&#xA0;&#x3BC;g/mL was added. At room temperature, the plate was covered and shaken for two hours (700&#xA0;rpm). Streptavidin-HRP (1:1024) was incorporated and incubated for 30&#xA0;min at room temperature on a shaker following washing with PBS, including 0.1% Tween 20 (700&#xA0;rpm).</p>
+          </sec>
+          <sec id="Sec22">
+            <title>Real-time PCR assay</title>
+            <p id="Par26">Following the anesthesia of the mice, the spleen was removed under aseptic conditions and kept in liquid nitrogen at &#x2212;&#xA0;198&#xA0;&#xB0;C. Then, spleen tissue was processed using the YTA kits&#x2019; instructions for RNA extraction and cDNA synthesis (Yekta Tajhiz, Iran). The GAPDH gene was utilized as an internal control during real-time PCR using the YTA SYBR Green master mix (Yekta Tajhiz, Iran). For real Time-PCR, a reaction volume of 15&#xA0;&#x3BC;L, composed of 0.5&#xA0;&#x3BC;L cDNA, 0.5&#xA0;&#x3BC;L forward primer, 0.5&#xA0;&#x3BC;L rivers primer, 10&#xA0;&#x3BC;L master mix, and 3.5&#xA0;&#x3BC;L of double sterile distillation water, was employed. Along with initial denaturation for 10&#xA0;min, the temperature cycle program also included 40 cycles at 95&#xA0;&#xB0;C for 20&#xA0;s, annealing at 53&#xA0;&#xB0;C for 1&#xA0;min, and elongation at 72&#xA0;&#xB0;C for 1&#xA0;min, followed by the final elongation at 72&#xA0;&#xB0;C for 10&#xA0;min. The relative gene expression of IFN-&#x3B3;, TNF-&#x3B1;, IL-10, and IL-4 was calculated using the 2&#x2212;&#x394;&#x394;CT method and normalized to GAPDH levels in each sample (Sunita et al. <xref ref-type="bibr" rid="CR34">2020</xref>).</p>
+          </sec>
+        </sec>
+        <sec id="Sec23">
+          <title>Survival rate of mice</title>
+          <p id="Par27">Following Hosseinnezhad-Lazarjani et al. (<xref ref-type="bibr" rid="CR15">2023</xref>), the protection tests were carried out (Hosseinnezhad-Lazarjani et al. <xref ref-type="bibr" rid="CR15">2023</xref>). Two weeks following the initial treatment, ten mice from each group received intraperitoneal (i.p.) exposure to 10<sup>4</sup>&#xA0;CFU of <italic>B.</italic>
+<italic>abortus</italic>. Each group's body weight, clinical rating, and survival rate were noted daily during the seven-day observation of the mice. The overall clinical sign for each mouse was graded on a sliding scale from 0 to &#x2212;&#xA0;5. Clinical evaluations of each animal were given a score between 0 (standard, active, healthy), &#x2212;&#xA0;1 (slightly sick, slightly ruffled fur, otherwise standard), &#x2212;&#xA0;2 (ill, ruffled fur, sluggish movement, hunching), &#x2212;&#xA0;3 (extremely sick, ruffled hair, prolonged movement, stooped, eyes shut), &#x2212;&#xA0;4 (moribund), and &#x2212;&#xA0;5 (dead). The infected mice were slaughtered according to ARRIVE recommendations&#xA0;[PLoS Bio 8(6), e1000412, 2010] (Hosseinnezhad-Lazarjani et al. <xref ref-type="bibr" rid="CR15">2023</xref>). Two weeks later, and the spleens were removed under aseptic circumstances, homogenized, and plated in Blood Agar (BIO3P, Iran)&#xA0;to count the number of <italic>B.</italic>
+<italic>abortus</italic> CFU per organ. The average log10 CFU for the treatment and control group was subtracted from the median log10 CFU for the standard matching control to get the average log10 CFU.</p>
+        </sec>
+        <sec id="Sec24">
+          <title>Histopathological examination</title>
+          <p id="Par28">In an aseptic procedure, livers were removed and fixed in 10% formalin. Slices were embedded in paraffin, stained with hematoxylin and eosin, and then inspected histopathologically under a microscope (HE). An ImagePro macro was used to evaluate liver damage by dividing the lesion area by the total liver area.</p>
+        </sec>
+        <sec id="Sec25">
+          <title>Statistical analyses</title>
+          <p id="Par29">Analyzing the data and running statistical tests were done with GraphPad Prism 5.0. The means were compared using a one-way analysis of variance (ANOVA), and then a Tukey&#x2013;Kramer post hoc test with a 95% confidence interval was performed. The survival rates of vaccinated mice and the control group were compared using a Chi-square test with Yates&#x2019; adjustment; when differences were <italic>P</italic>&#x2009;&lt;&#x2009;0.05 or <italic>P</italic>&#x2009;&lt;&#x2009;0.01 significant, they were deemed highly significant.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec26">
+      <title>Results and discussion</title>
+      <sec id="Sec27">
+        <title>Results of computer studies based on reverse vaccinology</title>
+        <sec id="Sec28">
+          <title>Protein subcellular localization prediction using PSORTb</title>
+          <p id="Par30">With localization values over 7.5, 5 of the six selected proteins were anticipated to be surface proteins. For additional analysis, they were employed along with BLS, Oml, YidC, PliC, BamE. Protein described as periplasmic included BamD. BamD was therefore disqualified from further research. According to the PSORTb analysis results (Table <xref rid="Tab2" ref-type="table">2</xref>), 5 external membrane antigens were chosen and progressed to the next study stage.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Preliminary screening and identification of proteins</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Protein</th><th align="left" rowspan="2">Symbol</th><th align="left" rowspan="2">Accession numbers</th><th align="left" colspan="2">PSORTb</th><th align="left">Vaxign</th><th align="left"/><th align="left">VaxiJen</th></tr><tr><th align="left">Region localized</th><th align="left">Score</th><th align="left">Similarity to Host Proteins</th><th align="left">Y/N</th><th align="left"/></tr></thead><tbody><tr><td align="left" rowspan="3">AltName: Full&#x2009;=&#x2009;BLS</td><td align="left" rowspan="3">BLS</td><td align="left" rowspan="3">Q2YKV1</td><td align="left" rowspan="3">OuterMembrane</td><td align="left" rowspan="3">8.2</td><td align="left">Human</td><td align="left">N</td><td align="left" rowspan="3">0.72</td></tr><tr><td align="left">Mouse</td><td align="left">N</td></tr><tr><td align="left">Pig</td><td align="left">N</td></tr><tr><td align="left" rowspan="3">Outer membrane lipoprotein</td><td align="left" rowspan="3">Oml</td><td align="left" rowspan="3">AAB06277</td><td align="left" rowspan="3">Periplasmic/OuterMembrane</td><td align="left" rowspan="3">7.5</td><td align="left">Human</td><td align="left">N</td><td align="left" rowspan="3">0.65</td></tr><tr><td align="left">Mouse</td><td align="left">N</td></tr><tr><td align="left">Pig</td><td align="left">N</td></tr><tr><td align="left" rowspan="3">Membrane protein insertase yidc</td><td align="left" rowspan="3">YidC</td><td align="left" rowspan="3">AZS93164</td><td align="left" rowspan="3">Periplasmic</td><td align="left" rowspan="3">7.5</td><td align="left">Human</td><td align="left">N</td><td align="left" rowspan="3">0.64</td></tr><tr><td align="left">Mouse</td><td align="left">N</td></tr><tr><td align="left">Pig</td><td align="left">N</td></tr><tr><td align="left" rowspan="3"><italic>Brucella</italic> abortus PliC crystal form</td><td align="left" rowspan="3">PliC</td><td align="left" rowspan="3">4MIS_B</td><td align="left" rowspan="3">Periplasmic/extracellular</td><td align="left" rowspan="3">8.0</td><td align="left">Human</td><td align="left">N</td><td align="left">0.52</td></tr><tr><td align="left">Mouse</td><td align="left">N</td><td align="left"/></tr><tr><td align="left">Pig</td><td align="left">N</td><td align="left"/></tr><tr><td align="left" rowspan="3">Outer membrane protein assembly factor BamE</td><td align="left" rowspan="3">BamE</td><td align="left" rowspan="3">AZS90979</td><td align="left" rowspan="3">OuterMembrane</td><td align="left" rowspan="3">10</td><td align="left">Human</td><td align="left">N</td><td align="left" rowspan="3">0.31</td></tr><tr><td align="left">Mouse</td><td align="left">N</td></tr><tr><td align="left">Pig</td><td align="left">N</td></tr><tr><td align="left" rowspan="3">Outer membrane protein assembly factor BamD</td><td align="left" rowspan="3">BamD</td><td align="left" rowspan="3">AZS91551</td><td align="left" rowspan="3">Cytoplasmic/extracellular</td><td align="left" rowspan="3">7.5</td><td align="left">Human</td><td align="left">N</td><td align="left" rowspan="3">0.28</td></tr><tr><td align="left">Mouse</td><td align="left">N</td></tr><tr><td align="left">Pig</td><td align="left">N</td></tr></tbody></table></table-wrap></p>
+        </sec>
+        <sec id="Sec29">
+          <title>Protein antigenicity</title>
+          <p id="Par31">The antigenicity was assessed using the VaxiJen in-silico tool and the chosen protein sequences, with a cut-off value of 0.6. The antigens BLS, Oml, YidC, PliC, were chosen as having suitable antigenicity (&#x2265;&#x2009;0.6), as shown in Table <xref rid="Tab2" ref-type="table">2</xref>&#x2019;s results. BamE, one of the five proteins mentioned above, was eliminated due to its limited antigenicity. BLS, Oml, YidC, PliC were utilized as suitable proteins to assess solubility and flexibility.</p>
+        </sec>
+        <sec id="Sec30">
+          <title>Solubility of proteins</title>
+          <p id="Par32">Two proteins, BLS, and Oml, showed suitable solubility ranges, as shown in Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>. Solubility was appropriate, as evidenced by proteins BLS, Oml and pliC which had scores of 99% and 94% and 92%, respectively. YidC (16%), protein's poor solubility prevented it from being included in the subsequent study.</p>
+        </sec>
+        <sec id="Sec31">
+          <title>Immune epitope database B-cell epitope prediction (IEDB)</title>
+          <p id="Par33">The BLS, Oml and pliC proteins have been identified as having the proper immunogenicity, solubility, and antigenicity. The best antigenic option was BLS, with a median antigenic value of 1.043. Following Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>&#x2019;s findings, protein BLS displayed 4 great epitopes, while Oml and pliC proteins displayed 5 and 4 tiny epitopes for B-cells. Also, out of 158 amino acids of BLS protein, 116 amino acids (73.41%) were identified as epitopes and only 42 amino acids (26.58%) were not epitopes. Out of 99 amino acids of pliC, only 46 amino acids (46%) were epitopes and 54 amino acids (54%) were not identified as epitopes. But the Oml protein has 177 amino acids, of which only 14.68% (26 amino acids) were identified as epitopes.<fig id="Fig2"><label>Fig. 2</label><caption><p><bold>a</bold> IEDB dataset for linear B-cell epitopes. The sequence of the YELLOW gradient protein displays positions above the threshold epitope. As a result, all proteins that passed the screening and had a YELLOW coloration of at least 70% had robust epitope features. <bold>b</bold> Localization of proteins epitopes in the bacterial cell membrane the outer membrane, periplasmic space, and inner membrane sequences are shown in the 2D representation (color figure online)</p></caption><graphic xlink:href="203_2023_3471_Fig2_HTML" id="MO2"/></fig></p>
+        </sec>
+        <sec id="Sec32">
+          <title>Identification of external epitopes and epitope localization</title>
+          <p id="Par34">PRED-TMBB prediction was employed to weigh specific protein epitopes in the bacterial surface following the findings of Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>a. Green portions of the proteins were found inside the internal membrane, red portions crossed the membrane, and blue portions were found on the exterior of the outer layer or exterior of the bacterial membrane. According to Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>b, each of the chosen proteins had its specific membrane weight, consistent with the results.</p>
+          <p id="Par35">Each protein&#x2019;s outer and inner membrane portions were discovered and later recognized as functional areas by overlaying the sequence onto the PRED-TMBB findings and using the starting and ending amino acid sequences of the epitope. The resulting protein's immunogenicity will be more potent as the more epitopes protrude from the surface, the longer the projecting amino acid sequences. BLS protein has scored much higher than the cutoff criterion based on this study (Table <xref rid="Tab3" ref-type="table">3</xref>). BLS is thus chosen as the most antigenic molecule since it has functional exterior epitopes.<table-wrap id="Tab3"><label>Table 3</label><caption><p>B-cell epitope prediction. Antigenic scores of the analyzed proteins</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Protein</th><th align="left">Minimum antigenic score</th><th align="left">Maximum antigenic score</th><th align="left">Average antigenic score</th><th align="left">Threshold antigenic score</th></tr></thead><tbody><tr><td align="left">BLS</td><td align="left">0.884</td><td align="left">1.195</td><td align="left">1.043</td><td align="left">1.000</td></tr><tr><td align="left">PliC</td><td align="left">0.243</td><td align="left">0.575</td><td align="left">0.477</td><td align="left">1.000</td></tr><tr><td align="left">Oml</td><td align="left">0.225</td><td align="left">0.610</td><td align="left">0.440</td><td align="left">1.000</td></tr></tbody></table></table-wrap></p>
+        </sec>
+      </sec>
+      <sec id="Sec33">
+        <title>In-vitro analysis</title>
+        <sec id="Sec34">
+          <title>Confirmation of&#xA0;transformed pNZ8148-BLS-Usp45 in&#xA0;<italic>L. lactis</italic></title>
+          <p id="Par36">Using direct colony PCR and double digestion assessment with two restriction enzymes, the recombinant plasmid pNZ8148-BLS-Usp45 was verified. DNA analysis showed that the recombinant plasmid's virulence gene sequence was 100% identical to that of the <italic>B.</italic>
+<italic>abortus</italic> bacterium.</p>
+          <p id="Par37">The recombinant plasmid was then provided the GenBank nucleotide sequence Accession number MH734194.1 after DNA sequencing. The BLS gene digestion fragments at 477&#xA0;bp were electrophoretically isolated to ensure that the recombinant plasmid was successfully produced (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>a).<fig id="Fig3"><label>Fig. 3</label><caption><p><bold>a</bold> Lane 1: recombinant plasmid before enzymatic digestion, Lane 2: double enzyme digestion shows the 477&#xA0;bp band of the gene along with the signal peptide. <bold>b</bold> Line 1: <italic>L.</italic>
+<italic>lactis</italic> transformed with a vector lacking the target gene, line 2: expression of BLS gene transcription at the mRNA level and the formation of 477&#xA0;bp band in <italic>L.</italic>
+<italic>lactis</italic> transformed with a recombinant vector. <bold>c</bold> SDS-PAGE electrophoresis of the recombinant <italic>L.</italic>
+<italic>lactis</italic> protein mixture. <italic>L.</italic>
+<italic>lactis</italic> bacteria were altered in lane 1 using the recombinant BLS vector pNZ8148-Usp45. Lane 2: <italic>L.</italic>
+<italic>lactis</italic> bacteria were altered by an empty vector that did not express the desired protein. Lane M: marker. <bold>d</bold> Verify the presence of recombinant protein in transformed <italic>L.</italic>
+<italic>lactis</italic> bacteria using a western blot. Line 1: <italic>L.</italic>
+<italic>lactis</italic> bacteria transformed with the recombinant vector pNZ8148-BLS-Usp45, M: marker, Line 2: <italic>L.</italic>
+<italic>lactis</italic> bacteria transformed with a vector lacking the target gene</p></caption><graphic xlink:href="203_2023_3471_Fig3_HTML" id="MO3"/></fig></p>
+        </sec>
+        <sec id="Sec35">
+          <title>Expression of recombinant <italic>L. lactis</italic> /pNZ8148-BLS-Usp45 in mRNA and protein level</title>
+          <p id="Par38">Reverse transcriptase-PCR was used to measure the relative levels of the expression pattern of the BLS Gene delivery (RT-PCR). The 477&#xA0;bp band on the agarose gel indicates that the gene has undergone transcription (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>b). Rojan Azma's SDS-PAGE and Western blot analyses additionally demonstrated that the particular proteins were produced at the protein level. The target group produced the 18&#xA0;kDa-sized BLS protein, as evidenced by antigen expression at the SDS-PAGE, but the control group did not (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>c). In Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>d, samples of <italic>L.</italic>
+<italic>lactis</italic> protein from our recombinant <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 organism and the bacteria transformed with an empty vector (pNZ8148) are also subjected to Western blot examination.</p>
+        </sec>
+        <sec id="Sec36">
+          <title>The analysis of&#xA0;the&#xA0;IgG titer</title>
+          <p id="Par39">Sera were obtained from several BALB/c mice vaccinated intragastrically with <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148, <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45, <italic>L.</italic>
+<italic>lactis</italic>, pNZ814, and PBS, as well as from a group of mice that had been vaccinated subcutaneously with the IRIBA Vac. The analysis of the IgG response showed a significant increase in comparison to the control (PBS) administered group, and the changes in IgG antibody response in the group immunized with intragastric <italic>L.</italic>
+<italic>lactis</italic> /pNZ8148-BLS-Usp45 are reported as significantly different between before and after last vaccination (<italic>P</italic>&#x2009;&lt;&#x2009;0.01) (Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>a). After 28&#xA0;days, no significant antibodies were produced in the PBS-administered group (<italic>P</italic>&#x2009;=&#x2009;0.226). Serum IgG antibody titers were more significant in the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148 group than in the PBS and pNZ814 groups (<italic>P</italic>&#x2009;&lt;&#x2009;0.05). The serum IgG antibody values in the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148 administration group were slightly greater than those in the <italic>L.</italic>
+<italic>lactis</italic> administration group; however, the differences were not statistically significant (<italic>P</italic>&#x2009;=&#x2009;0.312) and were lower than those in the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and <italic>IRIBA-vac</italic> administration group (<italic>P</italic>&#x2009;&lt;&#x2009;0.001). When mice were vaccinated intragastrically with <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and subcutaneously with IRIBA Vac, a substantial increase in the antibody levels was seen between before (day 0) and after the final vaccination (day 28) (<italic>P</italic>&#x2009;&lt;&#x2009;0.001). Additionally, it demonstrated no discernible changes between mice that had been inoculated via subcutaneous injection and those who had been given <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 intragastrically. Additionally, an indirect ELISA was used to examine BLS-specific IgG1 or IgG2a in BALB/c mice. As shown in Fig. <xref rid="Fig4" ref-type="fig">4</xref>b, c, mice immunized with <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 produced significantly more BLS-specific IgG1 and IgG2a in their serum 14&#xA0;days after stimulation compared to the PBS control group. At day 28, comparable significant values were observed; however, the levels had recovered to baseline compared to the PBS negative control groups. The results showed that levels of BLS-specific IgG1 and IgG2a were considerably (<italic>P</italic>&#x2009;&lt;&#x2009;0.001) higher 14&#xA0;days after vaccination in both the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccine (positive control) groups compared to the values from mice in the PBS control group.<fig id="Fig4"><label>Fig. 4</label><caption><p><bold>a</bold> BLS-specific mucosal total IgG antibodies in mice. Sample obtained from mice after oral immunization with different groups of vaccines. <bold>b</bold> Thirty days following the last vaccination, BALB/c mice exhibit humoral immunological response. 1:200 serum dilutions of rBLS-specific IgG1 from various groups of mice. <bold>c</bold> BLS-specific mucosal IgG2a antibodies. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001</p></caption><graphic xlink:href="203_2023_3471_Fig4_HTML" id="MO4"/></fig></p>
+        </sec>
+        <sec id="Sec37">
+          <title>Cytokine production</title>
+          <p id="Par40">In vitro research was conducted on the cytokine secretion of spleen cells upon re-stimulation. Splenocytes from vaccinated and non-immunized mice were generated in response to a challenge. Animals given PBS, pNZ8148, <italic>L.</italic>
+<italic>lactis</italic>, and <italic>L.</italic>
+<italic>lactis</italic>&#x2013;pNZ8148 did not significantly alter the unstimulated state of their cells (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). Unimmunized (saline inoculation) animal cells, on the other hand, did not significantly increase their IFN-&#x3B3; and TNF-&#x3B1; production following re-stimulation (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). After 14&#xA0;days, <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccine-infused mouse cells released higher IFN-&#x3B3; and TNF-&#x3B1; (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>). On days 14 and 28, samples from mice who received the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccines, as well as the negative control groups, showed higher levels of IFN-&#x3B3; and TNF-&#x3B1;, respectively (<italic>P</italic>&#x2009;&lt;&#x2009;0.001) (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>). The levels of IFN-&#x3B3; and TNF-&#x3B1; in the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccination groups at day 28 were remarkably equal to those in the control groups (<italic>P</italic>&#x2009;&lt;&#x2009;0.001). Despite a reduction compared to controls, IFN-&#x3B3; and TNF-&#x3B1; concentrations were still considerably greater on day 28. The induction of IL-4 and IL-10 in mice that had received vaccinations was also assessed. The findings demonstrated that no mice given the vaccine had produced IL-4 or IL-10 14&#xA0;days following immunization. Additionally, animals were vaccinated with the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 vaccine. They administered the IRBA vaccination displayed substantially greater IL-4 and IL-10 titers at 28&#xA0;days following vaccination (<italic>P</italic>&#x2009;&lt;&#x2009;0.05) than mice exposed to the control groups of the pathogen.<fig id="Fig5"><label>Fig. 5</label><caption><p>The splenocyte supernatants of the control and vaccinated groups included cytokine levels. In mice inoculated with various vaccinations, the levels of inhibitory cytokines (IL-4, IL-10) and functional cytokines (IFN-&#x3B3;, TNF-&#x3B1;) were measured in the spleen. PBS served as a standard. *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01</p></caption><graphic xlink:href="203_2023_3471_Fig5_HTML" id="MO5"/></fig></p>
+        </sec>
+        <sec id="Sec38">
+          <title>The transcription level of cytokines increased in the spleen and small intestine</title>
+          <p id="Par41">The quantity of cytokine transcription in the spleen and small intestine was assessed using a quantitative real-time PCR technique. In the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccination groups, the IFN-&#x3B3; and TNF-&#x3B1; transcription levels were significantly higher than those in other groups. The small intestine and spleen had the same results. Real-time PCR findings from the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccination groups showed significantly different levels of IFN-&#x3B3; and TNF-&#x3B1; gene expression from those from the other groups, and these results were also consistent with ELISA. IL-4 and IL-10 transcription levels were considerably higher in the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccination groups than in the other groups. The outcomes in the spleen and small intestine were the same. In comparison to other groups, the <italic>L.</italic>
+<italic>lactis</italic>/pNZ8148-BLS-Usp45 and IRBA vaccination groups had significantly greater transcription levels of IL-4 and IL-10 (Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>).<fig id="Fig6"><label>Fig. 6</label><caption><p><bold>a</bold> Cytokine levels were found in the spleen of the control and immunized groups. <bold>b</bold> Cytokine levels were found in the small intestine of the control and immunized groups. ****<italic>P</italic>&#x2009;&lt;&#x2009;0.0001</p></caption><graphic xlink:href="203_2023_3471_Fig6_HTML" id="MO6"/></fig></p>
+        </sec>
+        <sec id="Sec39">
+          <title>Protective activity of vaccinated mice against <italic>B. abortus</italic></title>
+          <p id="Par42">The mice were exposed to pathogenic <italic>B.</italic>
+<italic>abortus</italic> isolates to test any potential protective effects of the different immunization groups. The <italic>B.</italic>
+<italic>abortus</italic> isolates were used in three different replicates of the study. The spleen weights of mice given various control vaccines 15&#xA0;days after infection considerably reduced compared to those inoculated with the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 and IRBA vaccine (Table <xref rid="Tab4" ref-type="table">4</xref>). Mice immunized with IRBA, or <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45, did not exhibit any statistically significant alterations (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). The IRBA vaccine groups, <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45, and non-challenge groups did not differ from one another substantially (<italic>P</italic>&#x2009;&gt;&#x2009;0.05). Six <italic>B.</italic>
+<italic>abortus</italic>-exposed mice were randomly chosen, and their mortality, weight fluctuations, and general health were tracked every day for 15&#xA0;days.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Survival percentage and clinical indicators of each group</p></caption><graphic position="anchor" xlink:href="203_2023_3471_Tab4_HTML" id="MO7"/><table-wrap-foot><p>0 (normal, active, healthy), -1 (slightly sick, slightly ruffled fur, otherwise normal), -2 (ill, ruffled fur, sluggish movement, hunching), -3 (extremely sick, ruffled hair, very slow movement, stooped, eyes shut), -4 (moribund), and -5&#xA0;(dead)</p></table-wrap-foot></table-wrap></p>
+          <p id="Par43">All of the mice in the control group perished seven days after the experiment, according to Table <xref rid="Tab4" ref-type="table">4</xref>. The 15-day survival rates of mice models immunized with <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 were 87.5% when challenged with a lethal dosage of <italic>B.</italic>
+<italic>abortus</italic> isolates. These values were much more significant than mice given the IRBA vaccine (62.5%). Seven days following the challenge, each group's body mass and clinical symptom scores reached their lowest points. Fifteen days following the trial, the mice's body weight was normal, and the symptoms vanished.</p>
+        </sec>
+        <sec id="Sec40">
+          <title>Vaccinated mice showed lower bacterial loads and pathological lesions</title>
+          <p id="Par44">We evaluated the efficacy of the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 vaccine using a challenging experiment in BALB/c mice to assess protection. Three isolates of clinical <italic>B.</italic>
+<italic>abortus</italic> were given to each group. Six mice from each category were randomly chosen to determine how many germs were present in the spleen tissue (Fig. S1). Forty-eight hours after the challenge, six mice from each group were removed, serially diluted, and then plated on <italic>Brucella</italic> agar with 5% blood plates. The plates were then incubated at 37&#xA0;&#xB0;C overnight. The log10 CFU/mL ratio was computed and compared following the CFU count. Compared to the animals in the other groups, the mice that received the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 vaccination had reduced spleen bacterial loads (Fig. S1). Following the challenge, the left spleen tissue was aseptically removed, preserved in a 4% formalin solution, stained with hematoxylin&#x2013;eosin, and examined under a microscope. Figure&#xA0;<xref rid="Fig7" ref-type="fig">7</xref> shows that the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 and IRIBA-vac group's spleen parts had less severe spleen damage, alveolar edema, lymphocyte infiltration, and topological damage as a result of the inflammatory process than other groups. The <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 vaccination groups had cleaner alveoli and were more normal than the other groups. Spleen failure in the <italic>L.</italic>
+<italic>lactis</italic>-pNZ8148-BLS-Usp45 groups was much less severe than in the other groups after the mice were exposed to the vaccination, indicating that the animals had a less inflammatory response to spleen failure.<fig id="Fig7"><label>Fig. 7</label><caption><p>Hematoxylin&#x2013;eosin staining of spleen tissue sections. <bold>a</bold>&#x2013;<bold>d</bold> Respectively, magnification 4&#xA0;&#xD7;, 10&#xA0;&#xD7;, 40&#xA0;&#xD7;, 100&#xA0;&#xD7;&#x2014;increased space of sinusoids (blue arrow), spleen tissue necrosis (green arrow), bleeding in the tissue (yellow arrow), abscess in the tissue, brucellosis (red arrow)&#xA0;(color figure online)</p></caption><graphic xlink:href="203_2023_3471_Fig7_HTML" id="MO8"/></fig></p>
+          <p id="Par45">The Middle East has a high prevalence of brucellosis, and vaccination is strongly advised to avoid the illness due to the high expenditures associated with the cattle business (Dorneles et al. <xref ref-type="bibr" rid="CR9">2015</xref>). Novel vaccination approaches with the goals of maximizing protective immunity, minimizing side effects, safe handling, straightforward administration, and low manufacturing and delivery costs could reduce safety issues and outweigh the drawbacks of the live attenuated strains of <italic>Brucella</italic> currently used to restrict brucellosis (Saez et al. <xref ref-type="bibr" rid="CR33">2012</xref>). The appealing vaccination strategies depend on locating and utilizing novel <italic>Brucella</italic> immunogenic proteins to create novel recombinant vaccines (Vishnu et al. <xref ref-type="bibr" rid="CR37">2015</xref>). <italic>Escherichia</italic>
+<italic>coli</italic> has only been used in limited research to produce the preventative recombinant vaccine against brucellosis (Gupta et al. <xref ref-type="bibr" rid="CR12">2012</xref>).</p>
+          <p id="Par46">Most pathogenic microorganisms start their infectious cycles on mucosal surfaces. Therefore, if the colonization and penetration of infectious organisms were to halt at this point, infection would not occur. For this reason, a vaccine must be developed to promote cellular and mucosal protection. According to current research, lactic acid bacteria (LAB) are one of the most effective options for creating mucosal vaccines because they may generate mucosal immunity when used as a live delivery vector for antigens. The current work aims to introduce <italic>Lactococcus</italic>
+<italic>lactis</italic> as a beneficial, non-pathogenic mucosal immunotherapy and manufacture the immune-stimulatory rBLS-Usp45 protein as a substitute for the <italic>E.</italic>
+<italic>coli</italic> manufacturing system owing to its benefits (Rezaei et al. <xref ref-type="bibr" rid="CR31">2021</xref>). We looked into the capacity of <italic>L.</italic>
+<italic>lactis</italic> to transfer the protein antigen to the gastrointestinal tract and subsequently immunize the mice by carrying blank vector pNZ8148 and rBLS-Usp45. However, the challenge assay in mice against a pathogenic <italic>Brucella</italic> strain is necessary to address the assumption to investigate the effectiveness of oral vaccination. The findings validated earlier studies linking high IgG reactions to the fusion rBLS-Usp45 antigen as an effective immunogen to elicit specific antibodies (Ghasemi et al. <xref ref-type="bibr" rid="CR11">2015</xref>).</p>
+          <p id="Par47">In contrast to live attenuated strains of <italic>Brucella</italic>, which carry the risk of reverting to their original virulent form, choosing the preferred antigens of bacteria because they only contain the preferred immunogenic epitopes in future subunit-based vaccines rather than the entire bacterium could be the ideal choice toward establishing novel vaccination strategies (Delany et al. <xref ref-type="bibr" rid="CR10">2013</xref>). Studies on reverse vaccination are one of the novel sciences that may be used to find potential antigenic options (Beiranvand et al. <xref ref-type="bibr" rid="CR3">2021</xref>). A genetic investigation to identify a potential vaccination against <italic>B.</italic>
+<italic>abortus</italic> isolates is included in this publication. The <italic>B.</italic>
+<italic>abortus</italic> genome is being used uniquely to discover vaccine candidates. An effort to find potential vaccine candidates for <italic>meningococcus</italic>
+<italic>serogroup</italic> B (Neisseria meningitides), reported in 2000, was the first traditional instance of practical reverse vaccinology (Kelly and Rappuoli <xref ref-type="bibr" rid="CR21">2005</xref>). After some time, a <italic>meningococcus</italic> serogroup B vaccine was discovered in 2006 (Giuliani et al. <xref ref-type="bibr" rid="CR14">2006</xref>), and encouraging findings were shown after human clinical tests in 2011 (Toneatto et al. <xref ref-type="bibr" rid="CR36">2011</xref>). Pathogen antigen discovery continued until Chiang et al. (<xref ref-type="bibr" rid="CR6">2015</xref>) used reverse vaccinology to effectively identify three antigens as vaccine candidates (Chiang et al. <xref ref-type="bibr" rid="CR6">2015</xref>). Reverse vaccinology allows us to filter the proteome using practical criteria, such as protein localization, non-similarity to the human proteome, and MHC binding affinity, reducing the trial-and-error required to uncover potential vaccine candidates (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR26">2022a</xref>). Reverse vaccinology algorithms may quickly identify a particular antigen or a collection of antigens for vaccine design programs using the genetic and cellular protein data on infections. In addition, it is a cost-effective strategy because most screening algorithms and genetic data are readily available. Reverse vaccination is also effective against various diseases, including parasites, viruses, fungi, and bacteria. Using the BLAST program, this strategy may be used for any microorganism (Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR27">2022b</xref>).</p>
+          <p id="Par48">In the theory that the live vector mucosal vaccine can increase the efficacy of our constructed vaccine because of its various roles in innate and adaptive immunity by contributing to the generation of antigen-specific immune function and its adjuvant effect on IgG1 and IgG2a antibody production, we conjectured the BLS as an immunogenic surface-exposed antigen with the Usp45 secretion factor could be a rational choice toward achieving this goal. Previously, Steindler had noted that administering immunoregulatory cytokines and antigens improved a vaccine&#x2019;s efficacy (Steidler et al. <xref ref-type="bibr" rid="CR35">1998</xref>; Piri-Gharaghie et al. <xref ref-type="bibr" rid="CR28">2023</xref>).</p>
+          <p id="Par49">Many authors have looked at using lactobacilli as oral vaccine vectors. Since probiotics readily live in the digestive tract without harming it and retain tight contact with the epithelium, this idea has been investigated. Moreover, several writers have investigated their immunomodulatory abilities (Yu et al. <xref ref-type="bibr" rid="CR39">2013</xref>; Piri Gharaghie&#xA0;et al. <xref ref-type="bibr" rid="CR28">2023</xref>; Pouwels&#xA0;et al. <xref ref-type="bibr" rid="CR29">1998</xref>). Because of this last characteristic, they have been used in conjunction with vaccinations for intracellular microbes. For example, <italic>L.</italic>
+<italic>rhamnosus</italic> acts as an adjuvant for the polymorphic membrane protein C (N-Pmpc) vaccine and boosts both humoral and specific cell immune function (Inic-Kanada et al. <xref ref-type="bibr" rid="CR17">2016</xref>). Better results have been observed when probiotics are used alongside immunizations to prevent brucellosis.</p>
+          <p id="Par50">A ribosomal protein called L7/L12 causes a reaction specific to cells. <italic>L.</italic>
+<italic>lactis</italic> was altered by Ribeiro et al. (<xref ref-type="bibr" rid="CR32">2002</xref>) utilizing the gene L7/L12. When given orally to BALB/c mice, the vaccination produced large quantities of lgA versus L7/L12 in the feces. However, no specific antibodies were discovered in the blood, indicating that no systemic response was elicited. A more excellent defense was produced by administering the probiotic intraperitoneally.</p>
+          <p id="Par51">According to Bermdez-Humar&#xE1;n et al. (<xref ref-type="bibr" rid="CR4">2003</xref>), when given to C57BL/6 mice via the nasal route, <italic>L.</italic>
+<italic>lactis</italic> converted to generate IL-12 alongside <italic>L.</italic>
+<italic>lactis</italic>, and E7 antigen of the human papillomavirus type 16 induced a Th1-type reaction with significant IFN-&#x3B3; secretion in splenocytes. Based on this research, oral administration of two recombinant isolates of <italic>L.</italic>
+<italic>lactis</italic>, one encoding Cu/Zn SOD and the other generating IL-12, was performed on BALB/c mice. In reaction to re-stimulation with SOD or crude <italic>Brucella</italic> protein extract, the animals generated notable amounts of SOD-specific slgA in nasal and bronchoalveolar lavage and T cell proliferation.</p>
+          <p id="Par52">Real-time PCR and ELISA techniques were used in this work to assess the transcriptional and expression levels of inhibitory and functional cytokines. According to our findings, significant levels of IFN-&#x3B3; and TNF-&#x3B1; cytokines were produced on day 14 following the last vaccination and IL-10 and IL-4 cytokines on day 28. Additionally, the transcriptional data and the amount of expression of the immune cells' proteins were both consistent.</p>
+          <p id="Par53">An earlier live vaccination based on the beta antigen C (Bac) molecule was created by Gupalova et al. (<xref ref-type="bibr" rid="CR13">2018</xref>). To immunize mucous membranes, they employed the probiotic bacteria <italic>Enterococcus</italic>
+<italic>faecium</italic> L3. The probiotic strain's capacity to grow at the mucosal level increases the amount of protein by the approach, which is advantageous. However, the development of immune tolerance through ongoing antigenic stimulation must be considered. <italic>L.</italic>
+<italic>lactis</italic>, in contrast, has a GRAS status of food grade and is a non-invasive, non-pathogenic bacterium (Berm&#xFA;dez-Humar&#xE1;n et al. <xref ref-type="bibr" rid="CR5">2011</xref>). As a result, it may be utilized to create live vaccines without running the risk of colonization, which lowers the danger of tolerance development. Its peptidoglycan wall also functions as a biological adjuvant (Medina et al. <xref ref-type="bibr" rid="CR24">2010</xref>).</p>
+          <p id="Par54">In this situation, we have seen a substantial reduction in bacterial load in the mice inoculated with <italic>L.</italic>
+<italic>lactis</italic>, suggesting that live vector vaccine can reduce bacterial colonization. Live vector vaccine intrinsic features for triggering a particular immune reaction against antigens of different infections have been previously revealed (Medina et al. <xref ref-type="bibr" rid="CR24">2010</xref>).</p>
+          <p id="Par55">These findings suggest that <italic>rL.</italic>
+<italic>Lactic</italic>-BLS as an expression vector can produce live oral vaccines that are inexpensive, simple to administer, and effective at preventing <italic>B.</italic>
+<italic>abortus</italic> infection. Because of their opsonophagocytic activity, serum antibodies play a crucial role in mucosal defense. Additionally, <italic>B.</italic>
+<italic>abortus</italic> could not propagate throughout the body due to the unique serum humoral reaction to BLS.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec41">
+      <title>Conclusion</title>
+      <p id="Par56">As a result, intraperitoneal and oral administration of routes is appropriate, even though the route has been found to differ in IgG response for immunization mice. However, a mucosal-administered vaccine based on <italic>L.</italic>
+<italic>lactis</italic> can live there, withstand stomach acid, and adhere to mucosal surfaces, which is a sensible alternative for creating a brucellosis-controlling vaccine. In conclusion, the orally administered live <italic>Lactococcus</italic>-based vaccine can be viewed as an alternative possible vaccine delivery vector for the pathogenic live <italic>Brucella</italic> vaccines now in use to create a future vaccine that is both effective and safe against brucellosis.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Information</title>
+      <sec id="Sec42">
+        <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="203_2023_3471_MOESM1_ESM.docx"><caption><p>Supplementary file1 (DOCX 148 KB)</p></caption></media></supplementary-material></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank the staff members of the Biotechnology Research Center of the Islamic Azad University of Shahrekord Branch in Iran for their help and support. This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Author contributions</title>
+      <p>AD: the idea, the experimental part of microbiology, data interpretation and writing the microbiology part. ZF: the experimental part and writing of the microbiology part. MSJ: saving our needs from antiquities in addition to revision. AD: the idea and the experimental part of Chemistry. The authors have no relevant financial support.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data availability</title>
+      <p>Data available at request.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar2" notes-type="COI-statement">
+        <title>Conflict of interest</title>
+        <p id="Par57">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p>
+      </notes>
+      <notes id="FPar3">
+        <title>Ethical approval</title>
+        <p id="Par58">The animal experiments were approved by the Ethical Research Committee in the Islamic azad university of Shahrekord branch (IR.IAU.SHK.REC.1401.004).</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ansari</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tahmasebi-Birgani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bijanzadeh</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kargar</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Study of the immunogenicity of outer membrane protein A (ompA) gene from <italic>Acinetobacter</italic>
+<italic>baumannii</italic> as DNA vaccine candidate in vivo</article-title>
+          <source>Iran J Basic Med Sci</source>
+          <year>2019</year>
+          <volume>22</volume>
+          <issue>6</issue>
+          <fpage>669</fpage>
+          <pub-id pub-id-type="pmid">31231495</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Badmasti</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Habibi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Firoozeh</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fereshteh</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bolourchi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Goodarzi</surname>
+              <given-names>NN</given-names>
+            </name>
+          </person-group>
+          <article-title>The combination of CipA and PBP-7/8 proteins contribute to the survival of C57BL/6 mice from sepsis of <italic>Acinetobacter</italic>
+<italic>baumannii</italic></article-title>
+          <source>Microb Pathog</source>
+          <year>2021</year>
+          <volume>158</volume>
+          <fpage>105063</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2021.105063</pub-id>
+          <pub-id pub-id-type="pmid">34166729</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Beiranvand</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mirzaei</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Putative novel B-cell vaccine candidates identified by reverse vaccinology and genomics approaches to control <italic>Acinetobacter</italic>
+<italic>baumannii</italic> serotypes</article-title>
+          <source>Infect Genet Evol</source>
+          <year>2021</year>
+          <volume>96</volume>
+          <fpage>105138</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.meegid.2021.105138</pub-id>
+          <pub-id pub-id-type="pmid">34793968</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berm&#xFA;dez-Humar&#xE1;n</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Langella</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cortes-Perez</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Gruss</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tamez-Guerra</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Le Loir</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Intranasal immunization with recombinant <italic>Lactococcus</italic>
+<italic>lactis</italic> secreting murine interleukin-12 enhances antigen-specific Th1 cytokine production</article-title>
+          <source>Infect Immun</source>
+          <year>2003</year>
+          <volume>71</volume>
+          <issue>4</issue>
+          <fpage>1887</fpage>
+          <lpage>1896</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.71.4.1887-1896.2003</pub-id>
+          <pub-id pub-id-type="pmid">12654805</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berm&#xFA;dez-Humar&#xE1;n</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Kharrat</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Chatel</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Langella</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Lactococci and lactobacilli as mucosal delivery vectors for therapeutic proteins and DNA vaccines</article-title>
+          <source>Microb Cell Fact</source>
+          <year>2011</year>
+          <volume>10</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">21211066</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chiang</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Sung</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Lien</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>YZ</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>AFY</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Chong</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of novel vaccine candidates against <italic>Acinetobacter</italic>
+<italic>baumannii</italic> using reverse vaccinology</article-title>
+          <source>Hum Vaccines Immunother</source>
+          <year>2015</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>1065</fpage>
+          <lpage>1073</lpage>
+          <pub-id pub-id-type="doi">10.1080/21645515.2015.1010910</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chehelgerdi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of the cagW-based gene vaccine on the immunologic properties of BALB/c mouse: an efficient candidate for <italic>Helicobacter</italic>
+<italic>pylori</italic> DNA vaccine</article-title>
+          <source>J Nanobiotechnol</source>
+          <year>2020</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12951-020-00618-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dahouk</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>K&#xF6;hler</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Occhialini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jim&#xE9;nez de Bag&#xFC;&#xE9;s</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Hammerl</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Eisenberg</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Scholz</surname>
+              <given-names>HC</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Brucella</italic> spp. of amphibians comprise genomically diverse motile strains competent for replication in macrophages and survival in mammalian hosts</article-title>
+          <source>Sci Rep</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1038/srep44420</pub-id>
+          <pub-id pub-id-type="pmid">28127051</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dorneles</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sriranganathan</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Lage</surname>
+              <given-names>AP</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent advances in <italic>Brucella</italic> abortus vaccines</article-title>
+          <source>Vet Res</source>
+          <year>2015</year>
+          <volume>46</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id>
+          <pub-id pub-id-type="pmid">25582708</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Delany</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Rappuoli</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Seib</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Vaccines, reverse vaccinology, and bacterial pathogenesis</article-title>
+          <source>Cold Spring Harb Perspect Med</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <issue>5</issue>
+          <fpage>a012476</fpage>
+          <pub-id pub-id-type="doi">10.1101/cshperspect.a012476</pub-id>
+          <pub-id pub-id-type="pmid">23637311</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ghasemi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jeddi-Tehrani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mautner</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Salari</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Zarnani</surname>
+              <given-names>AH</given-names>
+            </name>
+          </person-group>
+          <article-title>Simultaneous immunization of mice with Omp31 and TF provides protection against <italic>Brucella</italic> melitensis infection</article-title>
+          <source>Vaccine</source>
+          <year>2015</year>
+          <volume>33</volume>
+          <issue>42</issue>
+          <fpage>5532</fpage>
+          <lpage>5538</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.09.013</pub-id>
+          <pub-id pub-id-type="pmid">26384448</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>VK</given-names>
+            </name>
+            <name>
+              <surname>Radhakrishnan</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Harms</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Splitter</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Invasive Escherichia coli vaccines expressing <italic>Brucella</italic>
+<italic>melitensis</italic> outer membrane proteins 31 or 16 or periplasmic protein BP26 confer protection in mice challenged with <italic>B.</italic>
+<italic>melitensis</italic></article-title>
+          <source>Vaccine</source>
+          <year>2012</year>
+          <volume>30</volume>
+          <issue>27</issue>
+          <fpage>4017</fpage>
+          <lpage>4022</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2012.04.036</pub-id>
+          <pub-id pub-id-type="pmid">22546330</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupalova</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Leontieva</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kramskaya</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Grabovskaya</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bormotova</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Korjevski</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Suvorov</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of experimental GBS vaccine for mucosal immunization</article-title>
+          <source>PLoS ONE</source>
+          <year>2018</year>
+          <volume>13</volume>
+          <issue>5</issue>
+          <fpage>e0196564</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0196564</pub-id>
+          <pub-id pub-id-type="pmid">29727446</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giuliani</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Adu-Bobie</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Comanducci</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Aric&#xF2;</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Savino</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Santini</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Pizza</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>A universal vaccine for serogroup B meningococcus</article-title>
+          <source>Proc Natl Acad Sci</source>
+          <year>2006</year>
+          <volume>103</volume>
+          <issue>29</issue>
+          <fpage>10834</fpage>
+          <lpage>10839</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0603940103</pub-id>
+          <pub-id pub-id-type="pmid">16825336</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hosseinnezhad-Lazarjani</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sharifzadeh</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel csuC-DNA nanovaccine based on chitosan candidate vaccine against infection with <italic>Acinetobacter</italic>
+<italic>baumannii</italic></article-title>
+          <source>Vaccine</source>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2023.02.046</pub-id>
+          <pub-id pub-id-type="pmid">36841724</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishwarlall</surname>
+              <given-names>TZ</given-names>
+            </name>
+            <name>
+              <surname>Adeleke</surname>
+              <given-names>VT</given-names>
+            </name>
+            <name>
+              <surname>Maharaj</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Okpeku</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Adeniyi</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Adeleke</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of potential candidate vaccines against <italic>Mycobacterium</italic>
+<italic>ulcerans</italic> based on the major facilitator superfamily transporter protein</article-title>
+          <source>Front Immunol</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <fpage>1023558</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2022.1023558</pub-id>
+          <pub-id pub-id-type="pmid">36426350</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Inic-Kanada</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Stojanovic</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Marinkovic</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Becker</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Stein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lukic</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Barisani-Asenbauer</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>A probiotic adjuvant <italic>Lactobacillus</italic>
+<italic>rhamnosus</italic> enhances specific immune responses after ocular mucosal immunization with chlamydial polymorphic membrane protein C</article-title>
+          <source>PLoS ONE</source>
+          <year>2016</year>
+          <volume>11</volume>
+          <issue>9</issue>
+          <fpage>e0157875</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0157875</pub-id>
+          <pub-id pub-id-type="pmid">27636704</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jeyananthan</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Afkhami</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>D'Agostino</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Zganiacz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Xing</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential biodistribution of adenoviral-vectored vaccine following intranasal and endotracheal deliveries leads to different immune outcomes</article-title>
+          <source>Front Immunol</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <fpage>860399</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2022.860399</pub-id>
+          <pub-id pub-id-type="pmid">35757753</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klafack</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schr&#xF6;der</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lenk</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>PY</given-names>
+            </name>
+            <name>
+              <surname>Fuchs</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Bergmann</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of an attenuated vaccine against Koi herpesvirus disease (KHVD) suitable for oral administration and immersion</article-title>
+          <source>Npj Vaccines</source>
+          <year>2022</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41541-022-00525-6</pub-id>
+          <pub-id pub-id-type="pmid">35013319</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kazi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ismail</surname>
+              <given-names>CMKH</given-names>
+            </name>
+            <name>
+              <surname>Anthony</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Chuah</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Leow</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Leow</surname>
+              <given-names>CY</given-names>
+            </name>
+          </person-group>
+          <article-title>Designing and evaluation of an antibody-targeted chimeric recombinant vaccine encoding <italic>Shigella</italic>
+<italic>flexneri</italic> outer membrane antigens</article-title>
+          <source>Infect Genet Evol</source>
+          <year>2020</year>
+          <volume>80</volume>
+          <fpage>104176</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.meegid.2020.104176</pub-id>
+          <pub-id pub-id-type="pmid">31923724</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kelly</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Rappuoli</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pollard</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Finn</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Reverse vaccinology and vaccines for serogroup B <italic>Neisseria meningitidis</italic></article-title>
+          <source>Hot Topics in Infection and Immunity in Children II</source>
+          <year>2005</year>
+          <publisher-loc>Boston</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+          <fpage>217</fpage>
+          <lpage>223</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lawhon</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Burbick</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Zapp</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Villaflor</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Thelen</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>An update on novel taxa and revised taxonomic status of bacteria isolated from domestic animals described in 2018 to 2021</article-title>
+          <source>J Clin Microbiol</source>
+          <year>2022</year>
+          <volume>61</volume>
+          <issue>2</issue>
+          <fpage>e00281&#x2013;22</fpage>
+          <pub-id pub-id-type="doi">10.1128/jcm.00281-22</pub-id>
+          <pub-id pub-id-type="pmid">36533907</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miyoshi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Berm&#xFA;dez-Humar&#xE1;n</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Le Loir</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Langella</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Azevedo</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Heterologous expression of <italic>Brucella</italic> abortus GroEL heat-shock protein in Lactococcus lactis</article-title>
+          <source>Microb Cell Fact</source>
+          <year>2006</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1186/1475-2859-5-14</pub-id>
+          <pub-id pub-id-type="pmid">16396686</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Medina</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Vinti&#xF1;i</surname>
+              <given-names>EO</given-names>
+            </name>
+            <name>
+              <surname>Villena</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Raya</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Alvarez</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Lactococcus</italic>
+<italic>lactis</italic>as an adjuvant and delivery vehicle of antigens against pneumococcal respiratory infections</article-title>
+          <source>Bioeng Bugs</source>
+          <year>2010</year>
+          <volume>1</volume>
+          <issue>5</issue>
+          <fpage>313</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="doi">10.4161/bbug.1.5.12086</pub-id>
+          <pub-id pub-id-type="pmid">21326831</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pal</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gizaw</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fekadu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Alemayehu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kandi</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Public health and economic importance of bovine Brucellosis: an overview</article-title>
+          <source>Am J Epidemiol</source>
+          <year>2017</year>
+          <volume>5</volume>
+          <issue>2</issue>
+          <fpage>27</fpage>
+          <lpage>34</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piri-Gharaghie</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mirzaei</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of antigenic properties of <italic>Acinetobacter</italic>
+<italic>baumannii</italic> proteins as novel putative vaccine candidates using reverse vaccinology approach</article-title>
+          <source>Appl Biochem Biotechnol</source>
+          <year>2022</year>
+          <volume>194</volume>
+          <issue>10</issue>
+          <fpage>4892</fpage>
+          <lpage>4914</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12010-022-03995-5</pub-id>
+          <pub-id pub-id-type="pmid">35670904</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piri-Gharaghie</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Jegargoshe-Shirin</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Saremi-Nouri</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Khademhosseini</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Hoseinnezhad-Lazarjani</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mousavi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Fatehi-Ghahfarokhi</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of Imipenem-containing Niosome nanoparticles against high prevalence methicillin-resistant <italic>Staphylococcus</italic><italic> epidermidis</italic> biofilm formed</article-title>
+          <source>Sci Rep</source>
+          <year>2022</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>5140</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-022-09195-9</pub-id>
+          <pub-id pub-id-type="pmid">35332241</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piri-Gharaghie</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Doosti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mirzaei</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel adjuvant nano-vaccine induced immune response against <italic>Acinetobacter baumannii</italic></article-title>
+          <source>AMB Express</source>
+          <year>2023</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+          <pub-id pub-id-type="doi">10.1186/s13568-023-01531-0</pub-id>
+          <pub-id pub-id-type="pmid">36592236</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pouwels</surname>
+              <given-names>PH</given-names>
+            </name>
+            <name>
+              <surname>Leer</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Shaw</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>den Bak-Glashouwer</surname>
+              <given-names>MJH</given-names>
+            </name>
+            <name>
+              <surname>Tielen</surname>
+              <given-names>FD</given-names>
+            </name>
+            <name>
+              <surname>Smit</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Jore</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>PL</given-names>
+            </name>
+          </person-group>
+          <article-title>Lactic acid bacteria as antigen delivery vehicles for oral immunization purposes</article-title>
+          <source>Int J Food Microbiol</source>
+          <year>1998</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>155</fpage>
+          <lpage>167</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0168-1605(98)00048-8</pub-id>
+          <pub-id pub-id-type="pmid">9704864</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rezaei</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rabbani-Khorasgani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zarkesh-Esfahani</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Emamzadeh</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Abtahi</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of the Omp16 epitopes for the development of an epitope-based vaccine against Brucellosis</article-title>
+          <source>Infect Disord Drug Targets (formerly Curr Drug Targets Infect Disord)</source>
+          <year>2019</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>36</fpage>
+          <lpage>45</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rezaei</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rabbani-Khorasgani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zarkesh-Esfahani</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Emamzadeh</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Abtahi</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Lactococcus-based vaccine against brucellosis: IgG immune response in mice with rOmp16-IL2 fusion protein</article-title>
+          <source>Arch Microbiol</source>
+          <year>2021</year>
+          <volume>203</volume>
+          <issue>5</issue>
+          <fpage>2591</fpage>
+          <lpage>2596</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00203-021-02241-6</pub-id>
+          <pub-id pub-id-type="pmid">33689001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Azevedo</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Le Loir</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Dieye</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Piard</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Langella</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Production and targeting of the <italic>Brucella</italic> abortus antigen L7/L12 in <italic>Lactococcus</italic>
+<italic>lactis</italic>: a first step towards food-grade live vaccines against brucellosis</article-title>
+          <source>Appl Environ Microbiol</source>
+          <year>2002</year>
+          <volume>68</volume>
+          <issue>2</issue>
+          <fpage>910</fpage>
+          <lpage>916</lpage>
+          <pub-id pub-id-type="doi">10.1128/AEM.68.2.910-916.2002</pub-id>
+          <pub-id pub-id-type="pmid">11823235</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>S&#xE1;ez</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Fern&#xE1;ndez</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Rivera</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Andrews</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>O&#xF1;ate</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral immunization of mice with recombinant <italic>Lactococcus</italic>
+<italic>lactis</italic> expressing Cu, Zn superoxide dismutase of <italic>Brucella</italic>
+<italic>abortus</italic> triggers protective immunity</article-title>
+          <source>Vaccine</source>
+          <year>2012</year>
+          <volume>30</volume>
+          <issue>7</issue>
+          <fpage>1283</fpage>
+          <lpage>1290</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2011.12.088</pub-id>
+          <pub-id pub-id-type="pmid">22222868</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <mixed-citation publication-type="other">Sunita, Sajid A, Singh Y, Shukla P (2020) Computational tools for modern vaccine development. Hum Vaccines Immunother 16(3):723&#x2013;735</mixed-citation>
+      </ref>
+      <ref id="CR35">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Steidler</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Chamberlain</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Schofield</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Remaut</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Le Page</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Wells</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucosal delivery of murine interleukin-2 (IL-2) and IL-6 by recombinant strains of <italic>Lactococcus</italic>
+<italic>lactis</italic> coexpressing antigen and cytokine</article-title>
+          <source>Infect Immun</source>
+          <year>1998</year>
+          <volume>66</volume>
+          <issue>7</issue>
+          <fpage>3183</fpage>
+          <lpage>3189</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.66.7.3183-3189.1998</pub-id>
+          <pub-id pub-id-type="pmid">9632584</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toneatto</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ismaili</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ypma</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Vienken</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Oster</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Dull</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The first use of an investigational multicomponent meningococcal serogroup B vaccine (4CMenB) in humans</article-title>
+          <source>Hum Vaccin</source>
+          <year>2011</year>
+          <volume>7</volume>
+          <issue>6</issue>
+          <fpage>646</fpage>
+          <lpage>653</lpage>
+          <pub-id pub-id-type="doi">10.4161/hv.7.6.15482</pub-id>
+          <pub-id pub-id-type="pmid">21904120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vishnu</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Sankarasubramanian</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Gunasekaran</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Rajendhran</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel vaccine candidates against <italic>Brucella</italic>
+<italic>melitensis</italic> identified through reverse vaccinology approach</article-title>
+          <source>Omics J Integr Biol</source>
+          <year>2015</year>
+          <volume>19</volume>
+          <issue>11</issue>
+          <fpage>722</fpage>
+          <lpage>729</lpage>
+          <pub-id pub-id-type="doi">10.1089/omi.2015.0105</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wyszy&#x144;ska</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kobierecka</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bardowski</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jagusztyn-Krynicka</surname>
+              <given-names>EK</given-names>
+            </name>
+          </person-group>
+          <article-title>Lactic acid bacteria&#x2014;20 years exploring their potential as live vectors for mucosal vaccination</article-title>
+          <source>Appl Microbiol Biotechnol</source>
+          <year>2015</year>
+          <volume>99</volume>
+          <issue>7</issue>
+          <fpage>2967</fpage>
+          <lpage>2977</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00253-015-6498-0</pub-id>
+          <pub-id pub-id-type="pmid">25750046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucosal Lactobacillus vectored vaccines</article-title>
+          <source>Hum Vaccin Immunother</source>
+          <year>2013</year>
+          <volume>9</volume>
+          <issue>4</issue>
+          <fpage>805</fpage>
+          <lpage>807</lpage>
+          <pub-id pub-id-type="doi">10.4161/hv.23302</pub-id>
+          <pub-id pub-id-type="pmid">23322214</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

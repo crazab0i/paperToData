@@ -1,0 +1,858 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Front Vet Sci</journal-id><journal-id journal-id-type="iso-abbrev">Front Vet Sci</journal-id><journal-id journal-id-type="publisher-id">Front. Vet. Sci.</journal-id><journal-title-group><journal-title>Frontiers in Veterinary Science</journal-title></journal-title-group><issn pub-type="epub">2297-1769</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38957801</article-id><article-id pub-id-type="pmc">11217538</article-id><article-id pub-id-type="doi">10.3389/fvets.2024.1389728</article-id><article-categories><subj-group subj-group-type="heading"><subject>Veterinary Science</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Production and evaluation of anti-BP26 monoclonal antibodies for the serological detection of animal brucellosis</article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Guo</surname><given-names>Xiaohan</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="fn0001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1614732/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/data-curation/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Sun</surname><given-names>Mingjun</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="fn0001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/465409/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Guo</surname><given-names>Yu</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="fn0001" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/></contrib><contrib contrib-type="author"><name><surname>Wu</surname><given-names>Yao</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/2631658/overview"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Yan</surname><given-names>Xin</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Mengda</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/890364/overview"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Jiaqi</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Xiangxiang</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Xiaoxu</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/341010/overview"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Haobo</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1901095/overview"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Sun</surname><given-names>Shufang</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Jianlong</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c002" ref-type="corresp">
+<sup>*</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Yin</surname><given-names>Dehui</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="c003" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1033994/overview"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Key Laboratory of Human Genetics and Environmental Medicine, School of Public Health, Xuzhou Medical University</institution>, <addr-line>Xuzhou</addr-line>, <country>China</country></aff><aff id="aff2"><sup>2</sup><institution>Laboratory of Zoonoses, China Animal Health and Epidemiology Center</institution>, <addr-line>Qingdao</addr-line>, <country>China</country></aff><aff id="aff3"><sup>3</sup><institution>Testing Laboratory, Inner Mongolia Animal Disease Control Center</institution>, <addr-line>Hohhot</addr-line>, <country>China</country></aff><aff id="aff4"><sup>4</sup><institution>College of Animal Science and Technology, Shandong Agriculture University</institution>, <addr-line>Taian</addr-line>, <country>China</country></aff><author-notes><fn fn-type="edited-by" id="fn0002"><p>Edited by: Nitin Vasantrao Kurkure, Maharashtra Animal and Fishery Sciences University, India</p></fn><fn fn-type="edited-by" id="fn0003"><p>Reviewed by: Jeanni Fehrsen, Onderstepoort Veterinary Institute (ARC-SA), South Africa</p><p>Laxmi Narayan Sarangi, National Dairy Development Board, India</p></fn><corresp id="c001">*Correspondence: Shufang Sun, <email>sunshufang@cahec.cn</email></corresp><corresp id="c002">Jianlong Wang, <email>nmgxmcwjl@163.com</email></corresp><corresp id="c003">Dehui Yin, <email>yindh16@xzhmu.edu.cn</email></corresp><fn fn-type="equal" id="fn0001"><p><sup>&#x2020;</sup>These authors have contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>18</day><month>6</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>11</volume><elocation-id>1389728</elocation-id><history><date date-type="received"><day>22</day><month>2</month><year>2024</year></date><date date-type="accepted"><day>31</day><month>5</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 Guo, Sun, Guo, Wu, Yan, Liu, Li, Sun, Fan, Zhang, Sun, Wang and Yin.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Guo, Sun, Guo, Wu, Yan, Liu, Li, Sun, Fan, Zhang, Sun, Wang and Yin</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><p><italic>Brucella</italic> BP26 proves to be a highly immunogenic antigen with excellent specificity in brucellosis detection. In China, the authorized use of the Bp26-deleted vaccine M5&#x394;BP26 for preventing small ruminant brucellosis highlights the importance of developing accurate detection methods targeting BP26, particularly for the diagnosis of differentiation between infected and vaccinated animals (DIVA). Using the traditional mouse hybridoma technique, we successfully obtained 12 monoclonal antibodies (mAbs) targeting BP26. The efficacy of these mAbs in detecting various animal brucellosis cases using the competitive ELISA method was evaluated. Among them, only the E10 mAb exhibited significant efficiency, being inhibited by 100, 97.62, and 100% of brucellosis-positive sera from cattle, small ruminants, and canines, respectively. The E10-based competitive enzyme-linked immunosorbent assay (cELISA) outperformed the BP26-based indirect enzyme-linked immunosorbent assay (iELISA) in accuracy, particularly for cattle and small ruminant brucellosis, with cELISA sensitivity reaching 97.62% compared to 64.29% for iELISA for small ruminants. Although cELISA showed slightly lower specificity than iELISA, it still maintained high accuracy in canine brucellosis detection. The epitope of mAb E10 was identified in the amino acid sequence QPIYVYPDDKNNLKEPTITGY, suggesting its potential as a diagnostic antigen for brucellosis. In conclusion, the E10-based cELISA presents an effective means of detecting animal brucellosis, particularly significant for DIVA diagnosis in China, where the BP26-mutant vaccine is widely used.</p></abstract><kwd-group><kwd>brucellosis</kwd><kwd>competitive ELISA</kwd><kwd>BP26</kwd><kwd>diagnosis</kwd><kwd>monoclonal antibodies</kwd></kwd-group><funding-group><award-group><funding-source id="cn1">Xuzhou Science and Technology Bureau</funding-source><award-id award-type="contract" rid="cn1">KC23306</award-id></award-group><award-group><funding-source id="cn2">Medical Research Program of Jiangsu Commission of Health</funding-source><award-id award-type="contract" rid="cn2">Z2023080</award-id></award-group><award-group><funding-source id="cn3"><institution-wrap><institution>National Key Research and Development Program of China</institution><institution-id institution-id-type="doi">10.13039/501100012166</institution-id></institution-wrap></funding-source><award-id award-type="contract" rid="cn3">2021YFD1800402</award-id></award-group><award-group><funding-source id="cn4">Postgraduate Research and Practice Innovation Program of Jiangsu Province</funding-source><award-id award-type="contract" rid="cn4">KYCX23-2963</award-id></award-group></funding-group><funding-group><funding-statement>The author(s) declare that financial support was received for the research, authorship, and/or publication of this article. This study was supported by the Xuzhou Science and Technology Bureau (Grant number KC23306), the Medical Research Program of Jiangsu Commission of Health (Grant number Z2023080), the National Key Research and Development Program of China (Grant number 2021YFD1800402), and the Postgraduate Research and Practice Innovation Program of Jiangsu Province (Grant number KYCX23-2963).</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="4"/><equation-count count="0"/><ref-count count="21"/><page-count count="7"/><word-count count="4420"/></counts><custom-meta-group><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Veterinary Experimental and Diagnostic Pathology</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="sec1">
+      <label>1</label>
+      <title>Introduction</title>
+      <p>The 26-kDa periplasmic protein of <italic>Brucella</italic>, BP26, serves as a robust immunogenic antigen capable of eliciting an antibody response in <italic>Brucella</italic>-infected animals (<xref rid="ref1" ref-type="bibr">1&#x2013;8</xref>). Despite a delayed and weaker antibody response compared to <italic>Brucella</italic> O-polysaccharide (OPS) antigen (<xref rid="ref3" ref-type="bibr">3</xref>), BP26 exhibits higher specificity in brucellosis detection (<xref rid="ref9" ref-type="bibr">9</xref>), with minimal cross-reactivity with sera infected with other bacterial pathogens. Additionally, BP26 presents an advantage in detecting brucellosis caused by rough <italic>Brucella</italic> strains, which lack OPS antigen on their surface (<xref rid="ref4" ref-type="bibr">4</xref>, <xref rid="ref10" ref-type="bibr">10</xref>).</p>
+      <p>Furthermore, studies have demonstrated that BP26 gene-deleted vaccines maintain their protective efficacy against wild-type <italic>Brucella</italic> strains, making BP26-deficient vaccines, such as S19 and Rev1, preferable for achieving serological differentiation between infected and vaccinated animals (DIVA) (<xref rid="ref11" ref-type="bibr">11&#x2013;14</xref>). In China, the authorization of the BP26-mutant vaccine M5&#x394;BP26 for preventing small ruminant brucellosis highlights the importance of developing detection methods targeting BP26 in facilitating DIVA strategies with the widespread use of M5&#x394;BP26 vaccines (<xref rid="ref15" ref-type="bibr">15</xref>).</p>
+      <p>We and other researchers have evaluated the efficacy of the BP26-based indirect enzyme-linked immunosorbent assay (iELISA) in serologically detecting various forms of animal brucellosis (<xref rid="ref7" ref-type="bibr">7</xref>, <xref rid="ref16" ref-type="bibr">16</xref>). Fewer studies have explored the competitive enzyme-linked immunosorbent assay (cELISA) using anti-BP26 monoclonal antibodies (mAbs) for brucellosis detection (<xref rid="ref17" ref-type="bibr">17</xref>, <xref rid="ref18" ref-type="bibr">18</xref>). In this study, we used the traditional mouse hybridoma technique to generate a panel of mAbs targeting BP26. Using a collection of brucellosis-positive sera, we assessed the ability of these mAbs to detect different forms of animal brucellosis, identifying one mAb with high efficiency in cELISA for this purpose. We anticipate that our findings will contribute to the development of novel diagnostic methods for brucellosis.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec2">
+      <label>2</label>
+      <title>Materials and methods</title>
+      <sec id="sec3">
+        <label>2.1</label>
+        <title>Ethics statement</title>
+        <p>The animal study was reviewed and approved by the Experimental Animal Ethics Committee of Xuzhou Medical University (approval number: 202208W051).</p>
+      </sec>
+      <sec id="sec4">
+        <label>2.2</label>
+        <title>Production of anti-BP26 mAbs</title>
+        <p>The BP26 protein (reference strain: 16M/ATCC 23456/NCTC 10094) was expressed using a prokaryotic expression system established in our laboratory (<xref rid="ref16" ref-type="bibr">16</xref>). The immunization of BALB/c mice and hybridoma screening procedures followed methods outlined in a previously published study (<xref rid="ref18" ref-type="bibr">18</xref>). Anti-BP26 mAbs were generated by intraperitoneal inoculation of mice with hybridoma cells. Mouse ascites containing mAbs were collected and purified using a commercial Protein G column (Sangon Biotech, Shanghai, China). The purity of the mAbs was assessed using SDS-PAGE.</p>
+      </sec>
+      <sec id="sec5">
+        <label>2.3</label>
+        <title>Sera</title>
+        <p>All sera utilized in this experiment were archived at the Chinese Animal Epidemiology and Health Center (CAHEC) with well-documented backgrounds. Positive sera were sourced from animals from which wild-type <italic>Brucella</italic> had been isolated, while negative sera originated from animals raised in brucellosis-free zones. A total of 245 sera were included in the study, comprising 96 from small ruminants (naturally infected: 42; negative: 54), 96 from dairy cattle (naturally infected: 44; negative: 52), and 53 from canines (naturally infected: 7; negative: 46). Additionally, 231 sera from ruminants immunized with the M5&#x394;BP26 vaccine were collected. These sera were used to assess the efficacy of both the iELISA and cELISA methods.</p>
+        <p>Furthermore, rabbit sera (purchased from Tianjin Biochip Corporation, Tianjin, China) artificially infected with <italic>Y. enterocolitica O9</italic>, <italic>E. coli</italic> (O157:H7, O116), <italic>Salmonella urban</italic>, <italic>Ochrobactrum anthropi</italic>, and <italic>Vibrio cholerae</italic> were utilized to assess the specificity of both the iELISA and cELISA methods. Rabbit sera underwent the same testing procedures similar to those for small ruminants, cattle, and canines, including dilutions. HRP-conjugated goat anti-rabbit IgG (diluted at 1:10,000, Bioworld, MN, United States) was used as the secondary antibody.</p>
+      </sec>
+      <sec id="sec6">
+        <label>2.4</label>
+        <title>The characterization of BP26 epitopes recognized by mAbs</title>
+        <p>Six linear polypeptides of BP26 were synthesized, and iELISA was conducted as previously described (<xref rid="ref19" ref-type="bibr">19</xref>). In brief, 100&#x2009;&#x3BC;L of peptide-KLH conjugate (10&#x2009;&#x3BC;g/mL) was coated onto microplates (Corning, NY, United States) in 0.1&#x2009;M of carbonate buffer (pH 9.6) and incubated overnight at 4&#xB0;C. The plates were then washed three times with phosphate-buffered saline containing 0.05% Tween-20 (PBST) and blocked with 5% skimmed milk for 2&#x2009;h at 37&#xB0;C. After washing three times with PBST, 100&#x2009;&#x3BC;L of purified mAb at 1&#x2009;&#x3BC;g/mL was added to each well and incubated at 37&#xB0;C for 1&#x2009;h with the same volume of normal mouse serum used as a negative control. The plates were washed again three times and then incubated with 100&#x2009;&#x3BC;L of horseradish peroxidase (HRP)-conjugated recombinant protein G (diluted at 1:10,000) (Bersee, Beijing, China) for 45&#x2009;min at 37&#xB0;C. TMB was used as the colorimetric substrate, and the optical density was measured at 450&#x2009;nm (OD450) using an ELISA plate reader (BioTek, United States). A ratio of OD450 value of mAb to normal mouse sera of above 1.5 was considered a positive result.</p>
+      </sec>
+      <sec id="sec7">
+        <label>2.5</label>
+        <title>iELISA and cELISA</title>
+        <p>The iELISA was conducted following previously established procedures with slight modifications (<xref rid="ref16" ref-type="bibr">16</xref>). One change was the concentration of BP26 protein used to coat the microplates, which was adjusted to 1&#x2009;&#x3BC;g/mL. Additionally, commercial blocking buffer (BioFX, United States) was substituted for 5% skimmed milk.</p>
+        <p>For cELISA, critical conditions, such as the coating concentration of BP26 and the volume of serum and mAbs, were optimized using checkerboard titration. HRP-conjugated rabbit anti-mouse IgG (diluted at 1:10,000) (Sangon, China) served as the secondary antibody to detect the mAb. The remaining steps were identical to those of the iELISA. All samples were repeated three times.</p>
+      </sec>
+      <sec id="sec8">
+        <label>2.6</label>
+        <title>Statistical analysis</title>
+        <p>The overall sensitivity and specificity of iELISA and cELISA in detecting animal brucellosis were calculated using receiver operating characteristic (ROC) curves. The optimal cutoff values were defined using the highest sum of sensitivity and specificity. For each optimal cutoff value, the main parameters, such as sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV), were calculated. The dot plot was performed using GraphPad Prism version 6.05.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec9">
+      <label>3</label>
+      <title>Results</title>
+      <sec id="sec10">
+        <label>3.1</label>
+        <title>The production of anti-BP26 mAbs and epitope recognition analysis</title>
+        <p>After screening, a total of 12 hybridoma cell lines were found to secrete mAbs, which were reactive to BP26. Then, mAbs were prepared from mouse ascites and coded as E1&#x2013;E12. Based on the results of BP26 polypeptides iELISA, the mAb E10 reacted to the polypeptide of QPIYVYPDDKNNLKEPTITGY and three mAbs coded as E4, E5, and E8 reacted to polypeptide AAAPDNSVPIAAGENSYNVSVNVVFE, while the remaining eight mAbs did not react to any of these polypeptides (<xref rid="tab1" ref-type="table">Table 1</xref>).</p>
+        <table-wrap position="float" id="tab1">
+          <label>Table 1</label>
+          <caption>
+            <p>BP26 polypeptides and recognition by mAbs.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">No. polypeptides</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">Sequence of amino acids</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Recognized by</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AFAQENQMTTQPARIAV</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2014;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">KAGIEDRDLQTGGIN</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2014;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P3</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">QPIYVYPDDKNNLKEPTITGY</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E10</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P4</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GVNQGGDLNLVNDNPSAVIN</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2014;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LSRPPMPMP</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2014;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">P6</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AAAPDNSVPIAAGENSYNVSVNVVFE</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E4, E5, E8</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="sec11">
+        <label>3.2</label>
+        <title>The inhibition of animal brucellosis-positive sera to mAbs</title>
+        <p>cELISA was conducted individually for cattle, small ruminants, and canine brucellosis-positive sera using these mAbs. The inhibition percentage (IP) for each mAb was calculated as [100&#x2009;&#x2212;&#x2009;(OD450 value of positive serum/OD450 value of negative serum)&#x2009;&#xD7;&#x2009;100] %. Based on the IP values, the positive sera were categorized into five groups: &lt;20%, 20&#x2013;39%, 40&#x2013;59%, 60&#x2013;79%, and &#x2265;80%.</p>
+        <p>If a serum with an IP value of more than 20% was positive, E10 inhibited 100% of cattle brucellosis sera, 97.62% of small ruminant sera, and 100% of canine sera (<xref rid="tab2" ref-type="table">Table 2</xref>). With the same brucellosis-positive sera, the other mAbs exhibited significantly lower IPs compared to E10. Similarly, when the threshold value of IP was raised to 40%, E10 still displayed the highest IPs for cattle, small ruminants, and canine brucellosis-positive sera, with values of 38.64, 57.14, and 100%, respectively. Based on these results, E10 was selected as the preferred choice for assembling a BP26-based cELISA kit.</p>
+        <table-wrap position="float" id="tab2">
+          <label>Table 2</label>
+          <caption>
+            <p>Number of sera detected by anti-BP26 mAbs under different IP ranges.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="2" colspan="1">Number of sera</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">Anti-BP26 mAb</th>
+                <th align="center" valign="top" colspan="5" rowspan="1">Number of sera with different IP ranges</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">Percentage of sera with IP more than 20% (%)</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">Percentage of sera with IP more than 40% (%)</th>
+              </tr>
+              <tr>
+                <th align="center" valign="top" rowspan="1" colspan="1">&lt;20%</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">20&#x2013;39%</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">40&#x2013;59%</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">60&#x2013;79%</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">&#x2265;80%</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="12" colspan="1">Cattle (44)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.55</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E4</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">9.09</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.55</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E5</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">34</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">22.73</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">9.09</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">9.09</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.55</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E8</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.55</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E9</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.55</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E10</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">100.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">38.64</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E11</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.27</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E12</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">36</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">18.18</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">13.64</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="12" colspan="1">Small ruminants (42)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E4</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">39</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">7.14</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.76</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E5</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">28</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">33.33</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">9.52</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E8</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">38</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">9.52</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.76</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E9</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E10</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">17</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">10</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">97.62</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">57.14</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E11</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">4.76</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">2.38</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E12</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">32</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">4</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">23.81</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">16.67</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="12" colspan="1">Canine (7)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">5</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">28.57</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E4</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E5</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E6</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">57.14</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">14.29</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" rowspan="1" colspan="1">E7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" rowspan="1" colspan="1">E8</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">14.29</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" rowspan="1" colspan="1">E9</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" rowspan="1" colspan="1">E10</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">4</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">100.00</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">100.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" rowspan="1" colspan="1">E11</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">14.29</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">0.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" rowspan="1" colspan="1">E12</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">57.14</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">28.57</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="sec12">
+        <label>3.3</label>
+        <title>The efficiency of the E10-based cELISA in detecting animal brucellosis</title>
+        <p>To evaluate the efficacy of mAb E10 in detecting animal brucellosis, cELISA was conducted using positive and negative sera from various domestic animals, including cattle, small ruminants, and canines. The optimal coating concentration of BP26 protein was set at 10&#x2009;&#x3BC;g/mL, and the optimal serum volume used was 30&#x2009;&#x3BC;L, which was mixed with 70&#x2009;&#x3BC;L of pre-diluted mAb (0.875&#x2009;&#x3BC;g/mL) before transferring to each well of the microplate.</p>
+        <p>The largest area under the ROC curve was observed for small ruminant sera (AUC&#x2009;=&#x2009;0.9974), followed by cattle (AUC&#x2009;=&#x2009;0.9934) and canine sera (AUC&#x2009;=&#x2009;0.9814) (<xref rid="fig1" ref-type="fig">Figure 1</xref>). Using the optimal cutoff values, the cELISA accuracy for small ruminants was the highest (97.94%), with PPV and NPV recorded as 97.62 and 98.18%, respectively (<xref rid="tab3" ref-type="table">Table 3</xref>). Cattle sera showed similar accuracy, although the PPV was slightly lower than that of small ruminant sera. Canine sera exhibited the highest PPV (100%), but due to the limited number of samples, the NPV was the lowest, resulting in the lowest overall accuracy among the three groups of sera.</p>
+        <fig position="float" id="fig1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Dot plot and ROC of the E10-based cELISA in detecting animal brucellosis sera.</p>
+          </caption>
+          <graphic xlink:href="fvets-11-1389728-g001" position="float"/>
+        </fig>
+        <table-wrap position="float" id="tab3">
+          <label>Table 3</label>
+          <caption>
+            <p>PPV and NPV of the E10-based cELISA in detecting animal brucellosis sera.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="2" colspan="1">Cutoff value</th>
+                <th align="center" valign="top" colspan="2" rowspan="1">Positive</th>
+                <th align="center" valign="top" colspan="2" rowspan="1">Negative</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">PPV (%)</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">NPV (%)</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">Accuracy (%)</th>
+              </tr>
+              <tr>
+                <th align="center" valign="top" rowspan="1" colspan="1">TP</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">FN</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">TN</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">FP</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.7283 (cattle)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">51</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">93.18</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">98.07</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">95.83</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.8370 (small ruminant)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">41</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">54</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">1</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">97.62</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">98.18</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">97.94</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.6973 (canine)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">43</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">3</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">100</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">93.48</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">94.34</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>TP, true positives; TN, true negatives; FP, false positives; FN, false negatives; accuracy, (TP&#x2009;+&#x2009;TN)/(TP&#x2009;+&#x2009;FN&#x2009;+&#x2009;TN&#x2009;+&#x2009;FP)&#x2009;&#xD7;&#x2009;100; PPV, positive predictive value TP/(TP&#x2009;+&#x2009;FP)&#x2009;&#xD7;&#x2009;100; NPV, negative predictive value TN/(TN&#x2009;+&#x2009;FN)&#x2009;&#xD7;&#x2009;100.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="sec13">
+        <label>3.4</label>
+        <title>The efficiency of the BP26-based iELISA in detecting animal brucellosis</title>
+        <p>Compared to cELISA, the same collections of brucellosis-positive and brucellosis-negative sera were also tested by the BP26-based iELISA. The optimal coating concentration of BP26 protein for iELISA was 0.3&#x2009;&#x3BC;g/mL, much lower than cELISA.</p>
+        <p>According to the result of iELISA, the largest area under the ROC curve was obtained for canine sera (AUC&#x2009;=&#x2009;1.0000), followed by cattle (AUC&#x2009;=&#x2009;0.9578) and small ruminant sera (AUC&#x2009;=&#x2009;0.8126) (<xref rid="fig2" ref-type="fig">Figure 2</xref>). Using the optimal cutoff values, the accuracy of cELISA for canine sera was the highest (100%), meaning that all the positive and negative sera were correctly distinguished. Lower accuracy values were obtained for cattle and small ruminant sera (89.58 and 82.30%, respectively) (<xref rid="tab4" ref-type="table">Table 4</xref>).</p>
+        <fig position="float" id="fig2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Dot plot and ROC of the BP26-based iELISA in detecting animal brucellosis sera.</p>
+          </caption>
+          <graphic xlink:href="fvets-11-1389728-g002" position="float"/>
+        </fig>
+        <table-wrap position="float" id="tab4">
+          <label>Table 4</label>
+          <caption>
+            <p>PPV and NPV of the BP26-based iELISA in detecting animal brucellosis sera.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="2" colspan="1">Cutoff value</th>
+                <th align="center" valign="top" colspan="2" rowspan="1">Positive</th>
+                <th align="center" valign="top" colspan="2" rowspan="1">Negative</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">PPV (%)</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">NPV (%)</th>
+                <th align="center" valign="top" rowspan="2" colspan="1">Accuracy (%)</th>
+              </tr>
+              <tr>
+                <th align="center" valign="top" rowspan="1" colspan="1">TP</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">FN</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">TN</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">FP</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.1362 (cattle)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">42</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">44</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">8</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">95.45</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">84.61</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">89.58</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.2040 (small ruminant)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">27</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">15</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">52</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">2</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">64.29</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">96.30</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">82.30</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&lt;0.4753 (canine)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">7</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">46</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">100.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">100.00</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">100.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="sec14">
+        <label>3.5</label>
+        <title>Cross-reaction to other serum</title>
+        <p>If a ratio of S/N (OD<sub>450</sub>, sample/negative) &gt;2.0 in iELISA or N/S &gt;2.0 in cELISA was considered to be positive, neither E10-based cELISA nor BP26-based iELISA identified the rabbit sera-infected by <italic>Y. enterocolitica O9</italic>, <italic>E. coli</italic> (<italic>O157:H7</italic>, <italic>O116</italic>), <italic>Salmonella urban</italic>, <italic>Ochrobactrum anthropi,</italic> and <italic>Vibrio cholerae</italic>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec15">
+      <label>4</label>
+      <title>Discussion</title>
+      <p>Among the protein antigens utilized for brucellosis detection, BP26 has been extensively studied. Previous research has shown that the BP26-based iELISA can effectively detect various cases of animal brucellosis. However, our experiment suggests that cELISA using anti-BP26 mAbs may be more efficient. Overall, the cELISA method established in this study outperformed iELISA, particularly in terms of accuracy for detecting cattle and small ruminant sera (<xref rid="tab3" ref-type="table">Tables 3</xref>, <xref rid="tab4" ref-type="table">4</xref>). Notably, there was a significant difference in small ruminant detection between cELISA (97.62%) and iELISA (64.29%). Conversely, iELISA showed higher accuracy in detecting canine brucellosis, achieving 100% accuracy as compared to 94.34% for cELISA. This difference primarily stemmed from slightly lower specificity in cELISA, although sensitivity remained comparable to iELISA. Unfortunately, the limited availability of brucellosis-positive sera in canine in our experiment reflects the insufficient attention given to canine brucellosis in China, resulting in a shortage of qualified serum samples. Thus, further evaluation is necessary to assess the efficacy of anti-BP26 mAb-based cELISA in detecting rough <italic>Brucella</italic>-induced brucellosis.</p>
+      <p>BP26 is an immunogenic protein capable of stimulating various mAbs targeting different epitopes within the mouse model (<xref rid="ref17" ref-type="bibr">17</xref>, <xref rid="ref18" ref-type="bibr">18</xref>). In our experiment, mAb E10 demonstrated significant potential in detecting animal brucellosis, while mAbs E6 and E12 showed some ability but did not meet the necessary sensitivity and specificity requirements for diagnostics. The remaining nine mAbs were largely ineffective as diagnostic reagents. As mAb E10 reacted to the polypeptide QPIYVYPDDKNNLKEPTITGY, its recognized epitope likely lies within this sequence. Interestingly, Qiu et al. (<xref rid="ref18" ref-type="bibr">18</xref>) reported two epitopes recognized by anti-BP26 mAbs, one of which, with the sequence QPIYVYPD, overlaps with the polypeptide used in our experiment. Although we cannot confirm their exact identity, the antigenicity of the QPIYVYPDDKNNLKEPTITGY sequence suggests that it may be a useful diagnostic antigen for brucellosis. Furthermore, this proposed epitope falls within the BP26 region as described by Seco-Mediavilla et al. (<xref rid="ref20" ref-type="bibr">20</xref>), between amino acids 55 and 152, which showed superior specificity in detecting small ruminant sera. This finding aligns with our data, indicating that the E10-based cELISA also exhibits high specificity for brucellosis in small ruminants.</p>
+      <p>Currently, widespread vaccination with attenuated <italic>Brucella</italic> live vaccines is a key strategy for controlling animal brucellosis in high-prevalence areas, with vaccines possessing DIVA competency being particularly favored by authorities. In China, the commercialization and increasing utilization of the M5&#x394;BP26 vaccine, which contains a Bp26 deletion, for immunizing small ruminants are notable. The corresponding iELISA utilizing BP26 as an antigen has been proposed to differentiate between M5&#x394;BP26 vaccinated sera and naturally infected ones (<xref rid="ref21" ref-type="bibr">21</xref>). Given that the mAb E10-based cELISA established in this study demonstrated better sensitivity and specificity than iELISA, our unpublished data showed that all of the small ruminant sera collected from 7&#x2009;days to 207&#x2009;days after vaccination by M5&#x394;BP26 were not recognized by this cELISA method, demonstrating that the cELISA might be more suitable for the diagnosis of DIVA.</p>
+      <p>In conclusion, brucellosis remains a significant zoonotic disease, particularly in China, where it is highly endemic in certain regions. The cELISA and iELISA methods outlined in this study not only facilitate the detection of brucellosis in cattle, small ruminants, and canines but also serve as DIVA tests when the Bp26-deleted vaccine is administered. It is hoped that the vaccination and DIVA test strategy will expedite the eradication of animal brucellosis in China.</p>
+      <sec id="sec16">
+        <label>4.1</label>
+        <title>Limitations</title>
+        <p>Although our constructed cELISA effectively distinguishes animal brucellosis sera from non-brucellosis sera and can differentiate between immune sera and naturally infected sera in ruminants, our study has certain limitations. First, the sample size is limited, and expanding it will require verifying the sensitivity and specificity of the constructed method. Second, the M5&#x394;BP26 vaccine strain is specific to China, limiting the applicability of our method to distinguish vaccine-immune sera, which is used worldwide. Finally, our study only included small ruminants immunized sera, and further investigation is needed to assess its ability to differentiate between immunized and naturally infected sera in other animals.</p>
+      </sec>
+    </sec>
+    <sec sec-type="data-availability" id="sec17">
+      <title>Data availability statement</title>
+      <p>The original contributions presented in the study are included in the article/<xref rid="SM1" ref-type="supplementary-material">Supplementary material</xref>, further inquiries can be directed to the corresponding authors.</p>
+    </sec>
+    <sec sec-type="ethics-statement" id="sec18">
+      <title>Ethics statement</title>
+      <p>The animal study was approved by Experimental Animal Ethics Committee of Xuzhou Medical University. The study was conducted in accordance with the local legislation and institutional requirements.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="sec19">
+      <title>Author contributions</title>
+      <p>XG: Conceptualization, Data curation, Writing &#x2013; original draft. MS: Conceptualization, Writing &#x2013; original draft. YG: Conceptualization, Writing &#x2013; original draft. YW: Writing &#x2013; review &amp; editing. XY: Writing &#x2013; review &amp; editing. ML: Writing &#x2013; review &amp; editing. JL: Writing &#x2013; review &amp; editing. XS: Writing &#x2013; review &amp; editing. XF: Writing &#x2013; review &amp; editing. HZ: Funding acquisition, Writing &#x2013; review &amp; editing. SS: Conceptualization, Writing &#x2013; review &amp; editing. JW: Conceptualization, Writing &#x2013; review &amp; editing. DY: Funding acquisition, Methodology, Writing &#x2013; review &amp; editing.</p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="COI-statement" id="sec21">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="sec22">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="sec23">
+      <title>Supplementary material</title>
+      <p>The Supplementary material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fvets.2024.1389728/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fvets.2024.1389728/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <label>Supplementary TABLE 1</label>
+        <caption>
+          <p>Raw data for <xref rid="fig1" ref-type="fig">Figure 1</xref>.</p>
+        </caption>
+        <media xlink:href="Table_1.XLSX"/>
+      </supplementary-material>
+      <supplementary-material id="SM2" position="float" content-type="local-data">
+        <label>Supplementary TABLE 2</label>
+        <caption>
+          <p>Raw data for <xref rid="fig2" ref-type="fig">Figure 2</xref>.</p>
+        </caption>
+        <media xlink:href="Table_2.XLSX"/>
+      </supplementary-material>
+      <supplementary-material id="SM3" position="float" content-type="local-data">
+        <label>Supplementary TABLE 3</label>
+        <caption>
+          <p>Details of the production of BP26 antigen (epitope) and monoclonal antibodies.</p>
+        </caption>
+        <media xlink:href="Table_3.docx"/>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rossetti</surname><given-names>OL</given-names></name><name><surname>Arese</surname><given-names>AI</given-names></name><name><surname>Boschiroli</surname><given-names>ML</given-names></name><name><surname>Cravero</surname><given-names>SL</given-names></name></person-group>. <article-title>Cloning of <italic>Brucella abortus</italic> gene and characterization of expressed 26-kilodalton periplasmic protein: potential use for diagnosis</article-title>. <source>J Clin Microbiol</source>. (<year>1996</year>) <volume>34</volume>:<fpage>165</fpage>&#x2013;<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.1128/jcm.34.1.165-169.1996</pub-id>, PMID: <pub-id pub-id-type="pmid">8748294</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Debbarh</surname><given-names>HS</given-names></name><name><surname>Vizca&#xED;no</surname><given-names>N</given-names></name><name><surname>Saman</surname><given-names>E</given-names></name><name><surname>Dubray</surname><given-names>G</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name></person-group>. <article-title>Cloning, nucleotide sequence, and expression of the <italic>Brucella melitensis</italic> bp26 gene coding for a protein immunogenic in infected sheep</article-title>. <source>FEMS Microbiol Lett</source>. (<year>1996</year>) <volume>140</volume>:<fpage>139</fpage>&#x2013;<lpage>44</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1574-6968.1996.tb08327.x</pub-id>, PMID: <pub-id pub-id-type="pmid">8764475</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Baucheron</surname><given-names>S</given-names></name><name><surname>Vizcaino</surname><given-names>N</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name></person-group>. <article-title>Use of recombinant BP26 protein in serological diagnosis of <italic>Brucella melitensis</italic> infection in sheep</article-title>. <source>Clin Diagn Lab Immunol</source>. (<year>2001</year>) <volume>8</volume>:<fpage>772</fpage>&#x2013;<lpage>5</lpage>. doi: <pub-id pub-id-type="doi">10.1128/CDLI.8.4.772-775.2001</pub-id>, PMID: <pub-id pub-id-type="pmid">11427425</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zygmunt</surname><given-names>MS</given-names></name><name><surname>Baucheron</surname><given-names>S</given-names></name><name><surname>Vizcaino</surname><given-names>N</given-names></name><name><surname>Bowden</surname><given-names>RA</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name></person-group>. <article-title>Single-step purification and evaluation of recombinant BP26 protein for serological diagnosis of <italic>Brucella ovis</italic> infection in rams</article-title>. <source>Vet Microbiol</source>. (<year>2002</year>) <volume>87</volume>:<fpage>213</fpage>&#x2013;<lpage>20</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00052-4</pub-id>, PMID: <pub-id pub-id-type="pmid">12052332</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Tuteja</surname><given-names>U</given-names></name><name><surname>Kumar</surname><given-names>A</given-names></name><name><surname>Batra</surname><given-names>HV</given-names></name></person-group>. <article-title>Expression and purification of the 26 kDa periplasmic protein of <italic>Brucella abortus</italic>: a reagent for the diagnosis of bovine brucellosis</article-title>. <source>Biotechnol Appl Biochem</source>. (<year>2008</year>) <volume>49</volume>:<fpage>213</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1042/BA20070111</pub-id><pub-id pub-id-type="pmid">17685896</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tiwari</surname><given-names>AK</given-names></name><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Pal</surname><given-names>V</given-names></name><name><surname>Bhardwaj</surname><given-names>B</given-names></name><name><surname>Rai</surname><given-names>GP</given-names></name></person-group>. <article-title>Evaluation of the recombinant 10-kilodalton immunodominant region of the BP26 protein of <italic>Brucella abortus</italic> for specific diagnosis of bovine brucellosis</article-title>. <source>Clin Vaccine Immunol</source>. (<year>2011</year>) <volume>18</volume>:<fpage>1760</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1128/CVI.05159-11</pub-id>, PMID: <pub-id pub-id-type="pmid">21852548</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tian</surname><given-names>M</given-names></name><name><surname>Song</surname><given-names>M</given-names></name><name><surname>Yin</surname><given-names>Y</given-names></name><name><surname>Lian</surname><given-names>Z</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Hu</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Characterization of the main immunogenic proteins in Brucella infectio n for their application in diagnosis of brucellosis</article-title>. <source>Comp Immunol Microbiol Infect Dis</source>. (<year>2020</year>) <volume>70</volume>:<fpage>101462</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cimid.2020.101462</pub-id>, PMID: <pub-id pub-id-type="pmid">32143107</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nagalingam</surname><given-names>M</given-names></name><name><surname>Basheer</surname><given-names>TJ</given-names></name><name><surname>Balamurugan</surname><given-names>V</given-names></name><name><surname>Shome</surname><given-names>R</given-names></name><name><surname>Kumari</surname><given-names>SS</given-names></name><name><surname>Reddy</surname><given-names>GBM</given-names></name><etal/></person-group>. <article-title>Comparative evaluation of the immunodominant proteins of <italic>Brucella abortus</italic> for the diagnosis of cattle brucellosis</article-title>. <source>Vet World</source>. (<year>2021</year>) <volume>14</volume>:<fpage>803</fpage>&#x2013;<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.14202/vetworld.2021.803-812</pub-id>, PMID: <pub-id pub-id-type="pmid">33935431</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chart</surname><given-names>H</given-names></name><name><surname>Okubadejo</surname><given-names>OA</given-names></name><name><surname>Rowe</surname><given-names>B</given-names></name></person-group>. <article-title>The serological relationship between <italic>Escherichia coli</italic> O157 and <italic>Yersinia enterocolitica</italic> O9 using sera from patients with brucellosis</article-title>. <source>Epidemiol Infect</source>. (<year>1992</year>) <volume>108</volume>:<fpage>77</fpage>&#x2013;<lpage>85</lpage>. doi: <pub-id pub-id-type="doi">10.1017/S0950268800049529</pub-id>, PMID: <pub-id pub-id-type="pmid">1547843</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yao</surname><given-names>M</given-names></name><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Wei</surname><given-names>YR</given-names></name><etal/></person-group>. <article-title>Comparison of BP26, Omp25 and Omp31 and a multiepitope-based fusion protein in the serological detection of canine brucellosis</article-title>. <source>Infect Drug Resist</source>. (<year>2022</year>) <volume>15</volume>:<fpage>5301</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.2147/IDR.S374432</pub-id>, PMID: <pub-id pub-id-type="pmid">36101776</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boschiroli</surname><given-names>ML</given-names></name><name><surname>Cravero</surname><given-names>SL</given-names></name><name><surname>Arese</surname><given-names>AI</given-names></name><name><surname>Campos</surname><given-names>E</given-names></name><name><surname>Rossetti</surname><given-names>OL</given-names></name></person-group>. <article-title>Protection against infection in mice vaccinated with a <italic>Brucella abortus</italic> mutant</article-title>. <source>Infect Immun</source>. (<year>1997</year>) <volume>65</volume>:<fpage>798</fpage>&#x2013;<lpage>800</lpage>. doi: <pub-id pub-id-type="doi">10.1128/iai.65.2.798-800.1997</pub-id>, PMID: <pub-id pub-id-type="pmid">9009345</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guilloteau</surname><given-names>LA</given-names></name><name><surname>Laroucau</surname><given-names>K</given-names></name><name><surname>Olivier</surname><given-names>M</given-names></name><name><surname>Grillo</surname><given-names>MJ</given-names></name><name><surname>Marin</surname><given-names>CM</given-names></name><name><surname>Verger</surname><given-names>J-M</given-names></name><etal/></person-group>. <article-title>Residual virulence and immunogenicity of CGV26 and CGV2631 B. melitens is Rev. 1 deletion mutant strains in sheep after subcutaneous or conju nctival vaccination</article-title>. <source>Vaccine</source>. (<year>2006</year>) <volume>24</volume>:<fpage>3461</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2006.02.007</pub-id><pub-id pub-id-type="pmid">16519974</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jacques</surname><given-names>I</given-names></name><name><surname>Verger</surname><given-names>JM</given-names></name><name><surname>Laroucau</surname><given-names>K</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name><name><surname>Vizcaino</surname><given-names>N</given-names></name><name><surname>Peix</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Immunological responses and protective efficacy against <italic>Brucella melitensis</italic> induced by bp26 and omp31 <italic>B. melitensis</italic> Rev. 1 deletion mutants in sheep</article-title>. <source>Vaccine</source>. (<year>2007</year>) <volume>25</volume>:<fpage>794</fpage>&#x2013;<lpage>805</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2006.09.051</pub-id>, PMID: <pub-id pub-id-type="pmid">17070627</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grill&#xF3;</surname><given-names>MJ</given-names></name><name><surname>Mar&#xED;n</surname><given-names>CM</given-names></name><name><surname>Barber&#xE1;n</surname><given-names>M</given-names></name><name><surname>de Miguel</surname><given-names>MJ</given-names></name><name><surname>Laroucau</surname><given-names>K</given-names></name><name><surname>Jacques</surname><given-names>I</given-names></name><etal/></person-group>. <article-title>Efficacy of bp26 and bp26/omp31 <italic>B. melitensis</italic> Rev. 1 deletion mutants against <italic>Brucella ovis</italic> in rams</article-title>. <source>Vaccine</source>. (<year>2009</year>) <volume>27</volume>:<fpage>187</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2008.10.065</pub-id>, PMID: <pub-id pub-id-type="pmid">19007836</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>T</given-names></name><name><surname>Tong</surname><given-names>Z</given-names></name><name><surname>Huang</surname><given-names>M</given-names></name><name><surname>Tang</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Chen</surname><given-names>C</given-names></name></person-group>. <article-title><italic>Brucella melitensis</italic> M5-90&#x394;bp26 as a potential live vaccine that allows for the distinction between natural infection and immunization</article-title>. <source>Can J Microbiol</source>. (<year>2017</year>) <volume>63</volume>:<fpage>719</fpage>&#x2013;<lpage>29</lpage>. doi: <pub-id pub-id-type="doi">10.1139/cjm-2017-0179</pub-id>, PMID: <pub-id pub-id-type="pmid">28482164</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bai</surname><given-names>Q</given-names></name><name><surname>Li</surname><given-names>H</given-names></name><name><surname>Wu</surname><given-names>X</given-names></name><name><surname>Shao</surname><given-names>J</given-names></name><name><surname>Sun</surname><given-names>M</given-names></name><name><surname>Yin</surname><given-names>D</given-names></name></person-group>. <article-title>Comparative analysis of the main outer membrane proteins of <italic>Brucella</italic> in the diagnosis of brucellosis</article-title>. <source>Biochem Biophys Res Commun</source>. (<year>2021</year>) <volume>560</volume>:<fpage>126</fpage>&#x2013;<lpage>31</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbrc.2021.04.127</pub-id>, PMID: <pub-id pub-id-type="pmid">33989903</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Debbarh</surname><given-names>HS</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name><name><surname>Dubray</surname><given-names>G</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name></person-group>. <article-title>Competitive enzyme-linked immunosorbent assay using monoclonal antibodies to the <italic>Brucella melitensis</italic> BP26 protein to evaluate antibody responses in infected and <italic>B. melitensis</italic> Rev. 1 vaccinated sheep</article-title>. <source>Vet Microbiol</source>. (<year>1996</year>) <volume>53</volume>:<fpage>325</fpage>&#x2013;<lpage>37</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0378-1135(96)01265-5</pub-id>, PMID: <pub-id pub-id-type="pmid">9008343</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qiu</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Qiao</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Characterization of periplasmic protein BP26 epitopes of <italic>Brucella melitensis</italic> reacting with murine monoclonal and sheep antibodies</article-title>. <source>PLoS One</source>. (<year>2012</year>) <volume>7</volume>:<fpage>e34246</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0034246</pub-id>, PMID: <pub-id pub-id-type="pmid">22457830</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yin</surname><given-names>D</given-names></name><name><surname>Bai</surname><given-names>Q</given-names></name><name><surname>Wu</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>H</given-names></name><name><surname>Shao</surname><given-names>J</given-names></name><name><surname>Sun</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Correction: paper-based ELISA diagnosis technology for human brucellosis based on a multiepitope fusion protein</article-title>. <source>PLoS Negl Trop Dis</source>. (<year>2021</year>) <volume>17</volume>:<fpage>e0011079</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0011079</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seco-Mediavilla</surname><given-names>P</given-names></name><name><surname>Verger</surname><given-names>JM</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Mar&#xED;n</surname><given-names>CM</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name><etal/></person-group>. <article-title>Epitope mapping of the <italic>Brucella melitensis</italic> BP26 immunogenic protein: usefulness for diagnosis of sheep brucellosis</article-title>. <source>Clin Diagn Lab Immunol</source>. (<year>2003</year>) <volume>10</volume>:<fpage>647</fpage>&#x2013;<lpage>51</lpage>. doi: <pub-id pub-id-type="doi">10.1128/CDLI.10.4.647-651.2003</pub-id>, PMID: <pub-id pub-id-type="pmid">12853399</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>WX</given-names></name><name><surname>Hu</surname><given-names>S</given-names></name><name><surname>Qiao</surname><given-names>ZJ</given-names></name><name><surname>Chen</surname><given-names>WY</given-names></name><name><surname>Liu</surname><given-names>LT</given-names></name><name><surname>Wang</surname><given-names>FK</given-names></name><etal/></person-group>. <article-title>Expression, purification, and improved antigenic specificity of a truncated recombinant bp26 protein of <italic>Brucella melitensis</italic> M5-90: a potential antigen for differential serodiagnosis of brucellosis in sheep and goats</article-title>. <source>Biotechnol Appl Biochem</source>. (<year>2011</year>) <volume>58</volume>:<fpage>32</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1002/bab.11</pub-id>, PMID: <pub-id pub-id-type="pmid">21446957</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

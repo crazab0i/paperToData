@@ -1,0 +1,1492 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Med</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Med</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS Medicine</journal-title></journal-title-group><issn pub-type="ppub">1549-1277</issn><issn pub-type="epub">1549-1676</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38607981</article-id><article-id pub-id-type="pmc">11014433</article-id><article-id pub-id-type="doi">10.1371/journal.pmed.1004374</article-id><article-id pub-id-type="publisher-id">PMEDICINE-D-23-01884</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Infectious Disease Epidemiology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Infectious Disease Epidemiology</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Geography</subject><subj-group><subject>Human Geography</subject><subj-group><subject>Urban Geography</subject><subj-group><subject>Urban Areas</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Human Geography</subject><subj-group><subject>Urban Geography</subject><subj-group><subject>Urban Areas</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Geography</subject><subj-group><subject>Geographic Areas</subject><subj-group><subject>Urban Areas</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Geography</subject><subj-group><subject>Geographic Areas</subject><subj-group><subject>Rural Areas</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Population Groupings</subject><subj-group><subject>Age Groups</subject><subj-group><subject>Children</subject><subj-group><subject>Adolescents</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Population Groupings</subject><subj-group><subject>Families</subject><subj-group><subject>Children</subject><subj-group><subject>Adolescents</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Sexually Transmitted Diseases</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Geography</subject><subj-group><subject>Human Geography</subject><subj-group><subject>Urban Geography</subject><subj-group><subject>Urbanization</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Human Geography</subject><subj-group><subject>Urban Geography</subject><subj-group><subject>Urbanization</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Long-term variations of urban&#x2013;Rural disparities in infectious disease burden of over 8.44 million children, adolescents, and youth in China from 2013 to 2021: An observational study</article-title><alt-title alt-title-type="running-head">Urban-rural disparities in infectious disease burden</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Li</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-4076-2945</contrib-id><name><surname>Xing</surname><given-names>Yi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Yi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-0040-0042</contrib-id><name><surname>Xie</surname><given-names>Junqing</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-1814-024X</contrib-id><name><surname>Su</surname><given-names>Binbin</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Jianuo</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Geng</surname><given-names>Mengjie</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-5020-5838</contrib-id><name><surname>Ren</surname><given-names>Xiang</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Guo</surname><given-names>Tongjun</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-5462-6672</contrib-id><name><surname>Yuan</surname><given-names>Wen</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ma</surname><given-names>Qi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Manman</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cui</surname><given-names>Mengjie</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-6584-1191</contrib-id><name><surname>Liu</surname><given-names>Jieyu</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-6990-6781</contrib-id><name><surname>Song</surname><given-names>Yi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Liping</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id><name><surname>Dong</surname><given-names>Yanhui</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-3529-1808</contrib-id><name><surname>Ma</surname><given-names>Jun</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Institute of Child and Adolescent Health, School of Public Health, Peking University; National Health Commission Key Laboratory of Reproductive Health, Beijing, China</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Centre for Statistics in Medicine, NDORMS, University of Oxford, Oxford, United Kingdom</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>School of Population Medicine and Public Health, Chinese Academy of Medical Sciences/ Peking Union Medical College, Beijing, China</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Division of Infectious Disease Control and Prevention, Key Laboratory of Surveillance and Early Warning on Infectious Disease, Chinese Center for Disease Control and Prevention, Beijing, China</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Mody</surname><given-names>Aaloke</given-names></name><role>Academic Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Washington University School of Medicine, UNITED STATES</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>The authors have declared that no competing interests exist.</p></fn><fn fn-type="other" id="econtrib001"><p>&#x2021; These authors share first authorship on this work.</p></fn><corresp id="cor001">* E-mail: <email>songyi@bjmu.edu.cn</email> (YS); <email>wanglp@chinacdc.cn</email> (LW); <email>dongyanhui@bjmu.edu.cn</email> (YD)</corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2024</year></pub-date><volume>21</volume><issue>4</issue><elocation-id>e1004374</elocation-id><history><date date-type="received"><day>5</day><month>7</month><year>2023</year></date><date date-type="accepted"><day>8</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Chen et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Chen et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pmed.1004374.pdf"/><abstract><sec id="sec001"><title>Background</title><p>An accelerated epidemiological transition, spurred by economic development and urbanization, has led to a rapid transformation of the disease spectrum. However, this transition has resulted in a divergent change in the burden of infectious diseases between urban and rural areas. The objective of our study was to evaluate the long-term urban&#x2013;rural disparities in infectious diseases among children, adolescents, and youths in China, while also examining the specific diseases driving these disparities.</p></sec><sec id="sec002"><title>Methods and findings</title><p>This observational study examined data on 43 notifiable infectious diseases from 8,442,956 cases from individuals aged 4 to 24 years, with 4,487,043 cases in urban areas and 3,955,913 in rural areas. The data from 2013 to 2021 were obtained from China&#x2019;s Notifiable Infectious Disease Surveillance System. The 43 infectious diseases were categorized into 7 categories: vaccine-preventable, bacterial, gastrointestinal and enterovirus, sexually transmitted and bloodborne, vectorborne, zoonotic, and quarantinable diseases. The calculation of infectious disease incidence was stratified by urban and rural areas. We used the index of incidence rate ratio (IRR), calculated by dividing the urban incidence rate by the rural incidence rate for each disease category, to assess the urban&#x2013;rural disparity.</p><p>During the nine-year study period, most notifiable infectious diseases in both urban and rural areas exhibited either a decreased or stable pattern. However, a significant and progressively widening urban&#x2013;rural disparity in notifiable infectious diseases was observed. Children, adolescents, and youths in urban areas experienced a higher average yearly incidence compared to their rural counterparts, with rates of 439 per 100,000 compared to 211 per 100,000, respectively (IRR: 2.078, 95% CI [2.075, 2.081]; <italic toggle="yes">p</italic> &lt; 0.001).</p><p>From 2013 to 2021, this disparity was primarily driven by higher incidences of pertussis (IRR: 1.782, 95% CI [1.705, 1.862]; <italic toggle="yes">p</italic> &lt; 0.001) and seasonal influenza (IRR: 3.213, 95% CI [3.205, 3.220]; <italic toggle="yes">p</italic> &lt; 0.001) among vaccine-preventable diseases, tuberculosis (IRR: 1.011, 95% CI [1.006, 1.015]; <italic toggle="yes">p</italic> &lt; 0.001), and scarlet fever (IRR: 2.942, 95% CI [2.918, 2.966]; <italic toggle="yes">p</italic> &lt; 0.001) among bacterial diseases, infectious diarrhea (IRR: 1.932, 95% CI [1.924, 1.939]; <italic toggle="yes">p</italic> &lt; 0.001), and hand, foot, and mouth disease (IRR: 2.501, 95% CI [2.491, 2.510]; <italic toggle="yes">p</italic> &lt; 0.001) among gastrointestinal and enterovirus diseases, dengue (IRR: 11.952, 95% CI [11.313, 12.628]; <italic toggle="yes">p</italic> &lt; 0.001) among vectorborne diseases, and 4 sexually transmitted and bloodborne diseases (syphilis: IRR 1.743, 95% CI [1.731, 1.755], <italic toggle="yes">p</italic> &lt; 0.001; gonorrhea: IRR 2.658, 95% CI [2.635, 2.682], <italic toggle="yes">p</italic> &lt; 0.001; HIV/AIDS: IRR 2.269, 95% CI [2.239, 2.299], <italic toggle="yes">p</italic> &lt; 0.001; hepatitis C: IRR 1.540, 95% CI [1.506, 1.575], <italic toggle="yes">p</italic> &lt; 0.001), but was partially offset by lower incidences of most zoonotic and quarantinable diseases in urban areas (for example, brucellosis among zoonotic: IRR 0.516, 95% CI [0.498, 0.534], <italic toggle="yes">p</italic> &lt; 0.001; hemorrhagic fever among quarantinable: IRR 0.930, 95% CI [0.881, 0.981], <italic toggle="yes">p</italic> = 0.008). Additionally, the overall urban&#x2013;rural disparity was particularly pronounced in the middle (IRR: 1.704, 95% CI [1.699, 1.708]; <italic toggle="yes">p</italic> &lt; 0.001) and northeastern regions (IRR: 1.713, 95% CI [1.700, 1.726]; <italic toggle="yes">p</italic> &lt; 0.001) of China. A primary limitation of our study is that the incidence was calculated based on annual average population data without accounting for population mobility.</p></sec><sec id="sec003"><title>Conclusions</title><p>A significant urban&#x2013;rural disparity in notifiable infectious diseases among children, adolescents, and youths was evident from our study. The burden in urban areas exceeded that in rural areas by more than 2-fold, and this gap appears to be widening, particularly influenced by tuberculosis, scarlet fever, infectious diarrhea, and typhus. These findings underscore the urgent need for interventions to mitigate infectious diseases and address the growing urban&#x2013;rural disparity.</p></sec></abstract><abstract abstract-type="toc"><p>Li Chen, Yi Xing, and colleagues examine the long-term urban-rural disparities in 43 infectious diseases among children, adolescents, and youths in China.</p></abstract><abstract abstract-type="summary"><title>Author summary</title><sec id="sec004"><title>Why was this study done?</title><list list-type="simple"><list-item><p>&#x27A2; Despite national health priorities and immunization programs, the urban&#x2013;rural disparity in infectious diseases in children and adolescents is often overlooked.</p></list-item><list-item><p>&#x27A2; To our knowledge, while some studies have evaluated infectious diseases burdens in children, adolescents, and youths, none have conducted a comprehensive comparison of disease patterns between urban and rural areas in China or other countries.</p></list-item></list></sec><sec id="sec005"><title>What did the researchers do and find?</title><list list-type="bullet"><list-item><p>&#x27A2; We used the incident cases of infectious diseases aged 4 to 24 years old from China to study the urban&#x2013;rural disparity in infectious diseases and its long-term change over time.</p></list-item><list-item><p>&#x27A2; The burden of infectious diseases in urban areas was more than double that of rural areas, and this disparity widened over time, particularly for tuberculosis and scarlet fever among vaccine-preventable diseases, and infectious diarrhea among gastrointestinal and enterovirus diseases.</p></list-item><list-item><p>&#x27A2; Among Chinese youth, overall infectious diseases were unequally distributed, with vaccine-preventable diseases showing the highest inequality.</p></list-item></list></sec><sec id="sec006"><title>What do these findings mean?</title><list list-type="bullet"><list-item><p>&#x27A2; The substantial burden of infectious diseases in urban areas, underscores the unique health challenges faced by urban populations.</p></list-item><list-item><p>&#x27A2; The urban&#x2013;rural disparities and inequality underscore the need for nuanced strategies in addressing infectious diseases, influenced by factors like socioeconomic development and urbanization, across diverse disease types and geographical contexts.</p></list-item><list-item><p>&#x27A2; Study limitations involve using annual average population data without considering population mobility for incidence calculations.</p></list-item></list></sec></abstract><funding-group><award-group id="award001"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100001809</institution-id><institution>National Natural Science Foundation of China</institution></institution-wrap>
+</funding-source><award-id>82103865</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id>
+<name><surname>Dong</surname><given-names>Yanhui</given-names></name>
+</principal-award-recipient></award-group><award-group id="award002"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100001809</institution-id><institution>National Natural Science Foundation of China</institution></institution-wrap>
+</funding-source><award-id>82373593</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id>
+<name><surname>Dong</surname><given-names>Yanhui</given-names></name>
+</principal-award-recipient></award-group><award-group id="award003"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100004826</institution-id><institution>Natural Science Foundation of Beijing Municipality</institution></institution-wrap>
+</funding-source><award-id>7222244</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id>
+<name><surname>Dong</surname><given-names>Yanhui</given-names></name>
+</principal-award-recipient></award-group><award-group id="award004"><funding-source>
+<institution>Peking University Talent Introduction Program Project</institution>
+</funding-source><award-id>BMU2023YJ011</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id>
+<name><surname>Dong</surname><given-names>Yanhui</given-names></name>
+</principal-award-recipient></award-group><award-group id="award005"><funding-source>
+<institution>Clinical Medicine Plus X-Young Scholars Project of Peking University</institution>
+</funding-source><award-id>PKU2023LCXQ042</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2519-3200</contrib-id>
+<name><surname>Dong</surname><given-names>Yanhui</given-names></name>
+</principal-award-recipient></award-group><funding-statement>YD is supported by National Natural Science Foundation of China (82103865 and 82373593), Natural Science Foundation of Beijing Municipality (7222244), Peking University Talent Introduction Program Project (BMU2023YJ011), and Clinical Medicine Plus X-Young Scholars Project of Peking University (PKU2023LCXQ042). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="25"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>The data from the notifiable infectious disease report database are also openly accessible through the Public Health Science Data Centre of the Chinese Center for Disease Control and Prevention and the official website of the National Health and Family Planning Commission during the study period (<ext-link xlink:href="https://www.phsciencedata.cn/Share/#" ext-link-type="uri">https://www.phsciencedata.cn/Share/#</ext-link>). Summarized infectious diseases data can be accessed by contacting the Chinese Center for Disease Control and Prevention School/Children's Health Center Office; contact email, <email>songjieyun@bjmu.edu.cn</email> (Jieyun Song).</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>The data from the notifiable infectious disease report database are also openly accessible through the Public Health Science Data Centre of the Chinese Center for Disease Control and Prevention and the official website of the National Health and Family Planning Commission during the study period (<ext-link xlink:href="https://www.phsciencedata.cn/Share/#" ext-link-type="uri">https://www.phsciencedata.cn/Share/#</ext-link>). Summarized infectious diseases data can be accessed by contacting the Chinese Center for Disease Control and Prevention School/Children's Health Center Office; contact email, <email>songjieyun@bjmu.edu.cn</email> (Jieyun Song).</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec007">
+      <title>Introduction</title>
+      <p>Infectious diseases persist as an enduring global challenge, marked by their swift dissemination on a worldwide scale, further accelerated by the heightened mobility of populations [<xref rid="pmed.1004374.ref001" ref-type="bibr">1</xref>&#x2013;<xref rid="pmed.1004374.ref004" ref-type="bibr">4</xref>]. The primary drivers of global population mobility have shifted from war and colonization to trade resulting in accelerated globalization and urbanization worldwide [<xref rid="pmed.1004374.ref005" ref-type="bibr">5</xref>], including a particularly notable rise in the number of large and mega cities [<xref rid="pmed.1004374.ref006" ref-type="bibr">6</xref>&#x2013;<xref rid="pmed.1004374.ref009" ref-type="bibr">9</xref>]. Urban areas, surpassing rural ones in population since 2009, are projected to house 60% of the global population by 2030 [<xref rid="pmed.1004374.ref010" ref-type="bibr">10</xref>,<xref rid="pmed.1004374.ref011" ref-type="bibr">11</xref>]. In China, rapid urbanization since the 1990s has led to a significant rural-to-urban migration, with more than half of its population residing in urban areas as of 2011 [<xref rid="pmed.1004374.ref012" ref-type="bibr">12</xref>,<xref rid="pmed.1004374.ref013" ref-type="bibr">13</xref>]. This concentration in urban centers, along with international trade, elevates the risk of infectious disease outbreaks globally, underscoring the importance of examining urban&#x2013;rural disparities in disease burden. Despite the critical need for such analysis, a comprehensive systematic review of this disparity is, to our knowledge, currently lacking. While 2 previous studies in the United Kingdom (2016 to 2017) and China (1990 to 2010) reported on the incidence of infectious diseases in urban and rural areas, they presented divergent findings [<xref rid="pmed.1004374.ref014" ref-type="bibr">14</xref>,<xref rid="pmed.1004374.ref015" ref-type="bibr">15</xref>]. The UK study identified a higher incidence of 6 infectious disease categories in urban areas [<xref rid="pmed.1004374.ref015" ref-type="bibr">15</xref>], while the Chinese investigation observed a shift from higher overall incidence in rural areas before 2005 to higher incidence in urban areas after 2005. This alignment in findings highlights a general trend of increasing infectious disease incidence in urban settings, though the timing and magnitude of these shifts may vary across different countries and time periods. To our knowledge, no study to date has systematically addressed disparities in the complete spectrum of infectious diseases between urban and rural areas, especially concerning vulnerable demographic groups such as children and adolescents.</p>
+      <p>Studying urban&#x2013;rural disparities in infectious diseases is pivotal for comprehending and remedying the unequal burden of disease across various populations [<xref rid="pmed.1004374.ref016" ref-type="bibr">16</xref>]. Rapid urbanization, marked by a significant migration of individuals to urban centers, results in increased population density, closer living quarters, and heightened interpersonal interactions [<xref rid="pmed.1004374.ref005" ref-type="bibr">5</xref>,<xref rid="pmed.1004374.ref017" ref-type="bibr">17</xref>]. These factors create an environment conducive to the rapid spread of infectious diseases. Thus, urbanization plays an important role in exacerbating or mitigating health inequalities between urban and rural areas. The association between urbanization and health is intricate, with several studies highlighting its impact on life expectancy, especially in high versus low-income countries [<xref rid="pmed.1004374.ref018" ref-type="bibr">18</xref>]. Urbanization has led to mixed outcomes in health, particularly for children and adolescents [<xref rid="pmed.1004374.ref019" ref-type="bibr">19</xref>]. While there has been a notable decline in infectious disease mortality in these younger populations, contributing to increased life expectancy [<xref rid="pmed.1004374.ref020" ref-type="bibr">20</xref>,<xref rid="pmed.1004374.ref021" ref-type="bibr">21</xref>], this is not evident in all communities. In impoverished and marginalized communities, life expectancy has stagnated or even declined [<xref rid="pmed.1004374.ref022" ref-type="bibr">22</xref>&#x2013;<xref rid="pmed.1004374.ref024" ref-type="bibr">24</xref>]. Despite the overall decrease in incidence and mortality from infectious diseases among children and adolescents in recent years [<xref rid="pmed.1004374.ref025" ref-type="bibr">25</xref>,<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>], these diseases remain a significant public health concern as they evolve rapidly with urbanization. Future public health strategies must focus on developing targeted measures to control infectious diseases in children and adolescents based on population evolution in urban and rural settings. The uncertainty surrounding the long-term evolution of the urban&#x2013;rural gap in infectious diseases complicates the formulation of targeted measures to address diverse population needs. Narrowing the disparity in infectious disease burdens between urban and rural areas is crucial, alongside efforts to mitigate health inequality.</p>
+      <p>There may be some basis for differences in the role of urbanization in causing different types of infectious diseases in urban and rural settings [<xref rid="pmed.1004374.ref005" ref-type="bibr">5</xref>,<xref rid="pmed.1004374.ref017" ref-type="bibr">17</xref>]. Rural regions often contend with suboptimal living conditions, exacerbated by livestock breeding and frequent human&#x2013;wildlife&#x2013;livestock interactions, leading to increased susceptibility to vector-borne and zoonotic infectious diseases [<xref rid="pmed.1004374.ref002" ref-type="bibr">2</xref>]. While waterborne and vector-borne diseases, historically linked to poor sanitation and agricultural practices, are on the decline in urban settings due to improved access to clean water and sanitation facilities, infectious diseases associated with close interpersonal contact and urban lifestyles are gaining prominence [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>]. In addition, the interplay between infectious diseases and urbanization is multifaceted. Rural areas may encounter challenges with vector-borne diseases due to poverty-related factors, while urban environments, characterized by high population density and lifestyle-related issues, may experience an uptick in respiratory infections. Furthermore, urban locales enjoy the advantages of advanced healthcare infrastructure, which culminate in more effective disease surveillance and reporting mechanisms [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>]. This indicates the distinct challenges faced by urban and rural areas in addressing infectious diseases. These disparities hold significant public health implications, shaping disease prevention and control strategies, resource allocation, and healthcare policy-making [<xref rid="pmed.1004374.ref027" ref-type="bibr">27</xref>]. However, amidst the backdrop of rapid urbanization, there remains a paucity of evidence regarding the enduring urban&#x2013;rural disparities stemming from infectious diseases and the specific disease types that propel the evolution of these discrepancies.</p>
+      <p>As global urbanization progresses, understanding disparities in infectious diseases among children and adolescents in urban and rural areas becomes increasingly vital. To address this gap, we conducted a nine-year (2013 to 2021) observational analysis of notified infectious diseases among 4- to 24-year-olds in China, examining incidence disparities between rural and urban areas and exploring various specific diseases influencing urban&#x2013;rural disparities in infectious disease incidence.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec008">
+      <title>Methods</title>
+      <sec id="sec009">
+        <title>Data collection</title>
+        <p>Data in the study was drawn from the China Information System for Disease Control and Prevention (CISDCP), which is established in 2003 and is an internet-based, long-term surveillance system that covers more than 85% of all health facilities in China, and its details were reported in the previous studies [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>,<xref rid="pmed.1004374.ref028" ref-type="bibr">28</xref>,<xref rid="pmed.1004374.ref029" ref-type="bibr">29</xref>]. The CISDCP includes the identification of all notifiable infectious diseases and the number of cases for each. The system requires that cholera, plague, anthrax, and severe acute respiratory syndrome (SARS) be reported within 2 h, and all other infectious diseases within 24 h. The vertical reporting structure of CISDCP was presented in <bold><xref rid="pmed.1004374.s010" ref-type="supplementary-material">S1 Fig</xref></bold>. When a probable, clinical, or laboratory-confirmed case is diagnosed, doctors must complete a standard card and submit it to CISDCP within 24 h. Local epidemiologists then conduct a field investigation using a standard form that includes basic demographic data, case classification, dates of symptom onset, diagnosis, and clinical outcome including death (if applicable).</p>
+        <p>For this study, we included children and adolescents aged 4 to 24 years old with confirmed records of 43 notifiable infectious diseases from 2013 to 2021, excluding cases from Hong Kong, Macao, Taiwan of China, and other countries with unverified records. The selected age range was determined by considering the typical entry age of 4 years old for kindergarten, aligning with the educational phase&#x2019;s monitoring scope. Furthermore, the upper limit of 24 years old corresponds to the age of university students and is in line with the United Nations definition of &#x201C;youth&#x201D; (15 to 24) [<xref rid="pmed.1004374.ref030" ref-type="bibr">30</xref>]. This age range was chosen to ensure comprehensive coverage of relevant age groups for the study, making our research findings more pertinent to the specific circumstances in China and facilitating broader applicability to similar countries. The Chinese Centers for Disease Control and Prevention (CDC) is required to meticulously scrutinize pertinent details within verified disease cases, including but not limited to occupation, age, geographical location, and date of diagnosis. The classification of infectious disease cases as verified necessitates a comprehensive examination to ascertain the absence of omissions and logical inconsistencies in the dataset. The study did not necessitate ethical approval as it solely utilized data that was both de-identified and publicly accessible, thereby exempting it from Institutional Review Board (IRB) or ethics committee review processes. In this observational study, we included infectious disease cases notified to CISDCP from 2013 to 2021. For all 43 infectious diseases (refer to <bold><xref rid="pmed.1004374.t001" ref-type="table">Table 1</xref></bold>), we further categorized them into 7 groups, including vaccine-preventable, bacterial, gastrointestinal and enterovirus, sexually transmitted and bloodborne, vectorborne, zoonotic, and quarantinable diseases.</p>
+        <table-wrap position="float" id="pmed.1004374.t001">
+          <object-id pub-id-type="doi">10.1371/journal.pmed.1004374.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>The overall disparity in incidence of total 43 notifiable infectious diseases by category and specific diseases among children, adolescents, and youth aged 4 to 24 years in urban and rural areas.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pmed.1004374.t001" id="pmed.1004374.t001g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="2" colspan="1">Category</th>
+                  <th align="left" colspan="2" rowspan="1">Urban</th>
+                  <th align="left" colspan="2" rowspan="1">Rural</th>
+                  <th align="left" colspan="3" rowspan="1">IRR (urban vs. rural)</th>
+                </tr>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Cases (<italic toggle="yes">n</italic>)*</th>
+                  <th align="left" rowspan="1" colspan="1">Yearly incidence<sup>#</sup></th>
+                  <th align="left" rowspan="1" colspan="1">Cases (<italic toggle="yes">n</italic>)*</th>
+                  <th align="left" rowspan="1" colspan="1">Yearly incidence<sup>#</sup></th>
+                  <th align="left" colspan="2" rowspan="1">95% CI</th>
+                  <th align="left" rowspan="1" colspan="1"><italic toggle="yes">p</italic> value</th>
+                </tr>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Overall</th>
+                  <th align="left" rowspan="1" colspan="1">4,487,043</th>
+                  <th align="left" rowspan="1" colspan="1">439.360</th>
+                  <th align="left" rowspan="1" colspan="1">3,955,913</th>
+                  <th align="left" rowspan="1" colspan="1">211.464</th>
+                  <th align="left" rowspan="1" colspan="1">2.078</th>
+                  <th align="left" rowspan="1" colspan="1">2.075, 2.081</th>
+                  <th align="left" rowspan="1" colspan="1">&lt;0.001</th>
+                </tr>
+                <tr>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">Vaccine preventable</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">2,506,822</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">246.526</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">2,002,540</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">107.360</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">2.297</th>
+                  <th align="left" style="background-color:#DDEBF7" rowspan="1" colspan="1">2.293, 2.301</th>
+                  <th align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">&lt;0.001</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">SI</td>
+                  <td align="left" rowspan="1" colspan="1">1,750,418</td>
+                  <td align="left" rowspan="1" colspan="1">173.499</td>
+                  <td align="left" rowspan="1" colspan="1">993,206</td>
+                  <td align="left" rowspan="1" colspan="1">54.017</td>
+                  <td align="left" rowspan="1" colspan="1">3.213</td>
+                  <td align="left" rowspan="1" colspan="1">3.205, 3.220</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Mumps</td>
+                  <td align="left" rowspan="1" colspan="1">565,432</td>
+                  <td align="left" rowspan="1" colspan="1">54.583</td>
+                  <td align="left" rowspan="1" colspan="1">655,213</td>
+                  <td align="left" rowspan="1" colspan="1">34.619</td>
+                  <td align="left" rowspan="1" colspan="1">1.577</td>
+                  <td align="left" rowspan="1" colspan="1">1.571, 1.582</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hepatitis B</td>
+                  <td align="left" rowspan="1" colspan="1">153,707</td>
+                  <td align="left" rowspan="1" colspan="1">14.824</td>
+                  <td align="left" rowspan="1" colspan="1">301,065</td>
+                  <td align="left" rowspan="1" colspan="1">15.906</td>
+                  <td align="left" rowspan="1" colspan="1">0.932</td>
+                  <td align="left" rowspan="1" colspan="1">0.926, 0.938</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Rubella</td>
+                  <td align="left" rowspan="1" colspan="1">22,066</td>
+                  <td align="left" rowspan="1" colspan="1">2.148</td>
+                  <td align="left" rowspan="1" colspan="1">30,019</td>
+                  <td align="left" rowspan="1" colspan="1">1.601</td>
+                  <td align="left" rowspan="1" colspan="1">1.341</td>
+                  <td align="left" rowspan="1" colspan="1">1.318, 1.365</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hepatitis A</td>
+                  <td align="left" rowspan="1" colspan="1">5,106</td>
+                  <td align="left" rowspan="1" colspan="1">0.490</td>
+                  <td align="left" rowspan="1" colspan="1">11,140</td>
+                  <td align="left" rowspan="1" colspan="1">0.584</td>
+                  <td align="left" rowspan="1" colspan="1">0.839</td>
+                  <td align="left" rowspan="1" colspan="1">0.811, 0.867</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Measles</td>
+                  <td align="left" rowspan="1" colspan="1">6,157</td>
+                  <td align="left" rowspan="1" colspan="1">0.589</td>
+                  <td align="left" rowspan="1" colspan="1">7,839</td>
+                  <td align="left" rowspan="1" colspan="1">0.411</td>
+                  <td align="left" rowspan="1" colspan="1">1.434</td>
+                  <td align="left" rowspan="1" colspan="1">1.387, 1.482</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Pertussis</td>
+                  <td align="left" rowspan="1" colspan="1">3,916</td>
+                  <td align="left" rowspan="1" colspan="1">0.390</td>
+                  <td align="left" rowspan="1" colspan="1">4,016</td>
+                  <td align="left" rowspan="1" colspan="1">0.219</td>
+                  <td align="left" rowspan="1" colspan="1">1.782</td>
+                  <td align="left" rowspan="1" colspan="1">1.705, 1.862</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hepatitis D</td>
+                  <td align="left" rowspan="1" colspan="1">20</td>
+                  <td align="left" rowspan="1" colspan="1">0.003</td>
+                  <td align="left" rowspan="1" colspan="1">42</td>
+                  <td align="left" rowspan="1" colspan="1">0.003</td>
+                  <td align="left" rowspan="1" colspan="1">1.032</td>
+                  <td align="left" rowspan="1" colspan="1">0.606, 1.758</td>
+                  <td align="left" rowspan="1" colspan="1">0.908</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Diphtheria</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">NT</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Poliomyelitis</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Bacteria</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>441,820</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>42.760</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>616,794</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>32.731</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1.306</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1.301, 1.311</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">TB</td>
+                  <td align="left" rowspan="1" colspan="1">288,974</td>
+                  <td align="left" rowspan="1" colspan="1">27.980</td>
+                  <td align="left" rowspan="1" colspan="1">521,582</td>
+                  <td align="left" rowspan="1" colspan="1">27.684</td>
+                  <td align="left" rowspan="1" colspan="1">1.011</td>
+                  <td align="left" rowspan="1" colspan="1">1.006, 1.015</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">SF</td>
+                  <td align="left" rowspan="1" colspan="1">152,617</td>
+                  <td align="left" rowspan="1" colspan="1">14.757</td>
+                  <td align="left" rowspan="1" colspan="1">94,624</td>
+                  <td align="left" rowspan="1" colspan="1">5.016</td>
+                  <td align="left" rowspan="1" colspan="1">2.942</td>
+                  <td align="left" rowspan="1" colspan="1">2.918, 2.966</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">MM</td>
+                  <td align="left" rowspan="1" colspan="1">141</td>
+                  <td align="left" rowspan="1" colspan="1">0.014</td>
+                  <td align="left" rowspan="1" colspan="1">345</td>
+                  <td align="left" rowspan="1" colspan="1">0.018</td>
+                  <td align="left" rowspan="1" colspan="1">0.746</td>
+                  <td align="left" rowspan="1" colspan="1">0.613, 0.907</td>
+                  <td align="left" rowspan="1" colspan="1">0.003</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Leprosy</td>
+                  <td align="left" rowspan="1" colspan="1">88</td>
+                  <td align="left" rowspan="1" colspan="1">0.009</td>
+                  <td align="left" rowspan="1" colspan="1">243</td>
+                  <td align="left" rowspan="1" colspan="1">0.013</td>
+                  <td align="left" rowspan="1" colspan="1">0.661</td>
+                  <td align="left" rowspan="1" colspan="1">0.518, 0.844</td>
+                  <td align="left" rowspan="1" colspan="1">0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Gastrointestil and enterovirus</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1,175,199</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>114.586</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1,002,018</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>53.462</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>2.143</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>2.138, 2.149</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">HFMD</td>
+                  <td align="left" rowspan="1" colspan="1">604,020</td>
+                  <td align="left" rowspan="1" colspan="1">58.687</td>
+                  <td align="left" rowspan="1" colspan="1">441,399</td>
+                  <td align="left" rowspan="1" colspan="1">23.468</td>
+                  <td align="left" rowspan="1" colspan="1">2.501</td>
+                  <td align="left" rowspan="1" colspan="1">2.491, 2.510</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">ID</td>
+                  <td align="left" rowspan="1" colspan="1">476,759</td>
+                  <td align="left" rowspan="1" colspan="1">46.787</td>
+                  <td align="left" rowspan="1" colspan="1">451,450</td>
+                  <td align="left" rowspan="1" colspan="1">24.223</td>
+                  <td align="left" rowspan="1" colspan="1">1.932</td>
+                  <td align="left" rowspan="1" colspan="1">1.924, 1.939</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Dysentery</td>
+                  <td align="left" rowspan="1" colspan="1">65,398</td>
+                  <td align="left" rowspan="1" colspan="1">6.307</td>
+                  <td align="left" rowspan="1" colspan="1">62,843</td>
+                  <td align="left" rowspan="1" colspan="1">3.316</td>
+                  <td align="left" rowspan="1" colspan="1">1.902</td>
+                  <td align="left" rowspan="1" colspan="1">1.881, 1.923</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">AHC</td>
+                  <td align="left" rowspan="1" colspan="1">21,242</td>
+                  <td align="left" rowspan="1" colspan="1">2.054</td>
+                  <td align="left" rowspan="1" colspan="1">35,709</td>
+                  <td align="left" rowspan="1" colspan="1">1.894</td>
+                  <td align="left" rowspan="1" colspan="1">1.085</td>
+                  <td align="left" rowspan="1" colspan="1">1.067, 1.104</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">T/P</td>
+                  <td align="left" rowspan="1" colspan="1">7,780</td>
+                  <td align="left" rowspan="1" colspan="1">0.751</td>
+                  <td align="left" rowspan="1" colspan="1">10,617</td>
+                  <td align="left" rowspan="1" colspan="1">0.561</td>
+                  <td align="left" rowspan="1" colspan="1">1.339</td>
+                  <td align="left" rowspan="1" colspan="1">1.300, 1.379</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Sexually transmitted and bloodborne</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>341,445</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>33.360</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>303,509</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>16.247</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>2.053</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>2.043, 2.063</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Syphilis</td>
+                  <td align="left" rowspan="1" colspan="1">156,149</td>
+                  <td align="left" rowspan="1" colspan="1">15.274</td>
+                  <td align="left" rowspan="1" colspan="1">163,520</td>
+                  <td align="left" rowspan="1" colspan="1">8.762</td>
+                  <td align="left" rowspan="1" colspan="1">1.743</td>
+                  <td align="left" rowspan="1" colspan="1">1.731, 1.755</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Gonorrhea</td>
+                  <td align="left" rowspan="1" colspan="1">121,025</td>
+                  <td align="left" rowspan="1" colspan="1">11.853</td>
+                  <td align="left" rowspan="1" colspan="1">82,982</td>
+                  <td align="left" rowspan="1" colspan="1">4.458</td>
+                  <td align="left" rowspan="1" colspan="1">2.658</td>
+                  <td align="left" rowspan="1" colspan="1">2.635, 2.682</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">HIV/AIDS</td>
+                  <td align="left" rowspan="1" colspan="1">50,291</td>
+                  <td align="left" rowspan="1" colspan="1">4.891</td>
+                  <td align="left" rowspan="1" colspan="1">40,480</td>
+                  <td align="left" rowspan="1" colspan="1">2.156</td>
+                  <td align="left" rowspan="1" colspan="1">2.269</td>
+                  <td align="left" rowspan="1" colspan="1">2.239, 2.299</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hepatitis C</td>
+                  <td align="left" rowspan="1" colspan="1">13,980</td>
+                  <td align="left" rowspan="1" colspan="1">1.342</td>
+                  <td align="left" rowspan="1" colspan="1">16,527</td>
+                  <td align="left" rowspan="1" colspan="1">0.871</td>
+                  <td align="left" rowspan="1" colspan="1">1.540</td>
+                  <td align="left" rowspan="1" colspan="1">1.506, 1.575</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Vectorborne</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>12,565</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1.234</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>6,418</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.352</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>3.501</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>3.397, 3.608</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Dengue</td>
+                  <td align="left" rowspan="1" colspan="1">10,770</td>
+                  <td align="left" rowspan="1" colspan="1">1.039</td>
+                  <td align="left" rowspan="1" colspan="1">1,441</td>
+                  <td align="left" rowspan="1" colspan="1">0.087</td>
+                  <td align="left" rowspan="1" colspan="1">11.952</td>
+                  <td align="left" rowspan="1" colspan="1">11.313, 12.628</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">JE</td>
+                  <td align="left" rowspan="1" colspan="1">631</td>
+                  <td align="left" rowspan="1" colspan="1">0.06</td>
+                  <td align="left" rowspan="1" colspan="1">2,183</td>
+                  <td align="left" rowspan="1" colspan="1">0.115</td>
+                  <td align="left" rowspan="1" colspan="1">0.527</td>
+                  <td align="left" rowspan="1" colspan="1">0.482, 0.576</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Typhus</td>
+                  <td align="left" rowspan="1" colspan="1">536</td>
+                  <td align="left" rowspan="1" colspan="1">0.052</td>
+                  <td align="left" rowspan="1" colspan="1">1,554</td>
+                  <td align="left" rowspan="1" colspan="1">0.082</td>
+                  <td align="left" rowspan="1" colspan="1">0.633</td>
+                  <td align="left" rowspan="1" colspan="1">0.574, 0.698</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Malaria</td>
+                  <td align="left" rowspan="1" colspan="1">289</td>
+                  <td align="left" rowspan="1" colspan="1">0.028</td>
+                  <td align="left" rowspan="1" colspan="1">598</td>
+                  <td align="left" rowspan="1" colspan="1">0.031</td>
+                  <td align="left" rowspan="1" colspan="1">0.886</td>
+                  <td align="left" rowspan="1" colspan="1">0.770, 1.020</td>
+                  <td align="left" rowspan="1" colspan="1">0.092</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">SM</td>
+                  <td align="left" rowspan="1" colspan="1">289</td>
+                  <td align="left" rowspan="1" colspan="1">0.050</td>
+                  <td align="left" rowspan="1" colspan="1">533</td>
+                  <td align="left" rowspan="1" colspan="1">0.031</td>
+                  <td align="left" rowspan="1" colspan="1">1.584</td>
+                  <td align="left" rowspan="1" colspan="1">1.372, 1.827</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Kala, azar</td>
+                  <td align="left" rowspan="1" colspan="1">50</td>
+                  <td align="left" rowspan="1" colspan="1">0.005</td>
+                  <td align="left" rowspan="1" colspan="1">109</td>
+                  <td align="left" rowspan="1" colspan="1">0.006</td>
+                  <td align="left" rowspan="1" colspan="1">0.833</td>
+                  <td align="left" rowspan="1" colspan="1">0.596, 1.164</td>
+                  <td align="left" rowspan="1" colspan="1">0.285</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Filariasis</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Zoonotic</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>7,213</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.701</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>20,739</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1.104</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.636</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.620, 0.654</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Brucellosis</td>
+                  <td align="left" rowspan="1" colspan="1">4,003</td>
+                  <td align="left" rowspan="1" colspan="1">0.390</td>
+                  <td align="left" rowspan="1" colspan="1">14,199</td>
+                  <td align="left" rowspan="1" colspan="1">0.757</td>
+                  <td align="left" rowspan="1" colspan="1">0.516</td>
+                  <td align="left" rowspan="1" colspan="1">0.498, 0.534</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hepatitis E</td>
+                  <td align="left" rowspan="1" colspan="1">2,305</td>
+                  <td align="left" rowspan="1" colspan="1">0.223</td>
+                  <td align="left" rowspan="1" colspan="1">2,509</td>
+                  <td align="left" rowspan="1" colspan="1">0.133</td>
+                  <td align="left" rowspan="1" colspan="1">1.680</td>
+                  <td align="left" rowspan="1" colspan="1">1.587, 1.777</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">HD</td>
+                  <td align="left" rowspan="1" colspan="1">715</td>
+                  <td align="left" rowspan="1" colspan="1">0.069</td>
+                  <td align="left" rowspan="1" colspan="1">3,296</td>
+                  <td align="left" rowspan="1" colspan="1">0.175</td>
+                  <td align="left" rowspan="1" colspan="1">0.396</td>
+                  <td align="left" rowspan="1" colspan="1">0.365, 0.430</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Rabies</td>
+                  <td align="left" rowspan="1" colspan="1">129</td>
+                  <td align="left" rowspan="1" colspan="1">0.012</td>
+                  <td align="left" rowspan="1" colspan="1">422</td>
+                  <td align="left" rowspan="1" colspan="1">0.022</td>
+                  <td align="left" rowspan="1" colspan="1">0.559</td>
+                  <td align="left" rowspan="1" colspan="1">0.459, 0.680</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Anthrax</td>
+                  <td align="left" rowspan="1" colspan="1">16</td>
+                  <td align="left" rowspan="1" colspan="1">0.002</td>
+                  <td align="left" rowspan="1" colspan="1">178</td>
+                  <td align="left" rowspan="1" colspan="1">0.009</td>
+                  <td align="left" rowspan="1" colspan="1">0.184</td>
+                  <td align="left" rowspan="1" colspan="1">0.110, 0.306</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Leptospirosis</td>
+                  <td align="left" rowspan="1" colspan="1">34</td>
+                  <td align="left" rowspan="1" colspan="1">0.003</td>
+                  <td align="left" rowspan="1" colspan="1">128</td>
+                  <td align="left" rowspan="1" colspan="1">0.007</td>
+                  <td align="left" rowspan="1" colspan="1">0.487</td>
+                  <td align="left" rowspan="1" colspan="1">0.333, 0.710</td>
+                  <td align="left" rowspan="1" colspan="1">&lt;0.001</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">H7N9</td>
+                  <td align="left" rowspan="1" colspan="1">11</td>
+                  <td align="left" rowspan="1" colspan="1">0.002</td>
+                  <td align="left" rowspan="1" colspan="1">7</td>
+                  <td align="left" rowspan="1" colspan="1">0.001</td>
+                  <td align="left" rowspan="1" colspan="1">2.148</td>
+                  <td align="left" rowspan="1" colspan="1">0.833, 5.541</td>
+                  <td align="left" rowspan="1" colspan="1">0.114</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">H5N1</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">SARS</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>Quarantinable</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>1,979</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.193</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>3,895</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.208</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.932</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.883, 0.984</bold>
+</td>
+                  <td align="left" style="background-color:#DEEAF6" rowspan="1" colspan="1">
+<bold>0.011</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">HF</td>
+                  <td align="left" rowspan="1" colspan="1">1,970</td>
+                  <td align="left" rowspan="1" colspan="1">0.192</td>
+                  <td align="left" rowspan="1" colspan="1">3,890</td>
+                  <td align="left" rowspan="1" colspan="1">0.207</td>
+                  <td align="left" rowspan="1" colspan="1">0.930</td>
+                  <td align="left" rowspan="1" colspan="1">0.881, 0.981</td>
+                  <td align="left" rowspan="1" colspan="1">0.008</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Cholera</td>
+                  <td align="left" rowspan="1" colspan="1">9</td>
+                  <td align="left" rowspan="1" colspan="1">0.001</td>
+                  <td align="left" rowspan="1" colspan="1">5</td>
+                  <td align="left" rowspan="1" colspan="1">0.001</td>
+                  <td align="left" rowspan="1" colspan="1">1.899</td>
+                  <td align="left" rowspan="1" colspan="1">0.636, 5.665</td>
+                  <td align="left" rowspan="1" colspan="1">0.250</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Plague</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                  <td align="left" rowspan="1" colspan="1">-</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t001fn001">
+              <p>*Total numbers from 2013 to 2021.</p>
+            </fn>
+            <fn id="t001fn002">
+              <p><sup>#</sup>Average incidence 2013 to 2021; -, no cases.</p>
+            </fn>
+            <fn id="t001fn003">
+              <p>SI, seasonal influenza; NT, neonatal tetanus; TB, tuberculosis; SF, scarlet fever; MM, meningococcal meningitis; T/P, typhoid fever and paratyphoid fever; HFMD, hand, foot, and mouth disease; AHC, acute hemorrhagic conjunctivitis; ID, infectious diarrhea; AIDS, acquired immune deficiency syndrome; SM, schistosomiasis; JE, Japanese encephalitis; HD, hydatid disease; SARS, severe acute respiratory syndrome; HF, hemorrhagic fever; IRR, incidence rate ratio.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="sec010">
+        <title>Urban and rural definition</title>
+        <p>According to the administrative divisions and economic characteristics of China, there are a total of 34 provinces, 333 prefecture-level cities, and 2,843 districts/counties [<xref rid="pmed.1004374.ref031" ref-type="bibr">31</xref>]. Urban and rural classification is based on the 2,843 districts/counties, of which 973 districts are classified as urban areas and the rest as rural areas. In this study, we defined the main economic and densely populated areas in each prefecture-level city as urban areas (973 districts) [<xref rid="pmed.1004374.ref031" ref-type="bibr">31</xref>], which typically have higher economic and educational levels and higher population density. The remaining counties in each prefecture-level city (1,870 counties) [<xref rid="pmed.1004374.ref031" ref-type="bibr">31</xref>], excluding the economic and densely populated areas, are defined as rural areas, which typically cover a larger land area but have lower population density and lower economic levels. The distribution of urban and rural areas was shown in <bold><xref rid="pmed.1004374.s011" ref-type="supplementary-material">S2 Fig</xref></bold>, along with the schematic diagram of the 3 levels of administrative division in China, based on Sichuan province and Chengdu city.</p>
+      </sec>
+      <sec id="sec011">
+        <title>Geographic classification</title>
+        <p>Considering the substantial economic disparities among the provinces, we divided the 31 provinces of China into 4 regions: eastern, central, western, and northeastern, based on their latitude and longitude, as well as administrative region division. The eastern region is located in the coastal area with a higher economic level, followed by the central region, while the western region has a relatively lagging economy [<xref rid="pmed.1004374.ref032" ref-type="bibr">32</xref>]. We obtained the population data for each district/county from the 2020 Chinese Population Census Yearbook. By using administrative divisions, we were able to gather data on the population of males and females, as well as different age groups, for each prefecture-level city, province, and the entire country, which we considered to be the total population for each respective area.</p>
+      </sec>
+      <sec id="sec012">
+        <title>Statistical analysis</title>
+        <p>Aligned with the research objectives, this investigation hypothesizes that there is disparity in infectious disease incidence between urban and rural areas. Additionally, it posits notable variations in the distribution of diverse categories and individual infectious diseases across these areas, with heightened heterogeneity within urban areas. At the outset of the research, a comprehensive analysis strategy was prospectively designed and produced for the current investigation (<bold><xref rid="pmed.1004374.s002" ref-type="supplementary-material">S1 Text</xref></bold>).</p>
+        <p>To examine the urban&#x2013;rural disparities in disease incidence, we calculated the incidence rate by dividing the number of reported cases by the total population size for both overall infectious diseases and specific disease categories in both urban and rural areas. For most infectious diseases, we used integer values in the main text. Infectious diseases with lower incidence, like vectorborne, zoonotic, and quarantinable diseases, retained 1 decimal place. We then determined the urban&#x2013;rural incidence rate ratio (IRR) by dividing the urban incidence rate by the rural incidence rate for each disease category. The incidence rates in urban and rural areas and the IRR were used to quantify urban&#x2013;rural disparities. We present unadjusted analyses in this study, mainly because the dataset closely represents the entire Chinese population of children and adolescents aged 4 to 24, akin to census data, and lacked additional variables for adjustment. Nevertheless, to ensure a thorough presentation of the findings, subgroup analyses were undertaken, delineating variations across different regions and between sexes. We assessed the urban&#x2013;rural disparities between 2013 and 2021 for each quartile of socioeconomic indicators, each region group, and each province. We also evaluated the relationship between changes in socioeconomic indicators and differences in overall incidence and disease classification between urban and rural areas (<bold><xref rid="pmed.1004374.s004" ref-type="supplementary-material">S1 Methods</xref> and <xref rid="pmed.1004374.s005" ref-type="supplementary-material">S2</xref> Methods</bold>). To identify the long-term patterns in the disease incidence and IRR, we utilized Joinpoint regression models, which estimated annual percentage changes and tested for significance using a Z test. We classified the patterns as either increasing or decreasing, defined by the slope of the annual percent change (APC) and its statistical significance (<italic toggle="yes">p</italic> &lt; 0.05). Patterns where the APC was not statistically significant (<italic toggle="yes">p</italic> &#x2265; 0.05) were characterized as stable, indicating that the incidence or IRR either remained constant or varied without discernible statistical significance.</p>
+        <p>All statistical analyses were performed using the R program (version 4.1.1) [<xref rid="pmed.1004374.ref033" ref-type="bibr">33</xref>], and the R packages &#x201C;gam&#x201D; and &#x201C;ineq&#x201D; were applied to perform the GAMs and Lorenz curve. Joinpoint regression was conducted using Joinpoint software (version 4.3.1) [<xref rid="pmed.1004374.ref034" ref-type="bibr">34</xref>] to evaluate long-term patterns in incidence and IRR.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec013">
+      <title>Results</title>
+      <sec id="sec014">
+        <title>Overall urban&#x2013;rural disparity of notifiable infectious diseases</title>
+        <p>From 2013 to 2021, a total of 8,442,956 cases of 43 notifiable infectious diseases were reported in Chinese children, adolescents, and youth, with 4,487,043 cases from urban areas and an average yearly incidence of 439 per 100,000, and 3,955,913 cases from rural areas and an average yearly incidence of 211 per 100,000 (<bold><xref rid="pmed.1004374.t001" ref-type="table">Table 1</xref>, <xref rid="pmed.1004374.s012" ref-type="supplementary-material">S3</xref></bold> and <bold><xref rid="pmed.1004374.s013" ref-type="supplementary-material">S4</xref> Figs</bold>). The age range and sex distribution for each infectious disease is presented in <bold><xref rid="pmed.1004374.s006" ref-type="supplementary-material">S1 Table</xref></bold>. Overall, a higher burden of notifiable infectious diseases was observed in children, adolescents, and youths in urban areas, with an IRR of 2.078 (95% CI: 2.075, 2.081; <italic toggle="yes">p</italic> &lt; 0.001) (<bold><xref rid="pmed.1004374.t001" ref-type="table">Table 1</xref></bold>). Among the 7 classifications of infectious diseases, zoonotic diseases (IRR of 0.636 (95% CI [0.620, 0.654]; <italic toggle="yes">p</italic> &lt; 0.001; 0.7 per 100,000 in urban areas versus 1.1 per 100,000 in rural areas) and quarantinable diseases (IRR 0.932; 95% CI [0.883, 0.984]; <italic toggle="yes">p</italic> = 0.011; 0.2 versus 0.2 per 100,000) were higher in rural areas than in urban areas. Infectious diseases of all other classifications were higher in urban areas, including vaccine-preventable diseases (IRR = 2.297; 95% CI [2.293, 2.301]; <italic toggle="yes">p</italic> &lt; 0.001; 247 versus 107 per 100,000), bacterial diseases (IRR = 1.306; 95% CI [1.301, 1.311]; <italic toggle="yes">p</italic> &lt; 0.001; 43 versus 33 per 100,000), gastrointestinal and enterovirus diseases (IRR = 2.143; 95% CI [2.138, 2.149]; <italic toggle="yes">p</italic> &lt; 0.001; 115 versus 53 per 100,000), sexually transmitted and bloodborne diseases (IRR = 2.053; 95% CI [2.043, 2.063]; <italic toggle="yes">p</italic> &lt; 0.001; 33 versus 16 per 100,000), and vectorborne diseases (IRR = 3.501; 95% CI [3.397, 3.608]; <italic toggle="yes">p</italic> &lt; 0.001; 1.2 versus 0.4 per 100,000) (<bold><xref rid="pmed.1004374.t001" ref-type="table">Table 1</xref></bold>).</p>
+      </sec>
+      <sec id="sec015">
+        <title>Overall urban&#x2013;rural disparity by year</title>
+        <p>One notable occurrence was the outbreak of seasonal influenza in 2019 that affected children, adolescents, and youths in both urban and rural areas, so we conducted the analysis before and after 2019, excluding seasonal influenza. Results before excluding seasonal influenza showed that the incidence of infectious diseases increased from 293 and 183 per 100,000 in 2013 to 1,212 and 450 per 100,000 in 2019 among urban and rural populations, respectively (<bold><xref rid="pmed.1004374.s007" ref-type="supplementary-material">S2 Table</xref></bold>), demonstrating an APC of 10.4% (95% CI [&#x2212;2.3, 24.9]; <italic toggle="yes">p</italic> = 0.098) and 5.8% (95% CI [&#x2212;3.7, 16.1]; <italic toggle="yes">p</italic> = 0.198) for these 2 groups (<bold><xref rid="pmed.1004374.g001" ref-type="fig">Fig 1A</xref></bold>). This increase was primarily driven by pertussis, seasonal influenza, infectious diarrhea, gonorrhea, and syphilis in both urban and rural areas (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>). With the exception of the seasonal influenza, the incidence of infectious diseases remained stable from 276 and 176 per 100,000 in 2013 to 269 and 142 per 100,000 in 2021 among urban and rural populations, respectively (<bold><xref rid="pmed.1004374.s007" ref-type="supplementary-material">S2 Table</xref></bold>). The overall disparity between urban and rural areas also grew each year, with the IRR increasing from 1.601 in 2013 to 2.098 in 2021 (<bold><xref rid="pmed.1004374.s007" ref-type="supplementary-material">S2 Table</xref></bold>), indicating an APC of 4.4% (95% CI: [1.1, 7.8]; <italic toggle="yes">p</italic> = 0.015) (<bold><xref rid="pmed.1004374.g001" ref-type="fig">Fig 1B</xref></bold>). Notably, the largest urban&#x2013;rural disparity was observed during the outbreak of seasonal influenza in 2019, with an IRR of 2.695 (95% CI [2.688, 2.702]; <italic toggle="yes">p</italic> &lt; 0.001) (<bold><xref rid="pmed.1004374.s007" ref-type="supplementary-material">S2 Table</xref></bold>).</p>
+        <fig position="float" id="pmed.1004374.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pmed.1004374.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Trends in incidence, disparity of IRR, and APC of notifiable infectious diseases among children, adolescents, and youths in urban and rural areas from 2013 to 2021.</title>
+            <p><bold> Note:</bold> Overall incidence for total infectious disease between urban and rural (subfigure A), and overall urban&#x2013;rural disparity for IRR and its APC change from 2013 to 2021 (subfigure B). The APC for incidence was calculated using the yearly incidence rates from 2013 to 2021. Similarly, the APC for the IRR was determined based on the annual IRR figures from 2013 to 2021. APC, annual percent change; IRR, incidence rate ratio.</p>
+          </caption>
+          <graphic xlink:href="pmed.1004374.g001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec016">
+        <title>Urban&#x2013;rural disparity by category</title>
+        <p>The urban&#x2013;rural disparity by category and specific diseases over years, and most notifiable infectious diseases in both urban and rural areas presented a decreased or stable pattern in the incidence during the 9 years, but only several specific diseases witnessed an increased pattern in the incidence (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>), resulting in an overall increased pattern for both urban and rural diseases burdens and their widened disparity, such as pertussis, hepatitis A, infectious diarrhea, and typhus (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2</xref></bold>). Both males and females show a similar urban&#x2013;rural disparity in each specific infectious disease by year (<bold><xref rid="pmed.1004374.s012" ref-type="supplementary-material">S3 Table</xref></bold> and <bold><xref rid="pmed.1004374.s017" ref-type="supplementary-material">S8 Fig</xref></bold>).</p>
+        <fig position="float" id="pmed.1004374.g002">
+          <object-id pub-id-type="doi">10.1371/journal.pmed.1004374.g002</object-id>
+          <label>Fig 2</label>
+          <caption>
+            <title>Patterns in incidence disparity of log transferred incidence rate ratio (log-IRR) and the change patterns by each specific infectious disease and years among Chinese children, adolescents, and youth from 2013 to 2021.</title>
+            <p><bold>Note:</bold> The urban&#x2013;rural disparity of log transferred incidence rate ratio (log-IRR) (subfigure A), and their change patterns based on the APC (subfigure B). The uppercase letters A&#x2013;G in the subfigure A represent the 7 categories of infectious disease: Group 1, vaccine preventable; Group 2, bacteria; Group 3, gastrointestil and enterovirus; Group 4, sexually transmitted and bloodborne; Group 5, vectorborne; Group 6, zoonotic; Group 7, quarantinable. The forest plot in the subfigure B represent the APC for IRR, and the actual number of APC (95% CI) and the <italic toggle="yes">p</italic> value are also represented in the subfigure B. SI, seasonal influenza; NT, neonatal tetanus; TB, tuberculosis; SF, scarlet fever; MM, meningococcal meningitis; T/P, typhoid fever and paratyphoid fever; HFMD, hand, foot, and mouth disease; AHC, acute hemorrhagic conjunctivitis; ID, infectious diarrhea; AIDS, acquired immune deficiency syndrome; SM, schistosomiasis; JE, Japanese encephalitis; HD, hydatid disease; SARS, severe acute respiratory syndrome; HF, hemorrhagic fever; IRR, incidence rate ratio; APC, annual percent change.</p>
+          </caption>
+          <graphic xlink:href="pmed.1004374.g002" position="float"/>
+        </fig>
+        <sec id="sec017">
+          <title>Vaccine preventable</title>
+          <p>The outbreak of seasonal influenza in 2019 drove an overall increase in the incidence of vaccine preventable diseases. Furthermore, the incidence of vaccine preventable diseases among children and adolescents increased slightly from 2013 to 2021 in both urban areas (133 to 225 per 100,000) and in rural areas (91 to 100 per 100,000), without significant trend (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). This resulted in an increasing urban&#x2013;rural disparity with the IRR rising from 1.472 in 2013 to 2.246 in 2021 (APC = 7.5%; 95% CI [3.5, 11.7]; <italic toggle="yes">p</italic> = 0.003) during the period (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref> and <xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5A</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6A</xref> Figs</bold>). The long-term patterns of 11 vaccine preventable diseases in both urban and rural areas were consistent (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>), with higher incidence in urban areas than in rural areas, and the disparity continued to widen (<bold>Figs <xref rid="pmed.1004374.g002" ref-type="fig">2</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6A</xref></bold>). However, the patterns of specific diseases varied. Pertussis and seasonal influenza incidence increased, hepatitis A, hepatitis B, and measles incidence decreased, while mumps incidence remained stable (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>). However, it is noteworthy that the confidence interval for rubella is considerably wide in both urban and rural areas, which implies a considerable degree of uncertainty.</p>
+        </sec>
+        <sec id="sec018">
+          <title>Bacteria</title>
+          <p>The incidence of bacterial infectious diseases in both urban and rural areas remained stable between 2013 and 2019 (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5B Fig</xref></bold>), with urban areas having a higher incidence than rural areas (<bold><xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6B Fig</xref></bold>). However, a significant decrease was observed in 2020 and 2021, with decreasing APCs of &#x2212;4.9 (95% CI [&#x2212;10.5, 1.0]; <italic toggle="yes">p</italic> = 0.087) and &#x2212;3.3 (95% CI [&#x2212;6.5, 0.1]; <italic toggle="yes">p</italic> = 0.056) from 2013 to 2021 for urban and rural areas, respectively (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5B</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6B</xref> Figs</bold>). Over the period of 2013 to 2021, the urban&#x2013;rural disparity in bacterial infectious diseases remained stable between 2013 and 2019, with the IRR ranging between 1.2 and 1.4, but significantly decreased in 2020 (IRR = 1.045; 95% CI [1.031, 1.060]; <italic toggle="yes">p</italic> &lt; 0.001) (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). Among the 4 types of bacterial infections, tuberculosis and scarlet fever consistently had a higher incidence in urban areas than in rural areas (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2A</xref></bold>), but the urban&#x2013;rural disparity has gradually decreased (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2B</xref></bold>).</p>
+        </sec>
+        <sec id="sec019">
+          <title>Gastrointestinal and enterovirus</title>
+          <p>The incidence of gastrointestinal and enteroviral diseases has shown a sustained upward pattern in both urban and rural areas, increasing from 91 to 153 cases per 100,000 in urban areas and from 46 to 67 cases per 100,000 in rural areas from 2013 to 2021 (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). Throughout this period, there has been a consistent and substantial 2-fold urban&#x2013;rural disparity (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5C</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6C</xref> Figs</bold>). Among the 5 diseases that fall under this category, all have demonstrated long-term, stable urban&#x2013;rural disparities, except for infectious diarrhea, which has seen a slight increase in such disparities (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2</xref></bold>). While the incidence of infectious diarrhea has continued to rise in both urban and rural areas, both hand, foot, and mouth disease (HFMD) and acute hemorrhagic conjunctivitis have remained stable, and typhoid fever, paratyphoid fever, and dysentery have all shown a decreasing pattern over this period (2013 to 2021) (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>).</p>
+        </sec>
+        <sec id="sec020">
+          <title>Sexually transmitted and bloodborne</title>
+          <p>The incidence of sexually transmitted and bloodborne diseases in both urban and rural populations increased significantly from 2013 to 2021, from 25 to 47 cases per 100,000 (urban) and from 12 to 23 cases per 100,000 (rural) (<bold><xref rid="pmed.1004374.s012" ref-type="supplementary-material">S3 Table</xref></bold>), with a substantial annual percentage increase of 6.4% (95% CI [4.0, 8.9]; <italic toggle="yes">p</italic> &lt; 0.001) in urban areas and 8.0% (95% CI [6.3, 9.7]; <italic toggle="yes">p</italic> &lt; 0.001) in rural areas (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5D</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6D</xref> Figs</bold>). Urban areas exhibited about twice the incidence of rural areas, and the urban&#x2013;rural disparity in the incidence of sexually transmitted and bloodborne diseases remained consistent, with an IRR ranging from 1.976 to 2.218 (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). Moreover, the incidence of both gonorrhea and syphilis rose, particularly in rural areas, while HIV/AIDS remained stable over the long term, and hepatitis C declined (<bold>Figs <xref rid="pmed.1004374.g002" ref-type="fig">2</xref></bold> and <bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7</xref></bold>).</p>
+        </sec>
+        <sec id="sec021">
+          <title>Vectorborne</title>
+          <p>Vector-borne diseases have been generally prevalent at a low level, except for an outbreak for dengue in urban areas in 2014. The incidence of these diseases has shown a decreasing pattern in rural populations, dropping from 0.5 in 2013 to 0.1 per 100,000 in 2021 (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>), with APCs of &#x2212;12.0% (95% CI [&#x2212;21.5, &#x2212;1.4]; <italic toggle="yes">p</italic> = 0.033) (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5E Fig</xref></bold>). Conversely, the decreasing pattern observed in urban areas did not reach statistical significance, as indicated by APCs of &#x2212;25.7% (95% CI [&#x2212;45.3, 1.0]; <italic toggle="yes">p</italic> = 0.056) (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5E Fig</xref></bold>). This overall downward pattern was driven by the decline of each individual disease, including malaria, kala-azar (visceral leishmaniasis), and Japanese encephalitis in both urban and rural areas (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>). As a result, the urban&#x2013;rural disparity in dengue incidence decreased notably, from an IRR of 35.908 to 1.300 (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2</xref></bold>). Japanese encephalitis and typhus consistently showed higher incidence in rural than urban areas, while malaria alternated between the 2 areas (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>). The overall downward pattern also drove a narrowing urban&#x2013;rural disparity in vectorborne infectious diseases, from 1.649 in 2013 to 0.687 in 2021, and the urban&#x2013;rural disparity in the incidence of vector-borne infectious diseases reversed in 2020 (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>).</p>
+        </sec>
+        <sec id="sec022">
+          <title>Zoonotic</title>
+          <p>The incidence of zoonotic infectious diseases was consistently higher in rural than urban areas, with rates of 1.1 and 0.7 per 100,000, respectively (<bold><xref rid="pmed.1004374.t001" ref-type="table">Table 1</xref></bold>), resulting in a consistent and large urban&#x2013;rural disparity with IRR ranging from 0.578 to 0.729 during the period (2013 to 2021) (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). The APC in urban and rural areas were &#x2212;1.0% (95% CI [&#x2212;5.0, 3.2]; <italic toggle="yes">p</italic> = 0.585) and &#x2212;2.6% (95% CI [&#x2212;7.3, 2.4]; <italic toggle="yes">p</italic> = 0.251), respectively (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5F</xref></bold> and <bold><xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6F</xref> Figs</bold>). The incidence of hepatitis E, leptospirosis, and rabies decreased in both urban and rural areas, while the incidence of hydatid disease, anthrax, and brucellosis remained stable (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>). Excluding single digit cases of H7N9, only hepatitis E showed a higher incidence in urban areas with an IRR of 1.680, while other zoonotic diseases dominated in rural areas (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2</xref></bold>).</p>
+        </sec>
+        <sec id="sec023">
+          <title>Quarantinable</title>
+          <p>The incidence of quarantinable diseases exhibited a fluctuating pattern over time, with APCs of 1.6% (95% CI [&#x2212;5.7, 9.4]; <italic toggle="yes">p</italic> = 0.632) and 2.1% (95% CI [&#x2212;7.0, 3.0]; <italic toggle="yes">p</italic> = 0.355) in urban and rural areas, from 2013 to 2021, respectively (<bold><xref rid="pmed.1004374.s014" ref-type="supplementary-material">S5G</xref> and <xref rid="pmed.1004374.s015" ref-type="supplementary-material">S6G</xref> Figs</bold>). Hemorrhagic fever, being the main quarantinable disease, remained stable in both urban and rural areas during the nine-year study period (<bold><xref rid="pmed.1004374.s016" ref-type="supplementary-material">S7 Fig</xref></bold>), resulting in a higher incidence in rural areas than in urban areas, and a consistent urban&#x2013;rural disparity from 2013 to 2020 with an IRR ranging from 0.8 to 0.9 (<bold><xref rid="pmed.1004374.g002" ref-type="fig">Fig 2</xref> and <xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>). However, the disparity increased notably in urban areas, resulting in the IRR reversing to 1.422 (95% CI [1.229, 1.646]; <italic toggle="yes">p</italic> &lt; 0.001) in 2021 (<bold><xref rid="pmed.1004374.s008" ref-type="supplementary-material">S3 Table</xref></bold>).</p>
+        </sec>
+      </sec>
+      <sec id="sec024">
+        <title>Urban&#x2013;rural disparity by region</title>
+        <p><bold><xref rid="pmed.1004374.g003" ref-type="fig">Fig 3</xref></bold> presents a graphical representation of the regional distribution of infectious diseases in both urban and rural areas, revealing various degrees of geographic disparities. The regional incidence distribution of infectious diseases in rural and urban areas was generally comparable, with the highest incidence rates in the eastern regions and the lowest in the northeastern regions (<bold><xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref> and <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9A</xref> and <xref rid="pmed.1004374.s019" ref-type="supplementary-material">S10</xref> Figs</bold>). In the eastern regions, the average incidence rates in rural and urban areas were 467 and 282 per 100,000, respectively, with an IRR of 1.66 (<bold><xref rid="pmed.1004374.g003" ref-type="fig">Fig 3A</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>). In the northeastern regions, the infection rates in urban and rural areas were 229 and 134 per 100,000, respectively, with the largest IRR of 1.71 (<bold><xref rid="pmed.1004374.g003" ref-type="fig">Fig 3A</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>). Conversely, the western regions had the lowest urban&#x2013;rural disparities, with a lowest IRR of 1.30 (<bold><xref rid="pmed.1004374.g003" ref-type="fig">Fig 3A</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>).</p>
+        <fig position="float" id="pmed.1004374.g003">
+          <object-id pub-id-type="doi">10.1371/journal.pmed.1004374.g003</object-id>
+          <label>Fig 3</label>
+          <caption>
+            <title>Regional disparity in log transferred incidence rate ratio (log-IRR) among Chinese children, adolescents, and youth from 2013 to 2021.</title>
+            <p><bold>Notes:</bold> Subfigure A to H showed the regional disparity of total and specific infectious disease category using the index of log transferred incidence rate ratio (log-IRR) for children, adolescents, and youth aged 4 to 24 years. The base map was obtained from Natural Earth (<ext-link xlink:href="https://naturalearthdata.com/" ext-link-type="uri">https://naturalearthdata.com</ext-link>). IRR, incidence rate ratio.</p>
+          </caption>
+          <graphic xlink:href="pmed.1004374.g003" position="float"/>
+        </fig>
+        <p>The geographic distribution of urban&#x2013;rural disparities in vaccine preventable diseases, bacterial infections, gastrointestinal and enterovirus infections, sexually transmitted, and bloodborne diseases were similar to the overall distribution of infectious diseases, with the lowest IRR in western regions (<bold>Figs <xref rid="pmed.1004374.g003" ref-type="fig">3B, 3C, 3D, 3E</xref>, <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9</xref>, and <xref rid="pmed.1004374.s019" ref-type="supplementary-material">S10</xref></bold>). Interestingly, bacterial infections even had a reversal in urban&#x2013;rural disparities in western regions, with an IRR of 0.915 (<bold>Figs <xref rid="pmed.1004374.g003" ref-type="fig">3C</xref> and <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9C</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>). Vectorborne diseases had a significant urban&#x2013;rural disparity in eastern regions, with the largest IRR of 2.105 (<bold>Figs <xref rid="pmed.1004374.g003" ref-type="fig">3G</xref> and <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9G</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>). On the other hand, the urban&#x2013;rural disparities in zoonotic diseases were the lowest in western regions, with a notable IRR of 0.484, indicating that the rural western population had a higher incidence of zoonotic diseases, whereas the middle regions had a higher incidence in urban areas, with IRRs of 1.081 (<bold>Figs <xref rid="pmed.1004374.g003" ref-type="fig">3F</xref> and <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9G</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>). As for quarantinable infectious diseases, urban areas had higher incidence rates than rural areas in northeastern regions (IRR: 1.312), while in other regions, rural areas had higher incidence rates than urban areas (<bold>Figs <xref rid="pmed.1004374.g003" ref-type="fig">3H</xref> and <xref rid="pmed.1004374.s018" ref-type="supplementary-material">S9H</xref> and <xref rid="pmed.1004374.s009" ref-type="supplementary-material">S4 Table</xref></bold>).</p>
+        <p>Socioeconomic factors, including gross domestic product (GDP) and urbanization, are linked to infectious disease rates, as shown in the <bold><xref rid="pmed.1004374.s020" ref-type="supplementary-material">S11</xref> and <xref rid="pmed.1004374.s021" ref-type="supplementary-material">S12</xref> Figs</bold>. As these factors improve, a U-shaped relationship with disease incidence is observed, with variations among different disease categories (<bold><xref rid="pmed.1004374.s020" ref-type="supplementary-material">S11</xref> and <xref rid="pmed.1004374.s021" ref-type="supplementary-material">S12</xref> Figs</bold>). <bold><xref rid="pmed.1004374.s022" ref-type="supplementary-material">S13 Fig</xref></bold> displays the inequality in notifiable infectious diseases among Chinese children, adolescents, and youth from 2013 to 2021 in the district/county level. During the nine-year period, overall incidence of infectious diseases was unequally distributed, with Gini coefficient of 0.592 (calculated based on the ranked GDP) and 0.616 (calculated based on the ranked urbanization). Based on the urbanization, vaccine preventable diseases also showed the greatest disparity (GINI: 0.726), followed by gastrointestinal and enterovirus diseases (GINI: 0.624) (<bold><xref rid="pmed.1004374.s022" ref-type="supplementary-material">S13B Fig</xref></bold>). More detailed results on inequality can be found in <bold><xref rid="pmed.1004374.s003" ref-type="supplementary-material">S2 Text</xref> and <xref rid="pmed.1004374.s023" ref-type="supplementary-material">S14</xref> and <xref rid="pmed.1004374.s024" ref-type="supplementary-material">S15</xref> Figs</bold>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec025">
+      <title>Discussion</title>
+      <p>To our knowledge, this is the first study to use a nationwide dataset of over 8.44 million cases to evaluate the long-term variations of urban&#x2013;rural disparities and identify specific diseases driving these discrepancies among children, adolescents, and youths aged 4 to 24 years in China. Over the nine-year period, while the overall incidence of infectious diseases increased in both urban and rural areas due to major diseases like pertussis, seasonal influenza, infectious diarrhea, gonorrhea, and syphilis, most notifiable disease categories either decreased or remained stable. However, the burden of infectious diseases in urban populations was more than double than in rural areas, with this gap widening over time. Specific diseases, such as pertussis and hepatitis A among vaccine-preventable diseases, tuberculosis and scarlet fever among bacterial diseases, infectious diarrhea among gastrointestinal and enterovirus diseases, typhus among vectorborne diseases, and 4 sexually transmitted and bloodborne diseases, predominantly drove this disparity. Yet, this increased disparity was offset by most bacterial diseases, zoonotic diseases, and quarantinable diseases represented by hemorrhagic fever, as well as most vectorborne diseases. Geographically, the disparity was generally consistent, with noticeable high urban&#x2013;rural disparities in zoonotic diseases in eastern China but a reversed disparity in western regions. Moreover, socioeconomic factors, including GDP and urbanization, were linked to infectious disease rates with a U-shaped relationship between them. Our study provides valuable insights into understanding infectious disease disparities between urban and rural populations and offers crucial guidance for addressing these inequalities in the future.</p>
+      <p>The incidence of infectious diseases among Chinese children and adolescents showed a slight upward trend from 2013 to 2021; meanwhile, a small number of infectious diseases have driven higher burdens in urban areas, widening urban&#x2013;rural disparities. While a previous study in China covering the period from 2008 to 2015 indicated a decline in the incidence of most notifiable infectious diseases among Chinese children and adolescents [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>], our current investigation reveals a gradual increase since 2015, predominantly in urban areas. With approximately half of Asia&#x2019;s population currently residing in urban areas, and an expected increase to 64% by 2050 [<xref rid="pmed.1004374.ref035" ref-type="bibr">35</xref>], urban regions are likely to become the primary epicenter for infectious diseases transmission in the future. In the process of rapid urbanization, the high population density and close proximity of individuals in cities create ideal conditions for the spread of infectious diseases, particularly respiratory infections, as demonstrated by the ongoing COVID-19 pandemic [<xref rid="pmed.1004374.ref003" ref-type="bibr">3</xref>]. Since the onset of the COVID-19 pandemic, the widespread implementation of strict non-pharmaceutical interventions has significantly reduced the occurrence rates of nearly all infectious diseases globally [<xref rid="pmed.1004374.ref036" ref-type="bibr">36</xref>]. Notably, respiratory and gastrointestinal infections have experienced particularly notable reductions [<xref rid="pmed.1004374.ref036" ref-type="bibr">36</xref>]. Nevertheless, the implemented policies have contributed to a resurgence in respiratory system diseases. Over time, it is expected that the incidence rates of diverse infectious diseases will gradually approach historical levels, possibly resulting in a renewed surge of outbreaks attributed to waning immunity [<xref rid="pmed.1004374.ref037" ref-type="bibr">37</xref>].</p>
+      <p>The larger urban&#x2013;rural disparity in infectious diseases may benefit from ongoing improvements in urban surveillance systems. Continuous enhancements in monitoring systems, expanded coverage, and improved detection technology have led to increased identification of legally mandated infectious diseases in urban environments [<xref rid="pmed.1004374.ref029" ref-type="bibr">29</xref>,<xref rid="pmed.1004374.ref038" ref-type="bibr">38</xref>]. Higher education has led to increased awareness and willingness to actively accept relevant infectious disease detection [<xref rid="pmed.1004374.ref039" ref-type="bibr">39</xref>]. On the other hand, rural areas face challenges such as limited access to medical care after infection and low health literacy, relative to urban areas [<xref rid="pmed.1004374.ref040" ref-type="bibr">40</xref>]. Despite superior healthcare resources in urban areas, higher infectious disease rates persist compared to rural areas, likely due to elevated population density and confined public spaces [<xref rid="pmed.1004374.ref041" ref-type="bibr">41</xref>,<xref rid="pmed.1004374.ref042" ref-type="bibr">42</xref>]. The growing urban population further exacerbates disparities in healthcare resource accessibility within cities, contributing to intra-city healthcare resource inequality [<xref rid="pmed.1004374.ref043" ref-type="bibr">43</xref>].</p>
+      <p>We have discovered a positive trend in the prevention and control of most vaccine-preventable diseases, with a continuing decline in their incidence. However, 2 major diseases, pertussis and hepatitis A, have shown a disproportionate increase in urban areas compared to rural areas, significantly widening overall urban&#x2013;rural disparities. This trend underscores the imperative of ensuring equitable vaccine coverage, especially in low- and middle-income countries (LIMICs) undergoing rapid urbanization and economic growth [<xref rid="pmed.1004374.ref044" ref-type="bibr">44</xref>,<xref rid="pmed.1004374.ref045" ref-type="bibr">45</xref>]. Despite China&#x2019;s 2008 initiative to enhance immunization coverage and broaden vaccine availability, challenges persist, particularly with seasonal influenza, which falls outside the immunization program and requires payment. Pertussis, despite effective controlled since planned immunization in 1978, demands vaccination before age 2 due to waning protective effects. Countries with high vaccination rates for diphtheria, tetanus, and pertussis, such as the United States and Australia, have observed pertussis resurgence after years of low incidence rates [<xref rid="pmed.1004374.ref046" ref-type="bibr">46</xref>&#x2013;<xref rid="pmed.1004374.ref048" ref-type="bibr">48</xref>]. Our research in China, where pertussis vaccine coverage exceeds 99%, has identified a similar phenomenon [<xref rid="pmed.1004374.ref049" ref-type="bibr">49</xref>,<xref rid="pmed.1004374.ref050" ref-type="bibr">50</xref>]. Exploring urban&#x2013;rural differences in vaccine-preventable infectious diseases among children and adolescents in China can help promote vaccine accessibility and coverage equity, particularly given China&#x2019;s rapid but uneven urbanization development. This research is also relevant for LMICs worldwide that face limited healthcare infrastructure and lack access to vaccines, posing a serious public health concern [<xref rid="pmed.1004374.ref051" ref-type="bibr">51</xref>].</p>
+      <p>In terms of bacterial diseases, tuberculosis remains prevalent in both urban and rural China. While our study indicates a decrease in tuberculosis incidence among children and adolescents in China, it still remains a leading cause of death in this age group [<xref rid="pmed.1004374.ref052" ref-type="bibr">52</xref>], highlighting a significant urban&#x2013;rural disparity in bacterial disease burden. Despite the declining trend observed in tuberculosis cases, as well as consistent urban&#x2013;rural differences, our findings underscore China&#x2019;s progress in tuberculosis prevention and control efforts. However, the challenge of less access to care in rural areas remains, and our study found that urban&#x2013;rural disparities are particularly pronounced in the west, and that the urban&#x2013;rural divide that drives bacterial disease is reversing, making rural areas a priority for tuberculosis intervention efforts aimed at reducing mortality [<xref rid="pmed.1004374.ref053" ref-type="bibr">53</xref>]. Previous study reported that China&#x2019;s center and western regions showed a greater decline in adult tuberculosis incidence compared to the western regions [<xref rid="pmed.1004374.ref054" ref-type="bibr">54</xref>]. Similar to the disparity in childhood tuberculosis, adult tuberculosis occurs more frequently in rural than urban locations in western regions [<xref rid="pmed.1004374.ref055" ref-type="bibr">55</xref>&#x2013;<xref rid="pmed.1004374.ref057" ref-type="bibr">57</xref>], where around 71% of tuberculosis patients reside [<xref rid="pmed.1004374.ref054" ref-type="bibr">54</xref>,<xref rid="pmed.1004374.ref058" ref-type="bibr">58</xref>]. It is worth noting that the incidence of tuberculosis among children and adolescents is similar in both urban and rural areas, indicating a significant increase in incidence of tuberculosis between this group and adulthood. As a result, children and adolescents in rural areas play a critical role in tuberculosis elimination efforts. In terms of scarlet fever, urban areas have a rate nearly 3 times higher than rural areas, with children and adolescents being the most affected group. Although previous studies have reported an increase in scarlet fever incidence among this age group in China [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>], as well as resurgences in other regions [<xref rid="pmed.1004374.ref059" ref-type="bibr">59</xref>], this study did not find such an increase, which could be due to its cyclical pattern of ups and downs [<xref rid="pmed.1004374.ref060" ref-type="bibr">60</xref>]. However, the high incidence of scarlet fever in urban areas remains a concern even during periods of decline. Therefore, age- and region-specific control measures are needed to address the variations of urban&#x2013;rural disparities in bacterial diseases.</p>
+      <p>Sexually transmitted and bloodborne diseases, particularly for sexually transmitted diseases (STDs), pose a significant public health challenge, especially in urban areas where their incidence is consistently higher than in rural areas. This disparity is most prominent in areas with lower socioeconomic levels, but as the economy improves, the gap tends to decrease. Nonetheless, the increasing trend in the incidence of these diseases in both urban and rural areas is a cause for concern, presenting a major challenge for countries worldwide [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>,<xref rid="pmed.1004374.ref061" ref-type="bibr">61</xref>,<xref rid="pmed.1004374.ref062" ref-type="bibr">62</xref>]. It is important to note that the tuberculosis is closely related to STDs [<xref rid="pmed.1004374.ref063" ref-type="bibr">63</xref>]. Together, tuberculosis and STDs caused 1.5 million deaths globally in 2020, including 241,000 individuals who were HIV&#x2013;positive [<xref rid="pmed.1004374.ref064" ref-type="bibr">64</xref>]. Given the co-occurrence of these diseases, there is a growing recognition of the need to consider both in the prevention and control of infectious diseases among children and adolescents. While the incidence of STDs is most pronounced in urban areas, there is an increasing risk of these diseases spreading to rural areas. This trend highlights the essential to implement comprehensive prevention and control strategies to mitigate the urban&#x2013;rural disparity in STDs. This includes improving access to education and prevention measures, such as promoting sexual health awareness and providing free or low-cost condoms in both urban and rural areas. Additionally, strengthening healthcare systems by expanding STDs testing and treatment services, particularly in underserved rural areas, can help reduce the incidence and spread of STDs and bridge the urban&#x2013;rural gap in disease burden.</p>
+      <p>The incidence of gastrointestinal and enterovirus diseases is significantly higher in urban areas, being 2.1 times higher than in rural areas. HFMD and infectious diarrhea are the main gastrointestinal and enterovirus infectious diseases. While the urban&#x2013;rural disparity in HFMD aligns with previous research [<xref rid="pmed.1004374.ref065" ref-type="bibr">65</xref>], the difference in mortality and severe cases between urban and rural areas differs from the incidence gap [<xref rid="pmed.1004374.ref065" ref-type="bibr">65</xref>]. Rural areas exhibit lower incidence rates but higher mortality and severe case rates compared to urban areas [<xref rid="pmed.1004374.ref065" ref-type="bibr">65</xref>]. Moreover, HFMD recurrence is more prevalent in urban areas than in rural ones, underscoring the disproportionate burden on urban regions [<xref rid="pmed.1004374.ref066" ref-type="bibr">66</xref>]. Strengthening symptom monitoring and warning systems in both urban and rural areas is essential to address this issue.</p>
+      <p>Furthermore, our study offers a comprehensive overview of the urban&#x2013;rural disparity in the incidence and patterns of vector-borne, zoonotic, and quarantinable infectious diseases in China. While the overall trend for vector-borne diseases is declining, driven by dengue reduction, the urban&#x2013;rural gap is narrowing. Zoonotic diseases consistently exhibit higher incidence rates in rural areas, indicating a notable urban&#x2013;rural disparity. Quarantinable diseases demonstrate a fluctuating pattern with a persistent urban&#x2013;rural gap, albeit with a reversal in urban areas in 2021. These findings underscore the importance of addressing urban&#x2013;rural disparities in infectious diseases, particularly for zoonotic diseases. Efforts should focus on enhancing rural healthcare infrastructure and access to medical services to improve disease detection and treatment. Additionally, implementing targeted public health campaigns in rural areas can raise awareness about disease prevention and control measures, ultimately reducing the gap between urban and rural areas.</p>
+      <p>The study has several strengths. In this investigation of infectious diseases, we utilized a robust and large sample surveillance system with over 8.44 million cases, the CISDCP, which systematically and representatively monitors infectious diseases and covers over 85% of all health facilities in China in both urban and rural areas [<xref rid="pmed.1004374.ref026" ref-type="bibr">26</xref>,<xref rid="pmed.1004374.ref028" ref-type="bibr">28</xref>]. Moreover, the study included all children and adolescents, and youths whether or not they were attending school, making it the most comprehensive representation of the epidemiological situation of infectious diseases in China. The study&#x2019;s strength lies in the high accuracy of diagnosis for all infectious diseases. Although CISDCP recorded suspected cases, carriers of pathogens, and confirmed cases, only patients with diagnoses supported by uniform clinical standards and laboratory tests were included in this investigation.</p>
+      <p>However, several potential limitations should be noted. Firstly, while the study utilized a robust surveillance system, it is possible that some cases were missed due to underreporting or insufficient surveillance in certain areas. Furthermore, the population data used to calculate incidence rates was based on the annual average population of each region, which may not account for population movement and could introduce errors. Nevertheless, it is worth noting that since the majority of children and adolescents are students with relatively low mobility, this limitation may be somewhat mitigated. Despite the fact that the CDCs conducts data audits on infectious diseases in the reporting system, differences in the professional levels of various CDCs may introduce errors, potentially leading to an underestimation of the incidence rates of infectious diseases in certain regions. However, it is noteworthy that the same case undergoes reviews at 3 different levels: country, city, and provincial CDCs during the submission process. This procedural scrutiny is anticipated to, to a certain extent, alleviate the prospect of underestimating infectious disease incidence rates attributable to divergences in CDC expertise at varying levels. We classified long-term patterns using APC values and <italic toggle="yes">P</italic> values. It is crucial to note that a nonsignificant <italic toggle="yes">P</italic> value does not necessarily mean the absence of a pattern; a pattern may still be present. When interpreting results, caution is needed with <italic toggle="yes">P</italic> values due to potential influences from factors like sample size and variability. The study&#x2019;s participants were aged 4 to 24 years, showing different infectious disease patterns from the 0 to 4 age group. Specifically, gastrointestinal infections are more prevalent in the younger group, while sexually transmitted and zoonotic diseases are less common [<xref rid="pmed.1004374.ref067" ref-type="bibr">67</xref>]. Therefore, the study&#x2019;s findings, particularly regarding urban&#x2013;rural disparities in gastrointestinal infections, may not apply to the 0 to 4 age group and could underestimate these disparities. Finally, the study only considered legally notified infectious diseases, which may not capture all infectious diseases in this age group. Despite these limitations, this study represents a critical step towards developing targeted public health interventions to reduce the burden and bridge the urban&#x2013;rural disparity of infectious diseases among children and adolescents, and youths in China.</p>
+      <p>In summary, as urbanization accelerates, the urban&#x2013;rural disparities in the spectrum of 43 infectious diseases among Chinese children and adolescents are becoming increasingly complex. While progress has been made in controlling most infectious diseases in China, our findings indicate rising disease incidence rates in both urban and rural areas, primarily attributed to increases in seasonal influenza and several other diseases including pertussis, infectious diarrhea, gonorrhea, and syphilis. Importantly, the burden of infectious diseases among urban populations exceeds that of rural areas by over 2-fold, with disparities widening over time. This disparity was driven mainly by several specific diseases, such as pertussis and seasonal influenza among vaccine-preventable diseases, tuberculosis and scarlet fever among bacterial diseases, infectious diarrhea among gastrointestinal and enterovirus diseases, typhus among vectorborne diseases, and 4 sexually transmitted and bloodborne diseases. Therefore, future efforts while maintaining existing achievements should focus on developing targeted interventions to reduce the burden of these diseases and address these disparities. Targeted interventions must focus on strengthening healthcare infrastructure and access in rural areas, as well as implementing comprehensive public health campaigns to raise awareness about disease prevention and control measures. Additionally, improving surveillance systems and enhancing early detection and treatment services can help mitigate the spread of infectious diseases, particularly in underserved rural communities. In tackling STDs and vaccine-preventable diseases, prioritizing education, preventive measures, and healthcare services, along with enhancing vaccine accessibility and coverage, particularly in urban centers, is vital to narrowing the urban&#x2013;rural disparity in disease burden among children and adolescents.</p>
+    </sec>
+    <sec id="sec026" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pmed.1004374.s001" position="float" content-type="local-data">
+        <label>S1 Gather Checklist</label>
+        <caption>
+          <title>Checklist of information that should be included in new reports of global health estimate.</title>
+          <p>(PDF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s001.pdf"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s002" position="float" content-type="local-data">
+        <label>S1 Text</label>
+        <caption>
+          <title>Analysis plan.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s002.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s003" position="float" content-type="local-data">
+        <label>S2 Text</label>
+        <caption>
+          <title>Results of inequality in infectious diseases.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s003.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s004" position="float" content-type="local-data">
+        <label>S1 Methods</label>
+        <caption>
+          <title>Additional methods for association between socioeconomic index and incidence.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s004.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s005" position="float" content-type="local-data">
+        <label>S2 Methods</label>
+        <caption>
+          <title>Lorenz curve and Gini coefficient.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s005.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s006" position="float" content-type="local-data">
+        <label>S1 Table</label>
+        <caption>
+          <title>The incidence of total 43 notifiable infectious diseases by category and specific diseases by sex and urban and rural.</title>
+          <p>Note: *Total numbers from 2013 to 2021; # Average incidence 2013 to 2021; -, no cases. SI, seasonal influenza; NT, neonatal tetanus; TB, tuberculosis; SF, scarlet fever; MM, meningococcal meningitis; T/P, typhoid fever and paratyphoid fever; HFMD, hand, foot, and mouth disease; AHC, acute hemorrhagic conjunctivitis; ID, infectious diarrhea; AIDS, acquired immune deficiency syndrome; SM, schistosomiasis; JE, Japanese encephalitis; HD, hydatid disease; SARS, severe acute respiratory syndrome; HF, hemorrhagic fever.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s006.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s007" position="float" content-type="local-data">
+        <label>S2 Table</label>
+        <caption>
+          <title>Trends in incidence and disparity of incidence rate ratio (IRR) of notifiable infectious diseases between urban and rural children, adolescents, and youth from 2013 to 2021.</title>
+          <p>Note: IRR, incidence rate ratio.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s007.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s008" position="float" content-type="local-data">
+        <label>S3 Table</label>
+        <caption>
+          <title>Trends in incidence and disparity of incidence rate ratio (IRR) of notifiable infectious diseases by category among children, adolescents, and youths in urban and rural areas from 2013 to 2021.</title>
+          <p>Note: IRR, incidence rate ratio.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s008.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s009" position="float" content-type="local-data">
+        <label>S4 Table</label>
+        <caption>
+          <title>The incidence and disparity of incidence rate ratio (IRR) of notifiable infectious diseases by category between children, adolescents, and youths in urban and rural areas in eastern, middle, northeastern, and western regions from 2013 to 2021.</title>
+          <p>Note: IRR, incidence rate ratio.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s009.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s010" position="float" content-type="local-data">
+        <label>S1 Fig</label>
+        <caption>
+          <title>Vertical Reporting Structure, Chinese Infectious Diseases Reporting System (figure from China Information System for Disease Control and Prevention).</title>
+          <p>Notes: CDC, Chinese Centers for Disease Control.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s010.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s011" position="float" content-type="local-data">
+        <label>S2 Fig</label>
+        <caption>
+          <title>Distribution of urban and rural areas in China and the schematic diagram of the 3 levels of administrative division in China.</title>
+          <p>Notes: Subfigure A presents the distribution of urban and rural areas in China; subfigure B presents the schematic diagram of the 3 levels of administrative division in China, which is based on the Sichuan province and Chengdu city. The base map was obtained from Natural Earth (<ext-link xlink:href="https://naturalearthdata.com/" ext-link-type="uri">https://naturalearthdata.com</ext-link>).</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s011.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s012" position="float" content-type="local-data">
+        <label>S3 Fig</label>
+        <caption>
+          <title>The incidence of 7 categories of notifiable infectious diseases by years from 2013 to 2021.</title>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s012.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s013" position="float" content-type="local-data">
+        <label>S4 Fig</label>
+        <caption>
+          <title>The incidence of overall infectious diseases and 7 categories of notifiable infectious diseases, excluding seasonal influenza, by year from 2013 to 2021.</title>
+          <p>Notes: Incidence calculations for specific infectious disease categories are based on excluding cases of seasonal influenza; subfigure A presents the incidence of overall infectious diseases excluding the seasonal influenza by urban and rural areas; subfigure B presents the total incidence by 7 categories from 2013 to 2021 in urban areas, while subfigure C presents the total incidence by 7 categories over the same period in rural areas.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s013.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s014" position="float" content-type="local-data">
+        <label>S5 Fig</label>
+        <caption>
+          <title>Trends in incidence and annual percentage change (APC) of notifiable infectious diseases among children, adolescents, and youths in urban and rural areas by diseases category from 2013 to 2021.</title>
+          <p>Notes: subfigure A&#x2013;G presents the incidence of vaccine preventable, bacteria, gastrointestil and enterovirus, sexually transmitted and bloodborne, vectorborne, zoonotic, and quarantinable infectious diseases, respectively. The APC for the incidence in urban and rural areas is shown at the top of each subfigure.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s014.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s015" position="float" content-type="local-data">
+        <label>S6 Fig</label>
+        <caption>
+          <title>Trends in disparity of incidence rate ratio (IRR) and annual percentage change (APC) of notifiable infectious diseases among children, adolescents, and youths in urban and rural areas, by diseases category from 2013 to 2021.</title>
+          <p>Notes: Subfigure A&#x2013;G presents the IRR of vaccine preventable, bacteria, gastrointestil and enterovirus, sexually transmitted and bloodborne, vectorborne, zoonotic, and quarantinable infectious diseases, respectively. The APC for the IRR is shown at the top of each subfigure.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s015.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s016" position="float" content-type="local-data">
+        <label>S7 Fig</label>
+        <caption>
+          <title>Patterns in incidence in urban and rural, and the change patterns by each specific infectious disease and years among Chinese children, adolescents, and youth from 2013 to 2021.</title>
+          <p><bold>Note:</bold> Overall incidence changes for each specific infectious disease between urban and rural (subfigure A for urban and C for rural), and their change patterns based on the annual percentage change (APC) (subfigures B and D). The uppercase letters A&#x2013;G in the subfigure A represent the 7 categories of infectious disease: Group 1, vaccine preventable; Group 2, bacteria; Group 3, gastrointestil and enterovirus; Group 4, sexually transmitted and bloodborne; Group 5, vectorborne; Group 6, zoonotic; Group 7, quarantinable. The forest plot in the subfigure B represent the APC for IRR, and the actual number of APC (95% CI) and the <italic toggle="yes">p</italic> value are also represented in the subfigure B. SI, seasonal influenza; NT, neonatal tetanus; TB, tuberculosis; SF, scarlet fever; MM, meningococcal meningitis; T/P, typhoid fever and paratyphoid fever; HFMD, hand, foot, and mouth disease; AHC, acute hemorrhagic conjunctivitis; ID, infectious diarrhea; AIDS, acquired immune deficiency syndrome; SM, schistosomiasis; JE, Japanese encephalitis; HD, hydatid disease; SARS, severe acute respiratory syndrome; HF, hemorrhagic fever; IRR, incidence rate ratio.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s016.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s017" position="float" content-type="local-data">
+        <label>S8 Fig</label>
+        <caption>
+          <title>Patterns in incidence in urban and rural disparity of log transferred incidence rate ratio (log-IRR) in both males and females from 2013 to 2021.</title>
+          <p><bold>Note:</bold> Group 1, vaccine preventable; Group 2, bacteria; Group 3, gastrointestil and enterovirus; Group 4, sexually transmitted and bloodborne; Group 5, vectorborne; Group 6, zoonotic; Group 7, quarantinable. The forest plot in the subfigure B represent the APC for IRR, and the actual number of APC (95% CI) and the <italic toggle="yes">p</italic> value are also represented in the subfigure B. SI, seasonal influenza; NT, neonatal tetanus; TB, tuberculosis; SF, scarlet fever; MM, meningococcal meningitis; T/P, typhoid fever and paratyphoid fever; HFMD, hand, foot, and mouth disease; AHC, acute hemorrhagic conjunctivitis; ID, infectious diarrhea; AIDS, acquired immune deficiency syndrome; SM, schistosomiasis; JE, Japanese encephalitis; HD, hydatid disease; SARS, severe acute respiratory syndrome; HF, hemorrhagic fever; IRR, incidence rate ratio.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s017.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s018" position="float" content-type="local-data">
+        <label>S9 Fig</label>
+        <caption>
+          <title>Regional distribution for urban and rural (subfigure A1&#x2013;H1 for urban and subfigure A2&#x2013;H2 for rural) of specific infectious disease category in incidence among Chinese children, adolescents, and youth.</title>
+          <p>Notes: The uppercase letters A&#x2013;G in the each panel represent the 7 categories of infectious disease: A, overall infectious disease; B, vaccine preventable; C, bacteria; DD, gastrointestil and enterovirus; E, sexually transmitted and bloodborne; F, vectorborne; G, zoonotic; H, quarantinable. Each panel included 2 figures, the map of incidence in urban and rural; regional distribution of total and specific infectious disease category in incidence was showed for those in urban (subfigure A1&#x2013;H1) and rural (subfigure A2&#x2013;H2). The base map was obtained from Natural Earth (<ext-link xlink:href="https://naturalearthdata.com/" ext-link-type="uri">https://naturalearthdata.com</ext-link>).</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s018.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s019" position="float" content-type="local-data">
+        <label>S10 Fig</label>
+        <caption>
+          <title>The regional classification of east, middle, northeast, and west in Chinese 31 provinces.</title>
+          <p>Notes: The base map was obtained from Natural Earth (<ext-link xlink:href="https://naturalearthdata.com/" ext-link-type="uri">https://naturalearthdata.com</ext-link>).</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s019.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s020" position="float" content-type="local-data">
+        <label>S11 Fig</label>
+        <caption>
+          <title>The association between the infectious diseases and gross domestic product (GDP) in the district/county level.</title>
+          <p>Notes: The log-transform was applied to the incidence and GDP. The blue line using the generalized additive models (GAMs) represents the nonlinear association of GDP and incidence of total and specific categorized notifiable infectious diseases. The dots present the district/county.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s020.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s021" position="float" content-type="local-data">
+        <label>S12 Fig</label>
+        <caption>
+          <title>The association between the infectious diseases and urbanization in the district/county level.</title>
+          <p>Notes: The log-transform was applied to the incidence and urbanization. The blue line using the generalized additive models (GAMs) represents the nonlinear association of urbanization and incidence of total and specific categorized notifiable infectious diseases. The dots present the district/county.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s021.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s022" position="float" content-type="local-data">
+        <label>S13 Fig</label>
+        <caption>
+          <title>Lorenz curves and Gini coefficients of yearly incident case of infectious diseases among Chinese children, adolescents, and youth of total level from 2013 to 2021 (in the district/county level).</title>
+          <p>Notes: The (dashed) diagonal line of equality depicted a theoretical scenario where infectious disease cases were equally distributed across the population. The Gini coefficients were calculated based on the Lorenz curves, with larger coefficients indicating more unequal distribution of infectious disease cases and smaller coefficients indicating a more equal distribution. In the subfigure A: The Lorenz curves were generated by sorting the GDP in each city/municipal from the lowest to the highest GDP. The x-axis and y-axis represented the cumulative percentage of the population ranked by the GDP and cumulative proportion of notifiable infectious diseases in the surveillance year. In the subfigure B: The Lorenz curves were generated by sorting the urbanization in each city/municipal from the lowest to the highest urbanization. The x-axis and y-axis represented the cumulative percentage of the population ranked by the urbanization and cumulative proportion of notifiable infectious diseases in the surveillance year.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s022.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s023" position="float" content-type="local-data">
+        <label>S14 Fig</label>
+        <caption>
+          <title>Lorenz curves and Gini coefficients of yearly incident case of infectious diseases among Chinese children, adolescents, and youth of total level from 2013 to 2021 (in the city/municipal level).</title>
+          <p>Notes: The (dashed) diagonal line of equality depicted a theoretical scenario where infectious disease cases were equally distributed across the population. The Gini coefficients were calculated based on the Lorenz curves, with larger coefficients indicating more unequal distribution of infectious disease cases and smaller coefficients indicating a more equal distribution. In the subfigure A: The Lorenz curves were generated by sorting the GDP per capita in each city/municipal from the lowest to the highest GDP per capita. The x-axis and y-axis represented the cumulative percentage of the population ranked by the GDP per capita and cumulative proportion of notifiable infectious diseases in the surveillance year. In the subfigure B: The Lorenz curves were generated by sorting the urbanization in each city/municipal from the lowest to the highest urbanization. The x-axis and y-axis represented the cumulative percentage of the population ranked by the urbanization and cumulative proportion of notifiable infectious diseases in the surveillance year.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s023.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pmed.1004374.s024" position="float" content-type="local-data">
+        <label>S15 Fig</label>
+        <caption>
+          <title>Lorenz curves and Gini coefficients of yearly incident case of infectious diseases among Chinese children, adolescents, and youth of total level from 2013 to 2021 (in the district/county level) by regions.</title>
+          <p>Notes: The (dashed) diagonal line of equality depicted a theoretical scenario where infectious disease cases were equally distributed across the population. The Gini coefficients were calculated based on the Lorenz curves, with larger coefficients indicating more unequal distribution of infectious disease cases and smaller coefficients indicating a more equal distribution. The Lorenz curves were generated by sorting the GDP in each city/municipal from the lowest to the highest GDP. The x-axis and y-axis represented the cumulative percentage of the population ranked by the GDP and cumulative proportion of notifiable infectious diseases in the surveillance year. Table for GINI coefficient shows the GINI coefficient.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pmed.1004374.s024.tif"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>APC</term>
+          <def>
+            <p>annual percent change</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CISDCP</term>
+          <def>
+            <p>China Information System for Disease Control and Prevention</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>GDP</term>
+          <def>
+            <p>gross domestic product</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>HFMD</term>
+          <def>
+            <p>hand, foot, and mouth disease</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IRB</term>
+          <def>
+            <p>Institutional Review Board</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IRR</term>
+          <def>
+            <p>incidence rate ratio</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SARS</term>
+          <def>
+            <p>severe acute respiratory syndrome</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>STD</term>
+          <def>
+            <p>sexually transmitted disease</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <title>References</title>
+      <ref id="pmed.1004374.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Morens</surname><given-names>DM</given-names></name>, <name><surname>Folkers</surname><given-names>GK</given-names></name>, <name><surname>Fauci</surname><given-names>AS</given-names></name>. <article-title>The challenge of emerging and re-emerging infectious diseases</article-title>. <source>Nature</source>. <year>2004</year>;<volume>430</volume>(<issue>6996</issue>):<fpage>242</fpage>&#x2013;<lpage>9</lpage>. Epub 2004/07/09. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/nature02759</pub-id> ; PubMed Central PMCID: PMC7094993.<pub-id pub-id-type="pmid">15241422</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Jones</surname><given-names>KE</given-names></name>, <name><surname>Patel</surname><given-names>NG</given-names></name>, <name><surname>Levy</surname><given-names>MA</given-names></name>, <name><surname>Storeygard</surname><given-names>A</given-names></name>, <name><surname>Balk</surname><given-names>D</given-names></name>, <name><surname>Gittleman</surname><given-names>JL</given-names></name>, <etal>et al</etal>. <article-title>Global trends in emerging infectious diseases</article-title>. <source>Nature</source>. <year>2008</year>;<volume>451</volume>(<issue>7181</issue>):<fpage>990</fpage>&#x2013;<lpage>3</lpage>. Epub 2008/02/22. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/nature06536</pub-id> ; PubMed Central PMCID: PMC5960580.<pub-id pub-id-type="pmid">18288193</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Baker</surname><given-names>RE</given-names></name>, <name><surname>Mahmud</surname><given-names>AS</given-names></name>, <name><surname>Miller</surname><given-names>IF</given-names></name>, <name><surname>Rajeev</surname><given-names>M</given-names></name>, <name><surname>Rasambainarivo</surname><given-names>F</given-names></name>, <name><surname>Rice</surname><given-names>BL</given-names></name>, <etal>et al</etal>. <article-title>Infectious disease in an era of global change</article-title>. <source>Nat Rev Microbiol</source>. <year>2022</year>;<volume>20</volume>(<issue>4</issue>):<fpage>193</fpage>&#x2013;<lpage>205</lpage>. Epub 2021/10/15. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41579-021-00639-z</pub-id> ; PubMed Central PMCID: PMC8513385.<pub-id pub-id-type="pmid">34646006</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Reyes</surname><given-names>R</given-names></name>, <name><surname>Ahn</surname><given-names>R</given-names></name>, <name><surname>Thurber</surname><given-names>KJSNY</given-names></name>. <article-title>Urbanization and infectious diseases: general principles, historical perspectives, and contemporary challenges.</article-title></mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><source>Making Globalization Socially Sustainable</source>. <year>2011</year>. Available from: <ext-link xlink:href="https://www.wto.org/english/res_e/publications_e/glob_soc_sus_e.htm" ext-link-type="uri">https://www.wto.org/english/res_e/publications_e/glob_soc_sus_e.htm</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Theo K&#xF6;tter</surname><given-names>FF</given-names></name>. <source>Developing urban Indicators for Managing Mega Cities</source>. <year>2009</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="other">Megacity 2023. Available from: <ext-link xlink:href="https://en.wikipedia.org/wiki/Megacity" ext-link-type="uri">https://en.wikipedia.org/wiki/Megacity</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><collab>Affairs UNDoEaS</collab>. <article-title>World Urbanization Prospects</article-title>. <source>The 2018 Revision</source>. <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><ext-link xlink:href="http://citypopulation.de/" ext-link-type="uri">Citypopulation.de</ext-link>. <source>Population statistics</source>. <year>2010</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><collab>Affairs UNDoEaS</collab>. <source>World Urbanization Prospects The 2009 Revision</source>. <year>2009</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><ext-link xlink:href="https://Forbes.com" ext-link-type="uri">Forbes.com</ext-link>. <source>Megacities Of The Future</source>
+<month>Jun</month>
+<day>11</day>, <year>2007</year>. Available from: <ext-link xlink:href="https://www.forbes.com/2007/06/11/megacities-population-urbanization-biz-cx_21cities_ml_0611megacities.html?sh=67c5070318d8" ext-link-type="uri">https://www.forbes.com/2007/06/11/megacities-population-urbanization-biz-cx_21cities_ml_0611megacities.html?sh=67c5070318d8</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><collab>National Bureau of Statistics of China.</collab>
+<source>China&#x2019;s total population and structural changes in 2011.</source>
+<year>2011</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Gong</surname><given-names>P</given-names></name>, <name><surname>Liang</surname><given-names>S</given-names></name>, <name><surname>Carlton</surname><given-names>EJ</given-names></name>, <name><surname>Jiang</surname><given-names>Q</given-names></name>, <name><surname>Wu</surname><given-names>J</given-names></name>, <name><surname>Wang</surname><given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Urbanisation and health in China</article-title>. <source>Lancet</source>. <year>2012</year>;<volume>379</volume>(<issue>9818</issue>):<fpage>843</fpage>&#x2013;<lpage>52</lpage>. Epub 2012/03/06. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(11)61878-3</pub-id> ; PubMed Central PMCID: PMC3733467.<pub-id pub-id-type="pmid">22386037</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Wang</surname><given-names>P</given-names></name>, <name><surname>Gao</surname><given-names>G</given-names></name>, <name><surname>Xu</surname><given-names>C</given-names></name>, <name><surname>Chen</surname><given-names>X</given-names></name>. <article-title>Age-period-cohort analysis of infectious disease mortality in urban-rural China, 1990&#x2013;2010.</article-title>
+<source>Int J Equity Health</source>. <year>2016</year>;<volume>15</volume>:<fpage>55</fpage>. Epub 2016/04/03. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12939-016-0343-7</pub-id> ; PubMed Central PMCID: PMC4815076.<pub-id pub-id-type="pmid">27036223</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>de Lusignan</surname><given-names>S</given-names></name>, <name><surname>McGee</surname><given-names>C</given-names></name>, <name><surname>Webb</surname><given-names>R</given-names></name>, <name><surname>Joy</surname><given-names>M</given-names></name>, <name><surname>Byford</surname><given-names>R</given-names></name>, <name><surname>Yonova</surname><given-names>I</given-names></name>, <etal>et al</etal>. <article-title>Conurbation, Urban, and Rural Living as Determinants of Allergies and Infectious Diseases: Royal College of General Practitioners Research and Surveillance Centre Annual Report 2016&#x2013;2017.</article-title>
+<source>JMIR Public Health Surveill.</source>
+<year>2018</year>;<volume>4</volume>(<issue>4</issue>):<fpage>e11354</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2196/11354</pub-id>
+<pub-id pub-id-type="pmid">30478022</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Franklinos</surname><given-names>LHV</given-names></name>, <name><surname>Jones</surname><given-names>KE</given-names></name>, <name><surname>Redding</surname><given-names>DW</given-names></name>, <name><surname>Abubakar</surname><given-names>I</given-names></name>. <article-title>The effect of global change on mosquito-borne disease</article-title>. <source>Lancet Infect Dis</source>. <year>2019</year>;<volume>19</volume>(<issue>9</issue>):<fpage>e302</fpage>&#x2013;<lpage>e12</lpage>. Epub 2019/06/23. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S1473-3099(19)30161-6</pub-id> .<pub-id pub-id-type="pmid">31227327</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><collab>REPORT WM</collab>. <source>Urbanization, Rural&#x2013;urban Migration and Urban Poverty.</source>
+<year>2015</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><collab>Collaborators GBDD</collab>. <article-title>Global age-sex-specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950&#x2013;2019: a comprehensive demographic analysis for the Global Burden of Disease Study 2019.</article-title>
+<source>Lancet</source>. <year>2020</year>;<volume>396</volume>(<issue>10258</issue>):<fpage>1160</fpage>&#x2013;<lpage>203</lpage>. Epub 2020/10/19. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(20)30977-6</pub-id> ; PubMed Central PMCID: PMC7566045.<pub-id pub-id-type="pmid">33069325</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><collab>Collaboration NCDRF</collab>. <article-title>Diminishing benefits of urban living for children and adolescents&#x2019; growth and development.</article-title>
+<source>Nature</source>. <year>2023</year>;<volume>615</volume>(<issue>7954</issue>):<fpage>874</fpage>&#x2013;<lpage>83</lpage>. Epub 2023/03/30. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41586-023-05772-8</pub-id> ; PubMed Central PMCID: PMC10060164.<pub-id pub-id-type="pmid">36991188</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>G</given-names></name>, <name><surname>Wang</surname><given-names>Y</given-names></name>, <name><surname>Zeng</surname><given-names>Y</given-names></name>, <name><surname>Gao</surname><given-names>GF</given-names></name>, <name><surname>Liang</surname><given-names>X</given-names></name>, <name><surname>Zhou</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Rapid health transition in China, 1990&#x2013;2010: findings from the Global Burden of Disease Study 2010</article-title>. <source>Lancet</source>. <year>2013</year>;<volume>381</volume>(<issue>9882</issue>):<fpage>1987</fpage>&#x2013;<lpage>2015</lpage>. Epub 2013/06/12. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(13)61097-1</pub-id> ; PubMed Central PMCID: PMC7159289.<pub-id pub-id-type="pmid">23746901</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><collab>Global Burden of Disease Pediatrics C</collab>, <name><surname>Kyu</surname><given-names>HH</given-names></name>, <name><surname>Pinho</surname><given-names>C</given-names></name>, <name><surname>Wagner</surname><given-names>JA</given-names></name>, <name><surname>Brown</surname><given-names>JC</given-names></name>, <name><surname>Bertozzi-Villa</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Global and National Burden of Diseases and Injuries Among Children and Adolescents Between 1990 and 2013: Findings From the Global Burden of Disease 2013 Study.</article-title>
+<source>JAMA Pediatr.</source>
+<year>2016</year>;<volume>170</volume>(<issue>3</issue>):<fpage>267</fpage>&#x2013;<lpage>87</lpage>. Epub 2016/01/27. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/jamapediatrics.2015.4276</pub-id> ; PubMed Central PMCID: PMC5076765.<pub-id pub-id-type="pmid">26810619</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Oeppen</surname><given-names>J</given-names></name>, <name><surname>Vaupel</surname><given-names>JW</given-names></name>. <article-title>Demography. Broken limits to life expectancy</article-title>. <source>Science</source>. <year>2002</year>;<volume>296</volume>(<issue>5570</issue>):<fpage>1029</fpage>&#x2013;<lpage>31</lpage>. Epub 2002/05/11. <comment>doi: </comment><pub-id pub-id-type="doi">10.1126/science.1069675</pub-id> .<pub-id pub-id-type="pmid">12004104</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Ezzati</surname><given-names>M</given-names></name>, <name><surname>Friedman</surname><given-names>AB</given-names></name>, <name><surname>Kulkarni</surname><given-names>SC</given-names></name>, <name><surname>Murray</surname><given-names>CJ</given-names></name>. <article-title>The reversal of fortunes: trends in county mortality and cross-county mortality disparities in the United States.</article-title>
+<source>PLoS Med.</source>
+<year>2008</year>;<volume>5</volume>(<issue>4</issue>):<fpage>e66</fpage>. Epub 2008/04/25. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pmed.0050066</pub-id> ; PubMed Central PMCID: PMC2323303.<pub-id pub-id-type="pmid">18433290</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Chetty</surname><given-names>R</given-names></name>, <name><surname>Stepner</surname><given-names>M</given-names></name>, <name><surname>Abraham</surname><given-names>S</given-names></name>, <name><surname>Lin</surname><given-names>S</given-names></name>, <name><surname>Scuderi</surname><given-names>B</given-names></name>, <name><surname>Turner</surname><given-names>N</given-names></name>, <etal>et al</etal>. <article-title>The Association Between Income and Life Expectancy in the United States, 2001&#x2013;2014</article-title>. <source>JAMA</source>. <year>2016</year>;<volume>315</volume>(<issue>16</issue>):<fpage>1750</fpage>&#x2013;<lpage>66</lpage>. Epub 2016/04/12. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/jama.2016.4226</pub-id> ; PubMed Central PMCID: PMC4866586.<pub-id pub-id-type="pmid">27063997</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><collab>WHO</collab>. <source>Older adolescent (15 to 19 years) and young adult (20 to 24 years) mortality</source>
+<year>2022</year>. Available from: <ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/levels-and-trends-in-older-adolescent-(15-to-19-years)-and-young-adult-(20-to-24-years)-mortality" ext-link-type="uri">https://www.who.int/news-room/fact-sheets/detail/levels-and-trends-in-older-adolescent-(15-to-19-years)-and-young-adult-(20-to-24-years)-mortality</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Dong</surname><given-names>Y</given-names></name>, <name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Burgner</surname><given-names>DP</given-names></name>, <name><surname>Miller</surname><given-names>JE</given-names></name>, <name><surname>Song</surname><given-names>Y</given-names></name>, <name><surname>Ren</surname><given-names>X</given-names></name>, <etal>et al</etal>. <article-title>Infectious diseases in children and adolescents in China: analysis of national surveillance data from 2008 to 2017</article-title>. <source>BMJ</source>. <year>2020</year>;<volume>369</volume>:<fpage>m1043</fpage>. Epub 2020/04/04. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/bmj.m1043</pub-id> ; PubMed Central PMCID: PMC7114954.<pub-id pub-id-type="pmid">32241761</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>J</given-names></name>, <name><surname>Siri</surname><given-names>JG</given-names></name>, <name><surname>Remais</surname><given-names>JV</given-names></name>, <name><surname>Cheng</surname><given-names>Q</given-names></name>, <name><surname>Zhang</surname><given-names>H</given-names></name>, <name><surname>Chan</surname><given-names>KKY</given-names></name>, <etal>et al</etal>. <article-title>The Tsinghua-Lancet Commission on Healthy Cities in China: unlocking the power of cities for a healthy China</article-title>. <source>Lancet</source>. <year>2018</year>;<volume>391</volume>(<issue>10135</issue>):<fpage>2140</fpage>&#x2013;<lpage>84</lpage>. Epub 2018/04/22. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(18)30486-0</pub-id> ; PubMed Central PMCID: PMC7159272.<pub-id pub-id-type="pmid">29678340</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>H</given-names></name>, <name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Lai</surname><given-names>S</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Sun</surname><given-names>Q</given-names></name>, <name><surname>Zhang</surname><given-names>P</given-names></name>. <article-title>Surveillance and early warning systems of infectious disease in China: From 2012 to 2014.</article-title>
+<source>Int J Health Plan Manag.</source>
+<year>2017</year>;<volume>32</volume>(<issue>3</issue>):<fpage>329</fpage>&#x2013;<lpage>38</lpage>. Epub 2017/06/21. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/hpm.2434</pub-id> .<pub-id pub-id-type="pmid">28632912</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Wang</surname><given-names>Y</given-names></name>, <name><surname>Jin</surname><given-names>S</given-names></name>, <name><surname>Wu</surname><given-names>Z</given-names></name>, <name><surname>Chin</surname><given-names>DP</given-names></name>, <name><surname>Koplan</surname><given-names>JP</given-names></name>, <etal>et al</etal>. <article-title>Emergence and control of infectious diseases in China</article-title>. <source>Lancet</source>. <year>2008</year>;<volume>372</volume>(<issue>9649</issue>):<fpage>1598</fpage>&#x2013;<lpage>605</lpage>. Epub 2008/10/22. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(08)61365-3</pub-id> ; PubMed Central PMCID: PMC7138027.<pub-id pub-id-type="pmid">18930534</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Nations</surname><given-names>U.</given-names></name>
+<source>DEFINITION OF YOUTH</source>. Available from: <ext-link xlink:href="https://www.un.org/esa/socdev/documents/youth/fact-sheets/youth-definition.pdf" ext-link-type="uri">https://www.un.org/esa/socdev/documents/youth/fact-sheets/youth-definition.pdf</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><collab>China MoCAotPsRo</collab>. <source>Statistical table of administrative divisions of the People&#x2019;s Republic of China</source>
+<year>2023</year>. Available from: <ext-link xlink:href="http://xzqh.mca.gov.cn/statistics/2022.html" ext-link-type="uri">http://xzqh.mca.gov.cn/statistics/2022.html</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><collab>Statistics NBo</collab>. <source>Statistical Bulletin of the People&#x2019;s Republic of China on National Economic and Social Development for 2022 2023.</source> Available from: <ext-link xlink:href="https://www.stats.gov.cn/sj/zxfb/202302/t20230228_1919011.html" ext-link-type="uri">https://www.stats.gov.cn/sj/zxfb/202302/t20230228_1919011.html</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><collab>RCT</collab>. <source>R: A language and environment for statistical computing</source>. <year>2021</year>. Available from: <ext-link xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="other">Joinpoint Regression Program V-M. Statistical Methodology and Applications Branch. Surveillance Research Program. National Cancer Institute.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><collab>Nations U.</collab>
+<source>World urbanization prospects: 2014 revision highlights.</source> New York: <year>2014</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Geng</surname><given-names>MJ</given-names></name>, <name><surname>Zhang</surname><given-names>HY</given-names></name>, <name><surname>Yu</surname><given-names>LJ</given-names></name>, <name><surname>Lv</surname><given-names>CL</given-names></name>, <name><surname>Wang</surname><given-names>T</given-names></name>, <name><surname>Che</surname><given-names>TL</given-names></name>, <etal>et al</etal>. <article-title>Changes in notifiable infectious disease incidence in China during the COVID-19 pandemic.</article-title>
+<source>Nat Commun.</source>
+<year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>6923</fpage>. Epub 2021/11/28. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41467-021-27292-7</pub-id> ; PubMed Central PMCID: PMC8626444.<pub-id pub-id-type="pmid">34836947</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Conroy</surname><given-names>G.</given-names></name>
+<article-title>What&#x2019;s behind China&#x2019;s mysterious wave of childhood pneumonia?</article-title>
+<source>Nature</source>. <year>2023</year>. Epub 2023/11/28. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/d41586-023-03732-w</pub-id> .<pub-id pub-id-type="pmid">38012356</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Wu</surname><given-names>J</given-names></name>, <name><surname>Wang</surname><given-names>J</given-names></name>, <name><surname>Nicholas</surname><given-names>S</given-names></name>, <name><surname>Maitland</surname><given-names>E</given-names></name>, <name><surname>Fan</surname><given-names>Q</given-names></name>. <article-title>Application of Big Data Technology for COVID-19 Prevention and Control in China: Lessons and Recommendations.</article-title>
+<source>J Med Internet Res</source>. <year>2020</year>;<volume>22</volume>(<issue>10</issue>):<fpage>e21980</fpage>. Epub 2020/10/02. <comment>doi: </comment><pub-id pub-id-type="doi">10.2196/21980</pub-id> ; PubMed Central PMCID: PMC7561444.<pub-id pub-id-type="pmid">33001836</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>M</given-names></name>, <name><surname>Han</surname><given-names>X</given-names></name>, <name><surname>Fang</surname><given-names>H</given-names></name>, <name><surname>Xu</surname><given-names>C</given-names></name>, <name><surname>Lin</surname><given-names>X</given-names></name>, <name><surname>Xia</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Impact of Health Education on Knowledge and Behaviors toward Infectious Diseases among Students in Gansu Province, China.</article-title>
+<source>Biomed Res Int</source>. <year>2018</year>;<volume>2018</volume>:<fpage>6397340</fpage>. Epub 2018/05/01. <comment>doi: </comment><pub-id pub-id-type="doi">10.1155/2018/6397340</pub-id> ; PubMed Central PMCID: PMC5863350.<pub-id pub-id-type="pmid">29707573</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>X</given-names></name>, <name><surname>Orom</surname><given-names>H</given-names></name>, <name><surname>Hay</surname><given-names>JL</given-names></name>, <name><surname>Waters</surname><given-names>EA</given-names></name>, <name><surname>Schofield</surname><given-names>E</given-names></name>, <name><surname>Li</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Differences in Rural and Urban Health Information Access and Use.</article-title>
+<source>J Rural Health.</source>
+<year>2019</year>;<volume>35</volume>(<issue>3</issue>):<fpage>405</fpage>&#x2013;<lpage>17</lpage>. Epub 2018/11/18. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/jrh.12335</pub-id> ; PubMed Central PMCID: PMC6522336.<pub-id pub-id-type="pmid">30444935</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>X</given-names></name>, <name><surname>Sun</surname><given-names>Z</given-names></name>, <name><surname>Ashcroft</surname><given-names>T</given-names></name>, <name><surname>Dozier</surname><given-names>M</given-names></name>, <name><surname>Ostrishko</surname><given-names>K</given-names></name>, <name><surname>Krishan</surname><given-names>P</given-names></name>, <etal>et al</etal>. <article-title>Compact cities and the Covid-19 pandemic: Systematic review of the associations between transmission of Covid-19 or other respiratory viruses and population density or other features of neighbourhood design.</article-title>
+<source>Health Place.</source>
+<year>2022</year>;<volume>76</volume>:<fpage>102827</fpage>. Epub 2022/06/02. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.healthplace.2022.102827</pub-id> ; PubMed Central PMCID: PMC9119959.<pub-id pub-id-type="pmid">35642837</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Coskun</surname><given-names>H</given-names></name>, <name><surname>Yildirim</surname><given-names>N</given-names></name>, <name><surname>Gunduz</surname><given-names>S</given-names></name>. <article-title>The spread of COVID-19 virus through population density and wind in Turkey cities</article-title>. <source>Sci Total Environ</source>. <year>2021</year>;<volume>751</volume>:<fpage>141663</fpage>. Epub 2020/09/01. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.141663</pub-id> ; PubMed Central PMCID: PMC7418640.<pub-id pub-id-type="pmid">32866831</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Dong</surname><given-names>E</given-names></name>, <name><surname>Sun</surname><given-names>X</given-names></name>, <name><surname>Xu</surname><given-names>T</given-names></name>, <name><surname>Zhang</surname><given-names>S</given-names></name>, <name><surname>Wang</surname><given-names>T</given-names></name>, <name><surname>Zhang</surname><given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Measuring the inequalities in healthcare resource in facility and workforce: A longitudinal study in China.</article-title>
+<source>Front Public Health</source>. <year>2023</year>;<volume>11</volume>:<fpage>1074417</fpage>. Epub 2023/04/04. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fpubh.2023.1074417</pub-id> ; PubMed Central PMCID: PMC10060654.<pub-id pub-id-type="pmid">37006575</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><name><surname>Bank</surname><given-names>W.</given-names></name>
+<source>The World Bank in Middle Income Countries</source>
+<year>2022</year>. Available from: <ext-link xlink:href="https://www.worldbank.org/en/country/mic/overview" ext-link-type="uri">https://www.worldbank.org/en/country/mic/overview</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><collab>Force MICT</collab>. <source>The middle income country strategy&#x2014;enhancing sustainable access to vaccines for populations in middle-income countries I</source>. <year>2015</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><collab>Canada Go</collab>. <source>Pertussis (whooping cough): for health professionals.</source>
+<year>2020</year>. Available from: <ext-link xlink:href="https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/pertussis-whooping-cough/health-professionals.html" ext-link-type="uri">https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/pertussis-whooping-cough/health-professionals.html</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><name><surname>Amirthalingam</surname><given-names>G.</given-names></name>
+<article-title>Strategies to control pertussis in infants</article-title>. <source>Arch Dis Child</source>. <year>2013</year>;<volume>98</volume>(<issue>7</issue>):<fpage>552</fpage>&#x2013;<lpage>5</lpage>. Epub 2013/05/24. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/archdischild-2012-302968</pub-id> .<pub-id pub-id-type="pmid">23698594</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><collab>CDC</collab>. <source>Pertussis (whooping cough).</source>
+<year>2019</year>. Available from: <ext-link xlink:href="http://www.cdc.gov/pertussis/outbreaks/trends.html" ext-link-type="uri">http://www.cdc.gov/pertussis/outbreaks/trends.html</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><collab>Chinese Preventive Medicine A, Vaccine, Immunology Branch of the Chinese Preventive Medicine A</collab>. <article-title>[Expert consensus on the China Pertussis Initiative]</article-title>. <source>Zhonghua Yu Fang Yi Xue Za Zhi</source>. <year>2021</year>;<volume>55</volume>(<issue>6</issue>):<fpage>709</fpage>&#x2013;<lpage>19</lpage>. Epub 2021/04/21. <comment>doi: </comment><pub-id pub-id-type="doi">10.3760/cma.j.cn112150-20210308-00230</pub-id> .<pub-id pub-id-type="pmid">33874698</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhu</surname><given-names>P</given-names></name>, <name><surname>Wu</surname><given-names>D</given-names></name>, <name><surname>Wang</surname><given-names>Y</given-names></name>, <name><surname>Liu</surname><given-names>X</given-names></name>, <name><surname>Rodewald</surname><given-names>LE</given-names></name>, <name><surname>Li</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Effectiveness of DTaP Against Pertussis in &#x2264;2-Year-Old Children&#x2014;Linyi Prefecture, Shandong Province, China, 2017&#x2013;2019.</article-title>
+<source>China CDC Wkly.</source>
+<year>2023</year>;<volume>5</volume>(<issue>17</issue>):<fpage>374</fpage>&#x2013;<lpage>378</lpage>.<pub-id pub-id-type="pmid">37197447</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><collab>Organization WH</collab>. <source>2018 assessment report of the Global Vaccine Action Plan: strategic advisory group of experts on immunization.</source>
+<year>2018</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><collab>Collaborators GBDCoD</collab>. <article-title>Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980&#x2013;2017: a systematic analysis for the Global Burden of Disease Study 2017.</article-title>
+<source>Lancet</source>. <year>2018</year>;<volume>392</volume>(<issue>10159</issue>):<fpage>1736</fpage>&#x2013;<lpage>88</lpage>. Epub 2018/11/30. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(18)32203-7</pub-id> ; PubMed Central PMCID: PMC6227606.<pub-id pub-id-type="pmid">30496103</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref053">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><name><surname>Gao</surname><given-names>L</given-names></name>, <name><surname>Lu</surname><given-names>W</given-names></name>, <name><surname>Bai</surname><given-names>L</given-names></name>, <name><surname>Wang</surname><given-names>X</given-names></name>, <name><surname>Xu</surname><given-names>J</given-names></name>, <name><surname>Catanzaro</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Latent tuberculosis infection in rural China: baseline results of a population-based, multicentre, prospective cohort study.</article-title>
+<source>Lancet Infect Dis.</source>
+<year>2015</year>;<volume>15</volume>(<issue>3</issue>):<fpage>310</fpage>&#x2013;<lpage>9</lpage>. Epub 2015/02/15. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S1473-3099(14)71085-0</pub-id> .<pub-id pub-id-type="pmid">25681063</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref054">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Zhang</surname><given-names>H</given-names></name>, <name><surname>Ruan</surname><given-names>Y</given-names></name>, <name><surname>Chin</surname><given-names>DP</given-names></name>, <name><surname>Xia</surname><given-names>Y</given-names></name>, <name><surname>Cheng</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Tuberculosis prevalence in China, 1990&#x2013;2010; a longitudinal analysis of national survey data</article-title>. <source>Lancet</source>. <year>2014</year>;<volume>383</volume>(<issue>9934</issue>):<fpage>2057</fpage>&#x2013;<lpage>64</lpage>. Epub 2014/03/22. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(13)62639-2</pub-id> .<pub-id pub-id-type="pmid">24650955</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref055">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><collab>China Tuberculosis Control C.</collab>
+<article-title>The effect of tuberculosis control in China</article-title>. <source>Lancet</source>. <year>2004</year>;<volume>364</volume>(<issue>9432</issue>):<fpage>417</fpage>&#x2013;<lpage>22</lpage>. Epub 2004/08/04. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(04)16764-0</pub-id> .<pub-id pub-id-type="pmid">15288739</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref056">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><collab>China MoPHotPsRo</collab>. <source>Report on nationwide random survey for the epidemiology of tuberculosis in 2000.</source>
+<year>2000</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref057">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><collab>China MoPHotPsRo</collab>. <source>Nationwide random survey for the epidemiology of tuberculosis in 1990.</source>
+<year>1990</year>.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref058">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>L</given-names></name>, <name><surname>Liu</surname><given-names>J</given-names></name>, <name><surname>Chin</surname><given-names>DP</given-names></name>. <article-title>Progress in tuberculosis control and the evolving public-health system in China</article-title>. <source>Lancet</source>. <year>2007</year>;<volume>369</volume>(<issue>9562</issue>):<fpage>691</fpage>&#x2013;<lpage>6</lpage>. Epub 2007/02/27. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(07)60316-X</pub-id> ; PubMed Central PMCID: PMC7134616.<pub-id pub-id-type="pmid">17321314</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref059">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>Y</given-names></name>, <name><surname>Chan</surname><given-names>TC</given-names></name>, <name><surname>Yap</surname><given-names>LW</given-names></name>, <name><surname>Luo</surname><given-names>Y</given-names></name>, <name><surname>Xu</surname><given-names>W</given-names></name>, <name><surname>Qin</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Resurgence of scarlet fever in China: a 13-year population-based surveillance study</article-title>. <source>Lancet Infect Dis</source>. <year>2018</year>;<volume>18</volume>(<issue>8</issue>):<fpage>903</fpage>&#x2013;<lpage>12</lpage>. Epub 2018/06/03. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S1473-3099(18)30231-7</pub-id> ; PubMed Central PMCID: PMC7185785.<pub-id pub-id-type="pmid">29858148</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref060">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><name><surname>You</surname><given-names>Y</given-names></name>, <name><surname>Davies</surname><given-names>MR</given-names></name>, <name><surname>Protani</surname><given-names>M</given-names></name>, <name><surname>McIntyre</surname><given-names>L</given-names></name>, <name><surname>Walker</surname><given-names>MJ</given-names></name>, <name><surname>Zhang</surname><given-names>J</given-names></name>. <article-title>Scarlet Fever Epidemic in China Caused by Streptococcus pyogenes Serotype M12: Epidemiologic and Molecular Analysis.</article-title>
+<source>eBioMedicine.</source>
+<year>2018</year>;<volume>28</volume>:<fpage>128</fpage>&#x2013;<lpage>35</lpage>. Epub 2018/01/18. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.ebiom.2018.01.010</pub-id> ; PubMed Central PMCID: PMC5835554.<pub-id pub-id-type="pmid">29342444</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref061">
+        <label>61</label>
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>G</given-names></name>, <name><surname>Jiang</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>L</given-names></name>. <article-title>HIV upsurge in China&#x2019;s students</article-title>. <source>Science</source>. <year>2019</year>;<volume>364</volume>(<issue>6442</issue>):<fpage>711</fpage>. Epub 2019/05/28. <comment>doi: </comment><pub-id pub-id-type="doi">10.1126/science.aay0799</pub-id> .<pub-id pub-id-type="pmid">31123112</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref062">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><name><surname>Disease</surname><given-names>GBD</given-names></name>, <name><surname>Injury</surname><given-names>I</given-names></name>, <name><surname>Prevalence</surname><given-names>C</given-names></name>. <article-title>Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990&#x2013;2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet</source>. <year>2017</year>;<volume>390</volume>(<issue>10100</issue>):<fpage>1211</fpage>&#x2013;<lpage>59</lpage>. Epub 2017/09/19. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(17)32154-2</pub-id> ; PubMed Central PMCID: PMC5605509.<pub-id pub-id-type="pmid">28919117</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref063">
+        <label>63</label>
+        <mixed-citation publication-type="journal"><name><surname>Meintjes</surname><given-names>G</given-names></name>, <name><surname>Brust</surname><given-names>JCM</given-names></name>, <name><surname>Nuttall</surname><given-names>J</given-names></name>, <name><surname>Maartens</surname><given-names>G</given-names></name>. <article-title>Management of active tuberculosis in adults with HIV</article-title>. <source>Lancet HIV</source>. <year>2019</year>;<volume>6</volume>(<issue>7</issue>):<fpage>e463</fpage>&#x2013;<lpage>e74</lpage>. Epub 2019/07/06. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(19)30154-7</pub-id> ; PubMed Central PMCID: PMC6750245.<pub-id pub-id-type="pmid">31272663</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref064">
+        <label>64</label>
+        <mixed-citation publication-type="journal"><collab>WHO</collab>. <source>Tuberculosis</source>
+<year>2022</year>. Available from: <ext-link xlink:href="https://www.who.int/zh/news-room/fact-sheets/detail/tuberculosis" ext-link-type="uri">https://www.who.int/zh/news-room/fact-sheets/detail/tuberculosis</ext-link>. Accessed: 12/03/2024.</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref065">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><name><surname>Jia</surname><given-names>J</given-names></name>, <name><surname>Kong</surname><given-names>F</given-names></name>, <name><surname>Xin</surname><given-names>X</given-names></name>, <name><surname>Liang</surname><given-names>J</given-names></name>, <name><surname>Xin</surname><given-names>H</given-names></name>, <name><surname>Dong</surname><given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Epidemiological Characteristics of Hand, Foot, and Mouth Disease Outbreaks in Qingdao, 2009&#x2013;2018.</article-title>
+<source>Iran J Public Health.</source>
+<year>2021</year>;<volume>50</volume>(<issue>5</issue>):<fpage>999</fpage>&#x2013;<lpage>1008</lpage>. Epub 2021/06/30. <comment>doi: </comment><pub-id pub-id-type="doi">10.18502/ijph.v50i5.6117</pub-id> ; PubMed Central PMCID: PMC8223573.<pub-id pub-id-type="pmid">34183958</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref066">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><name><surname>Huang</surname><given-names>J</given-names></name>, <name><surname>Liao</surname><given-names>Q</given-names></name>, <name><surname>Ooi</surname><given-names>MH</given-names></name>, <name><surname>Cowling</surname><given-names>BJ</given-names></name>, <name><surname>Chang</surname><given-names>Z</given-names></name>, <name><surname>Wu</surname><given-names>P</given-names></name>, <etal>et al</etal>. <article-title>Epidemiology of Recurrent Hand, Foot and Mouth Disease, China, 2008&#x2013;2015</article-title>. <source>Emerg Infect Dis</source>. <year>2018</year>;<volume>24</volume>(<issue>3</issue>):<fpage>432</fpage>&#x2013;<lpage>42</lpage>. Epub 2018/02/21. <comment>doi: </comment><pub-id pub-id-type="doi">10.3201/eid2403.171303</pub-id> ; PubMed Central PMCID: PMC5823341.<pub-id pub-id-type="pmid">29460747</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pmed.1004374.ref067">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><name><surname>Du</surname><given-names>M</given-names></name>, <name><surname>Wang</surname><given-names>R</given-names></name>, <name><surname>Yuan</surname><given-names>J</given-names></name>, <name><surname>Lv</surname><given-names>X</given-names></name>, <name><surname>Yan</surname><given-names>W</given-names></name>, <name><surname>Liu</surname><given-names>Q</given-names></name>, <etal>et al</etal>. <article-title>Trends and disparities in 44 national notifiable infectious diseases in China: An analysis of national surveillance data from 2010 to 2019</article-title>. <source>J Med Virol</source>. <year>2023</year>;<volume>95</volume>(<issue>1</issue>):<fpage>e28353</fpage>. Epub 2022/11/29. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jmv.28353</pub-id> ; PubMed Central PMCID: PMC10107249.<pub-id pub-id-type="pmid">36443103</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

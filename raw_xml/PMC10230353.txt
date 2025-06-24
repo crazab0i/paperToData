@@ -1,0 +1,2340 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Med Internet Res</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Med Internet Res</journal-id>
+      <journal-id journal-id-type="publisher-id">JMIR</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Medical Internet Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1439-4456</issn>
+      <issn pub-type="epub">1438-8871</issn>
+      <publisher>
+        <publisher-name>JMIR Publications</publisher-name>
+        <publisher-loc>Toronto, Canada</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37191983</article-id>
+      <article-id pub-id-type="pmc">10230353</article-id>
+      <article-id pub-id-type="publisher-id">v25i1e44186</article-id>
+      <article-id pub-id-type="doi">10.2196/44186</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Paper</subject>
+        </subj-group>
+        <subj-group subj-group-type="article-type">
+          <subject>Original Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Baidu Index Data to Improve Chickenpox Surveillance in Yunnan, China: Infodemiology Study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Mavragani</surname>
+            <given-names>Amaryllis</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Rui</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Zheng</surname>
+            <given-names>Yanling</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Allam</surname>
+            <given-names>Ayman</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib id="contrib1" contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Zhaohan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0025-0830</contrib-id>
+        </contrib>
+        <contrib id="contrib2" contrib-type="author">
+          <name>
+            <surname>He</surname>
+            <given-names>Jun</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5188-0218</contrib-id>
+        </contrib>
+        <contrib id="contrib3" contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Bolin</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9239-6935</contrib-id>
+        </contrib>
+        <contrib id="contrib4" contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Lizhi</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6912-8801</contrib-id>
+        </contrib>
+        <contrib id="contrib5" contrib-type="author">
+          <name>
+            <surname>Han</surname>
+            <given-names>Chenyu</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6081-209X</contrib-id>
+        </contrib>
+        <contrib id="contrib6" contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Meiqi</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2196-607X</contrib-id>
+        </contrib>
+        <contrib id="contrib7" contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Hao</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0003-3042-4015</contrib-id>
+        </contrib>
+        <contrib id="contrib8" contrib-type="author">
+          <name>
+            <surname>An</surname>
+            <given-names>Shuqi</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1114-5649</contrib-id>
+        </contrib>
+        <contrib id="contrib9" contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Meifang</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0009-0004-0970-2882</contrib-id>
+        </contrib>
+        <contrib id="contrib10" contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Zhen</surname>
+            <given-names>Qing</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2816-4539</contrib-id>
+        </contrib>
+        <contrib id="contrib11" contrib-type="author" equal-contrib="yes">
+          <name>
+            <surname>Tiejun</surname>
+            <given-names>Shui</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2224-0545</contrib-id>
+        </contrib>
+        <contrib id="contrib12" contrib-type="author" corresp="yes" equal-contrib="yes">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Xinyao</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4113-8092</contrib-id>
+          <xref rid="aff3" ref-type="aff">3</xref>
+          <address>
+            <institution>Department of Social Medicine and Health Management</institution>
+            <institution>School of Public Health</institution>
+            <institution>Jilin University</institution>
+            <addr-line>1163 Xinmin Street</addr-line>
+            <addr-line>Changchun, 130021</addr-line>
+            <country>China</country>
+            <phone>86 0431 85619442</phone>
+            <email>15892560@qq.com</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>1</label>
+<institution>Department of Epidemiology and Biostatistics</institution>
+<institution>School of Public Health</institution>
+<institution>Jilin University</institution>
+<addr-line>Changchun</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff2">
+<label>2</label>
+<institution>Yunnan Center for Disease Control and Prevention</institution>
+<addr-line>Yunnan</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff3">
+<label>3</label>
+<institution>Department of Social Medicine and Health Management</institution>
+<institution>School of Public Health</institution>
+<institution>Jilin University</institution>
+<addr-line>Changchun</addr-line>
+<country>China</country>
+</aff>
+      <author-notes>
+        <corresp>Corresponding Author: Xinyao Zhang <email>15892560@qq.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>5</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>25</volume>
+      <elocation-id>e44186</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="rev-request">
+          <day>6</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>21</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9;Zhaohan Wang, Jun He, Bolin Jin, Lizhi Zhang, Chenyu Han, Meiqi Wang, Hao Wang, Shuqi An, Meifang Zhao, Qing Zhen, Shui Tiejun, Xinyao Zhang. Originally published in the Journal of Medical Internet Research (https://www.jmir.org), 16.05.2023.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link xlink:href="https://www.jmir.org/" ext-link-type="uri">https://www.jmir.org/</ext-link>, as well as this copyright and license information must be included.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://www.jmir.org/2023/1/e44186"/>
+      <abstract>
+        <sec sec-type="background">
+          <title>Background</title>
+          <p>Chickenpox is an old but easily neglected infectious disease. Although chickenpox is preventable by vaccines, vaccine breakthroughs often occur, and the chickenpox epidemic is on the rise. Chickenpox is not included in the list of regulated communicable diseases that must be reported and controlled by public and health departments; therefore, it is crucial to rapidly identify and report varicella outbreaks during the early stages. The Baidu index (BDI) can supplement the traditional surveillance system for infectious diseases, such as brucellosis and dengue, in China. The number of reported chickenpox cases and internet search data also showed a similar trend. BDI can be a useful tool to display the outbreak of infectious diseases.</p>
+        </sec>
+        <sec sec-type="objective">
+          <title>Objective</title>
+          <p>This study aimed to develop an efficient disease surveillance method that uses BDI to assist in traditional surveillance.</p>
+        </sec>
+        <sec sec-type="methods">
+          <title>Methods</title>
+          <p>Chickenpox incidence data (weekly from January 2017 to June 2021) reported by the Yunnan Province Center for Disease Control and Prevention were obtained to evaluate the relationship between the incidence of chickenpox and BDI. We applied a support vector machine regression (SVR) model and a multiple regression prediction model with BDI to predict the incidence of chickenpox. In addition, we used the SVR model to predict the number of chickenpox cases from June 2021 to the first week of April 2022.</p>
+        </sec>
+        <sec sec-type="results">
+          <title>Results</title>
+          <p>The analysis showed that there was a close correlation between the weekly number of newly diagnosed cases and the BDI. In the search terms we collected, the highest Spearman correlation coefficient was 0.747. Most BDI search terms, such as &#x201C;chickenpox,&#x201D; &#x201C;chickenpox treatment,&#x201D; &#x201C;treatment of chickenpox,&#x201D; &#x201C;chickenpox symptoms,&#x201D; and &#x201C;chickenpox virus,&#x201D; trend consistently. Some BDI search terms, such as &#x201C;chickenpox pictures,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; &#x201C;chickenpox vaccine,&#x201D; and &#x201C;is chickenpox vaccine necessary,&#x201D; appeared earlier than the trend of &#x201C;chickenpox virus.&#x201D; The 2 models were compared, the SVR model performed better in all the applied measurements: fitting effect, <italic>R</italic><sup>2</sup>=0.9108, root mean square error (RMSE)=96.2995, and mean absolute error (MAE)=73.3988; and prediction effect, <italic>R</italic><sup>2</sup>=0.548, RMSE=189.1807, and MAE=147.5412. In addition, we applied the SVR model to predict the number of reported cases weekly in Yunnan from June 2021 to April 2022 using the same period of the BDI. The results showed that the fluctuation of the time series from July 2021 to April 2022 was similar to that of the last year and a half with no change in the level of prevention and control.</p>
+        </sec>
+        <sec sec-type="conclusions">
+          <title>Conclusions</title>
+          <p>These findings indicated that the BDI in Yunnan Province can predict the incidence of chickenpox in the same period. Thus, the BDI is a useful tool for monitoring the chickenpox epidemic and for complementing traditional monitoring systems.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Baidu index</kwd>
+        <kwd>chickenpox</kwd>
+        <kwd>support vector machine regression model</kwd>
+        <kwd>disease surveillance</kwd>
+        <kwd>disease</kwd>
+        <kwd>infectious</kwd>
+        <kwd>vaccine</kwd>
+        <kwd>surveillance system</kwd>
+        <kwd>model</kwd>
+        <kwd>prevention</kwd>
+        <kwd>control</kwd>
+        <kwd>monitoring</kwd>
+        <kwd>epidemic</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction">
+      <title>Introduction</title>
+      <p>Chickenpox is an acute infectious disease caused by the varicella-zoster virus. Children and adolescents are highly susceptible to chickenpox infection, and it is characterized by maculopapular rashes on the skin and mucous membranes with mild systemic symptoms. Chickenpox has a high incidence but low mortality rate, and it is one of the most common childhood diseases [<xref rid="ref1" ref-type="bibr">1</xref>]. Although most cases have mild clinical symptoms, if not treated promptly, the infection may lead to postherpetic neuralgia, which affects the quality of life and can lead to death in severe cases [<xref rid="ref2" ref-type="bibr">2</xref>].</p>
+      <p>Chickenpox is prevalent worldwide, and it has a seasonal pattern. The European region has a single peak pattern from March to May, whereas Asian countries have a double peak pattern from March to May and from December to January [<xref rid="ref3" ref-type="bibr">3</xref>]. According to the World Health Organization, it is estimated that there are approximately 4.2 million hospitalizations and 4200 deaths due to serious complications of varicella annually worldwide, and the danger of varicella has been seriously underestimated [<xref rid="ref4" ref-type="bibr">4</xref>]. Despite widespread immunization, varicella continues to spread and develop in many countries, such as the United States, Italy, and various European countries, due to its high transmissibility [<xref rid="ref3" ref-type="bibr">3</xref>-<xref rid="ref6" ref-type="bibr">6</xref>]. In China, according to an epidemiological survey of varicella in China from 2005-2019, a total of 6,442,147 cases of varicella were reported nationwide. The reported incidence of varicella increased from 41,211 cases (3.17/100,000) in 2005 to 7,979,482 cases (70.14/100,000) in 2019. The average annual incidence of chickenpox showed an increasing trend each year from 2005 to 2019, and the number of reported cases of varicella increased nearly 22 times from 2005 to 2019. Chickenpox now has one of the highest incidences in terms of preventable diseases in China [<xref rid="ref7" ref-type="bibr">7</xref>].</p>
+      <p>Yunnan Province has a high incidence of chickenpox in China, and it ranked among the top 5 provinces in the country in 2019 in terms of the incidence in the population aged under 14 years, accounting for 76.36% of all chickenpox cases. Chickenpox public health emergencies mainly occur in rural elementary schools, and the situation is serious as the chickenpox epidemic continues to grow year by year. However, attention to the management and elimination of chickenpox public health emergencies in rural elementary schools and kindergartens is still insufficient, and the problem of untimely reporting of chickenpox incidence remains. Yunnan Province needs to take effective measures to suppress the spread and prevalence of chickenpox [<xref rid="ref8" ref-type="bibr">8</xref>].</p>
+      <p>Currently, problems such as low chickenpox vaccine coverage, the breakthrough of the chickenpox vaccine, the lack of attention to chickenpox disease, imperfect chickenpox surveillance reports, and the lack of public information on chickenpox epidemics are still present in China [<xref rid="ref9" ref-type="bibr">9</xref>]. In China, chickenpox is reported through the Chinese Disease Prevention and Control Information System. Because chickenpox is a viral disease with mild and self-limiting symptoms, it has not been included in the Chinese National Disease Reporting System for statutory infectious diseases. There is no uniform standard for reporting chickenpox cases across China. However, the public health emergency management information system has focused on some aggregated outbreaks [<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref10" ref-type="bibr">10</xref>], but some disseminated cases or subclinical infections may be overlooked.</p>
+      <p>At present, the means of chickenpox prevention and control in China are relatively singular and limited to the traditional reported incidence monitoring and isolation treatment of patients with chickenpox [<xref rid="ref2" ref-type="bibr">2</xref>]. The actual incidence of chickenpox in most provinces is not publicly available, and the public cannot obtain timely information on the chickenpox epidemic. Apart from public health departments, the public does not have effective channels to obtain real-time information on local chickenpox incidence, which is not conducive to taking active self-protective measures against chickenpox.</p>
+      <p>The internet has become an increasingly popular means of accessing health information. The increase in web-based information provides a potentially useful source of data for disease surveillance. Due to its real-time nature and ease of access, internet data can be used to fill the gaps in traditional public health surveillance [<xref rid="ref11" ref-type="bibr">11</xref>]. Therefore, the possibility of using internet data for the surveillance of various diseases is being increasingly explored as an aid to improve disease prevention and control. The use of internet search data as a complementary means to traditional infectious disease surveillance methods is particularly applicable to neglected diseases that are less affected by consultations [<xref rid="ref12" ref-type="bibr">12</xref>].</p>
+      <p>Previous studies [<xref rid="ref12" ref-type="bibr">12</xref>,<xref rid="ref13" ref-type="bibr">13</xref>] have indicated that Google Trends can well demonstrate the epidemic characteristics of chickenpox abroad and is suitable for the simulation of features of infectious diseases in epidemic cycles. Moreover, Bakker et al [<xref rid="ref12" ref-type="bibr">12</xref>] studied chickenpox incidence patterns using Google Trends and found that Google search data show a high correlation (<italic>R</italic><sup>2</sup>=0.65-0.71) with varicella outbreaks. Thus, Google Trends can be used for chickenpox incidence prediction and early warning. In China, more studies have focused on vaccine efficacy analysis and descriptive studies of chickenpox prevalence [<xref rid="ref7" ref-type="bibr">7</xref>-<xref rid="ref10" ref-type="bibr">10</xref>], and most of the exploration of chickenpox surveillance issues has been performed by using actual incidence report data to build models to predict the onset of chickenpox [<xref rid="ref2" ref-type="bibr">2</xref>], whereas there are few studies exploring whether the Baidu search engine can be applied to chickenpox epidemic surveillance and early warning.</p>
+      <p>Google Trends is not highly used in China. Google search data do not reflect the true search tendencies of the Chinese public because Baidu is the most widely used search engine product in China. The Baidu index (BDI) [<xref rid="ref14" ref-type="bibr">14</xref>], which was established based on Baidu search information, should reflect the search needs and awareness of internet users as well as Google Trends abroad in China [<xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref16" ref-type="bibr">16</xref>]. A considerable number of studies have been conducted using the BDI for China-wide disease prediction. For example, one study has successfully predicted the epidemic trend of influenza using the BDI [<xref rid="ref17" ref-type="bibr">17</xref>]. Similarly, some surveillance studies using BDIs for diseases, such as brucellosis; dengue fever; and hand, foot, and mouth disease, have shown that BDIs can be used to reflect disease prevalence [<xref rid="ref18" ref-type="bibr">18</xref>-<xref rid="ref20" ref-type="bibr">20</xref>].</p>
+      <p>The current chickenpox surveillance system in China is flawed and incomplete. The flawed surveillance system and the lack of public information on chickenpox outbreaks have led to a weak response to chickenpox outbreaks in China. Public health events caused by chickenpox epidemics have persisted for a long time, generating a large number of patients with chickenpox, which disrupts the study, work, and life of patients while also affecting the normal production and everyday life of families, schools, and workplaces. Moreover, chickenpox epidemics impose a heavy burden on the healthy socioeconomic development of China.</p>
+      <p>This study focused on the following specific research questions:</p>
+      <list list-type="order">
+        <list-item>
+          <p>What are the correlations between BDI scores and actual varicella incidence data in Yunnan Province?</p>
+        </list-item>
+        <list-item>
+          <p>Can internet data be used to predict future varicella disease epidemics?</p>
+        </list-item>
+        <list-item>
+          <p>Can big data be used as a supplement to traditional surveillance systems for early warning surveillance of infectious diseases as well as epidemics?</p>
+        </list-item>
+      </list>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Real-World Databases</title>
+        <p>The data were divided into 2 parts as follows: the number of reported chickenpox cases in Yunnan Province from 2017 to 2021 and the chickenpox-related BDI search data in Yunnan Province from 2017 to April 2022. The chickenpox monitoring data in Yunnan Province were obtained from the chickenpox epidemic information of the Yunnan Province Center for Disease Control and Prevention.</p>
+      </sec>
+      <sec>
+        <title>BDI Databases</title>
+        <p>The chickenpox-related BDI search data were obtained from the official website of the BDI [<xref rid="ref14" ref-type="bibr">14</xref>]. The BDI of &#x201C;PC + mobile&#x201D; from 2017 to April 2022 was collated as search data.</p>
+        <p>The principles of selecting keywords were as follows: (1) keywords must be closely related and specific to chickenpox; (2) selected longtail keywords were considered for inclusion; (3) keywords must have sufficient search volume in the mining module; and (4) the time series of each keyword must be complete and valid.</p>
+        <p>The following 12 keywords were selected: &#x201C;chickenpox,&#x201D; &#x201C;chickenpox pictures,&#x201D; &#x201C;chickenpox symptoms,&#x201D; &#x201C;chickenpox diet,&#x201D; &#x201C;chickenpox infection period,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; &#x201C;symptoms and treatment of chickenpox,&#x201D; &#x201C;chickenpox vaccine,&#x201D; &#x201C;is chickenpox vaccine necessary,&#x201D; &#x201C;shingles,&#x201D; &#x201C;chickenpox treatment,&#x201D; and &#x201C;treatment of chickenpox.&#x201D;</p>
+      </sec>
+      <sec>
+        <title>Analysis</title>
+        <sec>
+          <title>Keyword Screening and Relevance Test</title>
+          <p>First, Pearson and Spearman correlation tests were performed on the first 12 selected BDIs and the number of chickenpox cases, with Pearson correlation coefficient&gt;0.3 as the criteria for determining the correlation. A time-lagged cross-correlation test was then performed on the screened keyword indices and the number of chickenpox cases to determine the time type of keywords (prior, simultaneous, and lagged).</p>
+        </sec>
+        <sec>
+          <title>Support Vector Machine Regression Model Construction</title>
+          <p>For variable selection, the number of chickenpox cases in Yunnan Province from January 2017 to May 2021 was used as the dependent variable, and the weekly BDIs of 8 keywords, such as &#x201C;chickenpox,&#x201D; were used as the independent variables. The BDIs and incidence data of 209 weeks from 2017 to 2020 were used as the training set, and the data of 22 weeks from January to May 2021 were used as the test set. The data were fitted with the actual incidence data to analyze the accuracy.</p>
+        </sec>
+        <sec>
+          <title>Multiple Linear Regression Model Construction</title>
+          <p>The general expression was as follows:</p>
+          <disp-quote>
+            <p>y = &#x3B2;<sub>0</sub> + &#x3B2;<sub>1</sub>x<sub>1</sub> + &#x3B2;<sub>2</sub>x<sub>2</sub> +...+ &#x3B2;<sub>k</sub>x<sub>k</sub> + &#x3B5;</p>
+          </disp-quote>
+          <p>where <italic>&#x3B2;<sub>0</sub>, &#x3B2;<sub>1</sub>, &#x3B2;<sub>2</sub>, ..., &#x3B2;<sub>k</sub></italic> are the parameters of the model, and &#x3B5; is the error term.</p>
+          <p>The variable selection was consistent with the support vector machine regression (SVR) model. For model construction, the stepwise regression method was used to eliminate the independent variables that had no significant effect (<italic>P</italic>&gt;.05) on the dependent variable, and the model with the highest <italic>R</italic><sup>2</sup> value of goodness-of-fit was selected for the next step of prediction according to the stepwise regression model construction results.</p>
+        </sec>
+        <sec>
+          <title>Determination Index of the Optimal Model</title>
+          <p>The optimal model for the present study was selected by comparing the coefficient of determination (<italic>R</italic><sup>2</sup>), the mean absolute error (MAE), and the root mean square error (RMSE) of the predicted and actual values of the above 2 models in fitting and predicting data.</p>
+        </sec>
+        <sec>
+          <title>Data Prediction of the Chickenpox Epidemic in Yunnan Province</title>
+          <p>The optimal prediction model was selected by the above method. The BDI of the &#x201C;chickenpox&#x201D; keyword and the number of reported chickenpox cases in Yunnan Province for 231 weeks from January 2017 to May 2021 were imported as independent and dependent variables to establish the prediction model. The BDI data from June 2021 to the first week of April 2022 were obtained to predict the trend of chickenpox incidence in Yunnan Province.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Ethical Considerations</title>
+        <p>The data sources for this study included publicly available BDI search data and varicella incidence data provided by the Yunnan Province Center for Disease Control and Prevention. As this study did not involve human or animal experimental subjects, nor did it involve any ethical issues related to data collection or use, ethical approval or a license was not required for this study.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Cross-Correlation Analysis of Chickenpox and the BDI in Yunnan Province</title>
+        <p>After the cross-correlation test, the results showed that most BDI search terms, such as &#x201C;chickenpox,&#x201D; &#x201C;chickenpox treatment,&#x201D; &#x201C;treatment of chickenpox,&#x201D; &#x201C;chickenpox symptoms,&#x201D; and &#x201C;chickenpox virus,&#x201D; trend consistently. Some BDI search terms, such as &#x201C;chickenpox pictures,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; &#x201C;chickenpox vaccine,&#x201D; and &#x201C;is chickenpox vaccine necessary&#x201D; appeared earlier than the trend of &#x201C;chickenpox virus.&#x201D; In all, 8 keywords were screened from the 12 chickenpox-related keywords as variables required for modeling: &#x201C;chickenpox picture,&#x201D; &#x201C;chickenpox,&#x201D; &#x201C;chickenpox symptoms,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; &#x201C;symptoms and treatment of chickenpox,&#x201D; &#x201C;chickenpox vaccine,&#x201D; &#x201C;treatment of chickenpox,&#x201D; and &#x201C;chickenpox treatment&#x201D; (<xref rid="table1" ref-type="table">Table 1</xref>).</p>
+        <table-wrap position="float" id="table1">
+          <label>Table 1</label>
+          <caption>
+            <p>Cross-correlation analysis of actual chickenpox cases and internet search terms from Yunnan, China<sup>a</sup>.</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="180" span="1"/>
+            <col width="0" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="130" span="1"/>
+            <thead>
+              <tr valign="top">
+                <td colspan="3" rowspan="1">Search terms</td>
+                <td colspan="7" rowspan="1">Lag (weeks)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td colspan="2" rowspan="1">&#x2013;3</td>
+                <td rowspan="1" colspan="1">&#x2013;2</td>
+                <td rowspan="1" colspan="1">&#x2013;1</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">3</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;</bold>
+<bold>&#x56FE;</bold>
+<bold>&#x7247;</bold>
+<bold>(chickenpox picture)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r<sup>b</sup></italic>
+</td>
+                <td colspan="2" rowspan="1">0.702</td>
+                <td rowspan="1" colspan="1">
+<italic>0.730<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.715</td>
+                <td rowspan="1" colspan="1">0.705</td>
+                <td rowspan="1" colspan="1">0.636</td>
+                <td rowspan="1" colspan="1">0.555</td>
+                <td rowspan="1" colspan="1">0.462</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value<sup>d</sup></td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;</bold>
+<bold>(chickenpox)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.656</td>
+                <td rowspan="1" colspan="1">0.718</td>
+                <td rowspan="1" colspan="1">0.727</td>
+                <td rowspan="1" colspan="1">
+<italic>0.747<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.741</td>
+                <td rowspan="1" colspan="1">0.678</td>
+                <td rowspan="1" colspan="1">0.609</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x75C7;&#x72B6;</bold>
+<bold>(chickenpox symptoms)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.364</td>
+                <td rowspan="1" colspan="1">0.37</td>
+                <td rowspan="1" colspan="1">0.371</td>
+                <td rowspan="1" colspan="1">
+<italic>0.372<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.331</td>
+                <td rowspan="1" colspan="1">0.287</td>
+                <td rowspan="1" colspan="1">0.237</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x7684;&#x75C7;&#x72B6;</bold>
+<bold>(symptoms of chickenpox)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.550</td>
+                <td rowspan="1" colspan="1">
+<italic>0.578<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.548</td>
+                <td rowspan="1" colspan="1">0.406</td>
+                <td rowspan="1" colspan="1">0.472</td>
+                <td rowspan="1" colspan="1">0.390</td>
+                <td rowspan="1" colspan="1">0.298</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x7684;&#x75C7;&#x72B6;&#x548C;&#x6CBB;</bold>
+<bold>&#x7597;</bold>
+<bold>(symptoms and treatment of chickenpox)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.302</td>
+                <td rowspan="1" colspan="1">0.351</td>
+                <td rowspan="1" colspan="1">0.379</td>
+                <td rowspan="1" colspan="1">
+<italic>0.556<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.385</td>
+                <td rowspan="1" colspan="1">0.345</td>
+                <td rowspan="1" colspan="1">0.320</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x75AB;&#x82D7;</bold>
+<bold>(chickenpox vaccine)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">
+<italic>0.353<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.345</td>
+                <td rowspan="1" colspan="1">0.317</td>
+                <td rowspan="1" colspan="1">0.317</td>
+                <td rowspan="1" colspan="1">0.282</td>
+                <td rowspan="1" colspan="1">0.215</td>
+                <td rowspan="1" colspan="1">0.150</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">.001</td>
+                <td rowspan="1" colspan="1">.02</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x7684;&#x6CBB;</bold>
+<bold>&#x7597;</bold>
+<bold>(treatment of chickenpox)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.259</td>
+                <td rowspan="1" colspan="1">0.261</td>
+                <td rowspan="1" colspan="1">0.308</td>
+                <td rowspan="1" colspan="1">
+<italic>0.323<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.264</td>
+                <td rowspan="1" colspan="1">0.267</td>
+                <td rowspan="1" colspan="1">0.199</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">.002</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x6CBB;</bold>
+<bold>&#x7597;</bold>
+<bold>(chickenpox treatment)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.216</td>
+                <td rowspan="1" colspan="1">0.272</td>
+                <td rowspan="1" colspan="1">0.294</td>
+                <td rowspan="1" colspan="1">
+<italic>0.325<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.293</td>
+                <td rowspan="1" colspan="1">0.283</td>
+                <td rowspan="1" colspan="1">0.278</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;</bold>
+<bold>&#x996E;</bold>
+<bold>&#x98DF;</bold>
+<bold>(chickenpox diet)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.194</td>
+                <td rowspan="1" colspan="1">0.196</td>
+                <td rowspan="1" colspan="1">0.187</td>
+                <td rowspan="1" colspan="1">
+<italic>0.222<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.157</td>
+                <td rowspan="1" colspan="1">0.180</td>
+                <td rowspan="1" colspan="1">0.170</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">.003</td>
+                <td rowspan="1" colspan="1">.003</td>
+                <td rowspan="1" colspan="1">.004</td>
+                <td rowspan="1" colspan="1">.001</td>
+                <td rowspan="1" colspan="1">.02</td>
+                <td rowspan="1" colspan="1">.006</td>
+                <td rowspan="1" colspan="1">.01</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;</bold>
+<bold>&#x4F20;</bold>
+<bold>&#x67D3;&#x671F;</bold>
+<bold>(chickenpox transmission period)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.165</td>
+                <td rowspan="1" colspan="1">0.200</td>
+                <td rowspan="1" colspan="1">0.219</td>
+                <td rowspan="1" colspan="1">
+<italic>0.280<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.275</td>
+                <td rowspan="1" colspan="1">0.292</td>
+                <td rowspan="1" colspan="1">0.295</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">.01</td>
+                <td rowspan="1" colspan="1">.002</td>
+                <td rowspan="1" colspan="1">.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">&lt;.001</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x6C34;&#x75D8;&#x75AB;&#x82D7;&#x6709;&#x5FC5;&#x8981;&#x6253;</bold>
+<bold>&#x5417;</bold>
+<bold>(is chickenpox vaccine necessary)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.264</td>
+                <td rowspan="1" colspan="1">
+<italic>0.200<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.144</td>
+                <td rowspan="1" colspan="1">0.090</td>
+                <td rowspan="1" colspan="1">&#x2013;0.001</td>
+                <td rowspan="1" colspan="1">&#x2013;0.078</td>
+                <td rowspan="1" colspan="1">&#x2013;0.161</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">&lt;.001</td>
+                <td rowspan="1" colspan="1">.002</td>
+                <td rowspan="1" colspan="1">.03</td>
+                <td rowspan="1" colspan="1">.17</td>
+                <td rowspan="1" colspan="1">.99</td>
+                <td rowspan="1" colspan="1">.24</td>
+                <td rowspan="1" colspan="1">.02</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>&#x5E26;</bold>
+<bold>&#x72B6;&#x75B1;&#x75B9;</bold>
+<bold>(herpes zoster)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<italic>r</italic>
+</td>
+                <td colspan="2" rowspan="1">0.024</td>
+                <td rowspan="1" colspan="1">
+<italic>0.022<sup>c</sup></italic>
+</td>
+                <td rowspan="1" colspan="1">0.008</td>
+                <td rowspan="1" colspan="1">0.011</td>
+                <td rowspan="1" colspan="1">0.000</td>
+                <td rowspan="1" colspan="1">&#x2013;0.010</td>
+                <td rowspan="1" colspan="1">&#x2013;0.017</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">.72</td>
+                <td rowspan="1" colspan="1">.74</td>
+                <td rowspan="1" colspan="1">.91</td>
+                <td rowspan="1" colspan="1">.87</td>
+                <td rowspan="1" colspan="1">&gt;.99</td>
+                <td rowspan="1" colspan="1">.88</td>
+                <td rowspan="1" colspan="1">.79</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table1fn1">
+              <p><sup>a</sup>Spearman correlation coefficient&gt;0.3 was used as the criteria for inclusion.</p>
+            </fn>
+            <fn id="table1fn2">
+              <p><sup>b</sup><italic>r</italic> values represented cross correlation coefficient.</p>
+            </fn>
+            <fn id="table1fn3">
+              <p><sup>c</sup>Italicized values showed the maximum of cross correlation coefficient.</p>
+            </fn>
+            <fn id="table1fn4">
+              <p><sup>d</sup><italic>P</italic> values represented statistical significance between 2 variables.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Time Series Characteristics and Correlation Analysis of Varicella and BDI in Yunnan Province</title>
+        <p>The number of reported chickenpox cases in Yunnan Province showed an increasing trend year by year, especially during the winter chickenpox susceptibility period in 2020, with a peak higher than the general level in previous years. The trend of chickenpox incidence in 2017-2021 showed seasonality with double peaks in the number of cases from May to July and from November to January in each year. The BDI data for the same period also showed bimodal peaks from May to July and from November to January in each year. Comparison charts of the trend of 8 BDI keywords and actual occurrence are shown in <xref rid="app1" ref-type="supplementary-material">Multimedia Appendix 1</xref>.</p>
+      </sec>
+      <sec>
+        <title>Construction and Prediction of Chickenpox Case Prediction Model</title>
+        <sec>
+          <title>Establishment of the SVR Prediction Model</title>
+          <p>In the SVR model, the radial basis kernel function was used. We chose all 8 key terms for modeling: &#x201C;chickenpox picture,&#x201D; &#x201C;chickenpox,&#x201D; &#x201C;chickenpox symptoms,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; &#x201C;symptoms and treatment of chickenpox,&#x201D; &#x201C;chickenpox vaccine,&#x201D; &#x201C;treatment of chickenpox,&#x201D; and &#x201C;chickenpox treatment.&#x201D; Using the grid search method for the hyperparameter search, the final obtained parameters were C=1 and &#x3B3;=0.1.</p>
+          <p>The complete fitting and prediction effect graph is shown in <xref rid="figure1" ref-type="fig">Figure 1</xref>.</p>
+          <fig position="float" id="figure1">
+            <label>Figure 1</label>
+            <caption>
+              <p>Predicted effect of support vector machine regression fitting for chickenpox in Yunnan Province (January 2017 to May 2021).</p>
+            </caption>
+            <graphic xlink:href="jmir_v25i1e44186_fig1" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Multiple Linear Regression Prediction Modeling</title>
+          <p>In the multiple linear regression model, we also chose all 8 key terms for modeling. We used the stepwise regression method to fit and test the data. The model performed best when those 4 key terms were included, namely &#x201C;chickenpox,&#x201D; &#x201C;chickenpox symptoms,&#x201D; &#x201C;symptoms of chickenpox,&#x201D; and &#x201C;treatment of chickenpox.&#x201D; The detailed regression coefficients are as follows: b<sub>1</sub>=0.243, b<sub>2</sub>=0.495, b<sub>3</sub>=0.381, and b<sub>4</sub>=0.278. The complete fitting and prediction effect graph is shown in <xref rid="figure2" ref-type="fig">Figure 2</xref>.</p>
+          <fig position="float" id="figure2">
+            <label>Figure 2</label>
+            <caption>
+              <p>Predicted effect of multiple linear regression fitting for chickenpox in Yunnan Province (January 2017 to May 2018).</p>
+            </caption>
+            <graphic xlink:href="jmir_v25i1e44186_fig2" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Comparison of Multiple Regression Model and SVR Model Prediction Performance</title>
+          <p>To evaluate the fitting performance of the model, we used <italic>R</italic><sup>2</sup>, MAE, and RMSE to compare the advantages and disadvantages of the 2 models. The results showed that the SVR model had better performance in both fitting and prediction effects compared to the multiple linear regression model (<xref rid="table2" ref-type="table">Tables 2</xref> and <xref rid="table3" ref-type="table">3</xref>).</p>
+          <p>Therefore, SVR was selected as the best model for case number prediction.</p>
+          <table-wrap position="float" id="table2">
+            <label>Table 2</label>
+            <caption>
+              <p>Comparison of model fitting effect indicators.</p>
+            </caption>
+            <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+              <col width="330" span="1"/>
+              <col width="330" span="1"/>
+              <col width="340" span="1"/>
+              <thead>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+<break/>
+</td>
+                  <td rowspan="1" colspan="1">MLR<sup>a</sup> model</td>
+                  <td rowspan="1" colspan="1">SVR<sup>b</sup> model</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+<italic>R</italic>
+<sup>2</sup>
+</td>
+                  <td rowspan="1" colspan="1">0.833</td>
+                  <td rowspan="1" colspan="1">0.911</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">RMSE<sup>c</sup></td>
+                  <td rowspan="1" colspan="1">130.3389</td>
+                  <td rowspan="1" colspan="1">96.2995</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">MAE<sup>d</sup></td>
+                  <td rowspan="1" colspan="1">106.6526</td>
+                  <td rowspan="1" colspan="1">73.3988</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="table2fn1">
+                <p><sup>a</sup>MLR: multiple linear regression.</p>
+              </fn>
+              <fn id="table2fn2">
+                <p><sup>b</sup>SVR: support vector machine regression.</p>
+              </fn>
+              <fn id="table2fn3">
+                <p><sup>c</sup>RMSE: root mean square error.</p>
+              </fn>
+              <fn id="table2fn4">
+                <p><sup>d</sup>MAE: mean absolute error.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+          <table-wrap position="float" id="table3">
+            <label>Table 3</label>
+            <caption>
+              <p>Comparison of model prediction effect indicators.</p>
+            </caption>
+            <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+              <col width="330" span="1"/>
+              <col width="330" span="1"/>
+              <col width="340" span="1"/>
+              <thead>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+<break/>
+</td>
+                  <td rowspan="1" colspan="1">MLR<sup>a</sup> model</td>
+                  <td rowspan="1" colspan="1">SVR<sup>b</sup> model</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">
+<italic>R</italic>
+<sup>2</sup>
+</td>
+                  <td rowspan="1" colspan="1">0.459</td>
+                  <td rowspan="1" colspan="1">0.548</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">RMSE<sup>c</sup></td>
+                  <td rowspan="1" colspan="1">204.2203</td>
+                  <td rowspan="1" colspan="1">189.1807</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">MAE<sup>d</sup></td>
+                  <td rowspan="1" colspan="1">166.2412</td>
+                  <td rowspan="1" colspan="1">147.5412</td>
+                </tr>
+                <tr valign="top">
+                  <td rowspan="1" colspan="1">MAPE<sup>e</sup></td>
+                  <td rowspan="1" colspan="1">15%</td>
+                  <td rowspan="1" colspan="1">9.1%</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <fn id="table3fn1">
+                <p><sup>a</sup>MLR: multiple linear regression.</p>
+              </fn>
+              <fn id="table3fn2">
+                <p><sup>b</sup>SVR: support vector machine regression.</p>
+              </fn>
+              <fn id="table3fn3">
+                <p><sup>c</sup>RMSE: root mean square error.</p>
+              </fn>
+              <fn id="table3fn4">
+                <p><sup>d</sup>MAE: mean absolute error.</p>
+              </fn>
+              <fn id="table3fn5">
+                <p><sup>e</sup>MAPE: mean absolute percentage error.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>SVR&#x2013;Based Prediction of the Number of Chickenpox Cases</title>
+          <p>SVR prediction was performed using the BDI with the number of cases from January 2018 to May 2021 to predict the likely number of chickenpox cases from June 2021 to the first week of April 2022. The predicted trends are shown in <xref rid="figure3" ref-type="fig">Figure 3</xref> and <xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>.</p>
+          <fig position="float" id="figure3">
+            <label>Figure 3</label>
+            <caption>
+              <p>Fitting effect and prediction results of chickenpox in Yunnan Province based on the support vector machine regression model.</p>
+            </caption>
+            <graphic xlink:href="jmir_v25i1e44186_fig3" position="float"/>
+          </fig>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>Principal Findings</title>
+        <p>In this study, we used the chickenpox BDI to build a model to predict the incidence of chickenpox during the same period. We concluded that it is feasible to use BDI data for varicella epidemic surveillance, which does not rely on actual reported data of varicella incidence.</p>
+      </sec>
+      <sec>
+        <title>The Principle of Using the BDI to Predict Incidence</title>
+        <p>The BDI reflects changes in public interest in various events over a period of time. As a relatively neglected disease, news reports about chickenpox are substantially fewer than those about other infectious diseases, such as influenza and AIDS. Possible reasons for public interest in chickenpox are news reports or illnesses in their own family, suggesting that the main source of web-based search data may come from patients with chickenpox and their family members. This hypothesis is the reason why we believe that the chickenpox BDI can reflect the dynamics of chickenpox incidence through search information.</p>
+        <p>The use of internet data for disease surveillance has several advantages. For instance, it is more cost-effective and less time-consuming compared to traditional surveillance methods that rely on patient consultations and medical records [<xref rid="ref21" ref-type="bibr">21</xref>,<xref rid="ref22" ref-type="bibr">22</xref>]. Moreover, internet data can capture disease trends earlier than traditional surveillance methods because they are updated in real time. In addition, they can detect disease outbreaks that may go unnoticed using traditional surveillance methods. As neglected diseases often go unnoticed due to the limited health care resources and infrastructure in low-income countries, internet data can serve as a useful tool for monitoring these diseases. By leveraging internet data, health officials can detect disease outbreaks earlier, allocate resources more effectively, and ultimately prevent the spread of diseases more efficiently. Therefore, the use of internet data for disease surveillance has the potential to revolutionize disease prevention and control efforts.</p>
+        <p>Based on this principle, we believe that the BDI can be used as a new infectious disease surveillance tool to complement traditional public health surveillance systems. By combining big data epidemiological surveillance methods with traditional epidemiological surveillance tools, governments can establish a more sensitive surveillance tool. Real-time and low-cost internet data can help government health departments quickly identify diseases, populations, and areas with potential transmission risks and take effective measures.</p>
+      </sec>
+      <sec>
+        <title>Comparison With Prior Work</title>
+        <p>This study explores the potential of using internet data for disease surveillance, with a focus on chickenpox. Although previous research has shown success in using Google for disease prediction [<xref rid="ref21" ref-type="bibr">21</xref>-<xref rid="ref23" ref-type="bibr">23</xref>], we wanted to investigate whether Baidu, a search engine with higher usage rates in China, could also be used for this purpose. Our findings confirm that Baidu can be used for disease monitoring, providing an opportunity to better leverage internet data to predict disease occurrence and its spread. This discovery is particularly important for public health institutions, which can now make more accurate predictions and take more targeted preventive measures. Furthermore, this study highlights the growing importance of internet information as a source of data for disease surveillance in the future.</p>
+        <p>In this study, the chickenpox BDI was highly consistent with the actual occurrence trend of chickenpox (<italic>r</italic>=0.747), and compared to the disease studies conducted using the BDI [<xref rid="ref15" ref-type="bibr">15</xref>,<xref rid="ref17" ref-type="bibr">17</xref>-<xref rid="ref20" ref-type="bibr">20</xref>,<xref rid="ref24" ref-type="bibr">24</xref>-<xref rid="ref27" ref-type="bibr">27</xref>], the correlation coefficients of these studies were generally between <italic>r</italic>=0.3 and <italic>r</italic>=0.93, indicating that the chickenpox BDI well reflects the actual trend of chickenpox occurrence. Thus, it is feasible to use the BDI for chickenpox epidemic surveillance. At the same time, studies exploring the correlation between Google Trends and chickenpox [<xref rid="ref12" ref-type="bibr">12</xref>] have shown that the average correlation between chickenpox and Google Trends is approximately <italic>r</italic>=0.762 globally, indicating that the use of the BDI for chickenpox in China has similar surveillance effects as those obtained using Google Trends abroad. Therefore, in China, the methods and ideas of using Google for varicella incidence trend prediction in foreign countries can be applied to the BDI to conduct supplementary surveillance of chickenpox incidence.</p>
+        <p>In this study, the SVR model outperformed the multiple linear regression model both in terms of fitting and prediction (<xref rid="table2" ref-type="table">Tables 2</xref> and <xref rid="table3" ref-type="table">3</xref>), which showed a mean absolute percentage error of 9.1%, RMSE of 189, and <italic>R</italic><sup>2</sup> of 0.548. Comparing it with previous studies [<xref rid="ref19" ref-type="bibr">19</xref>,<xref rid="ref28" ref-type="bibr">28</xref>], the SVR model outperformed the autoregressive model for sexually transmitted diseases and the autoregressive integrated moving average model for brucellosis in terms of mean absolute percentage error and RMSE. Overall, the SVR model showed promising results for predicting chickenpox incidence and can be further improved and compared with other models for infectious diseases in future studies.</p>
+        <p>The SVR model developed using the BDI accurately predicted the actual number of current varicella cases. Unlike previous chickenpox prediction models, the method developed in this study provided a rapid assessment of the current chickenpox epidemic without relying on actual incidence reporting data. The method allows for immediate calculation of chickenpox case prediction, which is more rapid than traditional prediction systems, allowing it to be used as a rapid method to help the public know the current chickenpox dynamics. Moreover, due to the simplicity of the method and easy access to data sources, it is likely to be applicable to most places in China. When model predictions increase, it may indicate a rise in the number of chickenpox cases, allowing for disease control and prevention&#x2013;related authorities to prepare for potential chickenpox outbreaks.</p>
+      </sec>
+      <sec>
+        <title>Limitations</title>
+        <p>This study had several limitations that deserve further discussion. First, China is a vast country with regional differences in customs and culture as well as population distribution and geographic ethnicity [<xref rid="ref29" ref-type="bibr">29</xref>]. Thus, it is not possible to predict the incidence trend in all provinces using one model. If data can be collected for each region, the prediction of chickenpox incidence trends can be tailored to different regions. Second, similar to other studies exploring the relationship between disease and the internet [<xref rid="ref23" ref-type="bibr">23</xref>], when the media reports the chickenpox epidemic, people without chickenpox may search for chickenpox out of curiosity and fear, which would lead to a surge in the number of searches. Thus, further research is needed to eliminate the influence of the media on the results. Finally, multiple regression modeling based on BDI data alone does not allow for accurate prediction of chickenpox dynamics, and the volume of disease search data does not correspond one to one with the number of reported cases. Infectious disease prediction models based solely on internet search data may also be confounded by searchers&#x2019; knowledge of the disease and local language restrictions.</p>
+        <p>Therefore, in future studies, we should also consider additional influencing factors related to chickenpox outbreaks, such as climate, economy, and vaccination status, for a comprehensive analysis to achieve accurate prediction of chickenpox incidence.</p>
+      </sec>
+      <sec>
+        <title>Conclusions</title>
+        <p>Based on the results, it is feasible to apply the BDI method to reflect the incidence of varicella. The fitted and predicted values of the SVR model were consistent with the actual incidence trend of chickenpox, indicating that the model based on the BDI can be used to reflect the actual local incidence trend of chickenpox in real time. Thus, the BDI can be used for disease surveillance. Internet search data can be used as a supplement to traditional surveillance systems to help with the early detection of potential disease outbreaks or disease epidemics.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We thank the Yunnan Province Center for Disease Control and Prevention for providing available data on chickenpox incidence.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="con">
+        <p>Authors' Contributions: ZW, QZ, and ST designed the main part of work. ZW, BJ, and LZ performed data collection and wrote the paper. ST and QZ edited and promoted the manuscript. We would like to acknowledge the efforts of CH, MW, SA, and MZ who helped complete the work of this article.</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>Conflicts of Interest: None declared.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <supplementary-material id="app1" position="float" content-type="local-data">
+        <label>Multimedia Appendix 1</label>
+        <p>Comparison charts of trends of 8 additional Baidu index keywords and actual occurrences.</p>
+        <media xlink:href="jmir_v25i1e44186_app1.docx" xlink:title="DOCX File , 937 KB" id="d95e1543" position="anchor"/>
+      </supplementary-material>
+      <supplementary-material id="app2" position="float" content-type="local-data">
+        <label>Multimedia Appendix 2</label>
+        <p>Support vector machine regression model prediction results.</p>
+        <media xlink:href="jmir_v25i1e44186_app2.docx" xlink:title="DOCX File , 15 KB" id="d95e1547" position="anchor"/>
+      </supplementary-material>
+    </app-group>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term id="abb1">BDI</term>
+          <def>
+            <p>Baidu index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb2">MAE</term>
+          <def>
+            <p>mean absolute error</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb3">RMSE</term>
+          <def>
+            <p>root mean square error</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb4">SVR</term>
+          <def>
+            <p>support vector machine regression model</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <notes>
+      <sec sec-type="data-availability">
+        <title>Data Availability</title>
+        <p>The data sets generated during and analyzed during the current study are available from the corresponding author on reasonable request.</p>
+      </sec>
+    </notes>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Somekh</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dalal</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Shohat</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ginsberg</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Romano</surname>
+              <given-names>O</given-names>
+            </name>
+          </person-group>
+          <article-title>The burden of uncomplicated cases of chickenpox in Israel</article-title>
+          <source>J Infect</source>
+          <year>2002</year>
+          <month>11</month>
+          <volume>45</volume>
+          <issue>4</issue>
+          <fpage>233</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1053/jinf.2002.1039</pub-id>
+          <pub-id pub-id-type="medline">12423610</pub-id>
+          <pub-id pub-id-type="pii">S016344530291039X</pub-id>
+          <pub-id pub-id-type="pmid">12423610</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pang</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>QH</given-names>
+            </name>
+            <name>
+              <surname>Hong</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Zha</surname>
+              <given-names>WT</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>The study on the early warning period of varicella outbreaks based on logistic differential equation model</article-title>
+          <source>Epidemiol Infect</source>
+          <year>2019</year>
+          <month>01</month>
+          <volume>147</volume>
+          <fpage>e70</fpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/30868977" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1017/S0950268818002868</pub-id>
+          <pub-id pub-id-type="medline">30868977</pub-id>
+          <pub-id pub-id-type="pii">S0950268818002868</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6518620</pub-id>-->
+          <pub-id pub-id-type="pmid">30868977</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Freer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Pistello</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Varicella-zoster virus infection: natural history, clinical manifestations, immunity and current and future vaccination strategies</article-title>
+          <source>New Microbiol</source>
+          <year>2018</year>
+          <month>04</month>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>95</fpage>
+          <lpage>105</lpage>
+          <comment>
+<ext-link xlink:href="http://www.newmicrobiologica.org/PUB/allegati_pdf/2018/2/95.pdf" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="medline">29498740</pub-id>
+          <pub-id pub-id-type="pii">496N019</pub-id>
+          <pub-id pub-id-type="pmid">29498740</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>World Health Organization</collab>
+          </person-group>
+          <article-title>Varicella and herpes zoster vaccines: WHO position paper, June 2014</article-title>
+          <source>Wkly Epidemiol Rec</source>
+          <year>2014</year>
+          <month>06</month>
+          <day>20</day>
+          <volume>89</volume>
+          <issue>25</issue>
+          <fpage>265</fpage>
+          <lpage>87</lpage>
+          <comment>
+<ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/242227/WER8925_265-287.PDF?sequence=1&amp;isAllowed=y" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="medline">24983077</pub-id>
+          <pub-id pub-id-type="pmid">24983077</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wutzler</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bonanni</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Burgess</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gershon</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>S&#xE1;fadi</surname>
+              <given-names>Marco Aur&#xE9;lio</given-names>
+            </name>
+            <name>
+              <surname>Casabona</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Varicella vaccination - the global experience</article-title>
+          <source>Expert Rev Vaccines</source>
+          <year>2017</year>
+          <month>08</month>
+          <volume>16</volume>
+          <issue>8</issue>
+          <fpage>833</fpage>
+          <lpage>843</lpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/28644696" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1080/14760584.2017.1343669</pub-id>
+          <pub-id pub-id-type="medline">28644696</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5739310</pub-id>-->
+          <pub-id pub-id-type="pmid">28644696</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Desai</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lopman</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Shimshoni</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Parashar</surname>
+              <given-names>UD</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of internet search data to monitor impact of rotavirus vaccination in the United States</article-title>
+          <source>Clin Infect Dis</source>
+          <year>2012</year>
+          <month>05</month>
+          <volume>54</volume>
+          <issue>9</issue>
+          <fpage>e115</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1093/cid/cis121</pub-id>
+          <pub-id pub-id-type="medline">22423140</pub-id>
+          <pub-id pub-id-type="pii">cis121</pub-id>
+          <pub-id pub-id-type="pmid">22423140</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of varicella outbreaks in schools in China during different vaccination periods</article-title>
+          <source>Hum Vaccin Immunother</source>
+          <year>2022</year>
+          <month>11</month>
+          <day>30</day>
+          <volume>18</volume>
+          <issue>6</issue>
+          <fpage>2114255</fpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/35993917" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1080/21645515.2022.2114255</pub-id>
+          <pub-id pub-id-type="medline">35993917</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC9746505</pub-id>-->
+          <pub-id pub-id-type="pmid">35993917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Changzeng</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Cong</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological and etiological characteristics of viral meningitis for hospitalized pediatric patients in Yunnan, China</article-title>
+          <source>Medicine (Baltimore)</source>
+          <year>2022</year>
+          <month>07</month>
+          <day>01</day>
+          <volume>101</volume>
+          <issue>26</issue>
+          <fpage>e29772</fpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/35777023" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1097/MD.0000000000029772</pub-id>
+          <pub-id pub-id-type="medline">35777023</pub-id>
+          <pub-id pub-id-type="pii">00005792-202207010-00040</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC9239644</pub-id>-->
+          <pub-id pub-id-type="pmid">35777023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Shu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Varicella breakthrough infection and effectiveness of 2-dose varicella vaccine in China</article-title>
+          <source>Vaccine</source>
+          <year>2018</year>
+          <month>09</month>
+          <day>05</day>
+          <volume>36</volume>
+          <issue>37</issue>
+          <fpage>5665</fpage>
+          <lpage>5670</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2018.05.025</pub-id>
+          <pub-id pub-id-type="medline">30104113</pub-id>
+          <pub-id pub-id-type="pii">S0264-410X(18)30632-7</pub-id>
+          <pub-id pub-id-type="pmid">30104113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Suo</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-dose varicella vaccine effectiveness in China: a meta-analysis and evidence quality assessment</article-title>
+          <source>BMC Infect Dis</source>
+          <year>2021</year>
+          <month>06</month>
+          <day>09</day>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>543</fpage>
+          <comment>
+<ext-link xlink:href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06217-1" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/s12879-021-06217-1</pub-id>
+          <pub-id pub-id-type="medline">34107891</pub-id>
+          <pub-id pub-id-type="pii">10.1186/s12879-021-06217-1</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC8188742</pub-id>-->
+          <pub-id pub-id-type="pmid">34107891</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ayers</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Westmaas</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Leas</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Benton</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Dredze</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Althouse</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title>Leveraging big data to improve health awareness campaigns: a novel evaluation of the Great American Smokeout</article-title>
+          <source>JMIR Public Health Surveill</source>
+          <year>2016</year>
+          <month>3</month>
+          <day>31</day>
+          <volume>2</volume>
+          <issue>1</issue>
+          <fpage>e16</fpage>
+          <comment>
+<ext-link xlink:href="https://publichealth.jmir.org/2016/1/e16/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/publichealth.5304</pub-id>
+          <pub-id pub-id-type="medline">27227151</pub-id>
+          <pub-id pub-id-type="pii">v2i1e16</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4869240</pub-id>-->
+          <pub-id pub-id-type="pmid">27227151</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bakker</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Bakker</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Helm</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Stevenson</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Digital epidemiology reveals global childhood disease seasonality and the effects of immunization</article-title>
+          <source>Proc Natl Acad Sci U S A</source>
+          <year>2016</year>
+          <month>06</month>
+          <day>14</day>
+          <volume>113</volume>
+          <issue>24</issue>
+          <fpage>6689</fpage>
+          <lpage>94</lpage>
+          <comment>
+<ext-link xlink:href="https://www.pnas.org/doi/abs/10.1073/pnas.1523941113?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub0pubmed" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1073/pnas.1523941113</pub-id>
+          <pub-id pub-id-type="medline">27247405</pub-id>
+          <pub-id pub-id-type="pii">1523941113</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4914188</pub-id>-->
+          <pub-id pub-id-type="pmid">27247405</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berlinberg</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Deiner</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Porco</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Acharya</surname>
+              <given-names>NR</given-names>
+            </name>
+          </person-group>
+          <article-title>Monitoring interest in herpes zoster vaccination: analysis of Google search data</article-title>
+          <source>JMIR Public Health Surveill</source>
+          <year>2018</year>
+          <month>05</month>
+          <day>02</day>
+          <volume>4</volume>
+          <issue>2</issue>
+          <fpage>e10180</fpage>
+          <comment>
+<ext-link xlink:href="https://publichealth.jmir.org/2018/2/e10180/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/10180</pub-id>
+          <pub-id pub-id-type="medline">29720364</pub-id>
+          <pub-id pub-id-type="pii">v4i2e10180</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5956160</pub-id>-->
+          <pub-id pub-id-type="pmid">29720364</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="webpage">
+          <source>Baidu index</source>
+          <date-in-citation content-type="access-date">2023-05-10</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://index.baidu.com/v2/index.html#/" ext-link-type="uri">https://index.baidu.com/v2/index.html#/</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Milinovich</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Jing</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Using Baidu search index to predict dengue outbreak in China</article-title>
+          <source>Sci Rep</source>
+          <year>2016</year>
+          <month>12</month>
+          <day>01</day>
+          <volume>6</volume>
+          <fpage>38040</fpage>
+          <pub-id pub-id-type="doi">10.1038/srep38040</pub-id>
+          <pub-id pub-id-type="doi">10.1038/srep38040</pub-id>
+          <pub-id pub-id-type="medline">27905501</pub-id>
+          <pub-id pub-id-type="pii">srep38040</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5131307</pub-id>-->
+          <pub-id pub-id-type="pmid">27905501</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newton</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiset statistics for gene set analysis</article-title>
+          <source>Annu Rev Stat Appl</source>
+          <year>2015</year>
+          <month>04</month>
+          <volume>2</volume>
+          <fpage>95</fpage>
+          <lpage>111</lpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/25914887" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1146/annurev-statistics-010814-020335</pub-id>
+          <pub-id pub-id-type="medline">25914887</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4405258</pub-id>-->
+          <pub-id pub-id-type="pmid">25914887</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yuan</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Nsoesie</surname>
+              <given-names>EO</given-names>
+            </name>
+            <name>
+              <surname>Lv</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Chunara</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Brownstein</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Monitoring influenza epidemics in china with search query from Baidu</article-title>
+          <source>PLoS One</source>
+          <year>2013</year>
+          <month>5</month>
+          <day>30</day>
+          <volume>8</volume>
+          <issue>5</issue>
+          <fpage>e64323</fpage>
+          <comment>
+<ext-link xlink:href="https://dx.plos.org/10.1371/journal.pone.0064323" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0064323</pub-id>
+          <pub-id pub-id-type="medline">23750192</pub-id>
+          <pub-id pub-id-type="pii">PONE-D-13-00331</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC3667820</pub-id>-->
+          <pub-id pub-id-type="pmid">23750192</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing cyber-user awareness of an emerging infectious disease: evidence from human infections with avian influenza A H7N9 in Zhejiang, China</article-title>
+          <source>Int J Infect Dis</source>
+          <year>2015</year>
+          <month>11</month>
+          <volume>40</volume>
+          <fpage>34</fpage>
+          <lpage>6</lpage>
+          <comment>
+<ext-link xlink:href="https://linkinghub.elsevier.com/retrieve/pii/S1201-9712(15)00227-1" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2015.09.017</pub-id>
+          <pub-id pub-id-type="medline">26432409</pub-id>
+          <pub-id pub-id-type="pii">S1201-9712(15)00227-1</pub-id>
+          <pub-id pub-id-type="pmid">26432409</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Xue</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zhen</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <article-title>Search trends and prediction of human brucellosis using Baidu index data from 2011 to 2018 in China</article-title>
+          <source>Sci Rep</source>
+          <year>2020</year>
+          <month>04</month>
+          <day>03</day>
+          <volume>10</volume>
+          <issue>1</issue>
+          <fpage>5896</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-020-62517-7</pub-id>
+          <pub-id pub-id-type="doi">10.1038/s41598-020-62517-7</pub-id>
+          <pub-id pub-id-type="medline">32246053</pub-id>
+          <pub-id pub-id-type="pii">10.1038/s41598-020-62517-7</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC7125199</pub-id>-->
+          <pub-id pub-id-type="pmid">32246053</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Tsui</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Using Baidu index to nowcast hand-foot-mouth disease in China: a meta learning approach</article-title>
+          <source>BMC Infect Dis</source>
+          <year>2018</year>
+          <month>08</month>
+          <day>13</day>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>398</fpage>
+          <comment>
+<ext-link xlink:href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3285-4" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/s12879-018-3285-4</pub-id>
+          <pub-id pub-id-type="medline">30103690</pub-id>
+          <pub-id pub-id-type="pii">10.1186/s12879-018-3285-4</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6090735</pub-id>-->
+          <pub-id pub-id-type="pmid">30103690</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yuan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>AC</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting norovirus in the United States using Google trends: infodemiology study</article-title>
+          <source>J Med Internet Res</source>
+          <year>2021</year>
+          <month>09</month>
+          <day>29</day>
+          <volume>23</volume>
+          <issue>9</issue>
+          <fpage>e24554</fpage>
+          <comment>
+<ext-link xlink:href="https://www.jmir.org/2021/9/e24554/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/24554</pub-id>
+          <pub-id pub-id-type="medline">34586079</pub-id>
+          <pub-id pub-id-type="pii">v23i9e24554</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC8515228</pub-id>-->
+          <pub-id pub-id-type="pmid">34586079</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ginsberg</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mohebbi</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Brammer</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Smolinski</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Brilliant</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Detecting influenza epidemics using search engine query data</article-title>
+          <source>Nature</source>
+          <year>2009</year>
+          <month>02</month>
+          <day>19</day>
+          <volume>457</volume>
+          <issue>7232</issue>
+          <fpage>1012</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature07634</pub-id>
+          <pub-id pub-id-type="medline">19020500</pub-id>
+          <pub-id pub-id-type="pii">nature07634</pub-id>
+          <pub-id pub-id-type="pmid">19020500</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barros</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Duggan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rebholz-Schuhmann</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>The application of internet-based sources for public health surveillance (infoveillance): systematic review</article-title>
+          <source>J Med Internet Res</source>
+          <year>2020</year>
+          <month>03</month>
+          <day>13</day>
+          <volume>22</volume>
+          <issue>3</issue>
+          <fpage>e13680</fpage>
+          <comment>
+<ext-link xlink:href="https://www.jmir.org/2020/3/e13680/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/13680</pub-id>
+          <pub-id pub-id-type="medline">32167477</pub-id>
+          <pub-id pub-id-type="pii">v22i3e13680</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC7101503</pub-id>-->
+          <pub-id pub-id-type="pmid">32167477</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fung</surname>
+              <given-names>ICH</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>Ying</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Schaible</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Tse</surname>
+              <given-names>ZTH</given-names>
+            </name>
+          </person-group>
+          <article-title>Chinese social media reaction to the MERS-CoV and avian influenza A(H7N9) outbreaks</article-title>
+          <source>Infect Dis Poverty</source>
+          <year>2013</year>
+          <month>12</month>
+          <day>20</day>
+          <volume>2</volume>
+          <issue>1</issue>
+          <fpage>31</fpage>
+          <comment>
+<ext-link xlink:href="https://idpjournal.biomedcentral.com/articles/10.1186/2049-9957-2-31" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/2049-9957-2-31</pub-id>
+          <pub-id pub-id-type="medline">24359669</pub-id>
+          <pub-id pub-id-type="pii">2049-9957-2-31</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC3878123</pub-id>-->
+          <pub-id pub-id-type="pmid">24359669</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jena</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Karaca-Mandic</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Weaver</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Seabury</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting new diagnoses of HIV infection using internet search engine data</article-title>
+          <source>Clin Infect Dis</source>
+          <year>2013</year>
+          <month>05</month>
+          <volume>56</volume>
+          <issue>9</issue>
+          <fpage>1352</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="doi">10.1093/cid/cit022</pub-id>
+          <pub-id pub-id-type="medline">23334812</pub-id>
+          <pub-id pub-id-type="pii">cit022</pub-id>
+          <pub-id pub-id-type="pmid">23334812</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gong</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Online public attention during the early days of the COVID-19 pandemic: infoveillance study based on Baidu index</article-title>
+          <source>JMIR Public Health Surveill</source>
+          <year>2020</year>
+          <month>10</month>
+          <day>22</day>
+          <volume>6</volume>
+          <issue>4</issue>
+          <fpage>e23098</fpage>
+          <comment>
+<ext-link xlink:href="https://publichealth.jmir.org/2020/4/e23098/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/23098</pub-id>
+          <pub-id pub-id-type="medline">32960177</pub-id>
+          <pub-id pub-id-type="pii">v6i4e23098</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC7584450</pub-id>-->
+          <pub-id pub-id-type="pmid">32960177</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Tong</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Baidu index and COVID-19 epidemic forecast: evidence From China</article-title>
+          <source>Front Public Health</source>
+          <year>2021</year>
+          <month>5</month>
+          <day>5</day>
+          <volume>9</volume>
+          <fpage>685141</fpage>
+          <comment>
+<ext-link xlink:href="https://europepmc.org/abstract/MED/34026721" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.3389/fpubh.2021.685141</pub-id>
+          <pub-id pub-id-type="medline">34026721</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC8131679</pub-id>-->
+          <pub-id pub-id-type="pmid">34026721</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Huang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Duan</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zou</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Using Baidu search index to monitor and predict newly diagnosed cases of HIV/AIDS, syphilis and gonorrhea in China: estimates from a vector autoregressive (VAR) model</article-title>
+          <source>BMJ Open</source>
+          <year>2020</year>
+          <month>03</month>
+          <day>24</day>
+          <volume>10</volume>
+          <issue>3</issue>
+          <fpage>e036098</fpage>
+          <comment>
+<ext-link xlink:href="https://bmjopen.bmj.com/lookup/pmidlookup?view=long&amp;pmid=32209633" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2019-036098</pub-id>
+          <pub-id pub-id-type="medline">32209633</pub-id>
+          <pub-id pub-id-type="pii">bmjopen-2019-036098</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC7202716</pub-id>-->
+        </element-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>A machine learning method to monitor China's AIDS epidemics with data from Baidu trends</article-title>
+          <source>PLoS One</source>
+          <year>2018</year>
+          <month>7</month>
+          <day>11</day>
+          <volume>13</volume>
+          <issue>7</issue>
+          <fpage>e0199697</fpage>
+          <comment>
+<ext-link xlink:href="https://dx.plos.org/10.1371/journal.pone.0199697" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0199697</pub-id>
+          <pub-id pub-id-type="medline">29995920</pub-id>
+          <pub-id pub-id-type="pii">PONE-D-17-40053</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6040727</pub-id>-->
+          <pub-id pub-id-type="pmid">29995920</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

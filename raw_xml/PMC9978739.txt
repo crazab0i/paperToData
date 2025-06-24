@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Vet. Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Veterinary Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2297-1769</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36876019</article-id>
+      <article-id pub-id-type="pmc">9978739</article-id>
+      <article-id pub-id-type="doi">10.3389/fvets.2023.1105485</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Veterinary Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Effects of concurrent administration of modified live viral vaccines with RB51 on immune responses to RB51</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Crawford</surname>
+            <given-names>Lauren</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/2022194/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Falkenberg</surname>
+            <given-names>Shollie</given-names>
+          </name>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/788292/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Putz</surname>
+            <given-names>Ellie Jordan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/422184/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Olsen</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1228927/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Boggiatto</surname>
+            <given-names>Paola M.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/780444/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>Infectious Bacterial Diseases Research Unit, National Animal Disease Center</institution>, <addr-line>Ames, IA</addr-line>, <country>United States</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>ORISE</institution>, <addr-line>Oak Ridge, TN</addr-line>, <country>United States</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>Immunobiology Graduate Program, Iowa State University</institution>, <addr-line>Ames, IA</addr-line>, <country>United States</country></aff>
+      <aff id="aff4"><sup>4</sup><institution>Department of Pathobiology, College of Veterinary Medicine, Auburn University</institution>, <addr-line>Auburn, AL</addr-line>, <country>United States</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Maria Paula Del Medico Zajac, Instituto Nacional de Tecnolog&#xED;a Agropecuaria, Argentina</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Carlos Rossetti, Instituto Nacional de Tecnolog&#xED;a Agropecuaria, Argentina; Gabriel Traveria, University of La Plata, Argentina; Luis Ernesto Samartino, Instituto Nacional de Tecnolog&#xED;a Agropecuaria, Argentina</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Paola M. Boggiatto &#x2709; <email>paola.boggiatto@usda.gov</email></corresp>
+        <fn fn-type="other" id="fn001">
+          <p>This article was submitted to Veterinary Infectious Diseases, a section of the journal Frontiers in Veterinary Science</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>2</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>10</volume>
+      <elocation-id>1105485</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Crawford, Falkenberg, Putz, Olsen and Boggiatto.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Crawford, Falkenberg, Putz, Olsen and Boggiatto</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p><italic>Brucella abortus</italic> is a gram negative, zoonotic pathogen that can cause abortions and stillbirths in the cattle industry and has contributed to significant economic losses to cow-calf producers. Cell mediated immunity (CMI) is an important component of the immune response associated with protection against <italic>Brucella abortus</italic> and other intracellular pathogens. Brucellosis and viral modified live vaccines (vMLV) are licensed individually but may be used concurrently under field conditions. Peripheral blood mononuclear cells (PBMC) from non-vaccinated cattle and cattle vaccinated with either <italic>Brucella abortus</italic> strain RB51, a vMLV or both RB51 and a vMLV vaccine were isolated. The frequency of CD4<sup>+</sup>, CD8<sup>+</sup> and &#x3B3;&#x3B4;<sup>+</sup> T cell populations within PBMC, and the frequency of interferon gamma (IFN-&#x3B3;) production within these cell types was characterized <italic>via</italic> flow-cytometry. The goal of this study was to characterize immune responses to RB51 vaccination and determine the effect of concurrent vaccine administration. Although immune responses were greatest in PBMC from cattle vaccinated with only RB51, cattle vaccinated with both RB51 and vMLV demonstrated measurable T cell responses associated with protective immunity. Data suggests a lack of significant biological differences between the groups in protective immune responses. Collectively, our data demonstrated a lack of vaccine interference following concurrent administration of vMLV and RB51. Although concurrent administration of individually licensed vaccines may influence immune responses and contribute to vaccine interference, potential vaccine combinations should be evaluated for biological effects.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>ruminant immunology</kwd>
+        <kwd>livestock vaccination</kwd>
+        <kwd>T helper 1 (IFN-&#x3B3;)</kwd>
+        <kwd>modified live vaccine (MLV)</kwd>
+        <kwd>cell mediated immunity (CMI)</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This work was supported by Intramural ARS USDA.</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="15"/>
+        <page-count count="10"/>
+        <word-count count="5345"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p><italic>Brucella abortus</italic> strain RB51 (RB51) is a modified live vaccine (MLV) heavily utilized as a tool in the control and eradication of <italic>B. abortus</italic> within the United States. <italic>B. abortus</italic> is a gram-negative intracellular bacterium, and the causative agent of bovine brucellosis. Infection of cattle with <italic>B. abortus</italic> can result in reproductive failure including abortions, weak or non-viable calves, and infertility. Although eradicated from domestic species in the United States, bovine brucellosis is endemic in both bison (<italic>Bison bison</italic>) and elk (<italic>Cervus elaphus)</italic> populations in the Greater Yellowstone area (GYA) (<xref rid="B1" ref-type="bibr">1</xref>). Vaccination of cattle with RB51 in the GYA is common practice due to the increased risk of exposure to the wildlife reservoirs.</p>
+      <p>Another common disease the cattle industry protects against is Bovine Respiratory Disease (BRD) Complex. As the name implies, this is a disease complex that comprises common viral and bacterial pathogens most often implicated in bovine respiratory disease in cattle of all ages. Major contributors to BRD include: Infectious Bovine Rhinotracheitis (IBR), Bovine Viral Diarrhea Virus (BVDV) 1 and 2, Bovine Respiratory Syncytial Virus (BRSV) and Bovine Herpes Virus (BHV-1), Bovine Parainfluenza Virus 3 (PI3), <italic>Mannheimia hemolytica, Pasturella multocida</italic>, and <italic>Mycoplasma bovis</italic>. Many commercially available vaccines contain these viral and bacterial fractions either alone or in combination.</p>
+      <p>It is common practice in the cattle industry to utilize concurrent vaccinations against numerous pathogens. At this time, concurrent vaccination is at the discretion of the individual administering the vaccine and knowledge of antigen or immune interference as it pertains to possible vaccine combinations remains unknown. Products are tested and licensed based on single use administration studies or combinations of antigens used within the respective vaccine(s) as described on the label and highlights the concern that licensing considerations may not directly correlate with vaccine utilization under field conditions (<xref rid="B2" ref-type="bibr">2</xref>).</p>
+      <p>Vaccine-vaccine interaction is a phenomenon by which vaccines that are administered concurrently or within close succession exert some level of interaction on one another. These interactions could manifest as adverse reactions, however, often time vaccine-vaccine interactions may result in decreased immunogenicity to antigens, and/or loss of vaccine efficacy and protection from infection (<xref rid="B3" ref-type="bibr">3</xref>). One potential outcome is a failure of immune stimulation on the basis of the minimum threshold required to elicit an immune response needed for protection. The effects of vaccine-vaccine interactions could be measured in a variety of ways including, magnitude of antibody responses to antigens of interest, efficacy of protective responses to protect against disease challenge, or alteration in immune cell populations or function (<xref rid="B4" ref-type="bibr">4</xref>, <xref rid="B5" ref-type="bibr">5</xref>).</p>
+      <p>Given the common practice of vaccine co-administration in cattle, we sought to evaluate the effects of co-administration of RB51 and a commercially-available viral modified live vaccine (vMLV) on bovine immune responses to RB51. RB51 vaccination induces antibody titers and a T helper 1 (T<sub>H</sub>1) cell mediated immune response, characterized by production of interferon-gamma (IFN-&#x3B3;), primarily from CD4<sup>+</sup> T cells (<xref rid="B6" ref-type="bibr">6</xref>). Therefore, in order to determine if RB51-viral MLV co-administration resulted in alterations to the RB51 specific host immune response, we evaluated both RB51-specific humoral and cellular immune responses.</p>
+    </sec>
+    <sec sec-type="materials and methods" id="s2">
+      <title>Materials and methods</title>
+      <sec>
+        <title>Animal vaccination</title>
+        <p>Hereford cross heifers, 4&#x2013;6 months of age, were housed outdoors on the National Animal Disease Center (NADC) campus in Ames, IA. On arrival, animals were dewormed with Ivermectin pour-on and treated with Draxxin prophylactically. Following a 6-week acclimation period, heifers were randomly assigned to one of 4 treatment groups. Control animals (<italic>n</italic> = 6) were injected intramuscularly (IM) with 2mL of culture grade, Dulbecco's phosphate buffered saline (PBS) (Gibco, Life Technologies Limited, UK). Single RB51 vaccinates (<italic>n</italic> = 6) were immunized IM with 2.5 mL, 3 &#xD7; 10<sup>10</sup> colony forming units (CFU) of <italic>Brucella abortus</italic> strain RB51 vaccine (lot number: 3,330; Colorado Serum Company, Denver, CO). The single vMLV (Bovishield Gold 5) vaccinates (<italic>n</italic> = 6) were vaccinated <italic>via</italic> the subcutaneous (SQ) route with 2mL vMLV vaccine containing; infectious bovine rhinotracheitis (IBR), bovine virus diarrhea (BVD) virus Types 1 and 2, parainfluenza<sub>3</sub> (PI<sub>3</sub>) virus and bovine respiratory syncytial virus (BRSV) (lot number: 424298); Bovishield Gold 5, Zoetis, Kalamazoo, MI). The combo vaccinate group (<italic>n</italic> = 6) was vaccinated with both RB51 and vMLV as described above. All injections were administered in the right cervical region. All work involving animals was conducted with the approval of the NADC animal care and use committee.</p>
+      </sec>
+      <sec>
+        <title>Isolation of peripheral blood mononuclear Cells (PBMCs)</title>
+        <p>In order to assess peripheral immune responses, blood samples were collected at zero, eight, twelve- and eighteen-weeks post-vaccination. Thirty mL of whole blood were collected <italic>via</italic> venipuncture of the jugular vein and placed into a conical tube containing 3 mL of 2x acid citrate dextrose (ACD) to prevent coagulation. PBMCs were then isolated as described previously (<xref rid="B7" ref-type="bibr">7</xref>). PBMC were counted utilizing the Muse<sup>&#xAE;</sup> Count and Viability Kit (Luminex) on the MUSE<sup>&#xAE;</sup> detection system (Luminex). Live cell numbers were used to adjust cell suspensions to a concentration of 1 &#xD7; 10<sup>7</sup> cells per mL of complete RPMI 1640 (cRPMI) (Gibco Life Tech, Thermo Fisher Scientific) media consisting of 20% heat-inactivated fetal bovine serum (FBS) (HyClone&#x2122; Cytiva, Marlborough, MA), 100 U/ml penicillin, 100 &#x3BC;g/ml streptomycin, 2 nM glutamine, 1% sodium pyruvate, 1% non-essential amino acids, 1% essential amino acids (Sigma Life Science, St. Louis, MO), 50 &#x3BC;M 2-beta mercaptoethanol (Sigma Aldrich), and 1% HEPES buffer (Gibco Life Tech, Thermo Fisher Scientific).</p>
+      </sec>
+      <sec>
+        <title>PBMC labeling for proliferation assay</title>
+        <p>To track proliferation in response to antigen stimulation, PBMCs were labeled using the Cell Trace<sup>&#xAE;</sup> Violet (CTV) proliferation kit (Invitrogen, Eugene, OR) as described in (<xref rid="B1" ref-type="bibr">1</xref>) with minor modifications. Briefly, CTV dye was reconstituted as recommend by the manufacturer with 20&#x3BC;l of provided DMSO, resuspended in 780 &#x3BC;l of DPBS and then diluted 1:10 in DPBS. A suspension of 1.5 &#xD7; 107 cells in 1 ml of DPBS were then treated with 150 &#x3BC;l of the 1:10 CTV dye stock, for a final CTV dilution of 1:66. Cells were incubated at room temperature for 20 min. Cells were then washed, centrifuged, and resuspended in 1.5mL of cRPMI media.</p>
+      </sec>
+      <sec>
+        <title><italic>In vitro</italic> RB51 recall response assay</title>
+        <p>In order to evaluate RB51-specific cell mediated-responses, 1 &#xD7; 10<sup>6</sup> CTV-labeled PBMC were plated onto flat bottom 96-well plates in 100&#x3BC;l, in duplicate wells. Cells were then left in media alone, stimulated with irradiated RB51 (1 &#xD7; 10<sup>7</sup> CFU/well) or Concanavalin A (0.5 ug/well), and incubated at 37&#xB0;C with 5% CO<sub>2</sub> for 7 days. To assess intracellular cytokine production, on day 6 (16 h prior to harvest on day 7), PBMCs were treated with a 1x solution of Cell Protein Transport inhibitor (Brefeldin A) (eBioscience) and returned to the incubator for an additional 16 h. To assess cytokine production from re-stimulated cells as described previously (<xref rid="B7" ref-type="bibr">7</xref>), on day 6 (16 h prior to harvest on day 7), some wells were treated with 1x solution of eBioscience Cell Stimulation Cocktail plus Protein Transport Inhibitor cocktail (PMA ionomycin/BrefeldinA) and then returned to the incubator for 16 h prior to harvest.</p>
+      </sec>
+      <sec>
+        <title>Surface and intracellular marker staining</title>
+        <p>PBMC were harvested and prepared for surface and intracellular cytokine staining as described previously (<xref rid="B7" ref-type="bibr">7</xref>). Briefly, PMBC were centrifuged for 5 min at 300x g at room temperature (RT), washed once in DPBS, and treated with a fixable viability dye (Invitrogen). Cells were then washed once in DPBS, once in FACS buffer (PBS with 0.5% FBS), and then stained for &#x3B3;&#x3B4; T cell receptor (clone GB21A; isotype IgG2b, Washington State University; and BUV395 anti-mouse IgG2b, clone R2-40, BD Bioscience), CD4 (FITC-labeled anti-bovine CD4, clone CC8, BioRad) and CD8 (APC-labeled anti-bovine CD8 clone CC63, BioRad). Cells were washed in FACS and then fixed and permeabilized using the BD Cytofix/Cytoperm&#x2122; kit (BD Pharmingen), according to manufacturer's recommendations. Intracellular staining for IFN-&#x3B3; was carried out using a PE-labeled anti-bovine IFN-&#x3B3; antibody (clone CC302, BioRad). Cells were washed once and then resuspended in 200&#x3BC;l of FACS buffer. Data was acquired using a BD FACSymphony A5 flow cytometer (BD Bioscience). Data was analyzed using FlowJo software (Tree Star, Inc.).</p>
+      </sec>
+      <sec>
+        <title>RB51-specific IgG enzyme-linked immunoassay (ELISA)</title>
+        <p>Blood was collected into serum separator tubes and serum was obtained by centrifugation at 800x g for 30 min. Serum was stored at &#x2212;20&#xB0;C until analysis. Enzyme linked immunosorbent assay (ELISA) was utilized for evaluation of RB51 specific IgG responses as described previously (<xref rid="B8" ref-type="bibr">8</xref>), with some modifications. Briefly, 96-flat bottom plates were coated with 1 &#xD7; 108 CFU of methanol-killed RB51 diluted in coating buffer (carbonate-bicarbonate buffer, pH 9.6) and incubated at 4&#xB0;C overnight. Superblock (ThermoFisher) was used in accordance with manufacturer's recommendations to block the wells. Plate was washed 3 times with wash buffer (PBS with 0.05% Tween 20) and serum samples were added in quadruplicate to wells at dilutions of 1:800, 1:1,600, and 1:3,200 and incubated at RT for 2 h. Plates were washed and then incubated with peroxidase-conjugated rabbit anti-bovine IgG (Jackson Immunoresearch Laboratories, West Grove, PA; 1:25,000) at RT for 1 h. Plates were washed and were developed using the TMB Microwell Peroxidase Substrate System (ThermoFisher) in accordance with manufacturer's recommendations. The reaction was stopped with 0.18 M solution of sulfuric acid and absorbance was measured at 450 nm using a plate reader.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>CD4<sup>+</sup>, CD8<sup>+</sup>, and &#x3B3;&#x3B4;<sup>+</sup> T cell subsets were evaluated independently in R (version 3.6.1). T cell subsets, functional cell phenotypes (cells producing interferon gamma, cells that were only proliferating, and cells that were proliferating and producing interferon gamma), and surface stain data were analyzed with a linear regression (lm) model fitting vaccination status (treatment of RB51, vMLV, Combo, or Control) as a fixed effect. Pairwise comparisons of Least Square means (LSmeans) were utilized to determine significant differences between specific contrasts of interest. For titer data, a simple lm model was utilized fitting timepoint and vaccination status as fixed effect along with a timepoint &#xD7; vaccination status interaction. For all, significance was determined when <italic>P</italic>-value &#x2264; 0.05. Error bars represent standard errors. Plots were made in R using the ggplot2 package.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>RB51-specific IgG responses</title>
+        <p>Prior to vaccination, no differences were observed between treatment groups. At 8-, 12-, and 18-weeks post vaccination both RB51 and the Combo treatments had greater (<italic>P</italic> &lt; 0.05) mean antibody responses to RB51 as compared to animals in control or vMLV treatments (<xref rid="F1" ref-type="fig">Figure 1</xref>). Humoral responses of RB51 and Combo treatments did not differ (<italic>P</italic> &gt; 0.05) at any sampling time. In a similar manner, mean antibody responses of control and vMLV treatments did not differ (<italic>P</italic> &gt; 0.05) at any sampling time.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Assessment of RB51-specific IgG titers in serum from control (gray), vMLV (blue), RB51-vMLV combo (orange), and RB51 (black) vaccinated animals pre- and post-vaccination, at the indicated time points. Line graph representing change in average OD values prior to vaccination over time across treatment groups. (*) indicates a <italic>p-</italic>value &#x2264; 0.05. Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Evaluation of circulating T cell subsets following vaccination</title>
+        <p>Previous data has demonstrated that peak proliferative responses by PBMC to RB51 antigen in cattle are typically observed beginning at approximately 12 weeks post vaccination with responses sustained through 24 weeks (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>). When assessed by flow cytometric techniques, circulating frequencies of CD4<sup>+</sup> (<xref rid="F2" ref-type="fig">Figure 2B</xref>), CD8<sup>+</sup> (<xref rid="F2" ref-type="fig">Figure 2C</xref>) and &#x3B3;&#x3B4;<sup>+</sup> (<xref rid="F2" ref-type="fig">Figure 2D</xref>) T cell populations within PBMC before and at 18 weeks after vaccination (<xref rid="F2" ref-type="fig">Figure 2</xref>) did not demonstrate significant differences across treatments or sampling times (<italic>P</italic> &gt; 0.05). These data suggest that none of the vaccines used in this study resulted in overt changes to the overall frequency of circulating CD4<sup>+</sup>, CD8<sup>+</sup> and &#x3B3;&#x3B4;<sup>+</sup> T cells before and at 18 weeks post vaccination.</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Frequency of T cell populations within PBMC preps. <bold>(A)</bold> Gating Strategy for flow cytometry analysis. Shown are representative dot plots showing the gating strategy of lymphocytes, single cells, live/dead determination, CD3 and CD4, CD8 and &#x3B3;&#x3B4; T cell subsets. Average frequency of <bold>(B)</bold> CD4+, <bold>(C)</bold> CD8+ and <bold>(D)</bold> &#x3B3;&#x3B4;+ T cells were assessed pre- and 18-weeks post-vaccination in control (gray), viral Modified Live Vaccine (vMLV) vaccinates (blue), combo (RB51 and vMLV) vaccinates (orange), and RB51 single vaccinates (black). Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Evaluation of RB51-specific cell mediated responses</title>
+        <p>Next, we evaluated the functional phenotype of the RB51-specific cellular response by concurrently assessing proliferation and IFN-&#x3B3; production in response to <italic>in vitro</italic> RB51 antigen stimulation. Gating strategy for flow cytometry analysis is shown in <xref rid="F3" ref-type="fig">Figure 3</xref>.</p>
+        <fig position="float" id="F3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Gating Strategy for flow cytometry analysis. Shown are representative dot plots showing the gating strategy of lymphocytes, single cells, live/dead determination, T-cell subset of interest (CD4 is example here) and proliferation by IFN-&#x3B3;. Bottom left panel represents RB51 stimulation and bottom right panel represents RB51 plus PMA/ionomycin stimulation. Quadrant 1 (Q1) indicates CD4+ T cells that are both proliferating and producing IFN-&#x3B3; (gray square) in response to antigen stimulation. Q4 indicates CD4+ T cells that are only proliferating (blue square) in response to antigen stimulation. Q1 and Q4 represent total proliferating CD4+ T cells (orange square).</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0003" position="float"/>
+        </fig>
+        <p>We first analyzed the total proliferative response (Q1 + Q4) of CD4<sup>+</sup> T cells (<xref rid="F4" ref-type="fig">Figure 4A</xref>), in both RB51 and Combo vaccinates, and observed an increase in the total number of proliferating CD4<sup>+</sup> T cells as compared to control animals at 18 weeks post-vaccination (<xref rid="F4" ref-type="fig">Figure 4B</xref>). However, only the RB51 vaccinate group was significantly (<italic>P</italic> &#x2264; 0.05) different from control animals (582.3 &#xB1; 186 vs. 38.7 &#xB1; 186, respectively). And while the number of total proliferating CD4<sup>+</sup> T cells is increased in Combo vaccinates as compared to control animals, these differences are not statistically significant (<italic>P</italic> = 0.33). Additionally, no statistical differences were observed between the RB51 and Combo vaccinate groups. As expected, RB51-specific responses in vMLV vaccinates was similar to that of control group animals.</p>
+        <fig position="float" id="F4">
+          <label>Figure 4</label>
+          <caption>
+            <p>Average number proliferating T cells following <italic>in vitro</italic> RB51 antigen stimulation of PBMCs. <bold>(A)</bold> Representative dot plot for proliferation vs. IFN-&#x3B3; for cells gated on CD4+ T cells. Orange box denotes population of interest. Shown are average cell counts for <bold>(B)</bold> CD4+, <bold>(C)</bold> CD8+ and <bold>(D)</bold> &#x3B3;&#x3B4;+ T cells that proliferate in response to RB51 antigen stimulation at 18 weeks post-vaccination. (*) indicates a <italic>p-</italic>value &#x2264; 0.05. Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0004" position="float"/>
+        </fig>
+        <p>When compared to control animals, a similar trend of an increased RB51-specific proliferative response was observed for the RB51 vaccinate group for CD8<sup>+</sup> (<xref rid="F4" ref-type="fig">Figure 4C</xref>) and &#x3B3;&#x3B4;<sup>+</sup> (<xref rid="F4" ref-type="fig">Figure 4D</xref>) T cell responses. (<italic>P</italic> = 0.06 and 0.06, respectively).</p>
+        <p>We then analyzed the population of CD4<sup>+</sup> T cells that were only proliferating to antigen stimulation (<xref rid="F5" ref-type="fig">Figure 5A</xref>, Q4). RB51 and Combo vaccinate groups had an increased number of proliferating-only CD4<sup>+</sup> T cells at 18 weeks post-vaccination, when compared to control animals (<xref rid="F5" ref-type="fig">Figure 5B</xref>). However, a statistically significant (<italic>P</italic> &#x2264; 0.05) increase in the number of proliferating-only CD4<sup>+</sup> T was only observed between RB51 vaccinates and controls (855.6 &#xB1; 418.2 vs. 3.8 &#xB1; 418.2, respectively). While the number of proliferating-only CD4<sup>+</sup> T cells was increased in Combo vaccinates as compared to control animals, these differences were not statistically significant (<italic>P</italic> = 0.22). No statistical differences were observed between the RB51 vaccinate and Combo groups or the control group and vMLV. Again, we observed similar trends of an increased response from control animals for the RB51 vaccinate groups for RB51-specific CD8<sup>+</sup> (<xref rid="F5" ref-type="fig">Figure 5C</xref>) and &#x3B3;&#x3B4;<sup>+</sup> (<xref rid="F5" ref-type="fig">Figure 5D</xref>) T cell responses. (<italic>P</italic> = 0.07 and 0.08, respectively).</p>
+        <fig position="float" id="F5">
+          <label>Figure 5</label>
+          <caption>
+            <p>Average number of proliferating-only T cells in response to <italic>in vitro</italic> RB51 antigen stimulation. <bold>(A)</bold> Representative dot plot for proliferation vs. IFN-&#x3B3;. Blue box denotes the population of interest. Average cell counts for <bold>(B)</bold> CD4+, <bold>(C)</bold> CD8+ and <bold>(D)</bold> &#x3B3;&#x3B4;+ T cells that only proliferate in response to RB51 antigen stimulation at 18 weeks post vaccination. (*) indicates a <italic>p-</italic>value &#x2264; 0.05. Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0005" position="float"/>
+        </fig>
+        <p>We then assessed the number of proliferating and IFN-&#x3B3;-producing T cells (<xref rid="F6" ref-type="fig">Figure 6A</xref>, Q1). As observed with the total proliferative response, at 18 weeks post-vaccination, we observed an increase in the number of proliferating and IFN-&#x3B3;-producing CD4<sup>+</sup> T cells in both Combo and RB51 vaccinate groups as compared to control animals (<xref rid="F6" ref-type="fig">Figure 6B</xref>). However, these differences were not statistically significant (<italic>P</italic> = 0.44 and 0.06, respectively). Again, no statistical differences were appreciated between the control group and the vMLV group.</p>
+        <fig position="float" id="F6">
+          <label>Figure 6</label>
+          <caption>
+            <p>Average number of proliferating and IFN-&#x3B3; producing T cells in response to <italic>in vitro</italic> RB51 antigen stimulation. <bold>(A)</bold> Representative dot plot for proliferation vs. IFN-&#x3B3; for cells gated on CD4+ T cells. Gray square denotes the population of interest. Average cell counts for <bold>(B)</bold> CD4+, <bold>(C)</bold> CD8+ and <bold>(D)</bold> &#x3B3;&#x3B4;+ T cell that both proliferate and produce IFN-&#x3B3; in response to RB51 stimulation at 18 weeks post vaccination. (*) indicates a <italic>p-</italic>value &#x2264; 0.05. Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0006" position="float"/>
+        </fig>
+        <p>As noted above, when compared to control animals, we observed similar and significant increased response for the RB51-specific CD8<sup>+</sup> (<xref rid="F6" ref-type="fig">Figure 6C</xref>) and &#x3B3;&#x3B4;<sup>+</sup> (<xref rid="F6" ref-type="fig">Figure 6D</xref>) T cell responses (<italic>P</italic> = 0.04 and 0.03, respectively).</p>
+        <p>Collectively, these data demonstrate that while co-administration of RB51 and vMLV results in a slight decrease in RB51-specific proliferative and IFN-&#x3B3; responses as compared to RB51 administration alone, this decrease is not statistically significant.</p>
+      </sec>
+      <sec>
+        <title>Antigenic expansion and re-stimulation of RB51-specific cells</title>
+        <p>Previous data has shown that restimulation using a pan-T cell stimulator following antigenic expansion of T cells, can lead to an enhanced detection of RB51-specific, IFN-&#x3B3;-producing T cells (<xref rid="B7" ref-type="bibr">7</xref>). In order to better assess the IFN-&#x3B3; production potential of RB51-specific cells in this study, we stimulated PBMCs from all experimental groups with RB51 to allow for expansion, then restimulated with PMA/Ionomycin, and subsequently assessed proliferation and IFN-&#x3B3; production concurrently. As expected, following restimulation, an increase in the number of proliferating and IFN-&#x3B3;-producing CD4<sup>+</sup> T cells (Q1) (<xref rid="F7" ref-type="fig">Figure 7A</xref>) was observed in the RB51 and Combo vaccinate groups as compared to control animals (<xref rid="F7" ref-type="fig">Figure 7B</xref>). Similar to the data obtained from PBMCs stimulated with RB51 antigen only, statistically significant (<italic>P</italic> &#x2264; 0.01) differences were only appreciated between RB51 vaccinates and control animals (1856.7 &#xB1; 466 vs. 34.3 &#xB1; 466, respectively). No statistical differences were observed between the RB51 vaccinate and Combo vaccinate groups, the Combo and control animals, nor the vMLV single vaccinates and control vaccinates. Following restimulation, we also observed a significant (<italic>P</italic> &#x2264; 0.03) increase in the number of proliferating and IFN-&#x3B3;-producing CD8<sup>+</sup> (<xref rid="F7" ref-type="fig">Figure 7C</xref>) and &#x3B3;&#x3B4;<sup>+</sup> (<xref rid="F7" ref-type="fig">Figure 7D</xref>) T cells in both vaccinate groups from control animals, albeit at a much lower level when compared to the CD4<sup>+</sup> T cells.</p>
+        <fig position="float" id="F7">
+          <label>Figure 7</label>
+          <caption>
+            <p>Average number of proliferating and IFN-&#x3B3; producing T cells in response to <italic>in vitro</italic> RB51 stimulation and PMA/Ionomycin re-stimulation. <bold>(A)</bold> Representative dot plot of proliferation vs. IFN-&#x3B3; for cells gated on CD4+ T cells. Gray square denotes population of interest. Average number of <bold>(B)</bold> CD4+, <bold>(C)</bold> CD8+ and <bold>(D)</bold> &#x3B3;&#x3B4;+ T cells that proliferate and produce IFN-&#x3B3; in response to RB51 stimulation and PMA/Ionomycin re-stimulation at 18 weeks post vaccination. (*) indicates a <italic>p-</italic>value &#x2264; 0.05. Error bars represent standard errors.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1105485-g0007" position="float"/>
+        </fig>
+        <p>Collectively, these data would suggest that RB51-specific T cells from both vaccinate groups have the potential to respond to restimulation by producing IFN-&#x3B3;. However, there does appear to be a slightly diminished response when concurrent MLV vaccination is utilized over single vaccination with RB51.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s4">
+      <title>Discussion</title>
+      <p>Clearance of <italic>B. abortus</italic> in cattle is associated with a T<sub>H</sub>1 cell mediated immune (CMI) response characterized by proliferating and IFN-&#x3B3;-producing CD4<sup>+</sup> T cells (<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B9" ref-type="bibr">9</xref>). And while not associated with protection, vaccination of cattle with RB51 does result in measurable RB51-specific antibody titers (<xref rid="B6" ref-type="bibr">6</xref>). Thus, our efforts to assess vaccine-vaccine interactions focused on evaluation of both the humoral and CMI, particularly the CD4<sup>+</sup> T cell response, to assess the response to single RB51 and RB51-vMLV co-vaccination.</p>
+      <p>In the data presented here, co-administration of RB51 and vMLV had no effect on the dynamics nor the magnitude of the RB51-specific antibody response when compared to single RB51 vaccinates (<xref rid="F1" ref-type="fig">Figure 1</xref>). These findings would suggest that signals and antigen required for the production of antibodies against RB51 are not altered or hindered by concurrent vaccination. However, when we evaluated CMI responses, we did observe a slight decrease in the number of proliferating and IFN-&#x3B3;-producing CD4<sup>+</sup>, CD8<sup>+</sup> and &#x3B3;&#x3B4;<sup>+</sup> T cells following RB51-vMLV co-administration, as compared to RB51 single vaccinates (<xref rid="F4" ref-type="fig">Figures 4</xref>&#x2013;<xref rid="F6" ref-type="fig">6</xref>). Furthermore, when RB51 antigenically-expanded cells are restimulated to enhance IFN-&#x3B3; production, a decreased number of IFN-&#x3B3;-producing T cells was observed in RB51-vMLV co-vaccinates (<xref rid="F7" ref-type="fig">Figure 7</xref>). These differences between vaccinate groups are not statistically significant, but they do raise the question of whether this decrease could be sufficient to have a biological significance. When compared to RB51 single vaccinates, RB51-vMLV co-vaccinates have a two-fold decrease in their proliferative and IFN-&#x3B3; responses. Yet, when compared to control, these co-vaccinated animals have, at a minimum, a 10-fold increase in counts of proliferating T cells (<xref rid="F4" ref-type="fig">Figures 4</xref>, <xref rid="F5" ref-type="fig">5</xref>), and over a 30-fold increase in IFN-&#x3B3; producing T-cells (<xref rid="F6" ref-type="fig">Figure 6</xref>). In the absence of a CMI threshold for protection (<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>), we cannot determine if the response observed in the RB51-vMLV co-vaccinates correlates with reduced protection. One way to answer this question would be to perform an expensive <italic>B. abortus</italic> challenge study and evaluate the efficacy of RB51 and RB51-vMLV co-vaccination in providing protection against abortion and infection rates. Nevertheless, both RB51 single and RB51-vMLV co-vaccinates seem to develop similar RB51-specific CMI and humoral responses.</p>
+      <p>The findings presented here are also of interest as vaccination and disease in the field do not occur in isolation, and many factors can influence the immune status of an animal. This is particularly important when considering vaccination against pathogens such as <italic>Brucella</italic> species that require production of long-term cellular immunity and need to overcome pathogen stealth tactics in order to induce appropriate and effective immune responses (<xref rid="B12" ref-type="bibr">12</xref>). It is possible that even small alterations to the CMI response could have a biological significance, specifically related to efficacy and protection against challenge. The observed decrease, albeit slight, in T cell proliferative and IFN-&#x3B3; responses in animals vaccinated with both RB51-vMLV as compared to RB51 alone raises the question as to the mechanism of action driving this response. The recommended dose of RB51 is 1 &#x2013; 3.4 &#xD7; 10<sup>10</sup> colony forming units (CFU) for calves and a decreased dose of 1 &#xD7; 10<sup>9</sup> CFU is approved for use in adult cattle. Doses below this threshold are known to fail to promote CMI proliferative responses and decreased vaccine efficacy (<xref rid="B6" ref-type="bibr">6</xref>). Administration of RB51 does not result in an overt innate inflammatory response, due to the stealthy nature of <italic>Brucella</italic> species (<xref rid="B12" ref-type="bibr">12</xref>). Viral MLVs, however, have the unique capability to undergo limited replication within the host in order to elicit a more robust inflammatory response (<xref rid="B13" ref-type="bibr">13</xref>). This inflammatory response can be driven by vaccine components as well as the innate anti-viral response. We speculate that this early inflammatory response, as a result of the vMLV components, could result in indirect killing of RB51 and therefore, a more rapid clearance of live bacteria. This phenomenon may partially explain the decreased CMI response observed in this study. Since the humoral immune response is not dependent on live organisms to be induced (<xref rid="B14" ref-type="bibr">14</xref>), indirect killing of RB51 due to vMLV-mediated inflammation, would not affect RB51 titers. This would be consistent with the findings presented here, which show that the RB51-specific humoral immune response is not affected by co-administration of RB51 and a vMLV.</p>
+      <p>Multivalent vaccines use in combination with other vaccines or therapies is heavily utilized within the cattle industry. However, the testing, evaluation, and research on vaccine-vaccine interactions within food producing animals is limited, especially as it pertains to cellular parameters such as T-cell numbers and effector functions. This is due in part to limited options for measuring CMI parameters in a diagnostic setting (<xref rid="B15" ref-type="bibr">15</xref>). As awareness and concern have grown regarding vaccine-vaccine interactions, producers and veterinarians are interested in exploring how the currently used vaccine regimens used in their production systems may be impacting the overall immune response of their animals. Given the importance of RB51 vaccination in regulatory programs and differences in immune responses between viral and intracellular bacterial vaccines, we think the combination evaluated in the current study offered an intriguing combination for evaluation of possible vaccine-vaccine interactions on immune responses.</p>
+      <p>In conclusion, the work presented here demonstrates that while RB51-specific humoral response do not appear to be affected by co-administration with a viral modified live vaccine, there is a slight reduction in RB51-specific cellular immune responses. At this time, we cannot determine whether this slight reduction in the proliferative and IFN-&#x3B3; responses are associated with decreased vaccine efficacy against <italic>B. abortus</italic> infection. Future studies to assess protection would need to be performed. Altogether, these data show that co-administration of RB51 with a vMLV does not result in a significant impact to RB51-specific peripheral immune responses.</p>
+    </sec>
+    <sec sec-type="data-availability" id="s5">
+      <title>Data availability statement</title>
+      <p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p>
+    </sec>
+    <sec sec-type="ethics-statement" id="s6">
+      <title>Ethics statement</title>
+      <p>The animal study was reviewed and approved by USDA Animal Care and Use Committee.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="s7">
+      <title>Author contributions</title>
+      <p>LC conducted primary research, analysis, and manuscript writing. PB and SF contributed to project design, manuscript writing, and edits. SO contributed funding and manuscript editing. EP contributed statistical analysis, figure production, and manuscript editing. All authors contributed to the article and approved the submitted version.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank Jacob Fritz, Kolby Stallman, Derek Vermeer, Johnathan Gardner, Tiffany Williams, and the Animal Resource Unit (ARU) at NADC for their assistance with animal husbandry, facility support, and sample collection. We thank Lilia Walther and Darl Pringle for their technical support, and Sam Humphrey for his exemplary assistance with flow cytometry, sample collection, and analysis.</p>
+    </ack>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s9">
+      <title>Publisher's note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olsen</surname><given-names>SC</given-names></name><name><surname>Palmer</surname><given-names>MV</given-names></name></person-group>. <article-title>Advancement of knowledge of Brucella over the past 50 years</article-title>. <source>Vet Pathol</source>. (<year>2014</year>) <volume>51</volume>:<fpage>1076</fpage>&#x2013;<lpage>89</lpage>. <pub-id pub-id-type="doi">10.1177/0300985814540545</pub-id><pub-id pub-id-type="pmid">24981716</pub-id></mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wilson</surname><given-names>R</given-names></name><name><surname>Holladay</surname><given-names>J</given-names></name><name><surname>Cave</surname><given-names>J</given-names></name></person-group>. <source>A neurologic syndrome associated with use of a canine coronavirus-parvovirus vaccine in dogs The Compendium on continuing education for the practicing veterinarian (USA)</source> (<year>1986</year>).</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vidor</surname><given-names>E</given-names></name></person-group>. <article-title>The nature and consequences of intra- and inter-vaccine interference</article-title>. <source>J Comp Pathol.</source> (<year>2007</year>) <volume>137</volume>:<fpage>S62</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcpa.2007.04.014</pub-id><pub-id pub-id-type="pmid">17560593</pub-id></mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fischer</surname><given-names>G</given-names></name><name><surname>Cleff</surname><given-names>MB</given-names></name><name><surname>Dummer</surname><given-names>LA</given-names></name><name><surname>Paulino</surname><given-names>N</given-names></name><name><surname>Paulino</surname><given-names>AS</given-names></name><name><surname>Vilela</surname><given-names>Cd</given-names></name><etal/></person-group>. <article-title>Adjuvant effect of green propolis on humoral immune response of bovines immunized with bovine herpesvirus type 5</article-title>. <source>Vet Immunol Immunopathol</source>. (<year>2007</year>) <volume>116</volume>:<fpage>79</fpage>&#x2013;<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1016/j.vetimm.2007.01.003</pub-id><pub-id pub-id-type="pmid">17275918</pub-id></mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Itell</surname><given-names>HL</given-names></name><name><surname>McGuire</surname><given-names>EP</given-names></name><name><surname>Muresan</surname><given-names>P</given-names></name><name><surname>Cunningham</surname><given-names>CK</given-names></name><name><surname>McFarland</surname><given-names>EJ</given-names></name><name><surname>Borkowsky</surname><given-names>W</given-names></name><etal/></person-group>. <article-title>Development and application of a multiplex assay for the simultaneous measurement of antibody responses elicited by common childhood vaccines</article-title>. <source>Vaccine.</source> (<year>2018</year>) <volume>36</volume>:<fpage>5600</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.vaccine.2018.07.048</pub-id><pub-id pub-id-type="pmid">30087048</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olsen</surname><given-names>SC</given-names></name></person-group>. <article-title>Recent developments in livestock and wildlife brucellosis vaccination</article-title>. <source>Rev Sci Tech.</source> (<year>2013</year>) <volume>32</volume>:<fpage>207</fpage>&#x2013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.20506/rst.32.1.2201</pub-id><pub-id pub-id-type="pmid">23837378</pub-id></mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boggiatto</surname><given-names>PM</given-names></name><name><surname>SchautRG</surname></name><name><surname>Olsen</surname></name></person-group>. <article-title>SC Enhancing the detection of brucella-specific CD4(+) T cell responses in cattle <italic>via in vitro</italic> antigenic expansion and restimulation</article-title>. <source>Front Immunol</source>. (<year>2020</year>) <volume>11</volume>:<fpage>1944</fpage>. <pub-id pub-id-type="doi">10.3389/fimmu.2020.01944</pub-id><pub-id pub-id-type="pmid">32983124</pub-id></mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olsen</surname><given-names>SC</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name><name><surname>Schurig</surname><given-names>GG</given-names></name><name><surname>Sriranganathan</surname><given-names>NN</given-names></name></person-group>. <article-title>Immune responses and protection against experimental challenge after vaccination of bison with Brucella abortus strain RB51 or RB51 overexpressing superoxide dismutase and glycosyltransferase genes</article-title>. <source>Clin Vaccine Immunol.</source> (<year>2009</year>) <volume>16</volume>:<fpage>535</fpage>&#x2013;<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1128/CVI.00419-08</pub-id><pub-id pub-id-type="pmid">19176693</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ridpath</surname><given-names>JF</given-names></name></person-group>. <article-title>Immunology of BVDV vaccines</article-title>. <source>Biologicals.</source> (<year>2013</year>) <volume>41</volume>:<fpage>14</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.biologicals.2012.07.003</pub-id><pub-id pub-id-type="pmid">22883306</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Oliveira</surname><given-names>MM</given-names></name><name><surname>Pereira</surname><given-names>CR</given-names></name><name><surname>de Oliveira</surname><given-names>IRC</given-names></name><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Lage</surname><given-names>AP</given-names></name><name><surname>Dorneles</surname><given-names>EMS</given-names></name></person-group>. <article-title>Efficacy of Brucella abortus S19 and RB51 vaccine strains: A systematic review and meta-analysis</article-title>. <source>Transbound Emerg Dis.</source> (<year>2022</year>) <volume>69</volume>:<fpage>e32</fpage>&#x2013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1111/tbed.14259</pub-id><pub-id pub-id-type="pmid">34328699</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>L</given-names></name><name><surname>Krieg</surname><given-names>AM</given-names></name><name><surname>Eller</surname><given-names>N</given-names></name><name><surname>Scott</surname><given-names>DE</given-names></name></person-group>. <article-title>Induction and regulation of Th1-inducing cytokines by bacterial DNA, lipopolysaccharide, and heat-inactivated bacteria</article-title>. <source>Infect Immun.</source> (<year>1999</year>) <volume>67</volume>:<fpage>6257</fpage>&#x2013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1128/IAI.67.12.6257-6263.1999</pub-id><pub-id pub-id-type="pmid">10569735</pub-id></mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gopalakrishnan</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Virulence factors, intracellular survivability and mechanism of evasion from host immune response by brucella: an overview</article-title>. <source>J Animal Plant Sci.</source> (<year>2016</year>) <volume>26</volume>:<fpage>1542</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mahan</surname><given-names>SM</given-names></name><name><surname>Sobecki</surname><given-names>B</given-names></name><name><surname>Johnson</surname><given-names>J</given-names></name><name><surname>Oien</surname><given-names>NL</given-names></name><name><surname>Meinert</surname><given-names>TR</given-names></name><name><surname>Verhelle</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Efficacy of intranasal vaccination with a multivalent vaccine containing temperature-sensitive modified-live bovine herpesvirus type 1 for protection of seronegative and seropositive calves against respiratory disease</article-title>. <source>J Am Vet Med Assoc</source>. (<year>2016</year>) <volume>248</volume>:<fpage>1280</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.2460/javma.248.11.1280</pub-id><pub-id pub-id-type="pmid">27172345</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Motaharinia</surname><given-names>Y</given-names></name><name><surname>Rezaee</surname><given-names>MA</given-names></name><name><surname>Rashidi</surname><given-names>A</given-names></name><name><surname>Jalili</surname><given-names>A</given-names></name><name><surname>Rezaie</surname><given-names>MJ</given-names></name><name><surname>Shapouri</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Induction of protective immunity against brucellosis in mice by vaccination with a combination of naloxone, alum, and heat-killed Brucella melitensis 16 M</article-title>. <source>J Microbiol Immunol Infect.</source> (<year>2013</year>) <volume>46</volume>:<fpage>253</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.jmii.2012.03.011</pub-id><pub-id pub-id-type="pmid">22727892</pub-id></mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><collab>College of Veterinary Medicine</collab></person-group>. <source>Bovine Diagnostic Plans and Panels</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Animal Health Diagnostic Center</publisher-name> (<year>2022</year>). Available from: <ext-link xlink:href="https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/diagnostic-plans-and-panels/bovine" ext-link-type="uri">https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/diagnostic-plans-and-panels/bovine</ext-link>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

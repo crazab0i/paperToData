@@ -1,0 +1,785 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Pathogens</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Pathogens</journal-id>
+      <journal-id journal-id-type="publisher-id">pathogens</journal-id>
+      <journal-title-group>
+        <journal-title>Pathogens</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2076-0817</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">38003739</article-id>
+      <article-id pub-id-type="pmc">10675282</article-id>
+      <article-id pub-id-type="doi">10.3390/pathogens12111274</article-id>
+      <article-id pub-id-type="publisher-id">pathogens-12-01274</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Communication</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Detection of Virulence-Associated Genes among <italic toggle="yes">Brucella melitensis</italic> and <italic toggle="yes">Brucella abortus</italic> Clinical Isolates in Greece, 2001&#x2013;2022</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9188-243X</contrib-id>
+          <name>
+            <surname>Papaparaskevas</surname>
+            <given-names>Joseph</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Procopiou</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5819-021X</contrib-id>
+          <name>
+            <surname>Routsias</surname>
+            <given-names>John</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4766-8238</contrib-id>
+          <name>
+            <surname>Vrioni</surname>
+            <given-names>Georgia</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <xref rid="c1-pathogens-12-01274" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0656-4715</contrib-id>
+          <name>
+            <surname>Tsakris</surname>
+            <given-names>Athanasios</given-names>
+          </name>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Sato</surname>
+            <given-names>Marcello Otake</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Young</surname>
+            <given-names>Lawrence S.</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-pathogens-12-01274">Department of Microbiology, Medical School, National and Kapodistrian University of Athens, 75 M. Asias Str., 11527 Athens, Greece; <email>ipapapar@med.uoa.gr</email> (J.P.); <email>alexandraproc17@hotmail.com</email> (A.P.); <email>jroutsias@med.uoa.gr</email> (J.R.); <email>atsakris@med.uoa.gr</email> (A.T.)</aff>
+      <author-notes>
+        <corresp id="c1-pathogens-12-01274"><label>*</label>Correspondence: <email>gvrioni@med.uoa.gr</email>; Tel.: +30-2107462129</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>12</volume>
+      <issue>11</issue>
+      <elocation-id>1274</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>13</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 by the authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Brucellosis remains an important zoonotic disease in several parts of the world; in Greece, although it is declining, it is still endemic, affecting both the financial and public health sectors. The current study was undertaken to investigate the presence and distribution of virulence-associated genes among <italic toggle="yes">Brucella</italic> spp. clinical strains isolated during 2001&#x2013;2022. Species identification was performed using conventional methodology and Bruce-ladder PCR. The presence of the virulence genes <italic toggle="yes">mvi</italic>N, <italic toggle="yes">man</italic>A, <italic toggle="yes">wbk</italic>A, <italic toggle="yes">per</italic>A, <italic toggle="yes">omp</italic>19, <italic toggle="yes">ure</italic>, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B was investigated using PCR. During the study period, a total of 334 <italic toggle="yes">Brucella</italic> isolates were identified, of which 328 (98.2%) were detected from positive blood cultures; 315 (94.3%) of the isolates were identified as <italic toggle="yes">B. melitensis</italic>, whilst the remaining 16 (4.8%) and 3 (0.9%) were identified as <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. suis</italic>, respectively. Notably, two of the <italic toggle="yes">B. melitensis</italic> were assigned to the REV-1 vaccine strain type. The presence of the <italic toggle="yes">omp</italic>19, <italic toggle="yes">man</italic>A, <italic toggle="yes">mvi</italic>N and <italic toggle="yes">per</italic>A genes was confirmed in all 315 <italic toggle="yes">B. melitensis</italic> isolates, while <italic toggle="yes">ure</italic>, <italic toggle="yes">wbk</italic>A, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B genes were detected in all but 9, 2, 1 and 1 of the isolates, respectively. All eight virulence genes were amplified in all <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. suis</italic> isolates. The detection rate of virulence genes did not differ significantly among species. In conclusion, brucellosis is still considered a prevailing zoonotic disease in Greece, with the majority of the isolates identified as <italic toggle="yes">B. melitensis</italic>. The eight pathogenicity-associated genes were present in almost all <italic toggle="yes">Brucella</italic> isolates, although the <italic toggle="yes">ure</italic> gene was absent from a limited number of <italic toggle="yes">B. melitensis</italic> isolates.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic toggle="yes">Brucella melitensis</italic>
+        </kwd>
+        <kwd>
+          <italic toggle="yes">Brucella abortus</italic>
+        </kwd>
+        <kwd>virulence gene</kwd>
+        <kwd>pathogenicity</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-pathogens-12-01274">
+      <title>1. Introduction</title>
+      <p>Brucellosis is an endemic zoonotic disease in Greece [<xref rid="B1-pathogens-12-01274" ref-type="bibr">1</xref>,<xref rid="B2-pathogens-12-01274" ref-type="bibr">2</xref>]. The Hellenic National Public Health Organization (NPHO) indicated a mean annual notification rate of 1.3 cases per 100,000 per year during 2000&#x2013;2022, with a decreasing trend (<uri xlink:href="https://eody.gov.gr/wp-content/uploads/2019/05/brucellosis_epidemiologic_data_2010_2022.pdf">https://eody.gov.gr/wp-content/uploads/2019/05/brucellosis_epidemiologic_data_2010_2022.pdf</uri>, Accessed on 20 September 2023). Interestingly, an outbreak due to <italic toggle="yes">Brucella melitensis</italic> biovar 3 (from locally produced raw cheese) was documented during 2008 on the island of Thassos, Northern Greece [<xref rid="B1-pathogens-12-01274" ref-type="bibr">1</xref>]. Nevertheless, the limited available data for the last decade indicate a deteriorating situation (NPHO, personal communication), whilst comparison of locally obtained seroprevalence data indicates possible underreporting [<xref rid="B2-pathogens-12-01274" ref-type="bibr">2</xref>].</p>
+      <p><italic toggle="yes">Brucella</italic> pathogenicity is mainly linked to its ability to survive and reproduce intracellularly in the host cells, thus evading the host immune reaction, rather than with the presence and/or production of exotoxins, fimbria, capsules, plasmids and endotoxic lipopolysaccharide. This is mainly facilitated by the expression of several molecules of the cell envelope, such as the integral membrane-bound protein (MviN), the mannose-6-phosphateisomerase (ManA), the mannosyl-transferase (WbkA), the perosamine synthetase (PerA) and the outer membrane protein 19 (Omp19), which contribute to the control of intracellular transport of the pathogen [<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>] and the initial survival of bacteria in macrophages and other cells of the reticuloendothelial system.</p>
+      <p>Furthermore, <italic toggle="yes">Brucella</italic> produces cyclic &#x3B2;(1&#x2013;2) glucan (encoded by the <italic toggle="yes">cbg</italic> gene), a low-molecular-weight polysaccharide, also known as polysaccharide B, which interacts with lipids and contributes to pathogen survival by avoiding phagosome fusion with lysosomes, whilst the <italic toggle="yes">vir</italic>B gene regulates one of the most important virulence factors that secretes host cell effectors and regulators and contributes to the survival of bacterial cells inside host cells [<xref rid="B4-pathogens-12-01274" ref-type="bibr">4</xref>,<xref rid="B5-pathogens-12-01274" ref-type="bibr">5</xref>]. Finally, the <italic toggle="yes">ure</italic> gene is involved in the pathogenicity encoding the metalloenzyme urease production. The protease hydrolyzes urea to ammonia, raising the pH and thus enabling survival in acidic environments, such as the stomach [<xref rid="B6-pathogens-12-01274" ref-type="bibr">6</xref>].</p>
+      <p>All these virulence factors produce a micro-environment that facilitates survival of the bacterial cell and expression of its pathogenicity [<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>]. Thus, the presence of the respective genes in the <italic toggle="yes">Brucella</italic> genome confirms the pathogenicity of the microorganism.</p>
+      <p>Specific studies regarding investigation of the spread of the virulence factors among clinical <italic toggle="yes">Brucella</italic> isolates and potential differences between species are limited in the literature. In this respect, the present study was designed in order to investigate the presence of the <italic toggle="yes">mvi</italic>N, <italic toggle="yes">man</italic>A, <italic toggle="yes">wbk</italic>A, <italic toggle="yes">per</italic>A, <italic toggle="yes">omp</italic>19, <italic toggle="yes">ure</italic>, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B virulence genes among <italic toggle="yes">Brucella</italic> spp. clinical isolates recovered from different geographic regions in Greece.</p>
+    </sec>
+    <sec id="sec2-pathogens-12-01274">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-pathogens-12-01274">
+        <title>2.1. Bacterial Isolates</title>
+        <p>A total of 334 unique <italic toggle="yes">Brucella</italic> spp. clinical isolates (one per patient) were collected during the period 2001&#x2013;2022 from patients admitted to regional hospitals in seven provinces of mainland Greece (Attica, Central Greece, Western Greece, Thessaly, Macedonia, Thrace and Epirus). The catchment population corresponded approximately to 40% of the total national population. Identification at the genus and species level was initially performed in clinical laboratories of the regional hospitals where the patients were admitted, following their own conventional methodologies and protocols. The isolates were then submitted to the reference laboratory, Department of Microbiology, Medical School, National and Kapodistrian University of Athens.</p>
+      </sec>
+      <sec id="sec2dot2-pathogens-12-01274">
+        <title>2.2. Identification </title>
+        <p>In the reference laboratory, sub-culture of the isolates was performed in the Biosafety Level III containment unit on 5% sheep blood agar plates (Bioprepare, 19001, Keratea, Greece), followed by incubation at 36 &#xB0;C in 5% CO<sub>2</sub> conditions for 48 h. The genus was re-confirmed or assigned using conventional methodology and a previously described PCR protocol [<xref rid="B7-pathogens-12-01274" ref-type="bibr">7</xref>]. Species identification and differentiation of the wild-type and vaccine-type isolates (<italic toggle="yes">B. melitensis</italic>, <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. suis</italic>, <italic toggle="yes">B. canis</italic>, vaccine <italic toggle="yes">B. melitensis</italic> REV-1 and vaccine <italic toggle="yes">B. abortus</italic> RB-51) was performed using the Bruce-ladder PCR protocol [<xref rid="B8-pathogens-12-01274" ref-type="bibr">8</xref>,<xref rid="B9-pathogens-12-01274" ref-type="bibr">9</xref>]; this multiplex protocol, using a set of eight pairs of primers, results in DNA band patterns that are unique for each species. </p>
+      </sec>
+      <sec id="sec2dot3-pathogens-12-01274">
+        <title>2.3. Molecular Detection of Virulence Genes</title>
+        <p>Colonies from 48 h cultures were subjected to DNA extraction using the QIAamp DNA Mini Kit (Qiagen, Hilden, Germany). Detection of the presence and distribution of the pathogenicity genes <italic toggle="yes">mvi</italic>N, <italic toggle="yes">man</italic>A, <italic toggle="yes">wbk</italic>A, <italic toggle="yes">per</italic>A, <italic toggle="yes">omp</italic>19, <italic toggle="yes">ure</italic>, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B was performed according to previously described protocols [<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>,<xref rid="B10-pathogens-12-01274" ref-type="bibr">10</xref>,<xref rid="B11-pathogens-12-01274" ref-type="bibr">11</xref>]. The target genes and the primer sequences are shown in <xref rid="pathogens-12-01274-t001" ref-type="table">Table 1</xref>. The PCRs were performed in two multiplex reactions (mixA, comprising the genes <italic toggle="yes">omp</italic>19, <italic toggle="yes">mvi</italic>N, <italic toggle="yes">man</italic>A, <italic toggle="yes">per</italic>A and <italic toggle="yes">wbk</italic>A, and <italic toggle="yes">mix</italic>B, comprising the genes <italic toggle="yes">vir</italic>B and <italic toggle="yes">cbg</italic>) and a single PCR reaction (for the <italic toggle="yes">ure</italic> gene). All PCR reactions were performed in 50 &#x3BC;L final volumes, using the GoTaq<sup>&#xAE;</sup> Green Master Mix (Promega Corp., Madison, WI 53711, USA) and a MyCycler thermal cycler (BioRad Laboratories MEPE, 11527, Athens, Greece). </p>
+      </sec>
+      <sec id="sec2dot4-pathogens-12-01274">
+        <title>2.4. Reference Strains</title>
+        <p>Reference strains included the strain <italic toggle="yes">B. melitensis</italic> ATCC23456 (16M) and the vaccine strains <italic toggle="yes">B. melitensis</italic> REV-1 and <italic toggle="yes">B. abortus</italic> RB-51 (CZ Veterinaria SA, Porrino, 6400, Spain) obtained from the Animal Health Directorate of the Hellenic Ministry of Rural Development and Food. </p>
+      </sec>
+      <sec id="sec2dot5-pathogens-12-01274">
+        <title>2.5. Statistical Evaluation</title>
+        <p>Statistical evaluation was performed using Pearson&#x2019;s x<sup>2</sup>, and significant difference was set at <italic toggle="yes">p</italic> &lt; 0.01 (indicating strong evidence).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-pathogens-12-01274">
+      <title>3. Results and Discussion</title>
+      <p>The present study was conducted in order to investigate the presence and distribution of virulence factors among <italic toggle="yes">Brucella</italic> clinical isolates recovered in Greece.</p>
+      <p>The majority of the isolates that were studied (328/334; 98.2%) were derived from positive blood cultures, whilst three (0.8%), one (0.3%), one (0.3%) and one (0.3%) of the isolates were obtained from bone marrow, vertebral biopsy, synovial fluid and cerebrospinal fluid cultures, respectively. The Bruce-ladder protocol identified 315 (94.3%) of the isolates as <italic toggle="yes">B. melitensis</italic>, whilst 16 (4.8%) isolates were identified as <italic toggle="yes">B. abortus</italic> and 3 (0.9%) as <italic toggle="yes">B. suis</italic>. In addition, the Bruce-ladder PCR protocol differentiated two of the <italic toggle="yes">B. melitensis</italic> isolates from the wild-type strains and assigned them to the REV-1 vaccine type.</p>
+      <p>In this respect, the study confirmed existing data from previous national reports regarding the dominance of <italic toggle="yes">B. melitensis</italic>, as compared to the scarce isolation of <italic toggle="yes">B. abortus</italic> [<xref rid="B1-pathogens-12-01274" ref-type="bibr">1</xref>,<xref rid="B2-pathogens-12-01274" ref-type="bibr">2</xref>]. It is noteworthy to mention that this is the first report of <italic toggle="yes">B. suis</italic> isolation from clinical specimens in our country. <italic toggle="yes">B. suis</italic> is very infrequent and, despite a few recorded outbreaks, the European Union countries are considered officially free of porcine brucellosis [<xref rid="B12-pathogens-12-01274" ref-type="bibr">12</xref>], although older reports from the Balkan region indicated its sporadic isolation [<xref rid="B13-pathogens-12-01274" ref-type="bibr">13</xref>]. However, <italic toggle="yes">B. suis</italic> (especially biovar 2) is widespread in wildlife, its reservoir being wild boars and brown hares [<xref rid="B12-pathogens-12-01274" ref-type="bibr">12</xref>]. In this respect, as these wild animals are frequent in Northern Greece (where these two clinical cases were detected), such a transmission cannot be excluded.</p>
+      <p>The Bruce-ladder PCR identification protocol, although technically demanding, is currently considered the standard molecular method of identifying <italic toggle="yes">Brucella</italic> spp. to the species level [<xref rid="B8-pathogens-12-01274" ref-type="bibr">8</xref>,<xref rid="B9-pathogens-12-01274" ref-type="bibr">9</xref>] and in addition can discriminate the main vaccine types (REV-1, RB-51 and S19). This was the case with two of our <italic toggle="yes">B. melitensis</italic> isolates, indicating possible exposure during the animal vaccination process.</p>
+      <p>It should also be noted that both molecular protocols used in this study are able to differentiate between the clinically important <italic toggle="yes">Brucella</italic> spp. (<italic toggle="yes">melitensis</italic>, <italic toggle="yes">abortus</italic>, <italic toggle="yes">suis</italic>, <italic toggle="yes">canis</italic>) and the <italic toggle="yes">Ochrobactrum</italic> spp. that have been recently reclassified together with the <italic toggle="yes">Brucella</italic> spp. (<uri xlink:href="https://www.cdc.gov/locs/2022/12-19-2022-Lab-Update-Reclassification_Ochrobactrum_species_Brucella_genus.html">https://www.cdc.gov/locs/2022/12-19-2022-Lab-Update-Reclassification_Ochrobactrum_species_Brucella_genus.html</uri> and <uri xlink:href="https://asm.org/getmedia/ae7fc7c3-0281-43aa-9143-3c9dae22a85e/Brucella-and-Ochrobactrum-Taxonomic-Updates-for-Laboratories.pdf?ext=.pdf">https://asm.org/getmedia/ae7fc7c3-0281-43aa-9143-3c9dae22a85e/Brucella-and-Ochrobactrum-Taxonomic-Updates-for-Laboratories.pdf?ext=.pdf</uri>, both accessed on 20 September 2023), indicating differences between the two group of species, although much scientific dispute has arisen regarding this classification [<xref rid="B14-pathogens-12-01274" ref-type="bibr">14</xref>].</p>
+      <p>Most of the isolates in our survey harbored the genes expressing the cell envelope factors, which constitute the main virulence elements of the <italic toggle="yes">Brucella</italic> genus. More specifically, the virulence genes <italic toggle="yes">omp</italic>19, <italic toggle="yes">man</italic>A, <italic toggle="yes">mvi</italic>N and <italic toggle="yes">per</italic>A were detected in all 315 <italic toggle="yes">B. melitensis</italic> isolates, whilst <italic toggle="yes">ure</italic>, <italic toggle="yes">wbk</italic>A, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B genes were detected in all but 9, 2, 1 and 1 of the isolates, respectively. The various detection patterns among the <italic toggle="yes">B. melitensis</italic> isolates are depicted in <xref rid="pathogens-12-01274-t002" ref-type="table">Table 2</xref>. All eight virulence genes were amplified in the 16 <italic toggle="yes">B. abortus</italic> and 3 <italic toggle="yes">B. suis</italic> isolates in the study. The detection rate of virulence genes did not differ significantly among <italic toggle="yes">Brucella</italic> species.</p>
+      <p>Similar results have been obtained from recent studies from Iran, Egypt and Greece using whole-genome sequencing [<xref rid="B15-pathogens-12-01274" ref-type="bibr">15</xref>,<xref rid="B16-pathogens-12-01274" ref-type="bibr">16</xref>,<xref rid="B17-pathogens-12-01274" ref-type="bibr">17</xref>]. These studies showed that the majority of isolates do possess the virulence genes under discussion and there are limited (if any at all) differences between species. It should be noted that although our study did not use WGS but specific PCRs, the results were comparable. Nevertheless, the value of WGS should not be underestimated, as it may provide a significant amount of data in a short period of time, data that may not be visible from the beginning, thus potentially outperforming specific PCR protocols.</p>
+      <p>These findings are in line with the fact that all the isolates were derived either from positive blood cultures (most of them) or from other invasive infections (bone marrow, vertebral biopsy, synovial fluid, and cerebrospinal fluid), thus confirming their pathogenic status. The only noteworthy difference (although not statistically significant) between the two species was regarding the <italic toggle="yes">ure</italic> gene, which was not detected in 9 (2.9%) of the 315 <italic toggle="yes">B. melitensis</italic> isolates, all of which, however, were also isolated from positive blood cultures. It should be noted that the number of <italic toggle="yes">B. abortus</italic> strains in our collection was limited, due to the prevalence of the <italic toggle="yes">B. melitensis</italic> species in Greece. But even in these few strains, all eight pathogenicity genes were detected, in contrast to <italic toggle="yes">B. melitensis</italic> strains.</p>
+      <p>Urease is a nickel-containing enzyme that catalyzes the hydrolysis of urea to ammonia, which in turn is being used as a nitrogen source by bacteria. In addition, ammonia release increases the acidic pH of the stomach, which is one of the most important barriers of the gastrointestinal tract, thus enabling pathogens to survive and move to the intestine. Furthermore, urease has been identified as an immunogenic regulator in various pathogen-induced inflammatory responses, suggesting that it has a role in pathogenesis independent of its endogenous enzymatic activity [<xref rid="B6-pathogens-12-01274" ref-type="bibr">6</xref>].</p>
+      <p>The study by Sangari et al. [<xref rid="B6-pathogens-12-01274" ref-type="bibr">6</xref>] indicated that most of the <italic toggle="yes">Brucella</italic> species express strong urease activity, and this activity is responsible for their ability to survive through transmission of infection through the gastrointestinal tract. This finding is also supported by the fact that the <italic toggle="yes">B. ovis</italic> species, which lacks urease activity, is unable to cause human infection through the gastrointestinal tract.</p>
+      <p>In the present study, a total of 2.9% of the <italic toggle="yes">B. melitensis</italic> isolates were found not to harbor the <italic toggle="yes">ure</italic> gene, although these isolates had proven pathogenic capability since they were derived from positive blood culture from hospitalized patients with clinical manifestations. Although the point of entry is not known for every single patient, it is safe to assume that it most probably was through the gastrointestinal tract, thus suggesting that the isolates possessed the required ability to survive the acidic stomach environment. These results agree with a previous study [<xref rid="B18-pathogens-12-01274" ref-type="bibr">18</xref>] indicating that not all of the <italic toggle="yes">Brucella</italic> clinical isolates express urease activity. In addition, it should be noted that certain laboratory-processed strains, such as the <italic toggle="yes">B. abortus</italic> 544, are urease-negative, although they are both pathogenic and capable of infection [<xref rid="B6-pathogens-12-01274" ref-type="bibr">6</xref>].</p>
+      <p>Regarding the geographical distribution, there were no significant differences, and the <italic toggle="yes">ure</italic>-negative isolates were detected in various regions of the country.</p>
+      <p>Regarding the single isolate that was found to be negative for the <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B genes, as well as the two isolates that were found to be negative for the <italic toggle="yes">wbk</italic>A gene, all these isolates were also derived from positive blood cultures. In general, these genes are detected in the majority of strains of human and/or animal origin. Nevertheless, there are also studies indicating that as many as 8% of the isolates may actually be lacking some or all of these genes [<xref rid="B11-pathogens-12-01274" ref-type="bibr">11</xref>], although their pathogenicity does not seem to be questionable.</p>
+      <p>Based on these data, we could assume that the properties of the urease enzyme, as well as its importance in the metabolism or pathogenicity of <italic toggle="yes">Brucella</italic>, have not been fully elucidated. Further studies are needed to define differences in pathogenicity between <italic toggle="yes">ure</italic>-positive and <italic toggle="yes">ure</italic>-negative <italic toggle="yes">Brucella</italic> strains and whether urease&#x2019;s activity is actually complementary to the pathogenic activity of the cell envelope virulence factors. In addition, further studies are needed in order to elucidate the actual effects of the absence of other genes on the pathogenic capability of the strains.</p>
+      <p>The main limitations of the present study are as follows: (1) the nature of the reference of the isolates was voluntary and ad hoc, thus preventing the extrapolation of the results for the whole country, (2) an appropriate comparison between <italic toggle="yes">Brucella</italic> species was not possible due to the limited number of <italic toggle="yes">B. abortus</italic> isolates detected, and (3) our methodology only detected the presence and not the functionality of the genes under investigation.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec4-pathogens-12-01274">
+      <title>4. Conclusions</title>
+      <p>In conclusion, the current study confirmed previous reports that <italic toggle="yes">B. melitensis</italic> is the dominant <italic toggle="yes">Brucella</italic> species in Greece. It has also shown that all eight investigated virulence genes contributing to <italic toggle="yes">Brucella</italic> pathogenicity were present in the vast majority of the tested isolates. Exceptionally, the <italic toggle="yes">ure</italic> gene was not amplified from a limited number of <italic toggle="yes">B. melitenis</italic> isolates. Three other virulence genes (<italic toggle="yes">wbk</italic>A, <italic toggle="yes">cbg</italic> and <italic toggle="yes">vir</italic>B) were also not detected in very few (two or one) of the <italic toggle="yes">B. melitensis</italic> isolates.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We are grateful to the Directors and the personnel of the Microbiology Laboratories of the following institutions for providing isolates and helping with the implementation of this study: General Hospital of Special Diseases, Thessaloniki; General Hospital &#x201C;Agios Pavlos&#x201D;, Kalamaria; General Hospital &#x201C;Laikon&#x201D;, Athens; University Hospital of Ioannina, Ioannina; General Hospital &#x201C;Thriassion&#x201D;, Athens; General Pediatric Hospital &#x201C;Aghia Sophia&#x201D;, Athens; University Hospital &#x201C;Attikon&#x201D;, Chaidari; General Hospital &#x201C;Sismanoglion&#x201D;, Marousi; General Hospital &#x201C;Asklepieion&#x201D;, Voula; Maternity Hospital &#x201C;Elena Venizelou&#x201D;, Athens; General Hospital &#x201C;Korgialenion-Benakion&#x201D; of the Hellenic Red Cross; Athens, General Hospital &#x201C;KAT&#x201D;, Marousi; General Hospital of Lamia, Lamia; and Group of Diagnostic Labs &#x201C;Vioiatriki&#x201D;, Athens. In addition, we are grateful to Aristomenis Katsiolis, Department of Zoonoses, Hellenic Ministry of Rural Development &amp; Food, Athens, Greece, for providing the vaccine strains and for all his information on the Brucellosis eradication program in Greece. This work was part of A.P.&#x2019;s thesis for an MSc degree in &#x201C;Molecular Biopathology&#x201D;.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, J.P. and A.T.; methodology, J.P. and A.P.; writing&#x2014;original draft preparation, J.P. and A.P.; writing&#x2014;review and editing&#x2014;revision during the review process, J.P., J.R., G.V. and A.T.; supervision, J.P., J.R., G.V. and A.T. All authors have read and agreed to the published version of the manuscript. </p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>All PCR photos are available on request. </p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-pathogens-12-01274">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Karagiannis</surname><given-names>I.</given-names></name>
+<name><surname>Mellou</surname><given-names>K.</given-names></name>
+<name><surname>Gkolfinopoulou</surname><given-names>K.</given-names></name>
+<name><surname>Dougas</surname><given-names>G.</given-names></name>
+<name><surname>Theocharopoulos</surname><given-names>G.</given-names></name>
+<name><surname>Vourvidis</surname><given-names>D.</given-names></name>
+<name><surname>Ellinas</surname><given-names>D.</given-names></name>
+<name><surname>Sotolidou</surname><given-names>M.</given-names></name>
+<name><surname>Papadimitriou</surname><given-names>T.</given-names></name>
+<name><surname>Vorou</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Outbreak investigation of brucellosis in Thassos, Greece, 2008</article-title>
+          <source>Euro Surveill.</source>
+          <year>2012</year>
+          <volume>17</volume>
+          <fpage>20116</fpage>
+          <pub-id pub-id-type="doi">10.2807/ese.17.11.20116-en</pub-id>
+          <pub-id pub-id-type="pmid">22449868</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-pathogens-12-01274">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pappas</surname><given-names>G.</given-names></name>
+<name><surname>Papadimitriou</surname><given-names>P.</given-names></name>
+<name><surname>Akritidis</surname><given-names>N.</given-names></name>
+<name><surname>Christou</surname><given-names>L.</given-names></name>
+<name><surname>Tsianos</surname><given-names>E.V.</given-names></name>
+</person-group>
+          <article-title>The new global map of human brucellosis</article-title>
+          <source>Lancet Infect. Dis.</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>91</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id>
+          <pub-id pub-id-type="pmid">16439329</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-pathogens-12-01274">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mirnejad</surname><given-names>R.</given-names></name>
+<name><surname>Jazi</surname><given-names>F.M.</given-names></name>
+<name><surname>Mostafaei</surname><given-names>S.</given-names></name>
+<name><surname>Sedighi</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Molecular investigation of virulence factors of <italic toggle="yes">Brucella melitensis</italic> and <italic toggle="yes">Brucella abortus</italic> strains isolated from clinical and non-clinical samples</article-title>
+          <source>Microb. Pathog.</source>
+          <year>2017</year>
+          <volume>109</volume>
+          <fpage>8</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2017.05.019</pub-id>
+          <pub-id pub-id-type="pmid">28506887</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-pathogens-12-01274">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Arellano-Reynoso</surname><given-names>B.</given-names></name>
+<name><surname>Lapaque</surname><given-names>N.</given-names></name>
+<name><surname>Salcedo</surname><given-names>S.</given-names></name>
+<name><surname>Briones</surname><given-names>G.</given-names></name>
+<name><surname>Ciocchini</surname><given-names>A.E.</given-names></name>
+<name><surname>Ugalde</surname><given-names>R.</given-names></name>
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+<name><surname>Moriy&#xF3;n</surname><given-names>I.</given-names></name>
+<name><surname>Gorvel</surname><given-names>J.P.</given-names></name>
+</person-group>
+          <article-title>Cyclic &#x3B2;-1,2-glucan is a <italic toggle="yes">Brucella</italic> virulence factor required for intracellular survival</article-title>
+          <source>Nat. Immunol.</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>618</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1038/ni1202</pub-id>
+          <pub-id pub-id-type="pmid">15880113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-pathogens-12-01274">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>G&#x142;owacka</surname><given-names>P.</given-names></name>
+<name><surname>&#x17B;akowska</surname><given-names>D.</given-names></name>
+<name><surname>Naylor</surname><given-names>K.</given-names></name>
+<name><surname>Niemcewicz</surname><given-names>M.</given-names></name>
+<name><surname>Bielawska-Dr&#xF3;zd</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella</italic> virulence factors, pathogenesis and treatment</article-title>
+          <source>Pol. J. Microbiol.</source>
+          <year>2018</year>
+          <volume>67</volume>
+          <fpage>151</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="doi">10.21307/pjm-2018-029</pub-id>
+          <pub-id pub-id-type="pmid">30015453</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-pathogens-12-01274">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sangari</surname><given-names>F.J.</given-names></name>
+<name><surname>Seoane</surname><given-names>A.</given-names></name>
+<name><surname>Rodr&#x131;guez</surname><given-names>M.C.</given-names></name>
+<name><surname>Aguero</surname><given-names>J.</given-names></name>
+<name><surname>Garc&#x131;a Lobo</surname><given-names>J.M.</given-names></name>
+</person-group>
+          <article-title>Characterization of the urease operon of <italic toggle="yes">Brucella abortus</italic> and assessment of its role in virulence of the bacterium</article-title>
+          <source>Infect. Immun.</source>
+          <year>2007</year>
+          <volume>75</volume>
+          <fpage>774</fpage>
+          <lpage>780</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.01244-06</pub-id>
+          <pub-id pub-id-type="pmid">17101645</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-pathogens-12-01274">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Baily</surname><given-names>G.G.</given-names></name>
+<name><surname>Krahn</surname><given-names>J.B.</given-names></name>
+<name><surname>Drasar</surname><given-names>B.S.</given-names></name>
+<name><surname>Stoker</surname><given-names>N.G.</given-names></name>
+</person-group>
+          <article-title>Detection of <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. abortus</italic> by DNA amplification</article-title>
+          <source>J. Trop. Med. Hyg.</source>
+          <year>1992</year>
+          <volume>95</volume>
+          <fpage>271</fpage>
+          <lpage>275</lpage>
+          <pub-id pub-id-type="pmid">1495123</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-pathogens-12-01274">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Garc&#xED;a-Yoldi</surname><given-names>D.</given-names></name>
+<name><surname>Mar&#xED;n</surname><given-names>C.M.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Mu&#xF1;oz</surname><given-names>P.M.</given-names></name>
+<name><surname>Vizmanos</surname><given-names>J.L.</given-names></name>
+<name><surname>L&#xF3;pez-Go&#xF1;i</surname><given-names>I.</given-names></name>
+</person-group>
+          <article-title>Multiplex PCR assay for the identification and differentiation of all Brucella species and the vaccine strains <italic toggle="yes">B. abortus</italic> S19 and R-B51 and <italic toggle="yes">B. melitensis</italic> REV-1</article-title>
+          <source>Clin. Chem.</source>
+          <year>2006</year>
+          <volume>52</volume>
+          <fpage>779</fpage>
+          <lpage>781</lpage>
+          <pub-id pub-id-type="doi">10.1373/clinchem.2005.062596</pub-id>
+          <pub-id pub-id-type="pmid">16595839</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-pathogens-12-01274">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>L&#xF3;pez-Go&#xF1;i</surname><given-names>I.</given-names></name>
+<name><surname>Garc&#xED;a-Yoldi</surname><given-names>D.</given-names></name>
+<name><surname>Mar&#xED;n</surname><given-names>C.M.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Mu&#xF1;oz</surname><given-names>P.M.</given-names></name>
+<name><surname>Blasco</surname><given-names>J.M.</given-names></name>
+<name><surname>Jacques</surname><given-names>I.</given-names></name>
+<name><surname>Grayon</surname><given-names>M.</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A.</given-names></name>
+<name><surname>Ferreira</surname><given-names>A.C.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Evaluation of a multiplex PCR assay (Bruce-ladder) for molecular typing of all <italic toggle="yes">Brucella</italic> species, including the vaccine strains</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <year>2008</year>
+          <volume>46</volume>
+          <fpage>3484</fpage>
+          <lpage>3487</lpage>
+          <pub-id pub-id-type="doi">10.1128/JCM.00837-08</pub-id>
+          <pub-id pub-id-type="pmid">18716225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-pathogens-12-01274">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rahdar</surname><given-names>H.A.</given-names></name>
+<name><surname>Golmohammadi</surname><given-names>R.</given-names></name>
+<name><surname>Mirnejad</surname><given-names>R.</given-names></name>
+<name><surname>Ataee</surname><given-names>R.A.</given-names></name>
+<name><surname>Alishiri</surname><given-names>G.H.</given-names></name>
+<name><surname>Kazemian</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Diversity of virulence genes in <italic toggle="yes">Brucella melitensis</italic> and <italic toggle="yes">Brucella abortus</italic> detected from patients with rheumatoid arthritis</article-title>
+          <source>Microb. Pathog.</source>
+          <year>2018</year>
+          <volume>118</volume>
+          <fpage>247</fpage>
+          <lpage>250</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2018.03.034</pub-id>
+          <pub-id pub-id-type="pmid">29578063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-pathogens-12-01274">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hamdy</surname><given-names>M.E.R.</given-names></name>
+<name><surname>Zaki</surname><given-names>H.M.</given-names></name>
+</person-group>
+          <article-title>Detection of virulence-associated genes in <italic toggle="yes">Brucella melitensis</italic> biovar 3, the prevalent field strain in different animal species in Egypt</article-title>
+          <source>Open Vet. J.</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <fpage>112</fpage>
+          <lpage>117</lpage>
+          <pub-id pub-id-type="doi">10.4314/ovj.v8i1.17</pub-id>
+          <pub-id pub-id-type="pmid">29721440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-pathogens-12-01274">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mu&#xF1;oz</surname><given-names>P.M.</given-names></name>
+<name><surname>Mick</surname><given-names>V.</given-names></name>
+<name><surname>Sacchini</surname><given-names>L.</given-names></name>
+<name><surname>Janowicz</surname><given-names>A.</given-names></name>
+<name><surname>de Miguel</surname><given-names>M.J.</given-names></name>
+<name><surname>Cherfa</surname><given-names>M.A.</given-names></name>
+<name><surname>Nevado</surname><given-names>C.R.</given-names></name>
+<name><surname>Girault</surname><given-names>G.</given-names></name>
+<name><surname>Andr&#xE9;s-Barranco</surname><given-names>S.</given-names></name>
+<name><surname>Jay</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Phylogeography and epidemiology of <italic toggle="yes">Brucella suis</italic> biovar 2 in wildlife and domestic swine</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2019</year>
+          <volume>233</volume>
+          <fpage>68</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2019.04.025</pub-id>
+          <pub-id pub-id-type="pmid">31176415</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-pathogens-12-01274">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Taleski</surname><given-names>V.</given-names></name>
+<name><surname>Zerva</surname><given-names>L.</given-names></name>
+<name><surname>Kantardjiev</surname><given-names>T.</given-names></name>
+<name><surname>Cvetnic</surname><given-names>Z.</given-names></name>
+<name><surname>Erski-Biljic</surname><given-names>M.</given-names></name>
+<name><surname>Nikolovski</surname><given-names>B.</given-names></name>
+<name><surname>Bosnjakovski</surname><given-names>J.</given-names></name>
+<name><surname>Katalinic-Jankovic</surname><given-names>V.</given-names></name>
+<name><surname>Panteliadou</surname><given-names>A.</given-names></name>
+<name><surname>Stojkoski</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>An overview of the epidemiology and epizootology of brucellosis in selected countries of Central and Southeast Europe</article-title>
+          <source>Vet. Microbiol.</source>
+          <year>2002</year>
+          <volume>90</volume>
+          <fpage>147</fpage>
+          <lpage>155</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00250-X</pub-id>
+          <pub-id pub-id-type="pmid">12414140</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-pathogens-12-01274">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+<name><surname>Middlebrook</surname><given-names>E.A.</given-names></name>
+<name><surname>Altamirano-Silva</surname><given-names>P.</given-names></name>
+<name><surname>Al Dahouk</surname><given-names>S.</given-names></name>
+<name><surname>Araj</surname><given-names>G.F.</given-names></name>
+<name><surname>Arce-Gorvel</surname><given-names>V.</given-names></name>
+<name><surname>Arenas-Gamboa</surname><given-names>A.</given-names></name>
+<name><surname>Ariza</surname><given-names>J.</given-names></name>
+<name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name>
+<name><surname>Battelli</surname><given-names>G.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>If you&#x2019;re not confused, you&#x2019;re not paying attention: Ochrobactrum is not Brucella</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <year>2023</year>
+          <volume>61</volume>
+          <elocation-id>e0043823</elocation-id>
+          <pub-id pub-id-type="doi">10.1128/jcm.00438-23</pub-id>
+          <pub-id pub-id-type="pmid">37395662</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-pathogens-12-01274">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dadar</surname><given-names>M.</given-names></name>
+<name><surname>Alamian</surname><given-names>S.</given-names></name>
+<name><surname>Brangsch</surname><given-names>H.</given-names></name>
+<name><surname>Elbadawy</surname><given-names>M.</given-names></name>
+<name><surname>Elkharsawi</surname><given-names>A.R.</given-names></name>
+<name><surname>Neubauer</surname><given-names>H.</given-names></name>
+<name><surname>Wareth</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Determination of virulence-associated genes and antimicrobial resistance profiles in Brucella isolates recovered from humans and animals in Iran using NGS technology</article-title>
+          <source>Pathogens</source>
+          <year>2023</year>
+          <volume>12</volume>
+          <elocation-id>82</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/pathogens12010082</pub-id>
+          <pub-id pub-id-type="pmid">36678430</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-pathogens-12-01274">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wareth</surname><given-names>G.</given-names></name>
+<name><surname>El-Diasty</surname><given-names>M.</given-names></name>
+<name><surname>Abdel-Hamid</surname><given-names>N.H.</given-names></name>
+<name><surname>Holzer</surname><given-names>K.</given-names></name>
+<name><surname>Hamdy</surname><given-names>M.E.R.</given-names></name>
+<name><surname>Moustafa</surname><given-names>S.</given-names></name>
+<name><surname>Shahein</surname><given-names>M.A.</given-names></name>
+<name><surname>Melzer</surname><given-names>F.</given-names></name>
+<name><surname>Beyer</surname><given-names>W.</given-names></name>
+<name><surname>Pletz</surname><given-names>M.W.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Molecular characterization and antimicrobial susceptibility testing of clinical and non-clinical <italic toggle="yes">Brucella melitensis</italic> and <italic toggle="yes">Brucella abortus</italic> isolates from Egypt</article-title>
+          <source>One Health</source>
+          <year>2021</year>
+          <volume>13</volume>
+          <fpage>100255</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.onehlt.2021.100255</pub-id>
+          <pub-id pub-id-type="pmid">34027005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-pathogens-12-01274">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Brangsch</surname><given-names>H.</given-names></name>
+<name><surname>Sandalakis</surname><given-names>V.</given-names></name>
+<name><surname>Babetsa</surname><given-names>M.</given-names></name>
+<name><surname>Boukouvala</surname><given-names>E.</given-names></name>
+<name><surname>Ntoula</surname><given-names>A.</given-names></name>
+<name><surname>Makridaki</surname><given-names>E.</given-names></name>
+<name><surname>Christidou</surname><given-names>A.</given-names></name>
+<name><surname>Psaroulaki</surname><given-names>A.</given-names></name>
+<name><surname>Akar</surname><given-names>K.</given-names></name>
+<name><surname>G&#xFC;rbilek</surname><given-names>S.E.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Genotype diversity of brucellosis agents isolated from humans and animals in Greece based on whole-genome sequencing</article-title>
+          <source>BMC Infect. Dis.</source>
+          <year>2023</year>
+          <volume>23</volume>
+          <elocation-id>529</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/s12879-023-08518-z</pub-id>
+          <pub-id pub-id-type="pmid">37580676</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-pathogens-12-01274">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bandara</surname><given-names>A.B.</given-names></name>
+<name><surname>Boyle</surname><given-names>S.B.</given-names></name>
+<name><surname>Contreras-Rodriguez</surname><given-names>A.</given-names></name>
+<name><surname>Martins</surname><given-names>A.M.</given-names></name>
+<name><surname>Prasad</surname><given-names>R.</given-names></name>
+<name><surname>Reilly</surname><given-names>C.M.</given-names></name>
+</person-group>
+          <article-title><italic toggle="yes">Brucella melitensis</italic> differs from <italic toggle="yes">B. suis</italic> in growth and urease activity <italic toggle="yes">in-vitro</italic>, and infectivity in Fisher-344 rats <italic toggle="yes">in-vivo</italic></article-title>
+          <source>Adv. Infect. Dis.</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <fpage>60</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="doi">10.4236/aid.2013.31008</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap position="float" id="pathogens-12-01274-t001">
+      <object-id pub-id-type="pii">pathogens-12-01274-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Sequences, amplicon size and references of the primers used in the present study.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Gene</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sequence</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Amplicon (bp)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">omp</italic>19</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-TGATGGGAATTTCAAAAGCA-3<break/>R: 5&#x2032;-GTTTCCGGGTCAGATCAGC-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">550</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">wbk</italic>A</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-AATGACTTCCGCTGCCATAG-3&#x2032;<break/>R: 5&#x2032;-ATGAGCGAGGACATGAGCTT-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">931</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">man</italic>A</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-TCGATCCAGAAACCCAGTTC-3&#x2032;<break/>R: 5&#x2032;-CATACACCACGATCCACTGC-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">271</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B10-pathogens-12-01274" ref-type="bibr">10</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">mvi</italic>N</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-GCAGATCAACCTGCTCATCA-3&#x2032;<break/>R: 5&#x2032;-GGCCATAGATCGCCAGAATA-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">344</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">ure</italic>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-GCTTGCCCTTGAATTCCTTTGTGG-3&#x2032;<break/>R: 5&#x2032;-ATCTGCGAATTTGCCGGACTCTAT-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2100</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B11-pathogens-12-01274" ref-type="bibr">11</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">per</italic>A</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;-GGAACGGTGGCACTACATCT-3&#x2032;<break/>R: 5&#x2032;-GGCTCTCTGTGTTCCGAGTT-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">716</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B3-pathogens-12-01274" ref-type="bibr">3</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">cbg</italic>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;- GAATTCGCCAATGAGGAAAA-3&#x2032;<break/>R: 5&#x2032;- ACGATATCGGATGCGAAAAG-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">575</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B10-pathogens-12-01274" ref-type="bibr">10</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">vir</italic>B</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">F: 5&#x2032;- CGCTGATCTATAATTAAGGCTA -3&#x2032;<break/>R: 5&#x2032;- TGCGACTGCCTCCTATCGTC-3&#x2032;</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">881</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B10-pathogens-12-01274" ref-type="bibr">10</xref>]</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="pathogens-12-01274-t002">
+      <object-id pub-id-type="pii">pathogens-12-01274-t002_Table 2</object-id>
+      <label>Table 2</label>
+      <caption>
+        <p>Detection patterns of the eight virulence genes among the 315 <italic toggle="yes">B. melitensis</italic> isolates.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">B. melitensis</italic> (No)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">omp</italic>19</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">wbk</italic>A</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">man</italic>A</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">mvi</italic>N</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">ure</italic>
+</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">per</italic>A</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+<italic toggle="yes">cbg</italic>
+</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1"><italic toggle="yes">vir</italic>B</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">305</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">7</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Negative</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

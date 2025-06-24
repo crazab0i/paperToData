@@ -1,0 +1,1268 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Vet. Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Veterinary Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2297-1769</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37415963</article-id>
+      <article-id pub-id-type="pmc">10322197</article-id>
+      <article-id pub-id-type="doi">10.3389/fvets.2023.1154520</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Veterinary Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Russian collection of <italic>Brucella abortus</italic> vaccine strains: annotation, implementation and genomic analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Prasolova</surname>
+            <given-names>Olga</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2139708/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krylova</surname>
+            <given-names>Ekaterina</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2023962/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bogomazova</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Soltynskaya</surname>
+            <given-names>Irina</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sklyarov</surname>
+            <given-names>Oleg</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gordeeva</surname>
+            <given-names>Veronika</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Timofeeva</surname>
+            <given-names>Irina</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Motorygin</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Panin</surname>
+            <given-names>Alexander</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>The Russian State Center for Animal Feed and Drug Standardization and Quality (VGNKI)</institution>, <addr-line>Moscow</addr-line>, <country>Russia</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>The Lopukhin Federal Research and Clinical Center of Physical-Chemical Medicine of FMBA of Russia</institution>, <addr-line>Moscow</addr-line>, <country>Russia</country></aff>
+      <author-notes>
+        <fn id="fn0001" fn-type="edited-by">
+          <p>Edited by: Shengqing Yu, Chinese Academy of Agricultural Sciences, China</p>
+        </fn>
+        <fn id="fn0002" fn-type="edited-by">
+          <p>Reviewed by: Muhammad Saqib, University of Agriculture, Pakistan; Rosa Estela Quiroz Casta&#xF1;eda, Instituto Nacional de Investigaciones Forestales, Agr&#xED;colas y Pecuarias (INIFAP), Mexico</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Olga Prasolova, <email>o.prasolova@vgnki.ru</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>6</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>10</volume>
+      <elocation-id>1154520</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>09</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Prasolova, Krylova, Bogomazova, Soltynskaya, Sklyarov, Gordeeva, Timofeeva, Motorygin and Panin.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Prasolova, Krylova, Bogomazova, Soltynskaya, Sklyarov, Gordeeva, Timofeeva, Motorygin and Panin</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Over the past 10 years, immunization of cattle in Russia has been performed using vaccines from <italic>Brucella abortus</italic> strains 82, 19 and 75/79. To prevent brucellosis in small ruminants, two vaccines have been used, from the <italic>Brucella melitensis</italic> strain REV-1 and the <italic>B. abortus</italic> strain 19; note that twice as many animals have been immunized with the former vaccine than with the latter vaccine. The disadvantage of using these preparations is the formation of prolonged post-vaccination seropositivity, which is especially pronounced in animals after immunization with vaccines from <italic>B. abortus</italic> strain 19 and <italic>B. melitensis</italic> strain REV-1. This study aims to perform the whole genome sequencing of <italic>Brucella</italic> vaccine strains from the Russian collection. A bioinformatics analysis of the genomic data proved that the vaccine strains 75/79AB, 82, R-1096, and the KV 17/100 belong to ST-2, 104 M to ST-1, KV 13/100 to ST-5. This analysis allowed us to characterize vaccine strains&#x2019;s phylogenetic relationships and to prove the close relation of vaccine strains 75/79AB, 82, R-1096. Also, we defined candidate mutations in genes <italic>pmm, wbdA, wbkA, wboA,</italic> and <italic>eryB</italic>, which could be responsible for the attenuated virulence of vaccine strains. The complete genomic sequences of <italic>B. abortus</italic> strains make further studies of bacterial pathogenicity determinants and virulence phenotype feasible, as well as their use in quality control of animal medicines.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>vaccines</kwd>
+        <kwd>brucellosis</kwd>
+        <kwd>strains</kwd>
+        <kwd>selection</kwd>
+        <kwd>NGS</kwd>
+        <kwd>bioinformatics analysis annotation</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn1">Ministry of Science and Higher Education of the Russia</funding-source>
+          <award-id award-type="contract" rid="cn1"># 075-15-2021-1053</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="3"/>
+        <table-count count="6"/>
+        <equation-count count="0"/>
+        <ref-count count="66"/>
+        <page-count count="9"/>
+        <word-count count="6651"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>section-at-acceptance</meta-name>
+          <meta-value>Veterinary Infectious Diseases</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1">
+      <title>Introduction</title>
+      <p>The development of measures for specific prophylaxis of brucellosis in the world began almost immediately from the moment of discovery of its causative agent. It was started by Bang who for the first time isolated microorganisms from the amniotic fluid of a cow that suffered abortion, selected the correct medium and determined optimal conditions for their cultivation (<xref rid="ref1" ref-type="bibr">1</xref>). By infecting animals, he also proved that the isolated microorganisms are the causative agent of infectious abortion; he later noted that infected cows acquired certain immunity to this disease. It was further evidenced by observing cases of self-recovery of animals from infectious abortion. Based on this, Bang concluded that it is possible and necessary to develop measures for specific disease prophylaxis. Many researchers began to work in this direction, and, first of all, Bang himself.</p>
+      <p>In 1906, Bang reported the results of experiments which allowed him to form an immunity in pregnant sheep, goats and cows by inoculating them with live virulent cultures of <italic>Brucella</italic>. In 1909, he for the first time in the field experiments performed the intravenous administration of live <italic>Brucella</italic> broth cultures to animals, as a result of which they developed a high degree of immune response, which, however, was accompanied by signs of anaphylactic shock.</p>
+      <p>Since 1910, in England, Germany, Denmark, United States, and Argentina, agar swabs of <italic>Brucella</italic> cultures were used for mass vaccination of young and non-pregnant cows. Although the number of abortions in animals was slightly decreasing, the damage from the infection was about the same as in the natural course of the disease. The widespread use of virulent cultures caused abortions in pregnant animals and essentially led to their massive artificial infection. Thus, vaccinated animals presented an epizootic and epidemic danger.</p>
+      <p>Due to this, later on strains with attenuated virulence were used for the production of vaccines. Attenuated virulence was achieved by treating virulent cultures of <italic>Brucella</italic> with chemical, physical and biological methods. Some of the researchers were able to achieve significant success.</p>
+      <p>In 1934, Corner et al. (<xref rid="ref2" ref-type="bibr">2</xref>) worked with a culture of <italic>Brucella abortus</italic> strain <italic>19</italic> isolated by Buck in 1923 from the milk of a cow of the third calving and found that after storage for one year at room temperature the culture spontaneously reduced its virulence. The authors were able to select an immunogenic and stable strain which subsequently was named Buck-19 [B-19] in honor of the author of the original culture. From that moment on, a new stage in the development of anti-brucellosis vaccines has begun, while the vaccine from strain 19 remains the standard of immunogenicity until now.</p>
+      <p><italic>Brucella</italic> species are characterized by high invasiveness which allows them to successfully multiply in macrophages and lymphocytes (<xref rid="ref3" ref-type="bibr">3</xref>). At the same time, <italic>Brucella</italic> lack virulence factors such as the capsule, flagella, fimbriae, pili, plasmids, toxins, exotoxins, cytolysins, and secreted proteases found in other bacteria (<xref rid="ref4" ref-type="bibr">4</xref>, <xref rid="ref5" ref-type="bibr">5</xref>). Various virulence factors, the mechanism of evasion from the host defense systems and the method of intracellular survival of <italic>Brucella</italic> were reviewed in detail in (<xref rid="ref6" ref-type="bibr">6</xref>). It was shown that the virulence of <italic>Brucella</italic> can be determined by: lipopolysaccharide (LPS) (<xref rid="ref7" ref-type="bibr">7</xref>), &#x3B2;-glucan (&#x3B2;-cyclic glucan) (<xref rid="ref8" ref-type="bibr">8</xref>, <xref rid="ref9" ref-type="bibr">9</xref>), BvrS/BvrR, BacA (<xref rid="ref10" ref-type="bibr">10</xref>), outer membrane proteins (Omps) (<xref rid="ref11" ref-type="bibr">11</xref>), BmaC (<xref rid="ref12" ref-type="bibr">12</xref>), SagA (<xref rid="ref13" ref-type="bibr">13</xref>), BtaE (<xref rid="ref14" ref-type="bibr">14</xref>), BetB (<xref rid="ref15" ref-type="bibr">15</xref>), MucR and T4SS genes found in <italic>vir</italic>B operon (<xref rid="ref16" ref-type="bibr">16</xref>). The vital virulence factor, LPS, determines the morphology of <italic>Brucella</italic> colonies in culture. The smooth phenotype (S-form) is formed due to complete LPS, consisting of lipid A, core oligosaccharide, and O-side chains of the polysaccharide. The strains of <italic>Brucella</italic> with attenuated virulence often form rough colonies (R-form) due to a deficiency of O-side chains of the polysaccharide (<xref rid="ref17" ref-type="bibr">17</xref>).</p>
+      <p>In accordance with the List of Prokaryotic Names with Standing in Nomenclature (LPSN), the causative agent of brucellosis is assigned to the genus <italic>Brucella</italic>, family <italic>Brucellaceae</italic>, order <italic>Rhisobailes</italic>, class <italic>Alphaproteobacteria</italic>. The genus <italic>Brucella</italic> consists of 13 independent species. A total of six typical and seven new <italic>Brucella</italic> species were identified in a wide range of susceptible hosts. There are seven species that infect terrestrial animals, including <italic>B. abortus, Brucella melitensis, Brucella suis, Brucella ovis, Brucella canis, Brucella neotomae,</italic> and <italic>Brucella microti</italic> (<xref rid="ref18" ref-type="bibr">18</xref>); two more species, <italic>Brucella ceti</italic> and <italic>Brucella pinnipedialis</italic>, infect marine mammals (<xref rid="ref19" ref-type="bibr">19</xref>). <italic>Brucella papionis</italic> was isolated from baboons and <italic>Brucella vulpis</italic> from red foxes (<xref rid="ref20" ref-type="bibr">20</xref>). Seven biovars have been recognized for <italic>B. abortus</italic>, three for <italic>B. melitensis</italic> and five for <italic>B. suis</italic>. Other species are not subdivided into biovars. <italic>Brucella</italic> nomenclature is based on the species of the main hosts (<xref rid="ref21" ref-type="bibr">21</xref>). As the list of species grows, it is important to identify more effective prophylaxis measures to control the spread of the disease in humans.</p>
+      <p>Considering the complexity of differentiation of various species of <italic>Brucella</italic> bacteria, including using 16sRNA analysis for typing and comparison with other strains, we carried out whole genome sequencing and phylogenetic analysis by single nucleotide polymorphisms (SNPs) in order to comparatively assess the molecular-genetic characteristics of strains and analyze alternative options for the production of vaccines in Russia.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec2">
+      <title>Materials and methods</title>
+      <sec id="sec4">
+        <title>Object of study</title>
+        <p>The strains for this study were obtained from the All-Russian State Collection of Microorganisms Used in Veterinary Medicine and Animal Husbandry of VGNKI: <italic>B. abortus</italic> 82, <italic>B. abortus</italic> 75/79-AB, <italic>B. abortus</italic> 104 M, <italic>B. abortus</italic> KV 17/100, <italic>B. abortus</italic> R-1096, <italic>B. abortus</italic> KV 13/100. To construct a phylogenetic tree based on SNP loci, we selected genomes of vaccine strains and field isolates from the NCBI database that were assembled completely or at the scaffold level (<xref rid="tab1" ref-type="table">Table 1</xref>).</p>
+        <table-wrap position="float" id="tab1">
+          <label>Table 1</label>
+          <caption>
+            <p>List of <italic>Brucella abortus</italic> strains used for phylogenetic analysis.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Strain</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">MLST</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Assembly</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Level</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Geographic location</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Host</th>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Reference</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">104&#x41C;<sup>*</sup></td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_001296965.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">China</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle, vaccine strain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Yu et al. (<xref rid="ref22" ref-type="bibr">22</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">9-941</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000008145.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Halling et al. (<xref rid="ref23" ref-type="bibr">23</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">BDW</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740135.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">15500</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_002291225.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Chromosome</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Italy</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>Bubalus bubalis</italic>
+</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Paradiso et al. (<xref rid="ref25" ref-type="bibr">25</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">C68</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740195.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">63 75</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740295.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">82</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000473805.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Russia</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle, vaccine strain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Shevtsov et al. (<xref rid="ref26" ref-type="bibr">26</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">I-182</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_016484075.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Contig</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Russia</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">BC95</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000477635.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Spain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">67/93</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370165.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Iraq</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>Bubalus bubalis</italic>
+</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">03-4923-239-D</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-3</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000480075.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NCTC 10505</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-4</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740175.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">870</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-4</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740215.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">RB51</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_011801185.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Vaccine strain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Bricker et al. (<xref rid="ref27" ref-type="bibr">27</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">A13334</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000238175.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">South Korea</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Kim et al. (<xref rid="ref28" ref-type="bibr">28</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">S19</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000018725.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Vaccine strain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Crasta et al. (<xref rid="ref29" ref-type="bibr">29</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">2,308</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000054005.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Standard laboratory strain</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Chain et al. (<xref rid="ref30" ref-type="bibr">30</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">BFY</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-6</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740315.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">BER</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-6</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000740155.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Complete</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">USA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Minogue et al. (<xref rid="ref24" ref-type="bibr">24</xref>)</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">F1/06-B21</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-6</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370365.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Zimbabwe</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">F10/05&#x2013;11</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-28</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370385.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Portugal</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">84/26</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-29</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370265.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Mexico</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>Homo sapiens</italic>
+</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">85/69</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-31</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370285.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">India</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">80/28</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-32</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370245.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Chad</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">78/14</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-34</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370185.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Chad</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">78/32</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-36</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370205.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Senegal</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">80/101</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-36</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370225.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Nigeria</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">88/217</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-37</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370345.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Mozambique</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Cattle</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">63/294</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-38</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GCA_000370065.1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Scaffold</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Kenya</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">n.d.</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">n.d.</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><sup>*</sup>104 M is a vaccine strain applied for brucellosis prevention for the last 60&#x2009;years in China. This strain was first isolated in former Soviet Russia (Li et al., 2015). n.d.&#x2013;no data.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="sec5">
+        <title>Microbiological cultivation methods</title>
+        <p>Bacteria were cultivated on <italic>Brucella</italic> agar at 37&#xB0;C for 48&#x2009;h. A microbial suspension with a concentration of 1.7&#x2009;&#xD7;&#x2009;10<sup>9</sup> CFU/mL was disinfecte&#x2014;d by adding sodium merthiolate (0.01%) and incubating at 56&#xB0;C for 30 min. Additional incubation with CO<sub>2</sub> was not performed.</p>
+      </sec>
+      <sec id="sec6">
+        <title>Method for studying immunogenicity</title>
+        <p>The immunogenicity of the microorganism strains was studied in guinea pigs by introducing 10&#x2013;15 minimal infectious doses of the culture of the control virulent strain (<italic>B. abortus</italic> 54 VGNKI).</p>
+      </sec>
+      <sec id="sec7">
+        <title>Extraction of genomic DNA</title>
+        <p>Total genomic DNA was isolated using the DNA-sorb-V Kit (Central Research Institute for Epidemiology, Russia) in accordance with the manufacturer&#x2019;s instructions. DNA concentration was measured on a Quantus fluorimeter (Promega, United States) using the QuantiFluor<sup>&#xAE;</sup>ONE dsDNA System Kit (Promega, United States).</p>
+      </sec>
+      <sec id="sec8">
+        <title>Genome sequencing, bioinformatics analysis</title>
+        <p>DNA libraries were prepared using the Nextera XT DNA Sample Preparation Kit in accordance with the manufacturer&#x2019;s instructions. Whole genome sequencing was performed on a MiSeq system (Illumina, United States) in accordance with the standard operating procedure.</p>
+        <p>For bioinformatics analysis of data of whole genome sequencing and <italic>de novo</italic> genome assembly, the following programs were used: FastQC 0.11.17 (<xref rid="ref31" ref-type="bibr">31</xref>), Trimmomatic v.0.36 (<xref rid="ref32" ref-type="bibr">32</xref>), SPAdes 2.11.1 (<xref rid="ref33" ref-type="bibr">33</xref>), QUAST 4.6.3 (<xref rid="ref34" ref-type="bibr">34</xref>), MAUVE v.20150226 (<xref rid="ref35" ref-type="bibr">35</xref>). Bacterial species identification and multilocus sequence typing (MLST) were performed <italic>via</italic> the online service of the Center for Genomic Epidemiology of the Danish University of Technology (CGE) using the KmerFinder server (version 3.0.2) and MLST server (version 2.0.4) (<xref rid="ref36" ref-type="bibr">36</xref>, <xref rid="ref37" ref-type="bibr">37</xref>). Annotation of bacterial genomes was performed using the RAST server (<xref rid="ref38" ref-type="bibr">38</xref>).</p>
+        <p>The search for antibiotic resistance genes was carried out using the ResFinder 4.1 online service (<xref rid="ref39" ref-type="bibr">39</xref>) as well as the Arg-ANNOT, CARD and NCBI BARRGD databases (<xref rid="ref40" ref-type="bibr">40</xref>). Identification was carried out with the ABRicate program (<xref rid="ref41" ref-type="bibr">41</xref>) using BLASTN and BLASTX against nucleotide and amino acid sequences from various databases. To search for the main virulence factors in bacterial genomes, the Virulence Factor Database (VFDB) (<xref rid="ref42" ref-type="bibr">42</xref>) and Victors database were used (<xref rid="ref43" ref-type="bibr">43</xref>); to search for integrons, the IntegronFinder v5 program was used (<xref rid="ref44" ref-type="bibr">44</xref>). For phylogenetic analysis, the kSNP v.3.1.2 program was used (<xref rid="ref45" ref-type="bibr">45</xref>). For visualization, the service iTOL v.6.4.3 (Interactive Tree of Life) was used (<xref rid="ref46" ref-type="bibr">46</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec9">
+      <title>Results and discussion:</title>
+      <p>An analysis of epizootic data from 1946 to the present day shows that brucellosis in cattle on the territory of Russia was not regx+istered only in the Kamchatka. Circulation of a total of 6 species of <italic>Brucell</italic>a was detected: <italic>B. abortus, B. melitensis, B. suis, B. neotomae, B. ovis</italic> and <italic>B. canis</italic>. The most virulent for humans are <italic>B. melitensis, B. abortus</italic> and <italic>B. suis</italic>, and to a lesser extent <italic>B. canis, B. ceti</italic> and <italic>B. pinnipedialis</italic>. Therefore, when conducting laboratory diagnostics for brucellosis, it is important to perform not only the isolation of the culture of the pathogen, but also the identification of the specific species. To use as part of the composition for specific prophylaxis in animals, different authors proposed 25 strains of microorganisms of the genus <italic>Brucella</italic>, mainly <italic>B. abortus, B. melitensis</italic> and rarely <italic>B. suis</italic>. So far, however, only 9 of them were used in the composition of vaccines that were used to treat farm animals (<xref rid="tab2" ref-type="table">Table 2</xref>).</p>
+      <table-wrap position="float" id="tab2">
+        <label>Table 2</label>
+        <caption>
+          <p>The vaccine strains of <italic>Brucella abortus</italic> from the Russian collection.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="top" char="&#xD7;" rowspan="1" colspan="1">Strain</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Put into practice</th>
+              <th align="left" valign="top" rowspan="1" colspan="1">Reference</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"><italic>&#x412;. abortus</italic> 19</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Buck (<xref rid="ref47" ref-type="bibr">47</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1"><italic>B. melitensis</italic> Rev-1</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Elberg et al. (<xref rid="ref48" ref-type="bibr">48</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>B. abortus RB-51</italic>
+</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Schurig et al. (<xref rid="ref49" ref-type="bibr">49</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"><italic>&#x412;. abortus</italic> 104 &#x41C;<sup>*</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Shumilov et al. (<xref rid="ref50" ref-type="bibr">50</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1"><italic>&#x412;. abortus</italic> 82<sup>*</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Salmakov (<xref rid="ref51" ref-type="bibr">51</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"><italic>B. abortus</italic> 75/79-&#x410;&#x412;<sup>*</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nikiforov et al. (<xref rid="ref52" ref-type="bibr">52</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1"><italic>B. abortus</italic> KV 17/100<sup>*</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">&#x2212; (mini-batch)</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Kalmykov et al. (<xref rid="ref53" ref-type="bibr">53</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1"><italic>B. abortus</italic> KV 13/100<sup>*</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Kalmykov (<xref rid="ref54" ref-type="bibr">54</xref>)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>&#x412;. abortus R-1096<sup>*</sup></italic>
+</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">+</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Salmakov et al. (<xref rid="ref55" ref-type="bibr">55</xref>)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p><sup>*</sup>The whole genome of the strain was sequenced in this study.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>For the mass prophylaxis of brucellosis in cattle, live vaccines from <italic>B. abortus</italic> strains 19, 82 and 75/79-AB were used in different volumes, in small ruminants&#x2014;from <italic>B. melitensis</italic> strain Rev-1 and <italic>B. abortus</italic> strain 19. It is important to note that there exist no <italic>Brucella</italic> vaccines for medical and veterinary use guaranteed to protect all those immunized. The degree of their protection depends on the virulence and dose of field <italic>Brucella</italic> cultures (<xref rid="ref56" ref-type="bibr">56</xref>). Until 1952, the measures against brucellosis in the Russia consisted of conducting diagnostic studies and removing sick animals from herds, without the use of anti-brucellosis vaccines. Due to the aggravation of the epizootic situation in 1953, the system of anti-brucellosis measures was expanded: it included immunization of animals with a vaccine from the <italic>B. abortus</italic> strain 19. This vaccine was used until 1975. During the period of active implementation of the vaccine, the disease was eliminated from many farms and even entire regions. However, in regions with a wide spread of brucellosis, the effectiveness of these sanation measures was insufficient. This was primarily due to the high agglutinogenicity of the vaccine. Agglutinins and complement-binding antibodies are preserved in the bodies of repeatedly immunized animals for up to 5&#x2013;8&#x2009;years, which makes it extremely difficult to differentiate such animals from those with brucellosis.</p>
+      <p>According to official data (<xref rid="ref57" ref-type="bibr">57</xref>), in the period of 2010&#x2013;2021 three vaccines were used in Russia for immunization of cattle (<xref rid="fig1" ref-type="fig">Figure. 1</xref>), the main of which was the vaccine from the <italic>B. abortus</italic> strain 82. To prevent brucellosis in small ruminants, two vaccines were used (<xref rid="fig2" ref-type="fig">Figure. 2</xref>); among them, the vaccine from the <italic>B. melitensis</italic> REV-strain 1 was used to immunize twice as many animals as the vaccine from the <italic>B. abortus</italic> strain 19.</p>
+      <fig position="float" id="fig1">
+        <label>Figure 1</label>
+        <caption>
+          <p><italic>Brucella</italic> strains in the composition of vaccines used for the prophylaxis of brucellosis in cattle in Russia (2010&#x2013;2021, log scale).</p>
+        </caption>
+        <graphic xlink:href="fvets-10-1154520-g001" position="float"/>
+      </fig>
+      <fig position="float" id="fig2">
+        <label>Figure 2</label>
+        <caption>
+          <p><italic>Brucella</italic> strains in the composition of vaccines used for the prophylaxis of brucellosis in small ruminants in Russia (2010&#x2013;2021, log scale).</p>
+        </caption>
+        <graphic xlink:href="fvets-10-1154520-g002" position="float"/>
+      </fig>
+      <p>As seen from the <xref rid="fig1" ref-type="fig">Figures 1</xref>, <xref rid="fig2" ref-type="fig">2</xref>, over the past 11&#x2009;years up to two million heads of cattle have been immunized annually with a vaccine from the <italic>B. aborus</italic> strain 82 (from 1,261.3 thousand heads in 2017 to 1,915.3 thousand heads in 2014). Despite that, today this vaccine, as almost any other live vaccine, does not fully meet the requirements of veterinary practice due to its abortogenic properties. Nonetheless, to a large extent, this problem can be solved by immunizing heifers at the age of 4&#x2013;6 and/or 12&#x2013;14&#x2009;months. Subsequently, sensitized animals can be immunized against brucellosis during pregnancy, but only if the infection with field cultures of <italic>Brucella</italic> is completely ruled out. However, the bulk of the breeding stock of cattle is immunized after calving.</p>
+      <p>The <italic>B. abortus</italic> strain KV 17/100-VGNKI was obtained by targeted selection for cultural, morphological, biochemical and antigenic properties is very promising for the production of an inactivated vaccine with an adjuvant when constructing and testing a mini-batch (<xref rid="ref58" ref-type="bibr">58</xref>). This vaccine does not induce the synthesis of S-<italic>Brucella</italic> antibodies in diagnostic titers in animals not infected with <italic>Brucella</italic> but induces it in cattle with a latent form of brucellosis, which allows, due to the rapid removal of such animals from herds, to accelerate the recovery of affected farms from brucellosis. At the same time, it does not have abortogenic properties and can be used for immunization of pregnant cows and heifers. Moreover, since it is in an inactivated state, it does not pose an environmental hazard.</p>
+      <p>Next, we performed whole genome sequencing of six vaccine strains: <italic>Brucella abortus</italic> strain 82, <italic>B. abortus</italic> strain 75/79-AB and <italic>B. abortus</italic> strain R-1096; <italic>B. abortus</italic> strain KV 17/100 and <italic>B. abortus</italic> strain 104 M used as an antigen to provoke latent forms of brucellosis; and <italic>B. abortus</italic> strain KV 13/100 used to control the immunogenic activity of inactivated vaccines (<xref rid="tab3" ref-type="table">Table 3</xref>).</p>
+      <table-wrap position="float" id="tab3">
+        <label>Table 3</label>
+        <caption>
+          <p>Immunogenic properties of <italic>Brucella</italic> strains subjected to whole genome sequencing.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="middle" rowspan="1" colspan="1">Strain</th>
+              <th align="center" valign="middle" colspan="2" rowspan="1">Purpose and state of strain in vaccine</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Species of animal</th>
+              <th align="left" valign="middle" rowspan="1" colspan="1">Virulence</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1"><xref rid="tfn1" ref-type="table-fn"><sup>a</sup></xref>Immunogenicity, %</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1"><xref rid="tfn2" ref-type="table-fn"><sup>b</sup></xref>Dose, bil. m.c.</th>
+              <th align="left" valign="middle" rowspan="1" colspan="1">Type of colonies</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Practical application</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">R-1096</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Antigen for provoking of latent forms of brucellosis</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Live</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cattle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="char" valign="top" char="&#x2013;" rowspan="1" colspan="1">40&#x2013;60</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">100</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">R-form</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">&#x2212;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">KV 17/100</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Adjuvant-vaccine</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Inactivated</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cattle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="char" valign="top" char="&#x2013;" rowspan="1" colspan="1">50&#x2013;70</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">450</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">R-form</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">+ (mini-batch)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">KV 13/100</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Control</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Live</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x2212;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="char" valign="top" char="&#x2013;" rowspan="1" colspan="1">&#x2212;</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">&#x2212;</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">R-form</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">&#x2212;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">82</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Vaccine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Live</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cattle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="char" valign="top" char="&#x2013;" rowspan="1" colspan="1">70&#x2013;80</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">100</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">SR-form</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">75/79-&#x410;&#x412;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Vaccine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Live</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cattle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="char" valign="top" char="&#x2013;" rowspan="1" colspan="1">70&#x2013;80</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">100</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">SR-form</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">+</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">104&#x41C;</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Vaccine</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Live</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Cattle</td>
+              <td align="left" valign="top" rowspan="1" colspan="1">Attenuated</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">90&#x2013;100</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">80</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">S-form</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">&#x2212;</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="tfn1">
+            <label>a</label>
+            <p>The percentage of immunogenicity is indicated according to the results of experiments on guinea pigs with the administration of 10&#x2013;15 minimal infectious doses of a culture of the virulent strain <italic>B. abortus</italic> 54 VGNKI.</p>
+          </fn>
+          <fn id="tfn2">
+            <label>b</label>
+            <p>bil. m.c., billion microbial cells.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <sec id="sec10">
+        <title>The bioinformatics analysis of genomic data of <italic>Brucella abortus</italic> strains</title>
+        <p>The genomes of all <italic>Brucella</italic> species have the same size and genome map (<xref rid="ref59" ref-type="bibr">59</xref>). The average size of the genome which consists of two ring chromosomes is approximately 3.29 Mb.</p>
+        <p>The quality of sequencing data (FASTQ files) was assessed using the FastQC_0.11.17. The removal of technical sequences and low-quality nucleotides was performed in the Trimmomatic v.0.36 with the following ILLUMINACLIP parameters: NexteraPE-PE.fa: 2:30:10, SLIDINGWINDOW: 4:15, MINLEN: 50. The <italic>de novo</italic> assembly of bacterial genomes was performed using SPAdes 2.11.1 with the sequencing error correction and automatic selection of k-mer length (21, 33, 55, 77, 99). Contigs shorter than 500&#x2009;bp were excluded from further analysis. The assembly with the smallest number of contigs and the largest N50 value was chosen as the best one. The main characteristics of the assembly were obtained using the QUAST 4.6.3 and are presented in <xref rid="tab4" ref-type="table">Table 4</xref>.</p>
+        <table-wrap position="float" id="tab4">
+          <label>Table 4</label>
+          <caption>
+            <p>Main characteristics of draft genome assemblies of <italic>B. abortus strains.</italic></p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="middle" rowspan="1" colspan="1">Strain</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Number of contigs</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Max length of contig, bp</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">Total length of contigs, bp</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">N50</th>
+                <th align="center" valign="middle" rowspan="1" colspan="1">GC content, %</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">R-1096</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">17</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1,101,404</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,247,278</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">530,773</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">57.3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">75/79-&#x410;&#x412;</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">22</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">714,196</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,261,112</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">443,659</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">57.2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">82</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">21</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">883,913</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,260,553</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">462,459</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">57.2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">KV 17/100</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">18</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">1,098,592</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,257,570</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">462,111</td>
+                <td align="char" valign="top" char="." rowspan="1" colspan="1">57.2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">KV 13/100</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">23</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">518,914</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,263,681</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">316,877</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">57.2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">104&#x41C;</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">26</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">545,702</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">3,266,856</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">309,189</td>
+                <td align="char" valign="middle" char="." rowspan="1" colspan="1">57.2</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>To identify a bacterial species using the assembled contigs, we used the method of searching for common k-mers. Multilocus typing of the strain was carried out for the <italic>aroA, cobQ, dnaK, gap, glk, gyrB, int_hyp, omp25</italic>, and <italic>trpE</italic> loci. The MLST profiles and loci sequences were obtained from the PubMLST database (<xref rid="ref23" ref-type="bibr">23</xref>). Genotyping data are shown in <xref rid="tab5" ref-type="table">Table 5</xref>.</p>
+        <table-wrap position="float" id="tab5">
+          <label>Table 5</label>
+          <caption>
+            <p>Results of genotyping of <italic>B. abortus</italic> strains.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Strain</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">MLST</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">KmerFinder</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">R-1096</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP008774.1 <italic>Brucella abortus</italic> strain BAB8416</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">75/79-&#x410;&#x412;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP008774.1 <italic>Brucella abortus</italic> strain BAB8416</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">82</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP008774.1 <italic>Brucella abortus</italic> strain BAB8416</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">KV 17/100</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-2<sup>*</sup> (gyrB<sup>*</sup>)</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP007705.1 <italic>Brucella abortus</italic> bv. 9 str. C68</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">KV 13/100</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-5</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP030751.1 <italic>Brucella abortus</italic> strain A19</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">104&#x41C;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">ST-1</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NZ_CP009625.1 <italic>Brucella abortus</italic> 104 M</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><sup>*</sup>The strain KV 17/100 corresponds to ST-2 at eight out of nine loci with 100% identity, and at the gyrB locus, the identity is 99.79% due to single SNP.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Annotation of genomes was performed using the RAST server on the SEED, an open platform for comparative analysis of genomes. The preliminary contigs were ordered using the MAUVE v.20150226 relative to the corresponding sequences indicated in <xref rid="tab5" ref-type="table">Table 5</xref> in the KmerFinder column.</p>
+        <p>To analyze contig sequences for the presence of various antibiotic resistance genes, the following criteria were used: &gt;95% identity, &gt;80% minimum intersection length. No antibiotic resistance genes were identified in any of the strain. Genome analysis did not reveal the presence of integrons in any of the strains.</p>
+      </sec>
+      <sec id="sec11">
+        <title>Phylogenetic analysis of <italic>Brucella abortus</italic> vaccine strains</title>
+        <p>For typing and comparison with other strains, a phylogenetic analysis was carried out using single nucleotide substitutions.</p>
+        <p>To construct a phylogenetic tree based on SNP loci, we selected the genomes of vaccine strains and field isolates from the NCBI database that were assembled completely or at the scaffold level and added 6 vaccine strains from the All-Russian State Collection of Microorganisms Used in Veterinary Medicine and Animal Husbandry. The list of strains from the NCBI database is presented in <xref rid="tab1" ref-type="table">Table 1</xref>. Pan-genome analysis was carried out using the program kSNP v.3.1. In total, we identified 14,768 SNPs, of which 11,510 are core SNPs. The rooted tree of all SNPs was constructed using the maximum parsimony method (<xref rid="fig3" ref-type="fig">Figure. 3</xref>). When constructing the tree, the genome of <italic>Brucella melitensis bv</italic>. 1 str. 16 M (NC_003317.1) was used as an outgroup.</p>
+        <fig position="float" id="fig3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Phylogenetic tree of <italic>Brucella abortus</italic> for 11,510 SNPs. The prefix &#x201C;VGNKI&#x201D; indicates strains sequenced in this study. Numbers in blue at the roots of nodes show the number of SNPs that are shared exclusively among the descendants of each node. The number of unique SNPs for the genome is given in parentheses. Strains of ST-1 are highlighted in red, ST-2&#x2014;in green, and ST-5&#x2014;in blue.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1154520-g003" position="float"/>
+        </fig>
+        <p>Vaccine strain KV 13/100 (ST-5) belong to the same clade as vaccine strain S19 and it is a close relative to the vaccine strain RB-51. Vaccine strain 104 M (ST-1) is more distant relative to afore mentioned vaccine strains. Vaccine strains R-1096, 75/79AB and 82 (ST-2) belong to the same clade and very similar to each other. They are related distantly to vaccine strain KV 17/100-VGNKI (ST-2). It should be noted that the vaccine strain 104 M transferred from Soviet Russia to China 60&#x2009;years ago (<xref rid="ref60" ref-type="bibr">60</xref>) has acquired more than 60 unique SNPs compared to the Russian collection strain.</p>
+      </sec>
+      <sec id="sec12">
+        <title>Analysis of mutations in the virulence genes of industrial <italic>Brucella abortus</italic> strains</title>
+        <p>The complete genome sequence of <italic>B. abortus</italic> provides an important resource for future studies of pathogenicity determinants and virulence phenotypes of these bacteria, as well as serves as a basis for quality control of medicinal products for animals (<xref rid="ref29" ref-type="bibr">29</xref>).</p>
+        <p>We analyzed the nucleotide sequence of virulence genes in our vaccine strains using the list of <italic>Brucella</italic> virulence genes from VFDB and the Victors database. For every SNP, we estimated its possible contribution to protein function using SIFT (<xref rid="ref61" ref-type="bibr">61</xref>), then additionally checked the protein conservation level in the mutation site using UniProt (<xref rid="ref62" ref-type="bibr">62</xref>). We found alterations and mutations that could explain the attenuated virulence in all six vaccine strains (<xref rid="tab6" ref-type="table">Table 6</xref>).</p>
+        <table-wrap position="float" id="tab6">
+          <label>Table 6</label>
+          <caption>
+            <p>The mutations observed in virulence genes of vaccine strains.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Virulence genes</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">R-1096</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">75/79-AB</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">82</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">KV 17/100</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">KV 13/100</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">104&#x2009;M</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>pmm</italic>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">N255K</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Partial deletion</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>wbdA</italic>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Deletion</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>wbkA</italic>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1"><bold>G225V</bold>, A321E</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>wboA</italic>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">Deletion</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>W219L</bold>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">
+<bold>W219L</bold>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">
+<italic>eryB</italic>
+</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">W215X</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>The bold font indicates missense mutations occurred in conservative sites of proteins.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>So, the virulence genes <italic>wbdA</italic> and <italic>wboA</italic> is absent in the vaccine strain R-1096. The IS711-like insertion sequence destroys the <italic>pmm</italic> gene in the vaccine strain 13/100. The <italic>eryB</italic> gene in strain 104 M codes a non-functional truncated protein because of nonsense mutation W215X. The attenuated phenotype of the strains KV 17/100, 75/79-AB, and 82 can be explained by missense mutations that occur in conservative sites of functional domains in virulence proteins. The strain KV 17/100 has a substitution mutation G255V in a very conservative site of the glycosyl transferase domain of the wbkA protein (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S1</xref>). Both strains 75/79-AB and 82 have a substitution W219L located in a conservative site of the glycosyl transferase domain of the <italic>wboA</italic> protein (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure S2</xref>). The strain KB 17/100 has two substitutions N255K in the <italic>pmm</italic> gene and A321 in the <italic>wbkA</italic> gene, which can also negatively impact the function of corresponding proteins because they are in semi-conservative sites (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figures S3</xref>, <xref rid="SM1" ref-type="supplementary-material">S4</xref>).</p>
+        <p>Thus, the five vaccine strains analyzed here are deficient in classical virulence genes responsible for the biosynthesis of LPS O-chain: <italic>pmm</italic>, <italic>wbdA</italic>, <italic>wbkA</italic>, <italic>wboA</italic> (<xref rid="ref63" ref-type="bibr">63</xref>). These mutations can be responsible for these vaccine strains&#x2019; R-form type of colonies (<xref rid="tab3" ref-type="table">Table 3</xref>). The deficiency of the <italic>wboA</italic> gene observed here in strains R-1096, 75/79-AB, and 82 was reported earlier for vaccine strain RB51 (<xref rid="ref64" ref-type="bibr">64</xref>).</p>
+        <p>Yu et al. (<xref rid="ref22" ref-type="bibr">22</xref>) described a set of candidate genes associated with virulence attenuation in vaccine strain 104 M. We complement this set with gene <italic>eryB</italic>, whose function is impaired by preliminary stop codon W215X. The gene <italic>eryB</italic> is a part of operon eryABCD encoding the erythritol dissimilative pathway (<xref rid="ref65" ref-type="bibr">65</xref>, <xref rid="ref66" ref-type="bibr">66</xref>) reported that the growth of vaccine strain B19 was inhibited by erythritol due to mutations in genes <italic>eryC</italic> and e<italic>ryD</italic>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec13">
+      <title>Conclusion</title>
+      <p>This study represents a comprehensive bioinformatics analysis of genomes of 6 <italic>Brucella</italic> vaccine strains. The results of our study serve as a prerequisite for improving the diagnostics of brucellosis in animals and will allow to reduce the risks associated with the spread of this infection in Russia, as well as to improve the control over the quality and safety of anti-brucellosis immunobiological agents.</p>
+    </sec>
+    <sec sec-type="data-availability" id="sec14">
+      <title>Data availability statement</title>
+      <p>The datasets presented in this study can be found in online repositories. The name of the repository and accession number can be found below: NCBI; PRJNA932701, <ext-link xlink:href="https://www.ncbi.nlm.nih.gov/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/</ext-link>.</p>
+    </sec>
+    <sec id="sec3">
+      <title>Ethics statement</title>
+      <p>The study was approved by the Ethics Committee of VGNKI.</p>
+    </sec>
+    <sec id="sec15">
+      <title>Author contributions</title>
+      <p>AP: project management and securing funding. OS and AM: conceptualization and methodology. IS and IT: molecular genetic studies. AB and VG: bioinformatics analysis. OP, EK, and OS: writing and editing. All authors contributed to the article and approved the submitted version.</p>
+    </sec>
+    <sec sec-type="funding-information" id="sec16">
+      <title>Funding</title>
+      <p>This work was supported by the grant # 075-15-2021-1053 from the Ministry of Science and Higher Education of the Russian Federation.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="sec100">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors express their gratitude to the staff of the All-Russian State Collection of Microorganism Used in Veterinary Medicine and Animal Husbandry for providing materials for the study.</p>
+    </ack>
+    <sec sec-type="supplementary-material" id="sec18">
+      <title>Supplementary material</title>
+      <p>The Supplementary material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fvets.2023.1154520/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fvets.2023.1154520/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <media xlink:href="Image_1.pdf">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref1">
+        <label>1.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bang</surname><given-names>B.</given-names></name><name><surname>Stribold</surname></name></person-group>. <source>The etiology of contagious abortion Zeitschr.f</source>. <publisher-name>Tiermed</publisher-name>, (<year>1897</year>). <volume>1</volume>:<fpage>103</fpage>&#x2013;<lpage>105</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corner</surname><given-names>LA</given-names></name><name><surname>Alton</surname><given-names>GG</given-names></name></person-group>. <article-title>Persistence of <italic>Brucella abortus</italic> strain 19 infection in adult cattle vaccinated with reduced doses</article-title>. <source>Res Vet Sci</source>. (<year>1981</year>) <volume>31</volume>:<fpage>342</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0034-5288(18)32468-8</pub-id>, PMID: <pub-id pub-id-type="pmid">6805054</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>R</given-names></name><name><surname>Smoll</surname><given-names>F</given-names></name><name><surname>Schutz</surname><given-names>R</given-names></name></person-group>. <article-title>Measurement and correlates of sport-specific cognitive and somatic trait anxiety: the sport anxiety scale</article-title>. <source>Anxiety Res</source>. (<year>1990</year>) <volume>2</volume>:<fpage>263</fpage>&#x2013;<lpage>80</lpage>. doi: <pub-id pub-id-type="doi">10.1080/08917779008248733</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DelVecchio</surname><given-names>VG</given-names></name><name><surname>Kapatral</surname><given-names>V</given-names></name><name><surname>Redkar Guy Patra</surname><given-names>RJ</given-names></name><name><surname>Mujer</surname><given-names>C</given-names></name><name><surname>Los</surname><given-names>T</given-names></name><name><surname>Ivanova</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>The genome sequence of the facultative intracellular pathogen Brucella melitensis</article-title>. <source>Proc Natl Acad Sci</source>. (<year>2002</year>) <volume>99</volume>:<fpage>443</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1073/pnas.22157539</pub-id><pub-id pub-id-type="pmid">11756688</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Richard</surname><given-names>C</given-names></name><name><surname>Essenberg</surname><given-names>RS</given-names></name><name><surname>Nelson</surname><given-names>K</given-names></name><name><surname>Paulsen</surname><given-names>I</given-names></name></person-group>. <article-title>Sugar metabolism by Brucellae</article-title>. <source>Vet Microbiol</source>. (<year>2002</year>) <volume>90</volume>:<fpage>249</fpage>&#x2013;<lpage>61</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00212-2</pub-id><pub-id pub-id-type="pmid">12414147</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gopalakrishnan</surname><given-names>A</given-names></name><name><surname>Dimri</surname><given-names>U</given-names></name><name><surname>Saminathan</surname><given-names>M</given-names></name><name><surname>Yatoo</surname><given-names>MY</given-names></name><name><surname>Priya</surname><given-names>BG</given-names></name><name><surname>Gopinath</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Virulence factors, intracellular survivability and mechanism of evasion from host immune response by <italic>Brucella</italic>: an overview</article-title>. <source>J Anim Plant Sci</source>. (<year>2016</year>) <volume>26</volume>:<fpage>1542</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lapaque</surname><given-names>N</given-names></name><name><surname>Moriyon</surname><given-names>I</given-names></name><name><surname>Moreno</surname><given-names>E</given-names></name><name><surname>Gorvel</surname><given-names>J-P</given-names></name></person-group>. <article-title><italic>Brucella</italic> lipopolysaccharide acts as a virulence factor</article-title>. <source>Curr Opin Microbiol</source>. (<year>2005</year>) <volume>8</volume>:<fpage>60</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.mib.2004.12.003</pub-id>, PMID: <pub-id pub-id-type="pmid">15694858</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martirosyan</surname><given-names>A</given-names></name><name><surname>Moreno</surname><given-names>E</given-names></name><name><surname>Gorvel</surname><given-names>J</given-names></name></person-group>. <article-title>An evolutionary strategy for a stealthy intracellular <italic>Brucella</italic> pathogen</article-title>. <source>Immunol Rev</source>. (<year>2011</year>) <volume>240</volume>:<fpage>211</fpage>&#x2013;<lpage>34</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1600-065X.2010.00982.x</pub-id>, PMID: <pub-id pub-id-type="pmid">21349096</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martirosyan</surname><given-names>A</given-names></name><name><surname>P&#xE9;rez-Gutierrez</surname><given-names>C</given-names></name><name><surname>Banchereau</surname><given-names>R</given-names></name><name><surname>Dutartre</surname><given-names>H</given-names></name><name><surname>Lecine</surname><given-names>P</given-names></name><name><surname>Dullaers</surname><given-names>M</given-names></name><etal/></person-group>. <article-title><italic>Brucella</italic> &#x3B2; 1,2 cyclic glucan is an activator of human and mouse dendritic cells</article-title>. <source>PLoS Pathog</source>. (<year>2012</year>) <volume>8</volume>:<fpage>e1002983</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.ppat.1002983</pub-id>, PMID: <pub-id pub-id-type="pmid">23166489</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martin</surname><given-names>R</given-names></name></person-group>. <article-title>Regional economic resilience, hysteresis and recessionary shocks</article-title>. <source>J Econ Geogr</source>. (<year>2012</year>) <volume>12</volume>:<fpage>1</fpage>&#x2013;<lpage>32</lpage>. doi: <pub-id pub-id-type="doi">10.1093/jeg/lbr019</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lim</surname><given-names>JJ</given-names></name><name><surname>Kim</surname><given-names>DH</given-names></name><name><surname>Lee</surname><given-names>JJ</given-names></name><name><surname>Kim</surname><given-names>DG</given-names></name><name><surname>Min</surname><given-names>W</given-names></name><name><surname>Lee</surname><given-names>HJ</given-names></name><etal/></person-group>. <article-title>Evaluation of recombinant 28 kDa outer membrane protein of <italic>Brucella abortus</italic> for the clinical diagnosis of bovine brucellosis in Korea</article-title>. <source>J Vet Med Sci</source>. (<year>2012</year>) <volume>74</volume>:<fpage>687</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.1292/jvms.11-0512</pub-id><pub-id pub-id-type="pmid">22214857</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Posadas</surname><given-names>DM</given-names></name><name><surname>Ruiz-Ranwez</surname><given-names>V</given-names></name><name><surname>Bonomi</surname><given-names>HR</given-names></name><name><surname>Mart&#xED;n</surname><given-names>FA</given-names></name><name><surname>Zorreguieta</surname><given-names>A</given-names></name></person-group>. <article-title>BmaC, a novel autotransporter of <italic>Brucella suis</italic>, is involved in bacterial adhesion to host cells</article-title>. <source>Cell Microbiol</source>. (<year>2012</year>) <volume>14</volume>:<fpage>965</fpage>&#x2013;<lpage>82</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1462-5822.2012.01771.x</pub-id><pub-id pub-id-type="pmid">22321605</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Del Giudice</surname><given-names>MG</given-names></name><name><surname>Ugalde</surname><given-names>JE</given-names></name><name><surname>Czibener</surname><given-names>C</given-names></name></person-group>. <article-title>A lysozyme-like protein in <italic>Brucella abortus</italic> is involved in the early stages of intracellular replication</article-title>. <source>Infect Immun</source>. (<year>2013</year>) <volume>81</volume>:<fpage>956</fpage>&#x2013;<lpage>64</lpage>. doi: <pub-id pub-id-type="doi">10.1128/IAI.01158-12</pub-id><pub-id pub-id-type="pmid">23319555</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ruiz-Ranwez</surname><given-names>V</given-names></name><name><surname>Posadas</surname><given-names>DM</given-names></name><name><surname>Estein</surname><given-names>SM</given-names></name><name><surname>Abdian</surname><given-names>PL</given-names></name><name><surname>Martin</surname><given-names>FA</given-names></name><name><surname>Zorreguieta</surname><given-names>A</given-names></name></person-group>. <article-title>The BtaF trimeric autotransporter of <italic>Brucella suis</italic> is involved in attachment to various surfaces, resistance to serum and virulence</article-title>. <source>PLoS One</source>. (<year>2013</year>) <volume>8</volume>:<fpage>e79770</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0079770</pub-id>, PMID: <pub-id pub-id-type="pmid">24236157</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>JJ</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name><name><surname>Kim</surname><given-names>DG</given-names></name><name><surname>Kim</surname><given-names>DH</given-names></name><name><surname>Simborio</surname><given-names>HL</given-names></name><name><surname>Min</surname><given-names>WG</given-names></name><etal/></person-group>. Characterization of betaine aldehyde dehydrogenase (BetB) as an essential virulence factor of <italic>Brucella abortus</italic>. <source>Vet Microbiol</source> (<year>2014</year>); <volume>168</volume>, <fpage>131</fpage>&#x2013;<lpage>140</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vetmic.2013.10.007</pub-id><pub-id pub-id-type="pmid">24210811</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mirabella</surname><given-names>A</given-names></name><name><surname>Terwagne</surname><given-names>M</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>De Bolle</surname><given-names>X</given-names></name><name><surname>Letesson</surname><given-names>JJ</given-names></name></person-group>. <article-title><italic>Brucella melitensis</italic> MucR, an orthologue of <italic>Sinorhizobium meliloti</italic> MucR, is involved in resistance to oxidative, detergent, and saline stresses and cell envelope modifications</article-title>. <source>J Bacteriol</source>. (<year>2013</year>) <volume>195</volume>:<fpage>453</fpage>&#x2013;<lpage>65</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JB.01336-12</pub-id>, PMID: <pub-id pub-id-type="pmid">23161025</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mancilla</surname><given-names>M</given-names></name></person-group>. <article-title>Smooth to rough dissociation in <italic>Brucella</italic>: the missing link to virulence/<italic>M. Mancilla</italic></article-title>. <source>Front Cell Infect Microbiol</source>. (<year>2016</year>) <volume>5</volume>:<fpage>98</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2015.00098</pub-id><pub-id pub-id-type="pmid">26779449</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>HC</given-names></name><name><surname>Hubalek</surname><given-names>Z</given-names></name><name><surname>Sedl&#xE1;cek</surname><given-names>I</given-names></name><name><surname>Vergnaud</surname><given-names>G</given-names></name><name><surname>Tomaso</surname><given-names>H</given-names></name><name><surname>Al Dahouk</surname><given-names>S</given-names></name><etal/></person-group>. <article-title><italic>Brucella microti</italic> sp. nov., isolated from the common vole <italic>Microtus arvalis</italic></article-title>. <source>Int J Syst Evol Microbiol</source>. (<year>2008</year>) <volume>58</volume>:<fpage>375</fpage>&#x2013;<lpage>82</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.65356-0</pub-id>, PMID: <pub-id pub-id-type="pmid">18218934</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Foster</surname><given-names>G</given-names></name><name><surname>Osterman</surname><given-names>BS</given-names></name><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Jacques</surname><given-names>I</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name></person-group>. <article-title><italic>Brucella ceti</italic> sp. nov. and <italic>Brucella pinnipedialis</italic> sp. nov. for <italic>Brucella</italic> strains with cetaceans and seals as their preferred hosts</article-title>. <source>Int J Syst Evol Microbiol</source>. (<year>2007</year>) <volume>57</volume>:<fpage>2688</fpage>&#x2013;<lpage>93</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijs.0.65269-0</pub-id>, PMID: <pub-id pub-id-type="pmid">17978241</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Scholz</surname><given-names>HC</given-names></name><name><surname>Revilla-Fern&#xE1;ndez</surname><given-names>S</given-names></name><name><surname>Dahouk</surname><given-names>SA</given-names></name><name><surname>Hammerl</surname><given-names>JA</given-names></name><name><surname>Zygmunt</surname><given-names>MS</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><etal/></person-group>. <article-title><italic>Brucella vulpis</italic> sp. nov., isolated from mandibular lymph nodes of red foxes (<italic>Vulpes vulpes</italic>)</article-title>. <source>Int J Syst Evol Microbiol</source>. (<year>2016</year>) <volume>66</volume>:<fpage>2090</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1099/ijsem.0.000998</pub-id>, PMID: <pub-id pub-id-type="pmid">26928956</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Verger</surname><given-names>JM</given-names></name><name><surname>Grimont</surname><given-names>F</given-names></name><name><surname>Grimont</surname><given-names>PA</given-names></name><name><surname>Grayon</surname><given-names>M</given-names></name></person-group>. <article-title>Taxonomy of the genus <italic>Brucella</italic></article-title>. <source>Ann Inst Pasteur Microbiol</source>. (<year>1987</year>) <volume>138</volume>:<fpage>235</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0769-2609(87)90199-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>D</given-names></name><name><surname>Hui</surname><given-names>Y</given-names></name><name><surname>Zai</surname><given-names>X</given-names></name><name><surname>Xu</surname><given-names>J</given-names></name><name><surname>Liang</surname><given-names>L</given-names></name><name><surname>Wang</surname><given-names>B</given-names></name><etal/></person-group>. <article-title>Comparative genomic analysis of <italic>Brucella abortus</italic> vaccine strain 104M reveals a set of candidate genes associated with its virulence attenuation</article-title>. <source>Virulence</source>. (<year>2015</year>) <volume>6</volume>:<fpage>745</fpage>&#x2013;<lpage>54</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2015.1038015</pub-id>, PMID: <pub-id pub-id-type="pmid">26039674</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Halling</surname><given-names>SM</given-names></name><name><surname>Peterson-Burch</surname><given-names>BD</given-names></name><name><surname>Bricker</surname><given-names>BJ</given-names></name><name><surname>Zuerner</surname><given-names>RL</given-names></name><name><surname>Qing</surname><given-names>Z</given-names></name><name><surname>Li</surname><given-names>LL</given-names></name><etal/></person-group>. <article-title>Completion of the genome sequence of <italic>Brucella abortus</italic> and comparison to the highly similar genomes of <italic>Brucella melitensis</italic> and <italic>Brucella suis</italic></article-title>. <source>J Bacteriol</source>. (<year>2005</year>) <volume>187</volume>:<fpage>2715</fpage>&#x2013;<lpage>26</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JB.187.8.2715-2726.2005</pub-id>, PMID: <pub-id pub-id-type="pmid">15805518</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minogue</surname><given-names>TD</given-names></name><name><surname>Daligault</surname><given-names>HA</given-names></name><name><surname>Davenport</surname><given-names>KW</given-names></name><name><surname>Bishop-Lilly</surname><given-names>KA</given-names></name><name><surname>Broomall</surname><given-names>SM</given-names></name><name><surname>Bruce</surname><given-names>DC</given-names></name><etal/></person-group>. <article-title>Whole-genome sequences of 24 <italic>Brucella</italic> strains</article-title>. <source>Genome Announc</source>. (<year>2014</year>) <volume>2</volume>:<fpage>e00915</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1128/genomeA.00915-14</pub-id><pub-id pub-id-type="pmid">25237024</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paradiso</surname><given-names>R</given-names></name><name><surname>Orsini</surname><given-names>M</given-names></name><name><surname>Criscuolo</surname><given-names>D</given-names></name><name><surname>Borrelli</surname><given-names>R</given-names></name><name><surname>Valvini</surname><given-names>O</given-names></name><name><surname>Camm&#xE0;</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Complete genome sequencing of 10 <italic>Brucella abortus</italic> Biovar 3 strains isolated from water Buffalo</article-title>. <source>Genome Announc</source>. (<year>2018</year>) <volume>6</volume>:<fpage>e00180</fpage>&#x2013;<lpage>18</lpage>. doi: <pub-id pub-id-type="doi">10.1128/genomeA.00180-18</pub-id><pub-id pub-id-type="pmid">29674531</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shevtsov</surname><given-names>A</given-names></name><name><surname>Tarlykov</surname><given-names>P</given-names></name><name><surname>Zholdybayeva</surname><given-names>E</given-names></name><name><surname>Shevtsova</surname><given-names>E</given-names></name><name><surname>Momynkulov</surname><given-names>D</given-names></name><name><surname>Sytnik</surname><given-names>I</given-names></name><etal/></person-group>. <article-title>Draft genome sequence of the live vaccine strain <italic>Brucella abortus</italic> 82</article-title>. <source>Genome Announc</source>. (<year>2013</year>) <volume>1</volume>:<fpage>e01101</fpage>&#x2013;<lpage>13</lpage>. doi: <pub-id pub-id-type="doi">10.1128/genomeA.01101-13</pub-id><pub-id pub-id-type="pmid">24371203</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bricker</surname><given-names>B</given-names></name><name><surname>Goonesekere</surname><given-names>N</given-names></name><name><surname>Bayles</surname><given-names>D</given-names></name><name><surname>Alt</surname><given-names>D</given-names></name><name><surname>Olsen</surname><given-names>S</given-names></name><name><surname>Vrentas</surname><given-names>C</given-names></name></person-group>. <article-title>Genome report&#x2014;a genome sequence analysis of the RB51 strain of <italic>Brucella abortus</italic> in the context of its vaccine properties. G3: genes, genomes</article-title>. <source>Genetics</source>. (<year>2020</year>) <volume>10</volume>:<fpage>1175</fpage>&#x2013;<lpage>81</lpage>. doi: <pub-id pub-id-type="doi">10.1534/g3.119.400964</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>H</given-names></name><name><surname>Jeong</surname><given-names>W</given-names></name><name><surname>Jeoung</surname><given-names>HY</given-names></name><name><surname>Song</surname><given-names>JY</given-names></name><name><surname>Kim</surname><given-names>JS</given-names></name><name><surname>Beak</surname><given-names>JH</given-names></name><etal/></person-group>. <article-title>Complete genome sequence of <italic>Brucella abortus</italic> A13334, a new strain isolated from the fetal gastric fluid of dairy cattle</article-title>. <source>J Bacteriol</source>. (<year>2012</year>) <volume>194</volume>:<fpage>5444</fpage>. doi: <pub-id pub-id-type="doi">10.1128/JB.01124-12</pub-id>, PMID: <pub-id pub-id-type="pmid">22965076</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crasta</surname><given-names>OR</given-names></name><name><surname>Folkerts</surname><given-names>O</given-names></name><name><surname>Fei</surname><given-names>Z</given-names></name><name><surname>Mane</surname><given-names>SP</given-names></name><name><surname>Evans</surname><given-names>C</given-names></name><name><surname>Martino-Catt</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Genome sequence of <italic>Brucella abortus</italic> vaccine strain S19 compared to virulent strains yields candidate virulence genes</article-title>. <source>PLoS One</source>. (<year>2008</year>) <volume>3</volume>:<fpage>e2193</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0002193</pub-id>, PMID: <pub-id pub-id-type="pmid">18478107</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chain</surname><given-names>PS</given-names></name><name><surname>Comerci</surname><given-names>DJ</given-names></name><name><surname>Tolmasky</surname><given-names>ME</given-names></name><name><surname>Larimer</surname><given-names>FW</given-names></name><name><surname>Malfatti</surname><given-names>SA</given-names></name><name><surname>Vergez</surname><given-names>LM</given-names></name><etal/></person-group>. <article-title>Whole-genome analyses of speciation events in pathogenic Brucellae</article-title>. <source>Infect Immun</source>. (<year>2005</year>) <volume>73</volume>:<fpage>8353</fpage>&#x2013;<lpage>61</lpage>. doi: <pub-id pub-id-type="doi">10.1128/IAI.73.12.8353-8361.2005</pub-id>, PMID: <pub-id pub-id-type="pmid">16299333</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Andrews</surname><given-names>S</given-names></name></person-group> (<year>2010</year>). <article-title>FastQC: a quality control tool for high throughput sequence data</article-title>. Available at: <ext-link xlink:href="http://www.bioinformatics.babraham.ac.uk/projects/fastqc/" ext-link-type="uri">http://www.bioinformatics.babraham.ac.uk/projects/fastqc/</ext-link></mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bolger</surname><given-names>AM</given-names></name><name><surname>Lohse</surname><given-names>M</given-names></name><name><surname>Usadel</surname><given-names>B</given-names></name></person-group>. <article-title>Trimmomatic: a flexible trimmer for Illumina sequence data</article-title>. <source>Bioinformatics</source>. (<year>2014</year>) <volume>30</volume>:<fpage>2114</fpage>&#x2013;<lpage>20</lpage>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btu170</pub-id>, PMID: <pub-id pub-id-type="pmid">24695404</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bankevich</surname><given-names>A</given-names></name><name><surname>Nurk</surname><given-names>S</given-names></name><name><surname>Antipov</surname><given-names>D</given-names></name><name><surname>Gurevich</surname><given-names>AA</given-names></name><name><surname>Dvorkin</surname><given-names>M</given-names></name><name><surname>Kulikov</surname><given-names>AS</given-names></name><etal/></person-group>. <article-title>SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing</article-title>. <source>J Comput Biol</source>. (<year>2012</year>) <volume>19</volume>:<fpage>455</fpage>&#x2013;<lpage>77</lpage>. doi: <pub-id pub-id-type="doi">10.1089/cmb.2012.0021</pub-id>, PMID: <pub-id pub-id-type="pmid">22506599</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gurevich</surname><given-names>A</given-names></name><name><surname>Saveliev</surname><given-names>V</given-names></name><name><surname>Vyahhi</surname><given-names>N</given-names></name><name><surname>Tesler</surname><given-names>G</given-names></name></person-group>. <article-title>QUAST: quality assessment tool for genome assemblies</article-title>. <source>Bioinformatics</source>. (<year>2013</year>) <volume>29</volume>:<fpage>1072</fpage>&#x2013;<lpage>5</lpage>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btt086</pub-id>, PMID: <pub-id pub-id-type="pmid">23422339</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Darling</surname><given-names>AC</given-names></name><name><surname>Mau</surname><given-names>B</given-names></name><name><surname>Blattner</surname><given-names>FR</given-names></name><name><surname>Perna</surname><given-names>NT</given-names></name></person-group>. <article-title>Mauve: multiple alignment of conserved genomic sequence with rearrangements</article-title>. <source>Genome Res</source>. (<year>2004</year>) <volume>14</volume>:<fpage>1394</fpage>&#x2013;<lpage>403</lpage>. doi: <pub-id pub-id-type="doi">10.1101/gr.2289704</pub-id>, PMID: <pub-id pub-id-type="pmid">15231754</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hasman</surname><given-names>H</given-names></name><name><surname>Saputra</surname><given-names>D</given-names></name><name><surname>Sicheritz-Ponten</surname><given-names>T</given-names></name><name><surname>Lund</surname><given-names>O</given-names></name><name><surname>Svendsen</surname><given-names>CA</given-names></name><name><surname>Frimodt-M&#xF8;ller</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>Rapid whole-genome sequencing for detection and characterization of microorganisms directly from clinical samples</article-title>. <source>J Clin Microbiol</source>. (<year>2014</year>) <volume>52</volume>:<fpage>139</fpage>&#x2013;<lpage>46</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.02452-13</pub-id><pub-id pub-id-type="pmid">24172157</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>MV</given-names></name><name><surname>Cosentino</surname><given-names>S</given-names></name><name><surname>Rasmussen</surname><given-names>S</given-names></name><name><surname>Friis</surname><given-names>C</given-names></name><name><surname>Hasman</surname><given-names>H</given-names></name><name><surname>Marvig</surname><given-names>RL</given-names></name><etal/></person-group>. <article-title>Multilocus sequence typing of total-genome-sequenced bacteria</article-title>. <source>J Clin Microbiol</source>. (<year>2012</year>) <volume>50</volume>:<fpage>1355</fpage>&#x2013;<lpage>61</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.06094-11</pub-id><pub-id pub-id-type="pmid">22238442</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brettin</surname><given-names>T</given-names></name><name><surname>Davis</surname><given-names>JJ</given-names></name><name><surname>Disz</surname><given-names>T</given-names></name><name><surname>Edwards</surname><given-names>RA</given-names></name><name><surname>Gerdes</surname><given-names>S</given-names></name><name><surname>Olsen</surname><given-names>GJ</given-names></name><etal/></person-group>. <article-title>RASTtk: a modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes</article-title>. <source>Sci Rep</source>. (<year>2015</year>) <volume>10</volume>:<fpage>8365</fpage>. doi: <pub-id pub-id-type="doi">10.1038/srep08365</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zankari</surname><given-names>E</given-names></name><name><surname>Hasman</surname><given-names>H</given-names></name><name><surname>Cosentino</surname><given-names>S</given-names></name><name><surname>Vestergaard</surname><given-names>M</given-names></name><name><surname>Rasmussen</surname><given-names>S</given-names></name><name><surname>Lund</surname><given-names>O</given-names></name><etal/></person-group>. <article-title>Identification of acquired antimicrobial resistance genes</article-title>. <source>J Antimicrob Chemother</source>. (<year>2012</year>) <volume>67</volume>:<fpage>2640</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1093/jac/dks261</pub-id>, PMID: <pub-id pub-id-type="pmid">22782487</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gupta</surname><given-names>SK</given-names></name><name><surname>Padmanabhan</surname><given-names>BR</given-names></name><name><surname>Diene</surname><given-names>SM</given-names></name><name><surname>Lopez-Rojas</surname><given-names>R</given-names></name><name><surname>Kempf</surname><given-names>M</given-names></name><name><surname>Landraud</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>ARG-ANNOT, a new bioinformatic tool to discover antibiotic resistance genes in bacterial genomes</article-title>. <source>Antimicrob Agents Chemother</source>. (<year>2014</year>) <volume>58</volume>:<fpage>212</fpage>&#x2013;<lpage>20</lpage>. doi: <pub-id pub-id-type="doi">10.1128/AAC.01310-13</pub-id><pub-id pub-id-type="pmid">24145532</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <label>41.</label>
+        <mixed-citation publication-type="other">Available at: <ext-link xlink:href="https://github.com/tseemann/abricate" ext-link-type="uri">https://github.com/tseemann/abricate</ext-link> (&#x434;&#x430;&#x442;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x449;&#x435;&#x43D;&#x438;&#x44F; 20 11 2022).</mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>B</given-names></name><name><surname>Zheng</surname><given-names>D</given-names></name><name><surname>Jin</surname><given-names>Q</given-names></name><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Yang</surname><given-names>J</given-names></name></person-group>. <article-title>VFDB 2019: a comparative pathogenomic platform with an interactive web interface</article-title>. <source>Nucleic Acids Res</source>. (<year>2019</year>) <volume>47</volume>:<fpage>D687</fpage>&#x2013;<lpage>92</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gky1080</pub-id>, PMID: <pub-id pub-id-type="pmid">30395255</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sayers</surname><given-names>S</given-names></name><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Ong</surname><given-names>E</given-names></name><name><surname>Deng</surname><given-names>S</given-names></name><name><surname>Fu</surname><given-names>G</given-names></name><name><surname>Lin</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Victors: a web-based knowledge base of virulence factors in human and animal pathogens</article-title>. <source>Nucleic Acids Res</source>. (<year>2019</year>) <volume>47</volume>:<fpage>D693</fpage>&#x2013;<lpage>700</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gky999</pub-id>, PMID: <pub-id pub-id-type="pmid">30365026</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cury</surname><given-names>J</given-names></name><name><surname>Jov&#xE9;</surname><given-names>T</given-names></name><name><surname>Touchon</surname><given-names>M</given-names></name><name><surname>N&#xE9;ron</surname><given-names>B</given-names></name><name><surname>Rocha</surname><given-names>EP</given-names></name></person-group>. <article-title>Identification and analysis of integrons and cassette arrays in bacterial genomes</article-title>. <source>Nucleic Acids Res</source>. (<year>2016</year>) <volume>44</volume>:<fpage>4539</fpage>&#x2013;<lpage>50</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkw319</pub-id>, PMID: <pub-id pub-id-type="pmid">27130947</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gardner</surname><given-names>SN</given-names></name><name><surname>Slezak</surname><given-names>T</given-names></name><name><surname>Hall</surname><given-names>BG</given-names></name></person-group>. <article-title>kSNP3. 0: SNP detection and phylogenetic analysis of genomes without genome alignment or reference genome</article-title>. <source>Bioinformatics</source>. (<year>2015</year>) <volume>31</volume>:<fpage>2877</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btv271</pub-id><pub-id pub-id-type="pmid">25913206</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name></person-group>. <article-title>Interactive tree of life (iTOL) v5: an online tool for phylogenetic tree display and annotation</article-title>. <source>Nucleic Acids Res</source>. (<year>2021</year>) <volume>49</volume>:<fpage>W293</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkab301</pub-id><pub-id pub-id-type="pmid">33885785</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Buck</surname><given-names>JM</given-names></name></person-group>. <article-title>Studies of vaccination during calfhood to prevent bovine infectious abortion</article-title>. <source>J Agric Res</source>. (<year>1930</year>) <volume>41</volume>:<fpage>667</fpage>&#x2013;<lpage>89</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elberg</surname><given-names>SS</given-names></name><name><surname>Steiner</surname><given-names>PE</given-names></name><name><surname>Doll</surname><given-names>JP</given-names></name></person-group>. <article-title>Immunization against <italic>Brucella</italic> infection. V. Histopathologic appraisal of immunity induced in mice by a streptomycin-dependent mutant of <italic>Brucella melitensis</italic></article-title>. <source>Am J Pathol</source>. (<year>1955</year>) <volume>31</volume>:<fpage>1065</fpage>&#x2013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">13268611</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schurig</surname><given-names>GG</given-names></name><name><surname>Roop</surname><given-names>RM</given-names><suffix>II</suffix></name><name><surname>Bagchi</surname><given-names>T</given-names></name><name><surname>Boyle</surname><given-names>S</given-names></name><name><surname>Buhrman</surname><given-names>D</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name></person-group>. <article-title>Biological properties of RB51; a stable rough strain of <italic>Brucella abortus</italic></article-title>. <source>Vet Microbiol</source>. (<year>1991</year>) <volume>28</volume>:<fpage>171</fpage>&#x2013;<lpage>88</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0378-1135(91)90091-S</pub-id>, PMID: <pub-id pub-id-type="pmid">1908158</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shumilov</surname><given-names>KV</given-names></name></person-group>. <article-title>Biological properties of the vaccine strain <italic>B. abortus</italic> 104 M</article-title>. <source>Proc VIEV</source>. (<year>1983</year>) <volume>57</volume>:<fpage>42</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salmakov</surname><given-names>KM</given-names></name></person-group>. <article-title>Live vaccine against brucellosis from strain 82</article-title>. <source>Vet Med</source>. (<year>1975</year>) <fpage>43</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <label>52.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><collab id="coll1">RU2113857 C1</collab><name><surname>Nikiforov</surname><given-names>I.P.</given-names></name><name><surname>Shumilov</surname><given-names>K. V.</given-names></name><name><surname>Kalmykov</surname><given-names>V.V.</given-names></name><name><surname>Klimanov</surname><given-names>A.I.</given-names></name><name><surname>Shumilov</surname><given-names>K. V.</given-names></name><name><surname>Shumilov</surname><given-names>K. V.</given-names></name></person-group>. Vaccine against brucellosis in cattle. (<year>1997</year>).</mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <label>53.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><collab id="coll2">RU 2130068 C1</collab><name><surname>Kalmykov</surname><given-names>V.V.</given-names></name><name><surname>Shumilov</surname><given-names>K. V.</given-names></name></person-group>. (<year>1999</year>). <italic>Brucella abortus</italic> strain used for the manufacture of diagnostic and preventive biological preparations against animal brucellosis, Antrag Nr. 97118640/13 vom 12. Nov. 1997.</mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <label>54.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><collab id="coll3">RU 2149184 C1</collab><name><surname>Kalmykov</surname><given-names>V.V.</given-names></name></person-group>. (<year>2000</year>). A method is known for evaluating the immunogenicity of anti-brucellosis vaccine strains by determining the rate of elimination from the body of immunized animals of the <italic>Brucella</italic> control strain <italic>B. abortus</italic> KB 13/100-DEPT.</mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <label>55.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><collab id="coll4">SU 946039 &#x410;</collab><name><surname>Salmakov</surname><given-names>&#x41A;.&#x41C;</given-names></name></person-group>. (<year>1979</year>). A method for preparing an antigen for the differential serological diagnosis of brucellosis in animals, including obtaining a bacterial mass of the <italic>B. abortus</italic> R-1096 strain and inactivating it by gamma irradiation.</mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khurana</surname><given-names>SK</given-names></name><name><surname>Sehrawat</surname><given-names>A</given-names></name><name><surname>Tiwari</surname><given-names>R</given-names></name><name><surname>Prasad</surname><given-names>M</given-names></name><name><surname>Gulati</surname><given-names>B</given-names></name><name><surname>Shabbir</surname><given-names>MZ</given-names></name><etal/></person-group>. <article-title>Bovine brucellosis&#x2014;a comprehensive review</article-title>. <source>Vet Q</source>. (<year>2021</year>) <volume>41</volume>:<fpage>61</fpage>&#x2013;<lpage>88</lpage>. doi: <pub-id pub-id-type="doi">10.1080/01652176.2020.1868616</pub-id>, PMID: <pub-id pub-id-type="pmid">33353489</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <label>57.</label>
+        <element-citation publication-type="other">
+<ext-link xlink:href="https://www.&#x446;&#x435;&#x43D;&#x442;&#x440;-&#x432;&#x435;&#x442;&#x435;&#x440;&#x438;&#x43D;&#x430;&#x440;&#x438;&#x438;.&#x440;&#x444;" ext-link-type="uri">https://www.&#x446;&#x435;&#x43D;&#x442;&#x440;-&#x432;&#x435;&#x442;&#x435;&#x440;&#x438;&#x43D;&#x430;&#x440;&#x438;&#x438;.&#x440;&#x444;</ext-link>
+</element-citation>
+      </ref>
+      <ref id="ref58">
+        <label>58.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shumilov</surname><given-names>KV</given-names></name><name><surname>Sklyarov</surname><given-names>O</given-names></name><name><surname>Klimanov</surname><given-names>A</given-names></name></person-group>. <article-title>Designing vaccines against cattle brucellosis</article-title>. <source>Vaccine</source>. (<year>2010</year>) <volume>28</volume>:<fpage>F31</fpage>&#x2013;<lpage>4</lpage>, ISSN 0264-410X, doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2010.03.049</pub-id>, PMID: <pub-id pub-id-type="pmid">20362619</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Seleem</surname><given-names>M</given-names></name><name><surname>Boyle</surname><given-names>S</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name></person-group>. <article-title>Brucellosis: a re-emerging zoonosis</article-title>. <source>Vet Microbiol</source>. (<year>2009</year>) <volume>140</volume>:<fpage>392</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vetmic.2009.06.021</pub-id><pub-id pub-id-type="pmid">19604656</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>ZQ</given-names></name><name><surname>Shi</surname><given-names>JX</given-names></name><name><surname>Fu</surname><given-names>WD</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>Z</given-names></name><etal/></person-group>. <article-title>A <italic>Brucella melitensis</italic> M5-90 wboA deletion strain is attenuated and enhances vaccine efficacy</article-title>. <source>Mol Immunol</source>. (<year>2015</year>) <volume>66</volume>:<fpage>276</fpage>&#x2013;<lpage>83</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2015.04.004</pub-id>, PMID: <pub-id pub-id-type="pmid">25899866</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <label>61.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ng</surname><given-names>PC</given-names></name><name><surname>Henikoff</surname><given-names>S</given-names></name></person-group>. <article-title>SIFT: predicting amino acid changes that affect protein function</article-title>. <source>Nucleic Acids Res</source>. (<year>2003</year>) <volume>31</volume>:<fpage>3812</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkg509</pub-id>, PMID: <pub-id pub-id-type="pmid">12824425</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <label>62.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><collab id="coll5">UniProt Consortium</collab></person-group>. <article-title>UniProt: a hub for protein information</article-title>. <source>Nucleic Acids Res</source>. (<year>2015</year>) <volume>43</volume>:<fpage>D204</fpage>&#x2013;<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gku989</pub-id>, PMID: <pub-id pub-id-type="pmid">25348405</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <label>63.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Delrue</surname><given-names>RM</given-names></name><name><surname>Lestrate</surname><given-names>P</given-names></name><name><surname>Tibor</surname><given-names>A</given-names></name><name><surname>Letesson</surname><given-names>JJ</given-names></name><name><surname>De Bolle</surname><given-names>X</given-names></name></person-group>. <article-title><italic>Brucella</italic> pathogenesis, genes identified from random large-scale screens</article-title>. <source>FEMS Microbiol Lett</source>. (<year>2004</year>) <volume>231</volume>:<fpage>1</fpage>&#x2013;<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0378-1097(03)00963-7</pub-id><pub-id pub-id-type="pmid">14979322</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <label>64.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vemulapalli</surname><given-names>R</given-names></name><name><surname>McQuiston</surname><given-names>JR</given-names></name><name><surname>Schurig</surname><given-names>GG</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name><name><surname>Halling</surname><given-names>SM</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name></person-group>. <article-title>Identification of an IS 711 element interrupting the wboA gene of <italic>Brucella abortus</italic> vaccine strain RB51 and a PCR assay to distinguish strain RB51 from other <italic>Brucella</italic> species and strains</article-title>. <source>Clin Diagn Lab Immunol</source>. (<year>1999</year>) <volume>6</volume>:<fpage>760</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1128/CDLI.6.5.760-764.1999</pub-id>, PMID: <pub-id pub-id-type="pmid">10473532</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <label>65.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sangari</surname><given-names>FJ</given-names></name><name><surname>Ag&#xFC;ero</surname><given-names>J</given-names></name><name><surname>Garc&#xED;a-Lobo</surname><given-names>JM</given-names></name></person-group>. <article-title>The genes for erythritol catabolism are organized as an inducible operon in <italic>Brucella abortus</italic></article-title>. <source>Microbiology</source>. (<year>2000</year>) <volume>146</volume>:<fpage>487</fpage>&#x2013;<lpage>95</lpage>. doi: <pub-id pub-id-type="doi">10.1099/00221287-146-2-487</pub-id><pub-id pub-id-type="pmid">10708387</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <label>66.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sangari</surname><given-names>FJ</given-names></name><name><surname>Garc&#xED;a-Lobo</surname><given-names>JM</given-names></name><name><surname>Ag&#xFC;ero</surname><given-names>J</given-names></name></person-group>. <article-title>The <italic>Brucella abortus</italic> vaccine strain B19 carries a deletion in the erythritol catabolic genes</article-title>. <source>FEMS Microbiol Lett</source>. (<year>1994</year>) <volume>121</volume>:<fpage>337</fpage>&#x2013;<lpage>42</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1574-6968.1994.tb07123.x</pub-id>, PMID: <pub-id pub-id-type="pmid">7926690</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

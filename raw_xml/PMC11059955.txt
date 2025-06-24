@@ -1,0 +1,900 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Front Public Health</journal-id><journal-id journal-id-type="iso-abbrev">Front Public Health</journal-id><journal-id journal-id-type="publisher-id">Front. Public Health</journal-id><journal-title-group><journal-title>Frontiers in Public Health</journal-title></journal-title-group><issn pub-type="epub">2296-2565</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38689773</article-id><article-id pub-id-type="pmc">11059955</article-id><article-id pub-id-type="doi">10.3389/fpubh.2024.1372327</article-id><article-categories><subj-group subj-group-type="heading"><subject>Public Health</subject><subj-group><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>Seroprevalence and molecular detection of brucellosis among Pakistani women with spontaneous abortion</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ejaz</surname><given-names>Mohammad</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/2318606/overview"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/><role content-type="https://credit.niso.org/contributor-roles/data-curation/"/><role content-type="https://credit.niso.org/contributor-roles/investigation/"/><role content-type="https://credit.niso.org/contributor-roles/validation/"/></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Ali</surname><given-names>Shahzad</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/1237904/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Syed</surname><given-names>Muhammad Ali</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/408136/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Melzer</surname><given-names>Falk</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/737075/overview"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/investigation/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/resources/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Faryal</surname><given-names>Rani</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/supervision/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Dadar</surname><given-names>Maryam</given-names></name><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/399645/overview"/><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/><role content-type="https://credit.niso.org/contributor-roles/investigation/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/software/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Abbasi</surname><given-names>Shahid Ahmed</given-names></name><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref><role content-type="https://credit.niso.org/contributor-roles/investigation/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/validation/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>El-Adawy</surname><given-names>Hosny</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="aff8" ref-type="aff">
+<sup>8</sup></xref><uri xlink:href="https://loop.frontiersin.org/people/324971/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/resources/"/><role content-type="https://credit.niso.org/contributor-roles/software/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib><contrib contrib-type="author"><name><surname>Neubauer</surname><given-names>Heinrich</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref><uri xlink:href="https://loop.frontiersin.org/people/404391/overview"/><role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/><role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/><role content-type="https://credit.niso.org/contributor-roles/methodology/"/><role content-type="https://credit.niso.org/contributor-roles/resources/"/><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Department of Microbiology, Government Postgraduate College Mandian</institution>, <addr-line>Abbottabad</addr-line>, <country>Pakistan</country></aff><aff id="aff2"><sup>2</sup><institution>Department of Microbiology, Quaid-i-Azam University</institution>, <addr-line>Islamabad</addr-line>, <country>Pakistan</country></aff><aff id="aff3"><sup>3</sup><institution>Wildlife Epidemiology and Molecular Microbiology Laboratory (One Health Research Group), Discipline of Zoology, Department of Wildlife &amp; Ecology, University of Veterinary and Animal Sciences</institution>, <addr-line>Lahore</addr-line>, <country>Pakistan</country></aff><aff id="aff4"><sup>4</sup><institution>Department of Microbiology, The University of Haripur</institution>, <addr-line>Haripur</addr-line>, <country>Pakistan</country></aff><aff id="aff5"><sup>5</sup><institution>Institute of Bacterial Infections and Zoonoses, Friedrich-Loeffler-Institut</institution>, <addr-line>Jena</addr-line>, <country>Germany</country></aff><aff id="aff6"><sup>6</sup><institution>Razi Vaccine and Serum Research Institute (RVSRI), Agricultural Research, Education and Organization (AREEO)</institution>, <addr-line>Karaj</addr-line>, <country>Iran</country></aff><aff id="aff7"><sup>7</sup><institution>Department of Microbiology, Fauji Foundation Hospital</institution>, <addr-line>Rawalpindi</addr-line>, <country>Pakistan</country></aff><aff id="aff8"><sup>8</sup><institution>Faculty of Veterinary Medicine, Kafrelsheikh University</institution>, <addr-line>Kafr El-Sheikh</addr-line>, <country>Egypt</country></aff><author-notes><fn fn-type="edited-by" id="fn0002"><p>Edited by: Debdutta Bhattacharya, Regional Medical Research Center (ICMR), India</p></fn><fn fn-type="edited-by" id="fn0003"><p>Reviewed by: Shishirendu Ghosal, Regional Medical Research Center (ICMR), India</p><p>Abdelbaset Eweda Abdelbaset, Hokkaido University, Japan</p></fn><corresp id="c001">*Correspondence: Shahzad Ali, <email>shahzad.ali@uvas.edu.pk</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>12</volume><elocation-id>1372327</elocation-id><history><date date-type="received"><day>17</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>04</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 Ejaz, Ali, Syed, Melzer, Faryal, Dadar, Abbasi, El-Adawy and Neubauer.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Ejaz, Ali, Syed, Melzer, Faryal, Dadar, Abbasi, El-Adawy and Neubauer</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><abstract><sec><title>Background</title><p>Human brucellosis is a neglected disease transmitted to humans from animals such as cattle, goats, dogs, and swine. The causative agents are bacteria of the genus <italic>Brucella</italic>, intracellular pathogens usually confined to the reproductive organs of their animal hosts causing sterility and abortions. The objective of the study was to determine the seroprevalence of brucellosis among women with spontaneous abortions (SAW) and compare this seroprevalence with that of healthy pregnant women (HPW).</p></sec><sec><title>Methods</title><p>The case&#x2013;control study was designed to determine the seroprevalence and molecular detection of brucellosis in women who suffered from spontaneous abortion and healthy pregnant women of the Haripur District of Pakistan. A total of 770 blood samples (<italic>n</italic>&#x2009;=&#x2009;385 for each group) were collected from 9 public and 11 private hospitals in Haripur District from December 2021&#x2013;March 2023. Data on demographic features, epidemiological variables, and risk factors were collected from each participant by structured questionnaires. Initial screening for brucellosis was performed by Rose Bengal Plate Test followed by qRT-PCR for molecular detection of the genus-specific <italic>BCSP-31</italic> gene of <italic>Brucella</italic>.</p></sec><sec><title>Results</title><p>The study showed that anti-Brucella antibodies were more found in SAW 23.63% (91/385) than in HPW 1.29% (5/385). <italic>Brucella</italic> specific DNA was amplified in 89.01% (81/91) seropositive samples of SAW. Demographic features and risk factors such as age, urbanicity, socioeconomic status, education, occupation, and animal contact were found significantly associated with brucellosis (<italic>p</italic>&#x2009;&#x2264;&#x2009;0.05). Consumption of unpasteurized raw milk (OR = 18.28, 95%CI: 8.16&#x2013;40.94) was found highly concomitant with seroprevalence.</p></sec><sec><title>Conclusion</title><p>This study reports the first evidence of involvement of brucellosis in spontaneous abortions in women of Pakistan. The study can be used to develop strategies for risk management during pregnancy, to raise awareness for brucellosis, and develop control programs.</p></sec></abstract><kwd-group><kwd>brucellosis</kwd><kwd>pregnancy</kwd><kwd>abortion</kwd><kwd>miscarriage</kwd><kwd>intrauterine fetal death</kwd></kwd-group><funding-group><funding-statement>The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This research was funded by German Federal Foreign Office, funded project &#x201C;Building a network of laboratories in Pakistan to enhance biosafety and biosecurity in Pakistan&#x201D; AA-OR12-370.43 BIOS FLI PAK.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="4"/><equation-count count="1"/><ref-count count="61"/><page-count count="10"/><word-count count="7811"/></counts><custom-meta-group><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Infectious Diseases: Epidemiology and Prevention</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="sec1">
+      <title>Introduction</title>
+      <p>Brucellosis is a zoonotic bacterial disease caused by the members of the genus <italic>Brucella,</italic> aerobic, non-motile, non-spore-forming, non-hemolytic, facultative intracellular and gram-negative coccobacilli (<xref rid="ref1" ref-type="bibr">1</xref>). Being an intracellular pathogen, brucellae are usually confined to the reproductive organs of their animal hosts causing sterility and abortions. Brucellae can survive and multiply inside epithelial cells, dendritic cells, macrophages, and placental trophoblast (<xref rid="ref2" ref-type="bibr">2</xref>). Four <italic>Brucella</italic> (<italic>B.</italic>) species are pathogenic to humans including <italic>B. abortus</italic>, <italic>B. melitensis</italic>, <italic>B. suis</italic>, and <italic>B. canis</italic> that can be transmitted from cattle, goats, swine, and dogs, respectively. <italic>B. ovis</italic>, <italic>B. inopinata</italic>, <italic>B. neotomae</italic> and <italic>B. microti</italic> are known to primarily infect animals but have not been documented to infect humans (<xref rid="ref3" ref-type="bibr">3</xref>).</p>
+      <p>Brucellosis is usually transmitted to humans either by direct contact with animals or indirectly via the consumption of unpasteurized animal products like milk, cheese, butter and meat (<xref rid="ref4" ref-type="bibr">4</xref>). Brucellae may be shedded in large numbers in milk, placental fluid, urine and other body fluids (<xref rid="ref5" ref-type="bibr">5</xref>).</p>
+      <p>The disease burden is increasing in humans and bovines due to extensive urbanization, commercialization, trends in livestock farming, and unhygienic practices in animal husbandry and food handling (<xref rid="ref6" ref-type="bibr">6</xref>). In 2021, approximately 227 million women worldwide become pregnant each year, with about one-third facing stillbirth, miscarriage or induced abortion for various reasons (<xref rid="ref7" ref-type="bibr">7</xref>). The global burden of brucellosis is high and many studies regularly cited the incidence of 500,000 cases per year but this number seems to be underestimated due to lack of surveillance and underreporting in developing countries (<xref rid="ref8" ref-type="bibr">8</xref>).</p>
+      <p>Brucellosis is endemic in many countries in Asia, the Middle East, Africa, Mediterranean Basin and Latin American countries with a higher incidence in central Asia and the Middle East (<xref rid="ref9" ref-type="bibr">9</xref>, <xref rid="ref10" ref-type="bibr">10</xref>). In endemic countries such as India, Pakistan, Iran, Bangladesh, Italy, Spain, Greece, Southern France and Turkey, the prevalence of brucellosis have reached 10 cases per 100,000 of the population (<xref rid="ref11" ref-type="bibr">11</xref>). The cumulative incidence of human brucellosis and seroprevalence in pregnancy cases per 100 delivered obstetrical discharges was reported to be 0.42&#x2013;3.3% and 1.5&#x2013;12.2% in endemic regions, respectively (<xref rid="ref12" ref-type="bibr">12</xref>). The prevalence of brucellosis depends on the region and may range from 1.5 to 16.9% in pregnant women cohorts. The most common, dramatic, and unfavorable outcomes of brucellosis during pregnancies are miscarriages (1.2&#x2013;29%), intrauterine fetal death (0&#x2013;21%), or abortions (2.5&#x2013;54%) (<xref rid="ref12" ref-type="bibr">12</xref>).</p>
+      <p>Brucellosis is one of the neglected diseases in Pakistan because of a lack of effective control measures, awareness and surveillance data. A large number of the population of rural areas of Pakistan depend on livestock for their livelihood. Therefore, local populations are in direct contact with animals. Furthermore, the literacy rate in rural areas is very low and animal keepers or farmers have very little knowledge about the disease. Brucellosis is widespread in Pakistan, with numerous studies documenting the disease in various regions of the country (<xref rid="ref13" ref-type="bibr">13&#x2013;16</xref>). Seroprevalences of brucellosis were found to be 6.9% in high-risk occupations and 8.5% in pregnant women in district Lahore and Kasur of Pakistan (<xref rid="ref17" ref-type="bibr">17</xref>). Similarly, a study conducted in a district Abbottabad reported overall seroprevalence of 13.6% in hospitalized patients having non-specific clinical signs and symptoms related to brucellosis (<xref rid="ref18" ref-type="bibr">18</xref>). Moreover, Niaz et al. reported the seroprevalence of 27.4% brucellosis among suspected female patients in Malakand district of Khyber Pakhtunkhwa (KPK), Pakistan (<xref rid="ref19" ref-type="bibr">19</xref>).</p>
+      <p>The prevalence of brucellosis among people living in close proximity to animals in rural Pakistan was found to be 16% (<xref rid="ref14" ref-type="bibr">14</xref>). As the majority of the population of Haripur has either direct or indirect contact with livestock, a higher risk of acquiring brucellosis due to close contact with livestock may exist (<xref rid="ref20" ref-type="bibr">20</xref>). Moreover, nearly 24% of pregnant women with a previous abortion history tested seropositive for brucellosis in the nearby city of Abbottabad (<xref rid="ref18" ref-type="bibr">18</xref>). In Pakistan, about 2.25 million abortions occur <italic>per annum</italic> and the abortion rate is 50 per 1,000 women aged between 15 to 49&#x2009;years (<xref rid="ref21" ref-type="bibr">21</xref>).</p>
+      <p>Currently, there is limited data available on the association of human brucellosis in pregnant women with obstetric complications in Pakistan. The study was aimed to determine the prevalence of anti-<italic>Brucella</italic> antibodies among these women who have had spontaneous abortion in Haripur District and to identify risk factors for <italic>Brucella</italic> infection. This research will serve to fill in the gaps in our understanding of disease epidemiology in the region, provide important insight into the factors that contribute to the spread of disease and inform policy makers.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec2">
+      <title>Materials and methods</title>
+      <sec id="sec3">
+        <title>Study area</title>
+        <p>The study was conducted at randomly chosen hospitals in Haripur, Pakistan, where gynecological care was provided. Haripur is located in the Hazara division and is one of the important cities of Khyber Pakhtunkhwa, Pakistan. Geographically, Haripur district borders Swabi to the west, Buner to the northwest, Abbottabad to the northeast, Punjab to the Southeast and lays approximately 33.9&#xB0; north latitude and 72.9&#xB0; east longitude with an altitude of 527 meters (<xref rid="fig1" ref-type="fig">Figure 1</xref>). Its total area is 796, 095&#x2009;km<sup>2</sup> or 666 square miles and is divided into three Tehsils including Khanpur, Haripur and Ghazi. According to the 2017 census, the total population of Haripur was 1,001,515 of which 868,415 (86.71%) were rural while 133,100 (13.29%) were urban population. The rural area of Haripur is fertile and suitable for agriculture and rearing of livestock. According to the livestock census 2006, district Haripur had more than 683,000 poultry and more than 459,524 ruminants including cattle (130,215), buffaloes (106,911), sheep (6,804) and goats (215,598) and 3,174 equidae, i.e., horses (894), mules (235) and asses (2,045) (<xref rid="ref22" ref-type="bibr">22</xref>).</p>
+        <fig position="float" id="fig1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Sampling map of Haripur District of KPK, Pakistan.</p>
+          </caption>
+          <graphic xlink:href="fpubh-12-1372327-g001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec4">
+        <title>Study design, participants and data collection</title>
+        <p>The case&#x2013;control study was designed to determine the seroprevalence and molecular detection of brucellosis in women who suffered from spontaneous abortion (SAW, case group) and healthy pregnant (HPW, control group) women of the Haripur District of Pakistan. A total of 770 blood samples (385 from SAW and 385 from HPW) were collected during December 2021&#x2013;March 2023 randomly from women visiting different public and private hospitals in Haripur District (<xref rid="tab1" ref-type="table">Table 1</xref>). Women (Mean age: 28&#x2009;&#xB1;&#x2009;5.47&#x2009;years) who were receiving medical care at healthcare facilities or visiting various laboratories for health complications or regular checkups provided the blood samples.</p>
+        <table-wrap position="float" id="tab1">
+          <label>Table 1</label>
+          <caption>
+            <p>Sampling distribution from two groups in different localities.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Location</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Spontaneous abortion</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Healthy pregnant</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">District Headquarter Hospital (DHQ) Haripur</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">99</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">110</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Yahya Welfare Hospital Haripur</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">32</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">30</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Tehsil Headquarter Hospital (THQ) Khanpur</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">69</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">35</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">THQ Hospital Ghazi</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">45</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">35</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Basic Health Unit (BHU) Khoi Nara</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">19</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">20</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">BHU Halli</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">29</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">20</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">other hospitals and laboratories</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">92</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">135</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">Total (770)</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">385</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">385</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The sample size (n) was determined by using the following formula:</p>
+        <disp-formula id="E1">
+<mml:math id="M1" overflow="scroll"><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>Z</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>.</mml:mo><mml:mi>p</mml:mi><mml:mo>.</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x2212;</mml:mo><mml:mi>p</mml:mi></mml:mrow></mml:mfenced></mml:mrow><mml:msup><mml:mi mathvariant="normal">C</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mfrac></mml:math>
+</disp-formula>
+        <p>Where, Z is standard normal deviate (1.96) at 95% confidence interval, C is the confidence interval, i.e., 5% (0.05), and <italic>p</italic> is the proportion in the targeted population estimated to have brucellosis, i.e., 27.4% as reported by previous study in KPK province of Pakistan (<xref rid="ref19" ref-type="bibr">19</xref>). The calculated sample size from the above formula was 306. However, we included 385 members in each group.</p>
+        <p>A self-administered structured questionnaire was used to collect patient details, including demographic features (age, urbanicity, socioeconomic status, education and occupation), contact with animals, contact with aborted materials of animals or humans, mode of animal contact, consumption of unpasteurized milk, number of pregnancies and spontaneous abortions and types of spontaneous abortions (miscarriage, early intrauterine fetal death and late intrauterine fetal death). The questionnaire was translated into local language (Urdu) to get the accurate information from the study participants.</p>
+      </sec>
+      <sec id="sec5">
+        <title>Inclusion and exclusion criteria</title>
+        <p>The case group comprised of females who underwent spontaneous abortion, while the control group consisted of pregnant females who were in good health and had no prior history of spontaneous abortions. The study excluded women who were not pregnant. The spontaneous abortion was categorized into miscarriages, early intrauterine fetal death and late intrauterine fetal death. Miscarriages are spontaneous abortions that occur before the 20th week of pregnancy, early intrauterine fetal death is the term for fetal deaths that occur between the 20<sup>th</sup> and the 27<sup>th</sup> week of pregnancy, and late intrauterine fetal death refers to fetal deaths that occur after the 28<sup>th</sup> week of pregnancy.</p>
+      </sec>
+      <sec id="sec6">
+        <title>Blood collection</title>
+        <p>The brachial vein of the upper arm was located and disinfected by using a methylated spirit-soaked cotton swab. About 3&#x2009;mL of blood was aseptically collected from the patient with a disposable sterile syringe. Blood was immediately transferred into EDTA and serum-separating gel vacutainers. The serum was separated by centrifuging the blood at 3,000&#x2009;&#xD7;&#x2009;g for 5&#x2009;min (<xref rid="ref23" ref-type="bibr">23</xref>). Each serum sample was transferred into a 1.5&#x2009;mL sterile Eppendorf tube. The serum samples were stored at &#x2212;4&#xB0;C while blood samples were stored at 4&#xB0;C till future use.</p>
+      </sec>
+      <sec id="sec7">
+        <title>Serology</title>
+        <p>Serum samples were subjected to Rose Bengal Plate Test (RBPT). RBPT is a rapid slide agglutination test used for the qualitative detection of anti-<italic>Brucella</italic> antibodies in human serum. A stained bacterial suspension (Veterinary Research Institute, Lahore, Pakistan) was used to detect anti-<italic>Brucella</italic> antibodies in the serum. An equal amount of undiluted serum and suspension (30&#x2009;&#x3BC;L) was mixed on ceramic glossy white tile and was gently rotated for about 3&#x2013;5&#x2009;min. The serum was considered positive for brucellosis if agglutination was observed. The test was conducted on the day of sample collection to avoid any contamination.</p>
+      </sec>
+      <sec id="sec8">
+        <title>DNA extraction and quantification</title>
+        <p>DNA was extracted from seropositive blood samples using the Blood Genomic DNA Extraction Kit (Solarbio Science &amp; Technology Co., Ltd. Beijing, China) according to the manufacturer&#x2019;s protocols. The extracted DNA was quantified by measuring absorbance at 260&#x2009;nm using a Nanodrop UV spectrophotometer (OPTIZEN NanoQ, K Lab Co., Ltd. Daejeon, South Korea). Quality of the preparation was analyzed (260/280 ratio) and testing was done with preparations containing &#x2265;2&#x2009;ng DNA /&#x3BC;l.</p>
+      </sec>
+      <sec id="sec9">
+        <title>Molecular detection through real-time polymerase chain reaction (RT-PCR)</title>
+        <p>The extracted DNA of seropositive samples was subjected to quantitative real-time PCR (qRT-PCR) for the detection of the <italic>BCSP-31</italic> gene. <italic>BCSP-31</italic> gene encodes a 31&#x2009;kDa immunogenic membrane protein and is conserved among all <italic>Brucella</italic> species and biovars (<xref rid="ref24" ref-type="bibr">24</xref>). The targeted gene and primers as well as the PCR thermal profile and conditions was previously demonstrated (<xref rid="ref18" ref-type="bibr">18</xref>).</p>
+        <p>Briefly, a total of 25&#x2009;&#x3BC;L volume of the reaction mixture was prepared for amplification using 12.5&#x2009;&#x3BC;L of the optimized ready-to-use master mix [5X HOT FIREPol<sup>&#xAE;</sup> EvaGreen<sup>&#xAE;</sup> qPCR Mix Plus (ROX); Solis BioDyne] for real-time quantitative PCR assays containing HOT FIREPol<sup>&#xAE;</sup> DNA polymerase, MgCl<sub>2</sub>, dNTPs, EvaGreen<sup>&#xAE;</sup> dye and ROX dye, 0.8&#x2009;&#x3BC;L forward primer (1&#x2009;&#x3BC;M), 0.8&#x2009;&#x3BC;L reverse primer (1&#x2009;&#x3BC;M), 3&#x2009;&#x3BC;L DNA template, and 7.9&#x2009;&#x3BC;L of nuclease-free water.</p>
+        <p>The amplification of BSCP-31 and real-time fluorescence detection was performed on CFX96TM Real-Time System (C1000 Touch TM Thermal cycler Bio-Rad, United States). The first step was denaturation of the DNA template at 95&#xB0;C for 10&#x2009;min followed by the second step that had 44&#x2009;cycles for 20&#x2009;s at 95&#xB0;C for denaturation, 50&#x2009;s at 60&#xB0;C for primer annealing, and 50&#x2009;s at 72&#xB0;C for DNA elongation.</p>
+      </sec>
+      <sec id="sec10">
+        <title>Statistical analysis</title>
+        <p>Data obtained through questionnaires were summarized and entered into Microsoft Excel 2013. A Chi-square test was used to analyze the association between test outcomes and risk associated factors using an online tool, Vassar Stat.<xref rid="fn0001" ref-type="fn">
+<sup>1</sup></xref> Fisher exact test was used where the cross table (2&#x2009;&#xD7;&#x2009;2 table) has five or less than five counts. Standard descriptive analysis was performed using Statistical Package for the Social Science (SPSS) version 22 to determine means and relative and absolute frequencies. Bivariate logistic regression analysis was performed to estimate the association between test outcome (seropositivity) and explanatory variables (information collected by questionnaire) using SPSS. The odds ratio and 95% confidence interval were also determined by bivariate logistic regression analysis. The data were considered statistically significant when the <italic>p</italic>-value was less than 0.05 (<italic>p</italic>&#x2009;&lt;&#x2009;0.05).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec11">
+      <title>Results</title>
+      <p>The study documented the various categories of spontaneous abortions experienced by each participant. Seroprevalence among women who suffered from spontaneous abortion was 23.63% (91/385) while in healthy pregnant women the seroprevalence was 1.31% (5/385). The seropositive samples were then subjected to genus specific gene (BCSP-31) qRT-PCR and the <italic>Brucella</italic> DNA was detected among 89.01% (81/91) in women suffered from spontaneous abortion and 80% (4/5) among healthy pregnant women. Tehsil-wise seroprevalence was also determined and found to be 25.3% (<italic>n</italic> =&#x2009;33), 19.2% (<italic>n</italic>&#x2009;=&#x2009;24), and 26.1% (<italic>n</italic> =&#x2009;34) in saw from Khanpur, Haripur and Ghazi, respectively (<xref rid="tab2" ref-type="table">Table 2</xref>).</p>
+      <table-wrap position="float" id="tab2">
+        <label>Table 2</label>
+        <caption>
+          <p>Tehsil-wise seroprevalence of brucellosis in the study participants.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="top" rowspan="2" colspan="1">Tehsil</th>
+              <th align="center" valign="top" colspan="2" rowspan="1">Women with abortion history (<italic>n</italic>&#x2009;=&#x2009;385)</th>
+              <th align="center" valign="top" colspan="2" rowspan="1">Women with no abortion history (<italic>n</italic>&#x2009;=&#x2009;385)</th>
+            </tr>
+            <tr>
+              <th align="center" valign="top" rowspan="1" colspan="1">RBPT positive (%)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">RBPT negative (%)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">BBPT positive (%)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">RBPT negative (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Khanpur</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">33 (25.3%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">97 (74.6%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2 (1.5%)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">128 (98.4%)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Haripur</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">24 (19.2%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">101 (80.8%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1 (0.8%)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">124 (99.2%)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Ghazi</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">34 (26.1%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">96 (73.8%)</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2 (1.5%)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">128 (98.4%)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Significance</td>
+              <td align="center" valign="middle" colspan="2" rowspan="1">&#x3A7;<sup>2</sup> =&#x2009;2.04, <italic>p</italic> value 0.36</td>
+              <td align="center" valign="middle" colspan="2" rowspan="1">&#x3A7;<sup>2</sup> =&#x2009;0.36, <italic>p</italic> value 0.85</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>In this study, 24.8% (65/262) seroprevalence was found in women who had experienced miscarriages, 23% (15/65) in women with early intrauterine fetal death and 18.9% (11/58) with late intrauterine fetal death (<xref rid="tab3" ref-type="table">Table 3</xref>). The present study revealed a positive correlation between the presence of anti-<italic>Brucella</italic> antibodies and an increased chance of spontaneous abortion during the initial stages of pregnancy.</p>
+      <table-wrap position="float" id="tab3">
+        <label>Table 3</label>
+        <caption>
+          <p>Demographic features and epidemiological variables of women who suffered from spontaneous abortion and had a positive Rose Bengal Plate test result.</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="top" rowspan="1" colspan="1">Parameters</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Variables</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Total participants (<italic>n</italic>&#x2009;=&#x2009;385)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Seropositive <italic>n</italic>&#x2009;=&#x2009;91 (%)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Chi-Square (df)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1"><italic>p</italic>-value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="4" colspan="1">Age<sup>a</sup> (years)</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">17&#x2013;24</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">118</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">21 (17.79)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">34.77 (3)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">25&#x2013;32</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">182</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">32 (17.58)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">33&#x2013;40</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">63</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">33 (52.33)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">&gt;40</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">22</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">17 (22.72)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="2" colspan="1">Urbanicity</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Urban</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">130</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">19 (14.61)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">8.11 (1)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.007</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Rural</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">255</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">72 (28.23)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="3" colspan="1">Socioeconomic status<sup>b</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Low</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">208</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">60 (28.84)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">8.04 (2)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.048</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Middle</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">161</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">30 (18.63)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">High</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">16</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1 (6.25)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="4" colspan="1">Education</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Illiterate</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">87</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">19 (21.83)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">9.32 (3)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">0.152</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Primary</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">109</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">37 (33.94)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Secondary</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">161</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">30 (18.63)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Graduate</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">28</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">5 (17.85)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="5" colspan="1">Occupation</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Student</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">36</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">9 (25)</td>
+              <td align="center" valign="top" rowspan="5" colspan="1">23.18 (4)</td>
+              <td align="center" valign="top" rowspan="5" colspan="1">0.742</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Housewife</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">182</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">31 (17.03)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Farmer</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">63</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">21 (33.33)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Animal keeper</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">71</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">28 (39.43)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Others</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">33</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">2 (6.06)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="2" colspan="1">Animal contact</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">238</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">63 (26.47)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">6.34 (1)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.011</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">147</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">22 (14.96)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="4" colspan="1">Mode of animal contact</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Direct</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">80</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">28 (35)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">14.48 (3)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">0.187</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Indirect</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">97</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">29 (29.89)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Occasional</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">61</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">12 (19.67)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">147</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">22 (14.96)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="2" colspan="1">Consumption of unpasteurized milk</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">112</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">61 (54.46)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">80.77 (1)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">273</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">30 (10.98)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="2" colspan="1">Contact with the animals during parturition<sup>c</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">134</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">23 (17.16)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">4.24 (1)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">251</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">68 (27.09)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="2" colspan="1">Contact with the person who had abortion<sup>c</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Yes</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">56</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">5 (8.92)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">6.93 (1)</td>
+              <td align="center" valign="top" rowspan="2" colspan="1">0.003</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">No</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">329</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">86 (26.13)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="4" colspan="1">Number of pregnancies</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">65</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">13 (20)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">7.75 (3)</td>
+              <td align="center" valign="top" rowspan="4" colspan="1">0.116</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">115</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">19 (16.52)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">125</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">39 (23.2)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">&gt;3</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">80</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">20 (25)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="3" colspan="1">Number of abortions</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">158</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">32 (20.2)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">3.03 (2)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.898</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">137</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">32 (23.35)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">&gt;2</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">90</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">27 (30)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="3" colspan="1">Types of spontaneous abortions</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">Miscarriage</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">262</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">65 (24.8)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.91 (2)</td>
+              <td align="center" valign="top" rowspan="3" colspan="1">0.897</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Early Intrauterine fetal death<sup>e</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">65</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">15 (23)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" rowspan="1" colspan="1">Late intrauterine fetal death<sup>f</sup></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">58</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">11 (18.9)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p><sup>a</sup>mean age&#x2009;=&#x2009;28&#x2009;&#xB1;&#x2009;5.47&#x2009;years, <sup>b</sup>socioeconomic status based on monthly income (Low&#x2009;=&#x2009;&lt;20,000 per month (PM), Middle= &gt;30,000&#x2013;200,000&#x2009;PM, High= &gt;200,000&#x2009;PM), <sup>c</sup>any contact with aborted materials or fluids of animals, <sup>d</sup>before 20<sup>th</sup> week of pregnancy, <sup>e</sup>fetal deaths between 20&#x2013;27<sup>th</sup> weeks of pregnancy, f: fetal deaths after 28<sup>th</sup> week of pregnancy.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>Various risk associated factors including demographic features and epidemiological variables were identified (<xref rid="tab3" ref-type="table">Table 3</xref>). A higher seroprevalence was identified in patients of the age group 33&#x2013;40&#x2009;years (52.33%) and&#x2009;&gt;&#x2009;40&#x2009;years (22.72%). Education, socioeconomic status and occupation were statistically significant risk factors for seroprevalence (<italic>p</italic>&#x2009;&#x2264;&#x2009;0.05). Seroprevalence was found to be higher in individuals who had not received any formal education (21.8%) or had only completed primary education (33.9%). Women from lower socioeconomic backgrounds and from middle-income families had seroprevalence of 28.8% and 18.3% and proved to be more vulnerable to disease than women with a high socioeconomic status. Occupations such as animal keepers (39.4%) and farmers (33.3%) were identified as significant risk factors (<italic>p</italic>&#x2009;=&#x2009;0.0001). Consumption of unpasteurized milk and direct interaction with animals had a positive association with a positive RBPT result. This study revealed a higher seroprevalence in women with a higher number of pregnancies and a history of abortion, in comparison to women with fewer pregnancies and no history of abortion (<xref rid="tab3" ref-type="table">Table 3</xref>).</p>
+      <p>The bivariate logistic regression analysis (<xref rid="tab4" ref-type="table">Table 4</xref>) was performed to determine the relationship between various risk factors and seroprevalence in women who had animal contact or consumed unpasteurized milk. The highest seroprevalence was observed in patients who consumed unpasteurized milk (odds ratio&#x2009;=&#x2009;17.90, 95%CI&#x2009;=&#x2009;7.95&#x2013;40.31). Similarly, the seroprevalence was higher in age groups 33&#x2013;40&#x2009;years (52.33%) and&#x2009;&gt;&#x2009;40&#x2009;years (22.72%), and an odds ratio of 2.02 was observed in these age groups (95%CI&#x2009;=&#x2009;1.35&#x2013;3.01).</p>
+      <table-wrap position="float" id="tab4">
+        <label>Table 4</label>
+        <caption>
+          <p>Analysis of various features and their association with positive Rose Bengal Plate Test results using bivariate logistic regression analysis and odds ratio at 95% confidence interval (CI) with lower and upper limit and two-sided <italic>p</italic> value (0.05).</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" valign="top" rowspan="1" colspan="1">Variables</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">Odds ratio (95%CI)</th>
+              <th align="center" valign="top" rowspan="1" colspan="1">95% CI</th>
+              <th align="center" valign="top" rowspan="1" colspan="1"><italic>p</italic>-value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Age</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.02</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1.35&#x2013;3.01</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Urbanicity</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">2.68</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1.30&#x2013;5.53</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.007</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Socioeconomic status</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.51</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.27&#x2013;0.99</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.481</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Education</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1.41</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.88&#x2013;2.25</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.152</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Occupation</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.95</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.70&#x2013;1.28</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.742</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Animal Contact</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1.13</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.30&#x2013;4.2</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.897</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Consumption of unpasteurized milk</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">17.90</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">7.95&#x2013;40.31</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Contact with aborted materials of animals</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.12</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.12&#x2013;0.46</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">&lt;0.001</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Contact with aborted materials of humans</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.18</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.06&#x2013;0.56</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.003</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Total number of pregnancies</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.69</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.44&#x2013;1.09</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.116</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Number of abortions</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">1.03</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.60&#x2013;1.78</td>
+              <td align="center" valign="middle" rowspan="1" colspan="1">0.898</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion" id="sec12">
+      <title>Discussion</title>
+      <p>Brucellosis is an important zoonotic disease that is distributed all over the world. It is reported from more than 170 countries with over six million patients (<xref rid="ref25" ref-type="bibr">25</xref>). Globally, about 500,000 new cases are reported per year; however, this number may be underestimated and the true incidence of cases might range from 5 to 12.5 million cases every year (<xref rid="ref26" ref-type="bibr">26</xref>, <xref rid="ref27" ref-type="bibr">27</xref>). Brucellosis negatively affects human and animal health contributing to the disease burden in endemic regions and posing threat to animal production (<xref rid="ref28" ref-type="bibr">28</xref>). Brucellosis is also endemic in Pakistan and many studies have reported the presence of brucellosis in both animals and humans. There are, however, few studies available that deal with the prevalence of brucellosis in women who had spontaneous abortions (<xref rid="ref13" ref-type="bibr">13</xref>). The current study was done to investigate role of brucellosis in spontaneously aborting women in district Haripur.</p>
+      <p>Using RBPT this study found a seroprevalence of 23.63% (<italic>n</italic>&#x2009;=&#x2009;91 out of 385) in women who had spontaneous abortions and 1.31% seroprevalence (<italic>n</italic>&#x2009;=&#x2009;5 out of 385) in women with no history of spontaneous abortion. The present study shows an alarmingly high seroprevalence among women with spontaneous abortion history which is in concordance with a study done by Hassan and coworkers reporting a seroprevalence of 23.8% in patients with abortion history and clinical signs and symptoms of brucellosis (<xref rid="ref18" ref-type="bibr">18</xref>). The higher prevalence of disease in women with spontaneous abortion history may be attributed to various risk factors including close contact with animals and lack of proper health care during pregnancy. Pregnant women are more prone to infections due to hormonal imbalance and changes in the immune system (<xref rid="ref29" ref-type="bibr">29</xref>). Another study from Pakistan reported a prevalence of 24% (n&#x2009;=&#x2009;6) in seropositive pregnant women with an abortion history. In these seropositive women, the study also reported that 12% of cases had intrauterine fetal death as a cause of spontaneous abortion (<xref rid="ref30" ref-type="bibr">30</xref>). Similar results were also reported in a study from Rwanda, which recorded a seroprevalence of 25% in women who had obstetric complications such as abortion or stillbirth (<xref rid="ref31" ref-type="bibr">31</xref>). Studies from Saudi Arabia also reported 27.3 and 46% prevalence of brucellosis in pregnant women who had obstetric problems such as spontaneous abortion (<xref rid="ref32" ref-type="bibr">32</xref>, <xref rid="ref33" ref-type="bibr">33</xref>). The results of the current study cannot be compared to results of studies from neighboring India where only 4.2% and 9% prevalence of brucellosis was observed in aborted women with limited animal contact (<xref rid="ref34" ref-type="bibr">34</xref>, <xref rid="ref35" ref-type="bibr">35</xref>).</p>
+      <p>Real-time PCR was used to molecularly detect <italic>Brucella</italic> in seropositive samples. Approximately 89% (81/91) of the samples tested positive for <italic>Brucella</italic>, demonstrating reduced sensitivity in comparison to the serological assay or false-positive results of serology. Considering the well-documented issue of significant serological cross-reactions with other bacteria, it is highly probable that many of these samples were false positives (<xref rid="ref36" ref-type="bibr">36&#x2013;38</xref>). The literature presents conflicting findings on the sensitivity and specificity of PCR analysis in detecting infected cases when compared to serological testing. While some research suggests that PCR is more sensitive and specific than serological tests for diagnosing brucellosis, other studies have shown that serological testing has a higher sensitivity (<xref rid="ref39" ref-type="bibr">39&#x2013;42</xref>). In our investigation, the serological testing showed greater sensitivity as indicated by a higher positive rate for the RBPT compared to PCR analysis. Utilizing both molecular and serological approaches enhances sensitivity for detecting positive cases, so it is recommended to employ both techniques.</p>
+      <p>Various demographic, epidemiological variables and risk factors were analyzed to predict the relationship between these factors and obstetric outcome in pregnant women with positive RBPT results. Indeed, higher seroprevalences were found in middle aged women. The higher prevalence registered in the middle age group may be caused by prolonged close contact with livestock and weakening of their immune system that could result in obstetric complications. The results of the present study vary significantly from those of a previous study involving pregnant Pakistani women. That study reported a higher seroprevalence in lower age groups 18&#x2013;25 (44%) years and 26&#x2013;33&#x2009;years (28%) compared to that of the higher age groups (<xref rid="ref30" ref-type="bibr">30</xref>). Similarly, a higher prevalence of brucellosis was found in the age group of 15&#x2013;45&#x2009;years in a study conducted in Kenya (<xref rid="ref43" ref-type="bibr">43</xref>). Researchers in the nearby Abbottabad district of Pakistan also discovered brucellosis in older adults, although it was more common in the middle-aged population (<xref rid="ref18" ref-type="bibr">18</xref>). The reason for such finding can be attributed to the fact that the members in this middle-aged group were primarily involved in activities such as animal&#x2019;s milking, working in animal husbandries who had frequent and direct contact with animals. Nevertheless, individuals of all age groups were found to have seropositive instances of brucellosis.</p>
+      <p>In the present study, patients from rural areas were at higher risk due to direct contact with animals than women from urban regions. These findings are in accordance to results of several previous studies (<xref rid="ref18" ref-type="bibr">18</xref>, <xref rid="ref30" ref-type="bibr">30</xref>, <xref rid="ref44" ref-type="bibr">44</xref>). This work reports two times higher seroprevalence in the study groups of rural regions than in the study group of the urban region of district Haripur. A similar study in Uganda had comparable results reporting approximately three-time higher prevalence in rural (21.4%) compared to urban regions (7.9%) (<xref rid="ref45" ref-type="bibr">45</xref>). The higher prevalence in people of rural areas is caused by routine practices including herding of livestock, close contact with animals, birthing of calves, and consumption of raw animal products putting them at high risk of getting infected by <italic>Brucella</italic> (<xref rid="ref14" ref-type="bibr">14</xref>).</p>
+      <p>Knowledge and awareness about brucellosis are important for controlling the spread of the disease and education of individuals is an important factor in limiting its incidence. Better education <italic>per se</italic> provides better knowledge and attitudes toward hygiene of individuals to prevent them from acquiring diseases like brucellosis. In the present study, the seroprevalence of brucellosis was higher in women who had no (21.83%) or only primary (33.94%) education in contrast to those with secondary (18.63%) and higher education (17.85%). This study is comparatively consistent with a previous study from Uganda that reports a prevalence of 5.7% in persons who had tertiary level of education (<xref rid="ref46" ref-type="bibr">46</xref>).</p>
+      <p>The present study also investigated women having spontaneous abortion in respect to their occupations and found a higher prevalence in women who were animal keepers (43.66%) followed by farmers (38.09%). The study is consistent with previously reported studies from countries that also detect higher prevalence in persons with occupations like animal keepers, veterinarians, dung makers, and milkers (<xref rid="ref17" ref-type="bibr">17</xref>). Smita et al. also reported 22.08% (36/163) prevalence of brucellosis in shepherds rearing livestock in India (<xref rid="ref47" ref-type="bibr">47</xref>). A cross-sectional study from Kenya by Makala et al. also reported a prevalence of 10.4% (<italic>n</italic>&#x2009;=&#x2009;31) among individuals who were agro-pastoralist (<xref rid="ref48" ref-type="bibr">48</xref>).</p>
+      <p>Several studies have reported animals as an important risk factor for human brucellosis and the presence of <italic>Brucella</italic> in infected animals contributes significantly to causing transmission (<xref rid="ref13" ref-type="bibr">13</xref>). Brucellae can be transmitted to humans via contact with infected animals, consumption of unpasteurized milk, and contact with aborted fetuses or products thereof of infected animals or humans. Regular contact with humans with animals is considered the primary source of infection with <italic>Brucella,</italic> while consumption of unpasteurized dairy products is the secondary source of <italic>Brucella</italic> infections in various endemic countries (<xref rid="ref49" ref-type="bibr">49</xref>, <xref rid="ref50" ref-type="bibr">50</xref>). The current study reported that contact with animals contributes significantly to causing human brucellosis in susceptible populations (&#x3C7;<sup>2</sup>&#x2009;=&#x2009;14.48, <italic>p</italic>&#x2009;=&#x2009;0.0118). The participants who had direct contact with animals were more susceptible to acquiring brucellosis compared to individuals who had no or occasional contact with animals. Current results are contradictory to the previously reported prevalence of 36% (<italic>n</italic>&#x2009;=&#x2009;9) in pregnant women who had animal contact while 64% (<italic>n</italic>&#x2009;=&#x2009;16) in women with no animal contact (<xref rid="ref30" ref-type="bibr">30</xref>). It is possible that the lower prevalence in the previously reported studies was influenced by regional factors or a smaller study population. In contrast, the higher prevalence in our present study can be attributed to a larger sample size and the endemic nature of animal brucellosis in the region. However, Copper et al. reported an odds ratio of 2.82 (95% CI&#x2009;=&#x2009;1.03&#x2013;3.04) among seropositive individuals who had direct contact with animals (<xref rid="ref51" ref-type="bibr">51</xref>). The present study reports a prevalence of 54.46% (<italic>n</italic>&#x2009;=&#x2009;61) with an odds ratio of 18.28 (95% CI&#x2009;=&#x2009;8.168&#x2013;40.941) in women who consume unpasteurized milk. Previous studies from countries targeting various populations including pregnant women also reported similar results of acquiring brucellosis via consumption of unpasteurized milk (<xref rid="ref14" ref-type="bibr">14</xref>, <xref rid="ref17" ref-type="bibr">17</xref>, <xref rid="ref18" ref-type="bibr">18</xref>, <xref rid="ref30" ref-type="bibr">30</xref>). This study finds high correlation of brucellosis occurrence in individuals who had direct contact with animals and consume unpasteurized milk which was not unexpected.</p>
+      <p>Close contact with the aborted material or genital discharge of animals and humans was also recorded for participants. A seroprevalence of 17.16% (<italic>n</italic>&#x2009;=&#x2009;23) was observed in women who had close contact with aborted animals during parturition. Similarly, 8.92% (<italic>n</italic>&#x2009;=&#x2009;5) prevalence of brucellosis was observed in women who had contact with aborted material and fluids of parturient humans having spontaneous abortion. Indeed, several studies reported a higher prevalence of disease in individuals who had contact with animal or human abortions (<xref rid="ref52" ref-type="bibr">52&#x2013;54</xref>). Makala et al. also reported a higher odds ratio of 3.1 (95%CI&#x2009;=&#x2009;1.18&#x2013;8.37) in individuals who had assisted animals during parturition and had direct contact with animal placentas (<xref rid="ref48" ref-type="bibr">48</xref>). Therefore, it is important for midwives to prioritize environmental hygiene, use personal protective equipment, and practice proper hand hygiene to prevent any infections.</p>
+      <p>The number of pregnancies and number of abortions is also recorded in women who suffered from spontaneous abortions. A higher prevalence of brucellosis in women was registered who had more pregnancies and a higher rate of abortions. However, no significant relationship between the number of pregnancies and abortion with seroprevalence was found. Similarly, Kurdoglu et al. reported corresponding results in their study in Turkey, where a higher prevalence of brucellosis was documented in women who had &#x2265;3 pregnancies (48.15%) (<xref rid="ref55" ref-type="bibr">55</xref>). Several other studies also reported a missing relationship between the number of abortions and the prevalence of brucellosis. The reason for inconsistent data may be due to several other factors associated with brucellosis or spontaneous abortions of other causes (<xref rid="ref33" ref-type="bibr">33</xref>, <xref rid="ref56" ref-type="bibr">56</xref>).</p>
+      <p>The present study also recorded information on the types of spontaneous abortion and determined the seroprevalence of brucellosis for the different groups. The current study shows seroprevalence of 24.8% in miscarriages, 23% in early intrauterine fetal death, 18.9% in late intrauterine fetal deaths as a cause of spontaneous abortion. The present study reported a higher seroprevalence of brucellosis in miscarriages than previously reported for different countries (<xref rid="ref57" ref-type="bibr">57&#x2013;59</xref>). It was observed in the current study that the chances of abortion were higher if women suffered from brucellosis during the early stage of their pregnancies. The rate of miscarriages due to brucellosis ranges between 1.2% (<italic>n</italic>&#x2009;=&#x2009;3/242) (<xref rid="ref59" ref-type="bibr">59</xref>), 9.1% (<italic>n</italic>&#x2009;=&#x2009;1/9) (<xref rid="ref58" ref-type="bibr">58</xref>), 14.0% (<italic>n</italic>&#x2009;=&#x2009;12/86) (<xref rid="ref60" ref-type="bibr">60</xref>), 17.9% (<italic>n</italic>&#x2009;=&#x2009;7/39) (<xref rid="ref57" ref-type="bibr">57</xref>) and 28.6% (<italic>n</italic>&#x2009;=&#x2009;2/7) (<xref rid="ref12" ref-type="bibr">12</xref>) in different studies. Previously reported studies in different countries reported that intrauterine fetal death due to brucellosis rates between 0% and 20.6% (<xref rid="ref57" ref-type="bibr">57</xref>, <xref rid="ref61" ref-type="bibr">61</xref>). Our findings fit very well in this scenario.</p>
+      <p>Due to the complex nature of manifestations associated with brucellosis, many signs and symptoms are non-specific. Moreover, physicians often fail to make a timely diagnosis of the disease and thus misdiagnosis can occur which can lead to severe complications. Therefore, it is necessary to make an accurate and precise diagnosis of the disease using serological and molecular techniques. RT-PCR is a rapid, highly sensitive, and specific method for molecular diagnosis as compared to other conventional methods avoiding risk for operators during cultivation. The combination of RBPT with RT-PCR helps to provide accurate and precise diagnosis of brucellosis. However, more research has to be done to compare RBPT and cultivation vs. RBPT and RT-PCR to decide on the best diagnostic strategy.</p>
+      <p>The present study has certain limitations including that it primarily relies on RBPT as sole serological assays. Although, RBPT is valuable and highly sensitive assay, it is imperative to further add confirmatory assays such as Complement Fixation Test (CFT), Enzyme-linked Immunosorbent Assay (ELISA), or <italic>Brucella</italic> Capt test to improves the reliability and accuracy of the results. Additionally, the present study&#x2019;s utilization of serological assay and RT-PCR analysis is restricted to detect only <italic>Brucella</italic> genus and no attempt were made to isolate and identify the specific <italic>Brucella</italic> species responsible for causing spontaneous abortions in pregnant women.</p>
+      <p>Consequently, it is important to conduct further research to elucidate the prevalent species of <italic>Brucella</italic> in the population. Additionally, the molecular epidemiology of circulating <italic>Brucella</italic> species within Pakistani population remains unexplored. Therefore, comprehensive studies are imperative to unravel the molecular epidemiology, including genotyping characterization and phylogenetic analysis to gain insights into the genetic diversity and transmission dynamics of <italic>Brucella</italic> strains in the high-risk population.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec13">
+      <title>Conclusion</title>
+      <p>The study determined the seroprevalence of brucellosis among healthy pregnant women and women who suffered from spontaneous abortions in the Haripur District of Pakistan. The study showed that brucellosis is more prevalent in women who had a history of spontaneous abortion compared to healthy pregnant women. Moreover, risk factors like animal contact and consumption of unpasteurized milk may cause brucellosis infection in pregnant women. High-risk individuals like pregnant women must be made aware of the zoonotic aspect of the disease and need to be educated about precautionary measures. Tests to detect anti-<italic>Brucella</italic> antibodies in pregnant women of endemic areas need to be done on routine basis to avoid any obstetric complications. These data can be used for further research on correlations between brucellosis and human abortion. The results of the present study can also be used to develop strategies for controlling human brucellosis, raise awareness about the obstetric risks in pregnant women, and develop eradication programs in the study region.</p>
+    </sec>
+    <sec sec-type="data-availability" id="sec14">
+      <title>Data availability statement</title>
+      <p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p>
+    </sec>
+    <sec sec-type="ethics-statement" id="sec15">
+      <title>Ethics statement</title>
+      <p>The studies involving humans were approved by Ethical review committee of University of Haripur, Pakistan. The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="sec16">
+      <title>Author contributions</title>
+      <p>ME: Writing &#x2013; original draft, Writing &#x2013; review &amp; editing, Data curation, Investigation, Validation. SA: Conceptualization, Formal analysis, Methodology, Writing &#x2013; original draft, Writing &#x2013; review &amp; editing. MS: Conceptualization, Methodology, Writing &#x2013; review &amp; editing. FM: Funding acquisition, Investigation, Methodology, Resources, Writing &#x2013; review &amp; editing. RF: Conceptualization, Methodology, Supervision, Writing &#x2013; review &amp; editing. MD: Formal analysis, Investigation, Methodology, Software, Writing &#x2013; review &amp; editing. SAA: Investigation, Methodology, Validation, Writing &#x2013; review &amp; editing. HE-A: Conceptualization, Funding acquisition, Methodology, Resources, Software, Writing &#x2013; review &amp; editing. HN: Conceptualization, Formal analysis, Funding acquisition, Methodology, Resources, Writing &#x2013; review &amp; editing.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors would like to thank all the doctors and paramedical staff for their help in collecting samples.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn0001">
+        <p>
+<sup>1</sup>
+<ext-link xlink:href="http://vassarstats.net/" ext-link-type="uri">http://vassarstats.net/</ext-link>
+</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="COI-statement" id="sec18">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+      <p>The author(s) declared that they were an editorial board member of Frontiers, at the time of submission. This had no impact on the peer review process and the final decision.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="sec100">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gwida</surname><given-names>M</given-names></name><name><surname>Al Dahouk</surname><given-names>S</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><name><surname>R&#xF6;sler</surname><given-names>U</given-names></name><name><surname>Neubauer</surname><given-names>H</given-names></name><name><surname>Tomaso</surname><given-names>H</given-names></name></person-group>. <article-title>Brucellosis&#x2013;regionally emerging zoonotic disease?</article-title>
+<source>Croat Med J</source>. (<year>2010</year>) <volume>51</volume>:<fpage>289</fpage>&#x2013;<lpage>95</lpage>. doi: <pub-id pub-id-type="doi">10.3325/cmj.2010.51.289</pub-id><pub-id pub-id-type="pmid">20718081</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez</surname><given-names>D</given-names></name><name><surname>Grill&#xF3;</surname><given-names>M-J</given-names></name><name><surname>De Miguel</surname><given-names>M-J</given-names></name><name><surname>Ali</surname><given-names>T</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V</given-names></name><name><surname>Delrue</surname><given-names>R-M</given-names></name><etal/></person-group>. <article-title>Brucellosis vaccines: assessment of <italic>Brucella melitensis</italic> lipopolysaccharide rough mutants defective in core and O-polysaccharide synthesis and export</article-title>. <source>PLoS One</source>. (<year>2008</year>) <volume>3</volume>:<fpage>e2760</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0002760</pub-id>, PMID: <pub-id pub-id-type="pmid">18648644</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Agasthya</surname><given-names>A</given-names></name><name><surname>Isloor</surname><given-names>S</given-names></name><name><surname>Prabhudas</surname><given-names>K</given-names></name></person-group>. <article-title>Brucellosis in high risk group individuals</article-title>. <source>Indian J Med Microbiol</source>. (<year>2007</year>) <volume>25</volume>:<fpage>28</fpage>&#x2013;<lpage>31</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0255-0857(21)02230-1</pub-id><pub-id pub-id-type="pmid">17377349</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coelho</surname><given-names>AC</given-names></name><name><surname>D&#xED;ez</surname><given-names>JG</given-names></name><name><surname>Coelho</surname><given-names>AM</given-names></name></person-group>. <article-title>Risk factors for brucella spp</article-title>. <source>Domestic and wild animals</source>. (<year>2015</year>) <fpage>1</fpage>&#x2013;<lpage>32</lpage>. doi: <pub-id pub-id-type="doi">10.5772/61325</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonz&#xE1;lez-Espinoza</surname><given-names>G</given-names></name><name><surname>Arce-Gorvel</surname><given-names>V</given-names></name><name><surname>M&#xE9;met</surname><given-names>S</given-names></name><name><surname>Gorvel</surname><given-names>J-P</given-names></name></person-group>. <article-title>Brucella: reservoirs and niches in animals and humans</article-title>. <source>Pathogens</source>. (<year>2021</year>) <volume>10</volume>:<fpage>186</fpage>. doi: <pub-id pub-id-type="doi">10.3390/pathogens10020186</pub-id>, PMID: <pub-id pub-id-type="pmid">33572264</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Siyal</surname><given-names>GEA</given-names></name><name><surname>Khalid</surname><given-names>I</given-names></name><name><surname>Qaisrani</surname><given-names>A</given-names></name></person-group>. <source>Internal Migration and Urbanization: A Case Study from Semi-arid Regions of Pakistan</source>. by the Sustainable Development Policy Institute (<year>2018</year>).</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7.</label>
+        <mixed-citation publication-type="other"><person-group person-group-type="author"><name><surname>Mesce</surname><given-names>D.</given-names></name></person-group>
+<source>Abortion facts &amp; figures</source>. (<year>2021</year>). POPULATION REFERENCE BUREAU, Washington, USA <fpage>1</fpage>&#x2013;<lpage>64</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>O&#x2019;callaghan</surname><given-names>D</given-names></name></person-group>. <article-title>Human brucellosis: recent advances and future challenges</article-title>. <source>Infect Dis Poverty</source>. (<year>2020</year>) <volume>9</volume>:<fpage>1</fpage>&#x2013;<lpage>2</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s40249-020-00715-1</pub-id><pub-id pub-id-type="pmid">31996251</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>AU</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><name><surname>Hendam</surname><given-names>A</given-names></name><name><surname>Sayour</surname><given-names>AE</given-names></name><name><surname>Khan</surname><given-names>I</given-names></name><name><surname>Elschner</surname><given-names>MC</given-names></name><etal/></person-group>. <article-title>Seroprevalence and molecular identification of Brucella spp. in bovines in Pakistan&#x2014;investigating association with risk factors using machine learning</article-title>. <source>Front vet sci</source>. (<year>2020</year>) <volume>7</volume>:<fpage>980</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fvets.2020.594498</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lucero</surname><given-names>N</given-names></name><name><surname>Ayala</surname><given-names>S</given-names></name><name><surname>Escobar</surname><given-names>G</given-names></name><name><surname>Jacob</surname><given-names>N</given-names></name></person-group>. <article-title>Brucella isolated in humans and animals in Latin America from 1968 to 2006</article-title>. <source>Epidemiol Infect</source>. (<year>2008</year>) <volume>136</volume>:<fpage>496</fpage>&#x2013;<lpage>503</lpage>. doi: <pub-id pub-id-type="doi">10.1017/S0950268807008795</pub-id>, PMID: <pub-id pub-id-type="pmid">17559694</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Golshani</surname><given-names>M</given-names></name><name><surname>Buozari</surname><given-names>S</given-names></name></person-group>. <article-title>A review of brucellosis in Iran: epidemiology, risk factors, diagnosis, control, and prevention</article-title>. <source>Iran Biomed J</source>. (<year>2017</year>) <volume>21</volume>:<fpage>349</fpage>&#x2013;<lpage>59</lpage>. doi: <pub-id pub-id-type="doi">10.18869/acadpub.ibj.21.6.349</pub-id> PMID: <pub-id pub-id-type="pmid">28766326</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bosilkovski</surname><given-names>M</given-names></name><name><surname>Arapovi&#x107;</surname><given-names>J</given-names></name><name><surname>Keramat</surname><given-names>F</given-names></name></person-group>. <article-title>Human brucellosis in pregnancy&#x2013;an overview</article-title>. <source>Bosn J Basic Med Sci</source>. (<year>2020</year>) <volume>20</volume>:<fpage>415</fpage>&#x2013;<lpage>22</lpage>. doi: <pub-id pub-id-type="doi">10.17305/bjbms.2019.4499</pub-id>, PMID: <pub-id pub-id-type="pmid">31782698</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jamil</surname><given-names>T</given-names></name><name><surname>Khan</surname><given-names>AU</given-names></name><name><surname>Saqib</surname><given-names>M</given-names></name><name><surname>Hussain</surname><given-names>MH</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><name><surname>Rehman</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Animal and human brucellosis in Pakistan</article-title>. <source>Front Public Health</source>. (<year>2021</year>) <volume>9</volume>:<fpage>660508</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fpubh.2021.660508</pub-id>, PMID: <pub-id pub-id-type="pmid">34395357</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ali</surname><given-names>S</given-names></name><name><surname>Nawaz</surname><given-names>Z</given-names></name><name><surname>Akhtar</surname><given-names>A</given-names></name><name><surname>Aslam</surname><given-names>R</given-names></name><name><surname>Zahoor</surname><given-names>MA</given-names></name><name><surname>Ashraf</surname><given-names>M</given-names></name></person-group>. <article-title>Epidemiological investigation of human brucellosis in Pakistan. Jundishapur</article-title>. <source>J Microbiol</source>. (<year>2018</year>) <volume>11</volume>:<fpage>e61764</fpage>. doi: <pub-id pub-id-type="doi">10.5812/jjm.61764</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Iqbal</surname><given-names>M</given-names></name><name><surname>Fatmi</surname><given-names>Z</given-names></name><name><surname>Khan</surname><given-names>MA</given-names></name></person-group>. <article-title>Brucellosis in Pakistan: a neglected zoonotic disease</article-title>. <source>JPMA J Pakistan Medical Association</source>. (<year>2020</year>) <volume>70</volume>:<fpage>1625</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.5455/JPMA.24139</pub-id>, PMID: <pub-id pub-id-type="pmid">33040122</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saddique</surname><given-names>A</given-names></name><name><surname>Ali</surname><given-names>S</given-names></name><name><surname>Akhter</surname><given-names>S</given-names></name><name><surname>Khan</surname><given-names>I</given-names></name><name><surname>Neubauer</surname><given-names>H</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Acute febrile illness caused by <italic>Brucella abortus</italic> infection in humans in Pakistan</article-title>. <source>Int J Environ Res Public Health</source>. (<year>2019</year>) <volume>16</volume>:<fpage>4071</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijerph16214071</pub-id>, PMID: <pub-id pub-id-type="pmid">31652718</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ali</surname><given-names>S</given-names></name><name><surname>Saeed</surname><given-names>U</given-names></name><name><surname>Rizwan</surname><given-names>M</given-names></name><name><surname>Hassan</surname><given-names>L</given-names></name><name><surname>Syed</surname><given-names>MA</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Serosurvey and risk factors associated with Brucella infection in high risk occupations from district Lahore and Kasur of Punjab, Pakistan</article-title>. <source>Pathogens</source>. (<year>2021</year>) <volume>10</volume>:<fpage>620</fpage>. doi: <pub-id pub-id-type="doi">10.3390/pathogens10050620</pub-id>, PMID: <pub-id pub-id-type="pmid">34070142</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hassan</surname><given-names>L</given-names></name><name><surname>Ali</surname><given-names>S</given-names></name><name><surname>Syed</surname><given-names>MA</given-names></name><name><surname>Shah</surname><given-names>AA</given-names></name><name><surname>Abbasi</surname><given-names>SA</given-names></name><name><surname>Tabassum</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Risk factors for acute brucellosis in patients on the day of admission at selected hospitals of Abbottabad, Pakistan</article-title>. <source>Front Public Health</source>. (<year>2021</year>) <volume>9</volume>:<fpage>9</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fpubh.2021.669278</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Niaz</surname><given-names>S</given-names></name><name><surname>Raqeeb</surname><given-names>A</given-names></name><name><surname>Khan</surname><given-names>A</given-names></name><name><surname>Amir</surname><given-names>S</given-names></name><name><surname>Zhu</surname><given-names>L</given-names></name><name><surname>Kumar</surname><given-names>S</given-names></name></person-group>. <article-title>Status of human brucellosis in district Malakand, Khyber Pakhtunkhwa, Pakistan</article-title>. <source>J Infect Public Health</source>. (<year>2021</year>) <volume>14</volume>:<fpage>423</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jiph.2019.12.013</pub-id>, PMID: <pub-id pub-id-type="pmid">32439353</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>K</given-names></name><name><surname>Wu</surname><given-names>B</given-names></name><name><surname>Pan</surname><given-names>H</given-names></name><name><surname>Paudyal</surname><given-names>N</given-names></name><name><surname>Jiang</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>ONE health approach to address zoonotic brucellosis: a spatiotemporal associations study between animals and humans</article-title>. <source>Front Vet Sci</source>. (<year>2020</year>) <volume>7</volume>:<fpage>521</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fvets.2020.00521</pub-id>, PMID: <pub-id pub-id-type="pmid">32984409</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Habib</surname><given-names>MA</given-names></name><name><surname>Raynes-Greenow</surname><given-names>C</given-names></name><name><surname>Nausheen</surname><given-names>S</given-names></name><name><surname>Soofi</surname><given-names>SB</given-names></name><name><surname>Sajid</surname><given-names>M</given-names></name><name><surname>Bhutta</surname><given-names>ZA</given-names></name><etal/></person-group>. <article-title>Prevalence and determinants of unintended pregnancies amongst women attending antenatal clinics in Pakistan</article-title>. <source>BMC Pregnancy Childbirth</source>. (<year>2017</year>) <volume>17</volume>:<fpage>1</fpage>&#x2013;<lpage>10</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s12884-017-1339-z</pub-id><pub-id pub-id-type="pmid">28049520</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>MS</given-names></name><name><surname>Ahmad</surname><given-names>N</given-names></name><name><surname>Khan</surname><given-names>MA</given-names></name></person-group>. <article-title>Genetic resources and diversity in Pakistani cattle</article-title>. <source>Pak Vet J</source>. (<year>2008</year>) <volume>28</volume>:<fpage>95</fpage>&#x2013;<lpage>102</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Azam</surname><given-names>A</given-names></name><name><surname>Pall</surname><given-names>SS</given-names></name><name><surname>Khan</surname><given-names>I</given-names></name><name><surname>Ahmad</surname><given-names>W</given-names></name><name><surname>Jamil</surname><given-names>T</given-names></name><name><surname>Rehman</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Evidence of brucellosis in hospitalized patients of selected districts of Punjab</article-title>. <source>Pakistan Microbiol Res</source>. (<year>2023</year>) <volume>14</volume>:<fpage>883</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.3390/microbiolres14030061</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kamal</surname><given-names>IH</given-names></name><name><surname>Al Gashgari</surname><given-names>B</given-names></name><name><surname>Moselhy</surname><given-names>SS</given-names></name><name><surname>Kumosani</surname><given-names>TA</given-names></name><name><surname>Abulnaja</surname><given-names>KO</given-names></name></person-group>. <article-title>Two-stage PCR assay for detection of human brucellosis in endemic areas</article-title>. <source>BMC Infect Dis</source>. (<year>2013</year>) <volume>13</volume>:<fpage>1</fpage>&#x2013;<lpage>5</lpage>. doi: <pub-id pub-id-type="doi">10.1186/1471-2334-13-145</pub-id><pub-id pub-id-type="pmid">23280237</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liang</surname><given-names>P</given-names></name><name><surname>Zhao</surname><given-names>Y</given-names></name><name><surname>Zhao</surname><given-names>J</given-names></name><name><surname>Pan</surname><given-names>D</given-names></name><name><surname>Guo</surname><given-names>Z</given-names></name></person-group>. <article-title>The spatiotemporal distribution of human brucellosis in mainland China from 2007-2016</article-title>. <source>BMC Infect Dis</source>. (<year>2020</year>) <volume>20</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s12879-020-4946-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Al Dahouk</surname><given-names>S</given-names></name><name><surname>Pappas</surname><given-names>G</given-names></name><name><surname>Roth</surname><given-names>F</given-names></name><name><surname>Matope</surname><given-names>G</given-names></name><name><surname>Muma</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>A &#x201C;one health&#x201D; surveillance and control of brucellosis in developing countries: moving away from improvisation</article-title>. <source>Comp Immunol Microbiol Infect Dis</source>. (<year>2013</year>) <volume>36</volume>:<fpage>241</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cimid.2012.09.001</pub-id>, PMID: <pub-id pub-id-type="pmid">23044181</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Informatics</surname><given-names>G</given-names></name><name><surname>Berger</surname><given-names>S</given-names></name></person-group>. <source>Infectious diseases of Bangladesh</source>. <edition>2016th</edition> ed <publisher-name>GIDEON Informatics Inc</publisher-name> (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hadush</surname><given-names>A</given-names></name><name><surname>Pal</surname><given-names>M</given-names></name></person-group>. <article-title>Brucellosis-an infectious re-emerging bacterial zoonosis of global importance</article-title>. <source>Int J Livest Res</source>. (<year>2013</year>) <volume>3</volume>:<fpage>28</fpage>&#x2013;<lpage>34</lpage>. doi: <pub-id pub-id-type="doi">10.5455/ijlr.20130305064802</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Robinson</surname><given-names>DP</given-names></name><name><surname>Klein</surname><given-names>SL</given-names></name></person-group>. <article-title>Pregnancy and pregnancy-associated hormones alter immune responses and disease pathogenesis</article-title>. <source>Horm Behav</source>. (<year>2012</year>) <volume>62</volume>:<fpage>263</fpage>&#x2013;<lpage>71</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.yhbeh.2012.02.023</pub-id>, PMID: <pub-id pub-id-type="pmid">22406114</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ali</surname><given-names>S</given-names></name><name><surname>Akhter</surname><given-names>S</given-names></name><name><surname>Neubauer</surname><given-names>H</given-names></name><name><surname>Scherag</surname><given-names>A</given-names></name><name><surname>Kesselmeier</surname><given-names>M</given-names></name><name><surname>Melzer</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Brucellosis in pregnant women from Pakistan: an observational study</article-title>. <source>BMC Infect Dis</source>. (<year>2016</year>) <volume>16</volume>:<fpage>1</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s12879-016-1799-1</pub-id><pub-id pub-id-type="pmid">26729246</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rujeni</surname><given-names>N</given-names></name><name><surname>Mbanzamihigo</surname><given-names>L</given-names></name></person-group>. <article-title>Prevalence of brucellosis among women presenting with abortion/stillbirth in Huye, Rwanda</article-title>. <source>J Trop Med</source>. (<year>2014</year>) <volume>2014</volume>:<fpage>1</fpage>&#x2013;<lpage>3</lpage>. doi: <pub-id pub-id-type="doi">10.1155/2014/740479</pub-id>, PMID: <pub-id pub-id-type="pmid">25101131</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elshamy</surname><given-names>M</given-names></name><name><surname>Ahmed</surname><given-names>AI</given-names></name></person-group>. <article-title>The effects of maternal brucellosis on pregnancy outcome</article-title>. <source>J Infection in Developing Countries</source>. (<year>2008</year>) <volume>2</volume>:<fpage>230</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.3855/jidc.268</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Khan</surname><given-names>MY</given-names></name><name><surname>Mah</surname><given-names>MW</given-names></name><name><surname>Memish</surname><given-names>ZA</given-names></name></person-group>. <article-title>Brucellosis in pregnant women</article-title>. <source>Clin Infect Dis</source>. (<year>2001</year>) <volume>32</volume>:<fpage>1172</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.1086/319758</pub-id><pub-id pub-id-type="pmid">11283806</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Randhawa</surname><given-names>A</given-names></name><name><surname>Kalra</surname><given-names>D</given-names></name><name><surname>Kapur</surname><given-names>M</given-names></name></person-group>. <article-title>Some sero-epidemiologic observations on brucellosis in humans and animals</article-title>. <source>Indian J Med Sci</source>. (<year>1974</year>) <volume>28</volume>:<fpage>133</fpage>&#x2013;<lpage>8</lpage>. PMID: <pub-id pub-id-type="pmid">4443002</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Puri</surname><given-names>M</given-names></name><name><surname>Patel</surname><given-names>N</given-names></name><name><surname>Gaikwad</surname><given-names>V</given-names></name><name><surname>Despande</surname><given-names>H</given-names></name><name><surname>Pandey</surname><given-names>P</given-names></name></person-group>. <article-title>A study of prevalence of brucellosis in cases of spontaneous abortions</article-title>. <source>Res J Pharm, Biol Chem Sci</source>. (<year>2015</year>) <volume>6</volume>:<fpage>312</fpage>&#x2013;<lpage>20</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hini&#x107;</surname><given-names>V</given-names></name><name><surname>Brodard</surname><given-names>I</given-names></name><name><surname>Thomann</surname><given-names>A</given-names></name><name><surname>Holub</surname><given-names>M</given-names></name><name><surname>Miserez</surname><given-names>R</given-names></name><name><surname>Abril</surname><given-names>C</given-names></name></person-group>. <article-title>IS 711-based real-time PCR assay as a tool for detection of Brucella spp. in wild boars and comparison with bacterial isolation and serology</article-title>. <source>BMC Vet Res</source>. (<year>2009</year>) <volume>5</volume>:<fpage>1</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1186/1746-6148-5-22</pub-id><pub-id pub-id-type="pmid">19133119</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kittelberger</surname><given-names>R</given-names></name><name><surname>Hilbink</surname><given-names>F</given-names></name><name><surname>Hasen</surname><given-names>MF</given-names></name><name><surname>Ross</surname><given-names>GP</given-names></name><name><surname>Joyce</surname><given-names>MA</given-names></name><name><surname>Fenwick</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Serological crossreactivity between Brucella abortus and <italic>Yersinia enterocolitica</italic> 0: 9 II the use of Yersinia outer proteins for the specific detection of <italic>Yersinia enterocolitica</italic> infections in ruminants</article-title>. <source>Vet Microbiol</source>. (<year>1995</year>) <volume>47</volume>:<fpage>271</fpage>&#x2013;<lpage>80</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0378-1135(95)00121-2</pub-id>, PMID: <pub-id pub-id-type="pmid">8748542</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mu&#xF1;oz</surname><given-names>P</given-names></name><name><surname>Mar&#xED;n</surname><given-names>C</given-names></name><name><surname>Monreal</surname><given-names>D</given-names></name><name><surname>Gonzalez</surname><given-names>D</given-names></name><name><surname>Garin-Bastuji</surname><given-names>B</given-names></name><name><surname>Diaz</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Efficacy of several serological tests and antigens for diagnosis of bovine brucellosis in the presence of false-positive serological results due to <italic>Yersinia enterocolitica</italic> O: 9</article-title>. <source>Clin Vaccine Immunol</source>. (<year>2005</year>) <volume>12</volume>:<fpage>141</fpage>&#x2013;<lpage>51</lpage>. doi: <pub-id pub-id-type="doi">10.1128/CDLI.12.1.141-151.2005</pub-id>, PMID: <pub-id pub-id-type="pmid">15642999</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Batrinou</surname><given-names>A</given-names></name><name><surname>Strati</surname><given-names>IF</given-names></name><name><surname>Tsantes</surname><given-names>AG</given-names></name><name><surname>Papaparaskevas</surname><given-names>J</given-names></name><name><surname>Dimou</surname><given-names>I</given-names></name><name><surname>Vourvidis</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>The importance of complementary PCR analysis in addition to serological testing for the detection of transmission sources of Brucella spp</article-title>. <source>Greek Ruminants Vet Sci</source>. (<year>2022</year>) <volume>9</volume>:<fpage>193</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vetsci9040193</pub-id><pub-id pub-id-type="pmid">35448691</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al Dahouk</surname><given-names>S</given-names></name><name><surname>N&#xF6;ckler</surname><given-names>K</given-names></name></person-group>. <article-title>Implications of laboratory diagnosis on brucellosis therapy</article-title>. <source>Expert Rev Anti-Infect Ther</source>. (<year>2011</year>) <volume>9</volume>:<fpage>833</fpage>&#x2013;<lpage>45</lpage>. doi: <pub-id pub-id-type="doi">10.1586/eri.11.55</pub-id>, PMID: <pub-id pub-id-type="pmid">21810055</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yagupsky</surname><given-names>P</given-names></name><name><surname>Morata</surname><given-names>P</given-names></name><name><surname>Colmenero</surname><given-names>JD</given-names></name></person-group>. <article-title>Laboratory diagnosis of human brucellosis</article-title>. <source>Clin Microbiol Rev</source>. (<year>2019</year>) <volume>33</volume>:<fpage>19</fpage>. doi: <pub-id pub-id-type="doi">10.1128/cmr.00073-19</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zerva</surname><given-names>L</given-names></name><name><surname>Bourantas</surname><given-names>K</given-names></name><name><surname>Mitka</surname><given-names>S</given-names></name><name><surname>Kansouzidou</surname><given-names>A</given-names></name><name><surname>Legakis</surname><given-names>N</given-names></name></person-group>. <article-title>Serum is the preferred clinical specimen for diagnosis of human brucellosis by PCR</article-title>. <source>J Clin Microbiol</source>. (<year>2001</year>) <volume>39</volume>:<fpage>1661</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.39.4.1661-1664.2001</pub-id>, PMID: <pub-id pub-id-type="pmid">11283112</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maiyo</surname><given-names>G</given-names></name><name><surname>Obey</surname><given-names>JK</given-names></name></person-group>. <article-title>Distribution and prevalence of human brucellosis among patients reporting at chemundu dispensary, Nandi County</article-title>. <source>Kenya Baraton Interdis Res J</source>. (<year>2016</year>) <volume>6</volume>:<fpage>73</fpage>&#x2013;<lpage>82</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shahid</surname><given-names>M</given-names></name><name><surname>Basit</surname><given-names>A</given-names></name><name><surname>Khan</surname><given-names>MA</given-names></name></person-group>. <article-title>Prevalence of brucellosis among the hospital patients of Peshawar</article-title>. <source>Khyber Pakhtunkhwa J Infect Mol Biol</source>. (<year>2014</year>) <volume>2</volume>:<fpage>19</fpage>&#x2013;<lpage>21</lpage>. doi: <pub-id pub-id-type="doi">10.14737/jimb.2307-5465/2.2.19.21</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tumwine</surname><given-names>G</given-names></name><name><surname>Matovu</surname><given-names>E</given-names></name><name><surname>Kabasa</surname><given-names>JD</given-names></name><name><surname>Owiny</surname><given-names>DO</given-names></name><name><surname>Majalija</surname><given-names>S</given-names></name></person-group>. <article-title>Human brucellosis: sero-prevalence and associated risk factors in agro-pastoral communities of Kiboga District</article-title>. <source>Central Uganda BMC public health</source>. (<year>2015</year>) <volume>15</volume>:<fpage>1</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s12889-015-2242-z</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Migisha</surname><given-names>R</given-names></name><name><surname>Nyehangane</surname><given-names>D</given-names></name><name><surname>Boum</surname><given-names>Y</given-names></name><name><surname>Page</surname><given-names>A-L</given-names></name><name><surname>Z&#xFA;&#xF1;iga-Ripa</surname><given-names>A</given-names></name><name><surname>Conde-&#xC1;lvarez</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Prevalence and risk factors of brucellosis among febrile patients attending a community hospital in south western Uganda</article-title>. <source>Sci Rep</source>. (<year>2018</year>) <volume>8</volume>:<fpage>1</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-018-33915-9</pub-id><pub-id pub-id-type="pmid">29311619</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mangalgi</surname><given-names>SS</given-names></name><name><surname>Sajjan</surname><given-names>AG</given-names></name><name><surname>Mohite</surname><given-names>ST</given-names></name><name><surname>Kakade</surname><given-names>SV</given-names></name></person-group>. <article-title>Serological, clinical, and epidemiological profile of human brucellosis in rural India</article-title>. <source>Indian journal of community medicine: official publication of Indian Association of Preventive &amp; Social Medicine</source>. (<year>2015</year>) <volume>40</volume>:<fpage>163</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.4103/0970-0218.158847</pub-id>, PMID: <pub-id pub-id-type="pmid">26170539</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Makala</surname><given-names>R</given-names></name><name><surname>Majigo</surname><given-names>MV</given-names></name><name><surname>Bwire</surname><given-names>GM</given-names></name><name><surname>Kibwana</surname><given-names>U</given-names></name><name><surname>Mirambo</surname><given-names>MM</given-names></name></person-group>. <article-title>Seroprevalence of Brucella infection and associated factors among pregnant women receiving antenatal care around human, wildlife and livestock interface in Ngorongoro ecosystem, northern Tanzania</article-title>. <source>A cross-sectional study BMC infectious diseases</source>. (<year>2020</year>) <volume>20</volume>:<fpage>1</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.1186/s12879-020-4873-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al Anazi</surname><given-names>M</given-names></name><name><surname>AlFayyad</surname><given-names>I</given-names></name><name><surname>AlOtaibi</surname><given-names>R</given-names></name><name><surname>Abu-Shaheen</surname><given-names>A</given-names></name></person-group>. <article-title>Epidemiology of brucellosis in Saudi Arabia</article-title>. <source>Saudi Med J</source>. (<year>2019</year>) <volume>40</volume>:<fpage>981</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.15537/smj.2019.10.24027</pub-id>, PMID: <pub-id pub-id-type="pmid">31588475</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kassiri</surname><given-names>H</given-names></name><name><surname>Amani</surname><given-names>H</given-names></name><name><surname>Lotfi</surname><given-names>M</given-names></name></person-group>. <article-title>Epidemiological, laboratory, diagnostic and public health aspects of human brucellosis in western Iran</article-title>. <source>Asian Pac J Trop Biomed</source>. (<year>2013</year>) <volume>3</volume>:<fpage>589</fpage>&#x2013;<lpage>94</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S2221-1691(13)60121-5</pub-id>, PMID: <pub-id pub-id-type="pmid">23905014</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cooper</surname><given-names>CW</given-names></name></person-group>. <article-title>Risk factors in transmission of brucellosis from animals to humans in Saudi Arabia</article-title>. <source>Trans R Soc Trop Med Hyg</source>. (<year>1992</year>) <volume>86</volume>:<fpage>206</fpage>&#x2013;<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0035-9203(92)90575-W</pub-id>, PMID: <pub-id pub-id-type="pmid">1440791</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bikas</surname><given-names>C</given-names></name><name><surname>Jelastopulu</surname><given-names>E</given-names></name><name><surname>Leotsinidis</surname><given-names>M</given-names></name><name><surname>Kondakis</surname><given-names>X</given-names></name></person-group>. <article-title>Epidemiology of human brucellosis in a rural area of North-Western Peloponnese in Greece</article-title>. <source>Eur J Epidemiol</source>. (<year>2003</year>) <volume>18</volume>:<fpage>267</fpage>&#x2013;<lpage>74</lpage>. doi: <pub-id pub-id-type="doi">10.1023/A:1023368420840</pub-id>, PMID: <pub-id pub-id-type="pmid">12800954</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schelling</surname><given-names>E</given-names></name><name><surname>Diguimbaye</surname><given-names>C</given-names></name><name><surname>Daoud</surname><given-names>S</given-names></name><name><surname>Nicolet</surname><given-names>J</given-names></name><name><surname>Boerlin</surname><given-names>P</given-names></name><name><surname>Tanner</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Brucellosis and Q-fever seroprevalences of nomadic pastoralists and their livestock in Chad</article-title>. <source>Prev Vet Med</source>. (<year>2003</year>) <volume>61</volume>:<fpage>279</fpage>&#x2013;<lpage>93</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.prevetmed.2003.08.004</pub-id><pub-id pub-id-type="pmid">14623412</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <label>54.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Min</surname><given-names>Y-S</given-names></name><name><surname>Lee</surname><given-names>H-S</given-names></name><name><surname>Lim</surname><given-names>H-S</given-names></name></person-group>. <article-title>Investigation of a series of brucellosis cases in Gyeongsangbuk-do during 2003-2004</article-title>. <source>J Prev Med Public Health</source>. (<year>2005</year>) <volume>38</volume>:<fpage>482</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">16358836</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurdoglu</surname><given-names>M</given-names></name><name><surname>Adali</surname><given-names>E</given-names></name><name><surname>Kurdoglu</surname><given-names>Z</given-names></name><name><surname>Karahocagil</surname><given-names>MK</given-names></name><name><surname>Kolusari</surname><given-names>A</given-names></name><name><surname>Yildizhan</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Brucellosis in pregnancy: a 6-year clinical analysis</article-title>. <source>Arch Gynecol Obstet</source>. (<year>2010</year>) <volume>281</volume>:<fpage>201</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00404-009-1106-0</pub-id>, PMID: <pub-id pub-id-type="pmid">19434417</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nassaji</surname><given-names>M</given-names></name><name><surname>Rahbar</surname><given-names>N</given-names></name><name><surname>Ghorbani</surname><given-names>R</given-names></name><name><surname>Lavaf</surname><given-names>S</given-names></name></person-group>. <article-title>The role of Brucella infection among women with spontaneous abortion in an endemic region</article-title>. <source>J Turkish German Gynecology Association</source>. (<year>2008</year>) <volume>9</volume>:<fpage>20</fpage>&#x2013;<lpage>3</lpage>.</mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <label>57.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gulsun</surname><given-names>S</given-names></name><name><surname>Aslan</surname><given-names>S</given-names></name><name><surname>Satici</surname><given-names>O</given-names></name><name><surname>Gul</surname><given-names>T</given-names></name></person-group>. <article-title>Brucellosis in pregnancy</article-title>. <source>Trop Dr</source>. (<year>2011</year>) <volume>41</volume>:<fpage>82</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1258/td.2011.100386</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <label>58.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Madkour</surname><given-names>MM</given-names></name></person-group>. <article-title>Pregnancy and brucellosis</article-title> In: <source>Madkour&#x2019;s brucellosis</source>. <publisher-loc>US</publisher-loc>: <publisher-name>Springer Berlin, Heidelberg</publisher-name> (<year>2001</year>). <fpage>187</fpage>&#x2013;<lpage>92</lpage>. doi: <pub-id pub-id-type="doi">10.1007/978-3-642-59533-2_17</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Inan</surname><given-names>A</given-names></name><name><surname>Erdem</surname><given-names>H</given-names></name><name><surname>Elaldi</surname><given-names>N</given-names></name><name><surname>Gulsun</surname><given-names>S</given-names></name><name><surname>Karahocagil</surname><given-names>MK</given-names></name><name><surname>Pekok</surname><given-names>AU</given-names></name><etal/></person-group>. <article-title>Brucellosis in pregnancy: results of multicenter ID-IRI study</article-title>. <source>Eur J Clin Microbiol Infect Dis</source>. (<year>2019</year>) <volume>38</volume>:<fpage>1261</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10096-019-03540-z</pub-id>, PMID: <pub-id pub-id-type="pmid">30989418</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vilchez</surname><given-names>G</given-names></name><name><surname>Espinoza</surname><given-names>M</given-names></name><name><surname>D&#x2019;Onadio</surname><given-names>G</given-names></name><name><surname>Saona</surname><given-names>P</given-names></name><name><surname>Gotuzzo</surname><given-names>E</given-names></name></person-group>. <article-title>Brucellosis in pregnancy: clinical aspects and obstetric outcomes</article-title>. <source>Int J Infect Dis</source>. (<year>2015</year>) <volume>38</volume>:<fpage>95</fpage>&#x2013;<lpage>100</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ijid.2015.06.027</pub-id>, PMID: <pub-id pub-id-type="pmid">26159844</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <label>61.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Tawfiq</surname><given-names>AJ</given-names></name><name><surname>Memish</surname><given-names>Z</given-names></name></person-group>. <article-title>Pregnancy associated brucellosis</article-title>. <source>Recent Pat Antiinfect Drug Discov</source>. (<year>2013</year>) <volume>8</volume>:<fpage>47</fpage>&#x2013;<lpage>50</lpage>. doi: <pub-id pub-id-type="doi">10.2174/1574891X11308010009</pub-id><pub-id pub-id-type="pmid">22812618</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

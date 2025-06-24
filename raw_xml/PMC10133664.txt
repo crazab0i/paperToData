@@ -1,0 +1,1786 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Heliyon</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Heliyon</journal-id>
+      <journal-title-group>
+        <journal-title>Heliyon</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2405-8440</issn>
+      <publisher>
+        <publisher-name>Elsevier</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37123977</article-id>
+      <article-id pub-id-type="pmc">10133664</article-id>
+      <article-id pub-id-type="pii">S2405-8440(23)02292-2</article-id>
+      <article-id pub-id-type="doi">10.1016/j.heliyon.2023.e15085</article-id>
+      <article-id pub-id-type="publisher-id">e15085</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Shedding rate of Brucella spp. in the milk of seropositive and seronegative dairy cattle</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="au1">
+          <name>
+            <surname>Abnaroodheleh</surname>
+            <given-names>Faranak</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au2">
+          <name>
+            <surname>Emadi</surname>
+            <given-names>Anahita</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au3">
+          <name>
+            <surname>Dashtipour</surname>
+            <given-names>Shojaat</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au4">
+          <name>
+            <surname>Jamil</surname>
+            <given-names>Tariq</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">c</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au5">
+          <name>
+            <surname>Mousavi Khaneghah</surname>
+            <given-names>Amin</given-names>
+          </name>
+          <email>amin.mousavi@ibprs.pl</email>
+          <email>amin.mousavi@asoiu.edu.az</email>
+          <xref rid="aff4" ref-type="aff">d</xref>
+          <xref rid="aff5" ref-type="aff">e</xref>
+          <xref rid="cor1" ref-type="corresp">&#x2217;</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au6">
+          <name>
+            <surname>Dadar</surname>
+            <given-names>Maryam</given-names>
+          </name>
+          <email>dadar.m77@gmail.com</email>
+          <xref rid="aff2" ref-type="aff">b</xref>
+          <xref rid="cor2" ref-type="corresp">&#x2217;&#x2217;</xref>
+        </contrib>
+        <aff id="aff1"><label>a</label>Head of Diagnosis and Treatment Department; Tehran Veterinary Organization, Tehran, Iran</aff>
+        <aff id="aff2"><label>b</label>Razi Vaccine and Serum Research Institute; Agricultural Research, Education and Extension Organization (AREEO), Karaj, Iran</aff>
+        <aff id="aff3"><label>c</label>Institute of Bacterial Infections and Zoonoses, Friedrich-Loeffler-Institute, 07743 Jena, Germany</aff>
+        <aff id="aff4"><label>d</label>Department of Fruit and Vegetable Product Technology, Prof. Wac&#x142;aw D&#x105;browski Institute of Agricultural and Food Biotechnology &#x2013; State Research Institute, 36 Rakowiecka St., 02-532, Warsaw, Poland</aff>
+        <aff id="aff5"><label>e</label>Department of Technology of Chemistry, Azerbaijan State Oil and Industry University, Baku, Azerbaijan</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1"><label>&#x2217;</label>Corresponding author. Department of Fruit and Vegetable Product Technology, Prof. Wac&#x142;aw D&#x105;browski Institute of Agricultural and Food Biotechnology &#x2013; State Research Institute, 36 Rakowiecka St., 02-532, Warsaw, Poland. <email>amin.mousavi@ibprs.pl</email><email>amin.mousavi@asoiu.edu.az</email></corresp>
+        <corresp id="cor2"><label>&#x2217;&#x2217;</label>Corresponding author. <email>dadar.m77@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>13</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="collection">
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>9</volume>
+      <issue>4</issue>
+      <elocation-id>e15085</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>24</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>3</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 Published by Elsevier Ltd.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder/>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p>
+        </license>
+      </permissions>
+      <abstract id="abs0010">
+        <p>Brucellosis in cattle herds has caused severe economic losses in many regions worldwide. A cross-sectional study was performed to investigate the presence of <italic>Brucella</italic> spp. in industrial dairy cattle farms in Iran. For this purpose, 935 blood and 935 milk samples were randomly collected from industrial dairy cattle farms in Iran's Alborz and Tehran provinces. Blood and milk samples were collected on the same day from each cow. Serological, bacteriological, and molecular characterization of <italic>Brucella</italic> isolates were performed using standard methods. Our results revealed the seroprevalence of brucellosis in dairy cattle farms in the Alborz and Tehran provinces, reaching 19.8%, 6.7%, 5.1%, 14.1%, and 13.1% using the Rose Bengal plate test (RBPT), serum agglutination test (SAT), 2-mercaptoethanol test (2-ME), indirect enzyme-linked immunosorbent assay (i-ELISA) and milk ring test (MRT), respectively. Furthermore, the results of bacterial culture and PCR analyses showed the presence of <italic>Brucella abortus</italic> among dairy cattle in the Alborz province and <italic>Brucella melitensis</italic> and <italic>B. abortus</italic> among dairy cattle in the Tehran province. Moreover, statistical analysis with Cohen's Kappa has highlighted the near-perfect agreement between RBPT and i-ELISA (k&#xA0;=&#xA0;0.86). In contrast, substantial agreement was shown between RBPT and SAT performance (k&#xA0;=&#xA0;0.70) and moderate agreement between RBPT and 2-ME (k&#xA0;=&#xA0;0.67). The findings of this investigation showed shedding of <italic>Brucella</italic> in the milk of seropositive cows, which is a serious problem involving the maintenance and further spread of <italic>Brucella</italic> infection on the farm. Therefore, for brucellosis detection or eradication in dairy cattle farms, bacteriological and serological tests of milk samples should be performed along with blood analysis to inhibit the uncontrolled spread of the disease in animals and humans.</p>
+      </abstract>
+      <abstract abstract-type="graphical" id="abs0015">
+        <title>Graphical abstract</title>
+        <p>
+          <fig id="undfig1" position="anchor">
+            <alt-text id="alttext0010">Image 1</alt-text>
+            <graphic xlink:href="ga1"/>
+          </fig>
+        </p>
+      </abstract>
+      <abstract abstract-type="author-highlights" id="abs0020">
+        <title>Highlights</title>
+        <p>
+          <list list-type="simple" id="ulist0010">
+            <list-item id="u0010">
+              <label>&#x2022;</label>
+              <p id="p0010">The incidence of brucellosis in vaccinated seronegative and seropositive cows was investigated.</p>
+            </list-item>
+            <list-item id="u0015">
+              <label>&#x2022;</label>
+              <p id="p0015">The best degree of agreement in serological tests was seen between RBT and i-ELISA (k&#xA0;=&#xA0;0.86).</p>
+            </list-item>
+            <list-item id="u0020">
+              <label>&#x2022;</label>
+              <p id="p0020">Shedding of <italic>Brucella</italic> in the milk of seropositive cows is a serious issue for spread of infection.</p>
+            </list-item>
+          </list>
+        </p>
+      </abstract>
+      <kwd-group id="kwrds0010">
+        <title>Keywords</title>
+        <kwd>Bovine brucellosis</kwd>
+        <kwd>Seropositive</kwd>
+        <kwd>
+          <italic>Brucella abortus</italic>
+        </kwd>
+        <kwd>
+          <italic>Brucella melitensis</italic>
+        </kwd>
+        <kwd>Dairy Cattle</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <label>1</label>
+      <title>Introduction</title>
+      <p id="p0025">Different species of the genus <italic>Brucella</italic> cause brucellosis as a contagious zoonotic disease that mainly infects domestic animals, such as cattle, buffaloes, camels, goats, and sheep. Bovine brucellosis remains a persistent problem in middle and low-income countries [<xref rid="bib1" ref-type="bibr">1</xref>,<xref rid="bib2" ref-type="bibr">2</xref>]. In Iran, bovine brucellosis caused by <italic>B. abortus</italic> and <italic>B. melitensis</italic> is an endemic disease [<xref rid="bib3" ref-type="bibr">3</xref>,<xref rid="bib4" ref-type="bibr">4</xref>]. Most infected animals shed Brucellae through milk, vaginal secretions, urine, amniotic fluid, fetal membranes, and semen. Bacteria invade the gravid uterus, fetus, and placenta and induce abortion in the second half of gestation [<xref rid="bib5" ref-type="bibr">5</xref>]. Although these infections are often lifelong, most abortions in infected cows occur only once, and these animals remain an infection source until the next calving [<xref rid="bib6" ref-type="bibr">6</xref>]. Therefore, the reproductive performance in carrier animals may remain unaffected, making it difficult to control the disease [<xref rid="bib7" ref-type="bibr">7</xref>,<xref rid="bib8" ref-type="bibr">8</xref>]. Bovine brucellosis may also lead to severe economic losses through the extra costs of breeding improvements, increased calving intervals, death of the young stock, stillbirth, and abortion [<xref rid="bib9" ref-type="bibr">9</xref>]. Despite some vaccine-associated reproductive issues [<xref rid="bib3" ref-type="bibr">3</xref>,<xref rid="bib10" ref-type="bibr">10</xref>], RB51 live attenuated vaccine has decreased the prevalence of <italic>B. abortus</italic> infections, playing a pivotal role in eradication programs and improving the control of clinical signs in contaminated herds [<xref rid="bib6" ref-type="bibr">6</xref>,<xref rid="bib11" ref-type="bibr">11</xref>]. Several reports have demonstrated that seronegative animals could hamper the influential role of the control program and might spread the brucellosis to susceptible hosts and facilitate spillover into the environment [<xref rid="bib12" ref-type="bibr">[12]</xref>, <xref rid="bib13" ref-type="bibr">[13]</xref>, <xref rid="bib14" ref-type="bibr">[14]</xref>, <xref rid="bib15" ref-type="bibr">[15]</xref>]. Generally, <italic>Brucella</italic> spp. infection of raw milk can occur through exogenous infections after or during milking by environmental factors or through endogenous infections from the blood of contaminated livestock [<xref rid="bib16" ref-type="bibr">16</xref>,<xref rid="bib17" ref-type="bibr">17</xref>]. The incidence of <italic>Brucella</italic> spp. in contaminated sources in the dairy farm environment provides critical information for high-risk populations, suggesting the role of <italic>B. melitensis</italic> and <italic>B. abortus</italic> in human brucellosis through the consumption of cattle, goats, sheep, and camel milk [<xref rid="bib17" ref-type="bibr">17</xref>]. Standard diagnostic laboratory tests for <italic>Brucella</italic> identification used in Iran include RBPT, SAT, MRT, and i-ELISA, followed by Polymerase Chain Reaction (PCR) [<xref rid="bib18" ref-type="bibr">18</xref>]. However, <italic>Brucella</italic> isolation remains the gold standard for definitive brucellosis diagnosis and is not readily available in all parts of the country. A meta-analysis in Iran revealed an overall prevalence of 14.7% for cattle as the most affected livestock by brucellosis [<xref rid="bib18" ref-type="bibr">18</xref>]. However, some investigations have shown a high seroprevalence of up to 18.5% in Iranian cattle [<xref rid="bib18" ref-type="bibr">18</xref>]. There are few studies on bovine brucellosis, particularly in Iran's western and northern regions. Considering these reports regarding the high seroprevalence of brucellosis in dairy cattle farms, this study aimed to investigate the occurrence of <italic>Brucella</italic> spp. in dairy cattle herds to estimate the presence of bacteria in raw milk and serum samples.</p>
+    </sec>
+    <sec id="sec2">
+      <label>2</label>
+      <title>Material and methods</title>
+      <sec id="sec2.1">
+        <label>2.1</label>
+        <title>Ethical considerations</title>
+        <p id="p0030">Ethical approval for the study was granted by the Research Ethics Committee, Iranian veterinary organization, Tehran, Iran (Approval Code: IR. IVO.1398.006). All animals in this study were treated according to the ethical standards for field studies approved by the Iranian veterinary organization Tehran, Iran. The dairy farmers were informed about the purpose of the investigation and gave their informed consent.</p>
+      </sec>
+      <sec id="sec2.2">
+        <label>2.2</label>
+        <title>Sampling and study area</title>
+        <p id="p0035">This cross-sectional descriptive study was performed from December 2017 to July 2019 in intensive dairy cattle farms in the Alborz and Tehran provinces (western and northern Iran). A sampling of random farms was performed in a country's industrial area with high milk production volumes. This study analyzed sera and milk samples obtained from 935 dairy cows from 31 intensive dairy farms. A total of 21 intensive farms in Alborz province and 10 in Tehran province were randomly selected. The farming system crowded large groups of cows in confined indoor spaces. Approximately 10&#xA0;ml of blood drawn from the jugular vein was collected from 675 to 260 dairy cattle from Alborz province and Tehran province, respectively, with more than one year of age. Blood samples were preserved without anticoagulant in a cold box and immediately transported to the Veterinary Diagnosis and Treatment Department (Karaj, Iran). Individual milk specimens (675 samples from Alborz province and 260 samples from Tehran province) were also obtained from all bled cows. Blood and milk samples were collected on the same day from each cow. After serological analysis using the Rose Bengal plate test (RBPT), serum agglutination test (SAT), 2-mercaptoethanol test (2-ME), and indirect enzyme-linked immunosorbent assay (i-ELISA) on blood sera, we separated the cows into seropositive and seronegative dairy cattle. A sample was regarded as seropositive for <italic>Brucella</italic> when it tested positive in both agglutination tests, such as RBPT, SAT, and 2-ME, and non-agglutination tests, such as i-ELISA.</p>
+      </sec>
+      <sec id="sec2.3">
+        <label>2.3</label>
+        <title>Serological tests</title>
+        <p id="p0040">
+<list list-type="simple" id="ulist0015"><list-item id="u0025"><p id="p0045">Serum samples (n&#xA0;=&#xA0;935) were collected and tested using the Rose Bengal plate test (RBPT), serum agglutination test (SAT), and 2-mercaptoethanol test (2-ME). The <italic>Brucella</italic> antigen was produced at the Razi Vaccine and Serum Research Institute (Karaj, Iran). According to the OIE standard guidelines, a titer of 1:80 or greater for SAT and 2&#xA0;ME was considered positive for specific agglutination <italic>Brucella</italic> antibodies [<xref rid="bib19" ref-type="bibr">19</xref>]. Furthermore, an indirect enzyme-linked immunosorbent assay (i-ELISA) was performed to confirm the positive results in dairy cattle. I-ELISA was performed using an Ingezim <italic>Brucella</italic> Bovina 2.0 ELISA test kit (Ingenasa, Madrid, Spain) following the manufacturer's instructions (<ext-link ext-link-type="uri" xlink:href="https://ingenasa.eurofins-technologies.com" id="intref0010">https://ingenasa.eurofins-technologies.com</ext-link>). This kit was specifically intended to evaluate specific antibodies against <italic>Brucella</italic> antibodies. The OD values of the tested samples were recorded at 450&#xA0;nm, and positive samples were detected according to the following formula:</p></list-item><list-item id="u0030"><p id="p0050">Cut off&#xA0;=&#xA0;OD<sub>450</sub> nm positive Control&#xA0;&#xD7;&#xA0;0.4&#xA0;=&#xA0;40% positivity. The OD of samples was considered positive for O.D. value&#xA0;&#x2265;&#xA0;1.0 and negative for OD value&#xA0;&#x2264;&#xA0;0.2.</p></list-item></list>
+</p>
+        <p id="p0055">Milk samples obtained from dairy cattle were kept at 4&#xA0;&#xB0;C overnight prior to testing using the milk ring test (MRT). Then, one drop of MRT antigen was mixed with 1&#xA0;ml of milk sample in a narrow tube, gently mixed, and kept for 1&#xA0;h at 37&#xA0;&#xB0;C. If the antibody binds to the antigen and forms a blue ring above the white milk column, the <italic>Brucella</italic> antibody is present in the milk. Antibodies were absent if the mixture remained homogeneously bluish-white throughout the tube [<xref rid="bib20" ref-type="bibr">20</xref>].</p>
+      </sec>
+      <sec id="sec2.4">
+        <label>2.4</label>
+        <title>Bacteriological examination of milk samples</title>
+        <p id="p0060">Milk samples (675 samples from Alborz province and 260 samples from Tehran province) of all dairy cattle were cultured on <italic>Brucella</italic>-selective supplement media containing nalidixic acid (2.5&#xA0;mg), polymyxin B sulfate (2,500 IU), vancomycin (10&#xA0;mg), nystatin (50,000 IU), cycloheximide (50&#xA0;mg), and bacitracin (12,500 IU) (HiMedia, Mumbai, India). They were then maintained at 10% CO<sub>2</sub> at 37&#xA0;&#xB0;C for 14 days [<xref rid="bib21" ref-type="bibr">21</xref>].</p>
+      </sec>
+      <sec id="sec2.5">
+        <label>2.5</label>
+        <title>Molecular typing</title>
+        <p id="p0065">According to the manufacturer's protocol, DNA was extracted from the isolated bacteria using the Exgene Cell SV kit (Gene All, South Korea). DNA integrity was checked on a 1% agarose gel. Furthermore, DNA concentration was evaluated at 260/280&#xA0;nm using an ND-1000 Nanodrop (Wilmington, DE, USA) [<xref rid="bib22" ref-type="bibr">22</xref>]. The IS<italic>711</italic>-based PCR for <italic>Brucella</italic> identification was performed on the extracted DNA by AMOS (<italic>abortus melitensis ovis suis</italic>)-polymerase chain reaction (<xref rid="tbl1" ref-type="table">Table 1</xref>) under the following PCR conditions: initial denaturation at 95&#xA0;&#xB0;C for 5&#xA0;min (Step 1), denaturation at 95&#xA0;&#xB0;C for 30&#xA0;s (Step 2), annealing at 55&#xA0;&#xB0;C for 60&#xA0;s (Step 3), extension at 72&#xA0;&#xB0;C for 3&#xA0;min (Step 4) and final extension at 72&#xA0;&#xB0;C for 10&#xA0;min (Step 5). Steps 2, 3, and 4 were repeated 35 times [<xref rid="bib23" ref-type="bibr">23</xref>]. Molecular typing by multiplex PCR (Bruce-ladder) with 16-primer multiplex PCR was performed to differentiate the wild-type of <italic>Brucella</italic> spp. and S19, RB51, and Rev1 vaccines. The Bruce-ladder PCR process was as follows: denaturation at 95&#xA0;&#xB0;C (5&#xA0;min), 35 cycles of denaturation at 95&#xA0;&#xB0;C (30&#xA0;s), annealing at 56&#xA0;&#xB0;C (90&#xA0;s), extension at 72&#xA0;&#xB0;C (3&#xA0;min) and a final extension at 72&#xA0;&#xB0;C (10&#xA0;min) [<xref rid="bib24" ref-type="bibr">24</xref>]. The PCR products were separated by 1.5% agarose gel electrophoresis. All the PCR primers used are listed in <xref rid="tbl1" ref-type="table">Table 1</xref>.<table-wrap position="float" id="tbl1"><label>Table 1</label><caption><p>Specific primer sets and expected amplicon sizes for different <italic>Brucella</italic> species.</p></caption><alt-text id="alttext0030">Table 1</alt-text><table frame="hsides" rules="groups"><thead><tr><th>Strain amplicon</th><th>Primer set</th><th>Primer sequence (5-3&#x2032;)</th><th>DNA target</th><th>size (bp)</th><th>References</th></tr></thead><tbody><tr><td align="left">AMOS PCR</td><td align="left">IS711<break/>AB</td><td align="left">TGCCGATCACTTTCAAGGGCCTTCAT<break/>GACGAACGGAATTTTTCCAATCCC</td><td align="left">alpha-ketoglutarate dependent dioxygenase</td><td align="left">498</td><td align="left">[<xref rid="bib23" ref-type="bibr">23</xref>]</td></tr><tr><td align="left">AMOS PCR</td><td align="left">IS711<break/>BM</td><td align="left">TGCCGATCACTTTCAAGGGCCTTCAT AAATCGCGTCCTTGCTGGTCTGA</td><td align="left">hypothetical protein</td><td align="left">731</td><td align="left">[<xref rid="bib23" ref-type="bibr">23</xref>]</td></tr><tr><td align="left">AMOS PCR</td><td align="left">IS711<break/><italic>B.ovis</italic></td><td align="left">TGCCGATCACTTTCAAGGGCCTTCAT<break/>CGGGTTCTGGCACCATCGTCG</td><td align="left">TRAP transporter solute receptor, TAXI family protein</td><td align="left">976</td><td align="left">[<xref rid="bib23" ref-type="bibr">23</xref>]</td></tr><tr><td align="left">AMOS PCR</td><td align="left">IS711<break/><italic>B.suis</italic></td><td align="left">TGCCGATCACTTTCAAGGGCCTTCAT<break/>GCGCGGTTTTCTGAAGGTTCAGG</td><td align="left">indole-3-glycerol phosphate synthase</td><td align="left">285</td><td align="left">[<xref rid="bib23" ref-type="bibr">23</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEI0998f<break/>BMEI0997r</td><td align="left">ATC CTA TTG CCC CGATAA GG<break/>GCT TCG CAT TTT CACTGT AGC</td><td align="left">Glycosyltransferase, gene wboA</td><td align="left">1,682</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEI0535f<break/>BMEI0536r</td><td align="left">GCG CAT TCT TCG GTTATG AA<break/>CGC AGG CGA AAA CAGCTA TAA</td><td align="left">Immunodominant antigen, gene bp26</td><td align="left">450</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEII0843f<break/>BMEII0844r</td><td align="left">TTT ACA CAG GCA ATCCAG CA<break/>GCG TCC AGT TGT TGTTGA TG</td><td align="left">Outer membrane protein, gene omp31</td><td align="left">1071</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEI1436f<break/>BMEI1435r</td><td align="left">ACG CAG ACG ACC TTCGGTAT<break/>TTT ATC CAT CGC CCTGTCAC</td><td align="left">Polysaccharide deacetylase</td><td align="left">794</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEII0428f<break/>BMEII0428r</td><td align="left">GCC GCT ATT ATG TGGACT GG<break/>AAT GAC TTC ACG GTCGTT CG</td><td align="left">Erythritol catabolism, gene eryC (Derythrulose-1-phosphate dehydrogenase)</td><td align="left">587</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BR0953f<break/>BR0953r</td><td align="left">GGA ACA CTA CGC CACCTT GT<break/>GAT GGA GCA AAC GCTGAA G</td><td align="left">ABC transporter binding protein</td><td align="left">272</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEI0752f<break/>BMEI0752r</td><td align="left">CAG GCA AAC CCT CAG AAG C<break/>GAT GTG GTA ACG CAC ACC AA</td><td align="left">Ribosomal protein S12, gene <italic>rpsL</italic></td><td align="left">218</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr><tr><td align="left">Bruce-ladder PCR</td><td align="left">BMEII0987f<break/>BMEII0987r</td><td align="left">CGC AGA CAG TGA CCATCA AA<break/>GTA TTC AGC CCC CGTTAC CT</td><td align="left">Transcriptional regulator, CRP family</td><td align="left">152</td><td align="left">[<xref rid="bib24" ref-type="bibr">24</xref>]</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="sec2.6">
+        <label>2.6</label>
+        <title>Data analysis</title>
+        <p id="p0070">Data analyses were performed by SPSS software version 22. For each serological test, the number of positive samples for brucellosis was divided by the total number of dairy cattle, and the prevalence of brucellosis was determined. A paired chi-square (x2) analysis was performed by McNemar to evaluate the results of different serological tests in dairy cattle. Differential incidence was considered significant when the <italic>p</italic>-value was less than 0.05. The degree of agreement between various serological methods, i.e., RBPT, SAT, 2-ME, and i-ELISA, was evaluated using Cohen's kappa coefficient (&#x3BA;) based on their overall agreement in the brucellosis diagnosis tests. The perfect agreement was considered if Kappa was 0.81&#x2013;1.00, strong agreement for 0.61&#x2013;0.80, moderate agreement for 0.41&#x2013;0.60, fair agreement for 0.21&#x2013;0.40, and slight agreement for 0.01&#x2013;0.20 [<xref rid="bib25" ref-type="bibr">25</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <label>3</label>
+      <title>Results</title>
+      <sec id="sec3.1">
+        <label>3.1</label>
+        <title>Serological analysis</title>
+        <p id="p0075">Using RBPT, the first serological screening was performed in all dairy cattle. One hundred thirty-three samples (19.7%) from seven dairy cattle farms (33.4%) in Alborz province were RBPT-positive. For further confirmation, all serum samples were subjected to SAT, 2-ME, and i-ELISA. The results of the SAT and 2-ME tests showed a significantly lower percentage of seropositivity than RBPT, with 5.8% (39/675) and 3.4% (23/675) of positive cases, respectively (p&#xA0;&lt;&#xA0;0.05) (<xref rid="tbl2" ref-type="table">Table 2</xref>). In contrast, the i-ELISA appeared relatively more specific, with 13.5% (91/675) positive results (<xref rid="tbl2" ref-type="table">Table 2</xref>). A sample was regarded as seropositive for <italic>Brucella</italic> when it tested positive in both agglutination tests, such as RBPT, SAT, and 2-ME, and non-agglutination tests, such as i-ELISA. In addition, the milk sample from each cow in the Alborz province was subjected to MRT for the specific detection of <italic>Brucella</italic> antibodies in all animals. According to MRT, 12.4% of the milk samples were positive. MRT was positive in 60.9% (81/133) of seropositive cows and 0.5% (3/542) of seronegative cows. Fifteen farms (71.5%) had at least one positive animal by i-ELISA. Moreover, serological analysis from Tehran province revealed that 53 samples (20.3%) distributed among four dairy cattle farms were RBPT-positive. In contrast, 9.2%, 9.6%, and 15.7% of the sera showed positive reactions in the SAT, 2-ME, and i-ELISA tests, respectively. According to the MRT, 14.6% of the milk samples in Tehran province were positive, and all positive MRT results were in seropositive cows.<table-wrap position="float" id="tbl2"><label>Table 2</label><caption><p>Results from the Rose Bengal plate test (RBPT), serum agglutination test (SAT), 2-mercaptoethanol test (2-ME), indirect enzyme-linked immunosorbent assay (i-ELISA), Milk ring test (MRT), culture and PCR on the blood and milk samples of dairy cattle farms.</p></caption><alt-text id="alttext0035">Table 2</alt-text><table frame="hsides" rules="groups"><thead><tr><th>Location</th><th>Number of cattle</th><th>RBPT N (%) positive</th><th>SAT N (%) positive</th><th>2-ME N (%) positive</th><th>iELISA N (%) positive</th><th>MRT N (%) positive</th><th>Milk Culture N (%) positive</th><th>PCR</th><th>Species (N)</th></tr></thead><tbody><tr><td align="left">Alborz</td><td align="left">675</td><td align="left">133 (19.7)</td><td align="left">39 (5.8)</td><td align="left">23 (3.4)</td><td align="left">91 (13.5)</td><td align="left">84 (12.4)</td><td align="left">57 (8.6)</td><td align="left">57 (8.6)</td><td align="left"><italic>B. abortus</italic> (57)</td></tr><tr><td align="left">Tehran</td><td align="left">260</td><td align="left">53 (20.3)</td><td align="left">24 (9.2)</td><td align="left">25 (9.6)</td><td align="left">41 (15.7)</td><td align="left">38 (14.6)</td><td align="left">17 (6.5)</td><td align="left">17 (6.5)</td><td align="left"><italic>B.melitensis</italic> (11)<break/><italic>B. abortus</italic> (6)</td></tr><tr><td align="left">Totals</td><td align="left">935</td><td align="left">186 (19.8)</td><td align="left">63 (6.7)</td><td align="left">48 (5.1)</td><td align="left">132 (14.1)</td><td align="left">122 (13.1)</td><td align="left">74 (7.9)</td><td align="left">74 (7.9)</td><td align="left"><italic>B. melitensis</italic> (11)<break/><italic>B. abortus</italic> (63)</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="sec3.2">
+        <label>3.2</label>
+        <title>Bacteriological isolation</title>
+        <p id="p0080">Nine hundred thirty-five milk samples from dairy cattle were subjected to bacterial examination on selective <italic>Brucella</italic> agar. <italic>Brucella</italic> spp. were recovered and identified in 8.6% (57/675) of milk specimens collected from seropositive cows in Alborz province and 6.5% (17/260) of milk specimens collected from seropositive cows in Tehran province. The isolated bacteria showed a common specific phenotypic characteristic of <italic>Brucella</italic> spp. All bacterial isolates were grown at 37&#xA0;&#xB0;C after a 5-day incubation with 10% carbon dioxide (CO2). <italic>Brucella</italic> was visible under the microscope as small pairs or single Gram-negative coccobacilli that showed small, round, and pin-point colonies with translucent and shiny honey-colored surfaces (<xref rid="fig1" ref-type="fig">Fig. 1</xref>). All 57 bacteria isolated from the milk samples in Alborz province and 17 from dairy cattle in Tehran province were seropositive in RBPT, SAT, 2-ME, i-ELISA, and MRT.<fig id="fig1"><label>Fig. 1</label><caption><p>Colony of isolated <italic>B. melitensis</italic> on blood agar.</p></caption><alt-text id="alttext0015">Fig. 1</alt-text><graphic xlink:href="gr1"/></fig></p>
+      </sec>
+      <sec id="sec3.3">
+        <label>3.3</label>
+        <title>Molecular confirmation</title>
+        <p id="p0085">AMOS PCR tests on isolated bacteria led to the characterization of bacteria isolated from the milk of seropositive dairy cattle in the Alborz and Tehran provinces (<xref rid="tbl2" ref-type="table">Table 2</xref>). <italic>The B. melitensis</italic> gene was detected in 11 isolated bacteria from Tehran province using the AMOS PCR method. The <italic>B. abortus</italic> gene was detected in 63 bacteria isolated from milk samples of the Tehran and Alborz provinces. In the current study, <italic>B. melitensis</italic> resulted in a PCR product and a specific band of 731 bp in AMOS PCR, allowing the detection of biovars 1, 2, and 3, whereas <italic>B. abortus</italic> resulted in a PCR product with a specific band of 498 bp, allowing the detection of biovars 1, 2, and 4 (<xref rid="fig2" ref-type="fig">Fig. 2</xref>). Bruce-ladder analysis also identified the isolated bacteria as wild-type <italic>B. melitensis</italic> by PCR products of 1682, 794, 587, 450, 152, and 1,071bp in size and wild-type <italic>B. abortus</italic> with five fragments of 1,682, 794, 587, 450, and 152 bp in size (<xref rid="fig3" ref-type="fig">Fig. 3</xref>). However, through Bruce-ladder analysis, none of the isolated bacteria were recognized as vaccine strains in this study.<fig id="fig2"><label>Fig. 2</label><caption><p>Agarose gel (1%) electrophoresis of PCR amplified products generated from DNA samples in AMOS-PCR. M, molecular marker 1000 base pairs (bp), columns 1, 2, 3, 4, 5, 7, 8, and 9: band 498 bp of <italic>Brucella abortus</italic> bacteria isolated from the milk samples; column 6 and 10 negative bacteria in AMOS PCR; column 11: negative control; B. ab: <italic>Brucella abortus</italic> reference strain; B.m: <italic>Brucella melitensis</italic> reference strain, column 12&#x2013;14: <italic>B. melitensis</italic> bacteria isolated from the milk samples showing the band 731bp.</p></caption><alt-text id="alttext0020">Fig. 2</alt-text><graphic xlink:href="gr2"/></fig><fig id="fig3"><label>Fig. 3</label><caption><p>Agarose gel (1%) electrophoresis of PCR amplified products generated from DNA samples in Bruce-ladder PCR. Lane M shows a DNA size marker (1000bp DNA ladder). Lane RB51 shows <italic>B. abortus</italic> RB51 vaccine strain; Lane Rev1: <italic>B. melitensis</italic> Rev1 vaccine strain; Lane B.m: <italic>B. melitensis</italic> reference strain; Lane B. ab: <italic>B. abortus</italic> reference strain; Lane 6 negative control, Lane1 and 2: B. <italic>abortus</italic> field strains; Lane 3 and 4: B. <italic>melitensis</italic> field strains.</p></caption><alt-text id="alttext0025">Fig. 3</alt-text><graphic xlink:href="gr3"/></fig></p>
+      </sec>
+      <sec id="sec3.4">
+        <label>3.4</label>
+        <title>Comparative analysis for Brucella ssp. antibodies detection</title>
+        <p id="p0090">Our study showed that the rate of brucellosis detection was remarkably higher in RBPT analysis than in other serological tests, including SAT, 2-ME, and i-ELISA (p&#xA0;&lt;&#xA0;0.05). Cohen's kappa coefficient used an inter-rater reliability analysis to evaluate the agreement within different serological methods. A near-perfect agreement was found between RBPT and i-ELISA (k&#xA0;=&#xA0;0.86, perfect agreement), whereas a substantial agreement was observed in the comparison of RBPT and SAT (k&#xA0;=&#xA0;0.70), as well as a moderate agreement between RBPT and 2-ME (k&#xA0;=&#xA0;0.67).</p>
+      </sec>
+    </sec>
+    <sec id="sec4">
+      <label>4</label>
+      <title>Discussion</title>
+      <p id="p0095">Brucellosis is one of the most important zoonotic diseases prevailing in the large and small ruminants of the Middle East, including Iran [<xref rid="bib10" ref-type="bibr">10</xref>,<xref rid="bib16" ref-type="bibr">16</xref>,<xref rid="bib26" ref-type="bibr">26</xref>]. Vaccination is vital for preventing and eradicating infections and is the most economical control component [<xref rid="bib8" ref-type="bibr">8</xref>]. However, the administration of currently available vaccines alone is insufficient to eliminate brucellosis in any host species, including cows. Control programs for brucellosis usually lead to failure or, at best, restricted decreases in disease incidence or the prevalence of human brucellosis [<xref rid="bib27" ref-type="bibr">27</xref>]. Therefore, new brucellosis vaccines with high safety and efficacy are in high demand and can be more widely applied under field conditions to address the diversity of host species. Brucellosis in Iranian dairy cattle is predominantly associated with <italic>B. abortus</italic> biovar 3 in large ruminants, the most prevalent biovar [<xref rid="bib4" ref-type="bibr">4</xref>]. The prevalence of bovine brucellosis is a critical hazard to milk consumers in both urban and rural populations [<xref rid="bib28" ref-type="bibr">28</xref>]. The seroprevalence of brucellosis in dairy cattle was evaluated in the center of Iran using the RBPT, SAT, and i-ELISA. The overall seroprevalence at the individual levels was 5.6%, 3.9%, and 4.9%, respectively [<xref rid="bib29" ref-type="bibr">29</xref>]. In contrast, our results showed a significantly higher prevalence among serum samples from dairy cattle in western Iran. Another study from northern Iran showed that the prevalence rate of bovine brucellosis in cattle breeds was 4.72% [<xref rid="bib30" ref-type="bibr">30</xref>]. The difference in <italic>Brucella</italic> prevalence in certain geographic areas of Iran could be influenced by some risk factors, including animal species, age, pregnancy conditions, dairy production procedures, hygienic conditions, animal husbandry practices, herd size, breeding approaches, and socioeconomic status [<xref rid="bib31" ref-type="bibr">[31]</xref>, <xref rid="bib32" ref-type="bibr">[32]</xref>, <xref rid="bib33" ref-type="bibr">[33]</xref>].</p>
+      <p id="p0100">In Iran, vaccination with the RB51 strain is practiced in the bovines of dairy herds. In this study, we chose a battery of conventional serological tests, i.e., RBPT, SAT, i-ELISA, 2-ME, and MRT, to test the occurrence of brucellosis by field strains in dairy cattle. Serology remains vital in the diagnosis of brucellosis in animals and humans. These serological tests are suitable for screening animals in disease-endemic areas. However, the isolation of <italic>Brucella</italic> remains the gold standard diagnostic criterion but requires advanced biosafety and biosecurity levels (BSL), for example, BSL-3. The isolated bacteria must be confirmed and characterized based on biochemical and molecular biological criteria. Hence, we chose serology and isolation for confirmatory diagnosis of brucellosis in dairy cattle farms in an endemic area.</p>
+      <p id="p0105">In the present study, serological screening by RBPT led to the highest rate of <italic>Brucella</italic> seropositivity, reaching 19.8% of the 935 tested samples. Not surprisingly, screening by RBPT resulted in a higher proportion of positive cases compared to other serological tests such as SAT, 2-ME, and i-ELISA. RBPT is reported to have a lower specificity than 2-ME and may thus reveal false positives in animals [<xref rid="bib34" ref-type="bibr">[34]</xref>, <xref rid="bib35" ref-type="bibr">[35]</xref>, <xref rid="bib36" ref-type="bibr">[36]</xref>]. Intriguingly, our results showed two samples with seronegative responses in the RBPT and positive responses in the i-ELISA. These false-negative results in the RBPT test could be due to the prozone effect and the high antibody content in the sera [<xref rid="bib37" ref-type="bibr">37</xref>]. Our study also reported the isolation of <italic>B. abortus</italic> and <italic>B. melitensis</italic> from milk samples of seropositive cows maintained in intensive dairy farms. Several studies have already reported the occurrence of <italic>B. abortus</italic> and <italic>B. melitensis</italic> infections in vaccinated cattle [<xref rid="bib3" ref-type="bibr">3</xref>,<xref rid="bib12" ref-type="bibr">12</xref>,<xref rid="bib38" ref-type="bibr">38</xref>,<xref rid="bib39" ref-type="bibr">39</xref>]. Some factors have been designated as responsible for these infections, such as improper vaccination methods and schedules, the replacement or upgrading of cattle through the purchase of infected animals from the market, breaches in biosecurity, management systems, demographic factors, wildlife interaction, age, breed, sex, lactation status, and climate [<xref rid="bib40" ref-type="bibr">[40]</xref>, <xref rid="bib41" ref-type="bibr">[41]</xref>, <xref rid="bib42" ref-type="bibr">[42]</xref>, <xref rid="bib43" ref-type="bibr">[43]</xref>, <xref rid="bib44" ref-type="bibr">[44]</xref>]. <italic>Brucella</italic> seropositivity in vaccinated cattle may lead to severe diagnostic difficulties and concerns regarding the efficacy of government control programs for disease prevention [<xref rid="bib12" ref-type="bibr">12</xref>,<xref rid="bib38" ref-type="bibr">38</xref>]. Moreover, <italic>Brucella</italic>-infected cows may remain undiagnosed, constituting a hidden disease transmission source. Our study showed that i-ELISA is more accurate than RBPT and correlated better with culture and MRT experiments (<xref rid="tbl2" ref-type="table">Table 2</xref>). These results agree with those obtained by several investigations reporting a better specificity for an i-ELISA diagnostic method for screening brucellosis [<xref rid="bib45" ref-type="bibr">45</xref>,<xref rid="bib46" ref-type="bibr">46</xref>]. Therefore, although the isolation of <italic>Brucella</italic> spp. by culture is the gold standard for brucellosis diagnosis, it presents several restrictions in control programs, such as the need for optimal sampling and storage conditions of biological specimens, highly skilled personnel, and high-security laboratory facilities. Moreover, due to extended time for culture results and hazardous procedures, serological approaches are often given preference for the first screening and detection of <italic>Brucella</italic>-specific antibodies in livestock [<xref rid="bib35" ref-type="bibr">35</xref>].</p>
+      <p id="p0110">However, concerning i-ELISA having high specificity and sensitivity, seropositive cows should be evaluated for infection by other field strains associated with a cross-reaction caused by bacterial LPS, including <italic>Salmonella</italic> sp., <italic>Escherichia coli</italic>, <italic>Escherichia hermannii</italic>, <italic>Yersinia enterocolitica,</italic> and <italic>Vibrio cholerae</italic> [<xref rid="bib47" ref-type="bibr">47</xref>,<xref rid="bib48" ref-type="bibr">48</xref>]. Furthermore, cows in endemic areas such as Iran have constant contact with field strains of <italic>Brucella</italic> and could therefore develop a memory against this antigen through an immunological response [<xref rid="bib48" ref-type="bibr">48</xref>]. The results of our study demonstrated the isolation of field strains of <italic>B. abortus</italic> and <italic>B. melitensis</italic> from dairy cows using PCR. Cows contaminated with <italic>B. abortus</italic> and <italic>B. melitensis</italic> in their milk samples had been vaccinated as adults with full and reduced RB51 doses. The isolation of <italic>Brucella</italic> species from milk samples of cows has been reported previously [<xref rid="bib14" ref-type="bibr">14</xref>,<xref rid="bib49" ref-type="bibr">49</xref>]. The incidence of <italic>Brucella</italic> antibodies in the milk of seronegative animals was also reported in our study. This might be because of the small number of <italic>Brucella</italic> spp. in the bloodstream that cannot produce antibodies to induce a humoral response resulting in seronegative reactions. Several studies have also reported the presence of <italic>Brucella</italic> species in seronegative cows in endemic areas [<xref rid="bib12" ref-type="bibr">[12]</xref>, <xref rid="bib13" ref-type="bibr">[13]</xref>, <xref rid="bib14" ref-type="bibr">[14]</xref>]. However, MRT was introduced as a more specific test for brucellosis detection than the RBPT, SAT, CFT, and ELISA methods and can replace them [<xref rid="bib50" ref-type="bibr">50</xref>]. However, the use of this test is restricted by the quality of milk [<xref rid="bib35" ref-type="bibr">35</xref>]. The false-positive results of MRT could be revealed at the end of the lactation period in milk with colostrum and in animals with mastitis [<xref rid="bib51" ref-type="bibr">51</xref>].</p>
+      <p id="p0115">Vaccination and preventive measures, such as biosecurity and quarantine, are needed to reduce the occurrence of brucellosis at these farms. Routine screening of animals is necessary, even after vaccination. Culture examinations should complement routine serological testing. Vaccinated herds and milk from these cows should be handled using protective measures to reduce zoonotic transmission. RBPT is an excellent serological screening tool in low-income countries such as Iran. Finally, developing more efficacious and safer vaccines alone, combined with increased emphasis on other regulatory program measures, could significantly reduce the worldwide prevalence of brucellosis and associated zoonotic infections. Control measurements utilized in dairy cattle farms and accurate screening tests by serological and bacterial analyses are vital for the control program's removal of all positive animals. The pasteurization of milk before human consumption has been highly proposed. However, the possible limitations of this study are the relatively small number of farms analyzed and the need for more conventional biotyping for <italic>Brucella</italic> identification. Further studies could extend the sample load and monitoring period and focus on other differentiation and identification methods for <italic>Brucella</italic> spp. to be quicker and less expensive. Molecular typing is an option that has already been investigated.</p>
+    </sec>
+    <sec id="sec5">
+      <title>Author contribution statement</title>
+      <p id="p0120">Anahita Emadi, and Shojaat Dashtipour: Conceived and designed the experiments.</p>
+      <p id="p0125">Faranak Abnaroodheleh: Performed the experiments, Wrote the paper.</p>
+      <p id="p0130">Tariq Jamil: Analyzed and interpreted the data, Wrote the paper.</p>
+      <p id="p0135">Amin Mousavi Khaneghah and Maryam Dadar: Contributed reagents, materials, analysis tools or data, Wrote the paper.</p>
+    </sec>
+    <sec sec-type="data-availability" id="sec6">
+      <title>Data availability statement</title>
+      <p id="p0140">No data was used for the research described in the article.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="sec7">
+      <title>Declaration of interest&#x2019;s statement</title>
+      <p id="p0145">The authors declare no competing interests.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="cebib0010">
+      <title>References</title>
+      <ref id="bib1">
+        <label>1</label>
+        <element-citation publication-type="journal" id="sref1">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deka</surname>
+              <given-names>R.P.</given-names>
+            </name>
+            <name>
+              <surname>Magnusson</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Grace</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Lindahl</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bovine brucellosis: prevalence, risk factors, economic cost and control options with particular reference to India-a review</article-title>
+          <source>Infect. Ecol. Epidemiol.</source>
+          <volume>8</volume>
+          <year>2018</year>
+          <object-id pub-id-type="publisher-id">1556548</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib2">
+        <label>2</label>
+        <element-citation publication-type="journal" id="sref2">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Edao</surname>
+              <given-names>B.M.</given-names>
+            </name>
+            <name>
+              <surname>Ameni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Assefa</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Berg</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in ruminants and pastoralists in borena, Southern Ethiopia</article-title>
+          <source>PLoS Neglected Trop. Dis.</source>
+          <volume>14</volume>
+          <year>2020</year>
+          <object-id pub-id-type="publisher-id">e0008461</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <label>3</label>
+        <element-citation publication-type="book" id="sref3">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <part-title>Brucella Abortus Biovar 3 Is Implicated in an Outbreak of Abortion in a Dairy Cattle Farm Immunized with Brucella Abortus Iriba Vaccine</part-title>
+          <year>2020</year>
+          <publisher-name>Archives of Razi Institute</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <label>4</label>
+        <element-citation publication-type="book" id="sref4">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Behrozikhah</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Yazdani</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kalantari</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Etemadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <source>Molecular Identification of Brucella Species and Biovars Associated with Animal and Human Infection in Iran. Veterinary Research Forum</source>
+          <series>Faculty of Veterinary Medicine</series>
+          <year>2019</year>
+          <publisher-name>Urmia University</publisher-name>
+          <publisher-loc>Urmia, Iran</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bib5">
+        <label>5</label>
+        <element-citation publication-type="journal" id="sref5">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Samartino</surname>
+              <given-names>L.E.</given-names>
+            </name>
+            <name>
+              <surname>Enright</surname>
+              <given-names>F.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenesis of abortion of bovine brucellosis</article-title>
+          <source>Comp. Immunol. Microbiol. Infect. Dis.</source>
+          <volume>16</volume>
+          <year>1993</year>
+          <fpage>95</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="pmid">8319440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib6">
+        <label>6</label>
+        <element-citation publication-type="journal" id="sref6">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>Z.I.</given-names>
+            </name>
+            <name>
+              <surname>Pascual</surname>
+              <given-names>D.W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis vaccines for livestock</article-title>
+          <source>Vet. Immunol. Immunopathol.</source>
+          <volume>181</volume>
+          <year>2016</year>
+          <fpage>51</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="pmid">27032465</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib7">
+        <label>7</label>
+        <element-citation publication-type="journal" id="sref7">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mai</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Irons</surname>
+              <given-names>P.C.</given-names>
+            </name>
+            <name>
+              <surname>Kabir</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>P.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>A large seroprevalence survey of brucellosis in cattle herds under diverse production systems in northern Nigeria</article-title>
+          <source>BMC Vet. Res.</source>
+          <volume>8</volume>
+          <year>2012</year>
+          <fpage>144</fpage>
+          <pub-id pub-id-type="pmid">22920578</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib8">
+        <label>8</label>
+        <element-citation publication-type="journal" id="sref8">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sharun</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Dhama</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Importance of brucellosis control programs of livestock on the improvement of one health</article-title>
+          <source>Vet. Q.</source>
+          <year>2021</year>
+          <fpage>1</fpage>
+          <lpage>24</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib9">
+        <label>9</label>
+        <element-citation publication-type="book" id="sref9">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Godfroid</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <part-title>Main Risk Factors Associated with Small and Large Ruminant Brucellosis</part-title>
+          <year>2021</year>
+          <publisher-name>The Indian Journal of Animal Sciences</publisher-name>
+          <fpage>91</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib10">
+        <label>10</label>
+        <element-citation publication-type="journal" id="sref10">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Esmaeili</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in Islamic Republic of Iran</article-title>
+          <source>J. Med. Bacter.</source>
+          <volume>3</volume>
+          <year>2015</year>
+          <fpage>47</fpage>
+          <lpage>57</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib11">
+        <label>11</label>
+        <element-citation publication-type="journal" id="sref11">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dorneles</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Sriranganathan</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Lage</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent advances in Brucella abortus vaccines</article-title>
+          <source>Vet. Res.</source>
+          <volume>46</volume>
+          <year>2015</year>
+          <fpage>76</fpage>
+          <pub-id pub-id-type="pmid">26155935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib12">
+        <label>12</label>
+        <element-citation publication-type="journal" id="sref12">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arellano-Reynoso</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Su&#xE1;rez-G&#xFC;emes</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Estrada</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>Michel-G&#xF3;mezFlores</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;ndez-Castro</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Acosta</surname>
+              <given-names>R.B.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Isolation of a field strain of Brucella abortus from RB51-vaccinated-and brucellosis-seronegative bovine yearlings that calved normally</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <volume>45</volume>
+          <year>2013</year>
+          <fpage>695</fpage>
+          <lpage>697</lpage>
+          <pub-id pub-id-type="pmid">22956439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib13">
+        <label>13</label>
+        <element-citation publication-type="journal" id="sref13">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Islam</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khatun</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Saha</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Basir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hasan</surname>
+              <given-names>M.-M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular detection of Brucella spp. from milk of seronegative cows from some selected area in Bangladesh</article-title>
+          <source>J. Path.</source>
+          <volume>2018</volume>
+          <year>2018</year>
+        </element-citation>
+      </ref>
+      <ref id="bib14">
+        <label>14</label>
+        <element-citation publication-type="journal" id="sref14">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zoghi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ebadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Mohseni</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation of Brucella organisms from the milk of seronegative cows</article-title>
+          <source>Arch Inst RAZI</source>
+          <volume>42</volume>
+          <year>1992</year>
+          <fpage>43</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib15">
+        <label>15</label>
+        <element-citation publication-type="journal" id="sref15">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation of Brucella melitensis from seronegative camel: potential implications in brucellosis control</article-title>
+          <source>Prev. Vet. Med.</source>
+          <volume>185</volume>
+          <year>2020</year>
+          <object-id pub-id-type="publisher-id">105194</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib16">
+        <label>16</label>
+        <element-citation publication-type="journal" id="sref16">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Fakhri</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Shahali</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Khaneghah</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contamination of milk and dairy products by Brucella species: a global systematic review and meta-analysis</article-title>
+          <source>Food Res. Int.</source>
+          <volume>128</volume>
+          <year>2020</year>
+          <object-id pub-id-type="publisher-id">108775</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib17">
+        <label>17</label>
+        <element-citation publication-type="journal" id="sref17">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahali</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human brucellosis caused by raw dairy products: a review on the occurrence, major risk factors and prevention</article-title>
+          <source>Int. J. Food Microbiol.</source>
+          <volume>292</volume>
+          <year>2019</year>
+          <fpage>39</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">30572264</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib18">
+        <label>18</label>
+        <element-citation publication-type="journal" id="sref18">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahali</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Fakhri</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in Iranian livestock: a meta-epidemiological study</article-title>
+          <source>Microb. Pathog.</source>
+          <volume>155</volume>
+          <year>2021</year>
+          <object-id pub-id-type="publisher-id">104921</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib19">
+        <label>19</label>
+        <element-citation publication-type="book" id="sref19">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alton</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Verger</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <part-title>Techniques for the Brucellosis Laboratory</part-title>
+          <year>1988</year>
+          <publisher-name>Institute National de la Recherdie Agrononique</publisher-name>
+          <publisher-loc>Paris</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bib20">
+        <label>20</label>
+        <element-citation publication-type="journal" id="sref20">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohamand</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Gunaseelan</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Sukumar</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Porteen</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Milk Ring Test for spot identification of Brucella abortus infection in single cow herds</article-title>
+          <source>J. Adv. Veter. An. Res.</source>
+          <volume>1</volume>
+          <year>2014</year>
+          <fpage>70</fpage>
+          <lpage>72</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib21">
+        <label>21</label>
+        <element-citation publication-type="book" id="sref21">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alton</surname>
+              <given-names>G.G.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Verger</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <part-title>Techniques for the Brucellosis Laboratory</part-title>
+          <year>1988</year>
+          <publisher-name>Institut National de la recherche Agronomique (INRA)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="bib22">
+        <label>22</label>
+        <element-citation publication-type="journal" id="sref22">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Hou</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Establishment of loop-mediated isothermal amplification (LAMP) for rapid detection of Brucella spp. and application to milk and blood samples</article-title>
+          <source>J. Microbiol. Methods</source>
+          <volume>90</volume>
+          <year>2012</year>
+          <fpage>292</fpage>
+          <lpage>297</lpage>
+          <pub-id pub-id-type="pmid">22688008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib23">
+        <label>23</label>
+        <element-citation publication-type="journal" id="sref23">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ewalt</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Bricker</surname>
+              <given-names>B.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Validation of the abbreviated BrucellaAMOS PCR as a rapid screening method for differentiation of Brucella abortus field strain isolates and the vaccine strains, 19 and RB51</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>38</volume>
+          <year>2000</year>
+          <fpage>3085</fpage>
+          <lpage>3086</lpage>
+          <pub-id pub-id-type="pmid">10921983</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib24">
+        <label>24</label>
+        <element-citation publication-type="journal" id="sref24">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lopez-Go&#xF1;i</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Yoldi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Marin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>De Miguel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>J.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Evaluation of a multiplex PCR assay (Bruce-ladder) for molecular typing of all Brucella species, including the vaccine strains</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>46</volume>
+          <year>2008</year>
+          <fpage>3484</fpage>
+          <lpage>3487</lpage>
+          <pub-id pub-id-type="pmid">18716225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib25">
+        <label>25</label>
+        <element-citation publication-type="book" id="sref25">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altman</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <part-title>Practical Statistics for Medical Research</part-title>
+          <year>1990</year>
+          <publisher-name>CRC press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="bib26">
+        <label>26</label>
+        <element-citation publication-type="journal" id="sref26">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Brangsch</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome sequencing for genetic diversity analysis of Iranian Brucella spp. isolated from humans and livestock</article-title>
+          <source>One Health</source>
+          <year>2023</year>
+          <object-id pub-id-type="publisher-id">100483</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib27">
+        <label>27</label>
+        <element-citation publication-type="journal" id="sref27">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Stoffregen</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Essential role of vaccines in brucellosis control and eradication programs for livestock</article-title>
+          <source>Expet Rev. Vaccine</source>
+          <volume>4</volume>
+          <year>2005</year>
+          <fpage>915</fpage>
+          <lpage>928</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib28">
+        <label>28</label>
+        <element-citation publication-type="journal" id="sref28">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asgari</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Ahmadi</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Contamination of bovine milk with Brucella spp.: a current public health menace in Kurdistan province of Iran</article-title>
+          <source>Avic. J. Clin. Microb. Inf.</source>
+          <volume>8</volume>
+          <year>2021</year>
+          <fpage>17</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib29">
+        <label>29</label>
+        <element-citation publication-type="journal" id="sref29">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Amiry</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Bahreinipour</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Etemadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tebianian</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mehrabadi</surname>
+              <given-names>M.H.F.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Brucella species circulating in rural and periurban dairy cattle farms: a comparative study in an endemic area</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <volume>53</volume>
+          <year>2021</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib30">
+        <label>30</label>
+        <element-citation publication-type="journal" id="sref30">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Akbarmehr</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ghiyamirad</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological survey of brucellosis in livestock animals in Sarab City (East Azarbayjan province), Iran</article-title>
+          <source>Afr. J. Microbiol. Res.</source>
+          <volume>5</volume>
+          <year>2011</year>
+          <fpage>1220</fpage>
+          <lpage>1223</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib31">
+        <label>31</label>
+        <element-citation publication-type="journal" id="sref31">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ning</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification and effect decomposition of risk factors for Brucella contamination of raw whole milk in China</article-title>
+          <source>PLoS One</source>
+          <volume>8</volume>
+          <year>2013</year>
+          <object-id pub-id-type="publisher-id">e68230</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib32">
+        <label>32</label>
+        <element-citation publication-type="journal" id="sref32">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Esmaeili</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pourhossein</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Gouya</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Amiri</surname>
+              <given-names>F.B.</given-names>
+            </name>
+            <name>
+              <surname>Mostafavi</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Seroepidemiological survey of Q fever and brucellosis in Kurdistan Province, western Iran</article-title>
+          <source>Vector Borne Zoonotic Dis.</source>
+          <volume>14</volume>
+          <year>2014</year>
+          <fpage>41</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="pmid">24359427</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib33">
+        <label>33</label>
+        <element-citation publication-type="book" id="sref33">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adabi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khazaiee</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sadeghi-Nasab</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Arabestani</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Valiei</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <series>Brucellosis in Livestock: First Study on Seroepidemiology, Risk Factors, and Preventive Strategies to Manage the Disease in Famenin</series>
+          <volume>vol. 15</volume>
+          <year>2022</year>
+          <publisher-name>Veterinary World</publisher-name>
+          <publisher-loc>Iran</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bib34">
+        <label>34</label>
+        <element-citation publication-type="journal" id="sref34">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gall</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological diagnosis of bovine brucellosis: a review of test performance and cost comparison</article-title>
+          <source>Rev. Sci. Tech.</source>
+          <volume>23</volume>
+          <year>2004</year>
+          <fpage>989</fpage>
+          <lpage>1002</lpage>
+          <pub-id pub-id-type="pmid">15861895</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib35">
+        <label>35</label>
+        <element-citation publication-type="journal" id="sref35">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological diagnosis of brucellosis</article-title>
+          <source>Prilozi</source>
+          <volume>31</volume>
+          <year>2010</year>
+          <fpage>65</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">20703184</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib36">
+        <label>36</label>
+        <element-citation publication-type="journal" id="sref36">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jamil</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Saqib</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahzad</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Khan Kasi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hammad Hussain</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Serological and molecular detection of bovine brucellosis at institutional livestock farms in Punjab, Pakistan</article-title>
+          <source>Int. J. Environ. Res. Publ. Health</source>
+          <volume>17</volume>
+          <year>2020</year>
+          <fpage>1412</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bib37">
+        <label>37</label>
+        <element-citation publication-type="journal" id="sref37">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lund</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Matope</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Munyeme</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mwacalimba</surname>
+              <given-names>K.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effectiveness of Rose Bengal test and fluorescence polarization assay in the diagnosis of Brucella spp. infections in free range cattle reared in endemic areas in Zambia</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <volume>41</volume>
+          <year>2009</year>
+          <fpage>723</fpage>
+          <lpage>729</lpage>
+          <pub-id pub-id-type="pmid">18956247</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib38">
+        <label>38</label>
+        <element-citation publication-type="journal" id="sref38">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mellado</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Arellano-Reynoso</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Diaz-Aparicio</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>J.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Milk yield and reproductive performance of brucellosis-vaccinated but seropositive Holstein cows</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <volume>46</volume>
+          <year>2014</year>
+          <fpage>391</fpage>
+          <lpage>397</lpage>
+          <pub-id pub-id-type="pmid">24254418</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib39">
+        <label>39</label>
+        <element-citation publication-type="journal" id="sref39">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>B&#xF6;ttcher</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>El-Beskawy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Rasheed</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Molecular typing of isolates obtained from aborted foetuses in Brucella-free Holstein dairy cattle herd after immunisation with Brucella abortus RB51 vaccine in Egypt</article-title>
+          <source>Acta Trop.</source>
+          <volume>164</volume>
+          <year>2016</year>
+          <fpage>267</fpage>
+          <lpage>271</lpage>
+          <pub-id pub-id-type="pmid">27664334</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib40">
+        <label>40</label>
+        <element-citation publication-type="journal" id="sref40">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheville</surname>
+              <given-names>N.F.</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Florance</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of age at vaccination on efficacy of Brucella abortus strain RB51 to protect cattle against brucellosis</article-title>
+          <source>Am. J. Vet. Res.</source>
+          <volume>57</volume>
+          <year>1996</year>
+          <fpage>1153</fpage>
+          <lpage>1156</lpage>
+          <pub-id pub-id-type="pmid">8836366</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib41">
+        <label>41</label>
+        <element-citation publication-type="journal" id="sref41">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Bricker</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Palmer</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cheville</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Responses of cattle to two dosages ofBrucella abortus strain RB51: serology, clearance and efficacy</article-title>
+          <source>Res. Vet. Sci.</source>
+          <volume>66</volume>
+          <year>1999</year>
+          <fpage>101</fpage>
+          <lpage>105</lpage>
+          <pub-id pub-id-type="pmid">10208887</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib42">
+        <label>42</label>
+        <element-citation publication-type="journal" id="sref42">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Poester</surname>
+              <given-names>F.P.</given-names>
+            </name>
+            <name>
+              <surname>Gon&#xE7;alves</surname>
+              <given-names>V.S.</given-names>
+            </name>
+            <name>
+              <surname>Paixao</surname>
+              <given-names>T.A.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>R.L.</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Schurig</surname>
+              <given-names>G.G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Efficacy of strain RB51 vaccine in heifers against experimental brucellosis</article-title>
+          <source>Vaccine</source>
+          <volume>24</volume>
+          <year>2006</year>
+          <fpage>5327</fpage>
+          <lpage>5334</lpage>
+          <pub-id pub-id-type="pmid">16713034</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib43">
+        <label>43</label>
+        <element-citation publication-type="journal" id="sref43">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stevens</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Hennager</surname>
+              <given-names>S.G.</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>S.C.</given-names>
+            </name>
+            <name>
+              <surname>Cheville</surname>
+              <given-names>N.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Serologic responses in diagnostic tests for brucellosis in cattle vaccinated with Brucella abortus 19 or RB51</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>32</volume>
+          <year>1994</year>
+          <fpage>1065</fpage>
+          <lpage>1066</lpage>
+          <pub-id pub-id-type="pmid">8027313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib44">
+        <label>44</label>
+        <element-citation publication-type="journal" id="sref44">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dias</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Belchior</surname>
+              <given-names>A.P.C.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gon&#xE7;alves</surname>
+              <given-names>R.C.</given-names>
+            </name>
+            <name>
+              <surname>Bar&#xE3;o</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Sousa</surname>
+              <given-names>P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Controlling bovine brucellosis in the state of S&#xE3;o Paulo, Brazil: results after ten years of a vaccination program</article-title>
+          <source>Semina Ci&#xEA;ncias Agr&#xE1;rias</source>
+          <volume>37</volume>
+          <issue>5</issue>
+          <year>2016</year>
+          <fpage>3505</fpage>
+          <lpage>3518</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib45">
+        <label>45</label>
+        <element-citation publication-type="journal" id="sref45">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gusi</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Bertu</surname>
+              <given-names>W.J.</given-names>
+            </name>
+            <name>
+              <surname>Jes&#xFA;s de Miguel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Dieste-P&#xE9;rez</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Smits</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Ocholi</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comparative performance of lateral flow immunochromatography, iELISA and Rose Bengal tests for the diagnosis of cattle, sheep, goat and swine brucellosis</article-title>
+          <source>PLoS Neglected Trop. Dis.</source>
+          <volume>13</volume>
+          <year>2019</year>
+          <object-id pub-id-type="publisher-id">e0007509</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bib46">
+        <label>46</label>
+        <element-citation publication-type="journal" id="sref46">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ullah</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Jamil</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Saqib</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Hussain</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Aslam</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Epidemiology and associated risk factors for brucellosis in small ruminants kept at institutional livestock farms in Punjab, Pakistan</article-title>
+          <source>Front. Vet. Sci.</source>
+          <volume>7</volume>
+          <year>2020</year>
+          <fpage>526</fpage>
+          <pub-id pub-id-type="pmid">33117846</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib47">
+        <label>47</label>
+        <element-citation publication-type="journal" id="sref47">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lord</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Schurig</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Cherwonogrodzky</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Marcano</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Melendez</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Field study of vaccination of cattle with Brucella abortus strains RB51 and 19 under high and low disease prevalence</article-title>
+          <source>Am. J. Vet. Res.</source>
+          <volume>59</volume>
+          <year>1998</year>
+          <fpage>1016</fpage>
+          <lpage>1020</lpage>
+          <pub-id pub-id-type="pmid">9706206</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib48">
+        <label>48</label>
+        <element-citation publication-type="journal" id="sref48">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herrera-L&#xF3;pez</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Su&#xE1;rez-G&#xFC;emes</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;ndez-Andrade</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>C&#xF3;rdova-L&#xF3;pez</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>D&#xED;az-Aparicio</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological study of Brucellosis in cattle, immunized with Brucella abortus RB51 vaccine in endemic zones</article-title>
+          <source>Vaccine</source>
+          <volume>28</volume>
+          <year>2010</year>
+          <fpage>F59</fpage>
+          <lpage>F63</lpage>
+          <pub-id pub-id-type="pmid">20362623</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib49">
+        <label>49</label>
+        <element-citation publication-type="journal" id="sref49">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Samaha</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Al-Rowaily</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khoudair</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>Ashour</surname>
+              <given-names>H.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multicenter study of brucellosis in Egypt</article-title>
+          <source>Emerg. Infect. Dis.</source>
+          <volume>14</volume>
+          <year>2008</year>
+          <fpage>1916</fpage>
+          <pub-id pub-id-type="pmid">19046520</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib50">
+        <label>50</label>
+        <element-citation publication-type="journal" id="sref50">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Amin</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Detection of Brucella species in the milk of infected cattle, sheep, goats and camels by PCR</article-title>
+          <source>Vet. J.</source>
+          <volume>163</volume>
+          <year>2002</year>
+          <fpage>299</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="pmid">12090772</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib51">
+        <label>51</label>
+        <element-citation publication-type="journal" id="sref51">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Mariri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ramadan</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Akel</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of milk ring test and some serological tests in the detection of Brucella melitensis in Syrian female sheep</article-title>
+          <source>Trop. Anim. Health Prod.</source>
+          <volume>43</volume>
+          <year>2011</year>
+          <fpage>865</fpage>
+          <lpage>870</lpage>
+          <pub-id pub-id-type="pmid">21234678</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <ack id="ack0010">
+      <title>Acknowledgments</title>
+      <p id="p0150">The authors thank the veterinary organization staff whose support and collaboration made this study possible.</p>
+    </ack>
+  </back>
+</article>
+</pmc-articleset>

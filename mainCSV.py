@@ -108,10 +108,25 @@ def merge_json(json, csv_name):
       write.writeheader()
     write.writerow(json)
     
-    
-    
-    
-
+def retrieve_data(pmid, csv_name):
+  pmcid = convert_pmid_to_pmcid(pmid)
+  file_name = f"{pmcid}.txt"  
+  existing_files = os.listdir("./raw_xml")
+  if pmcid is not None and file_name not in existing_files:
+    meta, abstract, full_text = fetch_full_text_pmcid(pmcid)
+    if full_text is None:
+      print("Bad Retrieval")
+    full_text_json = create_full_text_json(full_text)
+    print(full_text_json.content)
+    json_blocks = re.findall(r"```json(.*?)```", full_text_json.content, re.DOTALL)
+    paper_json_data = json.loads(re.sub(r"```json|```", "", json_blocks[0]))
+    paper_json_data["pmcid"] = pmcid
+    print(paper_json_data)
+    merge_json(paper_json_data, csv_name)
+  else:
+    print("Failed to generate pmcid\n")
+  
+  
 def main():
   welcome()
   
@@ -121,24 +136,34 @@ def main():
   csv_name = input("Enter a csv in data folder\n")
   csv_name = f"data/{csv_name}"
   while True:
-    pmid = input("Enter pmid\n")
-    pmcid = convert_pmid_to_pmcid(pmid)
-    file_name = f"{pmcid}.txt"  
-    existing_files = os.listdir("./raw_xml")
-    if pmcid is not None and file_name not in existing_files:
-      meta, abstract, full_text = fetch_full_text_pmcid(pmcid)
-      if full_text is None:
-        print("Bad Retrieval")
-        continue
-      full_text_json = create_full_text_json(full_text)
-      print(full_text_json.content)
-      json_blocks = re.findall(r"```json(.*?)```", full_text_json.content, re.DOTALL)
-      paper_json_data = json.loads(re.sub(r"```json|```", "", json_blocks[0]))
-      paper_json_data["pmcid"] = pmcid
-      print(paper_json_data)
-      merge_json(paper_json_data, csv_name)
+    user_choice = input("Choose input method: csv, space sperated values, manual input, enter c, s, or m\n")
+    while user_choice.lower() not in ['c', 's', 'm']:
+      user_choice = input("INVLAID INPUT, Choose input method: csv, space sperated values, manual input, enter c, s, or m\n")
+    if user_choice == 'c':
+      input_file = input("Enter the name of the file in pmid input folder\n")
+      input_file = f'/pmid_input/{input_file}'
+      with open(input_file, mode='r') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+          for id in row:
+            if id:
+              print(id)
+              retrieve_data(id.strip(), csv_name)
+    elif user_choice == 's':
+      input_file = input("Enter the name of the file in pmid input folder\n")
+      input_file = f'/pmid_input/{input_file}'
+      with open(input_file, mode='r') as csvfile:
+        reader = csv.reader(csvfile, delimiter=' ')
+        for row in reader:
+          for id in row:
+            if id:
+              print(id)
+              retrieve_data(id.strip(), csv_name)
     else:
-      print("Failed to generate pmcid\n")
+      while True:
+        pmid = input("Enter pmid\n")
+        retrieve_data(pmid, csv_name)
+    
 
 
 

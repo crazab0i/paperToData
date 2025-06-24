@@ -1,0 +1,716 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Virulence</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Virulence</journal-id>
+      <journal-title-group>
+        <journal-title>Virulence</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2150-5594</issn>
+      <issn pub-type="epub">2150-5608</issn>
+      <publisher>
+        <publisher-name>Taylor &amp; Francis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37817444</article-id>
+      <article-id pub-id-type="pmc">10599192</article-id>
+      <article-id pub-id-type="doi">10.1080/21505594.2023.2268496</article-id>
+      <article-id pub-id-type="publisher-id">2268496</article-id>
+      <article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of Record</article-version>
+      <article-categories>
+        <subj-group subj-group-type="article-type">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A novel <italic toggle="yes">Galleria mellonella</italic> experimental model for zoonotic pathogen <italic toggle="yes">Brucella</italic></article-title>
+        <alt-title alt-title-type="left-running-head">S. WANG ET AL.</alt-title>
+        <alt-title alt-title-type="right-running-head">VIRULENCE</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Shuyi</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yin</surname>
+            <given-names>Ying</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zai</surname>
+            <given-names>Xiaodong</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gu</surname>
+            <given-names>Yanfei</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guo</surname>
+            <given-names>Fengyu</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shao</surname>
+            <given-names>Fangze</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Yue</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Yaohui</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Ruihua</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Jun</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Junjie</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+          <xref rid="an0001" ref-type="corresp"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Wei</given-names>
+          </name>
+          <xref rid="aff0001" ref-type="aff"/>
+          <xref rid="an0002" ref-type="corresp"/>
+        </contrib>
+        <aff id="aff0001">Laboratory of Vaccine and Antibody Engineering, <institution-wrap><institution>Beijing Institute of Biotechnology</institution></institution-wrap>, <city>Beijing</city>, <country>China</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="an0001">CONTACT Junjie Xu <email xlink:href="mailto:xujunjie@bmi.ac.cn">xujunjie@bmi.ac.cn</email></corresp>
+        <corresp id="an0002">Wei Chen <email xlink:href="mailto:cw0226@foxmail.com">cw0226@foxmail.com</email></corresp>
+      </author-notes>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>10</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date date-type="collection" publication-format="electronic">
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>10</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>14</volume>
+      <issue>1</issue>
+      <elocation-id seq="88">2268496</elocation-id>
+      <pub-history>
+        <event event-type="tagger">
+          <event-desc>Integra</event-desc>
+          <date>
+            <day>21</day>
+            <month>10</month>
+            <year>2023</year>
+          </date>
+        </event>
+        <event event-type="final">
+          <event-desc>Integra</event-desc>
+          <date>
+            <day>21</day>
+            <month>10</month>
+            <year>2023</year>
+          </date>
+        </event>
+        <event event-type="received">
+          <date>
+            <day>04</day>
+            <month>7</month>
+            <year>2023</year>
+          </date>
+        </event>
+        <event event-type="revised">
+          <date>
+            <day>29</day>
+            <month>9</month>
+            <year>2023</year>
+          </date>
+        </event>
+        <event event-type="accepted">
+          <date>
+            <day>04</day>
+            <month>10</month>
+            <year>2023</year>
+          </date>
+        </event>
+      </pub-history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>The Author(s)</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="KVIR_14_2268496.pdf"/>
+      <abstract>
+        <title>ABSTRACT</title>
+        <p>Brucellosis is a major threat to public health and animal husbandry. Several <italic toggle="yes">in vivo</italic> vertebrate models, such as mice, guinea pigs, and nonhuman primates, have been used to study <italic toggle="yes">Brucella</italic> pathogenesis, bacteria-host interactions, and vaccine efficacy. However, these models have limitations whereas the invertebrate <italic toggle="yes">Galleria mellonella</italic> model is a cost-effective and ethical alternative. The aim of the present study was to examine the invertebrate <italic toggle="yes">G. mellonella</italic> as an in vivo infection model for <italic toggle="yes">Brucella</italic>. Infection assays were employed to validate the fitness of the larval model for <italic toggle="yes">Brucella</italic> infection and virulence evaluation. The protective efficacy of immune sera was evaluated by pre-incubated with a lethal dose of bacteria before infection. The consistency between the mouse model and the larval model was confirmed by assessing the protective efficacy of two <italic toggle="yes">Brucella</italic> vaccine strains. The results show that <italic toggle="yes">G. mellonella</italic> could be infected by <italic toggle="yes">Brucella</italic> strains, in a dose- and temperature-dependent way. Moreover, this larval model can effectively evaluate the virulence of <italic toggle="yes">Brucella</italic> strains in a manner consistent with that of mammalian infection models. Importantly, this model can assess the protective efficacy of vaccine immune sera within a day. Further investigation implied that haemolymph played a crucial role in the protective efficacy of immune sera. In conclusion, <italic toggle="yes">G. mellonella</italic> could serve as a quick, efficient, and reliable model for evaluating the virulence of <italic toggle="yes">Brucella</italic> strains and efficacy of immune sera in an ethical manner.</p>
+      </abstract>
+      <abstract abstract-type="graphical">
+        <title>GRAPHICAL ABSTRACT</title>
+        <fig position="anchor" id="uf0001">
+          <alternatives>
+            <graphic xlink:href="KVIR_A_2268496_UF0001_OC" content-type="color" specific-use="web-only" position="float"/>
+            <graphic xlink:href="KVIR_A_2268496_UF0001_PB" content-type="black-white" specific-use="print-only" position="float"/>
+          </alternatives>
+        </fig>
+      </abstract>
+      <kwd-group kwd-group-type="author">
+        <title>KEYWORDS</title>
+        <kwd>Galleria mellonella</kwd>
+        <kwd>Brucella</kwd>
+        <kwd>infection model</kwd>
+        <kwd>virulence evaluation</kwd>
+        <kwd>sera efficacy evaluation</kwd>
+        <kwd>rapid evaluation model</kwd>
+      </kwd-group>
+      <support-group>
+        <funding-group>
+          <award-group>
+            <funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source>
+            <award-id>31800770</award-id>
+          </award-group>
+          <award-group>
+            <funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source>
+            <award-id>32170945</award-id>
+          </award-group>
+          <funding-statement>The work was supported by the&#xA0;National Natural Science Foundation of China [31800770]; National Natural Science Foundation of China [32170945].</funding-statement>
+        </funding-group>
+      </support-group>
+      <counts>
+        <fig-count count="8"/>
+        <table-count count="1"/>
+        <ref-count count="46"/>
+        <page-count count="1"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" disp-level="1" id="s0001">
+      <title>Introduction</title>
+      <p>Brucellosis is a zoonotic infectious disease caused by <italic toggle="yes">Brucella</italic> spp. It is viewed as a major threat to public health and animal husbandry, with annually about 500 thousand new reported cases worldwide, involving more than 170 countries and regions [<xref rid="cit0001" ref-type="bibr">1&#x2013;5</xref>]. Vaccines are the most cost-effective means to prevent and control brucellosis. Commercial veterinary live attenuated vaccines, such as <italic toggle="yes">Brucella abortus</italic> S19/A19, <italic toggle="yes">Brucella abortus</italic> RB51, <italic toggle="yes">Brucella melitensis</italic> Rev.1, <italic toggle="yes">Brucella melitensis</italic> M5, and <italic toggle="yes">Brucella Suis</italic> S2, have played a substantial role in the prevention and control of brucellosis in livestock [<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0007" ref-type="bibr">7</xref>], but they still have deficiencies, such as residual virulence to the host, interfering conventional serological tests, and resulting infection in humans [<xref rid="cit0008" ref-type="bibr">8&#x2013;12</xref>] (<xref rid="t0001" ref-type="table">Table 1</xref>). Till now, the <italic toggle="yes">Brucella abortus</italic> live attenuated vaccine 104M is the only human <italic toggle="yes">Brucella</italic> vaccine approved by the Chinese Food and Drug Administration, but it is not suitable for mass vaccination due to scratch inoculation and residual virulence [<xref rid="cit0013" ref-type="bibr">13</xref>] (<xref rid="t0001" ref-type="table">Table 1</xref>). Rodents are the most commonly used animal models for <italic toggle="yes">Brucella</italic> infection, virulence comparison, and vaccine evaluation, with bacterial load and histopathological changes in the spleen defined as main indicators [<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0008" ref-type="bibr">8</xref>,<xref rid="cit0022" ref-type="bibr">22</xref>,<xref rid="cit0023" ref-type="bibr">23</xref>]. Nonetheless, the evaluation process is time-consuming, costly, requires specialized animal housing, and is ethically challenging. Therefore, the establishment of a simple and time-saving alternative <italic toggle="yes">in vivo</italic> infection and immune model of <italic toggle="yes">Brucella</italic> could not only greatly reduce the use of vertebrates but also speed up the evaluation process.<table-wrap position="float" id="t0001"><label>Table 1.</label><caption><p>Commercial <italic toggle="yes">Brucella</italic> attenuated vaccines and their virulence degree.</p></caption><!--OASIS TABLE HERE--><table frame="hsides" rules="groups"><colgroup><col width="1*" align="left"/><col width="1*" align="left"/><col width="1*" align="left"/></colgroup><thead><tr><th align="left">Vaccine name</th><th align="center">Origin</th><th align="center">Degree of Virulence</th></tr></thead><tbody><tr><td align="left">S19/A19</td><td align="left"><italic toggle="yes">Brucella abortus</italic></td><td align="left">Cause abortion/orchitis [<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0007" ref-type="bibr">7</xref>]<break/>Virulent to humans [<xref rid="cit0014" ref-type="bibr">14</xref>,<xref rid="cit0015" ref-type="bibr">15</xref>]</td></tr><tr><td align="left">RB51</td><td align="left"><italic toggle="yes">Brucella abortus</italic></td><td align="left">Virulent to humans [<xref rid="cit0016" ref-type="bibr">16</xref>];</td></tr><tr><td align="left">Rev.1</td><td align="left"><italic toggle="yes">Brucella</italic>. <italic toggle="yes">melitensis</italic></td><td align="left">More virulent than S19 [<xref rid="cit0015" ref-type="bibr">15</xref>]<break/>Cause abortion in pregnant animals [<xref rid="cit0017" ref-type="bibr">17</xref>,<xref rid="cit0018" ref-type="bibr">18</xref>];<break/>Virulent to humans [<xref rid="cit0019" ref-type="bibr">19</xref>]</td></tr><tr><td align="left">M5</td><td align="left"><italic toggle="yes">Brucella</italic>. <italic toggle="yes">melitensis</italic></td><td align="left">Virulent to humans [<xref rid="cit0010" ref-type="bibr">10</xref>]</td></tr><tr><td align="left">S2</td><td align="left"><italic toggle="yes">Brucella</italic>. <italic toggle="yes">suis</italic></td><td align="left">Less virulent than S19 and Rev-1 [<xref rid="cit0020" ref-type="bibr">20</xref>,<xref rid="cit0021" ref-type="bibr">21</xref>]</td></tr><tr><td align="left">104M</td><td align="left"><italic toggle="yes">Brucella abortus</italic></td><td align="left">Slightly virulent to humans [<xref rid="cit0016" ref-type="bibr">16</xref>]</td></tr></tbody></table></table-wrap></p>
+      <p><italic toggle="yes">Galleria mellonella</italic> larvae, also known as wax worms, are invertebrates with a mammal-like innate immune system that consists of cellular and humoral immune responses [<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0025" ref-type="bibr">25</xref>]. In contrast to traditional models, <italic toggle="yes">G. mellonella</italic> larvae are an inexpensive and easily acquired resource that can be handled without difficulty, does not require feeding or specific caging, and thus could serve as a valuable tool for investigating microbial infections. Importantly, they can survive at 37&#xB0;C, which is the optimum temperature for human pathogens. In addition, this model is ethically acceptable and does not require ethical approval. As a result, this model has been widely used in the evaluation of pathogen virulence, toxicity of chemicals, and rapid screening of novel antibacterial agents [<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0026" ref-type="bibr">26&#x2013;30</xref>].</p>
+      <p>In this study, we described a <italic toggle="yes">G. mellonella</italic> larval infection and immune model for <italic toggle="yes">Brucella</italic> and validated its potential to evaluate the virulence of <italic toggle="yes">Brucella</italic> strains and the efficacy of immune sera in a fast, high-throughput, and ethical manner.</p>
+    </sec>
+    <sec disp-level="1" id="s0002">
+      <title>Materials and Methods</title>
+      <sec disp-level="2" id="s0002-s2001">
+        <title>Bacterial strains and culture conditions</title>
+        <p>All strains were stored at &#x2212;80&#xB0;C in tryptone soya broth (TSB; Oxoid) containing 15% glycerol (SCR). Bacteria were cultured in TSB at 37&#xB0;C with 220 rpm until the mid-log phase was reached. The samples were serially diluted and plated on tryptone soya agar (TSA, Oxoid) for CFU determination. <italic toggle="yes">B. abortus</italic> A19, A19&#x394;<italic toggle="yes">VirB12</italic> and <italic toggle="yes">B. suis</italic> S2 were obtained from Tecon Biology, and <italic toggle="yes">B. abortus</italic> 104M was obtained from Lanzhou Institute of Biological Products. The 104M:<italic toggle="yes">Omp19</italic> overexpression mutant was generated as previously described [<xref rid="cit0031" ref-type="bibr">31</xref>]. The 104M&#x394;<italic toggle="yes">Omp19</italic> deletion mutant was generated by amplification of the upstream and downstream flanking regions and the kanamycin resistance gene (<italic toggle="yes">kanR</italic> gene) using the primers Omp19-up-F, Omp19-up-R, Omp19-down-F, Omp19-down-R, <italic toggle="yes">kanR</italic>-F, and <italic toggle="yes">kanR</italic>-R (Additional file 1). Subsequently, the upstream, <italic toggle="yes">kanR</italic> and downstream regions of Omp19 were ligated by overlapping PCR, and the ligated product was inserted into <italic toggle="yes">pEASY-Blunt</italic> 3 vector (Transgen Biotech). The resulting vector was transformed into the genome of strain 104M by electroporation at 625&#x2009;V for 10&#x2009;ms and then transferred to selective TSA plates containing 100&#x2009;&#x3BC;g/ml kanamycin..</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2002">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> larvae</title>
+        <p>Last-instar antibiotic-free <italic toggle="yes">G. mellonella</italic> larvae were purchased from Tianjin Huiyude Biotechnology Ltd. and were kept for one day before infection, without feeding during experimentation. Larvae with uniform colour, no markings, and high motility were deemed healthy and were used in subsequent experiments.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2003">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> larvae infection assay and virulence evaluation assay</title>
+        <p><italic toggle="yes">Brucella</italic>cultures were centrifuged for 5&#x2009;min at 5 000&#x2009;g. Bacteria pellets were washed once and resuspended in 1&#xD7; PBS buffer (Gibco) to the desired density (5&#x2009;&#xD7;&#x2009;10<sup>4</sup> CFU/ml to 5&#x2009;&#xD7;&#x2009;10<sup>9</sup>CFU/ml). To inactivate the bacteria, mid-log phase strains were suspended in PBS buffer (Gibco) heat inactivated at 100 &#xB0;C for 10&#x2009;min, or suspended in 4% paraformaldehyde (PFA, Leagene) for 1&#x2009;h. Inactivity was confirmed by plating 100&#x2009;&#x3BC;l of the suspension onto TSA plates and incubating for three days. A 25&#x2009;&#x3BC;l suspension of bacteria (1.25&#x2009;&#xD7;&#x2009;10<sup>3</sup> CFU/larva to 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/larva) was injected into <italic toggle="yes">G. mellonella</italic> larvae through the lower left proleg using a sterile 29&#x2009;G insulin syringe (BD). Control groups were left untreated or injected with 25&#x2009;&#x3BC;l of sterile PBS (Gibco) or pooled sera from PBS-treated groups of mice (PBS sera). After infection, larvae were kept at 25&#xB0;C or 37&#xB0;C in a lidded 9-cm Petri-dish in the dark, monitored, and scored daily according to the &#x201C;Health Index Scoring System (HISS) (<xref rid="f0001" ref-type="fig">Figure 1a</xref>) [<xref rid="cit0010" ref-type="bibr">10</xref>]. &#x201D; for up to 5&#x2009;days. The larvae were determined to be dead when they did not respond to stimulation. Pupae were excluded from the analysis.
+<fig position="float" id="f0001" fig-type="figure"><label>Figure 1.</label><caption><p>Establishment of the <italic toggle="yes">G. mellonella</italic> model of <italic toggle="yes">Brucella</italic> infection. <italic toggle="yes">G. mellonella</italic> larvae were injected with 25&#x2009;&#x3BC;l bacteria suspension, incubated at 25&#xB0;C or 37&#xB0;C and scored daily according to the health index scoring system. a) Representative photographs of melanization scores and cocoon scores. b) Effect of different inoculum doses of <italic toggle="yes">Brucella</italic> strain A19 on <italic toggle="yes">G. mellonella</italic> larval survival at 25&#xB0;C. c) Health index scores of larvae infected with different doses of <italic toggle="yes">Brucella</italic> strain A19 at 25&#xB0;C. d) Effect of different inoculum doses of <italic toggle="yes">Brucella</italic> strain A19 on <italic toggle="yes">G. mellonella</italic> larval survival at 37&#xB0;C. e) Health index scores of larvae infected with different doses of <italic toggle="yes">Brucella</italic> strain A19 at 37&#xB0;C. Significant differences between the Kaplan-Meier curves were identified with the log-rank test (GraphPad Prism). *<italic toggle="yes">P</italic>&lt;&#x2009;0.05,**<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0001_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0001_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2004">
+        <title>Mouse immunization, sera collection and mouse infection</title>
+        <p>Six-to eight-week-old female BALB/c mice (Beijing Vital River Laboratory Animal Technology Co., Ltd.) were immunized subcutaneously with 1&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of strain 104M, strain 104M&#x394;<italic toggle="yes">Omp19</italic> or PBS on day 0, and infected with 1&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19 intraperitoneally on day 28. Sera were collected before infection, aliquoted, and stored at &#x2212;80&#xB0;C until use. On the 7<sup>th</sup> day post infection, the mice were euthanized, and their spleens were harvested. Mouse spleens from each group were fixed in 4% PFA, or homogenized, serially diluted, and spread on TSA plates for CFU determination.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2005">
+        <title>Histopathology</title>
+        <p>Larvae were fixed in 4% PFA on day 1 and day 5 post infection, and mouse spleens were fixed on the 7<sup>th</sup> day post infection. Fixed samples were embedded and sectioned, followed by dewaxing and hydration. The tissue sections were stained using the Hematoxylin and Eosin (H&amp;E) staining kit (Beyotime) or <italic toggle="yes">Brucella</italic> staining kit (Leagene), according to the manufacturer&#x2019;s instructions. Subsequently, dehydration, transparency, and neutral resin sealing were performed.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2006">
+        <title>Evaluation of the protective efficacy of immune sera</title>
+        <p><italic toggle="yes">B. abortus</italic> A19 was suspended in PBS buffer containing 4%-50% (v/v) pooled normal sera or heat-inactivated (56&#xB0;C, 30&#x2009;min) sera from mice immunized with strain 104M (hereafter referred to as 104M sera), strain 104M&#x394;<italic toggle="yes">Omp19</italic> (hereafter referred to as 104M&#x394;<italic toggle="yes">Omp19</italic> sera), or PBS control (hereafter abbreviated as PBS sera) and incubated at 37&#xB0;C for 30, 45, or 60&#x2009;min, evenly mixed every 10&#x2009;min. Larvae were injected with a 25&#x2009;&#x3BC;l mixture containing 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of bacteria, incubated at 37&#xB0;C and scored daily according to HISS.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2007">
+        <title>Depletion of <italic toggle="yes">G.mellonella</italic> hemocytes</title>
+        <p>Dichloromethylene-bisphosphonate (clodronate) has been reported to deplete the haemocytes of <italic toggle="yes">G. mellonella</italic> and <italic toggle="yes">Anopheles gambiae</italic> mosquitos [<xref rid="cit0030" ref-type="bibr">30</xref>,<xref rid="cit0032" ref-type="bibr">32</xref>]. Liposomes containing 5&#x2009;mg/ml clodronate (CDLip) and control liposomes (Lip) in PBS were purchased from Liposoma Research and used in the assays. <italic toggle="yes">G. mellonella</italic> larvae were injected with 5&#x2009;&#xB5;L of Lip or CDLip in the last left proleg. After 24&#x2009;h, the larvae were injected with 20&#x2009;&#xB5;L of <italic toggle="yes">Brucella</italic> A19 suspension or A19-sera pre-incubated mixture containing 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of bacteria in the last right proleg, and larval survival was monitored over a 5-day period.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2008">
+        <title>Effect of priming <italic toggle="yes">G.mellonella</italic> with a non-lethal dose of <italic toggle="yes">Brucella</italic></title>
+        <p><italic toggle="yes">G. mellonella</italic> larvae were injected in the last left proleg with 5&#x2009;&#xB5;L of bacterial suspension containing 1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of live or fixed <italic toggle="yes">Brucell</italic>a strains. After 24&#x2009;h, a lethal dose of 10&#x2009;&#xB5;L of <italic toggle="yes">Brucella</italic> A19 was used to infect the larvae in the last right proleg. Larval survival and health status were evaluated for 5&#x2009;days following infection.</p>
+      </sec>
+      <sec disp-level="2" id="s0002-s2009">
+        <title>Statistical analyses</title>
+        <p>Data were analysed for statistical significance using GraphPad Prism Version 9. Significant differences between the Kaplan-Meier curves were identified with the log-rank test (GraphPad Prism). *<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.05, **<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001. Significant differences in the bacterial load of mouse spleens were identified by one-way ANOVA (GraphPad Prism). *<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.05, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001, ****<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.0001.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1" id="s0003">
+      <title>Results</title>
+      <sec disp-level="2" id="s0003-s2001">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> larval survival was <italic toggle="yes">Brucella</italic> dose-dependent and temperature-dependent</title>
+        <p>First, we determined the virulence of <italic toggle="yes">B.abortus</italic> A19 to <italic toggle="yes">G. mellonella</italic> larvae at 25&#xB0;C and 37&#xB0;C using 37&#xB0;C cultured strain A19, which were the optimum survival temperatures for larvae and bacteria, respectively. To begin with, larvae were injected with a series of doses of strain A19 at 25&#xB0;C to verify whether <italic toggle="yes">Brucella</italic> could establish infection in <italic toggle="yes">G. mellonella</italic> larvae. Untreated larvae and larvae injected with PBS buffer both showed 100% survival when incubated at this temperature over a 5-day period, demonstrating that neither needle injection nor PBS buffer had any influence on larval survival. However, larvae infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of bacteria showed significantly decreased survival (<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01), with less than 20% survival on day 5; however, at lower infection doses, larvae showed almost 100% survival (<xref rid="f0001" ref-type="fig">Figure 1b</xref>). We also employed a health index scoring system to assess the health status of larvae, which enabled the observation of general health status and slight differences in larval activity, cocoon formation, melanization, and survival (<xref rid="f0001" ref-type="fig">Figure 1a</xref>) [<xref rid="cit0024" ref-type="bibr">24</xref>]. The daily health index scores of larvae infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU dropped with time, eventually falling below 2 on day 5. The daily scores of larvae infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU were always above 6, although they decreased gradually. On the contrary, the health index scores of groups treated with doses lower that 1.25&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU were always above 8 (<xref rid="f0001" ref-type="fig">Figure 1c</xref>).</p>
+        <p>We subsequently conducted the larval infection assay at 37&#xB0;C, as this was the optimal growth temperature for <italic toggle="yes">Brucella</italic>. As expected, both untreated larvae and larvae injected with PBS buffer also exhibited 100% survival at 37&#xB0;C. Furthermore, larval survival was also dose-dependent at this temperature, with higher concentrations correlating with reduced survival. Larvae infected with less than 1.25&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU of strain A19 all survived, while at higher infection doses, a concentration-dependent pattern on both survival and health index scores was observed. All larvae died within 1 day and typically scored 0 or 2 when infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19, whereas 50% mortality was reached on day 1 with 1.25&#x2009;&#xD7;&#x2009;10<sup>7</sup> CFU of bacteria (<xref rid="f0001" ref-type="fig">Figure 1d,e</xref>). Similar results were obtained using 25&#xB0;C cultured strain A19 (Fig. S1).</p>
+        <p>Overall, larval survival depends on both the infection dose of <italic toggle="yes">Brucella</italic> and the post infection incubation temperature. Consequently, a standard inoculum of 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU/larva and a standard temperature of 37&#xB0;C were determined for all subsequent experiments, which killed all larvae consistently and reproducibly within a day.</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2002">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> developed Granuloma-like structures in response to non-lethal <italic toggle="yes">Brucella</italic> infection</title>
+        <p>To examine histopathological changes, larvae were infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU or 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of A19 and processed at 1-day and 5-day post infection for H&amp;E staining or Koster&#x2019;s staining. Larvae treated with the same volume of PBS were used as controls. Compared to the PBS control (<xref rid="f0002" ref-type="fig">Figure 2a</xref>), larvae infected with a non-lethal dose of A19 on day 1 and day 5 showed granuloma-like structures formed by the aggregation of haemocytes with melanin deposition, but no evidence of severe damage to the adipose body or total tissue structure (<xref rid="f0002" ref-type="fig">Figure 2b,c</xref>). Conversely, larvae infected with a lethal dose of A19 on day 1 showed extensive tissue destruction with severely disseminated basophils (<xref rid="f0002" ref-type="fig">Figure 2d</xref>).
+<fig position="float" id="f0002" fig-type="figure"><label>Figure 2.</label><caption><p>Histopathology examination of <italic toggle="yes">G. mellonella</italic> infected with <italic toggle="yes">Brucella</italic> strain A19. Larvae were infected with <italic toggle="yes">Brucella</italic> strain A19 (1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> or 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU) and histopathology were examined at 1- and 5-day post infection on fixed larval sections following H&amp;E staining or Koster&#x2019;s staining. a) PBS control, H&amp;E staining larval section on day 1. Normal histological structures, no haemocyte reaction or melanization was observed. b) Infected, non-lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU), H&amp;E staining larval section on day 1. Granuloma-like structures formed by haemolymph were observed. Asterisks represented the granuloma-like structures formed by the aggregation of haemocytes. c) Infected, non-lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU), H&amp;E staining larval section on day 5. d) Infected, lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU), H&amp;E staining larval section on day 1. Extensive destruction of the adipose body with scattered melanin were observed. The black arrow represented disseminated <italic toggle="yes">Brucella</italic>. The green arrow represented damaged adipose body. e) PBS control, Koster&#x2019;s staining larval section on day 1. No bacteria were observed in the section. f) Infected, non-lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU), Koster&#x2019;s staining larval section on day 1. Granuloma-like structure containing individual <italic toggle="yes">Brucella</italic> or colonies of <italic toggle="yes">Brucella</italic> were observed. g) Infected, non-lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU), Koster&#x2019;s staining larval section on day 5. <italic toggle="yes">Brucella</italic>-positive components were observed within the nodules of haemocytes. h) Infected, lethal dose (1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU), Koster&#x2019;s staining larval section on day 1. Large numbers of <italic toggle="yes">Brucella</italic> were distributed in the haemocoel cavity.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0002_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0002_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>To further confirm the distribution of bacteria, Koster&#x2019;s staining was performed. <italic toggle="yes">Brucella</italic> strains were stained magenta using this specific staining method, while non-<italic toggle="yes">Brucella</italic> strains and tissue structures were stained green. No <italic toggle="yes">Brucella</italic>-positive components were detected in the sections of the PBS control group (<xref rid="f0002" ref-type="fig">Figure 2e</xref>), whereas <italic toggle="yes">Brucella</italic>-positive elements were observed within the nodules of haemocytes in the sections of larvae infected with the non-lethal dose of strain A19 (<xref rid="f0002" ref-type="fig">Figure 2f,g</xref>). Moreover, in the sections of larvae infected with the lethal dose, large numbers of individual bacteria were stained magenta, indicating severe disseminated infection in this group (<xref rid="f0002" ref-type="fig">Figure 2h</xref>).</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2003">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> as a model for rapid evaluation of <italic toggle="yes">Brucella</italic> strain virulence</title>
+        <p>To further investigate whether killing <italic toggle="yes">G. mellonella</italic> requires live bacteria, <italic toggle="yes">G. mellonella</italic> larvae were injected with a dose of 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of live strain A19, live strain 104M, or with the same dose of heat-inactivated bacteria. Larvae infected with both live strains died by day 1, whereas those infected with heat-inactivated strains survived at all time points (<xref rid="f0003" ref-type="fig">Figure 3a</xref>), with average health score of 8.1 (A19-HI) and 8.4 (104M-HI) on day 5 (<xref rid="f0003" ref-type="fig">Figure 3b</xref>), indicating that only live strains had a significant effect on larval survival at this infection dose.
+<fig position="float" id="f0003" fig-type="figure"><label>Figure 3.</label><caption><p><italic toggle="yes">G. mellonella</italic> as a model for rapid evaluation of <italic toggle="yes">Brucella</italic> strain virulence. Groups of larvae were infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of live or heat-inactivated <italic toggle="yes">Brucella</italic> strain A19, strain 104M, strain 104M&#x394;<italic toggle="yes">Omp19</italic> deletion mutant, strain 104M:<italic toggle="yes">Omp19</italic> overexpression mutant or strain S2, incubated at 37&#xB0;C and monitored for 5&#x2009;days. a) Kaplan-Meier curves representing daily percentage of survived larvae infected with live or heat-inactivated <italic toggle="yes">Brucella</italic> strains. b) Daily health index scores of larvae infected with live or heat-inactivated <italic toggle="yes">Brucella</italic> strains. c) Kaplan-Meier curves representing daily percentage of survived larvae infected with <italic toggle="yes">Brucella</italic> strains. d) Daily health index scores of larvae infected with <italic toggle="yes">Brucella</italic> strains.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0003_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0003_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>We subsequently evaluated the presence of virulence factors on larval survival by inoculating larvae with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of different <italic toggle="yes">Brucella</italic> strains or their deletion/over-expression mutants. <italic toggle="yes">Brucella abortus</italic> A19 and A19&#x394;<italic toggle="yes">VirB12</italic> are both commercially available live vaccines that show similar virulence in mice [<xref rid="cit0033" ref-type="bibr">33</xref>]. Also, we generated the deletion mutant and overexpression mutant of strain 104M, as recent evidence suggests that Omp19 is a crucial virulence factor of <italic toggle="yes">Brucella</italic> [<xref rid="cit0034" ref-type="bibr">34&#x2013;36</xref>]. Consistent with a previous report in the mouse model, strain A19 and strain A19&#x394;<italic toggle="yes">VirB12</italic> showed comparable pathogenicity in the larval model. As anticipated, larvae infected with strain 104M&#x394;<italic toggle="yes">Omp19</italic> showed prolonged survival compared to the parental strain, with all larvae surviving on day 1 (<xref rid="f0003" ref-type="fig">Figure 3c</xref>). However, there was no significant difference in the survival rate and health index scores between the 104M-infected group and the 104M:<italic toggle="yes">Omp19</italic>-infected group (<xref rid="f0003" ref-type="fig">Figure 3c,d</xref>), implying that overexpression of the virulence factor Omp19 did not increase the virulence of the strain. Finally, we compared the differences in virulence between <italic toggle="yes">Brucella</italic> species. Strain S2 showed lower virulence in the larval model than strain A19 and strain 104M, which is consistent with previous reports [<xref rid="cit0037" ref-type="bibr">37&#x2013;39</xref>]. Taken together, these data indicate that the <italic toggle="yes">G. mellonella</italic> model is suitable for the rapid virulence evaluation of <italic toggle="yes">Brucella</italic> strains.</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2004">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> as a model for rapid evaluation of <italic toggle="yes">Brucella</italic> vaccine immune sera efficacy</title>
+        <p><italic toggle="yes">G. mellonella</italic> larvae have been used for the evaluation of monoclonal antibodies [<xref rid="cit0040" ref-type="bibr">40</xref>,<xref rid="cit0041" ref-type="bibr">41</xref>]. We therefore made an effort to develop the <italic toggle="yes">G. mellonella</italic> larvae as a rapid evaluation model for <italic toggle="yes">Brucella</italic> vaccine immune sera. To begin with, we determined whether the serum components affected the survival of <italic toggle="yes">G. mellonella</italic> larvae. PBS sera had no effect on larval survival (<xref rid="f0004" ref-type="fig">Figure 4a</xref>), indicating that serum components were not toxic to <italic toggle="yes">G. mellonella</italic> larvae. Likewise, the health index scores of the larvae injected with PBS sera were always above 9, proving that the larvae were healthy (<xref rid="f0004" ref-type="fig">Figure 4b</xref>).
+<fig position="float" id="f0004" fig-type="figure"><label>Figure 4.</label><caption><p><italic toggle="yes">G. mellonella</italic> as a model for rapid evaluation of <italic toggle="yes">Brucella</italic> vaccine immune sera efficacy. a) &amp; b) The effect of pre-incubation time of immune sera and bacteria on <italic toggle="yes">G. mellonella</italic> larval survival. a) Survival rate and b) health index scores of larvae infected with <italic toggle="yes">Brucella</italic> strain A19 pre-treated with sera for 30,45 or 60&#x2009;minutes. c) &amp; d) The effect of immune sera concentration on <italic toggle="yes">G. mellonella</italic> larval survival. c) Survival rate and d) health index scores of larvae infected with A19 pre-treated with different concentrations of sera. e) Cocoon formation, activity, melanization and survival of <italic toggle="yes">G. mellonella</italic> larvae on day 1. Significant differences between the Kaplan-Meier curves were identified with the log-rank test (GraphPad Prism). *<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.05, **<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001, ****<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.0001.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0004_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0004_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>Next, as a proof of concept, we applied this model to examine the efficacy of 104M sera, since 104M live attenuated vaccine has already been proven to be highly protective against brucellosis [<xref rid="cit0013" ref-type="bibr">13</xref>,<xref rid="cit0042" ref-type="bibr">42</xref>]. To study the inhibitory effect of the antibody, strain A19 was pre-treated with pooled sera before inoculation. To optimize the pre-incubation time, bacteria were suspended in PBS buffer containing 50% (v/v) 104M immune sera or PBS sera and incubated at 37&#xB0;C for 30, 45, or 60&#x2009;min. Larvae were then inoculated with a 25&#x2009;&#x3BC;l mixture containing 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of bacteria. It is not surprising that PBS sera had no protective effect on the larvae, regardless of the pre-incubation time. Contrastingly, 104M sera showed an excellent protective effect. The survival rates of groups pre-incubated with 104M sera for 30, 45, or 60&#x2009;min were 62.5%, 75%, and 87.5% on day 1, respectively (<xref rid="f0004" ref-type="fig">Figure 4a</xref>). The protective efficacy of the 60-minute pre-incubated group outperformed the other two groups, as reflected in both the daily survival rates and health index scores (<xref rid="f0004" ref-type="fig">Figure 4b</xref>). Thus, 60&#x2009;min was employed as the pre-incubation time in subsequent studies.</p>
+        <p>To determine the optimal sera concentration, strain A19 was suspended in PBS containing 1/2 diluted to 1/25 diluted [4%-50% (v/v)] 104M sera and incubated at 37&#xB0;C for 60&#x2009;min before being inoculated into the larvae. Larval survival rates were all improved in the 104M sera pre-incubated groups by 58.3%-100% on day 1, compared with the PBS sera pre-treated group. All larvae inoculated with 1/25 diluted sera died by day 4, whereas those injected with 1/2 or 1/5 diluted sera showed more than 40% survival by day 5 (<xref rid="f0004" ref-type="fig">Figure 4c</xref>). Similar observations were apparent when comparing the health index scores of these different treated groups. Larvae in the 1/25 and 1/10 diluted 104M sera pre-incubated groups scored consistently lower than those in the 1/2 and 1/5 diluted 104M sera pre-incubated groups (<xref rid="f0004" ref-type="fig">Figure 4d</xref>). Therefore, these data indicate that 104M sera provide good protection against a lethal <italic toggle="yes">Brucella</italic> challenge when pre-incubated with bacteria for 60&#x2009;min, with 1/2, 1/5, and 1/10 diluted sera outperforming 1/25 diluted sera.</p>
+        <p>Except for the total health index scores, individual indicator (activity, cocoon formation, melanization, and survival) scores also reflected that 104M sera had a good protective effect against A19 during the infection course. It is worth mentioning that differences in the protective efficacy of immune sera were already rather noticeable on the first day of infection (<xref rid="f0004" ref-type="fig">Figure 4e</xref>), suggesting that the <italic toggle="yes">G. mellonella</italic> model offers the possibility to rapidly evaluate the efficacy of serum antibodies.</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2005">
+        <title>Haemocytes play a major role in the protective effect of 104M sera</title>
+        <p>To better understand the bacteria-larvae interaction and compare the histopathological differences between the 104M sera pre-incubated group and the PBS sera pre-incubated group, transverse sections of larvae were examined following H&amp;E or Koster&#x2019;s staining. Consistent with our expectations, larvae in the PBS sera pre-incubated group showed extensive tissue destruction, with <italic toggle="yes">Brucella</italic> scattered within the coelom (<xref rid="f0005" ref-type="fig">Figure 5a,b</xref>). In contrast, in the 104M sera pre-incubated group, bacteria were confined to the granuloma-like structures, thus preventing diffuse infection of the organism on day 1 (<xref rid="f0005" ref-type="fig">Figure 5c,d</xref>). Additionally, an increase in the size of granulomatous-like lesions was observed on day 5 (<xref rid="f0005" ref-type="fig">Figure 5e,f</xref>).
+<fig position="float" id="f0005" fig-type="figure"><label>Figure 5.</label><caption><p>Histological analysis of <italic toggle="yes">G. mellonella</italic> larvae infected with sera-pre-treated <italic toggle="yes">Brucella</italic> strain A19. Groups of larvae were infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of live <italic toggle="yes">Brucella</italic> strain A19 pre-treated with 104M sera or PBS sera for 1 hour. a) Larvae infected with PBS sera pre-treated bacteria on day 1, H&amp;E staining. Black triangles represented disseminated <italic toggle="yes">Brucella</italic>. b) Larvae infected with PBS sera pre-treated bacteria on day 1, Koster&#x2019;s staining. c) Larvae infected with 104M sera pre-treated bacteria on day 1, H&amp;E staining. d) Larvae infected with 104M sera pre-treated bacteria on day 1, Koster&#x2019;s staining. e) Larvae infected with 104M sera pre-treated bacteria on day 5, H&amp;E staining. f) Larvae infected with 104M sera pre-treated bacteria on day 5, Koster&#x2019;s staining. Black arrows represented the granuloma-like structures formed by the aggregation of haemocytes.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0005_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0005_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>One possible explanation for our observations is that the pre-incubation of bacteria and immune sera may contribute to the recognition, phagocytosis, and encapsulation of bacteria by larval haemocytes. To test this hypothesis, we injected larvae with CDLip to deplete haemocytes, or Lip as a control; after 24&#x2009;h, we exposed the larvae to the 104M sera pre-incubated bacteria, and measured larval survival over 5&#x2009;days. Lip and CDLip alone showed no significant toxicity towards larvae (data not shown). In line with our speculation, larval survival was significantly reduced in the CDLip pre-treated larvae, compared with the larvae pre-treated with Lip, indicating that the protective effect of 104M sera is dependent on larval haemocytes. However, it should be noted that pretreatment with CDLip only decreased, but did not completely inhibit, the protective effect of 104M sera, suggesting that several mechanisms may play a role in the protective effect of 104M sera (<xref rid="f0006" ref-type="fig">Figure 6a,b</xref>).
+<fig position="float" id="f0006" fig-type="figure"><label>Figure 6.</label><caption><p>The effect of haemocytes depletion and complement inactivation on larval survival. Larvae were either injected with CDLip to deplete haemocytes or injected with Lip as a control 24&#x2009;hours before infection (a&amp;b). Sera were untreated or heat-inactivated at 56&#xB0;C for 30&#x2009;minutes before co-incubated with bacteria (c&amp;d). a) The effect of haemocytes depletion on <italic toggle="yes">G. mellonella</italic> larval survival. b) Health index scores of haemocytes depletion larvae infected with a lethal dose of <italic toggle="yes">Brucella</italic>. c) The effect of complement inactivation on <italic toggle="yes">G. mellonella</italic> larval survival. d) Health index scores of larvae infected with a lethal dose of <italic toggle="yes">Brucella</italic> strain A19 pre-incubated with complement inactivated immune sera. Significant differences between the Kaplan-Meier curves were identified with the log-rank test (GraphPad Prism). **<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0006_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0006_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>To verify whether the protective effect of 104M sera is complement-related, we further inactivated the serum complement. Immune sera were first heat-inactivated at 56&#xB0;C for 30&#x2009;min and then co-incubated with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19. The protective effect of the 104M sera was not affected by complement inactivation, suggesting that the serum complement is not relevant to the protective effect of the 104M sera in the larval model (<xref rid="f0006" ref-type="fig">Figure 6c,d</xref>).</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2006">
+        <title>Priming with a non-lethal dose of <italic toggle="yes">Brucella</italic> strains protects <italic toggle="yes">G.mellonella</italic> larvae against a subsequent lethal challenge</title>
+        <p>Several studies have shown that priming low-dose injections of microorganisms shielded the larvae from repeated exposure to the same or other microorganisms. To verify whether pre-exposure to a non-lethal dose of <italic toggle="yes">Brucella</italic> strains protects the larvae from a subsequent lethal challenge, groups of larvae were first primed with 1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of live or fixed strain A19 through the last left proleg, followed by infection with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of the same strain 24&#x2009;h later via the last right proleg. As expected, priming with a non-lethal dose of either live or fixed strains protected the larvae from a subsequent lethal challenge, with the live strain outperforming the fixed strain (<xref rid="f0007" ref-type="fig">Figure 7a</xref>).
+<fig position="float" id="f0007" fig-type="figure"><label>Figure 7.</label><caption><p>The effect of priming <italic toggle="yes">G. mellonella</italic> larvae with a non-lethal dose of <italic toggle="yes">Brucella</italic> strains. Larvae were primed with a non-lethal dose of <italic toggle="yes">Brucella</italic> or PBS control 24&#x2009;hours before infection with a lethal dose of strain A19. a) &amp; b) Survival rate of larvae primed with non-lethal dose of bacteria. c) Health index scores of larvae primed with non-lethal dose of bacteria. Significant differences between the Kaplan-Meier curves were identified with the log-rank test (GraphPad Prism). *<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.05, **<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.01, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001, ****<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.0001.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0007_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0007_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>We simultaneously explored whether priming with heterologous <italic toggle="yes">Brucella</italic> strains could also protect against a subsequent lethal challenge. To this end, larvae were primed with 1.25&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of strain 104M or strain 104M&#x394;Omp19 24&#x2009;h before confronted with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19. The protective efficacy of the 104M primed group was not statistically different from that of the A19 primed group, while the 104M&#x394;<italic toggle="yes">Omp19</italic> strain primed group showed significantly decreased protective efficacy (<xref rid="f0007" ref-type="fig">Figure 7b,c</xref>), demonstrating that the presence of Omp19 is of great importance for the 104M vaccine.</p>
+      </sec>
+      <sec disp-level="2" id="s0003-s2007">
+        <title><italic toggle="yes">G.</italic>
+<italic toggle="yes">mellonella</italic> model and the mouse model are comparable in evaluation of vaccine efficacy</title>
+        <p>To verify whether the <italic toggle="yes">G. mellonella</italic> and mouse models were comparable in evaluation of vaccine efficacy, strain 104M and strain 104M&#x394;<italic toggle="yes">Omp19</italic> were employed. The protective efficacy of the two strains was firstly tested in a mouse infection model. Groups of mice were immunized with 1&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of strain 104M, strain 104M&#x394;<italic toggle="yes">Omp19</italic>, or the PBS control on day 1. Four weeks after immunization, the mice were infected intraperitoneally with 1&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19. The protective efficacy of 104M was far superior to that of the 104M&#x394;<italic toggle="yes">Omp19</italic> deletion mutant, with a 15-fold difference in the spleen bacterial load (<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001) between these two groups. (<xref rid="f0008" ref-type="fig">Figure 8a</xref>).
+<fig position="float" id="f0008" fig-type="figure"><label>Figure 8.</label><caption><p>Evaluation of the consistency between the invertebrate <italic toggle="yes">G. mellonella</italic> model and the mouse model. Groups of mice were immunized with 1&#x2009;&#xD7;&#x2009;10<sup>5</sup> CFU of strain 104M, strain 104M&#x394;<italic toggle="yes">Omp19</italic>, or the PBS control on day 1, and 4&#x2009;weeks after immunization, the mice were infected intraperitoneally with 1&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of strain A19. Sera were collected on day 28. a) CFU counts from 104M and 104M&#x394;<italic toggle="yes">Omp19</italic> immunized mice spleens in the challenge study. b) Day 1 mortality of larvae infected with 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of <italic toggle="yes">Brucella</italic> strain A19 pre-treated with 104M sera, 104M&#x394;<italic toggle="yes">Omp19</italic> sera or PBS sera for 1 hour. c) Representative images of H&amp;E staining mouse spleens in different treatment groups on day 35. Red arrows represented hyperplasia of connective tissue around splenic nodules, blue arrows represented punctate neutrophil infiltration, black arrows represented large areas of extramedullary haematopoiesis in the red pulp, and yellow arrows represented multinucleated giant cells. d) Representative images of H&amp;E staining larvae sections in different treatment groups on day 1. The black arrow represented the granuloma-like structures formed by the aggregation of haemocytes, and green arrows represented damaged adipose body. Significant differences were identified by one-way ANOVA (GraphPad Prism). *<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.05, ***<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.001, ****<italic toggle="yes">P</italic>&#x2009;&lt;&#x2009;0.0001.</p></caption><alternatives><graphic xlink:href="KVIR_A_2268496_F0008_OC" content-type="color" specific-use="web-only" position="float"/><graphic xlink:href="KVIR_A_2268496_F0008_PB" content-type="black-white" specific-use="print-only" position="float"/></alternatives></fig></p>
+        <p>We then compared the protective efficacy of 104M and 104M&#x394;<italic toggle="yes">Omp19</italic> immune sera from the two groups in the <italic toggle="yes">G. mellonella</italic> model. Compared with PBS sera, 104M&#x394;<italic toggle="yes">Omp19</italic> immune sera did have some protective effects, as reflected in the 20% survival rate on day 1 and prolonged survival time (<xref rid="f0008" ref-type="fig">Figure 8b</xref> and Additional file 2). However, this protective effect was rather limited because all larvae died on day 4 (Additional file 2). In contrast, the 104M sera pre-incubated group, consistent with the results from the mouse model, demonstrated a significant protective effect. 90% of the larvae survived on day 1 (<xref rid="f0008" ref-type="fig">Figure 8b</xref>) and the survival rate remained at 30% on day 5 (Additional file 2). Meanwhile, the daily health index scores of the 104M sera pre-incubated group were consistently higher than that of the 104M&#x394;<italic toggle="yes">Omp19</italic> sera pre-incubated group (Additional file 2).</p>
+        <p>Histopathological changes in mouse spleens (<xref rid="f0008" ref-type="fig">Figure 8c</xref>) and <italic toggle="yes">G. mellonella</italic> larvae (<xref rid="f0008" ref-type="fig">Figure 8d</xref>) were then investigated by H&amp;Estaining sections. No abnormalities were observed in the spleen of the PBS-immunized, uninfected group, while in the PBS-immunized, challenged group and 104M&#x394;<italic toggle="yes">Omp19</italic> immunized, challenged group, the number of splenic nodules was decreased, and hyperplasia of connective tissue around splenic nodules (red arrows) was observed, with punctate neutrophil infiltration (blue arrows). Large areas of extramedullary haematopoiesis can be observed in the red pulp (black arrows), accompanied by an increase in the number of multinucleated giant cells (yellow arrows). In contrast, fewer severe lesions in the spleen section were observed in the 104M immunized group, with small extramedullary haematopoietic foci (black arrows) and a slight increase in the number of multinucleated giant cells (yellow arrows). Similar observations were discovered when comparing lesions in the larval sections. Larval sections in the PBS sera pre-treated group showed extensive disruption of the tissue structure and diffuse distribution of bacteria, while those in the 104M&#x394;<italic toggle="yes">Omp19</italic> sera pre-treated group only showed partial disruption. A portion of the bacteria was distributed in the haemocoel, while the remainder was encapsulated in the haemolymph nodes. Notably, in the 104M serum pre-treated group, almost all bacteria were encapsulated in the granuloma-like nodes formed by haemocytes. Consequently, the tissue structure was relatively intact. Taken together, these data indicate that comparable results to murine studies can be obtained using the <italic toggle="yes">G. mellonella</italic> model when 104M and 104M&#x394;<italic toggle="yes">Omp19</italic> are used as model vaccines. Consequently, as a bridge between the <italic toggle="yes">in vitro</italic> and <italic toggle="yes">in vivo</italic> models, <italic toggle="yes">G. mellonella</italic> model could be used as a simple, rapid, and high-throughput screening tool to evaluate the protective efficacy of immune sera.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1" id="s0004">
+      <title>Discussion</title>
+      <p>Although there is an urgent demand for new strategies and therapies to control, combat, and eradicate brucellosis, this process is extremely slow. Animal models are indispensable for studying virulence, pathogenic mechanisms, bacteria-host interactions, and vaccine development of <italic toggle="yes">Brucella</italic>. However, commonly used vertebrate evaluation models require feeding and housing, are time-consuming and costly. On the other hand, the <italic toggle="yes">in vitro</italic> evaluation methods, such as the serum bactericidal activity assay and the minimum inhibitory concentration assay, are not recommended because of the potential for creating aerosols that are hazardous to laboratory personnel. As such, the <italic toggle="yes">G. mellonella</italic> larvae <italic toggle="yes">in vivo</italic> evaluation model is of great value, as it offers a bridge between <italic toggle="yes">in vitro</italic> cell assays and final vertebrate studies. The use of the <italic toggle="yes">G. mellonella</italic> larvae model in pathogen-host interaction, virulence comparison, and antibiotic screening has been broadly investigated, but few studies have focused on this model for <italic toggle="yes">Brucella</italic> infection or evaluation of immune serum efficacy. In 2014, Nicolas et al. presented a protocol to analyse the virulence of select agents, including two highly virulent <italic toggle="yes">Brucella</italic> strains [<xref rid="cit0043" ref-type="bibr">43</xref>]. Here, we report that <italic toggle="yes">G. mellonella</italic> larvae could be used as a complementary <italic toggle="yes">in vivo</italic> model for infection and virulence comparison of <italic toggle="yes">Brucella</italic> strains. Also, we showed that this simple invertebrate model exhibited promise as a novel, fast, and efficient evaluation model for the efficacy of immune sera, which, to our knowledge, is a brand new finding.</p>
+      <p>To characterize the <italic toggle="yes">Brucella</italic> infection model, we first evaluated the virulence of A19, an attenuated strain of <italic toggle="yes">B. abortus</italic>, to the larvae using a range of doses at 25&#xB0;C and 37&#xB0;C, and determined the survival of the larvae over a 5-day infection course. Also, the infection process was monitored by the health index scores of larvae. Larval survival occurred in a temperature- and dose-dependent manner. A dose of 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU of <italic toggle="yes">Brucella</italic> A19 killed almost all the larvae by the end of infection regardless of the temperature, and a delay in larval death was observed when they were maintained at a lower temperature. This difference may be related to the growth disadvantage of bacteria at lower temperatures or the expression of temperature-dependent virulence factors. Similarly, health index scores correlated well with infection doses, with lower doses leading to higher scores. As a result, the infection dose of 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU and the incubation temperature of 37&#xB0;C were used in subsequent studies. In addition, the histopathological sections showed that <italic toggle="yes">Brucella</italic> was restricted to granuloma-like structures formed by haemocytes during non-lethal dose of infection, whereas bacteria were scattered throughout the course of the lethal dose of infection, indicating that larval death may be related to haemocyte depletion.</p>
+      <p>Next, since the <italic toggle="yes">G. mellonella</italic> larval model has been reported for the virulence evaluation of bacteria and fungi [<xref rid="cit0024" ref-type="bibr">24</xref>,<xref rid="cit0026" ref-type="bibr">26</xref>,<xref rid="cit0027" ref-type="bibr">27</xref>,<xref rid="cit0044" ref-type="bibr">44</xref>,<xref rid="cit0045" ref-type="bibr">45</xref>], we compared the virulence differences between live bacteria and heat-inactivated bacteria. Live strain 104M and live strain A19 both killed the larvae completely at an inoculation dose of 1.25&#x2009;&#xD7;&#x2009;10<sup>8</sup> CFU, indicating that there was probably little difference in virulence between these two <italic toggle="yes">Brucella</italic> strains in the <italic toggle="yes">G. mellonella</italic> model. Meanwhile, the killing activity could be annulled by heat inactivation, which agreed with the results of Dijokaite et al. [<xref rid="cit0030" ref-type="bibr">30</xref>], implying that inactivated bacterial lysate and endotoxin did not play a significant role in larval survival. Strain A19 and strain A19&#x394;<italic toggle="yes">VirB12</italic> showed equal pathogenicity in the larval model, which is in keeping with an earlier report in the mouse model [<xref rid="cit0033" ref-type="bibr">33</xref>]. Importantly, the survival rate of larvae inoculated with the 104M&#x394;<italic toggle="yes">Omp19</italic> deletion mutant was greatly increased at the same infection dose, proving that Omp19 is indeed a key virulence factor of strain 104M. In addition, strain S2 was less virulent in the larval model than strain A19, which is consistent with the results of previous studies [<xref rid="cit0037" ref-type="bibr">37</xref>,<xref rid="cit0039" ref-type="bibr">39</xref>]. Together, the <italic toggle="yes">G. mellonella</italic> model could detect virulence differences of <italic toggle="yes">Brucella</italic> strains, and a good correlation has been established between the <italic toggle="yes">G. mellonella</italic> model and the murine model. Therefore, the larval model might be a good substitute for the early evaluation of potential virulence genes when using a mammalian model, which might not be morally or practically appropriate. While preparing this article, a study was published by Aitor et al., which focused on utilizing the larval model to screen for potential <italic toggle="yes">Brucella</italic> factors modulating innate immunity and yielded similar findings to our own [<xref rid="cit0046" ref-type="bibr">46</xref>].</p>
+      <p>After successfully established the larval model of <italic toggle="yes">Brucella</italic> infection and virulence evaluation, we determined the possibility of using this model to assess the efficacy of immune sera. As expected, the serum components did not affect the survival of <italic toggle="yes">G. mellonella</italic>, which is the prerequisite to the <italic toggle="yes">G. mellonella</italic> model for evaluation of immune serum efficacy. Then, the protective efficacy of 104M immune sera was determined. Unsurprisingly, 104M sera provided good protection against a <italic toggle="yes">Brucella</italic> lethal challenge when incubated with bacteria in advance, while PBS sera showed no effect on preventing <italic toggle="yes">Brucella</italic> induced larval death. This protective effect depends on both the concentration of immune sera and the co-incubation time of the bacteria and immune sera. These data highlight the potential of the <italic toggle="yes">G. mellonella</italic> larvae model for the evaluation of immune serum efficacy. Notably, the differences in the survival rates and health index scores between the 104M sera and PBS sera were quite clear by day 1. Accordingly, the survival rates and health index scores on day 1 could be used as predictors of the overall protective effect without monitoring the larvae for 5&#x2009;days, which greatly shortens the experimental cycle.</p>
+      <p>To explore the mechanisms underlying the protective efficacy of 104M sera in the <italic toggle="yes">G. mellonella</italic> model, histopathological differences between the 104M sera and PBS sera pre-treated groups were analysed. Strain A19 caused severe disseminated infection and tissue destruction in the PBS sera pre-treated group, whereas in the 104M sera pre-treated group, bacteria were confined to the granulomatous structures formed by haemocytes, thus preventing disseminated infection.</p>
+      <p>We then depleted larval haemocytes to verify whether they cooperated with 104M sera. As expected, the protective effect of 104M sera decreased but did not completely disappear, indicating that multiple mechanisms may be involved in the protective effect of 104M immune sera. Additionally, we heat-inactivated the serum complement to determine whether it caused a difference in the serum protective efficacy. As the outcome demonstrates, complement is not important for understanding how 104M sera protects. Omp19 plays a significant role in bacterial adhesion, invasion, colonization, and intracellular survival; thus, it is considered a leading target for <italic toggle="yes">Brucella</italic> vaccines. To verify whether the protective efficacy of strain 104M decreases after deletion of Omp19, groups of larvae were primed with a non-lethal dose of <italic toggle="yes">Brucella</italic> strain 104M and strain 104M&#x394;<italic toggle="yes">Omp19</italic>, followed by a lethal dose of strain A19 challenge. Indeed, priming with strain 104M or 104M&#x394;<italic toggle="yes">Omp19</italic> could protect larvae from the lethal challenge, with strain 104M outcompeting strain 104M&#x394;<italic toggle="yes">Omp19</italic>, as reflected in the daily survival rate and health index scores of different groups. In line with our expectations, the protective effect of pre-immunization with a non-lethal dose of live vaccine was superior to that of the corresponding inactivated vaccine, demonstrating the reliability of the model.</p>
+      <p>Finally, we compared the consistency between the larval and mouse models. A prophylactic study was performed in the mouse model, and the protective efficacy of strain 104M, 104M&#x394;<italic toggle="yes">Omp19</italic> and PBS control were determined. As predicted, strain 104M&#x394;<italic toggle="yes">Omp19</italic> showed a much lower protective efficacy than strain 104M, reflecting the difference in bacterial load. Subsequently, the protective efficacy of 104M sera, 104M&#x394;<italic toggle="yes">Omp19</italic> sera, and PBS sera from the mouse study was determined using the larval model. Similarly, 104M&#x394;<italic toggle="yes">Omp19</italic> sera showed much lower protective efficacy than 104M sera, following the same pattern as the mouse model. Further analysis of the histopathological changes also showed that strain 104M provided better protection than strain 104M&#x394;<italic toggle="yes">Omp19</italic> in the mouse and <italic toggle="yes">G. mellonella</italic> models. Combined, these data highlight the correlation between the larval model and the mouse model, implying the potential of the larval model in immune sera evaluation.</p>
+      <p>In conclusion, in the present study, we characterized a <italic toggle="yes">G. mellonella</italic> larval model for <italic toggle="yes">Brucella</italic> infection and virulence evaluation. Moreover, we report for the first time a <italic toggle="yes">G. mellonella</italic> larval model for potential evaluation of the protective efficacy of immune sera, which shortens the evaluation cycle to 1 day and therefore greatly accelerates the evaluation process. Future research will concentrate on the cellular, proteomic, and metabolomic responses to <italic toggle="yes">Brucella</italic> infection in the <italic toggle="yes">G. mellonella</italic> larval model. We anticipate that the <italic toggle="yes">G. mellonella</italic> infection and immune model will lessen our reliance on mammalian infection models, while enabling us to gain a better understanding of <italic toggle="yes">Brucella</italic> virulence factors, bacteria-host interactions, and vaccine development.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material id="SM6389" position="float" content-type="local-data">
+        <caption>
+          <title>Supplemental Material</title>
+        </caption>
+        <media xlink:href="KVIR_A_2268496_SM6389.zip">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Dr. Shanhu Li and Dr. Chenfeng Mao of Beijing Institute of Biotechnology for their helpful discussions on topics related to this work. We would also like to thank Dr. Wei Fan for valuable suggestions on animal studies.</p>
+    </ack>
+    <sec sec-type="COI-statement" disp-level="1" id="s0005">
+      <title>Disclosure statement</title>
+      <p>No potential conflict of interest was reported by the author(s).</p>
+    </sec>
+    <sec sec-type="data-availability" disp-level="1" id="s0006">
+      <title>Data Availability statement</title>
+      <p>The authors confirm that the data supporting the findings of this study are available within the article.</p>
+    </sec>
+    <sec disp-level="1" id="s0007">
+      <title>Ethics approval</title>
+      <p>The animal studies and procedures were approved by the Animal Care and Use Committee of Beijing Institute of Biotechnology under project license number IACUC-SWGCYJS-2022-004. The animal procedures followed the guidelines of the Administration of Affairs Concerning Experimental Animals.</p>
+    </sec>
+    <sec sec-type="supplementary-material" disp-level="1" id="s0008">
+      <title>Supplementary material</title>
+      <p>Supplemental data for this article can be accessed online at <ext-link xlink:href="https://doi.org/10.1080/21505594.2023.2268496" ext-link-type="uri">https://doi.org/10.1080/21505594.2023.2268496</ext-link></p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="cit0001">
+        <label>[1]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pappas</surname>
+<given-names>G</given-names></string-name>, et al</person-group>. <article-title>Brucellosis</article-title>. <source>N Engl J Med</source>. <year>2005</year>;<volume>352</volume>(<issue>22</issue>):<fpage>2325</fpage>&#x2013;<lpage>16</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMra050570</pub-id><pub-id pub-id-type="pmid">15930423</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0002">
+        <label>[2]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dean</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Crump</surname>
+<given-names>L</given-names></string-name>
+<string-name><surname>Greter</surname>
+<given-names>H</given-names></string-name>, et al</person-group>., <article-title>Global burden of human brucellosis: a systematic review of disease frequency</article-title>. <source>PLoS Negl Trop Dis</source>. <year>2012</year>;<volume>6</volume>(<issue>10</issue>): <fpage>e1865</fpage>.<pub-id pub-id-type="pmid">23145195</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0003">
+        <label>[3]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Franco</surname>
+<given-names>MP</given-names></string-name>, <string-name><surname>Mulder</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Gilman</surname>
+<given-names>RH</given-names></string-name>, et al</person-group>. <article-title>Human brucellosis</article-title>. <source>Lancet Infect Dis</source>. <year>2007</year>;<volume>7</volume>(<issue>12</issue>):<fpage>775</fpage>&#x2013;<lpage>786</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id><pub-id pub-id-type="pmid">18045560</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0004">
+        <label>[4]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Boschiroli</surname>
+<given-names>ML</given-names></string-name>, <string-name><surname>Foulongne</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>O&#x2019;Callaghan</surname>
+<given-names>D.</given-names></string-name></person-group>
+<article-title>Brucellosis: a worldwide zoonosis</article-title>. <source>Curr Opin Microbiol</source>. <year>2001</year>;<volume>4</volume>(<issue>1</issue>):<fpage>58</fpage>&#x2013;<lpage>64</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1369-5274(00)00165-X</pub-id><pub-id pub-id-type="pmid">11173035</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0005">
+        <label>[5]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pappas</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Papadimitriou</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Akritidis</surname>
+<given-names>N</given-names></string-name>, et al</person-group>. <article-title>The new global map of human brucellosis</article-title>. <source>Lancet Infect Dis</source>. <year>2006</year>;<volume>6</volume>(<issue>2</issue>):<fpage>91</fpage>&#x2013;<lpage>99</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id><pub-id pub-id-type="pmid">16439329</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0006">
+        <label>[6]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lalsiamthara</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>JH</given-names></string-name></person-group>. <article-title>Development and trial of vaccines against Brucella</article-title>. <source>J Vet Sci</source>. <year>2017</year>;<volume>18</volume>(<issue>S1</issue>):<fpage>281</fpage>&#x2013;<lpage>290</lpage>. doi: <pub-id pub-id-type="doi">10.4142/jvs.2017.18.S1.281</pub-id><pub-id pub-id-type="pmid">28859268</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0007">
+        <label>[7]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cheng</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Li</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Yin</surname>
+<given-names>Y</given-names></string-name>, et al</person-group>. <article-title>Characteristics of Brucella abortus vaccine strain A19 reveals its potential mechanism of attenuated virulence</article-title>. <source>Vet Microbiol</source>. <year>2021</year>;<volume>254</volume>:<fpage>109007</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vetmic.2021.109007</pub-id><pub-id pub-id-type="pmid">33582483</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0008">
+        <label>[8]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dorneles</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Sriranganathan</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Lage</surname>
+<given-names>AP</given-names></string-name></person-group>. <article-title>Recent advances in Brucella abortus vaccines</article-title>. <source>Vet Res</source>. <year>2015</year>;<volume>46</volume>(<issue>1</issue>):<fpage>76</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id><pub-id pub-id-type="pmid">26155935</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0009">
+        <label>[9]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Heidary</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Dashtbin</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Ghanavati</surname>
+<given-names>R</given-names></string-name>, et al</person-group>. <article-title>Evaluation of brucellosis vaccines: a comprehensive review</article-title>. <source>Front Vet Sci</source>. <year>2022</year>;<volume>9</volume>:<fpage>925773</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fvets.2022.925773</pub-id><pub-id pub-id-type="pmid">35923818</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0010">
+        <label>[10]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hou</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Peng</surname>
+<given-names>Q</given-names></string-name></person-group>. <article-title>The advances in brucellosis vaccines</article-title>. <source>Vaccine</source>. <year>2019</year>;<volume>37</volume>(<issue>30</issue>):<fpage>3981</fpage>&#x2013;<lpage>3988</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2019.05.084</pub-id><pub-id pub-id-type="pmid">31176541</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0011">
+        <label>[11]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Skyberg</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Cao</surname>
+<given-names>L</given-names></string-name>, et al</person-group>. <article-title>Progress in Brucella vaccine development</article-title>. <source>Front Biol (Beijing)</source>. <year>2013</year>;<volume>8</volume>(<issue>1</issue>):<fpage>60</fpage>&#x2013;<lpage>77</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11515-012-1196-0</pub-id><pub-id pub-id-type="pmid">23730309</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0012">
+        <label>[12]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Schurig</surname>
+<given-names>GG</given-names></string-name>, <string-name><surname>Sriranganathan</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Corbel</surname>
+<given-names>MJ</given-names></string-name></person-group>. <article-title>Brucellosis vaccines: past, present and future</article-title>. <source>Vet Microbiol</source>. <year>2002</year>;<volume>90</volume>(<issue>1&#x2013;4</issue>):<fpage>479</fpage>&#x2013;<lpage>496</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00255-9</pub-id><pub-id pub-id-type="pmid">12414166</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0013">
+        <label>[13]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yu</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Hui</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Zai</surname>
+<given-names>X</given-names></string-name>, et al</person-group>. <article-title>Comparative genomic analysis of Brucella abortus vaccine strain 104M reveals a set of candidate genes associated with its virulence attenuation</article-title>. <source>Virulence</source>. <year>2015</year>;<volume>6</volume>(<issue>8</issue>):<fpage>745</fpage>&#x2013;<lpage>754</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2015.1038015</pub-id><pub-id pub-id-type="pmid">26039674</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0014">
+        <label>[14]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Arenas-Gamboa</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Ficht</surname>
+<given-names>TA</given-names></string-name>, <string-name><surname>Kahl-McDonagh</surname>
+<given-names>MM</given-names></string-name>, et al</person-group>. <article-title>The Brucella abortus S19 DeltavjbR live vaccine candidate is safer than S19 and confers protection against wild-type challenge in BALB/c mice when delivered in a sustained-release vehicle</article-title>. <source>Infect Immun</source>. <year>2009</year>;<volume>77</volume>(<issue>2</issue>):<fpage>877</fpage>&#x2013;<lpage>884</lpage>. doi: <pub-id pub-id-type="doi">10.1128/IAI.01017-08</pub-id><pub-id pub-id-type="pmid">19047401</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0015">
+        <label>[15]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Spink</surname>
+<given-names>WW</given-names></string-name>, <string-name><surname>HALL</surname>
+<given-names>JW</given-names></string-name>, <string-name><surname>FINSTAD</surname>
+<given-names>J</given-names></string-name>, et al</person-group>. <article-title>Immunization with viable Brucella organisms. Results of a safety test in humans</article-title>. <source>Bull World Health Organ</source>. <year>1962</year>;<volume>26</volume>(<issue>3</issue>):<fpage>409</fpage>&#x2013;<lpage>419</lpage>.<pub-id pub-id-type="pmid">13915813</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0016">
+        <label>[16]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ashford</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>di Pietra</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Lingappa</surname>
+<given-names>J</given-names></string-name>, et al</person-group>. <article-title>Adverse events in humans associated with accidental exposure to the livestock brucellosis vaccine RB51</article-title>. <source>Vaccine</source>. <year>2004</year>;<volume>22</volume>(<issue>25&#x2013;26</issue>):<fpage>3435</fpage>&#x2013;<lpage>3439</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2004.02.041</pub-id><pub-id pub-id-type="pmid">15308369</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0017">
+        <label>[17]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>L&#xF3;pez-Go&#xF1;i</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Garc&#xED;a-Yoldi</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Mar&#xED;n</surname>
+<given-names>CM</given-names></string-name>, et al</person-group>. <article-title>Evaluation of a multiplex PCR assay (Bruce-ladder) for molecular typing of all Brucella species, including the vaccine strains</article-title>. <source>J Clin Microbiol</source>. <year>2008</year>;<volume>46</volume>(<issue>10</issue>):<fpage>3484</fpage>&#x2013;<lpage>3487</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JCM.00837-08</pub-id><pub-id pub-id-type="pmid">18716225</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0018">
+        <label>[18]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bardenstein</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Mandelboim</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ficht</surname>
+<given-names>TA</given-names></string-name>, et al</person-group>. <article-title>Identification of the Brucella melitensis vaccine strain Rev.1 in animals and humans in Israel by PCR analysis of the PstI site polymorphism of its omp2 gene</article-title>. <source>J Clin Microbiol</source>. <year>2002</year>;<volume>40</volume>(<issue>4</issue>):<fpage>1475</fpage>&#x2013;<lpage>1480</lpage>C. doi: <pub-id pub-id-type="doi">10.1128/JCM.40.2.1475-1480.2002</pub-id><pub-id pub-id-type="pmid">11923376</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0019">
+        <label>[19]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Blasco</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>D&#xED;az</surname>
+<given-names>R</given-names></string-name></person-group>. <article-title>Brucella melitensis Rev-1 vaccine as a cause of human brucellosis</article-title>. <source>Lancet</source>. <year>1993</year>;<volume>342</volume>(<issue>8874</issue>):<fpage>805</fpage>. doi: <pub-id pub-id-type="doi">10.1016/0140-6736(93)91571-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0020">
+        <label>[20]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Xin</surname>
+<given-names>X</given-names></string-name></person-group>. <article-title>Orally administrable brucellosis vaccine: Brucella suis strain 2 vaccine</article-title>. <source>Vaccine</source>. <year>1986</year>;<volume>4</volume>(<issue>4</issue>):<fpage>212</fpage>&#x2013;<lpage>216</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0264-410X(86)90131-3</pub-id><pub-id pub-id-type="pmid">3541425</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0021">
+        <label>[21]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mustafa</surname>
+<given-names>AA</given-names></string-name>, <string-name><surname>Abusowa</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>Field-oriented trial of the Chinese Brucella suis strain 2 vaccine on sheep and goats in Libya</article-title>. <source>Vet Res</source>. <year>1993</year>;<volume>24</volume>(<issue>5</issue>):<fpage>422</fpage>&#x2013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">8260964</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0022">
+        <label>[22]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Silva</surname>
+<given-names>TM</given-names></string-name>, <string-name><surname>Costa</surname>
+<given-names>EA</given-names></string-name>, <string-name><surname>Paix&#xE3;o</surname>
+<given-names>TA</given-names></string-name>, et al</person-group>. <article-title>Laboratory animal models for brucellosis research</article-title>. <source>J Biomed Biotechnol</source>. <year>2011</year>;<volume>2011</volume>:<fpage>518323</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2011/518323</pub-id><pub-id pub-id-type="pmid">21403904</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0023">
+        <label>[23]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Grill&#xF3;</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Blasco</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Gorvel</surname>
+<given-names>JP</given-names></string-name>, et al</person-group>. <article-title><italic toggle="yes">What have we learned from brucellosis in the mouse model?</italic> Vet Res</article-title>. <source>Vet Res</source>. <year>2012</year>;<volume>43</volume>(<issue>1</issue>):<fpage>29</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1297-9716-43-29</pub-id><pub-id pub-id-type="pmid">22500859</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0024">
+        <label>[24]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tsai</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Loh</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Proft</surname>
+<given-names>T</given-names></string-name></person-group>. <article-title>Galleria mellonella infection models for the study of bacterial diseases and for antimicrobial drug testing</article-title>. <source>Virulence</source>. <year>2016</year>;<volume>7</volume>(<issue>3</issue>):<fpage>214</fpage>&#x2013;<lpage>229</lpage>C. doi: <pub-id pub-id-type="doi">10.1080/21505594.2015.1135289</pub-id><pub-id pub-id-type="pmid">26730990</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0025">
+        <label>[25]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sheehan</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Garvey</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Croke</surname>
+<given-names>M</given-names></string-name>, et al</person-group>. <article-title>Innate humoral immune defences in mammals and insects: the same, with differences ?</article-title>
+<source>Virulence</source>. <year>2018</year>;<volume>9</volume>(<issue>1</issue>):<fpage>1625</fpage>&#x2013;<lpage>1639</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2018.1526531</pub-id><pub-id pub-id-type="pmid">30257608</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0026">
+        <label>[26]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cutuli</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Petronio Petronio</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Vergalito</surname>
+<given-names>F</given-names></string-name>, et al</person-group>. <article-title>Galleria mellonella as a consolidated in vivo model hosts: new developments in antibacterial strategies and novel drug testing</article-title>. <source>Virulence</source>. <year>2019</year>;<volume>10</volume>(<issue>1</issue>):<fpage>527</fpage>&#x2013;<lpage>541</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2019.1621649</pub-id><pub-id pub-id-type="pmid">31142220</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0027">
+        <label>[27]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Champion</surname>
+<given-names>OL</given-names></string-name>, <string-name><surname>Wagley</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Titball</surname>
+<given-names>RW</given-names></string-name></person-group>. <article-title>Galleria mellonella as a model host for microbiological and toxin research</article-title>. <source>Virulence</source>. <year>2016</year>;<volume>7</volume>(<issue>7</issue>):<fpage>840</fpage>&#x2013;<lpage>845</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2016.1203486</pub-id><pub-id pub-id-type="pmid">27362761</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0028">
+        <label>[28]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Desbois</surname>
+<given-names>AP</given-names></string-name>, <string-name><surname>Coote</surname>
+<given-names>PJ</given-names></string-name></person-group>. <article-title>Utility of greater wax moth larva (Galleria mellonella) for evaluating the toxicity and efficacy of New antimicrobial agents</article-title>. <source>Adv Appl Microbiol</source>. <year>2012</year>;<volume>78</volume>:<fpage>25</fpage>&#x2013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">22305092</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0029">
+        <label>[29]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tsai</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Loh</surname>
+<given-names>JMS</given-names></string-name>, <string-name><surname>Proft</surname>
+<given-names>T</given-names></string-name></person-group>. <article-title>The use of Galleria mellonella (wax moth) as an infection model for group a streptococcus</article-title>. <source>Methods Mol Biol</source>. <year>2020</year>;<volume>2136</volume>:<fpage>279</fpage>&#x2013;<lpage>286</lpage>.<pub-id pub-id-type="pmid">32430829</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0030">
+        <label>[30]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dijokaite</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Humbert</surname>
+<given-names>MV</given-names></string-name>, <string-name><surname>Borkowski</surname>
+<given-names>E</given-names></string-name>, et al</person-group>. <article-title>Establishing an invertebrate Galleria mellonella greater wax moth larval model of Neisseria gonorrhoeae infection</article-title>. <source>Virulence</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1900</fpage>&#x2013;<lpage>1920</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2021.1950269</pub-id><pub-id pub-id-type="pmid">34304706</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0031">
+        <label>[31]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yang</surname>
+<given-names>Q</given-names></string-name>, <string-name><surname>Zai</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Yin</surname>
+<given-names>Y</given-names></string-name>, et al</person-group>. <article-title>Construction and immunoprotective evaluation of Brucella 104M: Omp19 overexpression mutant strain</article-title>. <source>Lett Biotechnol</source>. <year>2018</year>;<volume>29</volume>(<issue>1</issue>):<fpage>6</fpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0032">
+        <label>[32]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kwon</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Smith</surname>
+<given-names>RC</given-names></string-name></person-group>. <article-title>Chemical depletion of phagocytic immune cells in Anopheles gambiae reveals dual roles of mosquito hemocytes in anti-Plasmodium immunity</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2019</year>
+<date-in-citation><month>Jul</month>
+<day>9</day></date-in-citation>;<volume>116</volume>(<issue>28</issue>):<fpage>14119</fpage>&#x2013;<lpage>14128</lpage>.<pub-id pub-id-type="pmid">31235594</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0033">
+        <label>[33]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yang</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>He</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>H</given-names></string-name></person-group> et al. <article-title>Evaluation and differential diagnosis of a genetic marked Brucella vaccine A19&#x394;virB12 for cattle</article-title>. <source>Front Immunol</source>. <year>2021</year>;<volume>12</volume>:<fpage>679560</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.679560</pub-id><pub-id pub-id-type="pmid">34163479</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0034">
+        <label>[34]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zai</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Yin</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Guo</surname>
+<given-names>F</given-names></string-name>, et al</person-group>. <article-title>Screening of potential vaccine candidates against pathogenic Brucella spp. using compositive reverse vaccinology</article-title>. <source>Vet Res</source>. <year>2021</year>;<volume>52</volume>(<issue>1</issue>):<fpage>75</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13567-021-00939-5</pub-id><pub-id pub-id-type="pmid">34078437</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0035">
+        <label>[35]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pasquevich</surname>
+<given-names>KA</given-names></string-name>, <string-name><surname>Carabajal</surname>
+<given-names>MV</given-names></string-name>, <string-name><surname>Guaimas</surname>
+<given-names>FF</given-names></string-name>, et al</person-group>. <article-title>Omp19 enables Brucella abortus to evade the antimicrobial activity from host&#x2019;s proteolytic defense System</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1436</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2019.01436</pub-id><pub-id pub-id-type="pmid">31297115</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0036">
+        <label>[36]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Uslu</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Erganis</surname>
+<given-names>O</given-names></string-name></person-group>. <article-title>Development of Brucella melitensis Rev.1 &#x394;Omp19 mutants with DIVA feature and comparison of their efficacy against three commercial vaccines in a mouse model</article-title>. <source>Mol Immunol</source>. <year>2021</year>;<volume>133</volume>:<fpage>44</fpage>&#x2013;<lpage>52</lpage>C. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2021.02.006</pub-id><pub-id pub-id-type="pmid">33631554</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0037">
+        <label>[37]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Li</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Li</surname>
+<given-names>B</given-names></string-name>, et al</person-group>. <article-title>Bioluminescence imaging of colonization and clearance dynamics of Brucella suis vaccine strain S2 in mice and Guinea pigs</article-title>. <source>Mol Imaging Biol</source>. <year>2016</year>;<volume>18</volume>(<issue>4</issue>):<fpage>519</fpage>&#x2013;<lpage>526</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s11307-015-0925-6</pub-id><pub-id pub-id-type="pmid">26846129</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0038">
+        <label>[38]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bosseray</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Plommet</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>Brucella suis S2, Brucella melitensis Rev. 1 and Brucella abortus S19 living vaccines: residual virulence and immunity induced against three Brucella species challenge strains in mice</article-title>. <source>Vaccine</source>. <year>1990</year>;<volume>8</volume>(<issue>5</issue>):<fpage>462</fpage>&#x2013;<lpage>468</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0264-410X(90)90247-J</pub-id><pub-id pub-id-type="pmid">2123586</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0039">
+        <label>[39]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zhu</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>G</given-names></string-name>, et al</person-group>. <article-title>Brucella suis strain 2 vaccine is safe and protective against heterologous Brucella spp. infections</article-title>. <source>Vaccine</source>. <year>2016</year>;<volume>34</volume>(<issue>3</issue>):<fpage>395</fpage>&#x2013;<lpage>400</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.09.116</pub-id><pub-id pub-id-type="pmid">26626213</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0040">
+        <label>[40]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Antoran</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Aparicio-Fernandez</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Pellon</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>The monoclonal antibody Ca37, developed against Candida albicans alcohol dehydrogenase, inhibits the yeast in vitro and in vivo</article-title>. <source>Sci Rep</source>. <year>2020</year>;<volume>10</volume>(<issue>1</issue>):<fpage>9206</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-020-65859-4</pub-id><pub-id pub-id-type="pmid">32514067</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0041">
+        <label>[41]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fregonezi</surname>
+<given-names>NF</given-names></string-name>, <string-name><surname>Oliveira</surname>
+<given-names>LT</given-names></string-name>, <string-name><surname>Singulani</surname>
+<given-names>JD</given-names></string-name>, et al</person-group>. <article-title>Heat shock protein 60, insights to its importance in Histoplasma capsulatum: from biofilm formation to host-interaction</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2020</year>;<volume>10</volume>:<fpage>591950</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2020.591950</pub-id><pub-id pub-id-type="pmid">33553002</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0042">
+        <label>[42]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wei</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Yang</surname>
+<given-names>WH</given-names></string-name>, <string-name><surname>Hou</surname>
+<given-names>XX</given-names></string-name>, et al</person-group>. <article-title>Immunization efficacy and safety of Brucella 104M against aerosol challenge in BALB/c mice</article-title>. <source>Zhonghua Liu Xing Bing Xue Za Zhi</source>. <year>2020</year>;<volume>41</volume>(<issue>7</issue>):<fpage>1103</fpage>&#x2013;<lpage>1109</lpage>. doi: <pub-id pub-id-type="doi">10.3760/cma.j.cn112338-20190911-00665</pub-id><pub-id pub-id-type="pmid">32741179</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0043">
+        <label>[43]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sprynski</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Valade</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Neulat-Ripoll</surname>
+<given-names>F</given-names></string-name></person-group>. <article-title>Galleria mellonella as an infection model for select agents</article-title>. <source>Methods Mol Biol</source>. <year>2014</year>;<volume>1197</volume>:<fpage>3</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25172272</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0044">
+        <label>[44]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Torres</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Pinz&#xF3;n</surname>
+<given-names>EN</given-names></string-name>, <string-name><surname>Rey</surname>
+<given-names>FM</given-names></string-name>, et al</person-group>. <article-title>Galleria mellonella as a novelty in vivo model of host-pathogen interaction for malassezia furfur CBS 1878 and malassezia pachydermatis CBS 1879</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2020</year>;<volume>10</volume>:<fpage>199</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2020.00199</pub-id><pub-id pub-id-type="pmid">32432057</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0045">
+        <label>[45]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hernando-Ortiz</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Mateo</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Perez-Rodriguez</surname>
+<given-names>A</given-names></string-name>, et al</person-group>. <article-title>Virulence of candida auris from different clinical origins in Caenorhabditis elegans and Galleria mellonella host models</article-title>. <source>Virulence</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1063</fpage>&#x2013;<lpage>1075</lpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2021.1908765</pub-id><pub-id pub-id-type="pmid">33843456</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0046">
+        <label>[46]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Elizalde-Bielsa</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Arag&#xF3;n-Aranda</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Loperena-Barber</surname>
+<given-names>M</given-names></string-name>, et al</person-group>. <article-title>Development and evaluation of the Galleria mellonella (greater wax moth) infection model to study Brucella host-pathogen interaction</article-title>. <source>Microb Pathog</source>. <year>2023</year>;<volume>174</volume>:<fpage>105930</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.micpath.2022.105930</pub-id><pub-id pub-id-type="pmid">36496059</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

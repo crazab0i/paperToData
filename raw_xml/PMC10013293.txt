@@ -1,0 +1,2469 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Vet Res</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Vet Res</journal-id>
+      <journal-title-group>
+        <journal-title>Veterinary Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0928-4249</issn>
+      <issn pub-type="epub">1297-9716</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36918910</article-id>
+      <article-id pub-id-type="pmc">10013293</article-id>
+      <article-id pub-id-type="publisher-id">1147</article-id>
+      <article-id pub-id-type="doi">10.1186/s13567-023-01147-z</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Clearance of bacteria from lymph nodes in sheep immunized with <italic>Brucella suis</italic> S2 vaccine is associated with M1 macrophage activation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Si</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yuanyuan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jiao</surname>
+            <given-names>Zizhuo</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Chengqiang</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Dantong</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Yongbin</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Wenguang</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Shihua</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yang</surname>
+            <given-names>Bin</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhao</surname>
+            <given-names>Qinan</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fu</surname>
+            <given-names>Shaoyin</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>He</surname>
+            <given-names>Xiaolong</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Qiaoling</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Man</surname>
+            <given-names>Churiga</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Guoying</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wei</surname>
+            <given-names>Xuefeng</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Du</surname>
+            <given-names>Li</given-names>
+          </name>
+          <address>
+            <email>Kych2008dl@163.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-2043-2703</contrib-id>
+          <name>
+            <surname>Wang</surname>
+            <given-names>Fengyang</given-names>
+          </name>
+          <address>
+            <email>fywang68@163.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.428986.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 0373 6302</institution-id><institution>Hainan Key Lab of Tropical Animal Reproduction, Breeding and Epidemic Disease Research, Animal Genetic Engineering Key Lab of Haikou, School of Animal Science and Technology, </institution><institution>Hainan University, </institution></institution-wrap>Haikou, Hainan China </aff>
+        <aff id="Aff2"><label>2</label>Jinyu Baoling Bio-Pharmaceutical Co., Ltd., Hohhot, Inner Mongolia China </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.411643.5</institution-id><institution-id institution-id-type="ISNI">0000 0004 1761 0411</institution-id><institution>Inner Mongolia University, </institution></institution-wrap>College Road No. 235, Hohhot, Inner Mongolia China </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.411638.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 1756 9607</institution-id><institution>College of Life Science, </institution><institution>Inner Mongolia Agricultural University, </institution></institution-wrap>Hohhot, Inner Mongolia China </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.496716.b</institution-id><institution-id institution-id-type="ISNI">0000 0004 1777 7895</institution-id><institution>Inner Mongolia Academy of Agriculture and Animal Husbandry Sciences, </institution></institution-wrap>Hohhot, Inner Mongolia China </aff>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="com">
+          <p>Handling editor: Marcelo Gottschalk</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>14</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <year>2023</year>
+      </pub-date>
+      <volume>54</volume>
+      <elocation-id>20</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>2</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Ovine brucellosis is a global zoonotic disease of sheep caused by <italic>Brucella melitensis</italic>, which inflicts a significant burden on human and animal health. <italic>Brucella suis</italic> strain S2 (B. suis S2) is a smooth live attenuated vaccine for the prevention of ovine brucellosis in China. However, no previous studies have assessed the immunogenicity of B. suis S2 vaccine after oral immunization in sheep. Here, we attempted to evaluate the ovine immune response over the course of B. suis S2 immunization and to identify in vivo predictors for vaccine development. Body temperature, serum <italic>Brucella</italic> antibodies, serum cytokines (IL-12p70 and interferon [IFN]-&#x3B3;), and bacterial load in the mandibular lymph nodes (LN), superficial cervical LN, superficial inguinal LN, and spleen were investigated to determine the safety and efficacy of the vaccine. The abnormal body temperature of sheep occurred within 8&#xA0;days post-infection (dpi). <italic>Brucella suis</italic> S2 persisted for a short time (&lt;&#x2009;21 dpi) in the mandibular LN. The highest level of IL-12p70 was observed at 9 dpi, whereas serum IFN-&#x3B3; levels peaked at 12 dpi. Transcriptome analysis and quantitative reverse transcription PCR were performed to determine gene expression profiles in the mandibular LN of sheep. Antigen processing and presentation pathway was the dominant pathway related to the dataset. Our studies suggest that the immune response in ovine LN resembled type 1 immunity with the secretion of IL-12p70 and IFN-&#x3B3; after B.suis S2 immunization and the vaccine may eliminate <italic>Brucella</italic> via stimulation of M1 macrophages through the course of Th cells.</p>
+        <sec>
+          <title>Supplementary Information</title>
+          <p>The online version contains supplementary material available at 10.1186/s13567-023-01147-z.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>
+          <italic>Brucella</italic>
+        </kwd>
+        <kwd>sheep</kwd>
+        <kwd>vaccine</kwd>
+        <kwd>lymphatic nodes</kwd>
+        <kwd>macrophages</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Academician Innovation Platform Project of Hainan Province</institution>
+          </funding-source>
+          <award-id>No. YSPTZX202013</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Fengyang</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Hainan Innovation Center for Academician of Jin Ningyi</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Hainan Innovation Center for Academician of Zhang Yong</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>MOF&amp; MOAR-CARS38</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Special Funding Projects for Local Science and Technology Development Guided by the Central Committee</institution>
+          </funding-source>
+          <award-id>ZY2022HN09</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Fengyang</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution> Natural Science Foundation of China</institution>
+          </funding-source>
+          <award-id>32160831</award-id>
+          <principal-award-recipient>
+            <name>
+              <surname>Du</surname>
+              <given-names>Li</given-names>
+            </name>
+          </principal-award-recipient>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p id="Par2">Brucellosis is a zoonotic disease with an annual global incidence rate of approximately half a million human cases [<xref ref-type="bibr" rid="CR1">1</xref>]. In China, <italic>Brucella melitensis</italic> is the primary etiological agent of human brucellosis and is transmitted to humans via exposure to infected sheep and goats or consumption of contaminated meat products. Therefore, eradicating infections in herds is crucial for preventing human contagion [<xref ref-type="bibr" rid="CR2">2</xref>]. Abortion and infertility are the predominant clinical signs in small ruminants. Preventive measures, including culling of infected animals and vaccination of healthy animals, have resulted in the effective control and eradication of brucellosis. Currently, the reported vaccines against <italic>Brucella</italic> in sheep and goats include live-attenuated vaccines [<xref ref-type="bibr" rid="CR3">3</xref>], genetically engineered attenuated vaccines [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>], vector-delivered <italic>Brucella</italic> vaccines [<xref ref-type="bibr" rid="CR6">6</xref>&#x2013;<xref ref-type="bibr" rid="CR8">8</xref>], subunit vaccines [<xref ref-type="bibr" rid="CR9">9</xref>] and others [<xref ref-type="bibr" rid="CR10">10</xref>]. Despite several promising results, the efficacy and performance of these vaccines have not yet been systematically studied. The immunogenicity and principal characteristics of brucellosis need to be evaluated before its use in the herd.</p>
+      <p id="Par3">The current live-attenuated vaccines have various drawbacks, including interference with diagnostic tests, induction of abortions in pregnant sheep, persistent infection, virulence in humans and risk of virulence reversion [<xref ref-type="bibr" rid="CR11">11</xref>]. In China,&#xA0;the B. suis strain S2 vaccine is designed to prevent brucellosis in sheep and goats via the oral route in drinking water, which does not lead to abortion in pregnant females [<xref ref-type="bibr" rid="CR12">12</xref>]. <italic>Brucella suis</italic> S2 is a live attenuated vaccine that was first&#xA0;isolated from the fetus of aborted swine in 1952 and spontaneously attenuated [<xref ref-type="bibr" rid="CR13">13</xref>]. The advantages of the B. suis S2 vaccine are its low virulence, broad applicability, and convenient administration [<xref ref-type="bibr" rid="CR14">14</xref>]. Animal experiments have shown that it protects mice from a virulent challenge by <italic>B. melitensis</italic> M28, <italic>B. abortus</italic> 2308 and B. suis S1330, and the S2 vaccinated mice did&#xA0;not develop any clinical signs or tissue damage [<xref ref-type="bibr" rid="CR15">15</xref>]. A systematic analysis of laboratory brucellosis infection and vaccine infection events from 2006 to 2019 in China suggested that the S2 vaccine strain is virulent for humans because of the fatigue and sweat seen in infected individuals [<xref ref-type="bibr" rid="CR16">16</xref>]. We believe that further investigation of the S2 vaccine strain pathogenicity in humans is necessary. Presently, studies in sheep and goats have mainly focused on the mechanism of B. suis S2 immune escape at the cellular level, involving both&#xA0;phagocytic and non-phagocytic cells. Recent studies on goat alveolar macrophages have demonstrated that B. suis S2 manipulates host inflammatory responses by inhibiting TLR/NF-&#x3BA;B and attenuating NLRP3 inflammasome activation [<xref ref-type="bibr" rid="CR17">17</xref>]. In goat trophoblast cells, B. suis S2 induces apoptosis through endoplasmic reticulum stress, thereby hampering cell proliferation [<xref ref-type="bibr" rid="CR18">18</xref>]. In caprine endometrial epithelial cells, B.suis S2 induces non-apoptotic ER stress via the PERK pathway [<xref ref-type="bibr" rid="CR19">19</xref>]. To the best of our knowledge, no studies have assessed the immune defense mechanisms of oral vaccination with B. suis S2 in sheep. Lack of in vivo data has restricted understanding of the vaccine&#x2019;s pregnancy-sparing advantages. Thus, it is crucial to investigate the immunogenicity of the B. suis S2 vaccine and mechanisms of sheep immune defense in vivo.</p>
+      <p id="Par4">Several studies have reported that the immune defense mechanisms induced by B. suis S2 vaccine against <italic>Brucella</italic> include the innate immune signaling pathway, cell adhesion pathway, and adaptive immune signaling pathway. In RAW264.7 cells stimulated with B. suis S2, the most upregulated genes were related to the innate immune signaling pathway after 24&#xA0;h of infection, including cytokines (IL-1, IL-6, IL-23, and Cfs3) and chemokines (Ccl2, Ccl3, Ccl4, Ccl5, and Ccl10) [<xref ref-type="bibr" rid="CR20">20</xref>]. In <italic>cynomolgus</italic> monkeys immunized with the S2 vaccine, 663 differentially expressed genes (DEG) were involved in various biological processes, including the chemokine signaling pathway, defense response, immune system processing, and type-I interferon signaling pathway [<xref ref-type="bibr" rid="CR21">21</xref>]. In sheep, four significant pathways and nine candidate genes (<italic>CTNNA3</italic>, <italic>PARD3</italic>, <italic>PTPRM</italic>, <italic>NLGN1</italic>, <italic>CNTNAP2</italic>, <italic>NCAM1</italic>, <italic>PRKG1</italic>, <italic>ADCY2</italic> and <italic>YAP1</italic>) related to brucellosis susceptibility were identified by whole-genome resequencing [<xref ref-type="bibr" rid="CR22">22</xref>]. Our previous study identified three novel miRNA (novel_229, novel_609, and novel_973) in the lymph nodes of sheep immunized with B. suis S2, which participated in innate immunity, adaptive immunity, defense responses to bacteria, and the Notch signaling pathways [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+      <p id="Par5">Macrophages constitute the first line of defense in the innate immune response against invading <italic>Brucella</italic> [<xref ref-type="bibr" rid="CR24">24</xref>]. It has long been recognized that <italic>Brucella</italic> interaction with macrophages is a key aspect of immune escape. Macrophages can polarize into two distinct subsets: M1 and M2. M1 macrophages, also called classically activated macrophages, are polarized by lipopolysaccharide (LPS) and Th1 cytokines such as interferon (IFN)-&#x3B3; [<xref ref-type="bibr" rid="CR25">25</xref>]. Activated M1 macrophages produce pro-inflammatory cytokines that trigger an inflammatory response, phagocytosis, and cytotoxicity. Our in vitro study on mouse macrophages (RAW264.7 cells) demonstrated that TNF-&#x3B1; secretion, iNOS expression, and NO production are&#xA0;stimulated by <italic>B. melitensis</italic> M5-90 [<xref ref-type="bibr" rid="CR26">26</xref>]. Previous studies have indicated that genes involved in NF-kappa B signaling pathway were found to be significantly increased in B. suis S2 infected RAW264.7 cells at 48&#xA0;h post infection [<xref ref-type="bibr" rid="CR27">27</xref>]. B. suis S2 and its derivatives induce marked expression of IL-1&#x3B2;, IL-6, and TNF-&#x3B1; mRNA in RAW264.7 cells [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+      <p id="Par6">In this study, we examined the immunogenicity and protective capacity of the B. suis S2 vaccine in sheep to understand the immune mechanisms underlying brucellosis resistance. Our results suggest that the B. suis S2 vaccine is safe for sheep, and immunization with B. suis S2 results in an altered expression of various genes related to antigen processing and the presentation pathway of the host, with M1 macrophage expression identified as the dominant surrogate of protection. The role of M1 macrophages was first demonstrated in vivo in sheep immunized with the B. suis S2 vaccine.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Materials and methods</title>
+      <sec id="Sec3">
+        <title>Animals</title>
+        <p id="Par7">Small-tail Han female sheep, aged 10&#xA0;months, were purchased and transported to the Biosafety Level 3 (BSL-3) laboratory of Jinyu Baoling Bio-pharmaceutical Co., Ltd (Inner Mongolia, China) for experiment. Sheep were serologically tested using the Pourquier<sup>&#xAE;</sup> Rose Bengal Brucellosis Antigen (IDEXX, P00215, ME, USA) and AsurDx&#x2122; Brucella Multispecies Antibodies cELISA Test Kit (BIOSTONE, 10043-05, TX, USA), which were designed for the detection of antibodies specific to <italic>B. abortus</italic>, <italic>B. melitensis</italic> and B. suis in bovine, ovine, caprine or swine. All sheep were housed separately in the Biosafety Level 3 (BSL-3) laboratory with daily supplemental feeding and water ad libitum. Animals were randomly divided into three groups: the body temperature monitoring group (T group, <italic>n</italic>&#x2009;=&#x2009;6), the control group (C group, <italic>n</italic>&#x2009;=&#x2009;3) and the vaccinated group (inoculated with B. suis S2, <italic>n</italic>&#x2009;=&#x2009;23). At the indicated time points post infection, sheep in the vaccinated group were slaughtered humanely and sterilized by autoclaving. The tissues were collected for further experiments.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Oral immunization with B.&#xA0;suis&#xA0;S2&#xA0;vaccine</title>
+        <p id="Par8">The lyophilized B. suis S2 vaccine&#xA0;was purchased from Jinyu Baoling Bio-pharmaceutical Co., Ltd (Inner Mongolia, China). To examine its accuracy in counting live bacteria, the number of colony-forming units (CFU) were confirmed retrospectively by counts of distinct colonies of the tryptic soy agar (BD Biosciences, NJ, USA) at 37&#xA0;&#xB0;C for 3&#x2013;5&#xA0;days. In the control group, three sheep were inoculated with 1&#xA0;mL sterilized phosphate-buffered saline (PBS, pH 7.2). The remaining sheep in the T group and the vaccinated group were immunized with the lyophilized B. suis S2 vaccine (with an amount of 2&#x2009;&#xD7;&#x2009;10<sup>10</sup>&#xA0;CFU in 1&#xA0;mL sterilized PBS) via oral administration. The control group and vaccinated group were monitored at 0, 7, 14, 21, and 30&#xA0;days post-immunization (dpi) individually.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Body temperature monitoring and the rose bengal test assay</title>
+        <p id="Par9">The body temperature of six sheep in the T group were measured continuously and recorded each morning from 0 to 30 dpi. One-way ANOVA followed by Dunnett multiple comparisons test was performed using GraphPad Prism Software (v8.0.0, San Diego, California, USA). Ovine serum samples in the vaccinated group were collected prior to the first immunization and at 7, 14, 21, and 30 dpi. Serum samples were tested using the Pourquier<sup>&#xAE;</sup> Rose Bengal Brucellosis Antigen (IDEXX, P00215, ME, USA). In the rose bengal test (RBT) assay, 25&#xA0;&#xB5;L of each serum was dispensed on the plates. The same volume of Rose Bengal Brucellosis Antigen was added beside each sample. The serum and Rose Bengal Brucellosis Antigen were mixed to produce a circle 2&#xA0;cm in diameter. Any visible agglutination was interpreted as a positive test result.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Bacterial counting in host peripheral immune organs</title>
+        <p id="Par10">To evaluate bacterial counting in host peripheral immune organs, seven tissues of each sheep in the vaccinated group were collected at 7, 14, 21, and 30 dpi. At each time point, three sheep were selected. The collected tissues included right mandibular LN, left mandibular LN, right superficial cervical LN, left superficial cervical LN, right superficial inguinal LN, left superficial inguinal LN and spleen. The tissues were weighed, homogenized and serially diluted in sterile PBS. Dilutions were plated on the superior&#xA0;Farrell's medium&#xA0;(Oxoid, SR0083A, Basingstoke, UK) and incubated for 5&#xA0;days at 37&#xA0;&#xB0;C. Plates were monitored daily for growth, and <italic>Brucella</italic> was identified based on morphological characteristics and PCR. The live bacterial were enumerated as mean CFU/g&#x2009;&#xB1;&#x2009;SD.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Quantification of IL-12p70 and IFN-&#x3B3; in serum</title>
+        <p id="Par11">Three sheep in the vaccinated group were selected for serum cytokine detection. The serum concentrations of the pro-infammatory cytokines IL-12p70 and IFN-&#x3B3; were examined via enzyme-linked immunosorbent assay (ELISA) on 96-well microplates. IL-12p70 was tested using RayBio<sup>&#xAE;</sup> Ovine IL-12p70 ELISA Kit (RayBiotech, ELO-IL12P70, GA, USA). The quantification of IFN-&#x3B3; was tested using RayBio<sup>&#xAE;</sup> Ovine IFN-gamma ELISA Kit (RayBiotech, ELO-IFNg, GA, USA). In each well, 50&#xA0;&#xB5;L of serum was added to 50&#xA0;&#xB5;L of 1&#xD7;&#x2009;diluent solution to obtain a 1:1 dilution following the instructions from the manufacturer. The OD value was read at 450&#xA0;nm wavelength in a Multiskan<sup>&#xAE;</sup> FC reader (Thermo Scientific,&#xA0;Finland). Each serum was processed in triplicate. The results were analyzed using Sigma plot software (Version 14.0), with standard concentration on the x-axis (pg/mL) and absorbance on the y-axis.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>RNA sequencing</title>
+        <p id="Par12">The bilateral mandibular LN of sheep in the vaccinated group were selected for the transcriptome analysis at 7, 14, 21, and 30 dpi. At each time point, three sheep were selected. Three micrograms of total RNA per mandibular LN were used to construct the RNA libraries. Sequencing libraries were generated using NEBNext<sup>&#xAE;</sup> Multiplex Small RNA Library Prep Set for Illumina<sup>&#xAE;</sup> (New England Biolabs, Beverly, MA, USA), and index codes were added to attribute sequences to each sample. The library quality was assessed on the Agilent Bioanalyzer 2100 system. The Illumina HiSeq<sup>&#x2122;</sup>2500 was used for sequencing. The sequencing data were validated by a series of filtration steps. The valid data were mapped to the reference genome (GCA_000298735.1) using HISAT2 (Version 2.0.4) and they were used to assemble transcripts with the reference annotation by StringTie (Version 1.3.4d). Gene expression levels were normalized by fragments per kilobase of exon model per million mapped reads (FPKM). The FPKM calculation equation used was FPKM&#x2009;=&#x2009;cDNA fragments/Mapped Reads (Million)&#x2009;&#xD7;&#x2009;Transcript Length (kb).</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Functional analyses of differentially expressed genes</title>
+        <p id="Par13">The expression data for the 7 dpi, 14 dpi, 21 dpi, and 30 dpi groups were normalized to that of the C group. Differentially expressed genes (DEG)&#xA0;of two groups were analyzed using the DESeq R package (1.8.3). <italic>P</italic>-values were adjusted using the Benjamini-Hochberg method. A default corrected <italic>P</italic>-value of 0.05 and the |log<sub>2</sub> (Fold change) |&#x2009;&#x2265;&#x2009;1 were set as the threshold for significantly differential expressions. The Kyoto Encyclopedia of Genes and Genomes (KEGG) database and Gene Ontology (GO) databases were used for pathway annotation of the DEG.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Quantitative reverse transcription PCR validation</title>
+        <p id="Par14">The quantitative reverse transcription PCR (RT-qPCR) was used to verify the reliability of the RNA sequencing. Total RNA was transcribed into cDNA&#xA0;according to the manufacturer&#x2019;s protocol from the M-MLV G III Frist-Strand Synthesis Kit (EB15012, Yugong Biolabs, Lianyungang). The qPCR was performed using RealUniversal PreMix (FP201, TIANGEN, Beijing) on an ABI 7500 Real-Time PCR System (Applied Biosystems, Foster City, CA, USA). The reference gene was <italic>GAPDH</italic>. Relative transcriptional levels were determined by the 2<sup>&#x2212;&#x2206;&#x2206;Ct</sup> method [<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+      </sec>
+      <sec id="Sec11">
+        <title>Statistical analysis</title>
+        <p id="Par15">The data were analyzed using the Mann-Whitney test, two-way or one-way analysis of variance (ANOVA), and Tukey multiple-comparison test as appropriate. GraphPad Prism software (La Jolla, CA, USA) was used for the analyses.</p>
+      </sec>
+    </sec>
+    <sec id="Sec12">
+      <title>Results</title>
+      <sec id="Sec13">
+        <title>Body temperature changed from 2 to 8 dpi</title>
+        <p id="Par16">To evaluate the possible side effects of B. suis S2 vaccine, the body temperatures of six sheep in the T group were monitored continuously, starting from 1&#xA0;day before immunization until 30 dpi. The clinical manifestations of B. suis S2 vaccine varied significantly among individual sheep. Some sheep exhibited classical undulant fever, while others remained asymptomatic. Statistical analysis indicated significantly higher temperatures and temperature fluctuations in individuals at 6 dpi (<italic>P</italic> &lt; 0.001). From 2 to 8 dpi, B. suis S2 caused severe fluctuation in the body temperature of these sheep, ranging from 39.0 to 40.5&#xA0;&#xB0;C (Figure&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>). At 8 dpi, all sheep body temperatures returned to the normal range. No other serious adverse reactions, such as chills and malaise, were observed in the vaccinated groups.<fig id="Fig1"><label>Figure 1</label><caption><p><bold>The body temperature monitoring of six sheep in T group from 0 to 30 dpi.</bold> *<italic>P</italic>&#x2009;&lt;&#x2009;0.05, **<italic>P</italic>&#x2009;&lt;&#x2009;0.01 and ***<italic>P</italic>&#x2009;&lt;&#x2009;0.001.</p></caption><graphic xlink:href="13567_2023_1147_Fig1_HTML" id="MO1"/></fig></p>
+      </sec>
+      <sec id="Sec14">
+        <title><italic>Brucella</italic> antibodies in the serum persist up to at least 30 dpi</title>
+        <p id="Par17">For B. suis serological antibody detection, ovine sera were collected and tested using the rose bengal test (RBT) at 7, 14, 21 and 30 dpi (Table <xref rid="Tab1" ref-type="table">1</xref>). <italic>Brucella</italic> antibodies in the serum were detectable at 7 dpi. The <italic>Brucella</italic> seroprevalence measured&#xA0;by RBT, reached 100% at 21 dpi. At 30<sup>th</sup> dpi, five out of six sheep in the vaccinated groups remained positive for RBT. At 120&#xA0;days after vaccination, all vaccinated ewes tested negative in the RBT test.<table-wrap id="Tab1"><label>Table 1</label><caption><p><bold>The RBT assay results after vaccination.</bold></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Days post-immunization (dpi)</th><th align="left" colspan="2">RBP results</th><th align="left" rowspan="2">Positive rate (%)</th></tr><tr><th align="left">Number of positive animals</th><th align="left">Number of negative animals</th></tr></thead><tbody><tr><td align="left">7 dpi</td><td char="." align="char">1</td><td char="." align="char">4</td><td char="." align="char">20</td></tr><tr><td align="left">14 dpi</td><td char="." align="char">5</td><td char="." align="char">1</td><td char="." align="char">83</td></tr><tr><td align="left">21 dpi</td><td char="." align="char">6</td><td char="." align="char">0</td><td char="." align="char">100</td></tr><tr><td align="left">30 dpi</td><td char="." align="char">5</td><td char="." align="char">1</td><td char="." align="char">83</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec15">
+        <title><italic>Brucella suis</italic> S2 only exists in mandibular LN and were eradicated at 21 dpi</title>
+        <p id="Par18">To determine bacterial virulence in vivo, the survival of B. suis S2 in the peripheral immune organs of sheep was examined by determining the number of CFU. No B. suis S2 was isolated from the other tissues at any time point, except for the mandibular LN. According to the bacterial isolation results, B. suis S2 was randomly distributed in the left and right mandibular LN of the sheep (Table <xref rid="Tab2" ref-type="table">2</xref>). Bacteria migrated to and persisted in the mandibular LN for at least 2&#xA0;weeks. The number of B.&#xA0;suis S2 began to decline at two weeks and was completely eradicated after three weeks. In addition, all LN and spleens were unremarkable, with no evidence of lesions in the vaccinated groups at necropsy. However, despite the unremarkable gross appearance of the LN, histological sections of the mandibular LN show that B. suis S2 induced infiltration of inflammatory cells, such as macrophages (Additional file <xref rid="MOESM1" ref-type="media">1</xref>).<table-wrap id="Tab2"><label>Table 2</label><caption><p><bold>The colony forming units (CFU) of </bold>B. suis <bold>S2 isolates in sheep mandibular LN (mean CFU/g&#x2009;&#xB1;&#x2009;SD).</bold></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Sheep</th><th align="left">dpi</th><th align="left">Left Mandibular LN (CFU/g)</th><th align="left">Right Mandibular LN (CFU/g)</th></tr></thead><tbody><tr><td align="left">No.1</td><td char="." align="char" rowspan="3">7</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.2</td><td align="left">70&#x2009;&#xB1;&#x2009;80</td><td align="left">0</td></tr><tr><td align="left">No.3</td><td align="left">1667&#x2009;&#xB1;&#x2009;208</td><td align="left">4039&#x2009;&#xB1;&#x2009;449</td></tr><tr><td align="left">No.4</td><td char="." align="char" rowspan="3">14</td><td align="left">0</td><td align="left">429&#x2009;&#xB1;&#x2009;189</td></tr><tr><td align="left">No.5</td><td align="left">978&#x2009;&#xB1;&#x2009;278</td><td align="left">0</td></tr><tr><td align="left">No.6</td><td align="left">0</td><td align="left">332&#x2009;&#xB1;&#x2009;110</td></tr><tr><td align="left">No.7</td><td char="." align="char" rowspan="3">21</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.8</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.9</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.10</td><td char="." align="char" rowspan="3">30</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.11</td><td align="left">0</td><td align="left">0</td></tr><tr><td align="left">No.12</td><td align="left">0</td><td align="left">0</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec16">
+        <title>Serum Th-1 type cytokine rises early at 9 dpi</title>
+        <p id="Par19">IL-12p70 is required to boost Th-1 responses and IFN-&#x3B3; production. IFN-&#x3B3; can be induced by IL-12p70 independently during early infection and contributes to the innate immune response. The highest level of IL-12p70 was detected in the serum 9&#xA0;days after immunization. This was accompanied by significantly higher serum IFN-&#x3B3; levels at 12 dpi. The general trend in serum IL-12p70 level was undulating. IFN-&#x3B3; peaked by day 12 to 15 after the first immunization and increased steadily from 18 to 30 dpi. These results demonstrate that IFN-&#x3B3; maintained a response to the B. suis S2 vaccine. IFN-&#x3B3; was produced at later time points after IL-12p70 stimulation (Figure&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>).<fig id="Fig2"><label>Figure 2</label><caption><p><bold>The serum IL-12p70 and IFN-&#x3B3; monitoring of four sheep from 0 to 30 dpi.</bold></p></caption><graphic xlink:href="13567_2023_1147_Fig2_HTML" id="MO2"/></fig></p>
+      </sec>
+      <sec id="Sec17">
+        <title>The chemotactic activity of T-lymphocytes is initiated at 7 dpi</title>
+        <p id="Par20">Compared with the C group, the upregulated DEG in the vaccinated groups at 7 dpi were mainly associated with the defense response to bacteria and cellular response to IFN-&#x3B3;. <italic>LBP</italic> and <italic>ACOD1</italic>, which belong to the toll-like receptor signaling pathway, were induced. The downstream genes of the toll-like receptor signaling pathway, <italic>CXCL9</italic>, <italic>CXCL10</italic> and <italic>CXCL11</italic>, which encoded IFN-inducible chemokines, were strikingly expressed (Figure&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>A). These three genes are cell markers of pro-inflammatory M1 macrophages and prompt the chemotactic activity of Th1 cells [<xref ref-type="bibr" rid="CR30">30</xref>]. <italic>CCL28</italic>, which encoded the mucosa-associated epithelial chemokine CCL28, were also unregulated. Meanwhile, <italic>GBP1</italic>, <italic>GBP2</italic>, <italic>GBP4</italic>, <italic>GBP5</italic>, and <italic>GBP6</italic>, which were members of the IFN-&#x3B3;-inducible GTPase superfamily, were significantly activated. In contrast, six marker genes of natural killer cells (NK cells), including <italic>NKG2A</italic>, <italic>KIR3DX1</italic>, <italic>CD94</italic>, <italic>ENSOARG00000002418</italic>, <italic>ENSOARG00000002450</italic>, and <italic>ENSOARG00000007834</italic>, were all downregulated. Four genes involved in these pathways were selected for the RT-qPCR analysis. Among these, <italic>ENSOARG00000008994</italic>, <italic>ATP6V0A1</italic>, and <italic>SLC11A1</italic> were in accordance with the RNA-seq results (Figure&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>B).<fig id="Fig3"><label>Figure 3</label><caption><p><bold>Network of upregulated DEG and RT-qPCR results.</bold>
+<bold>A</bold> Network of DEG associated with the cellular response to IFN-&#x3B3; and Th1 cells migration. <bold>B</bold> The results of RT-qPCR verification.</p></caption><graphic xlink:href="13567_2023_1147_Fig3_HTML" id="MO3"/></fig></p>
+      </sec>
+      <sec id="Sec18">
+        <title>The differentiation of CD4<sup>+</sup> T cells is activated at 14 dpi</title>
+        <p id="Par21">Compared with the C group, the DEG in the 14 dpi vaccinated groups were prominently enriched in antigen processing and presentation and graft-versus-host disease pathways (Figure&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>A). The M2 macrophage-specific gene, <italic>CD163,</italic> was downregulated from 14 to 30 dpi. <italic>DRB3</italic>, which belonged to the MHC class II gene family, was significantly increased at 14 dpi. The major histocompatibility complex (MHC) is a cluster of genes, most of which are responsible for presenting antigens to the immune system and playing a central role in regulating immune responses. MHC class II genes encode glycoproteins that bind to and present extracellular pathogens to circulating helper T lymphocytes and initiate cell-mediated immunity. Moreover, <italic>ENSOARG00000002102</italic>, <italic>ENSOARG00000002532</italic>, <italic>ENSOARG00000002875</italic>, and <italic>ENSOARG00000014493</italic>, which are known as MHC class I-like antigen recognition superfamily genes, were downregulated at 14 dpi. A total of three genes (<italic>SOS1</italic>, <italic>SRRT,</italic> and <italic>VPS13D</italic>) were tested by RT-qPCR analysis. This provided consistent results with the RNA-seq data (Figure&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>B).<fig id="Fig4"><label>Figure 4</label><caption><p><bold>KEGG pathway enrichment analysis of DEG and RT-qPCR results.</bold>
+<bold>A</bold> KEGG pathway enrichment analysis of DEG (Top 20, FDR&#x2009;&lt;&#x2009;0.05). <bold>B</bold> The results of RT-qPCR verification.</p></caption><graphic xlink:href="13567_2023_1147_Fig4_HTML" id="MO4"/></fig></p>
+      </sec>
+      <sec id="Sec19">
+        <title>The phagocytosis of macrophages enhanced at 21 dpi</title>
+        <p id="Par22">The phagosome pathway was observed at the 21<sup>st</sup> dpi (Figure&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>A). <italic>DYA</italic>, <italic>DQB1</italic>, <italic>PIKFYVE</italic>, and <italic>ENSOARG00000001181</italic> were up-regulated, whereas <italic>ENSOARG00000009357</italic>, <italic>DR1B</italic>, <italic>DPB1</italic>, <italic>MRC1</italic>, and <italic>ATP6V0A1</italic> were down-regulated. Among these DEG, <italic>PIKFYVE</italic> plays an essential role in the maturation of early endosomes into late endosomes, phagosomes, and lysosomes. The <italic>DYA</italic> gene, which also belongs to the MHC class II gene family, is unique in both ovine and bovine species [<xref ref-type="bibr" rid="CR31">31</xref>]. <italic>MRC1</italic> encodes the mannose receptor of macrophages and DC, which promotes bacterial uptake into phagosomes [<xref ref-type="bibr" rid="CR32">32</xref>]. Decreased <italic>MRC1</italic> expression indicates a shift towards a pro-inflammatory environment and a switch from tolerogenic to immunogenic immune cell phenotypes, which enhances lysosomal fusion to avoid the intracellular niche for B. suis S2. The representative genes (<italic>ENSOARG00000002418</italic>, <italic>DPEP2</italic>, and <italic>ENSOARG00000020002</italic>) in the enrichment pathways were further verified by RT-qPCR, the results of which were consistent with the RNA-seq data (Figure&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>B).<fig id="Fig5"><label>Figure 5</label><caption><p><bold>KEGG pathway enrichment analysis of DEG and RT-qPCR results.</bold>
+<bold>A</bold> KEGG pathway enrichment analysis of DEG (Top 20, FDR&#x2009;&lt;&#x2009;0.05). <bold>B</bold> The results of RT-qPCR verification.</p></caption><graphic xlink:href="13567_2023_1147_Fig5_HTML" id="MO5"/></fig></p>
+      </sec>
+      <sec id="Sec20">
+        <title>Antigen processing and presentation&#xA0;is maintained up to 30 dpi</title>
+        <p id="Par23">Both the MHC class I and MHC class II protein complexes were identified from 7 to 30 dpi, which revealed that B. suis S2 in the mandibular LN were eradicated through these pathways (Figure&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>A). According to the KEGG pathway enrichment analysis of DEG, the antigen processing and presentation pathway was activated at 30 dpi, including <italic>DPB1</italic>, <italic>DYA</italic>, <italic>DQB1</italic>, <italic>DQA1</italic> and <italic>DQA2</italic> genes (Figure&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>B). Moreover, this pathway was detected at 7 dpi, suggesting that the adaptive cell-mediated immune response was initiated early. <italic>ENSOARG00000002875</italic> and <italic>ENSOARG00000014493</italic>, which belonged to the MHC class I-like antigen recognition-like superfamily, were downregulated at 30 dpi.<fig id="Fig6"><label>Figure 6</label><caption><p><bold>The heatmap and regulatory networks of target DEG in antigen processing and presentation.</bold>
+<bold>A</bold> Heatmap of DEG in antigen processing and presentation pathway. <bold>B</bold> The regulatory networks of DEG. Red plots represent the MHC class II protein complex.</p></caption><graphic xlink:href="13567_2023_1147_Fig6_HTML" id="MO6"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="Sec21">
+      <title>Discussion</title>
+      <p id="Par24"><italic>Brucella</italic> eludes innate immune recognition through modifications of its virulence factors, such as lipopolysaccharide (LPS) and flagellin, resulting in a mild pro-inflammatory response that leads to bacterial persistence. B. suis S2 occurs as a smooth strain, expressing smooth lipopolysaccharide as the major surface antigen [<xref ref-type="bibr" rid="CR12">12</xref>], which is similar to <italic>B. melitensis</italic>. The predominant route of <italic>B. melitensis</italic> infection under natural exposure is the alimentary tract [<xref ref-type="bibr" rid="CR33">33</xref>], which is also similar to the B. suis S2 vaccine. Thus, B.suis S2 is an ideal model for studying host immune response after <italic>Brucella</italic> infection. In this study, we demonstrate for the first time the ovine immune response, via the gastrointestinal mucosa routes, to B. suis S2 administration and evaluated the safety and protective efficacy of the B. suis S2 vaccine in vivo. Analysis of sheep anal temperature demonstrates that immunization of B. suis S2 led to an abnormal change in the body temperature of sheep within one week after immunization.</p>
+      <p id="Par25">To induce immunity, live vaccine strains need to reach, multiply, and persist in immune-reactive tissues for a sufficient time, particularly in the spleen and/or lymph nodes. The survival time of B.suis S2 depends on residual virulence, dose, and route of administration. Studies by Wang showed that the murine spleen enlargements are detected following B. suis S2 infection (1&#x2009;&#xD7;&#x2009;10<sup>7</sup>&#xA0;CFU) after 14&#xA0;days and are fully restored 28&#xA0;days post-infection. Compared to uninfected mouse spleens, the number of macrophages increases significantly in the red pulp of spleens of B.suis S2-infected mice after 1 week [<xref ref-type="bibr" rid="CR34">34</xref>]. According to our results, B. suis S2 were isolated as early as 7 dpi from the mandibular LN of the&#xA0;immunized sheep. The oral mucosa was the initial site of vaccination, and B.suis S2 were isolated from the mandibular LN. However, the spleen of sheep were clean, which was inconsistent with the murine model. At 21 dpi, <italic>Brucella</italic> clearance from the mandibular LN was observed, indicating that B. suis S2 persisted for a short time in the host. In addition, all vaccinated ewes were negative for the RBT test after four months. Therefore, a booster vaccination after the first administration may be necessary to induce long-time protection.</p>
+      <p id="Par26">The present literature on B.suis S2 is largely based on the murine model, and in vivo data from sheep are limited. During B.suis S2 immunization in our ovine model, the host immune response resembled Th1 immunity with the secretion of IL-12p70 and IFN-&#x3B3;. In the beginning of <italic>B. abortus</italic> infection, it has been clearly demonstrated that murine NK cells are the most important IFN-&#x3B3; producers [<xref ref-type="bibr" rid="CR35">35</xref>]. Human NK cells are activated by autologous infected macrophages and secrete TNF-&#x3B1; and IFN-&#x3B3;, thereby controlling intramacrophagic development of B. suis in humans [<xref ref-type="bibr" rid="CR36">36</xref>]. In our study, six marker genes of NK cells were downregulated at 7 dpi, indicating that the activity of NK cells in sheep mandibular LN was probably suppressed by B.suis S2. Despite the inhibition of NK cells observed at 7 dpi, downstream IFN-&#x3B3; pathways were still activated by other immune cells. It is well known that the activation of pro-inflammatory M1 macrophages can be induced by the cytokine IFN-&#x3B3; and bacterial components such as lipopolysaccharide (LPS) [<xref ref-type="bibr" rid="CR37">37</xref>]. On the one hand, IFN-&#x3B3; initiates the GBP superfamily promoting oxidative killing [<xref ref-type="bibr" rid="CR38">38</xref>]. On the other hand, IFN-&#x3B3;&#xA0;stimulates macrophages producing IL-12, a critical cytokine that evokes an adaptive immune response of type 1 helper T cells (Th1) and supports the continuous production of IFN-&#x3B3; [<xref ref-type="bibr" rid="CR39">39</xref>]. In our study, the highest level of IL-12p70 was detected in the serum 9&#xA0;days after immunization. In addition, activated M1 macrophages produced high levels of pro-inflammatory cytokines such as CXCL9, CXCL10, and CXCL11, at 7 dpi, leading to the migration of T cells to inflamed tissue sites along chemokine gradients.</p>
+      <p id="Par27">To mediate pathogen clearance, the Th0 cells are activated by IL-12p70 and are transformed into Th1 cells. Animal studies have demonstrated that adequate Th1 immunity, with significant production of IFN-&#x3B3; and IL-12, is the principal immune effector for the clearance of <italic>Brucella</italic> infection. According to the ELISA results, the IFN-&#x3B3; levels in the serum peaked at 12&#x2013;15 dpi, reflecting the massive activation of Th1 cells. IFN-&#x3B3; plays an essential role in bidirectional stimulation of T cells and macrophages. By producing large amounts of IFN-&#x3B3; and IL-12, Th1 cells induce the activation and M1 polarization of macrophages and enhance macrophage function, cell cytotoxic and Th1 proliferation [<xref ref-type="bibr" rid="CR40">40</xref>]. In the present study, M1 macrophages probably eliminated B. suis S2 by enhancing phagocytosis and expressing <italic>DRB3</italic>. DRB3 belongs to the MHC class II gene family and is responsible for presenting antigens to T cells. A number of studies have reported the association of BoLA-DRB3.2 alleles with susceptibility/resistance to some infectious diseases in cattle, such as bovine papillomavirus infection [<xref ref-type="bibr" rid="CR41">41</xref>]. Th1-driven IFN-&#x3B3; enhances phagocytosis of M1 macrophages to kill intracellular microorganisms. <italic>PIKFYVE</italic>, which expressed at 21 dpi, participated in the generation of Stage I melanosomes and maintenance of ion homeostasis in lysosomes [<xref ref-type="bibr" rid="CR42">42</xref>]. Moreover, DYA, which comprised the MHC class II molecules of macrophages, was significantly upregulated from 21 to 30 dpi.</p>
+      <p id="Par28">Under IFN-&#x3B3; stimulation, the MHC class II molecules of M1 macrophages, <italic>DPB1</italic>, <italic>DQA1</italic>, and <italic>DQA2</italic> genes, were expressed at 30 dpi. The antigen presentation ability of macrophages was enhanced. Prolonged inflammation leads to tissue damage. The body also produces M2 macrophages with anti-inflammatory activities. Classical monocytes diminish <italic>CD163</italic> levels on the membrane and preferentially acquire <italic>CD163</italic><sup>&#x2212;</sup> defined M1 characteristics upon in vitro LPS stimulation [<xref ref-type="bibr" rid="CR43">43</xref>]. CD163 is a high-affinity scavenger receptor that is typically associated with the M2 macrophage phenotype [<xref ref-type="bibr" rid="CR44">44</xref>]. From lymph nodes in sheep immunized with B. suis S2 vaccine, we detected a low level of <italic>CD163</italic> expression sustained from 14 to 30 dpi. Whether it was regulated by LPS of B. suis S2 or host IFN-&#x3B3;, needs to be further investigated. Moreover, CCL28, which belongs to the CC chemokine (&#x3B2;-chemokine) signaling family, is first observed in the lymph nodes of sheep immunized with B. suis S2 throughout the process. CCL28 plays dual roles in the regulation of mucosal immune responses and recruitment of T cells into nasal mucosal tissues [<xref ref-type="bibr" rid="CR45">45</xref>]. In this study, high CCL28 expression levels provide a constitutive innate immune defense against various bacterial pathogens driving mucosal homing of T and B lymphocytes with the above chemokines. In mice, sublingual immunization can effectively protect against <italic>Helicobacter pylori</italic> infection by enhancing CXCL10 and CCL28, resulting in strong T and B cell infiltration into the stomach [<xref ref-type="bibr" rid="CR46">46</xref>].</p>
+      <p id="Par29">In conclusion, our study suggests that B. suis S2 vaccinated sheep may control infection via stimulation of M1 macrophages through the course of Th cells. Briefly, the polarization of M1 macrophages was induced by B. suis S2 LPS or IFN-&#x3B3; as early as 7 dpi. With the activation of Th1 immunity, Th1-driven IFN-&#x3B3; enhanced phagocytosis of M1 macrophages at 14 dpi. Thus, M1 macrophages eventually eliminated the intracellular microorganisms at 21 dpi. Our study has gained insight into in vivo observations regarding the critical role of M1 macrophages in the control of B. suis S2 infections. The mechanism by which B. suis S2 influences host infection is complex, and our study provides evidence for one possible mechanism. Further experiments are required to confirm these findings. We are currently exploring new approaches to investigate genetic markers with natural resistance to <italic>Brucella</italic> infection, which can be further used in marker-assisted selection for natural resistance to brucellosis in breeding programs, as a significant contribution to the prevention of the disease in small ruminant herds.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Information</title>
+      <sec id="Sec22">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="13567_2023_1147_MOESM1_ESM.tif"><caption><p><bold>Additional file 1. The histopathology of mandibular lymph nodes at different times. A</bold> 0 dpi; <bold>B</bold> 7 dpi. (H&amp;E, 5&#xD7;).</p></caption></media></supplementary-material></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank Nei Mongol BioNew Technology Co. Ltd. for providing assistance during the preparation of this manuscript.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors' contributions</title>
+      <p>FW and LD conceived the experiments. SC, YC and CW conducted the experiments and analyzed the results. ZJ uploaded the RNA-seq data and typeset the manuscript. DZ, GL and XW provided the laboratory support and vaccine immunization. YL, WZ, SZ, BY contributed reagents. QZ, SF and XH contributed materials. QC and CM proofread the manuscript. The manuscript was written and analyzed by SC. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This work was financially supported by Natural Science Foundation of China (No. 32160831); Academician Innovation Platform Project of Hainan Province (No. YSPTZX202013); Hainan Innovation Center for Academician of Jin Ningyi; Hainan Innovation Center for Academician of Zhang Yong; MOF&amp; MOAR-CARS38; Special Funding Projects for Local Science and Technology Development Guided by the Central Committee (ZY2022HN09).</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>The raw sequence data reported in this paper have been deposited in the Genome Sequence Archive [<xref ref-type="bibr" rid="CR47">47</xref>] in National Genomics Data Center [<xref ref-type="bibr" rid="CR48">48</xref>], China National Center for Bioinformation / Beijing Institute of Genomics, Chinese Academy of Sciences (GSA: CRA007560) that are publicly accessible at <ext-link ext-link-type="uri" xlink:href="https://ngdc.cncb.ac.cn/gsa">https://ngdc.cncb.ac.cn/gsa</ext-link>.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par30">All animal procedures were conducted in accordance with the Regulations for the Administration of Affairs Concerning Experimental Animals (Ministry of Science and Technology, China, 2004) and were approved by the Academic Committee of Hainan University under the ethical approval code HNUAUCC-2021-00038.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par31">All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par32">The authors declare that they have no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yagupsky</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Morata</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Colmenero</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Laboratory diagnosis of human brucellosis</article-title>
+          <source>Clin Microbiol Rev</source>
+          <year>2019</year>
+          <volume>33</volume>
+          <fpage>e00073</fpage>
+          <lpage>e119</lpage>
+          <pub-id pub-id-type="doi">10.1128/CMR.00073-19</pub-id>
+          <pub-id pub-id-type="pmid">31722888</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moreno</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>The one hundred year journey of the genus <italic>Brucella</italic> (Meyer and Shaw 1920)</article-title>
+          <source>FEMS Microbiol Rev</source>
+          <year>2021</year>
+          <volume>45</volume>
+          <fpage>fuaa045</fpage>
+          <pub-id pub-id-type="doi">10.1093/femsre/fuaa045</pub-id>
+          <pub-id pub-id-type="pmid">33016322</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <article-title>The advances in brucellosis vaccines</article-title>
+          <source>Vaccine</source>
+          <year>2019</year>
+          <volume>37</volume>
+          <fpage>3981</fpage>
+          <lpage>3988</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2019.05.084</pub-id>
+          <pub-id pub-id-type="pmid">31176541</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castano-Zubieta</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Rossetti</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Gonzalez</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Maurizio</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hensel</surname>
+              <given-names>ME</given-names>
+            </name>
+            <name>
+              <surname>Rice-Ficht</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Ficht</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Arenas-Gamboa</surname>
+              <given-names>AM</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of the safety profile of the vaccine candidate <italic>Brucella melitensis</italic> 16M&#x394;vjbR strain in goats</article-title>
+          <source>Vaccine</source>
+          <year>2021</year>
+          <volume>39</volume>
+          <fpage>617</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2020.11.033</pub-id>
+          <pub-id pub-id-type="pmid">33328142</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Munoz</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Conde-Alvarez</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Andres-Barranco</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>de Miguel</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Zuniga-Ripa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Aragon-Aranda</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Salvador-Bescos</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Gomez</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Iriarte</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Barberan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vizcaino</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Moriyon</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>A <italic>Brucella melitensis</italic> H38DeltawbkF rough mutant protects against <italic>Brucella ovis</italic> in rams</article-title>
+          <source>Vet Res</source>
+          <year>2022</year>
+          <volume>53</volume>
+          <fpage>16</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-022-01034-z</pub-id>
+          <pub-id pub-id-type="pmid">35236406</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mailybayeva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ryskeldinova</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zinina</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Renukaradhya</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Tabynov</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of duration of immunogenicity and protective efficacy of improved influenza viral vector-based <italic>Brucella abortus</italic> vaccine against <italic>Brucella melitensis</italic> infection in sheep and goats</article-title>
+          <source>Front Vet Sci</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <fpage>58</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2020.00058</pub-id>
+          <pub-id pub-id-type="pmid">32175335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohammadi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Golchin</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>High protection of mice against <italic>Brucella abortus</italic> by oral immunization with recombinant probiotic <italic>Lactobacillus casei</italic> vector vaccine, expressing the outer membrane protein OMP19 of <italic>Brucella</italic> species</article-title>
+          <source>Comp Immunol Microbiol Infect Dis.</source>
+          <year>2020</year>
+          <volume>70</volume>
+          <fpage>101470</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.cimid.2020.101470</pub-id>
+          <pub-id pub-id-type="pmid">32208191</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Senevirathne</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hewawaduge</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>Live vaccine consisting of attenuated <italic>Salmonella</italic> secreting and delivering <italic>Brucella</italic> ribosomal protein L7/L12 induces humoral and cellular immune responses and protects mice against virulent <italic>Brucella abortus</italic> 544 challenge</article-title>
+          <source>Vet Res</source>
+          <year>2020</year>
+          <volume>51</volume>
+          <fpage>6</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13567-020-0735-y</pub-id>
+          <pub-id pub-id-type="pmid">31973749</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sadeghi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Fasihi-Ramandi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Azizi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bouzari</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Mannosylated chitosan nanoparticles loaded with FliC antigen as a novel vaccine candidate against <italic>Brucella melitensis</italic> and <italic>Brucella abortus</italic> infection</article-title>
+          <source>J Biotechnol</source>
+          <year>2020</year>
+          <volume>310</volume>
+          <fpage>89</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jbiotec.2020.01.016</pub-id>
+          <pub-id pub-id-type="pmid">32017955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diaz</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Quinteros</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Llabot</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Palma</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Allemandi</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Ghersi</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zylberman</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Goldbaum</surname>
+              <given-names>FA</given-names>
+            </name>
+            <name>
+              <surname>Estein</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Spray dried microspheres based on chitosan: a promising new carrier for intranasal administration of polymeric antigen BLSOmp31 for prevention of ovine brucellosis</article-title>
+          <source>Mater Sci Eng C Mater Biol Appl</source>
+          <year>2016</year>
+          <volume>62</volume>
+          <fpage>489</fpage>
+          <lpage>496</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.msec.2016.01.084</pub-id>
+          <pub-id pub-id-type="pmid">26952451</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kornspan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lubkovskaia</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mathur</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yeheskel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Salmon-Divon</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Genomic analysis of natural rough Brucella melitensis Rev.1 vaccine strains: identification and characterization of mutations in key genes associated with bacterial LPS biosynthesis and virulence</article-title>
+          <source>Int J Mol Sci</source>
+          <year>2020</year>
+          <volume>21</volume>
+          <fpage>9341</fpage>
+          <pub-id pub-id-type="doi">10.3390/ijms21249341</pub-id>
+          <pub-id pub-id-type="pmid">33302421</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xin</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title>Orally administrable brucellosis vaccine: <italic>Brucella suis</italic> strain 2 vaccine</article-title>
+          <source>Vaccine</source>
+          <year>1986</year>
+          <volume>4</volume>
+          <fpage>212</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1016/0264-410x(86)90131-3</pub-id>
+          <pub-id pub-id-type="pmid">3541425</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole genome sequences of four <italic>Brucella</italic> strains</article-title>
+          <source>J Bacteriol</source>
+          <year>2011</year>
+          <volume>193</volume>
+          <fpage>3674</fpage>
+          <lpage>3675</lpage>
+          <pub-id pub-id-type="doi">10.1128/jb.05155-11</pub-id>
+          <pub-id pub-id-type="pmid">21602346</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Yi</surname>
+              <given-names>XP</given-names>
+            </name>
+            <name>
+              <surname>Ye</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhong</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Ni</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>Xia</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>BY</given-names>
+            </name>
+            <name>
+              <surname>Mao</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>WX</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative genomic analysis between newly sequenced <italic>Brucella suis</italic> vaccine strain S2 and the virulent <italic>Brucella suis</italic> strain 1330</article-title>
+          <source>BMC Genomics</source>
+          <year>2016</year>
+          <volume>17</volume>
+          <fpage>741</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12864-016-3076-5</pub-id>
+          <pub-id pub-id-type="pmid">27645563</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Suo</surname>
+              <given-names>X</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Brucella suis</italic> strain 2 vaccine is safe and protective against heterologous <italic>Brucella</italic> spp. infections</article-title>
+          <source>Vaccine</source>
+          <year>2016</year>
+          <volume>34</volume>
+          <fpage>395</fpage>
+          <lpage>400</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.09.116</pub-id>
+          <pub-id pub-id-type="pmid">26626213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic analysis of and recommendations for public health events involving brucellosis from 2006 to 2019 in China</article-title>
+          <source>Ann Med</source>
+          <year>2022</year>
+          <volume>54</volume>
+          <fpage>1859</fpage>
+          <lpage>1866</lpage>
+          <pub-id pub-id-type="doi">10.1080/07853890.2022.2092894</pub-id>
+          <pub-id pub-id-type="pmid">35786155</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhai</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>BtpB inhibits innate inflammatory responses in goat alveolar macrophages through the TLR/NF-kappaB pathway and NLRP3 inflammasome during <italic>Brucella</italic> infection</article-title>
+          <source>Microb Pathog</source>
+          <year>2022</year>
+          <volume>166</volume>
+          <fpage>105536</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2022.105536</pub-id>
+          <pub-id pub-id-type="pmid">35439555</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xiang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Brucella suis</italic> vaccine strain 2 induces endoplasmic reticulum stress that affects intracellular replication in goat trophoblast cells in vitro</article-title>
+          <source>Front Cell Infect Microbiol</source>
+          <year>2016</year>
+          <volume>6</volume>
+          <fpage>19</fpage>
+          <pub-id pub-id-type="doi">10.3389/fcimb.2016.00019</pub-id>
+          <pub-id pub-id-type="pmid">26904517</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Lin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Yin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lei</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Brucella suis</italic> vaccine strain S2-infected immortalized caprine endometrial epithelial cell lines induce non-apoptotic ER-stress</article-title>
+          <source>Cell Stress Chaperones</source>
+          <year>2015</year>
+          <volume>20</volume>
+          <fpage>399</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12192-014-0564-x</pub-id>
+          <pub-id pub-id-type="pmid">25633898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Zhi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>RNA-Seq analysis reveals the role of Omp16 in Brucella-Infected RAW264.7 cells</article-title>
+          <source>Front Vet Sci</source>
+          <year>2021</year>
+          <volume>8</volume>
+          <fpage>646839</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2021.646839</pub-id>
+          <pub-id pub-id-type="pmid">33748220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sun</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Gao</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Shen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Safety and transcriptome analysis of live attenuated <italic>Brucella</italic> vaccine strain S2 on non-pregnant cynomolgus monkeys without abortive effect on pregnant cynomolgus monkeys</article-title>
+          <source>Front Vet Sci</source>
+          <year>2021</year>
+          <volume>8</volume>
+          <fpage>641022</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2021.641022</pub-id>
+          <pub-id pub-id-type="pmid">33768120</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome resequencing to study brucellosis susceptibility in sheep</article-title>
+          <source>Front Genet</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <fpage>653927</fpage>
+          <pub-id pub-id-type="doi">10.3389/fgene.2021.653927</pub-id>
+          <pub-id pub-id-type="pmid">34306007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Man</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Downregulation of three novel miRNAs in the lymph nodes of sheep immunized with the <italic>Brucella suis</italic> strain 2 vaccine</article-title>
+          <source>Front Vet Sci</source>
+          <year>2022</year>
+          <volume>9</volume>
+          <fpage>813170</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2022.813170</pub-id>
+          <pub-id pub-id-type="pmid">35274021</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Celli</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Surviving inside a macrophage: the many ways of <italic>Brucella</italic></article-title>
+          <source>Res Microbiol</source>
+          <year>2006</year>
+          <volume>157</volume>
+          <fpage>93</fpage>
+          <lpage>98</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.resmic.2005.10.002</pub-id>
+          <pub-id pub-id-type="pmid">16364608</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perez</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rius-Perez</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage polarization and reprogramming in acute inflammation: a redox perspective</article-title>
+          <source>Antioxidants</source>
+          <year>2022</year>
+          <volume>11</volume>
+          <fpage>1394</fpage>
+          <pub-id pub-id-type="doi">10.3390/antiox11071394</pub-id>
+          <pub-id pub-id-type="pmid">35883885</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lei</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Jiao</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Qiu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Inhibition of mCD14 inhibits TNF&#x3B1; secretion and NO production in RAW264.7 cells stimulated by <italic>Brucella melitensis</italic> infection</article-title>
+          <source>Vet Microbiol</source>
+          <year>2012</year>
+          <volume>160</volume>
+          <fpage>362</fpage>
+          <lpage>368</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vetmic.2012.05.039</pub-id>
+          <pub-id pub-id-type="pmid">22770519</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Niu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Peng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ding</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Transcriptome analysis of gene expression profiling of infected macrophages between <italic>Brucella suis</italic> 1330 and live attenuated vaccine strain S2 displays mechanistic implication for regulation of virulence</article-title>
+          <source>Microb Pathog</source>
+          <year>2018</year>
+          <volume>119</volume>
+          <fpage>241</fpage>
+          <lpage>247</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2018.04.003</pub-id>
+          <pub-id pub-id-type="pmid">29626657</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Omp16, a conserved peptidoglycan-associated lipoprotein, is involved in <italic>Brucella</italic> virulence in vitro</article-title>
+          <source>J Microbiol</source>
+          <year>2020</year>
+          <volume>58</volume>
+          <fpage>793</fpage>
+          <lpage>804</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12275-020-0144-y</pub-id>
+          <pub-id pub-id-type="pmid">32870485</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Livak</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Schmittgen</surname>
+              <given-names>TD</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of relative gene expression data using real-time quantitative PCR and the 2(-delta delta C(T)) method</article-title>
+          <source>Methods</source>
+          <year>2001</year>
+          <volume>25</volume>
+          <fpage>402</fpage>
+          <lpage>408</lpage>
+          <pub-id pub-id-type="doi">10.1006/meth.2001.1262</pub-id>
+          <pub-id pub-id-type="pmid">11846609</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Rourke</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Neto</surname>
+              <given-names>NGB</given-names>
+            </name>
+            <name>
+              <surname>Devilly</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Shanley</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>HK</given-names>
+            </name>
+            <name>
+              <surname>Monaghan</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Dunne</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Cholesterol crystals drive metabolic reprogramming and M1 macrophage polarisation in primary human macrophages</article-title>
+          <source>Atherosclerosis</source>
+          <year>2022</year>
+          <volume>352</volume>
+          <fpage>35</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.atherosclerosis.2022.05.015</pub-id>
+          <pub-id pub-id-type="pmid">35667162</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ballingall</surname>
+              <given-names>KT</given-names>
+            </name>
+            <name>
+              <surname>McKeever</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Conservation of promoter, coding and intronic regions of the non-classical MHC class II DYA gene suggests evolution under functional constraints</article-title>
+          <source>Anim Genet</source>
+          <year>2005</year>
+          <volume>36</volume>
+          <fpage>237</fpage>
+          <lpage>239</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2052.2005.01281.x</pub-id>
+          <pub-id pub-id-type="pmid">15932405</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LaRue</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Puccini</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Cammer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kimmelman</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Bar-Sagi</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Metabolic reprogramming of tumor-associated macrophages by collagen turnover promotes fibrosis in pancreatic cancer</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>2022</year>
+          <volume>119</volume>
+          <fpage>e2119168119</fpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.2119168119</pub-id>
+          <pub-id pub-id-type="pmid">35412885</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rossetti</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Maurizio</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Rossi</surname>
+              <given-names>UA</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative review of brucellosis in small domestic ruminants</article-title>
+          <source>Front Vet Sci</source>
+          <year>2022</year>
+          <volume>9</volume>
+          <fpage>887671</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2022.887671</pub-id>
+          <pub-id pub-id-type="pmid">35647101</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>A <italic>Brucella</italic> Omp16 conditional deletion strain is attenuated in BALB/c mice</article-title>
+          <source>J Microbiol Biotechnol</source>
+          <year>2022</year>
+          <volume>32</volume>
+          <fpage>6</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.4014/jmb.2107.07016</pub-id>
+          <pub-id pub-id-type="pmid">34675138</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhagyaraj</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Akgul</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Goodwin</surname>
+              <given-names>ZI</given-names>
+            </name>
+            <name>
+              <surname>Pascual</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Mucosal vaccination primes NK cell-dependent development of CD8(+) T cells against pulmonary <italic>Brucella</italic> infection</article-title>
+          <source>Front Immunol</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <fpage>697953</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2021.697953</pub-id>
+          <pub-id pub-id-type="pmid">34305935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dornand</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lafont</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Oliaro</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Terraza</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Castaneda-Roldan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Liautard</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Impairment of intramacrophagic <italic>Brucella suis</italic> multiplication by human natural killer cells through a contact-dependent mechanism</article-title>
+          <source>Infect Immun</source>
+          <year>2004</year>
+          <volume>72</volume>
+          <fpage>2303</fpage>
+          <lpage>2311</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.72.4.2303-2311.2004</pub-id>
+          <pub-id pub-id-type="pmid">15039355</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shapouri-Moghaddam</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mohammadian</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vazini</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Taghadosi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Esmaeili</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Mardani</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Seifi</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Mohammadi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Afshari</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Sahebkar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Macrophage plasticity, polarization, and function in health and disease</article-title>
+          <source>J Cell Physiol</source>
+          <year>2018</year>
+          <volume>233</volume>
+          <fpage>6425</fpage>
+          <lpage>6440</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcp.26429</pub-id>
+          <pub-id pub-id-type="pmid">29319160</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Shenoy</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Tiwari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>MacMicking</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>A family of IFN-gamma-inducible 65-kD GTPases protects against bacterial infection</article-title>
+          <source>Science</source>
+          <year>2011</year>
+          <volume>332</volume>
+          <fpage>717</fpage>
+          <lpage>721</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1201711</pub-id>
+          <pub-id pub-id-type="pmid">21551061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ruytinx</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Proost</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Van Damme</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Struyf</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Chemokine-induced macrophage polarization in inflammatory conditions</article-title>
+          <source>Front Immunol</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>1930</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2018.01930</pub-id>
+          <pub-id pub-id-type="pmid">30245686</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Figueiredo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ficht</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Rice-Ficht</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Rossetti</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>LG</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenesis and immunobiology of brucellosis: review of <italic>Brucella</italic>-host interactions</article-title>
+          <source>Am J Pathol</source>
+          <year>2015</year>
+          <volume>185</volume>
+          <fpage>1505</fpage>
+          <lpage>1517</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>
+          <pub-id pub-id-type="pmid">25892682</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Longeri</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Russo</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Strillacci</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Perillo</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Carisetti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cozzi</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Neola</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Roperto</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Association between BoLA-DRB3.2 polymorphism and bovine papillomavirus infection for bladder tumor risk in Podolica cattle</article-title>
+          <source>Front Vet Sci</source>
+          <year>2021</year>
+          <volume>8</volume>
+          <fpage>630089</fpage>
+          <pub-id pub-id-type="doi">10.3389/fvets.2021.630089</pub-id>
+          <pub-id pub-id-type="pmid">34179154</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lees</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Weisman</surname>
+              <given-names>LS</given-names>
+            </name>
+            <name>
+              <surname>Reinisch</surname>
+              <given-names>KM</given-names>
+            </name>
+          </person-group>
+          <article-title>Insights into lysosomal PI(3,5)P(2) homeostasis from a structural-biochemical analysis of the PIKfyve lipid kinase complex</article-title>
+          <source>Mol Cell</source>
+          <year>2020</year>
+          <volume>80</volume>
+          <fpage>736</fpage>
+          <lpage>743.e734</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molcel.2020.10.003</pub-id>
+          <pub-id pub-id-type="pmid">33098764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karsulovic</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tempio</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Lopez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Guerrero</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Goecke</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>In vitro phenotype induction of circulating monocytes: CD16 and CD163 analysis</article-title>
+          <source>J Inflamm Res</source>
+          <year>2021</year>
+          <volume>14</volume>
+          <fpage>191</fpage>
+          <lpage>198</lpage>
+          <pub-id pub-id-type="doi">10.2147/JIR.S292513</pub-id>
+          <pub-id pub-id-type="pmid">33531825</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rech</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Challenges in the histopathologic diagnosis of histiocytic neoplasms</article-title>
+          <source>J Natl Compr Canc Netw</source>
+          <year>2021</year>
+          <volume>19</volume>
+          <fpage>1305</fpage>
+          <lpage>1311</lpage>
+          <pub-id pub-id-type="doi">10.6004/jnccn.2021.7098</pub-id>
+          <pub-id pub-id-type="pmid">34781270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohan</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>BZ</given-names>
+            </name>
+          </person-group>
+          <article-title>CCL28 chemokine: an anchoring point bridging innate and adaptive immunity</article-title>
+          <source>Int Immunopharmacol</source>
+          <year>2017</year>
+          <volume>51</volume>
+          <fpage>165</fpage>
+          <lpage>170</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.intimp.2017.08.012</pub-id>
+          <pub-id pub-id-type="pmid">28843907</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raghavan</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ostberg</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Flach</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Ekman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Blomquist</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Czerkinsky</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Holmgren</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Sublingual immunization protects against <italic>Helicobacter pylori</italic> infection and induces T and B cell responses in the stomach</article-title>
+          <source>Infect Immun</source>
+          <year>2010</year>
+          <volume>78</volume>
+          <fpage>4251</fpage>
+          <lpage>4260</lpage>
+          <pub-id pub-id-type="doi">10.1128/IAI.00536-10</pub-id>
+          <pub-id pub-id-type="pmid">20696831</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zhai</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>The genome sequence archive family: toward explosive data growth and diverse data types</article-title>
+          <source>Genomics Proteomics Bioinformatics</source>
+          <year>2021</year>
+          <volume>19</volume>
+          <fpage>578</fpage>
+          <lpage>583</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.gpb.2021.08.001</pub-id>
+          <pub-id pub-id-type="pmid">34400360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>CNCB-NGDC Members and Partners</collab>
+          </person-group>
+          <article-title>Database Resources of the National Genomics Data Center, China National Center for Bioinformation in 2022</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2022</year>
+          <volume>50</volume>
+          <fpage>D27</fpage>
+          <lpage>D38</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkab951</pub-id>
+          <pub-id pub-id-type="pmid">34718731</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

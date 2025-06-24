@@ -1,0 +1,950 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="mbt214274" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id>
+      <journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id>
+      <journal-id journal-id-type="publisher-id">MBT2</journal-id>
+      <journal-title-group>
+        <journal-title>Microbial Biotechnology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1751-7915</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37212362</article-id>
+      <article-id pub-id-type="pmc">10281354</article-id>
+      <article-id pub-id-type="doi">10.1111/1751-7915.14274</article-id>
+      <article-id pub-id-type="publisher-id">MBT214274</article-id>
+      <article-id pub-id-type="other">MICROBIO-2023-071-RA.R2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Research Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Exosomes released by <italic toggle="no">Brucella</italic>&#x2010;infected macrophages inhibit the intracellular survival of <italic toggle="no">Brucella</italic> by promoting the polarization of <styled-content style="fixed-case" toggle="no">M1</styled-content> macrophages</article-title>
+        <alt-title alt-title-type="right-running-head">Exosomes Promot the M1 Macrophages Polarization</alt-title>
+        <alt-title alt-title-type="left-running-head">Wang et al.</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="mbt214274-cr-0001" contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yueli</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5320-4953</contrib-id>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0002" contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Honghuan</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0003" contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Zhenyu</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0004" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Yi</surname>
+            <given-names>Jihai</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>724050645@qq.com</email>
+          </address>
+        </contrib>
+        <contrib id="mbt214274-cr-0005" contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Wei</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0006" contrib-type="author">
+          <name>
+            <surname>Meng</surname>
+            <given-names>Chuang</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0007" contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Huan</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0008" contrib-type="author">
+          <name>
+            <surname>Deng</surname>
+            <given-names>Xiaoyu</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0009" contrib-type="author">
+          <name>
+            <surname>Ma</surname>
+            <given-names>Zhongchen</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0010" contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yong</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="mbt214274-cr-0011" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Chuangfu</given-names>
+          </name>
+          <xref rid="mbt214274-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <address>
+            <email>chuangfu_chen@163.com</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="mbt214274-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">College of Animal Science and Technology</named-content>
+<institution>Shihezi University</institution>
+<city>Shihezi</city>
+<country country="CN">China</country>
+</aff>
+      <aff id="mbt214274-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Xinjiang Center for Animal Disease Control and Prevention</institution>
+<city>Urumqi</city>
+<country country="CN">China</country>
+</aff>
+      <aff id="mbt214274-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Jiangsu Key Laboratory of Zoonosis</named-content>
+<institution>Yangzhou University</institution>
+<city>Yangzhou</city>
+<country country="CN">China</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Jihai Yi and Chuangfu Chen, College of Animal Science and Technology, Shihezi University, Shihezi, China.<break/>
+Email: <email>724050645@qq.com</email> and <email>chuangfu_chen@163.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>22</day>
+        <month>5</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue seq="100">7</issue>
+      <issue-id pub-id-type="doi">10.1111/mbt2.v16.7</issue-id>
+      <fpage>1524</fpage>
+      <lpage>1535</lpage>
+      <history>
+<date date-type="rev-recd"><day>05</day><month>5</month><year>2023</year></date>
+<date date-type="received"><day>29</day><month>7</month><year>2022</year></date>
+<date date-type="accepted"><day>09</day><month>5</month><year>2023</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 John Wiley & Sons Ltd and Society for Applied Microbiology-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2023 The Authors. <italic toggle="yes">Microbial Biotechnology</italic> published by Applied Microbiology International and John Wiley &amp; Sons Ltd.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:MBT2-16-1524.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <p>Exosomes, membrane vesicles released extracellularly from cells, contain nucleic acids, proteins, lipids and other components, allowing the transfer of material information between cells. Recent studies reported the role of exosomes in pathogenic microbial infection and host immune mechanisms. <italic toggle="no">Brucella</italic>&#x2010;invasive bodies can survive in host cells for a long time and cause chronic infection, which causes tissue damage. Whether exosomes are involved in host anti&#x2010;<italic toggle="no">Brucella</italic> congenital immune responses has not been reported. Here, we extracted and identified exosomes secreted by <italic toggle="no">Brucella melitensis</italic> M5 (Exo&#x2010;M5)&#x2010;infected macrophages, and performed in vivo and in vitro studies to examine the effects of exosomes carrying antigen on the polarization of macrophages and immune activation. Exo&#x2010;M5 promoted the polarization of M1 macrophages, which induced the significant secretion of M1 cytokines (tumour necrosis factor&#x2010;&#x3B1; and interferon&#x2010;&#x3B3;) through NF&#x2010;&#x3BA;B signalling pathways and inhibited the secretion of M2 cytokines (IL&#x2010;10), thereby inhibiting the intracellular survival of <italic toggle="no">Brucella</italic>. Exo&#x2010;M5 activated innate immunity and promoted the release of IgG2a antibodies that protected mice from <italic toggle="no">Brucella</italic> infection and reduced the parasitaemia of <italic toggle="no">Brucella</italic> in the spleen. Furthermore, Exo&#x2010;M5 contained <italic toggle="no">Brucella</italic> antigen components, including Omp31 and OmpA. These results demonstrated that exosomes have an important role in immune responses against <italic toggle="no">Brucella</italic>, which might help elucidate the mechanisms of host immunity against <italic toggle="no">Brucella</italic> infection and aid the search for <italic toggle="no">Brucella</italic> biomarkers and the development of new vaccine candidates.</p>
+      </abstract>
+      <abstract abstract-type="graphical">
+        <p>Exosomes have an important role in immune responses against Brucella, which might help elucidate the mechanisms of host immunity against Brucella infection, and aid the search for Brucella biomarkers and the development of new vaccine candidates.<boxed-text position="anchor" content-type="graphic" id="mbt214274-blkfxd-0002"><graphic xlink:href="MBT2-16-1524-g004.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p>
+      </abstract>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>
+            <institution-wrap>
+              <institution>The National Natural Science Foundation of China
+</institution>
+              <institution-id institution-id-type="doi">10.13039/501100001809</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id>U1803236</award-id>
+        </award-group>
+        <award-group id="funding-0002">
+          <funding-source>The Open Project Program of Jiangsu Key Laboratory of Zoonosis</funding-source>
+          <award-id>R2104</award-id>
+        </award-group>
+        <award-group id="funding-0003">
+          <funding-source>Youth Innovation and Talent Training Program of Shihezi University</funding-source>
+          <award-id>CXPY202109</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="9"/>
+        <table-count count="1"/>
+        <page-count count="12"/>
+        <word-count count="6393"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>July 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.9 mode:remove_FC converted:20.06.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="MBT214274-cit-2001">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Meng</surname>, <given-names>C.</given-names>
+</string-name> et al. (<year>2023</year>) <article-title>Exosomes released by <italic toggle="no">Brucella</italic>&#x2010;infected macrophages inhibit the intracellular survival of <italic toggle="no">Brucella</italic> by promoting the polarization of <styled-content style="fixed-case" toggle="no">M1</styled-content> macrophages</article-title>. <source>Microbial Biotechnology</source>, <volume>16</volume>, <fpage>1524</fpage>&#x2013;<lpage>1</lpage>. Available from: <pub-id pub-id-type="doi">10.1111/1751-7915.14274</pub-id>
+<pub-id pub-id-type="pmid">37212362</pub-id></mixed-citation>
+</p>
+      <fn-group id="mbt214274-ntgp-0001">
+        <fn fn-type="equal" id="mbt214274-note-0001">
+          <p>Yueli Wang, Honghuan Li, and Zhenyu Xu contributed equally to this work.</p>
+        </fn>
+      </fn-group>
+    </notes>
+  </front>
+  <body id="mbt214274-body-0001">
+    <sec id="mbt214274-sec-0001">
+      <title>INTRODUCTION</title>
+      <p>Brucellosis is a serious zoonosis caused by <italic toggle="yes">Brucella</italic> that results in abortion and infertility in several mammal species including humans (Yi et al.,&#xA0;<xref rid="mbt214274-bib-0024" ref-type="bibr">2021</xref>). <italic toggle="yes">Brucella</italic> is a facultative intracellular bacteria with high selectivity and pathogenicity to its natural hosts. <italic toggle="yes">Brucella</italic> uses its surface virulence factors (lipopolysaccharides, outer membrane proteins and type IV secretion system) to parasitize macrophages for a long duration, resulting in persistent infection. Studies reported that exosomes that carry antigens and immunogenic factors during infection by pathogenic microorganisms might induce immune responses in hosts. Exosomes are tiny vesicles released extracellularly from cells. Intracellular pathogenic bacteria can survive in the host cell for a long time after invading the host and cause chronic infections, which can be harmful to the host (Zhao et al.,&#xA0;<xref rid="mbt214274-bib-0026" ref-type="bibr">2020</xref>). At present, few studies have examined the relationship between exosomes and intracellular pathogenic bacteria, though it was shown that intracellular bacteria such as <italic toggle="yes">Mycobacterium tuberculosis</italic>, <italic toggle="yes">Listeria monocytogenes</italic> and <italic toggle="yes">Salmonella</italic> induced cells to secrete microvesicles (Garcia&#x2010;del Portillo et al.,&#xA0;<xref rid="mbt214274-bib-0007" ref-type="bibr">1997</xref>). Other studies confirmed that microvesicles carrying <italic toggle="yes">M. tuberculosis</italic> antigens established protective immunity in mice (Giri &amp; Schorey,&#xA0;<xref rid="mbt214274-bib-0009" ref-type="bibr">2008</xref>). Whether <italic toggle="yes">Brucella</italic> an <ext-link xlink:href="http://www.baidu.com/link?url=2HqysC1Pwq4EHyD_qG5-1fflXnVN8IEcbOjQAv_-B-2XrTBbnujv5pXM_4RwlxsDWzRCevF7xA44M3HNs42qq5E4wWBtP6kGlgRp6hGMPJK1MCbvi8o7URj-5xcGeEK7" ext-link-type="uri">intracellular bacteria</ext-link> &#x2013; can induce macrophages to release exosomes requires further study.</p>
+      <p>Innate immunity is an important host defence mechanism that resists infection by pathogenic microorganisms. Macrophage polarization is a form of innate immune defence induced by external stimuli. Macrophages can be polarized into two subtypes: stimulation by interferon gamma (IFN&#x2010;&#x3B3;) or lipopolysaccharides (LPS) leads to M1 macrophages phenotype, characterized by the production of nitric oxide synthase (iNOS) and inflammatory cytokines such as tumour necrosis factor alpha (TNF&#x2010;&#x3B1;) and interleukin&#x2010;6 (IL&#x2010;6). It mainly exhibits pro&#x2010;inflammatory activity and promotes the killing of pathogenic microorganisms by the host.</p>
+      <p>In contrast, the Th2 cytokines interleukin&#x2010;4 (IL&#x2010;4) and IL&#x2010;13 activate signal transducer and activator of transcription 6 (STAT6) to promote development of M2 macrophages phenotype. It secretes anti&#x2010;inflammatory cytokines such as IL&#x2010;4, IL&#x2010;10 and transforming growth factor&#x2010;&#x3B2; (TGF&#x2010;&#x3B2;) and high expression of arginase 1 (Arg1) and mannose receptor (CD206), which play important roles in tissue repair, allergic inflammation and helminth infection (Higuchi et al.,&#xA0;<xref rid="mbt214274-bib-0010" ref-type="bibr">2016</xref>). Furthermore, M1 and M2 macrophages can be polarized to each other and their balance is important for cell homeostasis.</p>
+      <p>Exosomes carry material information between cells and participate in the activation of innate immunity (Wang et al.,&#xA0;<xref rid="mbt214274-bib-0021" ref-type="bibr">2019</xref>). Studies reported that exosomes affect the biological function of macrophages by regulating their polarization, thereby affecting the activation of innate immunity. Other studies showed that exosomes mediated inflammatory responses of host cells through the NF&#x2010;&#x3BA;B pathway (Gao et al.,&#xA0;<xref rid="mbt214274-bib-0006" ref-type="bibr">2016</xref>), which can induce macrophages to polarize to the M1 type, thereby indirectly promoting the release of Th1 type cytokines (Dai et al.,&#xA0;<xref rid="mbt214274-bib-0005" ref-type="bibr">2020</xref>). In addition, innate immunity, as well as subsequent anti&#x2010;pathogenic effects, induced by exosomes mainly relies on the transmission of immunologically active substances between immune cells via exosomes. It has been reported that LPS&#x2010;pre&#x2010;exosome can improve the regulation of macrophage polarization and secretion of inflammatory cytokines through the Toll&#x2010;like receptor (TLR)4/TLR2/NF&#x2010;&#x3BA;B signalling pathway, thereby promoting NLRP3 inflammation to activate and enhance cell phagocytic ability (Ti et al., <xref rid="mbt214274-bib-0019" ref-type="bibr">2015</xref>). However, <italic toggle="yes">Brucella</italic> induces host innate immunity mostly in the early stages of infection, after which 90% of the bacteria are eliminated. Whether <italic toggle="yes">Brucella</italic> can induce the release of exosomes from macrophages that then induce macrophage polarization to affect the survival of bacterial cells requires further study.</p>
+      <p>This study examined how exosomes carrying <italic toggle="yes">Brucella</italic> antigens initiated innate immune responses in the early stages of <italic toggle="yes">Brucella</italic> infection, and investigated the effects of macrophage polarization induced by exosomes on the survival of <italic toggle="yes">Brucella melitensis</italic> M5 (<italic toggle="yes">B. melitensis</italic> M5) in cells. This will lay a theoretical foundation for the prevention and treatment of brucellosis and the development of new <italic toggle="yes">Brucella</italic> vaccine candidates.</p>
+    </sec>
+    <sec sec-type="results" id="mbt214274-sec-0002">
+      <title>RESULTS</title>
+      <sec id="mbt214274-sec-0003">
+        <title>Identification of exosomes by different methods</title>
+        <p>Using nanoparticle tracking analysis (NTA) to detect nanoparticle sizes and transmission electron microscope (TEM) observation, we found that the exosomes collected from <italic toggle="yes">B. melitensis</italic> M5&#x2010;infected macrophages (EXO&#x2010;M5; Figure&#xA0;<xref rid="mbt214274-fig-0001" ref-type="fig">1A</xref>) or the exosomes collected from macrophages (EXO; Figure&#xA0;<xref rid="mbt214274-fig-0001" ref-type="fig">1B</xref>) were saucer&#x2010;like three&#x2010;dimensional double&#x2010;layer membrane structures with diameters of 30&#x2013;120&#x2009;nm (Figure&#xA0;<xref rid="mbt214274-fig-0001" ref-type="fig">1C</xref>). The number of the EXO&#x2010;M5 was slightly more than that of the EXO. The background was clean and conformed to the definition of exosomes.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0001">
+          <label>FIGURE 1</label>
+          <caption>
+            <p>Purification and identification of exosomes secreted from <italic toggle="yes">Brucella melitensis</italic> M5&#x2010;infected macrophages. (A and B) Method of the isolation and purification of exosomes from cell culture supernatant based on differential centrifugation. The purified exosomes secreted from <italic toggle="yes">Brucella</italic>&#x2010;infected macrophages (EXO&#x2010;M5) and secreted from macrophages (EXO) were analysed by transmission electron microscopy (TEM). (C) The EXO&#x2010;M5 and EXO size distributions were tested by nanoparticle tracking analysis (NTA). (D) Western blotting was used to identify exosomal markers (CD63, TSG101) in exosomes (5&#x2009;&#x3BC;g/well) derived from uninfected or <italic toggle="yes">B. melitensis</italic> M5&#x2010;infected macrophages and in the corresponding whole cell lysates.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g003" position="anchor" id="jats-graphic-3"/>
+        </fig>
+        <p>Western blotting detected the surface markers CD63 and TSG101 on exosomes, and exosomes released from macrophages infected with <italic toggle="yes">B. melitensis</italic> M5 positively expressed specific markers (Figure&#xA0;<xref rid="mbt214274-fig-0001" ref-type="fig">1D</xref>).</p>
+      </sec>
+      <sec id="mbt214274-sec-0004">
+        <title>Exosomes promote <styled-content style="fixed-case" toggle="no">M1</styled-content> polarization in macrophages by carrying <italic toggle="no">Brucella</italic>
+</title>
+        <p>In order to test whether exosomes bearing <italic toggle="yes">B. melitensis</italic> are associated with signalling and promoting polarization in macrophages, macrophages derived from bone marrow were incubated with Exo or Exo&#x2010;M5 for 12 and 48&#x2009;h and then the expression levels of macrophage marker molecule M1 CD86 and M2 CD206 were measured using flow cytometry analysis. Furthermore, macrophages incubated with IFN&#x2010;&#x3B3; and LPS or IL&#x2010;4 were used as positive controls to stimulate macrophage M1/M2 polarization. We found that the Exo&#x2010;M5 group significantly induced CD86 expression (Figure&#xA0;<xref rid="mbt214274-fig-0002" ref-type="fig">2A,C</xref>) and promoted macrophage polarization of the M1 type, but Exo did not (Figure&#xA0;<xref rid="mbt214274-fig-0002" ref-type="fig">2B,D</xref>).</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0002">
+          <label>FIGURE 2</label>
+          <caption>
+            <p>Flow cytometric analysis of the expression of M1/M2 surface marker molecules (CD86/CD206) in Exo and Exo&#x2010;M5 incubated macrophages. The cells incubated with Exo, Exo&#x2010;M5, IFN&#x2010;&#x3B3; and LPS or IL&#x2010;4 (control group) for 12 and 48&#x2009;h and polarized macrophages were counted via flow cytometry. CD86 (A and C) and CD206 (B and D) were used as makers to identify M1&#x2010;type or M2&#x2010;type macrophages. All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Statistical significance was determined by one&#x2010;way ANOVA. Data were presented as means &#xB1; SD. ***<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001, <sup>ns</sup>
+<italic toggle="yes">p</italic>&#x2009;&gt;&#x2009;0.05.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g009" position="anchor" id="jats-graphic-5"/>
+        </fig>
+      </sec>
+      <sec id="mbt214274-sec-0005">
+        <title>Exosomes promote the expression of <styled-content style="fixed-case" toggle="no">M1</styled-content>&#x2010;type macrophage&#x2010;related factors by carrying <italic toggle="no">Brucella</italic>
+</title>
+        <p>To explore the effects of exosomes on the transcriptional expression of M1/M2&#x2010;related factors in macrophages, we used qRT&#x2010;PCR to detect the M1&#x2010;related factors TNF&#x2010;&#x3B1; and NOS2 and the M2&#x2010;related factors IL&#x2010;10 and ARG1 induced by exosomes. Compared with the phosphate&#x2010;buffered saline (PBS), Exo&#x2010;M5 group significantly induced the transcription of TNF&#x2010;&#x3B1; and NOS2 at 4, 12 and 24&#x2009;h time points examined (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 or <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001, Figure&#xA0;<xref rid="mbt214274-fig-0003" ref-type="fig">3A,B</xref>), which reached a maximum at 12&#x2009;h. In addition, Exo&#x2010;M5 did not significantly induce the expression of IL&#x2010;10 and ARG1 (<italic toggle="yes">p</italic>&#x2009;&gt;&#x2009;0.05, Figure&#xA0;<xref rid="mbt214274-fig-0003" ref-type="fig">3C,D</xref>). Exo group has no effect on the release of M1&#x2010; and M2&#x2010;related factors. This confirms that exosomes can promote the expression of M1&#x2010;type macrophage marker&#x2010;related factors by carrying <italic toggle="yes">Brucella</italic>.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0003">
+          <label>FIGURE 3</label>
+          <caption>
+            <p>Exosomes derived from <italic toggle="yes">Brucella melitensis</italic> M5&#x2010;infected macrophages promote M1&#x2010;related factors mRNA transcription in macrophages. The transcription level of TNF&#x2010;&#x3B1; (A), NOS2 (B), IL&#x2010;10 (C) and ARG1 (D) were assessed using the qRT&#x2010;PCR. PBS&#x2010;treated samples were used as a control group. All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Data were presented as means&#x2009;&#xB1;&#x2009;SD. Statistical significance was determined by one&#x2010;way ANOVA. *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05. ***<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001. <sup>ns</sup>
+<italic toggle="yes">p</italic>&#x2009;&gt;&#x2009;0.05.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g006" position="anchor" id="jats-graphic-7"/>
+        </fig>
+      </sec>
+      <sec id="mbt214274-sec-0006">
+        <title>
+<styled-content style="fixed-case" toggle="no">Exo&#x2010;M5</styled-content> regulates the activation of <styled-content style="fixed-case" toggle="no">M1</styled-content>/<styled-content style="fixed-case" toggle="no">M2</styled-content> molecular signalling pathway</title>
+        <p>To detect whether Exo&#x2010;M5 regulates macrophage polarization through the macrophage polarization&#x2010;related signalling pathway, western blotting was used to detect activation of the M1/M2 gene signalling pathways. Exo&#x2010;M5 activated the M1 signalling pathway via NF&#x2010;&#x3BA;B p65 and phosphorylated p&#x2010;p65, which was time dependent and reached a peak at 12&#x2009;h (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001, Figure&#xA0;<xref rid="mbt214274-fig-0004" ref-type="fig">4A</xref>). However, Exo&#x2010;M5 did not activate the M2 type signal pathway via STAT6 and p&#x2010;STAT6 (<italic toggle="yes">p</italic>&#x2009;&gt;&#x2009;0.05, Figure&#xA0;<xref rid="mbt214274-fig-0004" ref-type="fig">4B</xref>). These results show that infectious exosomes can induce the activation of NF&#x2010;&#x3BA;B pathway, which may be closely related with M1&#x2010;type macrophages.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0004">
+          <label>FIGURE 4</label>
+          <caption>
+            <p>Exosomes released from <italic toggle="yes">Brucella melitensis</italic> M5&#x2010;infected cells (Exo&#x2010;M5) induce the activation of NF&#x2010;&#x3BA;B p65 signalling pathway. Exosome were incubated with macrophage for 12&#x2009;h and 48&#x2009;h. Western blot analysis of p65, p&#x2010;p65 (A, a) and STAT6, p&#x2010;STAT6 protein expression in exosome (B, b). All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Data were presented as means&#x2009;&#xB1;&#x2009;SD. Statistical significance was determined by one&#x2010;way ANOVA. ***<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.001.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g002" position="anchor" id="jats-graphic-9"/>
+        </fig>
+      </sec>
+      <sec id="mbt214274-sec-0007">
+        <title>Detection of <italic toggle="no">Brucella</italic> intracellular survival</title>
+        <p>To explore the effect of exosome&#x2010;induced macrophage polarization on the intracellular survival of <italic toggle="yes">Brucella</italic>, we used <italic toggle="yes">B. melitensis</italic> M5 to infect macrophages pre&#x2010;treated with exosomes and counted intracellular colony&#x2010;forming units (CFUs) at different time points. The results showed that at 4, 12 and 24&#x2009;h of <italic toggle="yes">B. melitensis</italic> M5 infection, Exo&#x2010;M5 pre&#x2010;treated macrophages significantly inhibited the intracellular CFUs of <italic toggle="yes">B. melitensis</italic> M5 (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 or <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, Figure&#xA0;<xref rid="mbt214274-fig-0005" ref-type="fig">5</xref>) compared with the PBS control group and that this was time dependent with a gradual downward trend overall. The results confirmed that exosome&#x2010;induced M1&#x2010;type macrophages inhibited the intracellular survival of <italic toggle="yes">Brucella</italic> and that the secretion of Th1 type cytokines may be a key factor in eliminating intracellular bacteria.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0005">
+          <label>FIGURE 5</label>
+          <caption>
+            <p>The intracellular bacterial survival was tested by measuring CFU. Recipient cells pre&#x2010;treated with Exo&#x2010;M5 or Exo, PBS as a control group and then the CFU level in macrophages were measured at different time points post&#x2010;infection. All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Data were presented as means&#x2009;&#xB1;&#x2009;SD. Statistical significance was determined by one&#x2010;way ANOVA. *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05. **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g001" position="anchor" id="jats-graphic-11"/>
+        </fig>
+      </sec>
+      <sec id="mbt214274-sec-0008">
+        <title>Detection of the relevant immune index in mice</title>
+        <p>To determine whether <italic toggle="yes">Brucella</italic>&#x2010;infected exosomes affected the release of M1 (TNF&#x2010;&#x3B1;) and M2 (IL&#x2010;10) cytokines in mice, we immunized mice with exosomes for 5, 15, 25 and 35&#x2009;days and then measured TNF&#x2010;&#x3B1;, IL&#x2010;10 and IgG2a protein levels (Figure&#xA0;<xref rid="mbt214274-fig-0006" ref-type="fig">6A</xref>). Results showed that <italic toggle="yes">Brucella</italic>&#x2010;infected exosomes significantly induced the release of TNF&#x2010;&#x3B1; compared with the PBS control group, and reached a maximum at 12&#x2009;days after immunization (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 or <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, Figure&#xA0;<xref rid="mbt214274-fig-0006" ref-type="fig">6B</xref>), but had no effect on the secretion of IL&#x2010;10 (<italic toggle="yes">p</italic>&#x2009;&gt;&#x2009;0.05, Figure&#xA0;<xref rid="mbt214274-fig-0006" ref-type="fig">6C</xref>). However, exosomes released by uninfected macrophages did not induce macrophage polarization in vivo.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0006">
+          <label>FIGURE 6</label>
+          <caption>
+            <p>Immune effects of exosomes in mice. Schematic diagram of the immunization schedule and overall experimental design (A). The mouse serum were harvested and TNF&#x2010;&#x251; (B), IL&#x2010;10 (C), IFN&#x2010;&#x3B3; (D) and IgG2a (E) production (pg/ml) were assessed by ELISA assay. All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Data were presented as means&#x2009;&#xB1;&#x2009;SD. Statistical significance was determined by one&#x2010;way ANOVA. *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05. **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g008" position="anchor" id="jats-graphic-13"/>
+        </fig>
+        <p>The Exo&#x2010;M5 group significantly induced the release of IFN&#x2010;&#x3B3; and IgG2a (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 or <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, Figure&#xA0;<xref rid="mbt214274-fig-0006" ref-type="fig">6D,E</xref>) on days 5, 15 and 25 after immunization compared with the PBS control group. However, 35&#x2009;days after immunization, the ability of Exo&#x2010;M5 to induce innate immunity gradually decreased. This suggests that Exo&#x2010;M5 induces high levels of Th1&#x2010;type immune responses in mice.</p>
+      </sec>
+      <sec id="mbt214274-sec-0009">
+        <title>Effect of exosomes on immune protection in mice</title>
+        <p>Next, we investigated whether <italic toggle="yes">Brucella</italic>&#x2010;infected exosome&#x2010;mediated macrophage polarization affected the survival rate and spleen CFUs of mice after an injection of <italic toggle="yes">B. melitensis</italic> M5. Mice in different immunization groups were infected with a maximum dose of 1&#x2009;&#xD7;&#x2009;10<sup>9</sup> CFUs 35&#x2009;days after immunization, and the survival of the mice was recorded. Nine days after <italic toggle="yes">Brucella</italic> infection, the survival rate of mice in the PBS and Exo groups was 0%, whereas that of mice in the Exo&#x2010;M5 group was 42.8% (Figure&#xA0;<xref rid="mbt214274-fig-0007" ref-type="fig">7A</xref>). Therefore, macrophage exosomes infected by <italic toggle="yes">B. melitensis</italic> M5 improved the resistance of mice against <italic toggle="yes">Brucella</italic> infection, thereby improving their survival rate.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0007">
+          <label>FIGURE 7</label>
+          <caption>
+            <p>Mice immunized with Exo&#x2010;M5 were protected against <italic toggle="yes">Brucella</italic> infection. Mice immunized with different groups of exosomes were infected with <italic toggle="yes">B. melitensis</italic> M5 (1&#x2009;&#xD7;&#x2009;10<sup>9</sup>) for 15&#x2009;days to observe the survival rate of mice in different groups. Mice immunized with different groups of exosomes were infected with <italic toggle="yes">B. melitensis</italic> M5 (1&#x2009;&#xD7;&#x2009;10<sup>6</sup>) for 1, 3, 5 and 7&#x2009;weeks infection. Then, each group of mice was sacrificed and mice spleens CFU (B) were measured. All treatments were repeated three times with <italic toggle="yes">n</italic>&#x2009;=&#x2009;3/time point. Data were presented as means&#x2009;&#xB1;&#x2009;SD. Statistical significance was determined by one&#x2010;way ANOVA. *<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05. **<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g007" position="anchor" id="jats-graphic-15"/>
+        </fig>
+        <p>At 35&#x2009;days after Exo and Exo&#x2010;M5 immunization, the spleens of mice in each group were isolated at 1, 3, 5 and 7&#x2009;weeks after <italic toggle="yes">B. melitensis</italic> M5 (1&#x2009;&#xD7;&#x2009;10<sup>6</sup>) infection and the spleen CFU count of each group was calculated. The results showed that compared with the PBS group, the amount of bacteria in the spleens of mice in the Exo&#x2010;M5 group was significantly reduced at each time point (<italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.05 or <italic toggle="yes">p</italic>&#x2009;&lt;&#x2009;0.01, Figure&#xA0;<xref rid="mbt214274-fig-0007" ref-type="fig">7B</xref>). There was no significant difference in the Exo groups at each time point. In conclusion, macrophage exosomes infected by <italic toggle="yes">B. melitensis</italic> M5 reduced damage to the spleen, to varying degrees, caused by <italic toggle="yes">Brucella</italic> infection. Exosomes also reduced the survival of <italic toggle="yes">Brucella</italic> in mice, and the combined adjuvant was beneficial for improving the immune protective effect of the exosomes.</p>
+      </sec>
+      <sec id="mbt214274-sec-0010">
+        <title>Identification of <italic toggle="no">Brucella</italic> components in exosomes</title>
+        <p>After 56&#x2010;carboxyfluorescein diacetatesuccinimidyl ester (CFSE)&#x2010;labelled <italic toggle="yes">B. melitensis</italic> M5 and PKH26&#x2010;labelled macrophages were co&#x2010;cultured, exosomes were extracted and observed with a confocal microscope. Red&#x2010;stained microparticles contained green&#x2010;stained <italic toggle="yes">B. melitensis</italic> M5 components (Figure&#xA0;<xref rid="mbt214274-fig-0008" ref-type="fig">8</xref>), indicating that RAW264.7 macrophages lysed <italic toggle="yes">Brucella</italic> after phagocytosis and that some of the lysed bacterial components were released extracellularly through the exosome pathway.</p>
+        <fig position="float" fig-type="FIGURE" id="mbt214274-fig-0008">
+          <label>FIGURE 8</label>
+          <caption>
+            <p>Detection of <italic toggle="yes">Brucella melitensis</italic> M5 in microvesicles by confocal microscopy. Macrophages were infected with <italic toggle="yes">Brucella</italic> labelled with CFSE, then the exosomes in the culture medium were extracted and labelled with PKH&#x2010;26. Bru&#x2010;CFSE: CFSE&#x2010;labelled <italic toggle="yes">Brucella</italic> components (green fluorescence); Exo&#x2010;PKH&#x2010;26: PKH&#x2010;26&#x2010;labelled exosomes released from <italic toggle="yes">Brucella</italic>&#x2010;infected macrophages (red fluorescence); Exo&#x2010;M5: exosomes released from <italic toggle="yes">Brucella</italic>&#x2010;infected macrophages RAW264.7.</p>
+          </caption>
+          <graphic xlink:href="MBT2-16-1524-g005" position="anchor" id="jats-graphic-17"/>
+        </fig>
+      </sec>
+      <sec id="mbt214274-sec-0011">
+        <title>Analysis of protein aggregation in exosomes</title>
+        <p>Next, we investigated the components in the RAW264.7 macrophage exosomes. Label&#x2010;free quantitation technologies were used to analyse the protein profiles of exosomes secreted from macrophages (with or without <italic toggle="yes">Brucella</italic> infection). Overall, 1236 proteins were identified, including 1156 proteins derived from host cells and 80 proteins derived from <italic toggle="yes">B. melitensis</italic> M5. Particularly, we found that 80 proteins contained in infectious exosomes were specific to <italic toggle="yes">B. melitensis</italic> M5, including outer membrane proteins, LPS&#x2010;related proteins, transporters and other proteins (Table&#xA0;<xref rid="mbt214274-tbl-0001" ref-type="table">1</xref>). Thus, <italic toggle="yes">Brucella</italic> antigens in these exosomes may be important stimulators that mediate macrophage polarization.</p>
+        <table-wrap position="float" id="mbt214274-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>List of major <italic toggle="no">Brucella melitensis</italic> M5 antigen proteins in exosomes.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead valign="bottom">
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Protein ID</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Protein name</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Gene name</th>
+                <th align="left" valign="bottom" rowspan="1" colspan="1">Peptides</th>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">P0A3U4</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">31&#x2009;kDa outer membrane immunogenic protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Omp31</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A0F6AQ26</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">OmpA&#x2010;like transmembrane domain protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BAbS19_I06750</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A0E1WXV9</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">ABC transporter domain&#x2010;containing protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BALG_02952</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">D6LMH8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">TRAP dicarboxylate transporter</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BAZG_00645</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">C0G8E8</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">ABC transporter, ATP&#x2010;binding protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BCETI_6000119</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A0F6AP74</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">ATP/GTP&#x2010;binding site motif A (P&#x2010;loop)</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BAbS19_I03340</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A0E1X306</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Import inner membrane translocase subunit Tim44</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BALG_01503</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">C0G3P7</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Porin subfamily protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BCETI_1000291</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A7WNU7</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Outer membrane protein 25b</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Omp25b</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A0U5MYX3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Transcriptional regulator NnrR</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BF3285c2_0933</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">A0A4Q5MJR3</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Crp/Fnr family transcriptional regulator</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">EVD24_16430</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">D6LM58</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">Chaperone protein DnaK</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">dnaK</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">E2PKN0</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">19&#x2009;kDa periplasmic protein</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">BIBO2_0596</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="mbt214274-sec-0012">
+      <title>DISCUSSION</title>
+      <p>Macrophages, an important component of immune responses, remove pathogens and maintain an immune steady state. Macrophages have strong plasticity and after a host is stimulated by pathogenic microorganisms, they can differentiate into different subtypes (M1/M2), which have different biological functions (Wang et al.,&#xA0;<xref rid="mbt214274-bib-0022" ref-type="bibr">2010</xref>). M1&#x2010;type macrophages mediate Th1&#x2010;type immune response and promote the expression of M1&#x2010;type&#x2010;related factor NO and Th1 cytokines such as TNF&#x2010;&#x3B1;, IL&#x2010;6 and IL&#x2010;12, whereas M2 macrophages mediate Th2&#x2010;type immune responses and release Th2 cytokines such as IL&#x2010;4 and IL&#x2010;10. M1&#x2010; and M2&#x2010;type macrophages can also be transformed in a special microenvironment (Verreck et al.,&#xA0;<xref rid="mbt214274-bib-0020" ref-type="bibr">2004</xref>). However, macrophages are important <italic toggle="yes">Brucella</italic> host cells and <italic toggle="yes">Brucella</italic> was reported to polarize macrophages to an M1 type in the early stages of infection, leading to increased levels of the Th1 immune factor IFN&#x2010;&#x3B3; and a rapid decrease in the bacterial load of the mouse spleen (Konrad et al.,&#xA0;<xref rid="mbt214274-bib-0012" ref-type="bibr">2005</xref>).</p>
+      <p>Exosomes are an important medium for transmitting material information, and they have functions in tumours, autoimmune diseases and pathogenic microorganism infections. Although research on the role of exosomes in pathogenic microbial infections is in the preliminary stage, exosomes might have great potential for the prevention and treatment of infectious diseases. Previous studies found that <italic toggle="yes">M. tuberculosis</italic> induced immune cells to produce a large number of exosomes. In this study, we discovered that <italic toggle="yes">B. melitensis</italic>, an intracellular bacteria, induced macrophages to release exosomes by a time&#x2010;dependent mechanism. Exosomes are important substance signal carriers released by cells, and increasing numbers of studies have reported that exosomes affected the biological functions of macrophages by regulating the polarization of macrophages. A study by Moradi&#x2010;Chaleshtori et al.&#xA0;(<xref rid="mbt214274-bib-0016" ref-type="bibr">2021</xref>) showed that exosome&#x2010;mediated miR&#x2010;33 transfer induced M1 polarization in mouse macrophages and exerted antitumor effects in a 4T1 breast cancer cell line. Cheng et al.&#xA0;(<xref rid="mbt214274-bib-0002" ref-type="bibr">2017</xref>) found exosomes from M1&#x2010;polarized macrophages potentiate the cancer vaccine by creating a pro&#x2010;inflammatory microenvironment in the lymph node.</p>
+      <p>In this study, we found that exosomes secreted from <italic toggle="yes">B. melitensis</italic> M5&#x2010;infected macrophages induced bone marrow&#x2010;derived mononuclear macrophages to polarize to an M1 type and promoting the release of Th1&#x2010;type immune factors (NOS2, TNF&#x2010;&#x3B1;). NF&#x2010;&#x3BA;B is an important immunogenic regulatory pathway that regulates the secretion of the pro&#x2010;inflammatory cytokines IL&#x2010;1&#x3B2;, IL&#x2010;6 and IL&#x2010;12 among others (Shah et al.,&#xA0;<xref rid="mbt214274-bib-0018" ref-type="bibr">2011</xref>). Some studies have found that many pathogenic microbial infections are able to promote M1 polarization of macrophages by activating the Akt, mTOR and NF&#x2010;&#x3BA;B pathway (Gary &amp; Elizabeth,&#xA0;<xref rid="mbt214274-bib-0008" ref-type="bibr">2009</xref>; Lin et al.,&#xA0;<xref rid="mbt214274-bib-0014" ref-type="bibr">2018</xref>); the activation of NF&#x2010;&#x3BA;B pathway by Exo&#x2010;M5 was also detected in our experiments, suggesting that Exo&#x2010;M5 may mediate M1 polarization of macrophages/monocytes via NF&#x2010;&#x3BA;B activation. In addition, LPS and IFN&#x2010;&#x3B3; are important activators of macrophages and their combination can strongly induce the activation of NF&#x2010;&#x3BA;B pathway; therefore, many scholars believe that the activation of NF&#x2010;&#x3BA;B signalling pathway can promote the secretion of Th1&#x2010;type cytokines (Chow et al.,&#xA0;<xref rid="mbt214274-bib-0003" ref-type="bibr">2012</xref>). Studies suggested that Th1&#x2010;type factors can induce immune cells to produce reactive oxygen species (ROS), which can directly kill pathogenic microorganisms and help mobilize natural killer cells to perform important antibacterial functions (Jiang et al.,&#xA0;<xref rid="mbt214274-bib-0011" ref-type="bibr">1993</xref>). An increase in the ROS concentration is disadvantageous to the intracellular proliferation of <italic toggle="yes">Brucella</italic> (Li et al.,&#xA0;<xref rid="mbt214274-bib-0013" ref-type="bibr">2016</xref>). Our study found that exosome&#x2010;induced M1 macrophages inhibited the intracellular survival of <italic toggle="yes">Brucella</italic>, indicating Th1 cytokine&#x2010;mediated ROS release may be an important factor in the inhibition of <italic toggle="yes">Brucella</italic> reproduction. In addition, animal experiments demonstrated that exosomes induced the release of M1 cytokines in vivo, thereby reducing the number of <italic toggle="yes">Brucella</italic> in the spleen, by a mechanism that might involve M1&#x2010;type cytokines (IFN&#x2010;&#x3B3;, IL&#x2010;12) released by M1 macrophages that directly kill <italic toggle="yes">Brucella</italic> in the host, as well as enhance the phagocytosis and bactericidal ability of macrophages, which can rapidly clear <italic toggle="yes">Brucella</italic> from the host (Xu et al.,&#xA0;<xref rid="mbt214274-bib-0023" ref-type="bibr">2021</xref>). Therefore, exosome&#x2010;mediated macrophage polarization is a new means of removing <italic toggle="yes">Brucella</italic> from a host. Exosomes are important carriers of proteins, nucleic acids and lipids, and allow the transfer of information between cells (Mathivanan et al.,&#xA0;<xref rid="mbt214274-bib-0015" ref-type="bibr">2010</xref>).</p>
+      <p>Exosomes carrying bacterial antigens have an important role in the host immune response. In this study, we confirmed that the exosomes were loaded with a critical antigenic protein from <italic toggle="yes">Brucella</italic> that affected the polarization of macrophages. We showed that <italic toggle="yes">Brucella</italic> antigens, indicated by green fluorescence, were present in exosomes released from macrophages using confocal laser scanning microscopy. Furthermore, we also found 80 important <italic toggle="yes">Brucella</italic> antigens using label&#x2010;free protein histology, including Omp31, Omp19, Omp25b, L7/L12, Cu/Zn&#x2010;SOD and others in exosomes released by <italic toggle="yes">Brucella&#x2010;</italic>infected macrophages. Therefore, these proteins in the exosomes may be an important factor in inducing macrophage polarization. Omp31 and Omp25B are immunogenic and were reported to induce humoral and cellular immune responses, as well as have protective effects against <italic toggle="yes">Brucella</italic> (Clausse et al.,&#xA0;<xref rid="mbt214274-bib-0004" ref-type="bibr">2013</xref>). A study reported that mice immunized with peptides of OMP31 containing T epitope, B epitope or TB epitopes are of high immunogenicity, which can protect mice from <italic toggle="yes">B. melitensis</italic> infection in the lung (Zhang et al.,&#xA0;<xref rid="mbt214274-bib-0025" ref-type="bibr">2019</xref>) and that a stable memory immune response was produced (Ranjbar et al.,&#xA0;<xref rid="mbt214274-bib-0017" ref-type="bibr">2016</xref>). Therefore, exosomes containing antigens can inhibit the reproduction of <italic toggle="yes">Brucella</italic> in mice and induce the M1 polarization of macrophages in vivo to promote Th1&#x2010;type immunity. The secretion of cytokines, such as TNF&#x2010;&#x3B1; and IFN&#x2010;&#x3B3;, inhibit the replication of bacteria and exosomes carrying antigens can induce the host to produce IgG, resulting in protection against infection. However, how the antigen molecules in the exosomes interact with the host and how they activate the immune response mechanisms require further exploration.</p>
+      <p>In summary, our study confirmed that exosomes released by <italic toggle="yes">B. melitensis</italic> M5&#x2010;infected macrophages induced bone marrow&#x2010;derived mononuclear macrophages to polarize to M1 and promoted the secretion of Th1 cytokines, thereby indirectly inhibiting the survival of <italic toggle="yes">B. melitensis</italic> M5 in vivo and in vitro. In addition, exosomes stimulated strong immune responses in mice that were protective against infection. These immunostimulatory effects may be related to <italic toggle="yes">Brucella</italic> antigens present in the exosomes. Taken together, these findings provide a basis to explore the role of exosomes in host immune responses and aid the development of new <italic toggle="yes">Brucella</italic> vaccines.</p>
+      <sec id="mbt214274-sec-0013">
+        <title>Bacterial strains, cells and mice</title>
+        <p>
+<italic toggle="yes">Brucella melitensis</italic> M5 was provided by the Chinese Center for Disease Control and Prevention. RAW264.7 macrophages were obtained from the Type Culture Collection of the Chinese Academy of Sciences (China, Beijing). BALB/c mice aged 6&#x2009;weeks were purchased from the Experimental Animal Center of Xinjiang Medical University. All animal care in this study was carried out in accordance with institutional animal care guidelines and related laws.</p>
+      </sec>
+      <sec id="mbt214274-sec-0014">
+        <title>Preparation of mouse bone marrow&#x2010;derived mononuclear macrophages</title>
+        <p>Bone marrow cells were isolated from mouse femurs and tibias and cultured in RPMI 1640 medium. On the second day, mouse M&#x2010;CSF (RPMI 1640&#x2009;+&#x2009;10% FBS&#x2009;+&#x2009;M&#x2010;CSF) was added at a concentration of 10&#x2009;ng/ml to induce bone marrow monocytes to differentiate into monocytes/macrophages. On the seventh day, the differentiated bone marrow&#x2010;derived mononuclear macrophages were collected.</p>
+      </sec>
+      <sec id="mbt214274-sec-0015">
+        <title>
+<italic toggle="no">Brucella melitensis</italic>
+<styled-content style="fixed-case" toggle="no">M5</styled-content> infection of <styled-content style="fixed-case" toggle="no">RAW264</styled-content>.7 macrophages</title>
+        <p>RAW264.7 macrophages were infected with <italic toggle="yes">B. melitensis</italic> M5 for 1&#x2009;h at a multiplicity of infection (MOI; bacteria: cell) of 100:1. Cells were incubated for 1&#x2009;h and then washed three times with PBS. Next, gentamicin (25&#x2009;&#x3BC;g/ml) was added into the cell culture medium and incubated for 45&#x2009;min to kill <italic toggle="yes">Brucella</italic> outside the cells. The culture medium was discarded and replaced. At 24&#x2009;h post&#x2010;<italic toggle="yes">Brucella</italic> infection, the supernatants were collected from each plate.</p>
+      </sec>
+      <sec id="mbt214274-sec-0016">
+        <title>Extraction and identification of exosomes</title>
+        <p>The extraction and identification methods for exosomes were reported previously (Chen et al.,&#xA0;<xref rid="mbt214274-bib-0001" ref-type="bibr">2020</xref>). RAW264.7 macrophages were infected with <italic toggle="yes">B. melitensis</italic> M5 and cultured at an MOI of 100:1 (bacteria/cell) for 1&#x2009;h. After adding gentamicin sulphate for 30&#x2009;min, the cell culture supernatant was collected at 24&#x2009;h after infection. Then, supernatants were centrifuged at 1000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> for 5&#x2009;min, 5000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> for 5&#x2009;min and 14,000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> for 30&#x2009;min to eliminate the cell debris. The supernatant was passed through a 0.22&#x2010;&#x3BC;m filter to eliminate <italic toggle="yes">Brucella</italic> and then centrifuged further for 2&#x2009;h at 12,000&#x2009;&#xD7;&#x2009;<italic toggle="yes">g</italic> to pellet the exosomes. <italic toggle="yes">Brucella</italic> uninfected cells were also used as controls to extract exosomes using the same procedure.</p>
+        <p>The purified exosomes were identified by NTA, TEM and western blotting as described by Chen (Chen et al., <xref rid="mbt214274-bib-0001" ref-type="bibr">2020</xref>). The total protein concentration of exosomes was measured using a BCA assay kit (Pierce, Rochford, IL). Before the experiment, all isolated exosomes were stored at &#x2212;80&#xB0;C.</p>
+      </sec>
+      <sec id="mbt214274-sec-0017">
+        <title>Flow cytometric analysis</title>
+        <p>The bone marrow&#x2010;derived mononuclear macrophages were incubated with exosomes, and then macrophages were collected at 12 and 48&#x2009;h. In addition, IFN&#x2010;&#x3B3; and LPS or IL&#x2010;4&#x2010;stimulated cells were added to the cells as a positive control. The expressions of the M1&#x2010;type macrophage marker molecule CD86 and M2&#x2010;type macrophage marker molecule CD206 were detected by flow cytometry with IgG2a as an isotype control. After the macrophages of different treatment groups were fixed and ruptured, the corresponding antibodies were added, incubated, protected from light at 4&#xB0;C for 30&#x2009;min, washed with 1&#xD7; binding buffer and tested on the flow cytometer.</p>
+      </sec>
+      <sec id="mbt214274-sec-0018">
+        <title>Real&#x2010;time <styled-content style="fixed-case" toggle="no">PCR</styled-content>
+</title>
+        <p>Exosomes were co&#x2010;incubated with 5&#x2009;mmol&#x2009;L<sup>&#x2212;1</sup> ATP and peritoneal macrophages or bone marrow&#x2010;derived mononuclear macrophages. At 8 and 24&#x2009;h, Trizol lysate was added, RNA was extracted according to the RNA extraction kit instructions and the total RNA concentration was measured. Then, a cDNA synthesis kit was used for the reverse transcription of the total RNA.</p>
+        <p>A fluorescence real&#x2010;time quantitative PCR instrument was used to detect the expression levels of mRNAs for M1/M2&#x2010;related genes. The RT&#x2010;PCR system included 1&#x2009;&#x3BC;l cDNA, 5&#x2009;&#x3BC;l SYBR green mix, 0.2&#x2009;&#x3BC;l of upstream and downstream primers and 3.6&#x2009;&#x3BC;l sterile water. The reaction conditions were pre&#x2010;denaturation at 95&#xB0;C for 30&#x2009;s, denaturation at 95&#xB0;C for 30&#x2009;s, extension at 60&#xB0;C for 35&#x2009;s, with 45&#x2009;cycles. <italic toggle="yes">GAPDH</italic> was used as an internal control.</p>
+      </sec>
+      <sec id="mbt214274-sec-0019">
+        <title>Western blotting</title>
+        <p>Bone marrow&#x2010;derived mononuclear macrophages and peritoneal macrophages were incubated with exosomes, and protein samples were collected at 12 and 48&#x2009;h. In addition, IFN&#x2010;&#x3B3; and LPS or IL&#x2010;4 stimulated cells were added to the cells as a positive control. Western blotting was used to detect the protein expressions of NF&#x2010;&#x3BA;B p65, p&#x2010;p65 and STAT6, p&#x2010;STAT6. All collected protein samples were tested for related protein expression levels according to the above&#x2010;mentioned western blotting method.</p>
+      </sec>
+      <sec id="mbt214274-sec-0020">
+        <title>
+<styled-content style="fixed-case" toggle="no">CFU</styled-content> detection</title>
+        <p>Exosomes released from different pre&#x2010;treated cells were incubated with bone marrow&#x2010;derived mononuclear macrophages for 8&#x2009;h and then infected with <italic toggle="yes">B. melitensis</italic> M5 for 4, 8, 12, 24 or 48&#x2009;h. Then, these cells were lysed with 0.5&#x2009;ml of 0.2% Tween 20 at each of post&#x2010;infected time point, incubated for 15&#x2013;30&#x2009;min on ice, followed by rinsing each well with 0.5&#x2009;ml of PBS. Viable bacteria were quantified by serial dilution in sterile PBS and plating on TSA and then they were incubated at 37&#xB0;C for 72&#x2009;h followed by colony counting.</p>
+      </sec>
+      <sec id="mbt214274-sec-0021">
+        <title>Immunization of mice with exosomes</title>
+        <p>Three immunization groups were formed: exosomes released from <italic toggle="yes">Brucella</italic>&#x2010;infected RAW264.7 macrophages combined with adjuvant (Exo&#x2010;M5); exosomes released from normal RAW264.7 macrophages combined with adjuvant (Exo) and PBS alone. The immunization dose for each group was 100&#x2009;&#x3BC;l (0.3&#x2009;&#x3BC;g/&#x3BC;l). Immunization was performed two times at 15&#x2009;days intervals and 100&#x2009;&#x3BC;l was injected each time.</p>
+      </sec>
+      <sec id="mbt214274-sec-0022">
+        <title>
+<italic toggle="no">Brucella</italic> challenge</title>
+        <p>Mice were inoculated with exosomes 35&#x2009;days later. The maximum lethal dose of <italic toggle="yes">B. melitensis</italic> M5 (1&#x2009;&#xD7;&#x2009;10<sup>9</sup> CFUs) was suspended in 0.1&#x2009;ml PBS and then injected subcutaneously into the abdominal cavity of mice. The survival of mice and the mental state of the surviving mice were noted. Of note, 0.1&#x2009;ml of PBS was injected as a control. Mice were inoculated with exosomes 35&#x2009;days later and the optimal dose of <italic toggle="yes">B. melitensis</italic> M5 was injected into the abdominal cavity of the mice.</p>
+      </sec>
+      <sec id="mbt214274-sec-0023">
+        <title>Detection of the immune index and measurement of the spleen <styled-content style="fixed-case" toggle="no">CFUs</styled-content> in mice</title>
+        <p>On days 5, 15, 25 and 35 after immunization, the mice in each group were tail&#x2010;clamped to collect blood and serum. Mouse IgG2a and IFN&#x2010;&#x3B3; ELISAs were performed in accordance with the manufacturer's instructions. Three mice in each group were sacrificed by cervical dislocation, spleens were removed and spleen cells were isolated and counted. The number of spleen lymphocytes was adjusted to 1&#x2009;&#xD7;&#x2009;10<sup>6</sup> cells/ml and they were added to a 96&#x2010;well plate. Then, 10&#x2009;&#x3BC;l of inactivated <italic toggle="yes">B. melitensis</italic> M5 (10<sup>7</sup> CFUs/well) was added for 68&#x2009;h. Next, the lymphocyte culture supernatant was collected and used for mouse IFN&#x2010;&#x3B3; ELISA.</p>
+        <p>At 5, 15, 25 and 35&#x2009;days after <italic toggle="yes">B. melitensis</italic> M5 infection, three <italic toggle="yes">Brucella</italic>&#x2010;infected mice per group were humanely sacrificed, and spleens were removed and weighed. The spleen was placed into a centrifuge tube containing PBS buffer, 1&#x2009;ml of 0.2% Triton X&#x2010;100, several small steel balls and homogenized in a homogenizer. Then, 100&#x2009;&#x3BC;l of the diluted homogenate was diluted in sterile saline and plated onto TSA. The plates were incubated at 37&#xB0;C and <italic toggle="yes">Brucella</italic> CFUs were enumerated. The results were presented as log<sub>10</sub> CFUs per spleen.</p>
+      </sec>
+      <sec id="mbt214274-sec-0024">
+        <title>Chemical staining</title>
+        <p>CFSE (Sigma, USA)&#x2010;stained <italic toggle="yes">B. melitensis</italic> M5 was added to PKH26 (Sigma, USA)&#x2010;stained RAW264.7 macrophages and mixed. <italic toggle="yes">Brucella</italic> particles were added at 50 times the number of cells. After 12&#x2009;h of co&#x2010;cultivation, the supernatant was collected by centrifugation and the staining results were observed under a confocal microscope.</p>
+      </sec>
+      <sec id="mbt214274-sec-0025">
+        <title>Exosomal proteomics analysis</title>
+        <p>In this experiment, the identified exosomes were sent to Applied Protein Technology Co., Ltd. (Shanghai, China) for label&#x2010;free quantitative proteomics analysis. The exosome samples were divided into two groups: exosomes released from normal RAW264.7 macrophages (uninfected group) and exosomes released from <italic toggle="yes">Brucella</italic> infected RAW264.7 macrophages (infected group), with three replicates per group.</p>
+      </sec>
+      <sec id="mbt214274-sec-0026">
+        <title>Data analyses</title>
+        <p>All original data were analysed using Microsoft Excel software, and GraphPad Prism statistical software was used for graphing and one&#x2010;way analysis of variance. The results are displayed using the mean&#x2009;&#xB1;&#x2009;standard deviation (M&#x2009;&#xB1;&#x2009;SD), and differences were considered statistically significant when <italic toggle="yes">p</italic> values were &lt;0.05 and &lt;0.01.</p>
+      </sec>
+    </sec>
+    <sec id="mbt214274-sec-0029">
+      <title>AUTHOR CONTRIBUTIONS</title>
+      <p>
+<bold>Wang Yueli:</bold> Conceptualization (equal); formal analysis (equal); methodology (equal); supervision (equal); validation (equal); writing &#x2013; original draft (equal); writing &#x2013; review and editing (equal). <bold>Honghuan Li:</bold> Data curation (equal); methodology (equal); resources (equal); validation (equal). <bold>Zhenyu Xu:</bold> Validation (equal); writing &#x2013; review and editing (equal). <bold>Jihai Yi:</bold> Data curation (equal); methodology (equal); validation (equal); writing &#x2013; review and editing (equal). <bold>Wei Li:</bold> Methodology (equal); resources (equal); validation (equal). <bold>Chuang Meng:</bold> Validation (equal); writing &#x2013; review and editing (equal). <bold>Huan Zhang:</bold> Formal analysis (equal); validation (equal). <bold>Xiaoyu Deng:</bold> Data curation (equal); formal analysis (equal); resources (equal); validation (equal). <bold>Zhongchen Ma:</bold> Validation (equal); visualization (equal); writing &#x2013; original draft (equal); writing &#x2013; review and editing (equal). <bold>Yong Wang:</bold> Validation (equal); writing &#x2013; review and editing (equal). <bold>Chuangfu Chen:</bold> Validation (equal); writing &#x2013; review and editing (equal).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="mbt214274-sec-0027">
+      <title>CONFLICT OF INTEREST STATEMENT</title>
+      <p>The authors have declared that there are no competing interests.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="mbt214274-sec-0028">
+      <title>ACKNOWLEDGEMENTS</title>
+      <p>This work was supported by the Open Project Program of Jiangsu Key Laboratory of Zoonosis (No. R2104), Youth Innovation and Talent Training Program of Shihezi University (CXPY202109), supported by the National Natural Science Foundation of China (No. U1803236). We thank Liwen Bianji (Edanz) (<ext-link xlink:href="http://www.liwenbianji.cn/" ext-link-type="uri">www.liwenbianji.cn/</ext-link>) for editing the language of a draft of this manuscript.</p>
+    </ack>
+    <ref-list content-type="cited-references" id="mbt214274-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="mbt214274-bib-0001">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0001">
+<string-name>
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ruan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name> et al. (<year>2020</year>) <article-title>Extraction and identification of synovial tissue&#x2010;derived exosomes by different separation techniques</article-title>. <source>Journal of Orthopaedic Surgery and Research</source>, <volume>15</volume>, <fpage>1</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">31900192</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0002">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0002">
+<string-name>
+<surname>Cheng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name> &amp; <string-name>
+<surname>Huang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>) <article-title>Exosomes from M1&#x2010;polarized macrophages potentiate the cancer vaccine by creating a pro&#x2010;inflammatory microenvironment in the lymph node</article-title>. <source>Molecular Therapy</source>, <volume>25</volume>, <fpage>1665</fpage>&#x2013;<lpage>1675</lpage>.<pub-id pub-id-type="pmid">28284981</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0003">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0003">
+<string-name>
+<surname>Chow</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Vidyadaran</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lajis</surname>, <given-names>N.H.</given-names>
+</string-name>, <string-name>
+<surname>Akhtar</surname>, <given-names>M.N.</given-names>
+</string-name>, <string-name>
+<surname>Israf</surname>, <given-names>D.A.</given-names>
+</string-name> et al. (<year>2012</year>) <article-title>Cardamonin from <italic toggle="yes">Alpinia rafflesiana</italic> inhibits inflammatory responses in IFN&#x2010;&#x3B3;/LPS&#x2010;stimulated bv2 microglia via NF&#x2010;&#x3BA;B signalling pathway</article-title>. <source>International Immunopharmacology</source>, <volume>12</volume>, <fpage>8</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0004">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0004">
+<string-name>
+<surname>Clausse</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>D&#xED;az</surname>, <given-names>A.G.</given-names>
+</string-name>, <string-name>
+<surname>Ghersi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zylberman</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Cassataro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Giambartolomei</surname>, <given-names>G.H.</given-names>
+</string-name> et al. (<year>2013</year>) <article-title>The vaccine candidate BLSOmp31 protects mice against <italic toggle="yes">Brucella canis</italic> infection</article-title>. <source>Vaccine</source>, <volume>31</volume>, <fpage>6129</fpage>&#x2013;<lpage>6135</lpage>.<pub-id pub-id-type="pmid">23906889</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0005">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0005">
+<string-name>
+<surname>Dai</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Shali</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>) <article-title>M2 macrophage&#x2010;derived exosomes carry microRNA&#x2010;148a to alleviate myocardial ischemia/reperfusion injury via inhibiting TXNIP and the TLR4/NF&#x2010;&#x3BA;B/NLRP3 inflammasome signaling pathway</article-title>. <source>Journal of Molecular and Cellular Cardiology</source>, <volume>142</volume>, <fpage>65</fpage>&#x2013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">32087217</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0006">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0006">
+<string-name>
+<surname>Gao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name> et al. (<year>2016</year>) <article-title>Exosomes derived from mature dendritic cells increase endothelial inflammation and atherosclerosis via membrane TNF&#x2010;&#x3B1; mediated NF&#x2010;&#x3BA;B pathway</article-title>. <source>Journal of Cellular and Molecular Medicine</source>, <volume>20</volume>, <fpage>2318</fpage>&#x2013;<lpage>2327</lpage>.<pub-id pub-id-type="pmid">27515767</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0007">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0007">
+<string-name>
+<surname>Garcia&#x2010;del Portillo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>M.A.</given-names>
+</string-name> &amp; <string-name>
+<surname>Finlay</surname>, <given-names>B.B.</given-names>
+</string-name> (<year>1997</year>) <article-title>Release of lipopolysaccharide from intracellular compartments containing <italic toggle="yes">Salmonella typhimurium</italic> to vesicles of the host epithelial cell</article-title>. <source>Infection and Immunity</source>, <volume>65</volume>, <fpage>24</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">8975888</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0008">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0008">
+<string-name>
+<surname>Gary</surname>, <given-names>C.</given-names>
+</string-name> &amp; <string-name>
+<surname>Elizabeth</surname>, <given-names>R.</given-names>
+</string-name> (<year>2009</year>) <article-title>NF&#x2010;&#x3BA;B and phosphatidylinositol 3&#x2010;kinase activity mediates the HCMV&#x2010;induced atypical M1/M2 polarization of monocytes</article-title>. <source>Virus Research</source>, <volume>4</volume>, <fpage>26</fpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0009">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0009">
+<string-name>
+<surname>Giri</surname>, <given-names>P.K.</given-names>
+</string-name> &amp; <string-name>
+<surname>Schorey</surname>, <given-names>J.S.</given-names>
+</string-name> (<year>2008</year>) <article-title>Exosomes derived from <italic toggle="yes">M. bovis</italic> BCG infected macrophages activate antigen&#x2010;specific CD4+ and CD8+ T cells in vitro and in vivo</article-title>. <source>PLoS One</source>, <volume>3</volume>, <elocation-id>e2461</elocation-id>.<pub-id pub-id-type="pmid">18560543</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0010">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0010">
+<string-name>
+<surname>Higuchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Shoji</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Murase</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Iijima</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name>
+<surname>Nishijima</surname>, <given-names>K.I.</given-names>
+</string-name> (<year>2016</year>) <article-title>Siglec&#x2010;9 modulated IL&#x2010;4 responses in the macrophage cell line RAW264</article-title>. <source>Bioscience, Biotechnology, and Biochemistry</source>, <volume>80</volume>, <fpage>501</fpage>&#x2013;<lpage>509</lpage>.<pub-id pub-id-type="pmid">26540411</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0011">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0011">
+<string-name>
+<surname>Jiang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>, <given-names>R.</given-names>
+</string-name> &amp; <string-name>
+<surname>Baldwin</surname>, <given-names>C.L.</given-names>
+</string-name> (<year>1993</year>) <article-title>Macrophage control of <italic toggle="yes">Brucella abortus</italic>: role of reactive oxygen intermediates and nitric oxide</article-title>. <source>Cellular Immunology</source>, <volume>151</volume>, <fpage>309</fpage>&#x2013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">8402938</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0012">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0012">
+<string-name>
+<surname>Konrad</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Rudich</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bilan</surname>, <given-names>P.J.</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>, <given-names>N.</given-names>
+</string-name> &amp; <string-name>
+<surname>Richardson</surname>, <given-names>C.</given-names>
+</string-name> (<year>2005</year>) <article-title>Troglitazone causes acute mitochondrial membrane depolarisation and an AMPK&#x2010;mediated increase in glucose phosphorylation in muscle cells</article-title>. <source>Diabetologia</source>, <volume>48</volume>, <fpage>954</fpage>&#x2013;<lpage>966</lpage>.<pub-id pub-id-type="pmid">15834551</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0013">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0013">
+<string-name>
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z.</given-names>
+</string-name> &amp; <string-name>
+<surname>Tong</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2016</year>) <article-title>
+<italic toggle="yes">Brucella melitensis</italic> 16M regulates the effect of AIR domain on inflammatory factors, autophagy, and apoptosis in mouse macrophage through the ROS signaling pathway</article-title>. <source>PLoS One</source>, <volume>11</volume>, <fpage>1</fpage>&#x2013;<lpage>22</lpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0014">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0014">
+<string-name>
+<surname>Lin</surname>, <given-names>L.R.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>Z.X.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>X.Z.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name> et al. (<year>2018</year>) <article-title>Akt, mTOR and NF&#x2010;&#x3BA;B pathway activation in <italic toggle="yes">Treponema pallidum</italic> stimulates m1 macrophages</article-title>. <source>International Immunopharmacology</source>, <volume>59</volume>, <fpage>181</fpage>&#x2013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">29656208</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0015">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0015">
+<string-name>
+<surname>Mathivanan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>, <given-names>H.</given-names>
+</string-name> &amp; <string-name>
+<surname>Simpson</surname>, <given-names>R.J.</given-names>
+</string-name> (<year>2010</year>) <article-title>Exosomes: Extracellular organelles important in intercellular communication</article-title>. <source>Journal of Proteomics</source>, <volume>73</volume>, <fpage>1907</fpage>&#x2013;<lpage>1920</lpage>.<pub-id pub-id-type="pmid">20601276</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0016">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0016">
+<string-name>
+<surname>Moradi&#x2010;Chaleshtori</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bandehpour</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Heidari</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mohammadi&#x2010;Yeganeh</surname>, <given-names>S.</given-names>
+</string-name> &amp; <string-name>
+<surname>Hashemi</surname>, <given-names>S.M.</given-names>
+</string-name> (<year>2021</year>) <article-title>Exosome&#x2010;mediated miR&#x2010;33 transfer induces M1 polarization in mouse macrophages and exerts antitumor effect in 4T1 breast cancer cell line</article-title>. <source>International Immunopharmacology</source>, <volume>90</volume>, <elocation-id>107198</elocation-id>.<pub-id pub-id-type="pmid">33249048</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0017">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0017">
+<string-name>
+<surname>Ranjbar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sharifimoghadam</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Saeidi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Jonaidi</surname>, <given-names>N.</given-names>
+</string-name> &amp; <string-name>
+<surname>Sheikhshahrokh</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Induction of protective immune responses in mice by double DNA vaccine encoding of <italic toggle="yes">Brucella melitensis</italic> omp31 and <italic toggle="yes">Escherichia coli</italic> Eae genes</article-title>. <source>Tropical Journal of Pharmaceutical Research</source>, <volume>15</volume>, <fpage>2077</fpage>&#x2013;<lpage>2083</lpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0018">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0018">
+<string-name>
+<surname>Shah</surname>, <given-names>V.O.</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name>
+<surname>Hunsaker</surname>, <given-names>L.A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Cardiac glycosides inhibit LPS&#x2010;induced activation of pro&#x2010;inflammatory cytokines in whole blood through an NF&#x2010;&#x3BA;B&#x2010;dependent mechanism</article-title>. <source>International Journal of Applied Research in Natural Products</source>, <volume>4</volume>, <fpage>11</fpage>&#x2013;<lpage>19</lpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0019">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0019">
+<string-name>
+<surname>Ti</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name> &amp; <string-name>
+<surname>Dong</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>) <article-title>LPS&#x2010;preconditioned mesenchymal stromal cells modify macrophage polarization for resolution of chronic inflammation via exosome&#x2010;shuttled let&#x2010;7b</article-title>. <source>Journal of Translational Medicine</source>, <volume>13</volume>, <fpage>1</fpage>&#x2013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">25591711</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0020">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0020">
+<string-name>
+<surname>Verreck</surname>, <given-names>F.A.W.</given-names>
+</string-name>, <string-name>
+<surname>De Boer</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Langenberg</surname>, <given-names>D.M.L.</given-names>
+</string-name>, <string-name>
+<surname>Hoeve</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vaisberg</surname>, <given-names>E.</given-names>
+</string-name> et al. (<year>2004</year>) <article-title>Human IL&#x2010;23&#x2010;producing type 1 macrophages promote but IL&#x2010;10&#x2010;producing type 2 macrophages subvert immunity to (myco)bacteria</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>101</volume>, <fpage>4560</fpage>&#x2013;<lpage>4565</lpage>.<pub-id pub-id-type="pmid">15070757</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0021">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0021">
+<string-name>
+<surname>Wang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nasser</surname>, <given-names>M.I.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Q.</given-names>
+</string-name> &amp; <string-name>
+<surname>Zhao</surname>, <given-names>M.</given-names>
+</string-name> (<year>2019</year>) <article-title>Functions of exosomes in the triangular relationship between the tumor, inflammation, and immunity in the tumor microenvironment</article-title>. <source>Journal of Immunology Research</source>, <volume>2019</volume>, <fpage>10</fpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0022">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0022">
+<string-name>
+<surname>Wang</surname>, <given-names>Y.C.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.W.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>G.Y.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>H.Y.</given-names>
+</string-name> et al. (<year>2010</year>) <article-title>Notch signaling determines the M1 versus M2 polarization of macrophages in antitumor immune responses</article-title>. <source>Cancer Research</source>, <volume>70</volume>, <fpage>4840</fpage>&#x2013;<lpage>4849</lpage>.<pub-id pub-id-type="pmid">20501839</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0023">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0023">
+<string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>Y.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Erratum: Phosphorylation&#x2010;mediated IFN&#x2010;&#x3B3; R2 membrane translocation is required to activate macrophage innate response</article-title>. <source>Cell</source>, <volume>184</volume>, <fpage>1393</fpage>&#x2013;<lpage>1394</lpage>.<pub-id pub-id-type="pmid">33667370</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0024">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0024">
+<string-name>
+<surname>Yi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Xi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> et al. (<year>2021</year>) <article-title>Interferon&#x2010;inducible transmembrane protein 3&#x2010;containing exosome as a new carrier for the cell&#x2010;to&#x2010;cell transmission of anti&#x2010;<italic toggle="yes">Brucella</italic> activity</article-title>. <source>Frontiers in Veterinary Science</source>, <volume>8</volume>, <fpage>1</fpage>&#x2013;<lpage>11</lpage>.</mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0025">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0025">
+<string-name>
+<surname>Zhang</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name> &amp; <string-name>
+<surname>Jia</surname>, <given-names>B.</given-names>
+</string-name> (<year>2019</year>) <article-title>The immunogenicity of OMP31 peptides and its protection against <italic toggle="yes">Brucella melitensis</italic> infection in mice</article-title>. <source>Scientific Reports</source>, <volume>9</volume>, <fpage>3512</fpage>.<pub-id pub-id-type="pmid">30837598</pub-id></mixed-citation>
+      </ref>
+      <ref id="mbt214274-bib-0026">
+        <mixed-citation publication-type="journal" id="mbt214274-cit-0026">
+<string-name>
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>, <given-names>W.</given-names>
+</string-name> &amp; <string-name>
+<surname>Zhang</surname>, <given-names>W.</given-names>
+</string-name> (<year>2020</year>) <article-title>Exosomes as drug carriers for cancer therapy and challenges regarding exosome uptake</article-title>. <source>Biomedicine &amp; Pharmacotherapy</source>, <volume>128</volume>, <elocation-id>110237</elocation-id>.<pub-id pub-id-type="pmid">32470747</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,858 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">One Health Outlook</journal-id><journal-id journal-id-type="iso-abbrev">One Health Outlook</journal-id><journal-title-group><journal-title>One Health Outlook</journal-title></journal-title-group><issn pub-type="epub">2524-4655</issn><publisher><publisher-name>BioMed Central</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38062496</article-id><article-id pub-id-type="pmc">10704630</article-id>
+<article-id pub-id-type="publisher-id">89</article-id><article-id pub-id-type="doi">10.1186/s42522-023-00089-y</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>The impact of controlling diseases of significant global importance on greenhouse gas emissions from livestock production</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4320-7752</contrib-id><name><surname>Capper</surname><given-names>Judith L.</given-names></name><address><email>jude@livestocksustainability.com</email></address><xref ref-type="aff" rid="Aff1"/></contrib><aff id="Aff1">Livestock Sustainability Consultancy, Harwell, Didcot, Oxfordshire UK </aff></contrib-group><pub-date pub-type="epub"><day>8</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>8</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><year>2023</year></pub-date><volume>5</volume><elocation-id>17</elocation-id><history><date date-type="received"><day>21</day><month>2</month><year>2023</year></date><date date-type="accepted"><day>9</day><month>10</month><year>2023</year></date></history><permissions><copyright-statement>&#xA9; The Author(s) 2023</copyright-statement><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><sec><title>Background</title><p id="Par1">A considerable body of evidence has reported the beneficial effects of improving productivity on reducing environmental impacts from livestock production. However, despite the negative impacts of animal diseases on reproduction, growth and milk production, there is little information available upon the impacts of animal disease on greenhouse gas emissions (GHGe). This study aimed to partially address this knowledge gap by investigating the effects of globally important vaccine-preventable diseases on GHGe from various livestock systems, namely: intensive dairy, extensive beef, commercial swine and backyard poultry production.</p></sec><sec><title>Methods</title><p id="Par2">Simple deterministic models were developed within Microsoft Excel to quantify the impacts of livestock disease on productivity (defined as total milk and/or meat yield, MMY) adjusted for disease prevalence both at the population level (high or low), and at the herd or flock level. Disease-induced changes in MMY were applied to the GHGe per kg of milk or meat according to the consequent changes in livestock populations required to maintain milk or meat production. Diseases investigated comprised foot and mouth, brucellosis, anthrax, lumpy skin disease, classical swine fever, porcine reproductive and respiratory syndrome (PRRS), low and high pathogenicity avian influenza (LPAI and HPAI), avian infectious bronchitis and Newcastle disease.</p></sec><sec><title>Results</title><p id="Par3">All diseases investigated had multifactorial impacts on total MMY, yet diseases that increased mortality in breeding or growing livestock (e.g. anthrax, classical swine fever and HPAI) showed greater impacts on GHGe per unit of milk or meat produced than those that primarily affecting yields or reproduction (e.g. brucellosis or LPAI). Prevalence also had considerable effects on potential GHGe. For example, maintaining backyard poultry meat production from a 100,000 hen population with 70% prevalence of HPAI increased GHGe by 11,255 MT CO<sub>2</sub>eq compared to a 30% prevalence at 3475 MT CO<sub>2</sub>eq above the baseline (0% prevalence). Effective reduction of the prevalence of PRRS in swine from 60 to 10%, FMD in beef cattle from 45 to 5% prevalence, or AIB in poultry from 75 to 20% prevalence would reduce GHGe intensities (CO<sub>2</sub>eq/kg CW) by 22.5%, 9.11% and 11.3% respectively.</p></sec><sec><title>Conclusions</title><p id="Par4">Controlling livestock disease can reduce MMY losses at the farm level, which improves food security, reduces GHGe and enhances livestock system sustainability.</p></sec><sec><title>Supplementary Information</title><p>The online version contains supplementary material available at 10.1186/s42522-023-00089-y.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Animal health</kwd><kwd>Cattle</kwd><kwd>Environmental impact</kwd><kwd>Food security</kwd><kwd>Sustainability</kwd><kwd>Vaccines</kwd></kwd-group><funding-group><award-group><funding-source><institution>Health for Animals </institution></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#xA9; BioMed Central Ltd. 2023</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par5">As the global population increases to a predicted 9.7 billion people by 2050 [<xref ref-type="bibr" rid="CR1">1</xref>], consumption of milk, meat and eggs is predicted to increase by 48.6% by 2050 [<xref ref-type="bibr" rid="CR2">2</xref>]. Livestock producers worldwide are therefore faced with the considerable task of producing more livestock-derived foods (LDF), using fewer resources, while maintaining food safety, quality and affordability [<xref ref-type="bibr" rid="CR3">3</xref>].</p>
+      <p id="Par6">There is a considerable body of evidence linking improved livestock productivity (milk and/or meat yield, MMY) and consequent decreases in livestock numbers with reduced resource use and greenhouse gas (GHGe) per unit of food produced, and therefore improved environmental sustainability [<xref ref-type="bibr" rid="CR4">4</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref>]. Livestock health is a key determinant of system MMY, with losses manifested as reduced yields; decreased liveweight gains and therefore greater amounts of time needed to reach a target weight, maturity or parturition; impaired fertility; premature culling/mortality; or condemned organs and carcasses [<xref ref-type="bibr" rid="CR8">8</xref>]. Although the MMY impacts of different diseases vary widely, the short and long-term effects of sub-clinical and clinical disease have potentially significant economic and environmental consequences [<xref ref-type="bibr" rid="CR9">9</xref>]. This is a particular issue in smallholder or backyard operations, which constitute 82% of farms in low-income countries [<xref ref-type="bibr" rid="CR10">10</xref>] and are associated with greater GHGe per unit of LDF [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. Such farms often have reduced access to the veterinary care, resources, infrastructure and political visibility that have facilitated intensification in higher-income countries, and, yet could reduce their environmental impacts considerably as a consequence of improved livestock health [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+      <p id="Par7">Considerable media coverage is devoted to the environmental impact of livestock production, including climate change, water and air pollution, soil erosion and biodiversity. Given public and industry concerns regarding climate change, GHGe are a critical environmental issue, yet there has been relatively little discussion of the role of livestock health as a GHG mitigation measure, and food production stakeholders often lack the information needed to make informed environmental decisions about disease treatment, control or elimination. Moreover, given the wide variation in production systems across the globe, it is difficult to draw conclusions regarding the impact of a disease on an entire sector (e.g. global dairy or beef production), and data is often lacking, especially in extensive livestock systems. The results of this study are therefore not intended to definitively address this knowledge gap, but to represent a starting point for the discussion, which may be expanded upon in future, especially as more robust data becomes available.</p>
+      <p id="Par8">The objective of this study was to use simple deterministic models to quantify the changes in GHGe associated with controlling vaccine-preventable diseases of significant global importance within different species and production systems.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <p id="Par9">The impacts of controlling livestock diseases upon GHGe per unit of milk or meat were assessed using simple deterministic Microsoft Excel-based population models based on livestock nutrition, performance and herd or flock population parameters. This study compiled and used health and production data from publicly available databases and peer-reviewed papers, therefore approval was not required from an ethics committee.</p>
+      <p id="Par10">A selection of livestock production systems across the globe were chosen for analysis and verified by comparison to related literature that mapped global livestock systems [<xref ref-type="bibr" rid="CR14">14</xref>]. Systems chosen comprised intensive dairy, extensive beef, commercial swine and backyard poultry. Although considerable breed, resource, climate and market variation exists even in systems that are similar in intensity, a number of diseases are ubiquitous within global production systems. However, considerable data gaps existed regarding the prevalence of many diseases, particularly in extensive, smallholder, or backyard systems &#x2013; paucity of prevalence data therefore being a legitimate criticism of the current study. Examining the impacts of notifiable diseases was expected to overcome this hurdle to a certain extent, as although the recorded incidence data was not accurate at the farm-level, it provided a sense of the disease&#x2019;s global importance. The OIE-WAHIS database [<xref ref-type="bibr" rid="CR15">15</xref>], which reports the number of cases of notifiable diseases across the globe was therefore used to identify livestock diseases that fulfilled the first three (and preferentially the fourth) of the following criteria:<list list-type="order"><list-item><p id="Par11">Significant global impact in terms of the number of cases per year or per outbreak, and therefore the number (head) of livestock lost globally</p></list-item><list-item><p id="Par12">Outbreaks occurring across more than one global region</p></list-item><list-item><p id="Par13">Controllable by vaccination (although vaccines may not be commercially available within every region or system due to infrastructure or regional veterinary regulations)</p></list-item><list-item><p id="Par14">Zoonotic, thereby conferring a potential One Health risk.</p></list-item></list></p>
+      <p id="Par15">Diseases were ranked according to the number (head) of livestock lost globally as a result of disease occurrence within the affected species [<xref ref-type="bibr" rid="CR16">16</xref>], with the top 10 diseases for each species shown in Table <xref rid="Tab1" ref-type="table">1</xref>, and the diseases highlighted (given the aforementioned selection criteria) chosen for analysis. Although all diseases chosen fitted the criteria, they varied in terms of impact on productivity (total milk or meat yield), acuteness of symptom onset and organs or systems affected. Furthermore, the selected diseases included those caused by either bacteria (brucellosis, anthrax) or viruses (food and mouth disease (FMD); lumpy skin disease (LSD); classical swine fever (CSF); porcine reproductive and respiratory syndrome (PRRS); both low and high pathogenicity avian influenza (LPAI and HPAI); avian infectious bronchitis (AIB); and Newcastle disease).
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Top 10 global diseases reported by the World Organisation for Animal Health (OIE) for various livestock species, ranked by the number of livestock units lost annually<sup>a,b</sup></p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Ranking</th><th align="left">Cattle</th><th align="left">Swine</th><th align="left">Poultry</th></tr></thead><tbody><tr><td align="left">1</td><td align="left">Echinococcosis</td><td align="left"><bold>Classical swine fever</bold><sup><bold>b</bold></sup></td><td align="left"><bold>High pathogenicity avian influenza</bold></td></tr><tr><td align="left">2</td><td align="left">Bovine tuberculosis</td><td align="left">Swine vesicular disease</td><td align="left"><bold>Avian infectious bronchitis</bold></td></tr><tr><td align="left">3</td><td align="left">Enzootic bovine leukosis</td><td align="left"><bold>Porcine reproductive and respiratory syndrome</bold></td><td align="left"><bold>Low pathogenicity avian influenza</bold></td></tr><tr><td align="left">4</td><td align="left"><bold>Brucellosis</bold></td><td align="left">African swine fever</td><td align="left"><bold>Newcastle disease</bold></td></tr><tr><td align="left">5</td><td align="left">Haemorrhagic septicaemia</td><td align="left">Aujeszky's disease</td><td align="left">Infectious bursal disease</td></tr><tr><td align="left">6</td><td align="left"><bold>Foot and mouth disease</bold></td><td align="left">Echinococcosis</td><td align="left">Mycoplasmosis</td></tr><tr><td align="left">7</td><td align="left">Rabies</td><td align="left">Porcine cysticercosis</td><td align="left">Pullorum disease</td></tr><tr><td align="left">8</td><td align="left"><bold>Anthrax</bold></td><td align="left">Leptospirosis</td><td align="left">Fowl cholera</td></tr><tr><td align="left">9</td><td align="left"><bold>Lumpy skin disease</bold></td><td align="left">Foot and mouth disease</td><td align="left">Fowl typhoid</td></tr><tr><td align="left">10</td><td align="left">Theileriosis</td><td align="left">Bovine tuberculosis</td><td align="left">Marek&#x2019;s disease</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR16">16</xref>]</p><p><sup>b</sup> Diseases in bold font are those chosen for analysis within this study, although data on the impacts of lumpy skin disease on dairy production are not included within this paper as this disease is considered to be of limited threat to cattle in intensive dairy systems</p></table-wrap-foot></table-wrap></p>
+      <p id="Par16">Simple deterministic livestock population models were developed within MS Excel to assess the impacts of disease on GHGe &#x2013; an example relating to the dairy analysis is summarised in Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>, with all models following a similar approach. Baseline herd or flocks (dependent on species) were modelled according to production parameters according to data shown in Tables <xref rid="Tab2" ref-type="table">2</xref>, <xref rid="Tab3" ref-type="table">3</xref>, <xref rid="Tab4" ref-type="table">4</xref>, <xref rid="Tab5" ref-type="table">5</xref>. The effect of specific diseases on GHGe were investigated based on the premise that, compared to the baseline level of performance for the specific region and system, disease would have a negative impact upon average herd or flock performance. A disease-challenged population would exhibit mortality- and morbidity-induced changes in MMY, with concurrent increases in the number of animals or time required to maintain LDF production and therefore the GHGe associated with producing a set quantity of milk or meat (Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Simplified example of the dairy model used within the analysis</p></caption><graphic xlink:href="42522_2023_89_Fig1_HTML" id="MO1"/></fig><table-wrap id="Tab2"><label>Table 2</label><caption><p>Baseline dairy cattle performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Value</th></tr></thead><tbody><tr><td align="left">Annual milk yield (kg FPCM)<sup>a,b</sup></td><td align="left">4500</td></tr><tr><td align="left">Age at first calving (mo)<sup>c</sup></td><td align="left">26.0</td></tr><tr><td align="left">Calving interval (mo)<sup>c</sup></td><td align="left">14.0</td></tr><tr><td align="left">Live calves born per cow per year<sup>d</sup></td><td align="left">0.81</td></tr><tr><td align="left">Calves destined as heifer replacements<sup>e</sup></td><td align="left">0.29</td></tr><tr><td align="left">Calves destined as beef cattle<sup>f</sup></td><td align="left">0.50</td></tr><tr><td align="left">Proportion of lactating cows in the population<sup>c</sup></td><td align="left">0.45</td></tr><tr><td align="left">Proportion of dry cows in the population<sup>c</sup></td><td align="left">0.06</td></tr><tr><td align="left">Proportion of replacement heifers in the population<sup>c</sup></td><td align="left">0.48</td></tr><tr><td align="left">Proportion of bulls in the population<sup>c</sup></td><td align="left">0.01</td></tr><tr><td align="left">Proportion of replacement heifers born that enter herd<sup>c</sup></td><td align="left">0.85</td></tr><tr><td align="left">Replacement rate (%)<sup>c</sup></td><td align="left">25.0</td></tr><tr><td align="left">Calf and growing cattle mortality (%)<sup>c</sup></td><td align="left">5.0</td></tr><tr><td align="left">Milk lost per cow death (kg FPCM)<sup>b,g</sup></td><td align="left">8357</td></tr><tr><td align="left">Milk lost per non-yielding day of lactation (kg FPCM)<sup>b,h</sup></td><td align="left">14.4</td></tr><tr><td align="left">GHGe per kg FPCM (kg CO<sub>2</sub>eq)<sup>i</sup></td><td align="left">1.50</td></tr><tr><td align="left">Annual GHGe per dairy cow in the herd (kg CO<sub>2</sub>eq)<sup>,j,k</sup></td><td align="left">6750</td></tr><tr><td align="left">Proportion of GHGe attributed to herd maintenance<sup>c</sup></td><td align="left">0.58</td></tr><tr><td align="left">Proportion of GHGe attributed to lactation<sup>c</sup></td><td align="left">0.42</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR17">17</xref>]</p><p><sup>b</sup> FPCM, fat and protein corrected milk</p><p><sup>c</sup>[<xref ref-type="bibr" rid="CR5">5</xref>]</p><p><sup>d</sup> Calculated from calving rate, calving interval and calf mortality</p><p><sup>e</sup> Calculated from heifer replacement rate and 15% heifer mortality from birth to entering the herd</p><p><sup>f</sup> Calculated from total calves born, minus those required as replacements, adjusted for calf mortality</p><p><sup>g</sup> Calculated from annual milk yield, calving interval and age at first calving</p><p><sup>h</sup> Calculated from annual milk yield and lactation length</p><p><sup>i</sup>[<xref ref-type="bibr" rid="CR18">18</xref>]</p><p><sup>j</sup> Calculated from annual milk yield and GHGe per kg FPCM</p><p><sup>k</sup> Includes GHGe from all cattle in the herd, divided by the number of lactating cows</p></table-wrap-foot></table-wrap><table-wrap id="Tab3"><label>Table 3</label><caption><p>Baseline beef cattle performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Value</th></tr></thead><tbody><tr><td align="left">Age at first calving (mo)<sup>a</sup></td><td align="left">40.0</td></tr><tr><td align="left">Calving interval (mo)<sup>a</sup></td><td align="left">16.0</td></tr><tr><td align="left">Live calves born per cow per year<sup>b</sup></td><td align="left">0.53</td></tr><tr><td align="left">Calves destined as heifer replacements<sup>c</sup></td><td align="left">0.14</td></tr><tr><td align="left">Calves destined as beef cattle<sup>d</sup></td><td align="left">0.37</td></tr><tr><td align="left">Age at weaning (mo)<sup>a</sup></td><td align="left">8.0</td></tr><tr><td align="left">Finished cattle age at slaughter (mo)<sup>a</sup></td><td align="left">36.0</td></tr><tr><td align="left">Finished cattle weight at slaughter (kg)<sup>a</sup></td><td align="left">530</td></tr><tr><td align="left">Finished cattle carcass weight (kg)<sup>a</sup></td><td align="left">281</td></tr><tr><td align="left">Proportion of cows in the population<sup>a</sup></td><td align="left">0.26</td></tr><tr><td align="left">Proportion of replacement heifers in the population<sup>a</sup></td><td align="left">0.14</td></tr><tr><td align="left">Proportion of bulls in the population<sup>a</sup></td><td align="left">0.04</td></tr><tr><td align="left">Proportion of growing cattle in the population<sup>a</sup></td><td align="left">0.56</td></tr><tr><td align="left">Proportion of replacement heifers born that enter herd<sup>a</sup></td><td align="left">0.90</td></tr><tr><td align="left">Replacement rate (%)<sup>a</sup></td><td align="left">12.5</td></tr><tr><td align="left">Calf and growing cattle mortality (%)<sup>a</sup></td><td align="left">5.0</td></tr><tr><td align="left">Potential prime beef lost per cow death (kg CW)<sup>e</sup></td><td align="left">345</td></tr><tr><td align="left">Cull cow beef lost per cow death (kg CW)<sup>f</sup></td><td align="left">214</td></tr><tr><td align="left">GHGe per kg CW beef (kg CO<sub>2</sub>eq)<sup>g</sup></td><td align="left">73.0</td></tr><tr><td align="left">Annual GHGe per beef cow in the herd (kg CO<sub>2</sub>eq)<sup>h</sup></td><td align="left">7997</td></tr><tr><td align="left">Proportion of GHGe attributed to herd maintenance<sup>a</sup></td><td align="left">0.52</td></tr><tr><td align="left">Proportion of GHGe attributed to cattle growth<sup>a</sup></td><td align="left">0.48</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR4">4</xref>]</p><p><sup>b</sup> Calculated from calving rate, calving interval and calf mortality</p><p><sup>c</sup> Calculated from heifer replacement rate and 10% heifer mortality from birth to entering the herd</p><p><sup>d</sup> Calculated from live calves born per year adjusted for post-birth mortality and heifers required as herd replacements</p><p><sup>e</sup> Calculated from live calves born per year. the calves that would otherwise have born in the time taken to rear a heifer to replace that cow (age at first calving) and the CW beef yield per animal</p><p><sup>f</sup> Calculated based on a 450&#xA0;kg cow liveweight, 5% mortality rate and 50% dressing percentage</p><p><sup>g</sup>[<xref ref-type="bibr" rid="CR12">12</xref>]</p><p><sup>h</sup> Calculated based on GHGe from all cattle in the herd, divided by the number of cows and adjusted for GHGe associated with herd maintenance (vs. production) and calving interval</p></table-wrap-foot></table-wrap><table-wrap id="Tab4"><label>Table 4</label><caption><p>Baseline swine performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Value</th></tr></thead><tbody><tr><td align="left">Age at first farrowing (d)<sup>a</sup></td><td align="left">367</td></tr><tr><td align="left">Annual litters per sow<sup>b</sup></td><td align="left">2.00</td></tr><tr><td align="left">Annual pigs sold per sow (head)<sup>c</sup></td><td align="left">19.4</td></tr><tr><td align="left">Finished pig age at slaughter (mo)<sup>d</sup></td><td align="left">8.40</td></tr><tr><td align="left">Finished pig weight at slaughter (kg)<sup>e</sup></td><td align="left">116</td></tr><tr><td align="left">Finished pig carcass weight (kg)<sup>e</sup></td><td align="left">83.6</td></tr><tr><td align="left">Mean number of growing pigs in the herd per sow (head)<sup>f</sup></td><td align="left">13.6</td></tr><tr><td align="left">Proportion of sows in the population<sup>g</sup></td><td align="left">0.07</td></tr><tr><td align="left">Proportion of growing pigs in the population<sup>h</sup></td><td align="left">0.93</td></tr><tr><td align="left">Potential growing pigs lost per sow death (head)<sup>j</sup></td><td align="left">19.4</td></tr><tr><td align="left">GHGe per kg pigmeat (kg CO<sub>2</sub>eq)<sup>j</sup></td><td align="left">6.07</td></tr><tr><td align="left">GHGe per kg pigmeat attributed to sows (kg CO<sub>2</sub>eq)<sup>k</sup></td><td align="left">1.15</td></tr><tr><td align="left">GHGe per kg pigmeat attributed to growing pigs (kg CO<sub>2</sub>eq)<sup>k</sup></td><td align="left">4.92</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]</p><p><sup>b</sup> Based on 2.35 litters per sow in intensive systems and 1.65 litters per sow in extensive systems</p><p><sup>c</sup>[<xref ref-type="bibr" rid="CR21">21</xref>&#x2013;<xref ref-type="bibr" rid="CR23">23</xref>]</p><p><sup>d</sup> Based on 170 d age at slaughter in intensive systems and 365 d age at slaughter in extensive systems</p><p><sup>e</sup>[<xref ref-type="bibr" rid="CR17">17</xref>]</p><p><sup>f</sup> Based on the age at slaughter and number of pigs produced per sow annually</p><p><sup>g</sup> The reciprocal of the mean number of growing pigs in the population per sow</p><p><sup>h</sup> 1 &#x2013; the reciprocal of the mean number of growing pigs in the population per sow</p><p><sup>i</sup> Calculated from live pigs born per year. the pigs that would otherwise have been born in the time taken to rear a gilt to replace that sow (age at first farrowing) and the CW pigmeat yield per animal</p><p><sup>j</sup>[<xref ref-type="bibr" rid="CR11">11</xref>]</p><p><sup>k</sup> Calculated based on data from [<xref ref-type="bibr" rid="CR24">24</xref>] applied to that of[<xref ref-type="bibr" rid="CR11">11</xref>]</p></table-wrap-foot></table-wrap><table-wrap id="Tab5"><label>Table 5</label><caption><p>Baseline poultry performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Value</th></tr></thead><tbody><tr><td align="left">Mature hen bodyweight (kg)<sup>a</sup></td><td align="left">1.00</td></tr><tr><td align="left">Age at maturity (mo)<sup>a</sup></td><td align="left">6.28</td></tr><tr><td align="left">Age at culling (mo)<sup>b</sup></td><td align="left">55.2</td></tr><tr><td align="left">Annual eggs produced per hen<sup>a</sup></td><td align="left">102</td></tr><tr><td align="left">Proportion of eggs that are fertile<sup>a</sup></td><td align="left">0.62</td></tr><tr><td align="left">Proportion of eggs that are hatchable<sup>a</sup></td><td align="left">0.64</td></tr><tr><td align="left">Proportion of hatched chickens that survive to slaughter weight<sup>a</sup></td><td align="left">0.45</td></tr><tr><td align="left">Annual total chickens per hen that survive to slaughter weight (birds)<sup>c</sup></td><td align="left">18.2</td></tr><tr><td align="left">Chicken age at slaughter (d)</td><td align="left">112</td></tr><tr><td align="left">Chicken slaughter weight (kg)</td><td align="left">0.90</td></tr><tr><td align="left">Chicken carcass weight (kg)<sup>d</sup></td><td align="left">0.63</td></tr><tr><td align="left">Mean number of growing chickens in the flock per hen (birds)<sup>e</sup></td><td align="left">5.51</td></tr><tr><td align="left">Proportion of hen liveweight in the population<sup>f</sup></td><td align="left">0.29</td></tr><tr><td align="left">Proportion of growing chicken liveweight in the population<sup>g</sup></td><td align="left">0.71</td></tr><tr><td align="left">Potential growing chickens lost per hen death (birds)<sup>h</sup></td><td align="left">9.0</td></tr><tr><td align="left">GHGe per kg chicken meat (kg CO<sub>2</sub>eq)<sup>i</sup></td><td align="left">6.60</td></tr><tr><td align="left">GHGe per kg chicken meat attributed to hens (kg CO<sub>2</sub>eq)<sup>j</sup></td><td align="left">1.88</td></tr><tr><td align="left">GHGe per kg chicken meat attributed to growing chickens (kg CO<sub>2</sub>eq)<sup>j</sup></td><td align="left">4.72</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR25">25</xref>]</p><p><sup>b</sup>[<xref ref-type="bibr" rid="CR26">26</xref>]</p><p><sup>c</sup>[<xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]</p><p><sup>d</sup> Calculated at 70% dressing percentage</p><p><sup>e</sup> Calculated from the number of growing chickens surviving to slaughter and the average laying pattern across the year</p><p><sup>f</sup> Calculated from the number of growing chickens surviving to slaughter, the average weight and slaughter age of growing chickens, and hen liveweight</p><p><sup>g</sup> 1 &#x2013; the proportion of hen liveweight in the population</p><p><sup>h</sup> Calculated from live chicks hatched per year. the chicks that would otherwise have been hatched in the time taken to rear a hen replacement (age at first laying) and the CW yield of poultrymeat per animal</p><p><sup>i</sup>[<xref ref-type="bibr" rid="CR11">11</xref>]</p><p><sup>j</sup> Calculated based on relative proportions of bird liveweight within the population</p></table-wrap-foot></table-wrap></p>
+      <p id="Par17">Within each model, impacts of disease on GHGe were calculated based on the prevalence of the disease, the MMY impacts, the duration of the disease and the livestock groups affected. The effects of disease in the challenged populations were sourced from the literature and are shown in Tables <xref rid="Tab6" ref-type="table">6</xref>, <xref rid="Tab7" ref-type="table">7</xref>. Diseases were assumed to occur in isolation, without effects of concurrent or secondary disease occurring via immunosuppression. Effects of changes in MMY conferred by livestock disease were quantified at the population level and normalised to a prevalence of 15% to compare the effects of disease across species. The effects of disease at low and high prevalence (derived from the literature and varying according to the disease) compared to the baseline (no disease) were then evaluated at the population and herd or flock level. Mortality was assumed to occur, on average, halfway through the year or production cycle, unless otherwise specified (e.g. stillbirth or abortion). Production losses were quantified in terms of total yield losses in milk and calves that could have been reared as beef animals (dairy); or carcass weight (CW) meat (beef, pork and chicken). A brief description of each model follows.
+<table-wrap id="Tab6"><label>Table 6</label><caption><p>Impacts of cattle diseases on performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Disease</th><th align="left">Performance parameter</th><th align="left">Impact in diseased animal</th></tr></thead><tbody><tr><td align="left" rowspan="7">Foot and mouth disease</td><td align="left">Milk yield</td><td align="left">Acute drop (80%) and slow recovery over 105&#xA0;days, 14.8% reduction over whole lactation (dairy cows) and 19.3% reduction over whole lactation (beef cows)<sup>a</sup></td></tr><tr><td align="left">Reproduction</td><td align="left">10% of cows abort<sup>b</sup></td></tr><tr><td align="left">Heifer replacements</td><td align="left">7.5% decrease in ADG, so age at first calving delayed to 28.1 mo (dairy heifers), and 19.3% decrease in ADG, so age at first calving delayed to 50.0 mo (beef heifers)</td></tr><tr><td align="left">Cow mortality</td><td align="left">10% of infected cows culled<sup>b</sup></td></tr><tr><td align="left">Heifer mortality</td><td align="left">3% increase</td></tr><tr><td align="left">Bull mortality</td><td align="left">3% increase</td></tr><tr><td align="left">Beef cattle ADG</td><td align="left">19.3% decrease in pre-weaning ADG; 5% decrease post-weaning</td></tr><tr><td align="left" rowspan="7">Brucellosis</td><td align="left">Milk yield</td><td align="left">15.0% reduction over whole lactation (dairy and beef)<sup>c</sup></td></tr><tr><td align="left">Reproduction</td><td align="left">15% of cows abort, calving interval increased by 2 mo in cows that abort, 20% of aborting cows permanently sterile<sup>c</sup></td></tr><tr><td align="left">Heifer replacements</td><td align="left">Greater numbers required to replace cows that are sterile or die<sup>c</sup></td></tr><tr><td align="left">Cow mortality</td><td align="left">1% of cows that abort, die (0.15%)<sup>c</sup></td></tr><tr><td align="left">Heifer mortality</td><td align="left">10% mortality in calves from infected cows<sup>c</sup></td></tr><tr><td align="left">Bull mortality</td><td align="left">10% mortality in calves from infected cows<sup>c</sup></td></tr><tr><td align="left">Beef cattle ADG</td><td align="left">15.0% decrease in pre-weaning ADG; 5% decrease post-weaning</td></tr><tr><td align="left" rowspan="6">Anthrax</td><td align="left">Milk yield</td><td align="left">40.0% reduction over whole lactation as cows assumed to die, on average at 150 d into lactation (dairy and beef)</td></tr><tr><td align="left">Reproduction</td><td align="left">N/A</td></tr><tr><td align="left">Heifer replacements</td><td align="left">Greater numbers required to replace cows that are sterile or die</td></tr><tr><td align="left">Cow mortality</td><td align="left">Dependent on ingestion of anthrax spores</td></tr><tr><td align="left">Heifer mortality</td><td align="left">Dependent on ingestion of anthrax spores</td></tr><tr><td align="left">Bull mortality</td><td align="left">Dependent on ingestion of anthrax spores</td></tr><tr><td align="left" rowspan="6">Lumpy skin disease</td><td align="left">Milk yield</td><td align="left">Acute drop (83.2%) for 70 d, 19.6% reduction over whole lactation (dairy cows) and 37.5% reduction over whole lactation (beef cows)<sup>d</sup></td></tr><tr><td align="left">Reproduction</td><td align="left">20% of cows abort, calving interval increased by 3 mo in 50% of cows, 10% of bulls culled because of orchiditis<sup>e</sup></td></tr><tr><td align="left">Heifer replacements</td><td align="left">Greater numbers required to replace cows that are sterile or die</td></tr><tr><td align="left">Cow mortality</td><td align="left">Up to 5%, plus 5% culled due to chronic complications, 7% overall average<sup>f</sup></td></tr><tr><td align="left">Heifer mortality</td><td align="left">Up to 5%<sup>f</sup></td></tr><tr><td align="left">Bull mortality</td><td align="left">Up to 5%<sup>f</sup></td></tr><tr><td align="left"/><td align="left">Beef cattle ADG</td><td align="left">5.9% decrease in pre-weaning ADG based on 32% of pre-weaning growth affected by milk yield decrease and milk accounting for 50% of intake</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR29">29</xref>]</p><p><sup>b</sup>[<xref ref-type="bibr" rid="CR30">30</xref>]</p><p><sup>c</sup>[<xref ref-type="bibr" rid="CR31">31</xref>]</p><p><sup>d</sup>[<xref ref-type="bibr" rid="CR32">32</xref>]</p><p><sup>e</sup>[<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]</p><p><sup>f</sup>[<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]</p></table-wrap-foot></table-wrap><table-wrap id="Tab7"><label>Table 7</label><caption><p>Impacts of pig and poultry diseases on performance parameters</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Disease</th><th align="left">Performance parameter</th><th align="left">Impact in diseased animal</th></tr></thead><tbody><tr><td align="left" colspan="3"><bold>Pigs</bold></td></tr><tr><td align="left" rowspan="6">Classical swine fever</td><td align="left">Sow mortality</td><td align="left">100% fatal<sup>a</sup></td></tr><tr><td align="left">Reproduction</td><td align="left">Zero due to mortality rate. 50% reduction overall assuming sows die halfway through the production cycle</td></tr><tr><td align="left">Pre-weaned pig mortality</td><td align="left">100% fatal<sup>a</sup></td></tr><tr><td align="left">Growing/finishing pig mortality</td><td align="left">100% fatal<sup>a</sup></td></tr><tr><td align="left">Growing/finishing pig ADG</td><td align="left">N/A due to mortality rate</td></tr><tr><td align="left">Pig carcass weight</td><td align="left">N/A due to mortality rate</td></tr><tr><td align="left" rowspan="6">Porcine reproductive and respiratory syndrome</td><td align="left">Sow mortality</td><td align="left">N/A</td></tr><tr><td align="left">Reproduction</td><td align="left">19.3% of sows abort, 2.4% decrease in farrowings per sow<sup>b</sup></td></tr><tr><td align="left">Pre-weaned pig mortality</td><td align="left">75% of affected pigs die<sup>c</sup></td></tr><tr><td align="left">Growing/finishing pig mortality</td><td align="left">8.5% of affected pigs die<sup>d</sup></td></tr><tr><td align="left">Growing/finishing pig ADG</td><td align="left">25% decrease for the four weeks after weaning<sup>e</sup></td></tr><tr><td align="left">Pig carcass weight</td><td align="left">N/A</td></tr><tr><td align="left" colspan="3"><bold>Poultry</bold></td></tr><tr><td align="left" rowspan="5">Low pathogenicity avian influenza</td><td align="left">Hen mortality</td><td align="left">Increased by 3.2%<sup>f</sup></td></tr><tr><td align="left">Laying rate</td><td align="left">Reduced by 74% for 14 d<sup>f</sup></td></tr><tr><td align="left">Chick mortality</td><td align="left">N/A</td></tr><tr><td align="left">Chicken ADG</td><td align="left">Reduced by 3.2% for 14 d<sup>g</sup></td></tr><tr><td align="left">Chicken carcass weight</td><td align="left">N/A</td></tr><tr><td align="left" rowspan="5">High pathogenicity avian influenza</td><td align="left">Hen mortality</td><td align="left">100% fatal<sup>h</sup></td></tr><tr><td align="left">Laying rate</td><td align="left">Zero due to mortality rate. 50% reduction overall assuming birds die halfway through the production cycle</td></tr><tr><td align="left">Chick mortality</td><td align="left">100% fatal<sup>h</sup></td></tr><tr><td align="left">Chicken ADG</td><td align="left">N/A due to mortality rate</td></tr><tr><td align="left">Chicken carcass weight</td><td align="left">N/A due to mortality rate</td></tr><tr><td align="left" rowspan="5">Avian infectious bronchitis</td><td align="left">Hen mortality</td><td align="left">Increased by 5.0%<sup>h</sup></td></tr><tr><td align="left">Laying rate</td><td align="left">Reduced by 30% for up to 80 d<sup>i</sup></td></tr><tr><td align="left">Chick mortality</td><td align="left">Increased by 20%<sup>j</sup></td></tr><tr><td align="left">Chicken ADG</td><td align="left">Reduced by 30% for 12 d<sup>i</sup></td></tr><tr><td align="left">Chicken carcass weight</td><td align="left">N/A</td></tr><tr><td align="left" rowspan="5">Newcastle disease</td><td align="left">Hen mortality</td><td align="left">Increased by 15.0%<sup>k</sup></td></tr><tr><td align="left">Laying rate</td><td align="left">Reduced by 40% for up to 28 d<sup>k</sup></td></tr><tr><td align="left">Chick mortality</td><td align="left">Increased by 40%<sup>k</sup></td></tr><tr><td align="left">Chicken ADG</td><td align="left">Reduced by 50% for 10&#xA0;dl</td></tr><tr><td align="left">Chicken carcass weight</td><td align="left">N/A</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup>[<xref ref-type="bibr" rid="CR15">15</xref>]</p><p><sup>b</sup>[<xref ref-type="bibr" rid="CR36">36</xref>, <xref ref-type="bibr" rid="CR37">37</xref>]</p><p><sup>c</sup>[<xref ref-type="bibr" rid="CR38">38</xref>]</p><p><sup>d</sup>[<xref ref-type="bibr" rid="CR37">37</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]</p><p><sup>e</sup>[<xref ref-type="bibr" rid="CR37">37</xref>]</p><p><sup>f</sup>[<xref ref-type="bibr" rid="CR40">40</xref>]</p><p><sup>g</sup>[<xref ref-type="bibr" rid="CR41">41</xref>]</p><p><sup>h</sup>[<xref ref-type="bibr" rid="CR42">42</xref>]</p><p><sup>i</sup>[<xref ref-type="bibr" rid="CR43">43</xref>]</p><p><sup>j</sup>[<xref ref-type="bibr" rid="CR44">44</xref>, <xref ref-type="bibr" rid="CR45">45</xref>]</p><p><sup>k</sup>[<xref ref-type="bibr" rid="CR46">46</xref>]</p><p><sup>l</sup>[<xref ref-type="bibr" rid="CR47">47</xref>]</p></table-wrap-foot></table-wrap></p>
+      <p id="Par18">The dairy cattle model was founded upon intensive production systems characteristic of North America, Western Europe and Oceania, with dairy herds containing lactating and dry cows, replacement heifers and bulls at proportions according to those modelled in previous studies [<xref ref-type="bibr" rid="CR5">5</xref>] and shown in Table <xref rid="Tab2" ref-type="table">2</xref>. Although intensive systems predominate in the aforementioned regions where diseases such as FMD are seldom found, similar production systems are found worldwide, especially in developing dairy industries in Africa or Asia, and often in areas where FMD and other diseases in this study are endemic. Annual milk yields were set at 4,500&#xA0;kg fat and protein corrected milk (FPCM) derived from the FAOSTAT database [<xref ref-type="bibr" rid="CR17">17</xref>]. The MMY losses conferred by a cow dying were calculated according to the yields that would be produced over the time taken to rear a heifer to first calving (26 mo), considering a 14 mo calving interval, and were equal to 8,357&#xA0;kg FPCM. A maximum of 14.4&#xA0;kg of FPCM was lost per non-yielding day of lactation. The potential beef losses (calves that could otherwise be sold and reared for beef) incurred by cow mortality derived from the number of calves produced each year (0.81 per cow); a 5% calf mortality rate; the proportion of calves required as heifer replacements (0.29 per cow) accounting for a 25% culling rate and 85% of replacement heifers successfully entering the herd [<xref ref-type="bibr" rid="CR5">5</xref>]. The effects of morbidity upon MMY were assessed based upon a 50,000 head population and a herd containing 200 lactating cows (plus associated dry cows, heifer replacements, bulls and growing/finishing cattle).</p>
+      <p id="Par19">The GHGe for the baseline population was derived from a previous UN FAO study at 1.50&#xA0;kg CO<sub>2</sub>eq per kg FPCM [<xref ref-type="bibr" rid="CR18">18</xref>]. Fractions of GHGe were attributed to the resource requirements for lactation and maintenance for different cattle groups within the herd according to the previously reported proportions [<xref ref-type="bibr" rid="CR5">5</xref>] at 42% for lactation and 58% for maintenance (25% lactating cows, 5% dry cows, 27% replacement heifers, 1.0% bulls). Dairy calves were assumed to be sold off-farm for beef soon after birth, therefore their GHGe were considered <italic>de minimus</italic>. After accounting for herd performance and population characteristics, the annual GHGe per lactating cow in the herd (including emissions from non-productive cattle) was calculated to be 6,750&#xA0;kg CO<sub>2</sub>eq.</p>
+      <p id="Par20">The effects of disease on extensive beef cattle production were modelled upon a baseline population characteristic of those found in South America, Northern Australia and South Africa, with cattle performance largely dictated by seasonal forage availability. The proportions of cows, bulls, replacement heifers and bulls, and growing cattle destined for beef were derived from a previous study [<xref ref-type="bibr" rid="CR4">4</xref>], as shown in Table <xref rid="Tab3" ref-type="table">3</xref>. Accounting for a 40 mo age at first calving and 16 mo calving interval, cows produced 0.53 live calves per year, weaned at 8.0 mo [<xref ref-type="bibr" rid="CR4">4</xref>]. When adjusted for mortality, and a 12.5% replacement rate, 0.14 calves per cow were destined as heifer replacements, and 0.37 calves for beef. Cattle destined for beef were finished at 36 mo, yielding 280.9&#xA0;kg CW. The MMY losses incurred by a beef cow dying were calculated according to the potential CW lost over the time required to rear an extra heifer replacement (344.7&#xA0;kg CW) plus the cull cow beef lost by premature death (213.8&#xA0;kg CW). Morbidity effects upon MMY were based upon a 50,000 head population and a herd containing 200 breeding cows (plus associated heifer replacements, bulls and growing/finishing cattle).</p>
+      <p id="Par21">The GHGe for the baseline population were characteristic of extensive beef production at 73.0&#xA0;kg CO<sub>2</sub>eq per kg CW [<xref ref-type="bibr" rid="CR12">12</xref>]. As in the dairy model, the proportions of GHGe attributed to different cattle groups were proportional to their resource requirements as derived from a previous study at 52% for maintenance (38% cows, 10% replacement heifers, 5% bulls, 47% growing and finishing cattle) and 48% for growth [<xref ref-type="bibr" rid="CR4">4</xref>]. The GHGe associated with the beef cattle population divided by the number of head of cows, produced annual GHGe per cow of 7,997&#xA0;kg CO<sub>2</sub>eq.</p>
+      <p id="Par22">Compared to ruminant systems, monogastric (swine and poultry) production across the globe have GHGe that are more dependent upon resource inputs (primarily feed) than cattle systems [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. Within the current study, the impacts of disease on swine production were assessed in commercial (non-backyard) operations, whereas effects in poultry systems were confined to backyard flocks. It should be noted that these are not and should not be assumed to be direct comparisons, but to provide a variety of systems within the study and to acknowledge the vital contribution made by backyard poultry to human nutrition and health worldwide.</p>
+      <p id="Par23">Swine production was characterised by populations comprising sows, weaned pigs and growing/finishing pigs (Table <xref rid="Tab4" ref-type="table">4</xref>), with sows first farrowing at 367&#xA0;days of age, producing 2.00 litters per year, and selling 19.4 finished pigs per year [<xref ref-type="bibr" rid="CR19">19</xref>&#x2013;<xref ref-type="bibr" rid="CR23">23</xref>]. Swine were finished at 8.4 mo of age and 116&#xA0;kg liveweight, producing 83.6&#xA0;kg CW pigmeat per head, the mean global commercial weight [<xref ref-type="bibr" rid="CR17">17</xref>]. Given the age at slaughter and the annual number of pigs produced per sow, across the year there would be an average of 13.6 growing pigs per sow in the population at any time-point, with 6.9% of the swine population represented by sows and 93.1% by growing pigs. This analysis did not account for replacement gilts&#x2014;if sows died, it was assumed that MMY declined because herd size decreased, rather than gilts being diverted from meat to replacements. Deaths of generic pigs (i.e. those that were neither specifically designated as sows or growing pigs) were associated with potential losses of a further 2.26 pigs. Disease effects were based upon a 100,000-sow population and a herd containing 1,000 breeding sows (plus associated growing pigs). Baseline swine population GHGe were derived from a UN FAO study [<xref ref-type="bibr" rid="CR11">11</xref>] at 6.07&#xA0;kg CO<sub>2</sub>eq per kg pigmeat CW, with fractions of GHGe attributed to sows (1.15&#xA0;kg CO<sub>2</sub>eq) and growing pigs (4.92&#xA0;kg CO<sub>2</sub>eq) within the herd [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+      <p id="Par24">Backyard poultry systems have no defined structure per se, and therefore may have myriad definitions. The impacts of morbidity and mortality on backyard poultry production within the current study were based upon a flock structure derived from published hen performance characteristics and shown in Table <xref rid="Tab5" ref-type="table">5</xref> [<xref ref-type="bibr" rid="CR25">25</xref>&#x2013;<xref ref-type="bibr" rid="CR28">28</xref>]. Hens reached a mature bodyweight of 1.0&#xA0;kg at 6.28 mo of age and were kept in the flock until culling at 55.2 mo. Accounting for the number of eggs laid (102 eggs), egg fertility (62%) and hatchability (64%) and the pre-slaughter mortality rate of growing chickens (55%) meant that each hen in the flock produced an average of 18.2 birds that survived to slaughter weight per year. Chickens were slaughtered at 112 d of age, at 0.90&#xA0;kg liveweight (0.63&#xA0;kg CW). At any time point 5.51 growing chickens would be present in the flock per hen, and the death of a generic bird (not specified as to whether it was a hen or a growing chicken) was associated with potential losses of 2.23 further birds. Impacts of poultry disease were based upon a 100,000-hen population plus a flock of 10 hens (plus associated growing chickens). The GHGe per kg poultry meat CW was 6.60&#xA0;kg CO<sub>2</sub>eq with 1.88&#xA0;kg CO<sub>2</sub>eq of the emissions attributed to hens and the remaining 4.72&#xA0;kg CO<sub>2</sub>eq to growing chickens, based on relative proportions of bird liveweight within the population [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Results</title>
+      <p id="Par25">The results of the current study are shown in Tables <xref rid="Tab8" ref-type="table">8</xref>, <xref rid="Tab9" ref-type="table">9</xref>, <xref rid="Tab10" ref-type="table">10</xref>, <xref rid="Tab11" ref-type="table">11</xref> and <xref rid="Tab12" ref-type="table">12</xref>. Comparing the impacts of different diseases on GHGe per kg of product (milk or meat) across livestock species (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>) demonstrates that, not unexpectedly, there was a positive association between the extent to which a disease reduced MMY, and the relative increase in GHGe. Diseases that considerably increased mortality (anthrax, CSF, PRRS, HPAI, AIB) had the greatest impact (up to a maximum of 17.6% increase for anthrax in extensive beef cattle) because they required a greater number of livestock in the population to maintain output. By contrast, diseases that had a lesser impact on mortality or produced transient reductions in yield or growth (FMD, brucellosis, LSD, LPAI, Newcastle disease) had a proportionally lower impact on GHGe, ranging from a 0.7% increase (LPAI in backyard poultry) to a 3.5% increase (FMD in extensive beef cattle).
+<table-wrap id="Tab8"><label>Table 8</label><caption><p>Impacts of livestock diseases at varying prevalence on GHGe from intensive dairy production at the population (50,000 head) and herd level</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Baseline</th><th align="left">High</th><th align="left">Low</th><th align="left">200-cow herd</th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Foot and mouth disease</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">45</td><td align="left">5</td><td align="left">100</td></tr><tr><td align="left">&#x2003;Total annual milk production (metric tonnes FPCM<sup>1</sup>)</td><td align="left">101,699</td><td align="left">91,041</td><td align="left">100,515</td><td align="left">690</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-10.5</td><td align="left">-1.16</td><td align="left">-76.7</td></tr><tr><td align="left">&#x2003;Total annual calves destined for beef production (head)</td><td align="left">12,867</td><td align="left">10,549</td><td align="left">12,610</td><td align="left">66.7</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-18.0</td><td align="left">-2.00</td><td align="left">-33.4</td></tr><tr><td align="left">&#x2003;GHGe per kg FPCM<sup>1</sup> (CO<sub>2</sub>eq)</td><td align="left">1.50</td><td align="left">1.65</td><td align="left">1.52</td><td align="left">1.83</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">10.0</td><td align="left">1.11</td><td align="left">22.2</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">152,549</td><td align="left">150,200</td><td align="left">152,446</td><td align="left">1265</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if milk production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">17,585</td><td align="left">1796</td><td align="left">384</td></tr><tr><td align="left" colspan="5"><bold>Brucellosis</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">50</td><td align="left">10</td><td align="left">40</td></tr><tr><td align="left">&#x2003;Total annual milk production (metric tonnes FPCM)</td><td align="left">101,699</td><td align="left">94,000</td><td align="left">100,160</td><td align="left">846</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-7.57</td><td align="left">-1.51</td><td align="left">-6.00</td></tr><tr><td align="left">&#x2003;Total annual calves destined for beef production (head)</td><td align="left">12,867</td><td align="left">9751</td><td align="left">12,244</td><td align="left">91.8</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-24.2</td><td align="left">-4.84</td><td align="left">-8.28</td></tr><tr><td align="left">&#x2003;GHGe per kg FPCM<sup>1</sup> (CO<sub>2</sub>eq)</td><td align="left">1.50</td><td align="left">1.59</td><td align="left">1.52</td><td align="left">1.57</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">5.71</td><td align="left">1.14</td><td align="left">4.56</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2e</sub>eq)</td><td align="left">152,549</td><td align="left">149,045</td><td align="left">151,954</td><td align="left">1327</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if milk production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">12,208</td><td align="left">2336</td><td align="left">84.7</td></tr><tr><td align="left" colspan="5"><bold>Anthrax</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">3</td><td align="left">0.3</td><td align="left">15</td></tr><tr><td align="left">&#x2003;Total annual milk production (metric tonnes FPCM<sup>a</sup>)</td><td align="left">101,699</td><td align="left">100,479</td><td align="left">101,577</td><td align="left">846</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-1.20</td><td align="left">-0.12</td><td align="left">-6.00</td></tr><tr><td align="left">&#x2003;Total annual calves destined for beef production (head)</td><td align="left">12,867</td><td align="left">12,481</td><td align="left">12,829</td><td align="left">66.8</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-3.00</td><td align="left">-0.30</td><td align="left">-33.3</td></tr><tr><td align="left">&#x2003;GHGe per kg FPCM<sup>1</sup> (CO<sub>2</sub>eq)</td><td align="left">1.50</td><td align="left">1.52</td><td align="left">1.50</td><td align="left">1.59</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">1.16</td><td align="left">0.12</td><td align="left">5.87</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">152,549</td><td align="left">152,469</td><td align="left">152,543</td><td align="left">1343</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if milk production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">1852</td><td align="left">183</td><td align="left">85.7</td></tr></tbody></table></table-wrap><table-wrap id="Tab9"><label>Table 9</label><caption><p>Impacts of livestock diseases at varying prevalence on GHGe from extensive beef production at the population (50,000 head) and herd level</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Baseline</th><th align="left">High</th><th align="left">Low</th><th align="left">200-cow herd</th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Foot and mouth disease</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">45</td><td align="left">5</td><td align="left">100</td></tr><tr><td align="left">&#x2003;Total annual beef CW production (metric tonnes)</td><td align="left">1619</td><td align="left">1392</td><td align="left">1594</td><td align="left">17.2</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-14.0</td><td align="left">-1.56</td><td align="left">-31.1</td></tr><tr><td align="left">&#x2003;Total annual finished cattle produced (head)</td><td align="left">4532</td><td align="left">3780</td><td align="left">4448</td><td align="left">44.1</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-16.6</td><td align="left">-1.84</td><td align="left">-36.9</td></tr><tr><td align="left">&#x2003;GHGe per kg beef CW (CO<sub>2</sub>eq)</td><td align="left">73.0</td><td align="left">81.2</td><td align="left">73.8</td><td align="left">95.7</td></tr><tr><td align="left">Change compared to baseline population (%)</td><td align="left">-</td><td align="left">11.2</td><td align="left">1.09</td><td align="left">31.1</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">118,206</td><td align="left">113,034</td><td align="left">117,631</td><td align="left">1647</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if beef production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">18,420</td><td align="left">1860</td><td align="left">745</td></tr><tr><td align="left" colspan="5"><bold>Brucellosis</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">50</td><td align="left">10</td><td align="left">40</td></tr><tr><td align="left">&#x2003;Total annual beef CW production (metric tonnes)</td><td align="left">1619</td><td align="left">1413</td><td align="left">1578</td><td align="left">22.4</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-12.7</td><td align="left">-2.54</td><td align="left">-10.2</td></tr><tr><td align="left">&#x2003;Total annual finished cattle produced (head)</td><td align="left">4532</td><td align="left">3800</td><td align="left">4386</td><td align="left">60.9</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-16.2</td><td align="left">-3.23</td><td align="left">-12.9</td></tr><tr><td align="left">&#x2003;GHGe per kg beef CW (CO<sub>2</sub>eq)</td><td align="left">73.0</td><td align="left">79.7</td><td align="left">74.2</td><td align="left">78.2</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">9.13</td><td align="left">1.64</td><td align="left">7.10</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">118,206</td><td align="left">112,595</td><td align="left">117,084</td><td align="left">1755</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if beef production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">16,400</td><td align="left">3055</td><td align="left">199</td></tr><tr><td align="left" colspan="5"><bold>Anthrax</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">3</td><td align="left">0.3</td><td align="left">15</td></tr><tr><td align="left">&#x2003;Total annual beef CW production (metric tonnes)</td><td align="left">1619</td><td align="left">1571</td><td align="left">1614</td><td align="left">16.8</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-3.00</td><td align="left">-0.30</td><td align="left">-32.8</td></tr><tr><td align="left">&#x2003;Total annual finished cattle produced (head)</td><td align="left">4532</td><td align="left">4396</td><td align="left">4518</td><td align="left">29.5</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-3.00</td><td align="left">-0.30</td><td align="left">-57.89</td></tr><tr><td align="left">&#x2003;GHGe per kg beef CW (CO<sub>2</sub>eq)</td><td align="left">73.0</td><td align="left">75.3</td><td align="left">73.2</td><td align="left">79.4</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">3.09</td><td align="left">0.30</td><td align="left">8.82</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">118,206</td><td align="left">118,206</td><td align="left">118,206</td><td align="left">1333</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if beef production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">3656</td><td align="left">356</td><td align="left">652</td></tr><tr><td align="left" colspan="5"><bold>Lumpy skin disease</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">8.0</td><td align="left">2.5</td><td align="left">30</td></tr><tr><td align="left">&#x2003;Total annual beef CW production (metric tonnes)</td><td align="left">1619</td><td align="left">1587</td><td align="left">1609</td><td align="left">23.1</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-2.01</td><td align="left">-0.63</td><td align="left">-7.54</td></tr><tr><td align="left">&#x2003;Total annual finished cattle produced (head)</td><td align="left">4532</td><td align="left">4423</td><td align="left">4498</td><td align="left">63.6</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-2.40</td><td align="left">-0.75</td><td align="left">-10.0</td></tr><tr><td align="left">&#x2003;GHGe per kg beef CW (CO<sub>2</sub>eq)</td><td align="left">73.0</td><td align="left">73.9</td><td align="left">73.3</td><td align="left">76.6</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">1.22</td><td align="left">0.38</td><td align="left">4.87</td></tr><tr><td align="left">&#x2003;Total annual cattle population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">118,206</td><td align="left">117,249</td><td align="left">117,907</td><td align="left">1769</td></tr><tr><td align="left">&#x2003;Change in annual cattle population GHGe if beef production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">2404</td><td align="left">745</td><td align="left">144</td></tr></tbody></table></table-wrap><table-wrap id="Tab10"><label>Table 10</label><caption><p>Impacts of livestock diseases at varying prevalence on GHGe from swine production at the population (100,000 sows) and herd level</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameter</th><th align="left">Baseline</th><th align="left">High</th><th align="left">Low</th><th align="left">1000-sow herd</th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Classical swine fever</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">20</td><td align="left">5</td><td align="left">90</td></tr><tr><td align="left">&#x2003;Total annual pork CW production (metric tonnes)</td><td align="left">161,808</td><td align="left">139,093</td><td align="left">156,129</td><td align="left">596</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-14.0</td><td align="left">-3.5</td><td align="left">-63.2</td></tr><tr><td align="left">&#x2003;Total annual pigs sold (&#x2018;000 head)</td><td align="left">1935</td><td align="left">1663</td><td align="left">1867</td><td align="left">7.126</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-14.0</td><td align="left">-3.5</td><td align="left">-63.2</td></tr><tr><td align="left">&#x2003;GHGe per kg pigmeat CW (CO<sub>2</sub>eq)</td><td align="left">6.07</td><td align="left">7.27</td><td align="left">6.36</td><td align="left">15.0</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">19.7</td><td align="left">4.7</td><td align="left">147.1</td></tr><tr><td align="left">&#x2003;Total annual pig population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">982,614</td><td align="left">929,138</td><td align="left">971,831</td><td align="left">5247</td></tr><tr><td align="left">&#x2003;Change in annual pig population GHGe if pigmeat production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">160,470</td><td align="left">35,740</td><td align="left">16,855</td></tr><tr><td align="left" colspan="5"><bold>Porcine reproductive and respiratory syndrome</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">60</td><td align="left">10</td><td align="left">70</td></tr><tr><td align="left">&#x2003;Total annual pork CW production (metric tonnes)</td><td align="left">161,808</td><td align="left">113,173</td><td align="left">153,248</td><td align="left">1057</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-30.1</td><td align="left">-5.3</td><td align="left">-34.7</td></tr><tr><td align="left">&#x2003;Total annual pigs sold (head)</td><td align="left">1,935,000</td><td align="left">1,353,399</td><td align="left">1,832,644</td><td align="left">12,639</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-30.1</td><td align="left">-5.3</td><td align="left">-34.7</td></tr><tr><td align="left">&#x2003;GHGe per kg pigmeat CW (CO<sub>2</sub>eq)</td><td align="left">6.07</td><td align="left">8.19</td><td align="left">6.35</td><td align="left">8.70</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">34.9</td><td align="left">4.5</td><td align="left">43.3</td></tr><tr><td align="left">&#x2003;Total annual pig population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">982,614</td><td align="left">920,871</td><td align="left">971,253</td><td align="left">9121</td></tr><tr><td align="left">&#x2003;Change in annual pig population GHGe if pigmeat production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">422,262</td><td align="left">54,881</td><td align="left">5217</td></tr></tbody></table></table-wrap><table-wrap id="Tab11"><label>Table 11</label><caption><p>Impacts of livestock diseases at varying prevalence on GHGe from backyard poultry production at the population (100,000 hens) and flock level</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Performance parameters</th><th align="left">Baseline</th><th align="left">High</th><th align="left">Low</th><th align="left">10-hen flock</th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Low pathogenicity avian influenza</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">50</td><td align="left">10</td><td align="left">90</td></tr><tr><td align="left">&#x2003;Total annual poultry CW production (metric tonnes)</td><td align="left">1146</td><td align="left">1104</td><td align="left">1138</td><td align="left">0.107</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-3.7</td><td align="left">-0.7</td><td align="left">-6.7</td></tr><tr><td align="left">&#x2003;Total annual chickens sold (&#x2018;000 head)</td><td align="left">1819</td><td align="left">1752</td><td align="left">1806</td><td align="left">0.170</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-3.7</td><td align="left">-0.7</td><td align="left">-6.7</td></tr><tr><td align="left">&#x2003;GHGe per kg poultry meat CW (CO<sub>2</sub>eq)</td><td align="left">10.31</td><td align="left">10.56</td><td align="left">10.36</td><td align="left">10.79</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">0.25</td><td align="left">0.05</td><td align="left">0.48</td></tr><tr><td align="left">&#x2003;Total annual poultry population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">11,821</td><td align="left">11,658</td><td align="left">11,786</td><td align="left">1.154</td></tr><tr><td align="left">&#x2003;Change in annual population GHGe if poultry production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">454</td><td align="left">88.1</td><td align="left">.084</td></tr><tr><td align="left" colspan="5"><bold>High pathogenicity avian influenza</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">70</td><td align="left">30</td><td align="left">100</td></tr><tr><td align="left">&#x2003;Total annual poultry CW production (metric tonnes)</td><td align="left">1146</td><td align="left">587</td><td align="left">886</td><td align="left">0.040</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-48.8</td><td align="left">-22.7</td><td align="left">-65.1</td></tr><tr><td align="left">&#x2003;Total annual chickens sold (&#x2018;000 head)</td><td align="left">1819</td><td align="left">932</td><td align="left">1406</td><td align="left">0.063</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-48.8</td><td align="left">-22.7</td><td align="left">-65.1</td></tr><tr><td align="left">&#x2003;GHGe per kg poultry meat CW (CO<sub>2</sub>eq)</td><td align="left">10.31</td><td align="left">12.24</td><td align="left">10.87</td><td align="left">14.19</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">18.7</td><td align="left">5.4</td><td align="left">37.6</td></tr><tr><td align="left">&#x2003;Total annual poultry population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">11,821</td><td align="left">6301</td><td align="left">9204</td><td align="left">0.452</td></tr><tr><td align="left">&#x2003;Change in annual population GHGe if poultry production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">11,255</td><td align="left">3475</td><td align="left">2208</td></tr><tr><td align="left" colspan="5"><bold>Avian infectious bronchitis</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">75</td><td align="left">20</td><td align="left">95</td></tr><tr><td align="left">&#x2003;Total annual poultry CW production (metric tonnes)</td><td align="left">1146</td><td align="left">921</td><td align="left">1085</td><td align="left">0.086</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-19.6</td><td align="left">-5.4</td><td align="left">-24.7</td></tr><tr><td align="left">&#x2003;Total annual chickens sold (&#x2018;000 head)</td><td align="left">1819</td><td align="left">1462</td><td align="left">1722</td><td align="left">0.137</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-19.6</td><td align="left">-5.4</td><td align="left">-24.7</td></tr><tr><td align="left">&#x2003;GHGe per kg poultry meat CW (CO<sub>2</sub>eq)</td><td align="left">10.31</td><td align="left">12.05</td><td align="left">10.69</td><td align="left">12.71</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">16.9</td><td align="left">3.6</td><td align="left">23.3</td></tr><tr><td align="left">&#x2003;Total annual poultry population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">11,821</td><td align="left">10,881</td><td align="left">11,532</td><td align="left">1.069</td></tr><tr><td align="left">&#x2003;Change in annual population GHGe if poultry production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">2890</td><td align="left">670</td><td align="left">0.388</td></tr><tr><td align="left" colspan="5"><bold>Newcastle disease</bold></td></tr><tr><td align="left">&#x2003;Disease prevalence in population (%)</td><td align="left">0</td><td align="left">80</td><td align="left">25</td><td align="left">95</td></tr><tr><td align="left">&#x2003;Total annual poultry CW production (metric tonnes)</td><td align="left">1146</td><td align="left">982</td><td align="left">1095</td><td align="left">0.095</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-14.3</td><td align="left">-4.5</td><td align="left">-17.0</td></tr><tr><td align="left">&#x2003;Total annual chickens sold (&#x2018;000 head)</td><td align="left">1819</td><td align="left">1559</td><td align="left">1738</td><td align="left">0.151</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">-14.3</td><td align="left">-4.5</td><td align="left">-17.0</td></tr><tr><td align="left">&#x2003;GHGe per kg poultry meat CW (CO<sub>2</sub>eq)</td><td align="left">10.31</td><td align="left">10.97</td><td align="left">10.45</td><td align="left">11.18</td></tr><tr><td align="left">&#x2003;Change compared to baseline population (%)</td><td align="left">-</td><td align="left">6.4</td><td align="left">1.3</td><td align="left">8.4</td></tr><tr><td align="left">&#x2003;Total annual poultry population GHGe (metric tonnes CO<sub>2</sub>eq)</td><td align="left">11,821</td><td align="left">10,278</td><td align="left">11,285</td><td align="left">1.003</td></tr><tr><td align="left">&#x2003;Change in annual population GHGe if poultry production maintained (tonnes CO<sub>2</sub>eq)</td><td align="left">-</td><td align="left">1971</td><td align="left">556</td><td align="left">0.242</td></tr></tbody></table></table-wrap><table-wrap id="Tab12"><label>Table 12</label><caption><p>Effect of changing disease prevalence via effective control measures (e.g. vaccination) on GHGe per kg of milk or meat</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left" colspan="2"><bold>Prevalence</bold></th><th align="left" colspan="3"><bold>GHGe, CO</bold><sub><bold>2</bold></sub><bold>eq per kg of milk or meat</bold><sup><bold>a</bold></sup></th></tr><tr><th align="left"><bold>Livestock system</bold></th><th align="left"><bold>Initial</bold></th><th align="left"><bold>After control</bold></th><th align="left"><bold>Initial</bold></th><th align="left"><bold>After control</bold></th><th align="left"><bold>Change</bold><sup><bold>b</bold></sup><bold> (%)</bold></th></tr></thead><tbody><tr><td align="left" colspan="6"><bold>Dairy</bold></td></tr><tr><td align="left">&#x2003;Foot and mouth disease</td><td align="left">45</td><td align="left">5.0</td><td char="." align="char">1.65</td><td char="." align="char">1.52</td><td align="left">-7.88</td></tr><tr><td align="left">&#x2003;Brucellosis</td><td align="left">50</td><td align="left">10</td><td char="." align="char">1.59</td><td char="." align="char">1.52</td><td align="left">-4.40</td></tr><tr><td align="left">&#x2003;Anthrax</td><td align="left">3.0</td><td align="left">0.3</td><td char="." align="char">1.52</td><td char="." align="char">1.50</td><td align="left">-1.32</td></tr><tr><td align="left" colspan="6"><bold>Beef</bold></td></tr><tr><td align="left">&#x2003;Foot and mouth disease</td><td align="left">45</td><td align="left">5.0</td><td char="." align="char">81.2</td><td char="." align="char">73.8</td><td align="left">-9.11</td></tr><tr><td align="left">&#x2003;Brucellosis</td><td align="left">50</td><td align="left">10</td><td char="." align="char">79.7</td><td char="." align="char">74.2</td><td align="left">-6.90</td></tr><tr><td align="left">&#x2003;Anthrax</td><td align="left">3.0</td><td align="left">0.3</td><td char="." align="char">75.3</td><td char="." align="char">73.2</td><td align="left">-2.79</td></tr><tr><td align="left">&#x2003;Lumpy skin disease</td><td align="left">8.0</td><td align="left">2.5</td><td char="." align="char">73.9</td><td char="." align="char">73.3</td><td align="left">-0.81</td></tr><tr><td align="left" colspan="6"><bold>Swine</bold></td></tr><tr><td align="left">&#x2003;Classical swine fever</td><td align="left">20</td><td align="left">5.0</td><td char="." align="char">7.27</td><td char="." align="char">6.36</td><td align="left">-12.5</td></tr><tr><td align="left">&#x2003;Porcine reproductive and respiratory syndrome</td><td align="left">60</td><td align="left">10</td><td char="." align="char">8.19</td><td char="." align="char">6.35</td><td align="left">-22.5</td></tr><tr><td align="left" colspan="6"><bold>Poultry</bold></td></tr><tr><td align="left">&#x2003;Low pathogenicity avian influenza</td><td align="left">50</td><td align="left">10</td><td char="." align="char">10.56</td><td char="." align="char">10.36</td><td align="left">-1.89</td></tr><tr><td align="left">&#x2003;High pathogenicity avian influenza</td><td align="left">70</td><td align="left">30</td><td char="." align="char">12.24</td><td char="." align="char">10.87</td><td align="left">-11.2</td></tr><tr><td align="left">&#x2003;Avian infectious bronchitis</td><td align="left">75</td><td align="left">20</td><td char="." align="char">12.05</td><td char="." align="char">10.69</td><td align="left">-11.3</td></tr><tr><td align="left">&#x2003;Newcastle disease</td><td align="left">80</td><td align="left">25</td><td char="." align="char">10.97</td><td char="." align="char">10.45</td><td align="left">-4.74</td></tr></tbody></table><table-wrap-foot><p><sup>a</sup> Kg of&#xA0;fat and protein corrected milk used as the denominator for dairy cattle, kg of&#xA0;carcass weight meat for beef, swine and poultry</p><p><sup>b</sup> Change refers to the % change in GHGe per kg of milk or meat after disease control</p></table-wrap-foot></table-wrap><fig id="Fig2"><label>Fig. 2</label><caption><p>Effects of diseases at a common prevalence (15%) on the % change in GHGe intensity (kg CO<sub>2</sub>eq per kg product) from farm livestock species at the population level</p></caption><graphic xlink:href="42522_2023_89_Fig2_HTML" id="MO2"/></fig></p>
+      <p id="Par26">As disease prevalence increased, the impact of disease on MMY and GHGe also increased in all species and systems investigated (Tables <xref rid="Tab8" ref-type="table">8</xref>, <xref rid="Tab9" ref-type="table">9</xref>, <xref rid="Tab10" ref-type="table">10</xref>, <xref rid="Tab11" ref-type="table">11</xref> and <xref rid="Tab12" ref-type="table">12</xref>). for example, compared to the baseline, FMD resulted in an 1.11% increase in the GHGe per kg of milk at a 5% prevalence, compared to a 10.0% increase in GHGe per kg milk at a 45% prevalence (Table <xref rid="Tab8" ref-type="table">8</xref>). Similarly, the impact of PRRS on GHGe from swine production varied from a 4.5% increase in GHGe per kg meat at a 10% prevalence, to a 34.9% increase at a 60% prevalence (Table <xref rid="Tab10" ref-type="table">10</xref>).</p>
+    </sec>
+    <sec id="Sec4">
+      <title>Discussion</title>
+      <p id="Par27">Sustainable food production comprises a balance between economic viability, environmental responsibility and social acceptability [<xref ref-type="bibr" rid="CR48">48</xref>]. Multiple studies have evaluated the impacts of livestock diseases on economic viability [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR50">50</xref>], although such studies date quickly and are often region-specific. However, more research is urgently needed to fill the current knowledge gap relating to the impact of livestock disease and its prevention or control on the second pillar of sustainability &#x2013; environmental responsibility &#x2013; and on all three pillars in combination.</p>
+      <p id="Par28">In accordance with previous work reporting the effects of livestock health on environmental impacts, GHGe were increased when maintaining milk or meat output from systems impacted by livestock disease [<xref ref-type="bibr" rid="CR51">51</xref>&#x2013;<xref ref-type="bibr" rid="CR54">54</xref>]. This increase is primarily due to the inverse of the dilution of maintenance effect, whereby a reduction in livestock MMY necessitates a greater number of livestock and/or a longer time period being required to produce a set amount of LDF [<xref ref-type="bibr" rid="CR55">55</xref>]. Diseases that considerably increased mortality (e.g. anthrax) had greater impacts than those that affected growth or reproduction, and diseases that increase mature animal mortality have a greater impact than those associated with neonatal or growing animal deaths because of the resources already invested in raising the animal to that point. Similar effects of disease on system efficiency have been previously reported, whereby Johnes disease was cited as increasing GHGe by 25% per kg of milk and 40% per kg of beef due to long-term effects on feed efficiency and growth before premature culling, whereas diarrhoea in dairy calves, with short-lived effects on intake and growth in heifer replacements increased GHGe by less than 1% per kg of milk [<xref ref-type="bibr" rid="CR56">56</xref>].</p>
+      <p id="Par29">Some of the data in this study were normalised to a standard prevalence to allow a theoretical comparison across species and diseases (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>), although under real-life conditions, effects of disease are confounded by prevalence and these impacts are significant data gaps in the literature. Within a specific species, the MMY impacts increase with disease prevalence &#x2013; the GHGe effects of a specific disease at the population or herd level therefore derive from a function of MMY effects and prevalence. For example, anthrax is inevitably fatal, causing significant MMY losses, yet the majority of anthrax cases are caused by ingestion of spores from soil or pasture, transmission between animals is rare and prevalence (at the population level) is low. By contrast, brucellosis has a far lesser impact on cattle MMY, yet is highly contagious between infected cattle and can spread quickly and easily within a herd or population (Table <xref rid="Tab6" ref-type="table">6</xref>). Despite these differences, the two diseases conferred almost identical increases in total GHGe from a 200-cow dairy herd within the current study, but had very different impacts at the population level (Table <xref rid="Tab8" ref-type="table">8</xref>). It is therefore essential to consider the relative merits of mitigating impacts of widespread but relatively low GHGe impact diseases, or those that have considerable impacts at the localised level, yet only affect a relatively small proportion of herds or flocks.</p>
+      <p id="Par30">The global effects of absolute increases in GHGe conferred by disease are further complicated by the size of livestock populations. Worldwide, considerably more head of poultry and swine exist than ruminant animals, yet the bodyweight of an average dairy cow is&#x2009;~&#x2009;500&#x2009;&#xD7;&#x2009;than of a hen. Consequently, cattle account for 54.8% of global livestock mass, compared to 18.4% for swine and 3.4% for chickens (Author&#x2019;s calculation derived from supplementary data from [<xref ref-type="bibr" rid="CR57">57</xref>]). The potential impacts of diseases within cattle production on both environmental impacts and LDF losses are further exacerbated by the greater amount of time required from birth to slaughter (and therefore greater total days-at-risk of disease) compared to growing swine or growing chickens, and the average GHGe per kg of milk or meat [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR58">58</xref>]. In developed regions, commercial swine and poultry operations tend to be more integrated than their ruminant counterparts and have a greater adoption of preventative veterinary strategies. Considerable potential gains may therefore exist from improved disease control within beef production systems in South Asia, Latin America and sub-Saharan Africa, cited as having the highest regional GHGe per kg of CW [<xref ref-type="bibr" rid="CR12">12</xref>]. This is underlined by the results shown in Table <xref rid="Tab9" ref-type="table">9</xref> &#x2013; if LSD was controlled in a 200-cow beef herd, the GHGe intensity would be reduced from 76.6&#xA0;kg CO<sub>2</sub>eq per kg CW to 73.0&#xA0;kg CO<sub>2</sub>eq per kg CW, with further gains made by improved hide quality.</p>
+      <p id="Par31">Changes in GHGe associated with attempting to maintain MMY from livestock systems challenged by disease are difficult to conceptualise in isolation but for greater context can be compared to the equivalent annual emissions from passenger vehicles (cars) based on equivalent annual exhaust emissions from United Kingdom passenger vehicles with emissions of 0.152&#xA0;kg CO<sub>2</sub> per km driven and 11,909&#xA0;km driven per year [<xref ref-type="bibr" rid="CR59">59</xref>, <xref ref-type="bibr" rid="CR60">60</xref>]. For example, at low population prevalence levels, the effect of disease on GHGe was relatively minor, ranging from an increase equivalent to annual emissions from 49 vehicles for LPAI in poultry at 10% prevalence (Table <xref rid="Tab11" ref-type="table">11</xref>), to 30,358 car-equivalents of GHGe for PRRS in swine at 10% prevalence (Table <xref rid="Tab10" ref-type="table">10</xref>). However, at high prevalence levels, the totals increased to 251 car-equivalents for LPAI in poultry at 50% prevalence to 233,578 car-equivalents for PRRS in swine at 60% prevalence. At the farm level (herd or flock) this can give an insight into the practical impacts of disease. For example, brucellosis at 40% prevalence in a 200-cow beef herd increased GHGe (Table <xref rid="Tab9" ref-type="table">9</xref>) by the equivalent of the annual emissions from 110 cars. By contrast, CSF at 90% prevalence in a 1,000-sow herd (Table <xref rid="Tab10" ref-type="table">10</xref>) increased GHGe by the equivalent of the annual emissions from 9,324 cars; whereas Newcastle disease at 95% prevalence in a 10-bird poultry flock (Table <xref rid="Tab11" ref-type="table">11</xref>) increased GHGe by the equivalent of the annual emissions from 0.13 cars. It is acknowledged that vehicle emissions vary considerably between countries and change over time, yet it is important to understand the context of changes in livestock GHGe compared to other GHG sources.</p>
+      <p id="Par32">Livestock producers worldwide must improve health and welfare through improved disease surveillance and reporting, optimized medicines use, implementation of preventative herd or flock health plans and adoption of tools and technologies that improve and facilitate these goals. This requires a concerted effort to improve collaboration and communication between all livestock production stakeholders, from the producer, veterinary surgeon, nutritionist and geneticist through the processor and retailer to the policymaker and consumer. The new OIE-WAHIS portal [<xref ref-type="bibr" rid="CR15">15</xref>] was developed with the intent of facilitating disease reporting, increasing and easing data reporting and therefore improving global data quality. If successful, this will bridge the data gap relating to livestock disease, productivity and GHGe; however, it is too early to judge whether these aims have been met. The global threat presented by antimicrobial resistance (AMR) to human, animal and ecosystem health and the consequent need to reduce, replace and refine antimicrobial use offers a clear rationale for implementing preventative health programmes for livestock across the globe, yet the advantages of these programmes must be clearly communicated to encourage producer uptake [<xref ref-type="bibr" rid="CR61">61</xref>]. The results of the current study add to the body of knowledge and information that may be used in this drive to increase vaccine use. The effectiveness and adoption of vaccines will never reach 100% across a real-life livestock population. Nevertheless, the potential reductions in milk and meat GHGe intensity (kg CO<sub>2</sub>eq/kg product) and improved food security that can be conferred by disease prevention should be of considerable interest to processors, retailers and policymakers. For example, reducing the prevalence of PRRS in swine populations from 60 to 10% would reduce GHGe intensity by 22.5%; whereas reducing FMD in beef cattle from 45 to 5% prevalence, or AIB in poultry from 75 to 20% prevalence would reduce GHGe intensities by 9.11% and 11.3% respectively (Table <xref rid="Tab12" ref-type="table">12</xref>). This is not intended to suggest that PRRS is the most important disease warranting control, or indeed that swine are more deserving of disease control measures than other animals. Indeed, there is need for a comprehensive global disease analysis that allows diseases to be compared on the basis of sustainability impacts. Although vaccines are available for all the diseases investigated within the current study, they are not available or adopted within every region or system worldwide due to economic, political, infrastructure or veterinary constraints. Outreach and extension programmes that disseminate information and enhance producer knowledge relating to the sustainability benefits of vaccines on economic viability and environmental responsibility must be developed&#x2014;participatory approaches that enhance peer-to-peer learning were shown to improve medicines use on dairy farms &#x2013; given the value of farmer discussions in changing behaviour, the same approach may be adopted worldwide [<xref ref-type="bibr" rid="CR62">62</xref>]. Lessons can and should be learned from the global vaccine response to the COVID-19 pandemic in terms of the ability to rapidly develop and disseminate effective preventative healthcare, although the limitations of research funding and inequalities between high- and low-income countries must be acknowledged and addressed [<xref ref-type="bibr" rid="CR63">63</xref>].</p>
+      <p id="Par33">As shown by the poultry-related results of this study, controlling disease in backyard flocks would significantly improve output and therefore livelihoods of many smallholder and subsistence livestock producers across the globe. Globally, livestock ownership provides myriad benefits beyond income, including improved nutrition, health, cultural status, education, female emancipation and asset diversification [<xref ref-type="bibr" rid="CR64">64</xref>, <xref ref-type="bibr" rid="CR65">65</xref>]. The potential sustainability impacts of improving animal health therefore extend beyond GHGe and economic viability of the individual farm to whole system and community sustainability, particularly in areas containing a high proportion of smallholder farmers, who are inherently vulnerable to risk and who would benefit considerably from vaccine adoption [<xref ref-type="bibr" rid="CR66">66</xref>].</p>
+      <p id="Par34">The importance of controlling animal disease as a strategy to improve food security across all systems must be included in sustainability discussions. Although the statistic is now dated, over 20% of global animal protein has been cited as lost because of livestock disease, and these are primarily diseases for which treatments already exist, yet are not adopted [<xref ref-type="bibr" rid="CR67">67</xref>]. At the farm-level, every growing or finishing animal (i.e. those destined for slaughter rather than breeding) that dies results in a loss of potential beef, pigmeat or poultry meat equal to its CW yield. However, the loss of a breeding cow, sow or hen also results in a greater potential food loss in the opportunity cost of milk or offspring that, in the absence of disease, would have been produced, and the need to divert female offspring into replacements rather than meat. Assuming that breeding livestock die, on average, halfway through their production cycle, this loss plus the time required to produce a replacement animal will be equal to total losses of 8,357&#xA0;kg milk (dairy cattle), 344.7&#xA0;kg CW of prime beef, 1,622&#xA0;kg CW pigmeat or 5.7&#xA0;kg CW poultry meat. These numbers need to be put into context to be meaningful, however, so, for example, the average poultry meat consumption in Malaysia is 53.1&#xA0;kg boneless meat per person [<xref ref-type="bibr" rid="CR68">68</xref>], therefore the potential CW gains from controlling HPAI in an area containing a total of 100,000 hens within backyard flocks (plus associated growing chickens) at a 70% prevalence (Table <xref rid="Tab11" ref-type="table">11</xref>) would supply 7,370 people in Malaysia with their annual poultry meat demand. Similarly, if classical swine fever was eliminated from pig production, the improved output from a 1,000-sow herd at a 90% prevalence (Table <xref rid="Tab10" ref-type="table">10</xref>) would supply 32,868 people in China with their annual pigmeat demand, based on 31.1&#xA0;kg CW consumed annually per capita [<xref ref-type="bibr" rid="CR68">68</xref>]. The recent outbreak of African swine fever, with swine losses cited at between 150&#x2013;200 million animals [<xref ref-type="bibr" rid="CR50">50</xref>] would therefore, at a minimum (assuming only growing animals died) represent food losses equivalent to the annual consumption of 403&#x2013;538 million people in China (up to 38% of the population), yet, as previously discussed, this is an underestimate as it does not include pigmeat opportunity cost.</p>
+      <p id="Par35">This study reveals the impact of disease on GHGe per kg of milk or meat produced, and therefore the potential gains through either through effective disease control (reduced prevalence, Table <xref rid="Tab12" ref-type="table">12</xref>) or elimination (Additional file <xref rid="MOESM1" ref-type="media">1</xref>). This study deliberately did not aim to definitively quantify the impacts of disease or it&#x2019;s control on specific populations or regions. Without current, precise information on global disease prevalence and performance impacts it is virtually impossible to accurately predict the regional or global GHG implications of, for example, vaccine use, as effects will vary according to disease identification and prevalence, individual vaccine efficacy and effectiveness, and adoption and use by livestock producers. These factors are further complicated by variation in GHGe between regions, systems and livestock species, plus the emissions conferred by vaccine manufacture, transport and use. At present, estimates of disease prevalence are often missing, dated, or considerably underestimated [<xref ref-type="bibr" rid="CR69">69</xref>] and effects on key performance indicators (e.g. mortality, yields, growth rate and carcass quality) exhibit such variation between systems, regions and climates that ascribing a specific mortality or production loss to a disease will inevitably under or overestimate the impacts &#x2013; an acknowledged limitation of this study. This could, in future studies, be mitigated by expanding the scope to include sensitivity analyses to examine a range of prevalence and performance impacts per disease, in addition to widening the number of systems and regions examined. Nevertheless, within the confines of the current study, results indicate that considerable gains may be made by vaccinating livestock such that disease prevalence is reduced and therefore performance maintained. These gains include potential reductions in the GHGe intensity per kg of milk ranging from 1.32% (anthrax) to 7.88% (FMD); per kg of beef from 0.81% (LSD) to 9.11% (FMD); per kg of pigmeat from 12.5% (CSF) to 22.5% (PRRS); and per kg of poultry meat from 1.89% (LPAI) to 11.3% (AIB), as shown in Table <xref rid="Tab12" ref-type="table">12</xref>. Further gains would be made by completely eliminating disease, with reductions in GHG per kg of meat ranging from 0.27% (low prevalence anthrax in beef cattle) up to 25.9% (high prevalence PRRS in swine).</p>
+      <p id="Par36">Modelling studies confer both opportunities and limitations in terms of the breadth, depth and accuracy of the results&#x2014;the current study was therefore constrained by a number of factors. An urgent need exists to collect, update and benchmark data relating to global disease incidence and losses &#x2013; although the trends in relative importance of animal diseases are unlikely to have changed substantially since the publication used in this study [<xref ref-type="bibr" rid="CR16">16</xref>], relying on data that is 10&#x2009;+&#x2009;years old as a basis for choosing diseases to investigate is less than ideal. It is hoped that this may be rectified in future by the recent multi-year initiative to evaluate the global burdens of animal diseases [<xref ref-type="bibr" rid="CR70">70</xref>]. Although the current results may be used as a foundation or guide for discussion, they should not be taken as a definitively accurate assessment. Few diseases occur in isolation, therefore additional modelling should be undertaken to account for interactions between diseases within livestock populations and the impacts of concomitant and secondary disease on MMY losses. Indeed, as many diseases co-exist and interact on-farm, it is difficult to quantify the effects of a single disease on economic or environmental impacts [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR71">71</xref>]. The methodology by which this is assessed is crucial however: a recent study examined three options for assessing economic burdens of co-existing endemic disease in UK dairy cattle, finding that the costs of aggregated diseases were less than would have been predicted from non-aggregated data, yet disease rankings varied considerably according to the methodology used [<xref ref-type="bibr" rid="CR72">72</xref>].</p>
+      <p id="Par37">Within the current study, animals were assumed to die halfway through their production, breeding or growth cycle (unless aborted or stillborn), therefore account for the embedded GHGe invested in producing animals that then die and do not enter the food chain. However, although the total LDF losses might not change, the GHGe associated with mortality of a 2-day-old chicken would differ greatly from a beef steer being lost at 30 mo of age, therefore the timing of morbidity and mortality also warrants further investigation. The consequential implications of disease incidence and co-products would also reveal a more complete picture of the impacts of livestock health than can be gained from examining different livestock species or systems in isolation. Examples would include the effects on total beef production and GHGe resulting from disease outbreaks in dairy cattle that result in fewer male calves being produced, or a shift towards greater poultry production and consumption in the event of a disease outbreak in swine. Finally, given the importance of climate change in public and policy debate, and the MMY impact of the diseases investigated within the current study, it is unfortunate that there appear to be no papers in the literature have investigated disease effects upon GHGe, although a body of literature exists examining the impacts of climate change on future disease incidence and epidemiology. As livestock producers become more aware of the importance of improving health and reducing GHGe, this knowledge gap will urgently need to be filled. Ideally, this would be achieved through implementation of an accurate and continuous global disease surveillance monitoring and reporting system, coupled with improved on-farm GHG assessment tools and metrics.</p>
+    </sec>
+    <sec id="Sec5">
+      <title>Conclusion</title>
+      <p id="Par38">Livestock health is an integral component of sustainability via the impacts of morbidity and mortality on MMY and therefore on both LDF output and GHGe. This study shows that reducing the prevalence or eliminating diseases that have negative impacts on milk and meat output should reduce the GHGe intensity (kg CO<sub>2</sub>eq/kg product) of LDF production, although the magnitude of specific disease effects varies according to the degree of output losses, disease prevalence and the characteristics of the baseline population. Controlling or eliminating diseases of global importance may have considerable benefits in terms of improving food security and mitigating the impacts of livestock production on the environment. Implementing a culture of continuous improvement, including data collection, recording and benchmarking disease impacts so that their effects can be effectively quantified and communicated to stakeholders throughout the food system will allow evidence-based decisions to be made at the farm, processor, retailer and policy level. Given concerns over AMR, improving the adoption and application of vaccines to control diseases within global livestock production offers significant opportunities to enhance both livestock system sustainability and One Health.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <sec id="Sec6">
+        <title>Supplementary Information</title>
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="42522_2023_89_MOESM1_ESM.docx"><caption><p><bold>Additional file 1.</bold></p></caption></media></supplementary-material></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Not applicable</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This work was supported by Health for Animals, 168 Avenue de Tervueren, Box 8 1150, Brussels, Belgium.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>All the principal data generated and analysed within the study are included in this article within the main tables, but on reasonable request, the full dataset and further details of the models are available from the corresponding author.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par39">Not applicable.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par40">Not applicable.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par41">The author declares that she has no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">United Nations Department of Economic and Social Affairs Population Division. World Population Prospects 2019 - Highlights. ST/ESA/SER.A/423. 2019. <ext-link ext-link-type="uri" xlink:href="https://population.un.org/wpp/Publications/Files/WPP2019_10KeyFindings.pdf">https://population.un.org/wpp/Publications/Files/WPP2019_10KeyFindings.pdf</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <mixed-citation publication-type="other">Food and Agriculture Organization of the United Nations. The Future of Food and Agriculture. 2017. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/i6583e/i6583e.pdf">https://www.fao.org/3/i6583e/i6583e.pdf</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfray</surname><given-names>HCJ</given-names></name><name><surname>Beddington</surname><given-names>JR</given-names></name><name><surname>Crute</surname><given-names>IR</given-names></name><etal/></person-group><article-title>Food security: The challenge of feeding 9 billion people</article-title><source>Science</source><year>2010</year><volume>327</volume><fpage>812</fpage><lpage>818</lpage><pub-id pub-id-type="doi">10.1126/science.1185383</pub-id><pub-id pub-id-type="pmid">20110467</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capper</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>De Carvalho</surname>
+              <given-names>TB</given-names>
+            </name>
+            <name>
+              <surname>Hancock</surname>
+              <given-names>AS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Modeling the effects of steroid implant use on the environmental and economic sustainability of Brazilian beef production</article-title>
+          <source>Transl Anim Sci</source>
+          <year>2021</year>
+          <volume>5</volume>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1093/tas/txab144</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Capper </surname><given-names>JL</given-names></name><name><surname>Cady</surname><given-names>RA</given-names></name></person-group><article-title>The effects of improved performance in the U.S. dairy cattle industry on environmental impacts between 2007 and 2017</article-title><source>J Anim Sci</source><year>2020</year><volume>98</volume><fpage>skz291</fpage><pub-id pub-id-type="doi">10.1093/jas/skz291</pub-id><pub-id pub-id-type="pmid">31622980</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>&#xD6;zkan</surname>
+              <given-names>&#x15E;</given-names>
+            </name>
+            <name>
+              <surname>Ahmadi</surname>
+              <given-names>BV</given-names>
+            </name>
+            <name>
+              <surname>Bonesmo</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impact of animal health on greenhouse gas emissions</article-title>
+          <source>Adv Anim Biosci</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>24</fpage>
+          <lpage>25</lpage>
+          <pub-id pub-id-type="doi">10.1017/S2040470014000454</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Naranjo</surname><given-names>A</given-names></name><name><surname>Johnson</surname><given-names>A</given-names></name><name><surname>Rossow</surname><given-names>H</given-names></name><name><surname>Kebreab</surname><given-names>E</given-names></name></person-group><article-title>Greenhouse gas, water, and land footprint per unit of production of the California dairy industry over 50 years</article-title><source>J Dairy Sci</source><year>2020</year><volume>103</volume><fpage>3760</fpage><lpage>3773</lpage><pub-id pub-id-type="doi">10.3168/jds.2019-16576</pub-id><pub-id pub-id-type="pmid">32037166</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bennett</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The &#x2018;direct costs&#x2019; of livestock disease: The development of a system of models for the analysis of 30 endemic livestock diseases in Great Britain</article-title>
+          <source>J Agric Econ</source>
+          <year>2003</year>
+          <volume>54</volume>
+          <fpage>55</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1477-9552.2003.tb00048.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <mixed-citation publication-type="other">Capper JL, Williams P. Healthy Livestock Produce Sustainable Food. 2019. <ext-link ext-link-type="uri" xlink:href="https://www.msd-animal-health.co.uk/offload-downloads/white-paper-healthy-livestock-produce-sustainable-food/">https://www.msd-animal-health.co.uk/offload-downloads/white-paper-healthy-livestock-produce-sustainable-food/</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lowder</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Skoet</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Raney</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>The number, size, and distribution of farms, smallholder farms, and family farms worldwide</article-title>
+          <source>World Dev</source>
+          <year>2016</year>
+          <volume>87</volume>
+          <fpage>16</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.worlddev.2015.10.041</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <mixed-citation publication-type="other">MacLeod M, Gerber P, Vellinga T, et al. Greenhouse gas emissions from pig and chicken supply chains: a global life cycle assessment. 2013. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/i3460e/i3460e01.pdf">https://www.fao.org/3/i3460e/i3460e01.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <mixed-citation publication-type="other">Opio C, Gerber P, Vellinga T, et al. Greenhouse gas emissions from ruminant supply chains: a global life cycle assessment. 2013. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/i3461e/i3461e.pdf">https://www.fao.org/3/i3461e/i3461e.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perry</surname><given-names>BD</given-names></name><name><surname>Robinson</surname><given-names>TP</given-names></name><name><surname>Grace</surname><given-names>DC</given-names></name></person-group><article-title>Review: Animal health and sustainable global livestock systems</article-title><source>Animal</source><year>2018</year><volume>12</volume><fpage>1699</fpage><lpage>1708</lpage><pub-id pub-id-type="doi">10.1017/S1751731118000630</pub-id><pub-id pub-id-type="pmid">29631649</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <mixed-citation publication-type="other">Robinson TP, Thornton PK, Franceschini G, et al. Global livestock production systems. 2011. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/i2414e/i2414e.pdf">https://www.fao.org/3/i2414e/i2414e.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <mixed-citation publication-type="other">OIE. World Animal Health Information System (WAHIS). 2021. <ext-link ext-link-type="uri" xlink:href="https://wahis.oie.int/#/home">https://wahis.oie.int/#/home</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <mixed-citation publication-type="other">World Bank and TAFS Forum. World Livestock Disease Atlas: A Quantitative Analysis of Global Animal Health Data (2006&#x2013;2009). 2011. <ext-link ext-link-type="uri" xlink:href="http://documents1.worldbank.org/curated/en/323671468179364909/pdf/668590WP00PUBL00Livestock0Atlas0web.pdf">http://documents1.worldbank.org/curated/en/323671468179364909/pdf/668590WP00PUBL00Livestock0Atlas0web.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <mixed-citation publication-type="other">FAO. FAOSTAT. 2021. <ext-link ext-link-type="uri" xlink:href="http://faostat.fao.org">http://faostat.fao.org</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <mixed-citation publication-type="other">Food and Agriculture Organization of the United Nations. Greenhouse Gas Emissions from the Dairy Sector: A Life Cycle Assessment. 2010. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/k7930e/k7930e00.pdf">https://www.fao.org/3/k7930e/k7930e00.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Singh</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Medhi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Gogoi</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Reproductive, growth performance and carcass traits of pigs raised under existing low input tribal backyard pig production system in Dima Hasao, Assam of North East India</article-title>
+          <source>Journal of Entomology and Zoology Studies</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <fpage>12</fpage>
+          <lpage>17</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <mixed-citation publication-type="other">Knox R, Foxcroft G. Management of the gilt for breeding and in first gestation for longevity. 2015. <ext-link ext-link-type="uri" xlink:href="https://www.nationalhogfarmer.com/hog-reproduction/management-of-the-gilt-for-breeding-and-in-first-gestation-for-longevity">https://www.nationalhogfarmer.com/hog-reproduction/management-of-the-gilt-for-breeding-and-in-first-gestation-for-longevity</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Koketsu</surname><given-names>Y</given-names></name><name><surname>Iida</surname><given-names>R</given-names></name><name><surname>Pi&#xF1;eiro</surname><given-names>C</given-names></name></person-group><article-title>Increased age at first-mating interacting with herd size or herd productivity decreases longevity and lifetime reproductive efficiency of sows in breeding herds</article-title><source>Porcine Health Management</source><year>2020</year><volume>6</volume><fpage>2</fpage><pub-id pub-id-type="doi">10.1186/s40813-019-0142-9</pub-id><pub-id pub-id-type="pmid">32047646</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McOrist</surname><given-names>S</given-names></name><name><surname>Khampee</surname><given-names>K</given-names></name><name><surname>Guo</surname><given-names>A</given-names></name></person-group><article-title>Modern pig farming in the People's Republic of China: growth and veterinary challenges</article-title><source>Rev Sci Tech</source><year>2011</year><volume>30</volume><fpage>961</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.20506/rst.30.3.2091</pub-id><pub-id pub-id-type="pmid">22435207</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <mixed-citation publication-type="other">Strak J. A global league table for pig production. 2019. <ext-link ext-link-type="uri" xlink:href="https://www.pigprogress.net/World-of-Pigs1/Articles/2019/10/A-global-league-table-for-pig-production-476831E/">https://www.pigprogress.net/World-of-Pigs1/Articles/2019/10/A-global-league-table-for-pig-production-476831E/</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rudolph</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>H&#xF6;rtenhuber</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bochicchio</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effect of three husbandry systems on environmental impact of organic pigs</article-title>
+          <source>Sustainability</source>
+          <year>2018</year>
+          <volume>10</volume>
+          <fpage>3796</fpage>
+          <lpage>3815</lpage>
+          <pub-id pub-id-type="doi">10.3390/su10103796</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <mixed-citation publication-type="other">Toppo A. Poultry Farming: Top Chicken Breeds in India for Egg and Meat. 2021. <ext-link ext-link-type="uri" xlink:href="https://krishijagran.com/animal-husbandry/poultry-farming-top-chicken-breeds-in-india-for-egg-and-meat/">https://krishijagran.com/animal-husbandry/poultry-farming-top-chicken-breeds-in-india-for-egg-and-meat/</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Assefa</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Melesse</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Taye</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterization of indigenous chicken production system in Sheka zone, south western Ethiopia</article-title>
+          <source>International Journal For Research In Agricultural And Food Science</source>
+          <year>2019</year>
+          <volume>5</volume>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kingori</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Wachira</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Tuitoek</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <article-title>Indigenous chicken production in Kenya: A review</article-title>
+          <source>Int J Poult Sci</source>
+          <year>2010</year>
+          <volume>9</volume>
+          <fpage>309</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.3923/ijps.2010.309.316</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ali</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chakravarty</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rajbongshi</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Backyard poultry farming empowering women for doubling farmers&#x2019; income</article-title>
+          <source>Journal of Entomology and Zoology Studies</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <fpage>1138</fpage>
+          <lpage>1143</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferrari</surname><given-names>G</given-names></name><name><surname>Tasciotti</surname><given-names>L</given-names></name><name><surname>Khan</surname><given-names>E</given-names></name><name><surname>Kiani</surname><given-names>A</given-names></name></person-group><article-title>Foot-and-mouth disease and Its effect on milk yield: An economic analysis on livestock holders in Pakistan</article-title><source>Transbound Emerg Dis</source><year>2014</year><volume>61</volume><fpage>e52</fpage><lpage>e59</lpage><pub-id pub-id-type="doi">10.1111/tbed.12072</pub-id><pub-id pub-id-type="pmid">23480237</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Senturk</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Yal&#xE7;in</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Production losses due to endemic foot-and-mouth disease in cattle in Turkey</article-title>
+          <source>Turk J Vet Anim Sci</source>
+          <year>2008</year>
+          <volume>32</volume>
+          <fpage>433</fpage>
+          <lpage>440</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santos</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Martins</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Borges</surname>
+              <given-names>&#xC1;</given-names>
+            </name>
+            <name>
+              <surname>Paixao</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Economic losses due to bovine brucellosis in Brazil</article-title>
+          <source>Pesqui Vet Bras</source>
+          <year>2013</year>
+          <volume>33</volume>
+          <fpage>759</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0100-736X2013000600012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <mixed-citation publication-type="other">Kiplagat SK, Kitala PM, Onono JO, Beard PM, Lyons NA. Risk factors for outbreaks of lumpy skin disease and the economic impact in cattle farms of Nakuru County, Kenya. Front. Vet. Sci. 2020;7:10.3389/fvets.2020.00259.</mixed-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Doley</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Barlaskar</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Nath</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yadav</surname>
+              <given-names>SN</given-names>
+            </name>
+          </person-group>
+          <article-title>Lumpy skin disease: An emerging bovine viral infection in India</article-title>
+          <source>Indian J Anim Health</source>
+          <year>2020</year>
+          <volume>59</volume>
+          <fpage>137</fpage>
+          <lpage>142</lpage>
+          <pub-id pub-id-type="doi">10.36062/ijah.59.2.2020.137-142</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Molla</surname><given-names>W</given-names></name><name><surname>de Jong</surname><given-names>MCM</given-names></name><name><surname>Gari</surname><given-names>G</given-names></name><name><surname>Frankena</surname><given-names>K</given-names></name></person-group><article-title>Economic impact of lumpy skin disease and cost effectiveness of vaccination for the control of outbreaks in Ethiopia</article-title><source>Prev Vet Med</source><year>2017</year><volume>147</volume><fpage>100</fpage><lpage>107</lpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2017.09.003</pub-id><pub-id pub-id-type="pmid">29254706</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ayelet</surname><given-names>G</given-names></name><name><surname>Abate</surname><given-names>Y</given-names></name><name><surname>Sisay</surname><given-names>T</given-names></name><etal/></person-group><article-title>Lumpy skin disease: Preliminary vaccine efficacy assessment and overview on outbreak impact in dairy cattle at Debre Zeit, central Ethiopia</article-title><source>Antiviral Res</source><year>2013</year><volume>98</volume><fpage>261</fpage><lpage>265</lpage><pub-id pub-id-type="doi">10.1016/j.antiviral.2013.02.008</pub-id><pub-id pub-id-type="pmid">23428671</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valdes-Donoso</surname><given-names>P</given-names></name><name><surname>Alvarez</surname><given-names>J</given-names></name><name><surname>Jarvis</surname><given-names>LS</given-names></name><name><surname>Morrison</surname><given-names>RB</given-names></name><name><surname>Perez</surname><given-names>AM</given-names></name></person-group><article-title>Production losses from an endemic animal disease: Porcine reproductive and respiratory syndrome (PRRS) in selected Midwest US sow farms</article-title><source>Front Vet Sci</source><year>2018</year><volume>5</volume><fpage>102</fpage><pub-id pub-id-type="doi">10.3389/fvets.2018.00102</pub-id><pub-id pub-id-type="pmid">29922683</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <mixed-citation publication-type="other">White M. Porcine Reproductive and Respiratory Syndrome (PRRS) in Weaners. 2006. <ext-link ext-link-type="uri" xlink:href="https://www.nadis.org.uk/disease-a-z/pigs/porcine-reproductive-and-respiratory-syndrome-prrs-in-weaners/">https://www.nadis.org.uk/disease-a-z/pigs/porcine-reproductive-and-respiratory-syndrome-prrs-in-weaners/</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pejsak</surname><given-names>Z</given-names></name><name><surname>Stadejek</surname><given-names>T</given-names></name><name><surname>Markowska-Daniel</surname><given-names>I</given-names></name></person-group><article-title>Clinical signs and economic losses caused by porcine reproductive and respiratory syndrome virus in a large breeding farm</article-title><source>Vet Microbiol</source><year>1997</year><volume>55</volume><fpage>317</fpage><lpage>322</lpage><pub-id pub-id-type="doi">10.1016/S0378-1135(96)01326-0</pub-id><pub-id pub-id-type="pmid">9220628</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>H</given-names></name><name><surname>Kono</surname><given-names>H</given-names></name><name><surname>Kubota</surname><given-names>S</given-names></name></person-group><article-title>An integrated epidemiological and economic analysis of vaccination against highly pathogenic porcine reproductive and respiratory syndrome (PRRS) in Thua Thien Hue Province</article-title><source>Vietnam Asian-Australasian journal of animal sciences</source><year>2014</year><volume>27</volume><fpage>1499</fpage><lpage>1512</lpage><pub-id pub-id-type="doi">10.5713/ajas.2014.14060</pub-id><pub-id pub-id-type="pmid">25178303</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Landman</surname><given-names>WJM</given-names></name><name><surname>Germeraad</surname><given-names>EA</given-names></name><name><surname>Kense</surname><given-names>MJ</given-names></name></person-group><article-title>An avian influenza virus H6N1 outbreak in commercial layers: case report and reproduction of the disease</article-title><source>Avian Pathol</source><year>2019</year><volume>48</volume><fpage>98</fpage><lpage>110</lpage><pub-id pub-id-type="doi">10.1080/03079457.2018.1551612</pub-id><pub-id pub-id-type="pmid">30484684</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jaleel</surname><given-names>S</given-names></name><name><surname>Younus</surname><given-names>M</given-names></name><name><surname>Idrees</surname><given-names>A</given-names></name><etal/></person-group><article-title>Pathological alterations in respiratory system during co-infection with low pathogenic avian influenza virus (H9N2) and Escherichia Coli in broiler chickens</article-title><source>J Vet Res</source><year>2017</year><volume>61</volume><fpage>253</fpage><lpage>258</lpage><pub-id pub-id-type="doi">10.1515/jvetres-2017-0035</pub-id><pub-id pub-id-type="pmid">29978081</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <mixed-citation publication-type="other">Swayne DE. MSD Veterinary Manual - Avian Influenza. 2020. <ext-link ext-link-type="uri" xlink:href="https://www.msdvetmanual.com/poultry/avian-influenza/avian-influenza">https://www.msdvetmanual.com/poultry/avian-influenza/avian-influenza</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <mixed-citation publication-type="other">Jackwood MW, de Wit S. Infectious Bronchitis. in: Diseases of Poultry (Eds:Swayne DE, Boulianne M, Logue CM, et al.) pp.167&#x2013;188 (John Wiley &amp; Sons, Inc, 2020).</mixed-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hassan</surname><given-names>KE</given-names></name><name><surname>Shany</surname><given-names>SAS</given-names></name><name><surname>Ali</surname><given-names>A</given-names></name><etal/></person-group><article-title>Prevalence of avian respiratory viruses in broiler flocks in Egypt</article-title><source>Poult Sci</source><year>2016</year><volume>95</volume><fpage>1271</fpage><lpage>1280</lpage><pub-id pub-id-type="doi">10.3382/ps/pew068</pub-id><pub-id pub-id-type="pmid">26976895</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bande</surname><given-names>F</given-names></name><name><surname>Arshad</surname><given-names>SS</given-names></name><name><surname>Omar</surname><given-names>AR</given-names></name><etal/></person-group><article-title>Pathogenesis and diagnostic approaches of avian infectious bronchitis</article-title><source>Advances in Virology</source><year>2016</year><volume>2016</volume><fpage>4621659</fpage><pub-id pub-id-type="doi">10.1155/2016/4621659</pub-id><pub-id pub-id-type="pmid">26955391</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <mixed-citation publication-type="other">Miller PJ. MSD Veterinary Manual - Newcastle Disease in Poultry. 2014. <ext-link ext-link-type="uri" xlink:href="https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry?query=newcastle%27s%20disease">https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry?query=newcastle%27s%20disease</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Absal&#xF3;n</surname><given-names>AE</given-names></name><name><surname>Cort&#xE9;s-Espinosa</surname><given-names>DV</given-names></name><name><surname>Lucio</surname><given-names>E</given-names></name><name><surname>Miller</surname><given-names>PJ</given-names></name><name><surname>Afonso</surname><given-names>CL</given-names></name></person-group><article-title>Epidemiology, control, and prevention of Newcastle disease in endemic regions: Latin America</article-title><source>Trop Anim Health Prod</source><year>2019</year><volume>51</volume><fpage>1033</fpage><lpage>1048</lpage><pub-id pub-id-type="doi">10.1007/s11250-019-01843-z</pub-id><pub-id pub-id-type="pmid">30877525</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Capper</surname><given-names>JL</given-names></name></person-group><article-title>Opportunities and challenges in animal protein industry sustainability: The battle between science and consumer perception</article-title><source>Anim Front</source><year>2020</year><volume>10</volume><fpage>7</fpage><lpage>13</lpage><pub-id pub-id-type="doi">10.1093/af/vfaa034</pub-id><pub-id pub-id-type="pmid">33150006</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thompson</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Seitzinger</surname>
+              <given-names>AH</given-names>
+            </name>
+          </person-group>
+          <article-title>Economic evaluation of low pathogenic avian influenza in northeastern US live bird markets</article-title>
+          <source>J Appl Poultry Res</source>
+          <year>2019</year>
+          <volume>28</volume>
+          <fpage>78</fpage>
+          <lpage>84</lpage>
+          <pub-id pub-id-type="doi">10.3382/japr/pfy020</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mason-D&#x2019;Croz</surname><given-names>D</given-names></name><name><surname>Bogard</surname><given-names>JR</given-names></name><name><surname>Herrero</surname><given-names>M</given-names></name><etal/></person-group><article-title>Modelling the global economic consequences of a major African swine fever outbreak in China</article-title><source>Nature Food</source><year>2020</year><volume>1</volume><fpage>221</fpage><lpage>228</lpage><pub-id pub-id-type="doi">10.1038/s43016-020-0057-2</pub-id><pub-id pub-id-type="pmid">33634268</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>&#xD6;zkan G&#xFC;lzari</surname><given-names>&#x15E;</given-names></name><name><surname>Vosough Ahmadi</surname><given-names>B</given-names></name><name><surname>Stott</surname><given-names>AW</given-names></name></person-group><article-title>Impact of subclinical mastitis on greenhouse gas emissions intensity and profitability of dairy cows in Norway</article-title><source>Prev Vet Med</source><year>2018</year><volume>150</volume><fpage>19</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2017.11.021</pub-id><pub-id pub-id-type="pmid">29406080</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mostert</surname>
+              <given-names>PF</given-names>
+            </name>
+            <name>
+              <surname>van Middelaar</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>de Boer</surname>
+              <given-names>IJM</given-names>
+            </name>
+            <name>
+              <surname>Bokkers</surname>
+              <given-names>EAM</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of foot lesions in dairy cows on greenhouse gas emissions of milk production</article-title>
+          <source>Ag Sys</source>
+          <year>2018</year>
+          <volume>167</volume>
+          <fpage>206</fpage>
+          <lpage>212</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.agsy.2018.09.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mostert</surname><given-names>PF</given-names></name><name><surname>Bokkers</surname><given-names>EAM</given-names></name><name><surname>de Boer</surname><given-names>IJM</given-names></name><name><surname>van Middelaar</surname><given-names>CE</given-names></name></person-group><article-title>Estimating the impact of clinical mastitis in dairy cows on greenhouse gas emissions using a dynamic stochastic simulation model: a case study</article-title><source>Animal</source><year>2019</year><volume>13</volume><fpage>2913</fpage><lpage>2921</lpage><pub-id pub-id-type="doi">10.1017/S1751731119001393</pub-id><pub-id pub-id-type="pmid">31210122</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Chatterton</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hateley</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Curwen</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Elliott</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>A systems-life cycle assessment approach to modelling the impact of improvements in cattle health on greenhouse gas emissions</article-title>
+          <source>Adv Anim Biosc</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>29</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1017/S2040470014000478</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capper</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Bauman</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of productivity in improving the environmental sustainability of ruminant production systems</article-title>
+          <source>Annu Rev An Vet Biosci</source>
+          <year>2013</year>
+          <volume>1</volume>
+          <fpage>469</fpage>
+          <lpage>489</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-animal-031412-103727</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <mixed-citation publication-type="other">ADAS. Study to Model the Impact of Controlling Endemic Cattle Diseases and Conditions on National Cattle Productivity, Agricultural Performance and Greenhouse Gas Emissions. 2015. <ext-link ext-link-type="uri" xlink:href="https://randd.defra.gov.uk/ProjectDetails?ProjectID=17791&amp;FromSearch=Y&amp;Publisher=1&amp;SearchText=AC0120&amp;SortString=ProjectCode&amp;SortOrder=Asc&amp;Paging=10">https://randd.defra.gov.uk/ProjectDetails?ProjectID=17791&amp;FromSearch=Y&amp;Publisher=1&amp;SearchText=AC0120&amp;SortString=ProjectCode&amp;SortOrder=Asc&amp;Paging=10</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bar-On</surname><given-names>YM</given-names></name><name><surname>Phillips</surname><given-names>R</given-names></name><name><surname>Milo</surname><given-names>R</given-names></name></person-group><article-title>The biomass distribution on Earth</article-title><source>Proc Natl Acad Sci</source><year>2018</year><volume>115</volume><fpage>6506</fpage><pub-id pub-id-type="doi">10.1073/pnas.1711842115</pub-id><pub-id pub-id-type="pmid">29784790</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <mixed-citation publication-type="other">FAO. Greenhouse Gas Emissions from the Dairy Sector: A Life Cycle Assessment. 2010. <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/3/k7930e/k7930e00.pdf">https://www.fao.org/3/k7930e/k7930e00.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <mixed-citation publication-type="other">Department for Business Energy &amp; Industrial Strategy. Government greenhouse gas conversion factors for company reporting. Methodology paper for emission factors. Final report. 2019. <ext-link ext-link-type="uri" xlink:href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1049346/2021-ghg-conversion-factors-methodology.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1049346/2021-ghg-conversion-factors-methodology.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <mixed-citation publication-type="other">Department for Transport. Vehicle mileage and occupancy. 2021. <ext-link ext-link-type="uri" xlink:href="https://www.gov.uk/government/statistical-data-sets/nts09-vehicle-mileage-and-occupancy">https://www.gov.uk/government/statistical-data-sets/nts09-vehicle-mileage-and-occupancy</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>Z</given-names></name><name><surname>Marsh</surname><given-names>T</given-names></name><name><surname>Mpolya</surname><given-names>E</given-names></name><name><surname>Thumbi</surname><given-names>S</given-names></name><name><surname>Palmer</surname><given-names>G</given-names></name></person-group><article-title>Newcastle disease vaccine adoption by smallholder households in Tanzania: Identifying determinants and barriers</article-title><source>PLoS ONE</source><year>2018</year><volume>13</volume><fpage>e0206058</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0206058</pub-id><pub-id pub-id-type="pmid">30356260</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morgans</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Reyher</surname>
+              <given-names>KK</given-names>
+            </name>
+            <name>
+              <surname>Barrett</surname>
+              <given-names>DC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Changing farmer and veterinarian behaviour around antimicrobial use</article-title>
+          <source>Livestock</source>
+          <year>2019</year>
+          <volume>24</volume>
+          <fpage>75</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.12968/live.2019.24.2.75</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoelzer</surname><given-names>K</given-names></name><name><surname>Bielke</surname><given-names>L</given-names></name><name><surname>Blake</surname><given-names>DP</given-names></name><etal/></person-group><article-title>Vaccines as alternatives to antibiotics for food producing animals. Part 1: challenges and needs</article-title><source>Vet Res</source><year>2018</year><volume>49</volume><fpage>64</fpage><pub-id pub-id-type="doi">10.1186/s13567-018-0560-8</pub-id><pub-id pub-id-type="pmid">30060757</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Randolph</surname>
+              <given-names>TF</given-names>
+            </name>
+            <name>
+              <surname>Schelling</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Grace</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Invited review: Role of livestock in human nutrition and health for poverty reduction in developing countries</article-title>
+          <source>Int J An Sci</source>
+          <year>2007</year>
+          <volume>85</volume>
+          <fpage>2788</fpage>
+          <lpage>2800</lpage>
+          <pub-id pub-id-type="doi">10.2527/jas.2007-0467</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sones</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Grace</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Beyond milk, meat, and eggs: Role of livestock in food and nutrition security</article-title>
+          <source>Anim Front</source>
+          <year>2012</year>
+          <volume>3</volume>
+          <fpage>6</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.2527/af.2013-0002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Donadeu</surname><given-names>M</given-names></name><name><surname>Nwankpa</surname><given-names>N</given-names></name><name><surname>Abela-Ridder</surname><given-names>B</given-names></name><name><surname>Dungu</surname><given-names>B</given-names></name></person-group><article-title>Strategies to increase adoption of animal vaccines by smallholder farmers with focus on neglected diseases and marginalized populations</article-title><source>PLoS Negl Trop Dis</source><year>2019</year><volume>13</volume><fpage>e0006989</fpage><pub-id pub-id-type="doi">10.1371/journal.pntd.0006989</pub-id><pub-id pub-id-type="pmid">30730883</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">OIE. Feeding the world better by controlling animal diseases. 2008. <ext-link ext-link-type="uri" xlink:href="http://www.oie.int/for-the-media/editorials/detail/article/feeding-the-world-better-by-controlling-animal-diseases/">http://www.oie.int/for-the-media/editorials/detail/article/feeding-the-world-better-by-controlling-animal-diseases/</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <mixed-citation publication-type="other">OECD Data. Meat Consumption. 2021. <ext-link ext-link-type="uri" xlink:href="https://data.oecd.org/agroutput/meat-consumption.htm">https://data.oecd.org/agroutput/meat-consumption.htm</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sumption</surname><given-names>K</given-names></name><name><surname>Rweyemamu</surname><given-names>M</given-names></name><name><surname>Wint</surname><given-names>W</given-names></name></person-group><article-title>Incidence and Distribution of Foot-and-Mouth Disease in Asia, Africa and South America; Combining Expert Opinion, Official Disease Information and Livestock Populations to Assist Risk Assessment</article-title><source>Transbound Emerg Dis</source><year>2008</year><volume>55</volume><fpage>5</fpage><lpage>13</lpage><pub-id pub-id-type="doi">10.1111/j.1865-1682.2007.01017.x</pub-id><pub-id pub-id-type="pmid">18397505</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <mixed-citation publication-type="other">World Organisation for Animal Health. GBADs - The Global Burden of Animal Diseases. 2021. <ext-link ext-link-type="uri" xlink:href="https://gbads.woah.org/">https://gbads.woah.org/</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR71">
+        <label>71.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stott</surname><given-names>AW</given-names></name><name><surname>Humphry</surname><given-names>RW</given-names></name><name><surname>Gunn</surname><given-names>GJ</given-names></name></person-group><article-title>Modelling the effects of previous infection and re-infection on the costs of bovine viral diarrhoea outbreaks in beef herds</article-title><source>Vet J</source><year>2010</year><volume>185</volume><fpage>138</fpage><lpage>143</lpage><pub-id pub-id-type="doi">10.1016/j.tvjl.2009.05.020</pub-id><pub-id pub-id-type="pmid">19709915</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR72">
+        <label>72.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rasmussen</surname><given-names>P</given-names></name><name><surname>Shaw</surname><given-names>APM</given-names></name><name><surname>Mu&#xF1;oz</surname><given-names>V</given-names></name><name><surname>Bruce</surname><given-names>M</given-names></name><name><surname>Torgerson</surname><given-names>PR</given-names></name></person-group><article-title>Estimating the burden of multiple endemic diseases and health conditions using Bayes&#x2019; Theorem: A conditional probability model applied to UK dairy cattle</article-title><source>Prev Vet Med</source><year>2022</year><volume>203</volume><fpage>105617</fpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2022.105617</pub-id><pub-id pub-id-type="pmid">35358837</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

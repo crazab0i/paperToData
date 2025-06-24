@@ -1,0 +1,1145 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">mSphere</journal-id><journal-id journal-id-type="iso-abbrev">mSphere</journal-id><journal-id journal-id-type="publisher-id">msphere</journal-id><journal-title-group><journal-title>mSphere</journal-title></journal-title-group><issn pub-type="epub">2379-5042</issn><publisher><publisher-name>American Society for Microbiology</publisher-name><publisher-loc>1752 N St., N.W., Washington, DC</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38349167</article-id><article-id pub-id-type="pmc">10964430</article-id>
+<article-id pub-id-type="publisher-id">00750-23</article-id><article-id pub-id-type="doi">10.1128/msphere.00750-23</article-id><article-id pub-id-type="publisher-id">msphere.00750-23</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="biological-terms"><compound-subject><compound-subject-part content-type="code">vaccines</compound-subject-part><compound-subject-part content-type="label">Vaccines</compound-subject-part></compound-subject></subj-group></article-categories><title-group><article-title>Contrasting roles for IgM and B-cell MHCII expression in <italic toggle="yes">Brucella abortus</italic> S19 vaccine-mediated efficacy against <italic toggle="yes">B. melitensis</italic> infection</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Abushahba</surname><given-names>Mostafa F. N.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review and editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review and editing</role></contrib><contrib contrib-type="author"><name><surname>Dadelahi</surname><given-names>Alexis S.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role></contrib><contrib contrib-type="author"><name><surname>Ponzilacqua-Silva</surname><given-names>B&#xE1;rbara</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role></contrib><contrib contrib-type="author"><name><surname>Moley</surname><given-names>Charles R.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2337-908X</contrib-id><name><surname>Skyberg</surname><given-names>Jerod A.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor1" ref-type="corresp"/><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Funding acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing &#x2013; review and editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review and editing</role><email>skybergj@missouri.edu</email></contrib><aff id="aff1"><label>1</label><institution-wrap><institution>Department of Veterinary Pathobiology, College of Veterinary Medicine, University of Missouri</institution></institution-wrap>, <city>Columbia</city>, <state>Missouri</state>, <country>USA</country></aff><aff id="aff2"><label>2</label><institution-wrap><institution>Laboratory for Infectious Disease Research, University of Missouri</institution></institution-wrap>, <city>Columbia</city>, <state>Missouri</state>, <country>USA</country></aff><aff id="aff3"><label>3</label><institution-wrap><institution>Department of Zoonoses, Faculty of Veterinary Medicine, Assiut University</institution></institution-wrap>, <city>Assiut</city>, <country>Egypt</country></aff></contrib-group><contrib-group><contrib contrib-type="editor"><role>Editor</role><name><surname>Pascual</surname><given-names>David W.</given-names></name><aff><institution-wrap><institution>University of Florida</institution></institution-wrap>, <country>USA</country></aff></contrib></contrib-group><author-notes><corresp id="cor1">Address correspondence to Jerod A. Skyberg, <email xlink:href="mailto:skybergj@missouri.edu">skybergj@missouri.edu</email></corresp><fn fn-type="COI-statement"><p>The authors declare no conflict of interest.</p></fn></author-notes><pub-date publication-format="electronic" date-type="collection"><month>3</month><year>2024</year></pub-date><pub-date date-type="pub" publication-format="electronic"><day>13</day><month>2</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>13</day><month>2</month><year>2024</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>9</volume><issue>3</issue><elocation-id>e00750-23</elocation-id><history>
+<date date-type="received"><day>01</day><month>12</month><year>2023</year></date>
+<date date-type="accepted"><day>16</day><month>1</month><year>2024</year></date>
+</history><permissions><copyright-statement>Copyright &#xA9; 2024 Abushahba et al.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Abushahba et al.</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/" start_date="2024-02-13"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</ext-link>.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="msphere.00750-23.pdf"/><abstract abstract-type="primary"><title>ABSTRACT</title><p>Brucellosis, caused by the bacterium <italic toggle="yes">Brucella</italic>, poses a significant global threat to both animal and human health. Although commercial live <italic toggle="yes">Brucella</italic> vaccines including S19, RB51, and Rev1 are available for animals, their unsuitability for human use and incomplete efficacy in animals necessitate the further study of vaccine-mediated immunity to <italic toggle="yes">Brucella</italic>. In this study, we employed <italic toggle="yes">in vivo</italic> B-cell depletion, as well as immunodeficient and transgenic mouse models, to comprehensively investigate the roles of B cells, antigen uptake and presentation, antibody production, and class switching in the context of S19-mediated immunity against brucellosis. We found that antibody production, and in particular secretory IgM plays a protective role in S19-mediated immunity against virulent <italic toggle="yes">Brucella melitensis</italic> early after the challenge in a manner associated with complement activation. While T follicular helper cell deficiency dampened IgG production and vaccine efficacy at later stages of the challenge, this effect appeared to be independent of antibody production and rather was associated with altered T-cell function. By contrast, B-cell MHCII expression negatively impacted vaccine efficacy at later timepoints after the challenge. In addition, B-cell depletion after vaccination, but before the challenge, enhanced S19-mediated protection against brucellosis, suggesting a deleterious role of B cells during the challenge phase. Collectively, our findings indicate antibody production is protective, while B-cell MHCII expression is deleterious, to live vaccine-mediated immunity against brucellosis.</p><sec><title>IMPORTANCE</title><p><italic toggle="yes">Brucella</italic> is a neglected zoonotic pathogen with a worldwide distribution. Our study delves into B-cell effector functions in live vaccine-mediated immunity against brucellosis. Notably, we found antibody production, particularly secretory IgM, confers protection against virulent <italic toggle="yes">Brucella melitensis</italic> in vaccinated mice, which was associated with complement activation. By contrast, B-cell MHCII expression negatively impacted vaccine efficacy. In addition, B-cell depletion after vaccination, but before the <italic toggle="yes">B. melitensis</italic> challenge, enhanced protection against infection, suggesting a detrimental B-cell role during the challenge phase. Interestingly, deficiency of T follicular helper cells, which are crucial for aiding germinal center B cells, dampened vaccine efficacy at later stages of challenge independent of antibody production. This study underscores contrasting and phase-dependent roles of B-cell effector functions in vaccine-mediated immunity against <italic toggle="yes">Brucella</italic>.</p></sec></abstract><kwd-group><title>KEYWORDS</title><kwd>brucellosis</kwd><kwd>zoonoses</kwd><kwd>S19</kwd><kwd>RB51</kwd><kwd>vaccine</kwd><kwd>B cell</kwd><kwd>IgM</kwd><kwd>complement</kwd></kwd-group><funding-group specific-use="FundRef"><award-group award-type="grant" id="award-1"><funding-source>
+<institution-wrap><institution>HHS | National Institutes of Health (NIH)</institution></institution-wrap>
+</funding-source><award-id>AI150797</award-id><principal-award-recipient>
+<name><surname>Skyberg</surname><given-names>Jerod A.</given-names></name>
+</principal-award-recipient></award-group></funding-group><counts><count count="6" count-type="supplementary-material"/><count count-type="authors" count="5"/><fig-count count="7"/><table-count count="1"/><ref-count count="65"/><page-count count="16"/><word-count count="8806"/></counts><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2024</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>INTRODUCTION</title>
+      <p>Brucellosis, caused by the Gram-negative bacterium <italic toggle="yes">Brucella</italic>, stands as a significant zoonotic disease that carries extensive implications for global human and animal health. Despite its profound impact, it remains a disease that has not garnered sufficient attention (<xref rid="B1" ref-type="bibr">1</xref>). This facultative intracellular pathogen has adeptly broadened its reservoirs to encompass a variety of domestic and wildlife animals (<xref rid="B2" ref-type="bibr">2</xref>), rendering its eradication a formidable challenge. Brucellosis affects an estimated 2.1 million humans annually worldwide, with the pathogen also infecting over 300 million cattle out of the 1.4 billion total cattle population (<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>). In animals, brucellosis primarily results in abortion and other manifestations such as retained placentas, decreased milk yield, and decreased fertility (<xref rid="B5" ref-type="bibr">5</xref>). In humans, acquiring the disease can occur through various routes, including contact with infected animals, consumption of contaminated animal products, and inhalation of airborne agents (<xref rid="B6" ref-type="bibr">6</xref>). The impact of brucellosis on human health is wide ranging, spanning from the characteristic undulant fever to more debilitating effects such as arthritis, orchitis, hepatitis, and endocarditis (<xref rid="B7" ref-type="bibr">7</xref><xref rid="B8" ref-type="bibr">&#x2013;</xref><xref rid="B11" ref-type="bibr">11</xref>).</p>
+      <p>The lack of effective treatments for animal brucellosis and the high cost of treating infected humans (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B12" ref-type="bibr">12</xref>) emphasize the necessity for robust disease prevention. Current vaccines such as S19, RB51, and Rev1 exhibit around 70% efficacy against animal brucellosis (<xref rid="B13" ref-type="bibr">13</xref><xref rid="B14" ref-type="bibr">&#x2013;</xref><xref rid="B15" ref-type="bibr">15</xref>), underscoring the need for further research on vaccine-mediated immunity.</p>
+      <p>Various investigations, including our own, have found that B-cell deficiency renders mice more resistant to brucellosis (<xref rid="B16" ref-type="bibr">16</xref><xref rid="B17" ref-type="bibr">&#x2013;</xref><xref rid="B18" ref-type="bibr">18</xref>), indicating a detrimental role of B cells in primary infection. This negative role imposed by B cells on resistance to <italic toggle="yes">Brucella</italic> is antibody independent (<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B18" ref-type="bibr">18</xref>). By contrast, in a model of secondary brucellosis, a prior study has indicated an indispensable role for B cells in controlling infection (<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B20" ref-type="bibr">20</xref>). Other studies have provided evidence that passive antibody transfer from infected or immunized animals protects na&#xEF;ve mice from brucellosis (<xref rid="B21" ref-type="bibr">21</xref><xref rid="B22" ref-type="bibr">&#x2013;</xref><xref rid="B26" ref-type="bibr">26</xref>). However, in bovine, high levels of IgG1 and IgG2 antibodies following infection were found to hinder complement-mediated killing of <italic toggle="yes">B. abortus in vitro</italic> presumably due to the &#x201C;prozone effect&#x201D; and there is generally thought to be a lack of positive correlation between antibody titers and resistance to brucellosis (<xref rid="B27" ref-type="bibr">27</xref>).</p>
+      <p>The S19 vaccine is cross-protective against <italic toggle="yes">B. melitensis</italic> in laboratory animals and dairy cattle (<xref rid="B28" ref-type="bibr">28</xref><xref rid="B29" ref-type="bibr">&#x2013;</xref><xref rid="B30" ref-type="bibr">30</xref>). As we previously investigated B-cell effector functions during primary infection with <italic toggle="yes">B. melitensis</italic> (<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B31" ref-type="bibr">31</xref>) here we employed a S19 vaccination/<italic toggle="yes">B. melitensis</italic> challenge model to determine the role of B-cell effector functions in vaccine-mediated immunity against <italic toggle="yes">Brucella</italic>. Our comprehensive investigation employed a range of immunodeficient and transgenic mouse models, along with depletion assays, to explore the contributions of B-cell and T follicular helper cell responses to vaccine-mediated immunity against brucellosis.</p>
+    </sec>
+    <sec sec-type="results" id="s2">
+      <title>RESULTS</title>
+      <sec id="s2-1">
+        <title>B cells exert a phase-dependent detrimental impact on S19 vaccine-mediated efficacy against brucellosis</title>
+        <p>Previously, we found that B-cell deficiency or depletion enhanced the resistance of mice to primary infection with <italic toggle="yes">B. melitensis</italic> (<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B31" ref-type="bibr">31</xref>). However, in secondary brucellosis, prior research utilizing B-cell-deficient mice, where infected animals were treated with antibiotics and then rechallenged with <italic toggle="yes">Brucella,</italic> has suggested somewhat variable roles on the contributions of B cells which might be related to the route of infection or time post-challenge when control of infection was evaluated (<xref rid="B19" ref-type="bibr">19</xref>, <xref rid="B32" ref-type="bibr">32</xref>). Thus, we employed a vaccination/challenge approach (<xref rid="B33" ref-type="bibr">33</xref>), combined with B-cell depletion, to evaluate the impact of temporal B-cell deficiency on vaccine-mediated immunity against brucellosis. B cells were depleted either 7 days prior to vaccination or 21 days post-vaccination (one week before challenge, <xref rid="F1" ref-type="fig">Fig. 1A</xref>) with anti-CD20 antibody. B-cell depletion in blood was found to be &#x2265;90% effective at the time of challenge (Fig. S1A) and significantly reduced anti-<italic toggle="yes">Brucella</italic> IgM and IgG levels (Fig. S1B and C). B-cell depletion prior to vaccination raised splenic <italic toggle="yes">B. melitensis</italic> burdens 2 weeks post-challenge, though this difference was not significant (<xref rid="F1" ref-type="fig">Fig. 1B</xref>). Conversely, depleting B cells from mice at day 21 after vaccination (1 week before challenge) significantly reduced splenic burdens compared to isotype treated mice at this timepoint (<xref rid="F1" ref-type="fig">Fig. 1B</xref>). This indicates that the presence of B cells during vaccination, followed by their removal before challenge is advantageous in protecting against virulent <italic toggle="yes">Brucella</italic> infection. Similarly, after 4 weeks of vaccination and 4 weeks post-challenge, we again observed that B-cell depletion prior to the challenge improved resistance to brucellosis (<xref rid="F1" ref-type="fig">Fig. 1C</xref>), further validating the deleterious role of B cells during the challenge phase. Taken together, these findings demonstrate that B cells have time-dependent roles in the setting of S19 vaccination and <italic toggle="yes">Brucella</italic> infection.</p>
+        <fig position="float" fig-type="figure" id="F1">
+          <label>Fig 1</label>
+          <caption>
+            <p>Impact of temporal B-cell deficiency on S19-mediated efficacy against brucellosis. (<bold>A</bold>) Schematic of the B-cell depletion, vaccination, and challenge strategy employed. Mice were s.c. vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 vaccine and were challenged i.p. 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs of <italic toggle="yes">B. melitensis</italic> 16M. For B-cell depletion, an anti-CD20 antibody was injected i.p to WT mice either at 7 days before vaccination (referred to the figures as Anti-CD20 <sub>-7pre</sub>S19) or 21 days after vaccination (referred in the figures as Anti-CD20 <sub>+21post</sub>S19). (<bold>B</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in B-cell depleted and IgG-treated vaccinated WT mice (<italic toggle="yes">n</italic> = 9&#x2013;10 mice/per group) measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>C</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in B-cell depleted and IgG-treated vaccinated WT mice (<italic toggle="yes">n</italic> = 10 mice/per group) measured after 4 weeks of vaccination and 4 weeks of challenge (4 + 4). Data in (<bold>C</bold>) are combined from two experiments. Dashed lines indicate the limit of detection.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s2-2">
+        <title>B cells are deleterious during the <italic toggle="yes">Brucella</italic> challenge phase in an MHCII-dependent manner</title>
+        <p>We previously demonstrated B-cell MHCII expression enhances susceptibility to primary brucellosis (<xref rid="B18" ref-type="bibr">18</xref>). Therefore, we utilized CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice that specifically lack B-cell MHCII expression (<xref rid="B31" ref-type="bibr">31</xref>) to determine whether the detrimental effect exerted by B cells during the challenge following S19 vaccination is contingent on their antigen presentation capability. Similar to what we observed during primary infection (<xref rid="B31" ref-type="bibr">31</xref>), anti-<italic toggle="yes">Brucella</italic> IgG levels were reduced in CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice following vaccination with S19 (Fig. S1D). After 4 weeks of vaccination and 2 weeks of challenge, we observed similar levels of <italic toggle="yes">B. melitensis</italic> in <italic toggle="yes">iAB</italic><sup>fl/fl</sup> and CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice, which were reduced ~90- to 180-fold relative to PBS-treated <italic toggle="yes">iAB</italic><sup>fl/fl</sup> control mice (<xref rid="F2" ref-type="fig">Fig. 2A</xref>). However, after 4 weeks of vaccination and 4 weeks of challenge, we observed a significant reduction in the splenic burden of S19-vaccinated B-cell MHCII-deficient mice in relation to vaccinated control animals (<xref rid="F2" ref-type="fig">Fig. 2B</xref>), indicating B-cell MHCII expression is detrimental to S19-mediated efficacy at later stages after challenge. Taken together, these observations suggest MHCII expression on B cells undermines the effectiveness of the S19 vaccine against brucellosis.</p>
+        <fig position="float" fig-type="figure" id="F2">
+          <label>Fig 2</label>
+          <caption>
+            <p>B-cell MHCII expression is deleterious to S19-mediated efficacy. Mice were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 and were challenged 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs i.p. of <italic toggle="yes">B. melitensis</italic> 16M. (<bold>A</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> and <italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice (<italic toggle="yes">n</italic> = 8&#x2013;12 mice/per group) measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>B</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> and <italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice (<italic toggle="yes">n</italic> = 7&#x2013;14 mice/per group) measured after 4 weeks of vaccination and 4 weeks of challenge (4 + 4). Data are combined from two experiments. Dashed lines indicate the limit of detection.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f002" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s2-3">
+        <title>BCR specificity has a dispensable role in S19-mediated efficacy against brucellosis</title>
+        <p>BCR-mediated mechanisms of antigen uptake are 100&#x2013;1,000 times more efficient in inducing cognate T-cell activation through MHCII compared to BCR-independent mechanisms of antigen uptake (<xref rid="B34" ref-type="bibr">34</xref>). In light of our finding that B-cell MHCII expression diminishes S19 vaccine-mediated protection (<xref rid="F2" ref-type="fig">Fig. 2B</xref>), we investigated the influence of BCR specificity on S19-mediated immunity against <italic toggle="yes">Brucella</italic> by employing MD4 mice, in which ~90% of B cells express a BCR specific for the irrelevant antigen hen egg lysozyme (HEL) (<xref rid="B35" ref-type="bibr">35</xref>). First, we compared the ability of B cells from WT and MD4 mice to uptake <italic toggle="yes">Brucella</italic> by exposing splenocytes obtained from WT or MD4 mice to GFP-expressing S19 <italic toggle="yes">in vitro</italic> and employing confocal microscopy to visualize the presence of bacteria within B cells. Our results revealed that B cells from MD4 mice can uptake GFP-S19, albeit at a level ~3 times lower than B cells from WT mice (<xref rid="F3" ref-type="fig">Fig. 3A through C</xref>), suggesting BCR specificity plays a significant role in the uptake of S19.</p>
+        <fig position="float" fig-type="figure" id="F3">
+          <label>Fig 3</label>
+          <caption>
+            <p>BCR specificity impacts S19 uptake by B cells but does not influence S19-mediated efficacy against brucellosis. (<bold>A&#x2013;C</bold>) Confocal images (<bold>A and B</bold>) and quantification (<bold>C</bold>) of GFP-S19 in B cells from WT (<bold>A</bold>) or MD4 (<bold>B</bold>) mice in <italic toggle="yes">vitro</italic> following 4.5 hours of infection (MOI = 500). (D &amp; E) Mice were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 and were challenged 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs i.p. of <italic toggle="yes">B. melitensis</italic> 16M. (<bold>D</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in MD4 and WT mice (<italic toggle="yes">n</italic> = 4&#x2013;10 mice/per group) were measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>E</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in MD4 and WT mice (<italic toggle="yes">n</italic> = 8&#x2013;15 mice/per group) were measured after 4 weeks of vaccination and 4 weeks of challenge (4 + 4). Data in (<bold>E</bold>) are combined from two experiments. Dashed lines indicate the limit of detection.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f003" position="float"/>
+        </fig>
+        <p>Consequently, we investigated whether BCR specificity affects S19 efficacy by vaccinating MD4 and WT littermate control mice and comparing splenic bacterial loads at 2 and 4 weeks post-challenge. Surprisingly, at both times post-challenge, the lack of BCR specificity to <italic toggle="yes">Brucella</italic> antigen did not significantly alter <italic toggle="yes">B. melitensis</italic> levels in S19-vaccinated mice (<xref rid="F3" ref-type="fig">Fig. 3D and E</xref>). These findings could suggest that BCR specificity does not mediate the detrimental effects of B-cell MHCII expression on vaccine- mediated <italic toggle="yes">Brucella</italic>. However, BCR specificity also mediates antibody specificity, and we previously found impaired anti-<italic toggle="yes">Brucella</italic> antibody production in MD4 mice (<xref rid="B31" ref-type="bibr">31</xref>). Thus, we sought to determine whether impaired <italic toggle="yes">Brucella</italic>-specific antibody production in MD4 mice could mask a potential deleterious role of BCR specificity on vaccine-mediated immunity against <italic toggle="yes">Brucella</italic>.</p>
+      </sec>
+      <sec id="s2-4">
+        <title>Vaccine-elicited IgM and complement are crucial to control the early dissemination of <italic toggle="yes">Brucella</italic></title>
+        <p>Passive transfer of immune sera from infected or vaccinated animals has indicated antibodies can protect recipients against <italic toggle="yes">Brucella</italic> (<xref rid="B21" ref-type="bibr">21</xref><xref rid="B22" ref-type="bibr">&#x2013;</xref><xref rid="B26" ref-type="bibr">26</xref>). In addition, by comparing results in B-cell-deficient mice and mice unable to undergo class switching others have suggested a protective role of IgM in secondary <italic toggle="yes">Brucella</italic> infection (<xref rid="B19" ref-type="bibr">19</xref>). By contrast, in primary infection, we found an inability to secrete antibodies does not affect the control <italic toggle="yes">of B. melitensis</italic> within the first month after infection (Fig. S2A) ( <xref rid="B31" ref-type="bibr">31</xref>). To clarify the role of humoral immunity in vaccine-mediated immunity against <italic toggle="yes">Brucella</italic>, we used <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic> mice which express a polyclonal B-cell receptor but are unable to secrete IgM or class-switched antibodies (Fig. S2B and C) (<xref rid="B36" ref-type="bibr">36</xref>). Our findings revealed that 2 weeks post-challenge, S19-vaccinated <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic> mice, vaccinated 4 weeks or 8 weeks before the challenge, had significantly higher splenic loads relative to WT mice (<xref rid="F4" ref-type="fig">Fig. 4A and C</xref>). By contrast, we observed that the absence of antibodies had no impact on the efficacy of the S19 vaccine at 4 weeks post-challenge (<xref rid="F4" ref-type="fig">Fig. 4B</xref>). These findings indicate that anti-S19 secretory antibodies play a crucial role in limiting the early dissemination of virulent <italic toggle="yes">Brucella;</italic> however, the role of antibodies diminishes as infection advances.</p>
+        <fig position="float" fig-type="figure" id="F4">
+          <label>Fig 4</label>
+          <caption>
+            <p>Vaccine elicited antibodies are necessary for protecting against brucellosis at the early stage of infection. Mice were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 and were challenged 4 or 8 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs i.p. of <italic toggle="yes">B. melitensis</italic> 16M. (<bold>A</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID</italic><sup>&#x2212;/&#x2212;</sup> and WT mice (<italic toggle="yes">n</italic> = 4&#x2013;10 mice/per group) measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>B</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID</italic><sup>&#x2212;/&#x2212;</sup> and WT mice (<italic toggle="yes">n</italic> = 7&#x2013;10 mice/per group) measured after 4 weeks of vaccination and 4 weeks of challenge (4 + 4). (<bold>C</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID</italic><sup>&#x2212;/&#x2212;</sup> and WT mice (<italic toggle="yes">n</italic> = 4&#x2013;10 mice/per group) measured after 8 weeks of vaccination and 2 weeks of challenge (8 + 2). Data in (<bold>B</bold>) are combined from two experiments.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f004" position="float"/>
+        </fig>
+        <p>We proceeded to investigate the specific contribution of IgM and class-switched antibodies by generating mice unable to secrete class-switched antibodies (<italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic>) or IgM (<italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic>). We then evaluated the ability of S19 to protect these strains against <italic toggle="yes">Brucella</italic>. Serological analysis (Fig. S2C and D) confirmed IgM and IgG production was ablated in <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic> and <italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic> mice, respectively. Bacterial levels trended higher in S19-vaccinated mice unable to produce class-switched antibodies relative to controls, though this difference was not statistically significant (<xref rid="F5" ref-type="fig">Fig. 5A</xref>). However, vaccine efficacy was significantly impaired in mice unable to secrete IgM (<xref rid="F5" ref-type="fig">Fig. 5A</xref>) indicating a pivotal role of IgM in vaccine-mediated immunity against <italic toggle="yes">Brucella</italic>. A key function of IgM is the activation of complement (<xref rid="B37" ref-type="bibr">37</xref>). Therefore, we depleted S19 vaccinated mice of complement by treating them with cobra venom factor (CVF). As revealed in <xref rid="F5" ref-type="fig">Fig. 5B</xref>, complement depletion in vaccinated mice significantly increased splenic <italic toggle="yes">B. melitensis</italic> burdens 2 weeks post-challenge relative to controls, indicating a crucial role of complement in vaccine-mediated immunity against brucellosis.</p>
+        <fig position="float" fig-type="figure" id="F5">
+          <label>Fig 5</label>
+          <caption>
+            <p>IgM and complement contribute to S19-mediated efficacy against brucellosis. Mice were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 and were challenged 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs i.p. of <italic toggle="yes">B. melitensis</italic> 16M. (<bold>A</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in mice lacking the ability to secrete IgM (<italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic>), class-switched antibodies (<italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID</italic><sup>&#x2212;/&#x2212;</sup>), and heterozygous control <italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/+</sup></italic> mice (<italic toggle="yes">n</italic> = 11&#x2013;12 mice/per group) measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>B</bold>) WT mice (<italic toggle="yes">n</italic> = 9&#x2013;10 mice/per group) were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 and challenged i.p. 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs of <italic toggle="yes">B. melitensis</italic> 16M. Some mice were also depleted of complement with cobra venom factor (CVF). <italic toggle="yes">B. melitensis</italic> was measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). Data in (<bold>A</bold>) are combined from two experiments. Dashed lines indicate the limit of detection.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f005" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s2-5">
+        <title><italic toggle="yes">Bcl6</italic> deficiency is associated with impaired vaccine efficacy and altered CD4<sup>+</sup> T-cell transcriptomic profile</title>
+        <p>Our investigation on the role of antibodies was furthered by employing CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice, in which <italic toggle="yes">Bcl6</italic> deletion in CD4<sup>+</sup> T cells results in T follicular helper cell (T<sub>FH</sub>) deficiency. Isotype switching and germinal center responses are also impaired in mice lacking Bcl6 expression in CD4<sup>+</sup> T cells (<xref rid="B38" ref-type="bibr">38</xref>). Analysis of antibody levels 4 weeks post-vaccination indicated T<sub>FH</sub> deficient mice exhibited comparable anti-<italic toggle="yes">Brucella</italic> IgM levels but significantly dampened anti-<italic toggle="yes">Brucella</italic> IgG levels relative to their vaccinated <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> counterparts (Fig. S3A and B). Interestingly, at 2 weeks post-challenge, the absence of the T<sub>FH</sub> did not significantly influence the efficacy of S19 vaccination (<xref rid="F6" ref-type="fig">Fig. 6A</xref>). This reinforced the idea that the protective role conferred by humoral immunity is predominantly linked to IgM rather than IgG. However, as infection progressed to the 4-week stage, the efficacy of S19 was significantly diminished in T<sub>FH</sub>-deficient mice compared to <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice (<xref rid="F6" ref-type="fig">Fig. 6B</xref>). While <italic toggle="yes">Bcl6</italic> deficiency in CD4<sup>+</sup> T cells results in T<sub>FH</sub> deficiency, impaired germinal center formation, and defects in class-switched antibody production (<xref rid="B39" ref-type="bibr">39</xref>), at 4 weeks post-challenge an inability to secrete antibodies did not affect S19-mediated immunity against <italic toggle="yes">B. melitensis</italic> (<xref rid="F4" ref-type="fig">Fig. 4B</xref>). Therefore, we investigated the effects of <italic toggle="yes">Bcl6</italic> deficiency on the function of CD4<sup>+</sup> T cells in the context of vaccination and <italic toggle="yes">Brucella</italic> challenge.</p>
+        <fig position="float" fig-type="figure" id="F6">
+          <label>Fig 6</label>
+          <caption>
+            <p>CD4<sup>+</sup> T-cell <italic toggle="yes">Bcl6</italic> deficiency is associated with impaired control of <italic toggle="yes">Brucella</italic> in S19-vaccinated mice. (<bold>A</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in WT, CD4<sup>cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup>, and <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice (<italic toggle="yes">n</italic> = 9&#x2013;16 mice/per group) measured after 4 weeks of vaccination and 2 weeks of challenge (4 + 2). (<bold>B</bold>) Splenic <italic toggle="yes">B. melitensis</italic> burdens in CD4<sup>cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> and <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice (<italic toggle="yes">n</italic> = 10&#x2013;15 mice/per group) measured after 4 weeks of vaccination and 4 weeks of challenge (4 + 4). Data are combined from two experiments. Dashed lines indicate the limit of detection.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f006" position="float"/>
+        </fig>
+      </sec>
+      <sec id="s2-6">
+        <title><italic toggle="yes">Bcl6</italic> deficiency is associated with altered CD4<sup>+</sup> T-cell transcriptomic profile</title>
+        <p>We first measured CD44 expression as a marker of activation on CD4<sup>+</sup> T cells after 4 weeks of vaccination in both CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> and <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice. We observed a significant decrease in the percentage of activated CD4<sup>+</sup> T cells (CD44<sup>+</sup>CD4<sup>+</sup>) in vaccinated CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice when compared to vaccinated <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> counterparts (Fig. S3C). To further examine the role of <italic toggle="yes">Bcl6</italic> deficiency on CD4<sup>+</sup> T-cell function, we performed RNA-seq on CD4<sup>+</sup> T cells isolated from <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> and CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice after 4 weeks of vaccination and either 2 or 4 weeks of challenge. We identified a total of 1,565 differentially expressed genes (Log2FC &gt; 0.5 and FDR &lt; 0.05) in <italic toggle="yes">Bcl6</italic>-deficient CD4<sup>+</sup> T cells, with 298 genes upregulated and 1,267 genes downregulated compared to their <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> CD4<sup>+</sup> T-cell counterparts at 2 weeks post-challenge (<xref rid="F7" ref-type="fig">Fig. 7A</xref>; Table S1). At 4 weeks post-challenge, 1,390 genes showed differential expression in <italic toggle="yes">Bcl6</italic>-deficient CD4<sup>+</sup> T cells, with 994 genes upregulated and 396 genes downregulated (<xref rid="F7" ref-type="fig">Fig. 7C</xref>; Table S2).</p>
+        <fig position="float" fig-type="figure" id="F7">
+          <label>Fig 7</label>
+          <caption>
+            <p><italic toggle="yes">Bcl6</italic> deficiency is associated with an altered CD4<sup>+</sup> T-cell transcriptomic profile. Mice were s.c vaccinated with 2 &#xD7; 10<sup>5</sup> CFUs of S19 vaccine and were challenged 4 weeks later with 1 &#xD7; 10<sup>5</sup> CFUs i.p. of <italic toggle="yes">B. melitensis</italic> 16M. On 2 and 4 weeks post-infection, CD4<sup>+</sup> T cells were purified from spleens and RNA was extracted for RNA-Seq analysis. (A, <bold>C</bold>) Volcano plot showing genes with altered gene expression in CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> and <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice CD4<sup>+</sup> T cells at 2 weeks (<bold>A</bold>) or 4 weeks (<bold>C</bold>) post-challenge in previously vaccinated mice. The horizontal dashed line indicates a false discovery rate (FDR) of 0.05, and genes outside the vertical dashed lines have an absolute log2 fold change of &gt;0.5. (B &amp; D) Heat map of 23 selected genes whose expression was altered by CD4<sup>+</sup> T-cell <italic toggle="yes">Bcl6</italic> deficiency after vaccination and either 2 (<bold>B</bold>) or 4 (<bold>D</bold>) weeks post<italic toggle="yes">-B. melitensis</italic> challenge. (<bold>E</bold>) Table depicting a comparison of 23 selected genes altered in the context of CD4<sup>+</sup> T-cell <italic toggle="yes">Bcl6</italic> deficiency at 2 and 4 weeks post-infection in S19 vaccinated mice. Data are from one experiment.</p>
+          </caption>
+          <graphic xlink:href="msphere.00750-23.f007" position="float"/>
+        </fig>
+        <p>In our investigation, we identified a subset of genes (<xref rid="F7" ref-type="fig">Fig. 7B, D and E</xref>) to highlight their possible impact within our vaccination/infection model. Of particular interest, the expression of <italic toggle="yes">Ifng</italic> remained unaltered between <italic toggle="yes">Bcl6</italic>-deficient and control CD4<sup>+</sup> T cells at both time points. However, the expression of <italic toggle="yes">Il10</italic>, which is deleterious to host control of <italic toggle="yes">Brucella</italic> (<xref rid="B40" ref-type="bibr">40</xref><xref rid="B41" ref-type="bibr">&#x2013;</xref><xref rid="B43" ref-type="bibr">43</xref>), and <italic toggle="yes">Gata3</italic>, which promotes IL-4 production (<xref rid="B44" ref-type="bibr">44</xref>), was significantly upregulated at both timepoints in CD4<sup>+</sup> T cells lacking <italic toggle="yes">Bcl6</italic>. By contrast, <italic toggle="yes">Bcl6</italic> deficiency led to decreased expression of <italic toggle="yes">Cxcr5</italic>, which is associated with T<sub>FH</sub>, and <italic toggle="yes">Tox2</italic> (<xref rid="B39" ref-type="bibr">39</xref>)<italic toggle="yes">,</italic> which signals downstream of BCL6, at both timepoints. Collectively, these findings indicate <italic toggle="yes">Bcl6</italic> deficiency in CD4<sup>+</sup> T cells is associated with a disrupted transcriptomic profile that could negatively impact S19 vaccine-mediated efficacy. The differential expression of some T-cell-related genes such as <italic toggle="yes">Foxp3, Ccr7, Sell, Cd127</italic>, <italic toggle="yes">Cd44</italic>, <italic toggle="yes">Tnf, Tbx21, P2r &#xD7; 7, Il22</italic>, and <italic toggle="yes">Il17re</italic> varied between 2 and 4 weeks post-challenge. While CFU levels are similar in <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> and CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice after 4 weeks of vaccination and 2 weeks of challenge, after 4 weeks of challenge CFU levels are significantly higher in CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice (<xref rid="F6" ref-type="fig">Fig. 6B and C</xref>). Therefore, differences in CFU levels between the two timepoints could impact the inflammatory environment and consequently alter gene expression by CD4<sup>+</sup> T cells.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s3">
+      <title>DISCUSSION</title>
+      <p>Here, we reveal the multifaceted contributions of B cells in the context of S19 vaccination and <italic toggle="yes">Brucella</italic> infection. Our investigation demonstrates a phase-specific influence of B cells and antibodies on the effectiveness of S19 against brucellosis. Interestingly, the presence of B cells during the challenge phase is associated with a detrimental effect on vaccine efficacy (<xref rid="F1" ref-type="fig">Fig. 1</xref>). By contrast, at the early stage of the challenge, we show IgM plays a pivotal role in protecting against <italic toggle="yes">Brucella</italic>; however, the role of antibodies diminishes as the infection progresses (<xref rid="F4" ref-type="fig">Fig. 4</xref>). These observations indicate that the presence of B cells during vaccination is necessary for mounting a humoral response that impedes early dissemination of <italic toggle="yes">B. melitensis</italic>; however, the presence of B cell during the challenge phase may alter the immune response to create a favorable environment for the pathogen (<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B45" ref-type="bibr">45</xref>, <xref rid="B46" ref-type="bibr">46</xref>).</p>
+      <p>When investigating mechanisms by which B cells inhibit vaccine-mediated control of <italic toggle="yes">Brucella</italic>, we found S19-vaccinated mice lacking B-cell MHCII expression demonstrated enhanced resistance to <italic toggle="yes">B. melitensis</italic> during the later stage of challenge (<xref rid="F2" ref-type="fig">Fig. 2B</xref>). This detrimental role aligns with a prior discovery from our laboratory, wherein a deleterious influence of B-cell MHCII expression during primary brucellosis was documented (<xref rid="B18" ref-type="bibr">18</xref>). The cumulative findings from our studies implicate B-cell antigen presentation as a limiting factor for both primary and vaccine-mediated immunity to <italic toggle="yes">Brucella</italic> (<xref rid="B31" ref-type="bibr">31</xref>).</p>
+      <p>Subsequently, our focus shifted toward the role of antibodies in S19-mediated efficacy. Notably, we observed S19-vaccinated <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic> mice, which lack the capacity to produce both IgM and class-switched antibodies, demonstrated enhanced susceptibility to brucellosis 2 weeks after challenge (<xref rid="F4" ref-type="fig">Fig. 4A and C</xref>). The concept of IgM offering a protective role against secondary brucellosis has been proposed by other researchers (<xref rid="B19" ref-type="bibr">19</xref>). In alignment with this perspective, our investigation using <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic> animals confirmed IgM originating from S19 vaccination provides protection against brucellosis (<xref rid="F5" ref-type="fig">Fig. 5A</xref>). IgM is a potent activator of complement (<xref rid="B37" ref-type="bibr">37</xref>), and unlike the reported deleterious role of complement in control of primary <italic toggle="yes">B. abortus</italic> infection (<xref rid="B47" ref-type="bibr">47</xref>), here we found complement depletion impaired vaccine-mediated immunity against <italic toggle="yes">B. melitensis</italic> (<xref rid="F5" ref-type="fig">Fig. 5B</xref>). Therefore, in the future, we will investigate mechanisms by which complement activation alters control of primary and secondary <italic toggle="yes">Brucella</italic> infection.</p>
+      <p>As infection progressed, the role of antibody production in vaccine-mediated immunity was diminished. This change in antibody function across different infection stages could be attributed to the fact that following intraperitoneal inoculation, brucellae undergo a brief extracellular phase in the blood where they can be susceptible to specific circulating antibodies in immunized mice, thus reducing bacterial dissemination (<xref rid="B48" ref-type="bibr">48</xref>). Other intracellular pathogens that exhibit an <italic toggle="yes">in vivo</italic> extracellular stage are also susceptible to the impact of antibodies (<xref rid="B49" ref-type="bibr">49</xref>, <xref rid="B50" ref-type="bibr">50</xref>). Nevertheless, the role of humoral immunity weakens as bacteria shift to an intracellular life where antibodies cannot access them, and host defenses predominantly rely on cellular immunity to control infection (<xref rid="B51" ref-type="bibr">51</xref>).</p>
+      <p>Our observation that IgM plays a greater role than IgG in S19-mediated efficacy against brucellosis was corroborated by studies in T<sub>FH</sub>-deficient mice which lack the ability to form germinal centers and undergo class switching (<xref rid="B52" ref-type="bibr">52</xref>) but can produce IgM (<xref rid="B53" ref-type="bibr">53</xref>). Our results indicate S19 vaccination continues to offer protection for T<sub>FH</sub>-deficient mice against brucellosis similar to <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> animals at the early stage of infection (<xref rid="F6" ref-type="fig">Fig. 6A</xref>) confirming class switching is not essential for the efficacy of S19. Furthermore, it implies protective IgM elicited by S19 vaccination does not require germinal center formation. While class- switched antibodies do not appear essential for vaccine-mediated immunity, S19 vaccine efficacy does wane in CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice at later time points after challenge (<xref rid="F6" ref-type="fig">Fig. 6B</xref>). In line with a prior report (<xref rid="B38" ref-type="bibr">38</xref>), our RNA-seq analysis (<xref rid="F6" ref-type="fig">Fig. 6A through E</xref>) demonstrated an increased expression of <italic toggle="yes">Il10</italic> in <italic toggle="yes">Bcl6</italic>-deficient CD4 cells. This was of significance, as CD4<sup>+</sup> T cell-derived IL-10 is deleterious to host control of <italic toggle="yes">Brucella</italic> (<xref rid="B43" ref-type="bibr">43</xref>). <italic toggle="yes">Il10</italic> is expressed by various immune cells including Th1, Th2, and Th17 cells, Treg cells, CD8<sup>+</sup> T cells, and B cells (<xref rid="B54" ref-type="bibr">54</xref>). Although the specific <italic toggle="yes">Il10</italic>-producing cells in our model require further identification, the upregulation of <italic toggle="yes">Gata3</italic> and <italic toggle="yes">Foxp3</italic> in CD4<sup>+</sup> T cells lacking <italic toggle="yes">Bcl6</italic> suggests that Th2 and Treg cells could be sources.</p>
+      <p>Collectively, this study sheds light on the protective role of IgM and the deleterious impact of B-cell MHCII expression in the context of live vaccine-mediated immunity against brucellosis. In addition, it underscores the detrimental role of B cells during the challenge phase and highlights the significance of <italic toggle="yes">Bcl6</italic> presence for CD4<sup>+</sup> T-cell activation and the maintenance of a well-balanced inflammatory response throughout vaccination and challenge. Overall, our study improves our understanding of vaccine-mediated effector mechanisms against <italic toggle="yes">Brucella</italic> infection.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="s4">
+      <title>MATERIALS AND METHODS</title>
+      <sec id="s4-1">
+        <title>Mice and animal use</title>
+        <p>Animal studies were conducted using sex-matched mice aged between 6 and 12 weeks of age. Mice were maintained in individually ventilated caging under high-efficiency particulate air-filtered barrier conditions with 12-h light and dark cycles within ABSL-3 facilities at the University of Missouri. Food and water were provided to animals <italic toggle="yes">ad libitum</italic>. All experiments were conducted in accordance with the University of Missouri Animal Care and Use Committee. Various immunodeficient and transgenic mouse strains on a C57BL/6J background (<xref rid="T1" ref-type="table">Table 1</xref>) were employed in this study. C57BL/6-Tg(IghelMD4)4Ccg/J (MD4), B6.129 &#xD7; 1-<italic toggle="yes">H2-Ab1<sup>tm1Koni</sup></italic>/J (<italic toggle="yes">iAB<sup>fl/fl</sup></italic>B6.129S(FVB)-Bcl6tm1.1Dent/J (<italic toggle="yes">Bcl6</italic><sup>fl/fl</sup>), and C57BL/6J (WT) mice were originally obtained from the Jackson Laboratory. <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup></italic>/<italic toggle="yes">AID<sup>&#x2212;/&#x2212;</sup></italic> mice were a gift from Dr. Nicole Baumgarth at the University of California, Davis. <italic toggle="yes">AID<sup>&#x2212;/&#x2212;</sup></italic> mice were originally generated at Kyoto University (<xref rid="B55" ref-type="bibr">55</xref>) and were bred to <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup></italic> mice at the Trudeau Institute (<xref rid="B56" ref-type="bibr">56</xref>). Mice with a singular deficiency in IgM secretion or class switching were generated by breeding <italic toggle="yes">sIgM</italic><sup>&#x2212;/&#x2212;</sup>/<italic toggle="yes">AID</italic><sup>&#x2212;/&#x2212;</sup> mice with WT C57BL/6J mice (<xref rid="T1" ref-type="table">Table 1</xref>). B6.129P2(C)-Cd19tm1(cre)Cgn/J (CD19<sup>Cre</sup>), and B6.Cg-Tg(Cd4-cre)1Cwi/BfluJmice (CD4<sup>Cre</sup>) were a gift from Dr. Mark Daniels (University of Missouri). CD19<sup>Cre</sup> animals were intercrossed with <italic toggle="yes">iAB</italic><sup>fl/fl</sup> animals to generate CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice. CD4<sup>Cre</sup> mice were intercrossed with <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice to generate <italic toggle="yes">Cd4</italic><sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice. Experiments involving the challenge of MD4, or CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice utilized HEL-negative or <italic toggle="yes">iAB</italic><sup>fl/fl</sup> litter mates as control animals, respectively. WT and <italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice displayed similar phenotypes and were both used as controls for CD4<sup>Cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> animals.</p>
+        <table-wrap position="float" id="T1">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Mouse strains used in this study</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col span="1"/>
+              <col span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left" valign="bottom" colspan="1" rowspan="1">Mouse strain</th>
+                <th align="left" valign="bottom" colspan="1" rowspan="1">Phenotype</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">C57BL/6</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Wild-type (WT) mice</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">MD4</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Express BCR specific for hen egg lysozyme</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Cannot secrete IgM or class switched antibodies</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Cannot secrete IgM</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Cannot secrete class-switched antibodies</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/+</sup></italic>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Littermate control for <italic toggle="yes">sIgM<sup>&#x2212;/+</sup>/AID<sup>&#x2212;/&#x2212;</sup></italic> and <italic toggle="yes">sIgM<sup>&#x2212;/&#x2212;</sup>/AID<sup>&#x2212;/+</sup></italic> mice</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup></td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Lack B-cell MHCII expression</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">iAB</italic>
+<sup>fl/fl</sup>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Control for CD19<sup>Cre</sup><italic toggle="yes">iAB</italic><sup>fl/fl</sup> mice</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">CD4<sup>cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup></td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Lack T follicular helper cells</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" colspan="1" rowspan="1">
+<italic toggle="yes">Bcl6</italic>
+<sup>fl/fl</sup>
+</td>
+                <td align="left" valign="top" colspan="1" rowspan="1">Control for CD4<sup>cre</sup><italic toggle="yes">Bcl6</italic><sup>fl/fl</sup> mice</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="s4-2">
+        <title>Bacteria and culture conditions</title>
+        <p><italic toggle="yes">Brucella melitensis</italic> 16M was obtained from Montana State University (Bozeman, MT). All experiments with <italic toggle="yes">B. melitensis</italic> were performed in biosafety level 3 (BSL-3) facilities. The <italic toggle="yes">Brucella abortus</italic> S19 vaccine strain was obtained from the University of Wyoming (Laramie, WY). GFP-expressing S19 (GFP-S19) was generated by transforming pBBR1MCS6-Y (<xref rid="B57" ref-type="bibr">57</xref>) into S19 and followed by selection on agar with chloramphenicol (5 &#xB5;g/mL). Bacteria were grown on Brucella agar (Becton Dickinson) at 37&#xB0;C/5% CO<sub>2</sub> before colonies were picked and cultured in Brucella broth overnight at 37&#xB0;C in an orbital shaker. Challenge/vaccination doses were approximated by measurement of optical density at 600 nm and diluted using sterile Dulbecco&#x2019;s phosphate-buffered saline (DPBS) (Thermofisher).</p>
+      </sec>
+      <sec id="s4-3">
+        <title>Vaccination and challenge</title>
+        <p>Each animal received a single subcutaneous (s.c.) vaccination of 200 &#xB5;L DPBS containing 2 &#xD7; 10<sup>5</sup> CFU <italic toggle="yes">Brucella abortus</italic> S19. The control group received DPBS only. Four or eight weeks post-vaccination, animals were challenged intraperitoneally (i.p.) with 1 &#xD7; 10<sup>5</sup> CFU <italic toggle="yes">Brucella melitensis</italic> 16M in a volume of 200 &#xB5;L PBS. The vaccination and challenge doses were confirmed through 10-fold serial dilution and plating of inoculum onto Brucella agar plates.</p>
+      </sec>
+      <sec id="s4-4">
+        <title>Immunoassay</title>
+        <p>Four weeks post-vaccination, peripheral blood samples were collected and centrifuged at 10,000 &#xD7; <italic toggle="yes">g</italic> for 10 minutes at room temperature to obtain sera, which were stored at &#x2212;80&#xB0;C until further processing. An optimized indirect ELISA (<xref rid="B31" ref-type="bibr">31</xref>) was employed to measure antibody titers. To measure <italic toggle="yes">Brucella</italic>-specific antibody levels, ELISA plates were coated with 0.05 M carbonate/bicarbonate buffer containing heat-killed S19 at a concentration of 1 &#xD7; 10<sup>8</sup> CFU per well overnight at 4&#xB0;C. For the standard curve, either unlabeled rat anti-mouse IgM (5 &#xB5;g/mL) or goat anti-mouse IgG (0.5 &#xB5;g/mL) (Southern Biotech) were used to coat IgM or IgG ELISA plates, respectively. The plates were then washed with 0.05% Tween and blocked with 1% BSA at 37&#xB0;C. Diluted sera (1:50 or 1:2,000) or standards (mouse IgM or IgG) were added to the plates, which were maintained at room temperature for 2 h. After washing, HRP-conjugated secondary antibodies (1:1,000 for IgM or 1:4,000 for IgG) were added and incubated for an additional hour. TMB substrate (Invitrogen) was used to initiate the colorimetric reaction, and the reaction was stopped using 2N sulfuric acid. The plates were read at 450 nm using a SpectraMax Plus reader (Molecular Devices, San Jose, CA). All samples were tested in duplicate reactions. The limit of detection for anti-<italic toggle="yes">Brucella</italic> antibody was 30.9 pg/mL for IgM and 3.43 pg/mL for IgG.</p>
+      </sec>
+      <sec id="s4-5">
+        <title><italic toggle="yes">In vivo</italic> B-cell and complement depletion</title>
+        <p>We employed i.p. administration of 250 &#xB5;g of anti-CD20 antibody (clone MB20-11, Southern Biotech) to deplete B cells from mice (<xref rid="B58" ref-type="bibr">58</xref>, <xref rid="B59" ref-type="bibr">59</xref>). Animals were treated either on day 7 prior to vaccination or on day 21 post-vaccination (7 days before the challenge). Control animals received unlabeled mouse IgG as an isotype (Southern Biotech). For complement depletion, mice were treated i.p. with 10 &#xB5;g of CVF (Complement Technology) twice at 4-h intervals both 1 day prior to challenge and 1 week post-challenge (<xref rid="B60" ref-type="bibr">60</xref>).</p>
+      </sec>
+      <sec id="s4-6">
+        <title>Bacterial enumeration</title>
+        <p>At 2- or 4-week intervals after the challenge, the whole spleen was extracted from each mouse, weighed, and homogenized. Homogenates were 10-fold serially diluted and plated on erythritol-supplemented Brucella agar plates (1 mg/mL) to exclude S19 growth (<xref rid="B61" ref-type="bibr">61</xref>). Following 3&#x2013;5 days of incubation at 37&#xB0;C/5% CO<sub>2</sub>, colonies were counted.</p>
+      </sec>
+      <sec id="s4-7">
+        <title>Flow cytometry</title>
+        <p>Spleens were homogenized and cell suspensions were filtered through a sterile 40-&#xB5;m mesh following red blood cell lysis. Splenocytes were Fc blocked (2.4G2 Leinco) in fluorescence-activated cell-sorting (FACS) buffer (2% heat-inactivated fetal bovine serum [FBS] in DPBS) before extracellular staining. Blood samples were collected in 6.32 USP units per mL of sodium heparin (<xref rid="B62" ref-type="bibr">62</xref>), prior to RBC lysis and resuspension in FACS buffer and Fc block. After the Fc block, cells were stained with fluorochrome-conjugated mAbs: anti-CD4 (GK1.5 Biolegend), anti-CD44 (IM7 Biolegend), and anti-CD19 (1D3 Biolegend). Subsequently, the samples were washed and fixed with 4% paraformaldehyde (PFA) before being processed using a BD LSRFortessa X-20 flow cytometer. FlowJo software (Tree Star) was utilized to analyze the flow cytometry data.</p>
+      </sec>
+      <sec id="s4-8">
+        <title>Confocal microscopy</title>
+        <p>Splenocytes were isolated from mice as described above and cultured in complete media (RPMI 1640 supplemented with HEPES, MEM, sodium pyruvate, and 10% FBS). A total of 3 &#xD7; 10<sup>6</sup> splenocytes per well were then added to an &#xB5;-Slide 8 Well chambered coverslip (ibidi) that had been pre-coated with 25 &#xB5;g/mL Poly-L-lysine (Sigma). The cells were incubated for 1 h at 37&#xB0;C/5% CO<sub>2</sub> to ensure cell attachment, which was confirmed by inverted microscopy. After adherence, the cell culture media was removed and replaced with fresh media containing S19-GFP at a multiplicity of infection (MOI) of 500 and then incubated for 4 h at 37&#xB0;C/5% CO<sub>2</sub> before applying gentamicin (50 &#xB5;g/mL) for an additional 30 minutes. Uninfected cells were used as a negative control.</p>
+        <p>For processing samples for confocal microscopy, the cells were washed with PBS, fixed with 2% PFA for 10 minutes, and blocked with 1% BSA for 30 minutes. The cells were then stained with APC-CD19 antibody (Biolegend) at a dilution of 1:100 in 1% BSA for 1 h at room temperature. Finally, the slide was washed three times to remove unbound antibodies and mounted using Calbiochem MOWIOL 4&#x2013;88 anti-fade reagent (MilliporeSigma). The images were obtained using a TCS LeicaSP8 Confocal Microscope (Leica technologies) and analyzed using LAS X software (Leica technologies).</p>
+      </sec>
+      <sec id="s4-9">
+        <title>Cell sorting</title>
+        <p>Splenocytes were isolated from mice as described above and CD4<sup>+</sup> T cells were sorted using the EasySep Mouse CD4-Positive Selection Kit II (Stem Cell Technologies) following the manufacturer&#x2019;s instructions. Aliquots of sorted cells were stained with anti-CD4 (GK1.5 Biolegend) to assess the cell purity by flow cytometry and the remaining samples were then preserved in RNAlater (Invitrogen) and kept at 4&#xB0;C for subsequent RNA isolation. The purity of sorted splenic CD4<sup>+</sup> T cells was confirmed to be ~90% by flow cytometry.</p>
+      </sec>
+      <sec id="s4-10">
+        <title>RNA sequencing</title>
+        <p>RNA was extracted from sorted CD4<sup>+</sup> T cells in RNAlater <italic toggle="yes">via</italic> the RNeasy Mini kit (Qiagen) following the manufacturer&#x2019;s instructions. Poly A enriched stranded mRNA libraries were generated from extracted RNA and sequenced on a NovaSeq 6000 (Illumina) at the University of Missouri Genomics Technology Core. The RNA-seq data were analyzed using the OneStopRNAseq v1.0.0 server (<ext-link xlink:href="https://mccb.umassmed.edu/OneStopRNAseq/" ext-link-type="uri">https://mccb.umassmed.edu/OneStopRNAseq/</ext-link>)(<xref rid="B63" ref-type="bibr">63</xref>). Detailed parameter settings were followed as we recently described (<xref rid="B64" ref-type="bibr">64</xref>). Gencode.vM25.primary assembly was used as a mouse reference genome. Differentially expressed genes were filtered and selected using a false discovery rate (FDR) threshold of less than 0.05 and an absolute log2 fold change (log2FC) greater than 0.5. Heatmaps for selected genes were generated from the TPMs using the ClustVis server (<ext-link xlink:href="https://biit.cs.ut.ee/clustvis/" ext-link-type="uri">https://biit.cs.ut.ee/clustvis/</ext-link>)(<xref rid="B65" ref-type="bibr">65</xref>).</p>
+      </sec>
+      <sec id="s4-11">
+        <title>Statistical analyses</title>
+        <p>Statistical analyses were performed using GraphPad Prism software (version 9.2, GraphPad). Student <italic toggle="yes">t</italic>-tests were used to compare means between the two groups, with significance set at <italic toggle="yes">P</italic> &#x2264; 0.05. For comparisons involving three or more groups, one-way ANOVA was applied, followed by Turkey&#x2019;s test for correction of multiple comparisons. Data are presented as average &#xB1;SD and statistical differences are indicated as *<italic toggle="yes">P</italic> &#x2264; 0.05; **<italic toggle="yes">P</italic> &#x2264; 0.01; ***<italic toggle="yes">P</italic> &#x2264; 0.001; ****<italic toggle="yes">P</italic> &#x2264; 0.0001; and ns, not significant.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>ACKNOWLEDGMENTS</title>
+      <p>This study was supported by NIH/NIAID R01AI150797.</p>
+      <p>Conceptualization: M.F.N.A. and J.A.S. Formal analysis: M.F.N.A. Funding acquisition: J.A.S. Investigation: M.F.N.A., A.S.D., B.P.S., and C.R.M. Writing&#x2014;original draft: M.F.N.A. Writing&#x2014;review &amp; editing: M.F.N.A. and J.A.S.</p>
+      <p>The authors declare no competing financial interests.</p>
+    </ack>
+    <sec sec-type="data-availability" id="s5-1">
+      <title>DATA AVAILABILITY</title>
+      <p>Data supporting the findings of this study are available in this paper, Supplementary information, or are available from the corresponding author upon request. The raw RNA-seq files used to generate the data in this manuscript have been deposited in the NCBI Gene Expression Omnibus (<ext-link xlink:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243863" ext-link-type="uri">GSE243863</ext-link>).</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="s5-2">
+      <title>SUPPLEMENTAL MATERIAL</title>
+      <p specific-use="print-only">The following material is available online at <ext-link xlink:href="https://doi.org/10.1128/msphere.00750-23" ext-link-type="uri">https://doi.org/10.1128/msphere.00750-23</ext-link>.</p>
+      <supplementary-material id="SuF1" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF1</object-id>
+        <label>Figure S1</label>
+        <caption>
+          <title>msphere.00750-23-s0001.tif</title>
+          <p>Efficacy of B cell depletion.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0001.tif"/>
+      </supplementary-material>
+      <supplementary-material id="SuF2" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF2</object-id>
+        <label>Figure S2</label>
+        <caption>
+          <title>msphere.00750-23-s0002.tif</title>
+          <p>Antibody levels following S19 vaccination.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0002.tif"/>
+      </supplementary-material>
+      <supplementary-material id="SuF3" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF3</object-id>
+        <label>Figure S3</label>
+        <caption>
+          <title>msphere.00750-23-s0003.tif</title>
+          <p>Antibody levels and CD4+ T cell responses in TFH deficient mice.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0003.tif"/>
+      </supplementary-material>
+      <supplementary-material id="SuF4" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF4</object-id>
+        <label>Supplemental Material Legends</label>
+        <caption>
+          <title>msphere.00750-23-s0004.docx</title>
+          <p>Legends for supplemental figures and tables.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0004.docx"/>
+      </supplementary-material>
+      <supplementary-material id="SuF5" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF5</object-id>
+        <label>Table S1</label>
+        <caption>
+          <title>msphere.00750-23-s0005.xlsx</title>
+          <p>Gene expression in CD4+ T cells from vaccinated mice at two weeks post-challenge.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0005.xlsx"/>
+      </supplementary-material>
+      <supplementary-material id="SuF6" position="float" content-type="local-data">
+        <object-id pub-id-type="doi">10.1128/msphere.00750-23.SuF6</object-id>
+        <label>Table S2</label>
+        <caption>
+          <title>msphere.00750-23-s0006.xlsx</title>
+          <p>Gene expression in CD4+ T cells in vaccinated mice at at four weeks post-challenge.</p>
+        </caption>
+        <media xlink:href="msphere.00750-23-s0006.xlsx"/>
+      </supplementary-material>
+      <p specific-use="online-only">ASM does not own the copyrights to Supplemental Material that may be linked to, or accessed through, an article. The authors have granted ASM a non-exclusive, world-wide license to publish the Supplemental Material files. Please contact the corresponding author directly for reuse. </p>
+    </sec>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Franc</surname>
+<given-names>KA</given-names></string-name>, <string-name><surname>Krecek</surname>
+<given-names>RC</given-names></string-name>, <string-name><surname>H&#xE4;sler</surname>
+<given-names>BN</given-names></string-name>, <string-name><surname>Arenas-Gamboa</surname>
+<given-names>AM</given-names></string-name></person-group>. <year>2018</year>. <article-title>Brucellosis remains a neglected disease in the developing world: a call for interdisciplinary action</article-title>. <source>BMC Public Health</source>
+<volume>18</volume>:<elocation-id>125</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/s12889-017-5016-y</pub-id><pub-id pub-id-type="pmid">29325516</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Gonz&#xE1;lez-Espinoza</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Arce-Gorvel</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>M&#xE9;met</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Gorvel</surname>
+<given-names>JP</given-names></string-name></person-group>. <year>2021</year>. <article-title>Brucella: reservoirs and niches in animals and humans</article-title>. <source>Pathogens</source>
+<volume>10</volume>:<elocation-id>186</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/pathogens10020186</pub-id><pub-id pub-id-type="pmid">33572264</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>de Figueiredo</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Ficht</surname>
+<given-names>TA</given-names></string-name>, <string-name><surname>Rice-Ficht</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Rossetti</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Adams</surname>
+<given-names>LG</given-names></string-name></person-group>. <year>2015</year>. <article-title>Pathogenesis and immunobiology of brucellosis</article-title>. <source>The American Journal of Pathology</source>
+<volume>185</volume>:<fpage>1505</fpage>&#x2013;<lpage>1517</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id><pub-id pub-id-type="pmid">25892682</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Laine</surname>
+<given-names>CG</given-names></string-name>, <string-name><surname>Johnson</surname>
+<given-names>VE</given-names></string-name>, <string-name><surname>Scott</surname>
+<given-names>HM</given-names></string-name>, <string-name><surname>Arenas-Gamboa</surname>
+<given-names>AM</given-names></string-name></person-group>. <year>2023</year>. <article-title>Global estimate of human brucellosis incidence</article-title>. <source>Emerg Infect Dis</source>
+<volume>29</volume>:<fpage>1789</fpage>&#x2013;<lpage>1797</lpage>. doi:<pub-id pub-id-type="doi">10.3201/eid2909.230052</pub-id><pub-id pub-id-type="pmid">37610167</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Pinn-Woodcock</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Frye</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Guarino</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Franklin-Guild</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Newman</surname>
+<given-names>AP</given-names></string-name>, <string-name><surname>Bennett</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Goodrich</surname>
+<given-names>EL</given-names></string-name></person-group>. <year>2023</year>. <article-title>A one-health review on brucellosis in the United States</article-title>. <source>J Am Vet Med Assoc</source>
+<volume>261</volume>:<fpage>451</fpage>&#x2013;<lpage>462</lpage>. doi:<pub-id pub-id-type="doi">10.2460/javma.23.01.0033</pub-id><pub-id pub-id-type="pmid">36862545</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Godfroid</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2017</year>. <article-title>Brucellosis in livestock and wildlife: zoonotic diseases without pandemic potential in need of innovative one health approaches</article-title>. <source>Arch Public Health</source>
+<volume>75</volume>:<elocation-id>34</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/s13690-017-0207-7</pub-id><pub-id pub-id-type="pmid">28904791</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Nahas</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Alsulami</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lashkar</surname>
+<given-names>MO</given-names></string-name>, <string-name><surname>Thabit</surname>
+<given-names>AK</given-names></string-name></person-group>. <year>2022</year>. <article-title>Brucella epidydimo-orchitis successfully treated with dual oral drug regimen: a case report with differential diagnoses of malignancy and tuberculosis</article-title>. <source>Radiol Case Rep</source>
+<volume>17</volume>:<fpage>3485</fpage>&#x2013;<lpage>3489</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.radcr.2022.07.012</pub-id><pub-id pub-id-type="pmid">35912293</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Yusufo&#x11F;lu</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Kobat</surname>
+<given-names>SG</given-names></string-name>, <string-name><surname>Keser</surname>
+<given-names>S</given-names></string-name></person-group>. <year>2022</year>. <article-title>A rare cause of pediatric oculomotor nerve palsy: neurobrucellosis</article-title>. <source>Heliyon</source>
+<volume>8</volume>:<elocation-id>e12134</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.heliyon.2022.e12134</pub-id><pub-id pub-id-type="pmid">36531647</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author"><string-name><surname>Gokhale</surname>
+<given-names>Y</given-names></string-name></person-group>. <year>2022</year>. <part-title><italic toggle="yes">Brucella</italic> arthritis</part-title>, <comment>p</comment>
+<fpage>191</fpage>&#x2013;<lpage>201</lpage>. In <person-group person-group-type="editor"><string-name><surname>Ravindran</surname><given-names>V</given-names></string-name>, <string-name><surname>Santhanam</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Goyal</surname>
+<given-names>M</given-names></string-name></person-group> (ed), <source>Rarer Arthropathies</source>. <publisher-name>Springer</publisher-name>, <publisher-loc>Cham, Switzerland</publisher-loc>.</mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Young</surname>
+<given-names>EJ</given-names></string-name>, <string-name><surname>Hasanjani Roushan</surname>
+<given-names>MR</given-names></string-name>, <string-name><surname>Shafae</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Genta</surname>
+<given-names>RM</given-names></string-name>, <string-name><surname>Taylor</surname>
+<given-names>SL</given-names></string-name></person-group>. <year>2014</year>. <article-title>Liver histology of acute brucellosis caused by Brucella melitensis</article-title>. <source>Hum Pathol</source>
+<volume>45</volume>:<fpage>2023</fpage>&#x2013;<lpage>2028</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.humpath.2014.07.007</pub-id><pub-id pub-id-type="pmid">25147098</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Reguera</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Alarc&#xF3;n</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Miralles</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Pach&#xF3;n</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Ju&#xE1;rez</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Colmenero</surname>
+<given-names>JD</given-names></string-name></person-group>. <year>2003</year>. <article-title>Brucella endocarditis: clinical, diagnostic, and therapeutic approach</article-title>. <source>Eur J Clin Microbiol Infect Dis</source>
+<volume>22</volume>:<fpage>647</fpage>&#x2013;<lpage>650</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s10096-003-1026-z</pub-id><pub-id pub-id-type="pmid">14566576</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Khan</surname>
+<given-names>MZ</given-names></string-name>, <string-name><surname>Zahoor</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2018</year>. <article-title>An overview of brucellosis in cattle and humans, and its serological and molecular diagnosis in control strategies</article-title>. <source>Trop Med Infect Dis</source>
+<volume>3</volume>:<elocation-id>65</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/tropicalmed3020065</pub-id><pub-id pub-id-type="pmid">30274461</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Pascual</surname>
+<given-names>DW</given-names></string-name>, <string-name><surname>Yang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Goodwin</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Hoffman</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Clapp</surname>
+<given-names>B</given-names></string-name></person-group>. <year>2018</year>. <article-title>Alternative strategies for vaccination to brucellosis</article-title>. <source>Microbes Infect</source>
+<volume>20</volume>:<fpage>599</fpage>&#x2013;<lpage>605</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.micinf.2017.12.006</pub-id><pub-id pub-id-type="pmid">29287984</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Darbandi</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Alamdary</surname>
+<given-names>SZ</given-names></string-name>, <string-name><surname>Koupaei</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ghanavati</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Heidary</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Talebi</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2022</year>. <article-title>Evaluation of immune responses to Brucella vaccines in mouse models: a systematic review</article-title>. <source>Front Vet Sci</source>
+<volume>9</volume>:<elocation-id>903890</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fvets.2022.903890</pub-id><pub-id pub-id-type="pmid">36118342</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Pascual</surname>
+<given-names>DW</given-names></string-name>, <string-name><surname>Goodwin</surname>
+<given-names>ZI</given-names></string-name>, <string-name><surname>Bhagyaraj</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Hoffman</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Yang</surname>
+<given-names>X</given-names></string-name></person-group>. <year>2022</year>. <article-title>Activation of mucosal immunity as a novel therapeutic strategy for combating brucellosis</article-title>. <source>Front Microbiol</source>
+<volume>13</volume>:<elocation-id>1018165</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fmicb.2022.1018165</pub-id><pub-id pub-id-type="pmid">36620020</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Goenka</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Parent</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Elzer</surname>
+<given-names>PH</given-names></string-name>, <string-name><surname>Baldwin</surname>
+<given-names>CL</given-names></string-name></person-group>. <year>2011</year>. <article-title>B cell-deficient mice display markedly enhanced resistance to the intracellular bacterium Brucella abortus</article-title>. <source>J Infect Dis</source>
+<volume>203</volume>:<fpage>1136</fpage>&#x2013;<lpage>1146</lpage>. doi:<pub-id pub-id-type="doi">10.1093/infdis/jiq171</pub-id><pub-id pub-id-type="pmid">21451002</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Vitry</surname>
+<given-names>M-A</given-names></string-name>, <string-name><surname>De Trez</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Goriely</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Dumoutier</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Akira</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Ryffel</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Carlier</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Letesson</surname>
+<given-names>J-J</given-names></string-name>, <string-name><surname>Muraille</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2012</year>. <article-title>Crucial role of gamma interferon-producing CD4+ Th1 cells but dispensable function of CD8+ T cell, B cell, Th2, and Th17 responses in the control of Brucella melitensis infection in mice</article-title>. <source>Infect Immun</source>
+<volume>80</volume>:<fpage>4271</fpage>&#x2013;<lpage>4280</lpage>. doi:<pub-id pub-id-type="doi">10.1128/IAI.00761-12</pub-id><pub-id pub-id-type="pmid">23006848</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Dadelahi</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Lacey</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Chambers</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Ponzilacqua-Silva</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Skyberg</surname>
+<given-names>JA</given-names></string-name></person-group>. <year>2020</year>. <article-title>B cells inhibit CD4+ T cell-mediated immunity to Brucella infection in a major histocompatibility complex class II-dependent manner</article-title>. <source>Infect Immun</source>
+<volume>88</volume>:<elocation-id>e00075-20</elocation-id>. doi:<pub-id pub-id-type="doi">10.1128/IAI.00075-20</pub-id><pub-id pub-id-type="pmid">32071068</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Vitry</surname>
+<given-names>M-A</given-names></string-name>, <string-name><surname>Hanot Mambres</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>De Trez</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Akira</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Ryffel</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Letesson</surname>
+<given-names>J-J</given-names></string-name>, <string-name><surname>Muraille</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2014</year>. <article-title>Humoral immunity and CD4+ Th1 cells are both necessary for a fully protective immune response upon secondary infection with Brucella melitensis</article-title>. <source>J Immunol</source>
+<volume>192</volume>:<fpage>3740</fpage>&#x2013;<lpage>3752</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.1302561</pub-id><pub-id pub-id-type="pmid">24646742</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Demars</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lison</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Machelart</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Van Vyve</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Potemberg</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Vanderwinden</surname>
+<given-names>J-M</given-names></string-name>, <string-name><surname>De Bolle</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Letesson</surname>
+<given-names>J-J</given-names></string-name>, <string-name><surname>Muraille</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2019</year>. <article-title>Route of infection strongly impacts the host-pathogen relationship</article-title>. <source>Front Immunol</source>
+<volume>10</volume>:<elocation-id>1589</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fimmu.2019.01589</pub-id><pub-id pub-id-type="pmid">31354728</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Jain</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Rawat</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ramakrishnan</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Kumar</surname>
+<given-names>B</given-names></string-name></person-group>. <year>2017</year>. <article-title>Active immunization with Brucella abortus S19 phage lysate elicits serum IgG that protects guinea pigs against virulent B. abortus and protects mice by passive immunization</article-title>. <source>Biologicals</source>
+<volume>45</volume>:<fpage>27</fpage>&#x2013;<lpage>32</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.biologicals.2016.10.006</pub-id><pub-id pub-id-type="pmid">27913028</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Winter</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>Duncan</surname>
+<given-names>JR</given-names></string-name>, <string-name><surname>Santisteban</surname>
+<given-names>CG</given-names></string-name>, <string-name><surname>Douglas</surname>
+<given-names>JT</given-names></string-name>, <string-name><surname>Adams</surname>
+<given-names>LG</given-names></string-name></person-group>. <year>1989</year>. <article-title>Capacity of passively administered antibody to prevent establishment of Brucella abortus infection in mice</article-title>. <source>Infect Immun</source>
+<volume>57</volume>:<fpage>3438</fpage>&#x2013;<lpage>3444</lpage>. doi:<pub-id pub-id-type="doi">10.1128/iai.57.11.3438-3444.1989</pub-id><pub-id pub-id-type="pmid">2509362</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Elzer</surname>
+<given-names>PH</given-names></string-name>, <string-name><surname>Jacobson</surname>
+<given-names>RH</given-names></string-name>, <string-name><surname>Jones</surname>
+<given-names>SM</given-names></string-name>, <string-name><surname>Nielsen</surname>
+<given-names>KH</given-names></string-name>, <string-name><surname>Douglas</surname>
+<given-names>JT</given-names></string-name>, <string-name><surname>Winter</surname>
+<given-names>AJ</given-names></string-name></person-group>. <year>1994</year>. <article-title>Antibody-mediated protection against Brucella abortus in BALB/C mice at successive periods after infection: variation between virulent strain 2308 and attenuated vaccine strain 19</article-title>. <source>Immunology</source>
+<volume>82</volume>:<fpage>651</fpage>&#x2013;<lpage>658</lpage>.<pub-id pub-id-type="pmid">7835931</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Plommet</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Plommet</surname>
+<given-names>AM</given-names></string-name></person-group>. <year>1983</year>. <article-title>Immune serum-mediated effects on brucellosis evolution in mice</article-title>. <source>Infect Immun</source>
+<volume>41</volume>:<fpage>97</fpage>&#x2013;<lpage>105</lpage>. doi:<pub-id pub-id-type="doi">10.1128/iai.41.1.97-105.1983</pub-id><pub-id pub-id-type="pmid">6408007</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Verma</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Rawat</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Kumawat</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Qureshi</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Mohd</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Tiwari</surname>
+<given-names>AK</given-names></string-name></person-group>. <year>2018</year>. <article-title>Protective role of Brucella abortus specific murine antibodies in inhibiting systemic proliferation of virulent strain 544 in mice and guinea pig</article-title>. <source>Vet World</source>
+<volume>11</volume>:<fpage>794</fpage>&#x2013;<lpage>799</lpage>. doi:<pub-id pub-id-type="doi">10.14202/vetworld.2018.794-799</pub-id><pub-id pub-id-type="pmid">30034172</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Adone</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Francia</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Pistoia</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Petrucci</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Pesciaroli</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Pasquali</surname>
+<given-names>P</given-names></string-name></person-group>. <year>2012</year>. <article-title>Protective role of antibodies induced by Brucella melitensis B115 against B. melitensis and Brucella abortus infections in mice</article-title>. <source>Vaccine</source>
+<volume>30</volume>:<fpage>3992</fpage>&#x2013;<lpage>3995</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.vaccine.2012.04.009</pub-id><pub-id pub-id-type="pmid">22521283</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Hoffmann</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Houle</surname>
+<given-names>JJ</given-names></string-name></person-group>. <year>1995</year>. <article-title>Contradictory roles for antibody and complement in the interaction of Brucella abortus with its host</article-title>. <source>Crit Rev Microbiol</source>
+<volume>21</volume>:<fpage>153</fpage>&#x2013;<lpage>163</lpage>. doi:<pub-id pub-id-type="doi">10.3109/10408419509113538</pub-id><pub-id pub-id-type="pmid">8845060</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>van Straten</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Bardenstein</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Keningswald</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Banai</surname>
+<given-names>M</given-names></string-name></person-group>. <year>2016</year>. <article-title>Brucella abortus S19 vaccine protects dairy cattle against natural infection with Brucella melitensis</article-title>. <source>Vaccine</source>
+<volume>34</volume>:<fpage>5837</fpage>&#x2013;<lpage>5839</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.vaccine.2016.10.011</pub-id><pub-id pub-id-type="pmid">27771184</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Hensel</surname>
+<given-names>ME</given-names></string-name>, <string-name><surname>Chaki</surname>
+<given-names>SP</given-names></string-name>, <string-name><surname>Stranahan</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Gregory</surname>
+<given-names>AE</given-names></string-name>, <string-name><surname>van Schaik</surname>
+<given-names>EJ</given-names></string-name>, <string-name><surname>Garcia-Gonzalez</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Khalaf</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Samuel</surname>
+<given-names>JE</given-names></string-name>, <string-name><surname>Arenas-Gamboa</surname>
+<given-names>AM</given-names></string-name></person-group>. <year>2020</year>. <article-title>Intratracheal inoculation with Brucella melitensis in the pregnant guinea pig is an improved model for reproductive pathogenesis and vaccine studies</article-title>. <source>Infect Immun</source>
+<volume>88</volume>:<elocation-id>e00204-20</elocation-id>. doi:<pub-id pub-id-type="doi">10.1128/IAI.00204-20</pub-id><pub-id pub-id-type="pmid">32690632</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Bosseray</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Plommet</surname>
+<given-names>M</given-names></string-name></person-group>. <year>1990</year>. <article-title>Brucella suis S2, Brucella melitensis Rev. 1 and Brucella abortus S19 living vaccines: residual virulence and immunity induced against three Brucella species challenge strains in mice</article-title>. <source>Vaccine</source>
+<volume>8</volume>:<fpage>462</fpage>&#x2013;<lpage>468</lpage>. doi:<pub-id pub-id-type="doi">10.1016/0264-410x(90)90247-j</pub-id><pub-id pub-id-type="pmid">2123586</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Dadelahi</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Abushahba</surname>
+<given-names>MFN</given-names></string-name>, <string-name><surname>Ponzilacqua-Silva</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Chambers</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Moley</surname>
+<given-names>CR</given-names></string-name>, <string-name><surname>Lacey</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Dent</surname>
+<given-names>AL</given-names></string-name>, <string-name><surname>Skyberg</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Tsolis</surname>
+<given-names>RM</given-names></string-name></person-group>. <year>2023</year>. <article-title>Interactions between B cells and T follicular regulatory cells enhance susceptibility to Brucella infection independent of the anti-Brucella humoral response</article-title>. <source>PLoS Pathog</source>
+<volume>19</volume>:<elocation-id>e1011672</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.ppat.1011672</pub-id><pub-id pub-id-type="pmid">37721965</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Hanot Mambres</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Machelart</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Potemberg</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>De Trez</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Ryffel</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Letesson</surname>
+<given-names>J-J</given-names></string-name>, <string-name><surname>Muraille</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2016</year>. <article-title>Identification of immune effectors essential to the control of primary and secondary intranasal infection with Brucella melitensis in mice</article-title>. <source>J Immunol</source>
+<volume>196</volume>:<fpage>3780</fpage>&#x2013;<lpage>3793</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.1502265</pub-id><pub-id pub-id-type="pmid">27036913</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Grill&#xF3;</surname>
+<given-names>M-J</given-names></string-name>, <string-name><surname>Blasco</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Gorvel</surname>
+<given-names>JP</given-names></string-name>, <string-name><surname>Moriy&#xF3;n</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Moreno</surname>
+<given-names>E</given-names></string-name></person-group>. <year>2012</year>. <article-title>What have we learned from brucellosis in the mouse model?</article-title>
+<source>Vet Res</source>
+<volume>43</volume>:<elocation-id>29</elocation-id>. doi:<pub-id pub-id-type="doi">10.1186/1297-9716-43-29</pub-id><pub-id pub-id-type="pmid">22500859</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Barroso</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Tucker</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Drake</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Nichol</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Drake</surname>
+<given-names>JR</given-names></string-name></person-group>. <year>2015</year>. <article-title>Antigen-B cell receptor complexes associate with intracellular major histocompatibility complex (MHC) class II molecules</article-title>. <source>J Biol Chem</source>
+<volume>290</volume>:<fpage>27101</fpage>&#x2013;<lpage>27112</lpage>. doi:<pub-id pub-id-type="doi">10.1074/jbc.M115.649582</pub-id><pub-id pub-id-type="pmid">26400081</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Goodnow</surname>
+<given-names>CC</given-names></string-name>, <string-name><surname>Crosbie</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Adelstein</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Lavoie</surname>
+<given-names>TB</given-names></string-name>, <string-name><surname>Smith-Gill</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Brink</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Pritchard-Briscoe</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Wotherspoon</surname>
+<given-names>JS</given-names></string-name>, <string-name><surname>Loblay</surname>
+<given-names>RH</given-names></string-name>, <string-name><surname>Raphael</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Trent</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Basten</surname>
+<given-names>A</given-names></string-name></person-group>. <year>1988</year>. <article-title>Altered immunoglobulin expression and functional silencing of self-reactive B lymphocytes in transgenic mice</article-title>. <source>Nature</source>
+<volume>334</volume>:<fpage>676</fpage>&#x2013;<lpage>682</lpage>. doi:<pub-id pub-id-type="doi">10.1038/334676a0</pub-id><pub-id pub-id-type="pmid">3261841</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Kumazaki</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Tirosh</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Maehr</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Boes</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Honjo</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Ploegh</surname>
+<given-names>HL</given-names></string-name></person-group>. <year>2007</year>. <article-title>AID&#x2212;/&#x2212;&#x3BC;s&#x2212;/&#x2212; mice are agammaglobulinemic and fail to maintain B220&#x2212;CD138+ plasma cells</article-title>. <source>J Immunol</source>
+<volume>178</volume>:<fpage>2192</fpage>&#x2013;<lpage>2203</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.178.4.2192</pub-id><pub-id pub-id-type="pmid">17277124</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Gong</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Ruprecht</surname>
+<given-names>RM</given-names></string-name></person-group>. <year>2020</year>. <article-title>Immunoglobulin M: an ancient antiviral weapon &#x2013; rediscovered</article-title>. <source>Front Immunol</source>
+<volume>11</volume>:<elocation-id>1943</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fimmu.2020.01943</pub-id><pub-id pub-id-type="pmid">32849652</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Hollister</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Kusam</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Wu</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Clegg</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Mondal</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Sawant</surname>
+<given-names>DV</given-names></string-name>, <string-name><surname>Dent</surname>
+<given-names>AL</given-names></string-name></person-group>. <year>2013</year>. <article-title>Insights into the role of Bcl6 in Follicular Th cells using a new conditional mutant mouse model</article-title>. <source>J Immunol</source>
+<volume>191</volume>:<fpage>3705</fpage>&#x2013;<lpage>3711</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.1300378</pub-id><pub-id pub-id-type="pmid">23980208</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Choi</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Crotty</surname>
+<given-names>S</given-names></string-name></person-group>. <year>2021</year>. <article-title>Bcl6-mediated transcriptional regulation of follicular helper T cells (TFH)</article-title>. <source>Trends Immunol</source>
+<volume>42</volume>:<fpage>336</fpage>&#x2013;<lpage>349</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.it.2021.02.002</pub-id><pub-id pub-id-type="pmid">33663954</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Fernandes</surname>
+<given-names>DM</given-names></string-name>, <string-name><surname>Jiang</surname>
+<given-names>X</given-names></string-name>, <string-name><surname>Jung</surname>
+<given-names>JH</given-names></string-name>, <string-name><surname>Baldwin</surname>
+<given-names>CL</given-names></string-name></person-group>. <year>1996</year>. <article-title>Comparison of T cell cytokines in resistant and susceptible mice infected with virulent Brucella abortus strain 2308</article-title>. <source>FEMS Immunol Med Microbiol</source>
+<volume>16</volume>:<fpage>193</fpage>&#x2013;<lpage>203</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1574-695X.1996.tb00136.x</pub-id><pub-id pub-id-type="pmid">9116636</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Fernandes</surname>
+<given-names>DM</given-names></string-name>, <string-name><surname>Baldwin</surname>
+<given-names>CL</given-names></string-name></person-group>. <year>1995</year>. <article-title>Interleukin-10 downregulates protective immunity to Brucella abortus</article-title>. <source>Infect Immun</source>
+<volume>63</volume>:<fpage>1130</fpage>&#x2013;<lpage>1133</lpage>. doi:<pub-id pub-id-type="doi">10.1128/iai.63.3.1130-1133.1995</pub-id><pub-id pub-id-type="pmid">7868238</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Corsetti</surname>
+<given-names>PP</given-names></string-name>, <string-name><surname>de Almeida</surname>
+<given-names>LA</given-names></string-name>, <string-name><surname>Carvalho</surname>
+<given-names>NB</given-names></string-name>, <string-name><surname>Azevedo</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Silva</surname>
+<given-names>TMA</given-names></string-name>, <string-name><surname>Teixeira</surname>
+<given-names>HC</given-names></string-name>, <string-name><surname>Faria</surname>
+<given-names>AC</given-names></string-name>, <string-name><surname>Oliveira</surname>
+<given-names>SC</given-names></string-name>, <string-name><surname>Alves-Filho</surname>
+<given-names>JC</given-names></string-name></person-group>. <year>2013</year>. <article-title>Lack of endogenous IL-10 enhances production of proinflammatory cytokines and leads to Brucella abortus clearance in mice</article-title>. <source>PLoS ONE</source>
+<volume>8</volume>:<elocation-id>e74729</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0074729</pub-id><pub-id pub-id-type="pmid">24069337</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Xavier</surname>
+<given-names>MN</given-names></string-name>, <string-name><surname>Winter</surname>
+<given-names>MG</given-names></string-name>, <string-name><surname>Spees</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Nguyen</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Atluri</surname>
+<given-names>VL</given-names></string-name>, <string-name><surname>Silva</surname>
+<given-names>TMA</given-names></string-name>, <string-name><surname>B&#xE4;umler</surname>
+<given-names>AJ</given-names></string-name>, <string-name><surname>M&#xFC;ller</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Santos</surname>
+<given-names>RL</given-names></string-name>, <string-name><surname>Tsolis</surname>
+<given-names>RM</given-names></string-name></person-group>. <year>2013</year>. <article-title>CD4+ T cell-derived IL-10 promotes Brucella abortus persistence via modulation of macrophage function</article-title>. <source>PLoS Pathog</source>
+<volume>9</volume>:<elocation-id>e1003454</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.ppat.1003454</pub-id><pub-id pub-id-type="pmid">23818855</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Zhu</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Yamane</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Cote-Sierra</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Guo</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Paul</surname>
+<given-names>WE</given-names></string-name></person-group>. <year>2006</year>. <article-title>GATA-3 promotes Th2 responses through three different mechanisms: induction of Th2 cytokine production, selective growth of Th2 cells and inhibition of Th1 cell-specific factors</article-title>. <source>Cell Res</source>
+<volume>16</volume>:<fpage>3</fpage>&#x2013;<lpage>10</lpage>. doi:<pub-id pub-id-type="doi">10.1038/sj.cr.7310002</pub-id><pub-id pub-id-type="pmid">16467870</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Goenka</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Guirnalda</surname>
+<given-names>PD</given-names></string-name>, <string-name><surname>Black</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Baldwin</surname>
+<given-names>CL</given-names></string-name></person-group>. <year>2012</year>. <article-title>B lymphocytes provide an infection niche for intracellular bacterium Brucella abortus</article-title>. <source>J Infect Dis</source>
+<volume>206</volume>:<fpage>91</fpage>&#x2013;<lpage>98</lpage>. doi:<pub-id pub-id-type="doi">10.1093/infdis/jis310</pub-id><pub-id pub-id-type="pmid">22561364</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Garc&#xED;a-Gil</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lopez-Bailon</surname>
+<given-names>LU</given-names></string-name>, <string-name><surname>Ortiz-Navarrete</surname>
+<given-names>V</given-names></string-name></person-group>. <year>2019</year>. <article-title>Beyond the antibody: B cells as a target for bacterial infection</article-title>. <source>J Leukoc Biol</source>
+<volume>105</volume>:<fpage>905</fpage>&#x2013;<lpage>913</lpage>. doi:<pub-id pub-id-type="doi">10.1002/JLB.MR0618-225R</pub-id><pub-id pub-id-type="pmid">30657607</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Gonz&#xE1;lez-Espinoza</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Barquero-Calvo</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Lizano-Gonz&#xE1;lez</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Alfaro-Alarc&#xF3;n</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Arias-G&#xF3;mez</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Chaves-Olarte</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Lomonte</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Moreno</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Chac&#xF3;n-D&#xED;az</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Roy</surname>
+<given-names>CR</given-names></string-name></person-group>. <year>2018</year>. <article-title>Depletion of complement enhances the clearance of Brucella abortus in mice</article-title>. <source>Infect Immun</source>
+<volume>86</volume>:<elocation-id>e00567-18</elocation-id>. doi:<pub-id pub-id-type="doi">10.1128/IAI.00567-18</pub-id><pub-id pub-id-type="pmid">30082480</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Vitry</surname>
+<given-names>M-A</given-names></string-name>, <string-name><surname>Hanot Mambres</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Deghelt</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Hack</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Machelart</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lhomme</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Vanderwinden</surname>
+<given-names>J-M</given-names></string-name>, <string-name><surname>Vermeersch</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>De Trez</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>P&#xE9;rez-Morga</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Letesson</surname>
+<given-names>J-J</given-names></string-name>, <string-name><surname>Muraille</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Morrison</surname>
+<given-names>RP</given-names></string-name></person-group>. <year>2014</year>. <article-title>Brucella melitensis invades murine erythrocytes during infection</article-title>. <source>Infect Immun</source>
+<volume>82</volume>:<fpage>3927</fpage>&#x2013;<lpage>3938</lpage>. doi:<pub-id pub-id-type="doi">10.1128/IAI.01779-14</pub-id><pub-id pub-id-type="pmid">25001604</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Silva</surname>
+<given-names>MT</given-names></string-name>, <string-name><surname>Silva Pestana</surname>
+<given-names>NT</given-names></string-name></person-group>. <year>2013</year>. <article-title>The in vivo extracellular life of facultative intracellular bacterial parasites: role in pathogenesis</article-title>. <source>Immunobiology</source>
+<volume>218</volume>:<fpage>325</fpage>&#x2013;<lpage>337</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.imbio.2012.05.011</pub-id><pub-id pub-id-type="pmid">22795971</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Casadevall</surname>
+<given-names>A</given-names></string-name></person-group>. <year>2003</year>. <article-title>Antibody-mediated immunity against intracellular pathogens: two-dimensional thinking comes full circle</article-title>. <source>Infect Immun</source>
+<volume>71</volume>:<fpage>4225</fpage>&#x2013;<lpage>4228</lpage>. doi:<pub-id pub-id-type="doi">10.1128/IAI.71.8.4225-4228.2003</pub-id><pub-id pub-id-type="pmid">12874297</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Skendros</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Boura</surname>
+<given-names>P</given-names></string-name></person-group>. <year>2013</year>. <article-title>Immunity to brucellosis</article-title>. <source>Rev Sci Tech OIE</source>
+<volume>32</volume>:<fpage>137</fpage>&#x2013;<lpage>147</lpage>. doi:<pub-id pub-id-type="doi">10.20506/rst.32.1.2190</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Nurieva</surname>
+<given-names>RI</given-names></string-name>, <string-name><surname>Chung</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Martinez</surname>
+<given-names>GJ</given-names></string-name>, <string-name><surname>Yang</surname>
+<given-names>XO</given-names></string-name>, <string-name><surname>Tanaka</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Matskevitch</surname>
+<given-names>TD</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>YH</given-names></string-name>, <string-name><surname>Dong</surname>
+<given-names>C</given-names></string-name></person-group>. <year>2009</year>. <article-title>Bcl6 mediates the development of T follicular helper cells</article-title>. <source>Science</source>
+<volume>325</volume>:<fpage>1001</fpage>&#x2013;<lpage>1005</lpage>. doi:<pub-id pub-id-type="doi">10.1126/science.1176676</pub-id><pub-id pub-id-type="pmid">19628815</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B53">
+        <label>53</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Lee</surname>
+<given-names>SK</given-names></string-name>, <string-name><surname>Rigby</surname>
+<given-names>RJ</given-names></string-name>, <string-name><surname>Zotos</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Tsai</surname>
+<given-names>LM</given-names></string-name>, <string-name><surname>Kawamoto</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Marshall</surname>
+<given-names>JL</given-names></string-name>, <string-name><surname>Ramiscal</surname>
+<given-names>RR</given-names></string-name>, <string-name><surname>Chan</surname>
+<given-names>TD</given-names></string-name>, <string-name><surname>Gatto</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Brink</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Yu</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Fagarasan</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Tarlinton</surname>
+<given-names>DM</given-names></string-name>, <string-name><surname>Cunningham</surname>
+<given-names>AF</given-names></string-name>, <string-name><surname>Vinuesa</surname>
+<given-names>CG</given-names></string-name></person-group>. <year>2011</year>. <article-title>B cell priming for extrafollicular antibody responses requires Bcl-6 expression by T cells</article-title>. <source>J Exp Med</source>
+<volume>208</volume>:<fpage>1377</fpage>&#x2013;<lpage>1388</lpage>. doi:<pub-id pub-id-type="doi">10.1084/jem.20102065</pub-id><pub-id pub-id-type="pmid">21708925</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B54">
+        <label>54</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Murakami</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Hirano</surname>
+<given-names>T</given-names></string-name></person-group>. <year>2012</year>. <article-title>The molecular mechanisms of chronic inflammation development</article-title>. <source>Front Immunol</source>
+<volume>3</volume>:<elocation-id>323</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fimmu.2012.00323</pub-id><pub-id pub-id-type="pmid">23162547</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B55">
+        <label>55</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Muramatsu</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Kinoshita</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Fagarasan</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Yamada</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Shinkai</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Honjo</surname>
+<given-names>T</given-names></string-name></person-group>. <year>2000</year>. <article-title>Class switch recombination and hypermutation require activation-induced cytidine deaminase (AID), a potential RNA editing enzyme</article-title>. <source>Cell</source>
+<volume>102</volume>:<fpage>553</fpage>&#x2013;<lpage>563</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s0092-8674(00)00078-7</pub-id><pub-id pub-id-type="pmid">11007474</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B56">
+        <label>56</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Carragher</surname>
+<given-names>DM</given-names></string-name>, <string-name><surname>Kaminski</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Moquin</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Hartson</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Randall</surname>
+<given-names>TD</given-names></string-name></person-group>. <year>2008</year>. <article-title>A novel role for non-neutralizing antibodies against nucleoprotein in facilitating resistance to influenza virus</article-title>. <source>J Immunol</source>
+<volume>181</volume>:<fpage>4168</fpage>&#x2013;<lpage>4176</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.181.6.4168</pub-id><pub-id pub-id-type="pmid">18768874</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B57">
+        <label>57</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Murphy</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Robertson</surname>
+<given-names>GT</given-names></string-name>, <string-name><surname>Parent</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Hagius</surname>
+<given-names>SD</given-names></string-name>, <string-name><surname>Roop</surname>
+<given-names>RM</given-names></string-name>, <string-name><surname>Elzer</surname>
+<given-names>PH</given-names></string-name>, <string-name><surname>Baldwin</surname>
+<given-names>CL</given-names></string-name></person-group>. <year>2002</year>. <article-title>Major histocompatibility complex class I and II expression on macrophages containing a virulent strain of Brucella abortus measured using green fluorescent protein-expressing Brucellae and flow cytometry</article-title>. <source>FEMS Immunol Med Microbiol</source>
+<volume>33</volume>:<fpage>191</fpage>&#x2013;<lpage>200</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1574-695X.2002.tb00590.x</pub-id><pub-id pub-id-type="pmid">12110481</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B58">
+        <label>58</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Liu</surname>
+<given-names>CL</given-names></string-name>, <string-name><surname>Ye</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Lin</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Butts</surname>
+<given-names>CL</given-names></string-name>, <string-name><surname>Miao</surname>
+<given-names>CH</given-names></string-name></person-group>. <year>2014</year>. <article-title>Anti-CD20 as the B-cell targeting agent in a combined therapy to modulate anti-factor VIII immune responses in hemophilia A inhibitor mice</article-title>. <source>Front Immunol</source>
+<volume>4</volume>:<elocation-id>502</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fimmu.2013.00502</pub-id><pub-id pub-id-type="pmid">24432019</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B59">
+        <label>59</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Hamaguchi</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Uchida</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Cain</surname>
+<given-names>DW</given-names></string-name>, <string-name><surname>Venturi</surname>
+<given-names>GM</given-names></string-name>, <string-name><surname>Poe</surname>
+<given-names>JC</given-names></string-name>, <string-name><surname>Haas</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Tedder</surname>
+<given-names>TF</given-names></string-name></person-group>. <year>2005</year>. <article-title>The peritoneal cavity provides a protective niche for B1 and conventional B lymphocytes during anti-CD20 immunotherapy in mice</article-title>. <source>J Immunol</source>
+<volume>174</volume>:<fpage>4389</fpage>&#x2013;<lpage>4399</lpage>. doi:<pub-id pub-id-type="doi">10.4049/jimmunol.174.7.4389</pub-id><pub-id pub-id-type="pmid">15778404</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B60">
+        <label>60</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Zhang</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Peng</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Schoenlaub</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Elliott</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Mitchell</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>Y</given-names></string-name></person-group>. <year>2013</year>. <article-title>Formalin-Inactivated Coxiella burnetii phase I vaccine-induced protection depends on B cells to produce protective IgM and IgG</article-title>. <source>Infect Immun</source>
+<volume>81</volume>:<fpage>2112</fpage>&#x2013;<lpage>2122</lpage>. doi:<pub-id pub-id-type="doi">10.1128/IAI.00297-13</pub-id><pub-id pub-id-type="pmid">23545296</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B61">
+        <label>61</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Grill&#xF3;</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Manterola</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>de Miguel</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>Mu&#xF1;oz</surname>
+<given-names>PM</given-names></string-name>, <string-name><surname>Blasco</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Moriy&#xF3;n</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>L&#xF3;pez-Go&#xF1;i</surname>
+<given-names>I</given-names></string-name></person-group>. <year>2006</year>. <article-title>Increases of efficacy as vaccine against Brucella abortus infection in mice by simultaneous inoculation with avirulent smooth bvrS/bvrR and rough wbkA mutants</article-title>. <source>Vaccine</source>
+<volume>24</volume>:<fpage>2910</fpage>&#x2013;<lpage>2916</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.vaccine.2005.12.038</pub-id><pub-id pub-id-type="pmid">16439039</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B62">
+        <label>62</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Abushahba</surname>
+<given-names>MF</given-names></string-name>, <string-name><surname>Dadelahi</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Lemoine</surname>
+<given-names>EL</given-names></string-name>, <string-name><surname>Skyberg</surname>
+<given-names>JA</given-names></string-name>, <string-name><surname>Vyas</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Dhoble</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Ghodake</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Patravale</surname>
+<given-names>VB</given-names></string-name>, <string-name><surname>Adamovicz</surname>
+<given-names>JJ</given-names></string-name></person-group>. <year>2023</year>. <article-title>Safe subunit green vaccines confer robust immunity and protection against mucosal Brucella infection in mice</article-title>. <source>Vaccines (Basel)</source>
+<volume>11</volume>:<elocation-id>546</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/vaccines11030546</pub-id><pub-id pub-id-type="pmid">36992130</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B63">
+        <label>63</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Li</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Hu</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Green</surname>
+<given-names>MR</given-names></string-name>, <string-name><surname>Zhu</surname>
+<given-names>LJ</given-names></string-name></person-group>. <year>2020</year>. <article-title>OnestopRNAseq: a web application for comprehensive and efficient analyses of RNA-Seq data</article-title>. <source>Genes (Basel)</source>
+<volume>11</volume>:<elocation-id>1165</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/genes11101165</pub-id><pub-id pub-id-type="pmid">33023248</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B64">
+        <label>64</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Moley</surname>
+<given-names>CR</given-names></string-name>, <string-name><surname>Chambers</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Dadelahi</surname>
+<given-names>AS</given-names></string-name>, <string-name><surname>Ponzilacqua-Silva</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Abushahba</surname>
+<given-names>MFN</given-names></string-name>, <string-name><surname>Lacey</surname>
+<given-names>CA</given-names></string-name>, <string-name><surname>Franklin</surname>
+<given-names>CL</given-names></string-name>, <string-name><surname>Skyberg</surname>
+<given-names>JA</given-names></string-name></person-group>. <year>2023</year>. <article-title>Innate lymphoid cells and interferons limit neurologic and articular complications of brucellosis</article-title>. <source>Am J Pathol</source>
+<volume>193</volume>:<fpage>1170</fpage>&#x2013;<lpage>1184</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ajpath.2023.05.006</pub-id><pub-id pub-id-type="pmid">37263343</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="B65">
+        <label>65</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author"><string-name><surname>Metsalu</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Vilo</surname>
+<given-names>J</given-names></string-name></person-group>. <year>2015</year>. <article-title>Clustvis: a web tool for visualizing clustering of multivariate data using principal component analysis and heatmap</article-title>. <source>Nucleic Acids Res</source>
+<volume>43</volume>:<fpage>W566</fpage>&#x2013;<lpage>W570</lpage>. doi:<pub-id pub-id-type="doi">10.1093/nar/gkv468</pub-id><pub-id pub-id-type="pmid">25969447</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

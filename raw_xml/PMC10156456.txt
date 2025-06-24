@@ -1,0 +1,2707 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Biomed Res Int</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Biomed Res Int</journal-id>
+      <journal-id journal-id-type="publisher-id">BMRI</journal-id>
+      <journal-title-group>
+        <journal-title>BioMed Research International</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2314-6133</issn>
+      <issn pub-type="epub">2314-6141</issn>
+      <publisher>
+        <publisher-name>Hindawi</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37152587</article-id>
+      <article-id pub-id-type="pmc">10156456</article-id>
+      <article-id pub-id-type="doi">10.1155/2023/8726320</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Isolation and Characterization of <italic>Lactobacillus crispatus</italic>, <italic>Lactococcus lactis</italic>, and <italic>Carnobacterium divergens</italic> as Potential Probiotic Bacteria from Fermented Black and Green Olives (<italic>Olea europaea</italic>): An Exploratory Study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saeed</surname>
+            <given-names>Ayesha</given-names>
+          </name>
+          <xref rid="I1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yasmin</surname>
+            <given-names>Azra</given-names>
+          </name>
+          <xref rid="I1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baig</surname>
+            <given-names>Mehreen</given-names>
+          </name>
+          <xref rid="I2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Khan</surname>
+            <given-names>Khalid</given-names>
+          </name>
+          <xref rid="I3" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5307-9582</contrib-id>
+          <name>
+            <surname>Heyat</surname>
+            <given-names>Md Belal Bin</given-names>
+          </name>
+          <xref rid="I4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="I5" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <xref rid="I6" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9926-4150</contrib-id>
+          <name>
+            <surname>Akhtar</surname>
+            <given-names>Faijan</given-names>
+          </name>
+          <email>faijanakhtar98@gmail.com</email>
+          <xref rid="I7" ref-type="aff">
+<sup>7</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Batool</surname>
+            <given-names>Zahra</given-names>
+          </name>
+          <xref rid="I8" ref-type="aff">
+<sup>8</sup>
+</xref>
+          <xref rid="I9" ref-type="aff">
+<sup>9</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5009-483X</contrib-id>
+          <name>
+            <surname>Kazmi</surname>
+            <given-names>Abeer</given-names>
+          </name>
+          <email>abeer_kazmi@yahoo.com</email>
+          <xref rid="I10" ref-type="aff">
+<sup>10</sup>
+</xref>
+          <xref rid="I11" ref-type="aff">
+<sup>11</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2905-1106</contrib-id>
+          <name>
+            <surname>Wahab</surname>
+            <given-names>Abdul</given-names>
+          </name>
+          <xref rid="I11" ref-type="aff">
+<sup>11</sup>
+</xref>
+          <xref rid="I12" ref-type="aff">
+<sup>12</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shahid</surname>
+            <given-names>Muhammad</given-names>
+          </name>
+          <xref rid="I13" ref-type="aff">
+<sup>13</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahmed</surname>
+            <given-names>Muhammad Arslan</given-names>
+          </name>
+          <xref rid="I14" ref-type="aff">
+<sup>14</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abbas</surname>
+            <given-names>Sidra</given-names>
+          </name>
+          <xref rid="I1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8304-9261</contrib-id>
+          <name>
+            <surname>Muaad</surname>
+            <given-names>Abdullah Y.</given-names>
+          </name>
+          <email>abdullahmuaad9@gmail.com</email>
+          <xref rid="I15" ref-type="aff">
+<sup>15</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shahzad</surname>
+            <given-names>Amir</given-names>
+          </name>
+          <xref rid="I16" ref-type="aff">
+<sup>16</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahmad</surname>
+            <given-names>Imtiaz</given-names>
+          </name>
+          <xref rid="I17" ref-type="aff">
+<sup>17</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="I1">
+<sup>1</sup>Microbiology and Biotechnology Research Lab, Fatima Jinnah Women University Rawalpindi, Pakistan</aff>
+      <aff id="I2">
+<sup>2</sup>Surgical Unit II, Foundation University, Islamabad, Pakistan</aff>
+      <aff id="I3">
+<sup>3</sup>Foot and Mouth Disease Vaccine Research Centre, Veterinary Research Institute (VRI), Peshawar, Pakistan</aff>
+      <aff id="I4">
+<sup>4</sup>IOT Research Centre, College of Computer Science and Software Engineering, Shenzhen University, Shenzhen, Guangdong 518060, China</aff>
+      <aff id="I5">
+<sup>5</sup>Centre for VLSI and Embedded System Technologies, International Institute of Information Technology, Hyderabad, Telangana 500032, India</aff>
+      <aff id="I6">
+<sup>6</sup>Department of Science and Engineering, Novel Global Community Educational Foundation, Hebersham, NSW 2770, Australia</aff>
+      <aff id="I7">
+<sup>7</sup>School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China</aff>
+      <aff id="I8">
+<sup>8</sup>Institute of Innovative Development of Food Industry, Shenzhen University, Shenzhen 518060, China</aff>
+      <aff id="I9">
+<sup>9</sup>Shenzhen Key Laboratory of Marine Microbiome Engineering, Institute for Advanced Study, Shenzhen University, Shenzhen 518060, China</aff>
+      <aff id="I10">
+<sup>10</sup>Institute of Hydrobiology, Chinese Academy of Sciences, University of Chinese Academy of Sciences (UCAS), Wuhan, China</aff>
+      <aff id="I11">
+<sup>11</sup>University of Chinese Academy of Sciences, Beijing 100049, China</aff>
+      <aff id="I12">
+<sup>12</sup>Shanghai Center for Plant Stress Biology, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China</aff>
+      <aff id="I13">
+<sup>13</sup>Brucellosis Section, Veterinary Research Institute (VRI), Peshawar, Pakistan</aff>
+      <aff id="I14">
+<sup>14</sup>Critical Care Medicine, Shifa International Hospital, Islamabad, Pakistan</aff>
+      <aff id="I15">
+<sup>15</sup>Sana'a Community College, Yemen</aff>
+      <aff id="I16">
+<sup>16</sup>Nishtar Medical University, Multan, Punjab, Pakistan</aff>
+      <aff id="I17">
+<sup>17</sup>Medical Officer, Regional Health Centre (RHC), Qadirabad, Tehsil Kot Chutta, District Dera Ghazi Khan, Punjab, Pakistan</aff>
+      <author-notes>
+        <fn fn-type="other">
+          <p>Academic Editor: Mahmoud Kandeel</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>4</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>2023</volume>
+      <elocation-id>8726320</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>2</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Ayesha Saeed et al.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p> Table olives are becoming well recognized as a source of probiotic bacteria that might be used to create a health-promoting fermented food product by traditional procedures based on the activities of indigenous microbial consortia present in local environments. <italic>Methodology</italic>. In the present study, the characterization of probiotic bacteria isolated from mince, chunks, and brine of fermented green and black olives (<italic>Olea europaea</italic>) was done based on morphological, biochemical, and physiological characteristics. </p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p> Bacterial isolates demonstrated excellent survival abilities at 25, 37, and 45&#xB0;C and at a variable range of pH. However, the optimum temperature is 37 and the optimum pH is 7 for all three isolates. An antimicrobial susceptibility pattern was found among these isolates through the disc diffusion method. Most of the isolates were susceptible to streptomycin, imipenem, and chloramphenicol, whereas, amoxicillin showed resistance to these isolates, and variable results were recorded for the rest of the antibiotics tested. The growth of the isolates was optimum with the supplementation of 3% NaCl and 0.3% bile salt. The isolated bacteria were able to ferment skimmed milk into yogurt, hence making it capable of producing organic acid. </p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p> Isolates of <italic>Lactobacillus crispatus</italic> MB417, <italic>Lactococcus lactis</italic> MB418 from black olives, and <italic>Carnobacterium divergens</italic> MB421 from green olives were characterized as potential candidates for use as starter cultures to induce fermentation of other probiotic food products.</p>
+        </sec>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source>Guangdong &#x201C;Pearl River Talent Recruitment Program&#x201D;</funding-source>
+          <award-id>2019ZT08X603</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>The Project of DEGP</funding-source>
+          <award-id>2019KCXTD005</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Shenzhen Science and Technology Foundation</funding-source>
+          <award-id>R2020A045</award-id>
+          <award-id>ZDSYS20190902092853047</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Guangdong NSF</funding-source>
+          <award-id>2017A030312008</award-id>
+        </award-group>
+        <award-group>
+          <funding-source xlink:href="http://dx.doi.org/10.13039/501100001809">National Natural Science Foundation of China</funding-source>
+          <award-id>61872248</award-id>
+          <award-id>U2001207</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>Probiotics have a long history of human consumption; for example, cultured dairy products (curds and yogurts) are traditionally consumed in several parts of the world. The word probiotics is of Greek origin, meaning &#x201C;for life&#x201D;, which is the antonym of antibiotics [<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>]. Those living microorganisms that are administered in an adequate amount and have a beneficial effect on human health are known as probiotics [<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>].</p>
+      <p>According to Ranadheera et al., [<xref rid="B5" ref-type="bibr">5</xref>] and Oleskin, &amp; Shenderov [<xref rid="B6" ref-type="bibr">6</xref>], the human gastrointestinal tract contains more bacteria than eukaryotic cells. This gut flora also contains probiotics, which constructively influence the body by offering health encouragement to the host [<xref rid="B4" ref-type="bibr">4</xref>].</p>
+      <p>Microorganisms used as probiotics, specifically lactic acid bacteria (LAB), include <italic>Lactobacillus</italic> species, some species of <italic>Bifidobacteria, Enterococcus, and Streptococcus</italic> [<xref rid="B7" ref-type="bibr">7</xref>, <xref rid="B8" ref-type="bibr">8</xref>]. Most of these bacterial species reside in the human intestine [<xref rid="B9" ref-type="bibr">9</xref>]. The only probiotic yeast that exists is the nonpathogenic <italic>Saccharomyces boulardii</italic> [<xref rid="B10" ref-type="bibr">10</xref>&#x2013;<xref rid="B12" ref-type="bibr">12</xref>]. LAB has prevalent exploitation in fermented food manufacturing [<xref rid="B13" ref-type="bibr">13</xref>] and is a generally recognized as safe (GRAS) organism that can be securely used for medical or veterinary purposes [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B15" ref-type="bibr">15</xref>].</p>
+      <p>If LAB is exposed to traumatic circumstances in the gastrointestinal tract like acidic gastric juice, bile salt, and/or altered microbial balance of the intestinal tract, then administration of any kind of antibiotic may suppress the probiotic population. So, to get the maximum benefits out of the probiotic bacterial population, the selection of probiotics is made after various <italic>in vitro</italic> and <italic>in vivo</italic> tests [<xref rid="B16" ref-type="bibr">16</xref>, <xref rid="B17" ref-type="bibr">17</xref>].</p>
+      <p>There are a variety of traditional fermented food products produced by probiotic fermentation like fruits and vegetables including olives, beetroot, cabbage, and other leafy vegetables. Fermentation is done by keeping the vegetables in a 2% brine solution and allowing the stored vegetables to be fermented with LAB [<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B19" ref-type="bibr">19</xref>]. In the food industry, especially for ready-to-eat foods, microbiological quality is a persistent concern. Lactic acid bacteria (LAB) could be used to prevent the growth of spoiling and pathogenic bacteria [<xref rid="B20" ref-type="bibr">20</xref>]. Some LAB exhibits active microbial antagonism through competition mechanisms, the production of bacteriocins, or the production of organic acids [<xref rid="B21" ref-type="bibr">21</xref>&#x2013;<xref rid="B23" ref-type="bibr">23</xref>].</p>
+      <p>The plant named &#x201C;olive&#x201D; is a small tree of the family <italic>Oleaceae</italic>, and its binomial name is <italic>Olea europaea</italic> [<xref rid="B24" ref-type="bibr">24</xref>, <xref rid="B25" ref-type="bibr">25</xref>]. Olives are bitter when raw or fresh, so they must be treated and fermented to make them edible. Both green olives, which are full-size olives plucked before ripening, and black olives, which are completely matured, ripened olives, can be fermented. The main reasons for olive processing are the exclusion of bitterness by hydrolysis of some phenolic compounds (like oleuropein), preservation of the fruit, and enhancement of the organoleptic characteristics of the ultimate product [<xref rid="B26" ref-type="bibr">26</xref>, <xref rid="B27" ref-type="bibr">27</xref>].</p>
+      <p>Due to the high concentration of dietary fiber, vitamins, antioxidants, and anticancer chemicals in table olives, they have therefore been considered useful food [<xref rid="B28" ref-type="bibr">28</xref>]. Table olives are called pickled vegetables, in which preparation and maintenance are achieved by an amalgamation of salting, fermentation, and acidification. Some studies have been conducted to widen the range of useful food types by utilizing of the microarchitecture of the surface of olives, and the dietary characteristics of olive pulp to produce a flavorsome, vegetable-based efficient food comprising of table olives equipped with probiotic strains [<xref rid="B29" ref-type="bibr">29</xref>].</p>
+      <p>In research, the capacity of seven strains from the probiotic species <italic>Lactobacillus rhamnosus</italic>, <italic>Lactobacillus paracasei</italic>, <italic>Bifidobacterium umbifidum</italic>, and <italic>Bifidobacterium longum</italic> to survive on the olive surface and the suitability of table olives as a biological carrier for probiotic microorganisms were studied [<xref rid="B30" ref-type="bibr">30</xref>]. The resultant table olives can be stored with or without refrigeration, and probiotic-dominated fermentations are generally considered the most suitable method of curing olives [<xref rid="B31" ref-type="bibr">31</xref>, <xref rid="B32" ref-type="bibr">32</xref>]. This study is aimed at identifying and functionalizing the characterization of isolated probiotics from commercially available green and black olives.</p>
+    </sec>
+    <sec id="sec2">
+      <title>2. Materials and Methods</title>
+      <p>The research work was done in the Microbiology &amp; Biotechnology Laboratory at Fatima Jinnah Women University, Rawalpindi. The work is divided into two phases: isolation and identification of bacteria and physiological characterization of probiotic isolates.</p>
+      <sec id="sec2.1">
+        <title>2.1. Sample Collection</title>
+        <p>Fermented pitted Spanish green and black olive samples of the same brand (Figaro Company) were purchased from local superstores located in the Pakistan Aeronautical Complex (PAC), Karma, and Rawalpindi. The sealed fermented green and black olives bottles were opened in sterile condition near a flame to avoid contamination. Using sterile forceps, a few olives from the bottles were taken out and then minced inside a mortar and pestle after disinfecting it with an ethanol (70%) swab. Before being minced, big chunks of both black and green olives were kept inside sterile universal bottles with the help of sterile forceps; later, the olive mince from the mortar was also collected in universal bottles and infused in autoclaved distilled water using a sterile spatula. The brine from black and green olive samples was also stored in a sterile universal bottle following the method of Doulgeraki et al. [<xref rid="B33" ref-type="bibr">33</xref>] with slight workable modifications. All the universal bottles containing olive and brine samples were stored in the refrigerator for isolation.</p>
+      </sec>
+      <sec id="sec2.2">
+        <title>2.2. Isolation of Probiotics</title>
+        <p>Strains from olives were isolated on selective de Man, Rogosa, and Sharpe (MRS) media (Merck Millipore Germany, catalog # 110660) [<xref rid="B34" ref-type="bibr">34</xref>, <xref rid="B35" ref-type="bibr">35</xref>]. Isolations from chunks, brine, and minced fermented black and green olives were done on MRS media by the spread plate method [<xref rid="B36" ref-type="bibr">36</xref>]. Isolates were characterized by morphological, biochemical, and physiological characteristics.</p>
+      </sec>
+      <sec id="sec2.3">
+        <title>2.3. Morphological and Biochemical Characterizations</title>
+        <p>Morphological characterization was studied through the gram staining technique by Hans Christian Gram [<xref rid="B37" ref-type="bibr">37</xref>]. The catalase test [<xref rid="B38" ref-type="bibr">38</xref>], Simmons citrate test [<xref rid="B39" ref-type="bibr">39</xref>, <xref rid="B40" ref-type="bibr">40</xref>], methyl red and Voges&#x2013;Proskauer's test [<xref rid="B41" ref-type="bibr">41</xref>], indole production test [<xref rid="B40" ref-type="bibr">40</xref>, <xref rid="B42" ref-type="bibr">42</xref>], and oxidation fermentation test [<xref rid="B43" ref-type="bibr">43</xref>, <xref rid="B44" ref-type="bibr">44</xref>] were performed for biochemical characterization of the isolates. The identification of the isolated bacteria was done by the Standard API 50-CHL system [<xref rid="B45" ref-type="bibr">45</xref>].</p>
+      </sec>
+      <sec id="sec2.4">
+        <title>2.4. Physiological Characterization</title>
+        <sec id="sec2.4.1">
+          <title>2.4.1. Determination of Optimal Temperature</title>
+          <p>Isolated bacteria were incubated at 25&#xB0;C, 37&#xB0;C, and 45&#xB0;C for 24 hours to determine their optimal temperature for growth, and the results were calculated by the spectrometric method at 600&#x2009;nm [<xref rid="B46" ref-type="bibr">46</xref>].</p>
+        </sec>
+        <sec id="sec2.4.2">
+          <title>2.4.2. Determination of Optimal pH</title>
+          <p>Fresh bacterial cells were grown for 24 hours at pH ranges of 4&#x2013;9 to determine whether the isolates were acidophilic, neutrophilic, or alkaliphilic. Optical density was measured by spectroscopic readings at 600&#x2009;nm [<xref rid="B46" ref-type="bibr">46</xref>].</p>
+        </sec>
+        <sec id="sec2.4.3">
+          <title>2.4.3. The Antibiotic Sensitivity Assay</title>
+          <p>An antibiotic susceptibility test was conducted using the disc diffusion method [<xref rid="B47" ref-type="bibr">47</xref>]. Fresh overnight cultures of bacterial isolates were spread onto Mueller-Hinton (MH) agar media plates (recommended by the National Committee for Clinical Laboratory Standards (NCCLS, CLSI (2018)), and 10 antibiotic discs were placed on the media plates and incubated at 37&#xB0;C for 24&#x2009;h. The antibiotics used were amoxicillin (10&#x2009;<italic>&#x3BC;</italic>g), gentamicin (10&#x2009;<italic>&#x3BC;</italic>g), streptomycin (10&#x2009;<italic>&#x3BC;</italic>g), tetracycline (30&#x2009;<italic>&#x3BC;</italic>g), kanamycin (30&#x2009;<italic>&#x3BC;</italic>g), imipenem (10&#x2009;<italic>&#x3BC;</italic>g), chloramphenicol (30&#x2009;<italic>&#x3BC;</italic>g), bacitracin (10&#x2009;<italic>&#x3BC;</italic>g), erythromycin (15&#x2009;<italic>&#x3BC;</italic>g) and neomycin (30&#x2009;<italic>&#x3BC;</italic>g).</p>
+        </sec>
+        <sec id="sec2.4.4">
+          <title>2.4.4. Antimicrobial Activity</title>
+          <p>The antimicrobial activity of all isolates against indicator bacteria was determined by the agar-well diffusion method [<xref rid="B48" ref-type="bibr">48</xref>]. <italic>Pseudomonas geniculate</italic>, <italic>Microbacterium oxydans</italic>, <italic>Bacillus subtilis</italic>, <italic>Streptomyces laurentii</italic>, <italic>Klebiella pneumonia</italic>, <italic>Bacillus pumilus</italic>, <italic>Bacillus cereus</italic>, <italic>Acaligens facelis</italic>, <italic>Enterococcus faecium</italic>, and <italic>Enterococcus facelis</italic> were used as indicator bacteria (obtained from the Microbiology &amp; Biotechnology Lab, FJWU) against which the antimicrobial activity of isolated strains was assayed. Each test string was inoculated into 5&#x2009;ml of nutrient broth and incubated at 37&#xB0;C for 24 hours on a shaking incubator at 150&#x2009;rpm. After incubation, each culture was centrifuged at 10000&#x2009;rpm for 5 minutes to obtain a cell-free supernatant. Supernatants of isolated species were identified for antibacterial activity besides indicator bacteria. For antimicrobial activity identification, Mueller-Hinton agar medium (for antimicrobial testing) was prepared, autoclaved, and poured separately into the sterile Petri dishes. By the spread plate method, the plates were inoculated with indicator bacterial suspension. Five wells, each with an 8&#x2009;mm diameter, were generated in every nutrient agar plate, and the base of each well was sealed with soft agar (0.7%) plugs. To identify the antibacterial activity of probiotic isolates, 100&#x2009;<italic>&#x3BC;</italic>l of cell-free supernatants of probiotic strain was added to the well. The plates were incubated for 24&#x2009;h at 37&#xB0;C, and the diameter of the zone of inhibition was measured in millimeters on both nutrient agar and MH agar media.</p>
+        </sec>
+        <sec id="sec2.4.5">
+          <title>2.4.5. Salt Tolerance Assay</title>
+          <p>Isolate tolerance to NaCl was determined by supplementing nutrient broth with varying salt concentrations ranging from 1 to 11% [<xref rid="B49" ref-type="bibr">49</xref>].</p>
+        </sec>
+        <sec id="sec2.4.6">
+          <title>2.4.6. Organic Acid Production Assay</title>
+          <p>Lactic acid bacteria are known for the production of organic acids, specifically lactic acids. Isolates were considered to have the same property, and to determine this ability, an acid production assay was conducted [<xref rid="B14" ref-type="bibr">14</xref>]. The brine in which fermented green olives and black olives were stored was also assayed for organic acid produced by the isolated strains inhabiting the brine at the beginning, in the middle, and at the end of the research work. Powdered skim milk was purchased from the local market. Autoclaved distilled water was taken and mixed with 10% of powdered skim milk to make sterile skim milk with a pH of 6.68. Five ml of skimmed milk was inoculated with a 24&#x2009;h fresh culture of isolated bacteria and incubated at 37&#xB0;C for 24, 48, and 72&#x2009;h. After incubation, coagulated skim milk was filtered, and the pH of each filtrate was measured with a digital electrode pH meter for lactic acid production. The filtrate was also titrated with 0.1&#x2009;N NaOH, and organic acid production was quantified in terms of percentage strength.</p>
+        </sec>
+        <sec id="sec2.4.7">
+          <title>2.4.7. Bile Salt Tolerance Assay</title>
+          <p>The ability of isolated species to survive and grow in the presence of bile salts was investigated by growing the isolated strains with different bile salt concentrations (0.1, 0.3, 0.5, and 1%) in nutrient broth as described by Dunne et al. <italic>[</italic><xref rid="B47" ref-type="bibr">47</xref><italic>]</italic>. The broth was incubated for 4&#x2009;h at 37&#xB0;C, and the optical density (OD) of the cultures was then measured at 600&#x2009;nm. The viability and growth of isolates at this concentration showed tolerance of isolated strains within the gastrointestinal tract of humans [<xref rid="B51" ref-type="bibr">51</xref>, <xref rid="B52" ref-type="bibr">52</xref>].</p>
+        </sec>
+      </sec>
+      <sec id="sec2.5">
+        <title>2.5. Tolerance to Simulated Gastric Juice</title>
+        <p>Stimulated gastric juice tolerance was determined by the method described by Graciela and Maria [<xref rid="B52" ref-type="bibr">52</xref>]. Stimulated gastric juice was freshly prepared and sterilized by filter sterilization.</p>
+      </sec>
+      <sec id="sec2.6">
+        <title>2.6. Numerical Taxonomy of Probiotic Isolates</title>
+        <p>Similarity among isolates was checked by taking data from fifty (50) different biochemical sugar fermentation tests from the API CH 50 kit and converting them into binary data (0 or 1) for negative or positive test results, respectively, using PAST (Paleontological Statistics Software Package for Education and Data Analysis software). Similarities amongst the strains were estimated using the Jacquard coefficient, and the unweighted average linkage gave the cluster.</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <title>3. Results</title>
+      <sec id="sec3.1">
+        <title>3.1. Isolation and Identification of Potential Probiotic Bacteria</title>
+        <p>In the present study, probiotics were isolated from commercially available fermented black and green olives from the Figaro Company. Fermenter probiotic bacteria were isolated on an MRS medium, and a total of 12 isolates were obtained from brine, chunks, and suspension from minced olives (<xref rid="fig1" ref-type="fig">Figure 1</xref>). As shown in <xref rid="tab1" ref-type="table">Table 1</xref>, potential probiotic bacteria were isolated from black and green olives. Identification was done by cell and colony morphology, which showed diversity ranging from 0.5 to 11.5&#x2009;mm in size, circular to irregular shape, and white to pale color. All the isolated probiotic bacteria were stained as Gram-positive, and most of them were rod-shaped.</p>
+        <p>For <italic>Lactobacillus crispatus, Lactococcus lactis,</italic> and <italic>Carnobacterium divergens</italic>, the results of biochemical tests showed characteristics similar to those of reported probiotics, for example, not being catalase producers (anaerobes or facultative anaerobes that only ferment and do not respire using oxygen as a terminal electron acceptor), being nonspore formers, and having a thick peptidoglycan cell wall structure (gram-positive). The isolates ferment glucose during anaerobic incubation as well as during aerobic incubation, but no gas was produced during the 24&#x2009;h of incubation, both under aerobic and anaerobic conditions (<xref rid="tab2" ref-type="table">Table 2</xref>). Whereas the isolates were identified by carbohydrate fermentation patterns on the API 50 CH panel, the carbohydrate fermentation ability of the isolated strains was analyzed against frothy nine different sugars (<xref rid="fig2" ref-type="fig">Figure 2</xref>). The heat map summarizes the sugar fermentation pattern of probiotic bacteria from fermented olives and groups the strains based on similarities and differences in the sugar fermentation profile shown in <xref rid="fig3" ref-type="fig">Figure 3</xref>. The species-level identification was done using API web50 CHL v5.1 (<xref rid="tab3" ref-type="table">Table 3</xref>).</p>
+      </sec>
+      <sec id="sec3.2">
+        <title>3.2. Characterization of Optimal Temperature and pH</title>
+        <p>
+<italic>Carnobacterium divergens</italic> MB421 from green olives and <italic>Lactoccocus lactis</italic> MB418 from black olives grew optimally at 25&#xB0;C, and <italic>Lactobacillus crispatus</italic> MB417 showed optimal growth at 37&#xB0;C (<xref rid="fig4" ref-type="fig">Figure 4</xref>). Optimal growth of <italic>Carnobacterium divergens</italic> MB421, <italic>Lactobacillus crispatus</italic> MB417, and <italic>Lactoccocus lactis</italic> MB418 was observed at pH&#x2009;7, showing the neutrophilic behavior of the isolates (<xref rid="fig5" ref-type="fig">Figure 5</xref>).</p>
+      </sec>
+      <sec id="sec3.3">
+        <title>3.3. Evaluation of Antibiotic Susceptibility Profile</title>
+        <p>The antibiotic susceptibility of isolates to various antibiotic discs by disc diffusion assay was determined in terms of standard inhibitory zones, and the results are shown in <xref rid="tab4" ref-type="table">Table 4</xref>. All the isolated strains were sensitive to imipenem. <italic>Lactobacillus crispatus</italic> MB417 and <italic>Carnobacterium divergens</italic> MB421 showed resistance to amoxicillin.</p>
+      </sec>
+      <sec id="sec3.4">
+        <title>3.4. Antimicrobial Activity</title>
+        <p>The isolates were assessed for antimicrobial properties and tested negative on nutrient agar medium against <italic>Bacillus cereus</italic> MB401, <italic>Streptomyces laurentii</italic> MB319, <italic>Klebsiella pneumoniae</italic> MB081, and <italic>Acaligens facelis</italic> MB090.</p>
+        <p>On Mueller-Hinton (MH) agar medium, isolates behaved differently as compared to nutrient agar medium. This might be due to the MH medium, which is the standard medium for the performance of such tests in microbiology laboratories. <italic>Lactobacillus crispatis</italic> MB417 and <italic>Lactococcus lactis</italic> MB418 isolated from black olives were sensitive to <italic>Streptomyces laurentii</italic> MB319. Isolates depicted no inhibitory zone against <italic>Microbacterium oxydans</italic> MB325<italic>, Klebsiella pneumoniae</italic> MB081, and <italic>Acaligens facelis</italic> MB090, but showed antimicrobial activity against <italic>Bacillus cereus</italic> MB401, <italic>Bacillus subtilis</italic> MB405 and <italic>Streptomyces laurentii</italic> MB319. The growth of <italic>Enterococcus faecium</italic> JH22 and <italic>Enterococcus facelis</italic> OGRE1 was tested on Brain Heart Infusion (BHI) agar medium. <italic>Carnobacterium divergens</italic> MB421 produced an inhibitory zone against <italic>Enterococcus facelis</italic> OGRE1.</p>
+      </sec>
+      <sec id="sec3.5">
+        <title>3.5. Bile Salt Tolerance Assay</title>
+        <p>Isolated probiotics were able to tolerate 0.1-1% bile salt and flourish at 0.3% gastrointestinal bile salt concentration (<xref rid="fig6" ref-type="fig">Figure 6</xref><bold>)</bold>. The isolates <italic>Lactobacillus crispatus</italic> MB417 and <italic>Lactococcus lactis</italic> MB418 grew optimally at 0.3% bile salt concentration with a gradual decrease to higher concentrations that were 0.5% and 1.0%, whereas <italic>Carnobacterium divergens</italic> MB421 showed a linearly increasing growth trend starting from 0.1 to 1% bile salt concentration.</p>
+      </sec>
+      <sec id="sec3.6">
+        <title>3.6. Tolerance to Simulated Gastric Juice</title>
+        <p>Potential probiotic bacterial isolates were able to tolerate the acidic pH (2) of stimulated gastric juice through the course of incubation, but some isolates were unable to withstand such harsh conditions in the gut. Colony-forming units per milliliter (CFU/ml) were calculated for black and green olive isolates (<xref rid="fig7" ref-type="fig">Figure 7</xref>). <italic>Carnobacterium divergens</italic> MB421 showed a gradual reducing trend during incubation inside the artificially stimulated gastric juice; while <italic>Lactococcus lactis</italic> MB18 showed the same reducing viability trend till 90&#x2009;min of incubation (might be the acclimatization time). The viability count increased at 120&#x2009;min of incubation and decreased when measured after 24&#x2009;h of incubation. <italic>Lactobacillus crispatus</italic> MB417 showed a parabolic endurance pattern peaking at 90&#x2009;min of incubation in simulated gastric juice.</p>
+      </sec>
+      <sec id="sec3.7">
+        <title>3.7. Salt Tolerance</title>
+        <p>Following the assessment of salt tolerance, isolates were shown to be resistant to high NaCl concentrations (<xref rid="tab5" ref-type="table">Table 5</xref>), even at a 9% concentration of salt, especially the black olive isolate <italic>Lactobacillus crispatus</italic> MB417. Isolates <italic>Lactococcus lactis</italic> MB418 and <italic>Carnobacterium divergens</italic> MB421 endure up to 8% and 7% NaCl concentrations, respectively.</p>
+      </sec>
+      <sec id="sec3.8">
+        <title>3.8. Quantification of Organic Acid Production</title>
+        <p>All three isolates exhibited the capability to coagulate skim milk and produce organic acid under gradually decreasing pH (<xref rid="tab6" ref-type="table">Table 6</xref>). Against 0.1&#x2009;M NaOH, <italic>Lactobacillus crispatus</italic> MB417 produced elevated organic acids during 24 to 72&#x2009;h. Similar results were shown by <italic>Carnobacterium divergens</italic> MB421, but in the case of <italic>Lactococcus lactis</italic> MB418 decreased with time, measured at 24, 48, and 72&#x2009;h of incubation. The organic acid production ability of residing potential probiotic bacteria inside the brine (in which fermented olives were stored) was assayed during research work, that is, at the beginning (1st stage), in the middle (2nd stage), and at the end of practical work (3rd stage). During incubation, the pH and acidity of the brine remained unchanged; this could be because of the refrigerated storage of the fermented olives (<xref rid="tab7" ref-type="table">Table 7</xref>).</p>
+      </sec>
+    </sec>
+    <sec id="sec4">
+      <title>4. Discussion</title>
+      <p>The present study was conducted to isolate and characterize the potential probiotic isolates from fermented black and green olives. Table olives are the best source of probiotic bacteria [<xref rid="B53" ref-type="bibr">53</xref>]. Table olives are considered functional foods because of their nutritional value related to the presence of phenolic compounds and monounsaturated fatty acids [<xref rid="B54" ref-type="bibr">54</xref>].</p>
+      <p>The oxidation-fermentation test in this study identified that the isolated bacteria as facultative anaerobes about their ability to perform fermentation in aerobic as well as anaerobic conditions. The results indicated that all the isolates were able to conduct fermentation during aerobic conditions. All the isolates ferment lactose to produce acid, which in turn changes the color of the medium from green to yellow, showing the isolates were fermenters. Positive fermentation ability was also reported by other scientists on lactic acid bacteria from table olives [<xref rid="B55" ref-type="bibr">55</xref>&#x2013;<xref rid="B57" ref-type="bibr">57</xref>] and lactic acid bacterial isolates from yogurt [<xref rid="B14" ref-type="bibr">14</xref>].</p>
+      <p>The study showed that most of the isolates were mesophiles, as they prefer 37 &#xB0;C, but some of the isolates were slightly thermophilic. Isolates from another study on green Algerian olives demonstrated tolerance to temperatures ranging from 15 to 45&#xB0;C [<xref rid="B57" ref-type="bibr">57</xref>, <xref rid="B58" ref-type="bibr">58</xref>].</p>
+      <p>In the case of the isolation of probiotics from yogurt, isolates could tolerate pH up to 2.5 with good growth, but according to the current study, after pH&#x2009;4, growth was very low. This was most likely because isolates from yogurt or dairy origins are more adapted to low pH than isolates from vegetables and meat (due to the source's lactose content, which is then converted to lactic acid after fermentation) [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B59" ref-type="bibr">59</xref>]. <italic>Lactobacillus crispatus</italic> MB417, <italic>Lactococcus lactis</italic> MB418, and <italic>Carnobacterium divergens</italic> MB421 showed good growth at pH&#x2009;7, depicting their mesophilic nature. Similarly, mesophilic (pH&#x2009;6.5-7.5) strains of lactic acid bacteria were reported from various research data [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B57" ref-type="bibr">57</xref>&#x2013;<xref rid="B59" ref-type="bibr">59</xref>].</p>
+      <p>The genomes of probiotic bacterial isolates may contain many antimicrobial resistance genes, <italic>van(X)</italic>, <italic>van(E)</italic>, <italic>gyr(A)</italic>, and <italic>tet(M)</italic> genes that code for resistance to the respective vancomycin, ciprofloxacin, and tetracycline antibiotics [<xref rid="B60" ref-type="bibr">60</xref>&#x2013;<xref rid="B62" ref-type="bibr">62</xref>]. As a key feature, a good probiotic candidate should not possess or acquire any antibiotic-resistance genes. This research found that most of the isolates were resistant to amoxicillin. This might be because of the wide and nonspecific use of antibiotics that could subsidize the propagation of resistance in the bacterial population used for the fermentation of olives [<xref rid="B63" ref-type="bibr">63</xref>]. Along with this, in Pakistan, the use of unprescribed antibiotics is a common practice, which results in the development of resistance to many of the pathogenic bacteria from antibiotics, including amoxicillin. Whereas, it was also reported that all of the probiotic isolates were sensitive to streptomycin, imipenem, and chloramphenicol.</p>
+      <p>Out of a total of 60 combinations of tests for bacteriocin production activity of six isolates against 10 different indicator bacteria, only two gave positive results on nutrient agar medium. This finding was comparable with some other reported probiotic strains, <italic>L. caseishirota</italic>, <italic>L. paracasei</italic> sub spp. <italic>tolerans</italic>, <italic>L. plantarum</italic> [<xref rid="B64" ref-type="bibr">64</xref>, <xref rid="B65" ref-type="bibr">65</xref>], and <italic>L. fermentum</italic> [<xref rid="B66" ref-type="bibr">66</xref>, <xref rid="B67" ref-type="bibr">67</xref>], which also did not produce bacteriocin against other bacteria. These results concluded that there is no existence of bacteriocin-like action [<xref rid="B68" ref-type="bibr">68</xref>], and inhibition of surrounding microbes was due to the acidic environment produced by probiotic LAB strains [<xref rid="B69" ref-type="bibr">69</xref>].</p>
+      <p>The present study showed that all isolates were able to tolerate salt concentrations up to 7%, but few were able to tolerate high concentrations. All isolates showed maximum growth with a 1% NaCl concentration, which is consistent with the findings of other studies [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B70" ref-type="bibr">70</xref>].</p>
+      <p>In the present study, 0.1, 0.3, 0.5, and 1% bile salt concentrations were used for the growth of potential probiotic isolates. In a healthy human, 0.3% bile salt is present in the GIT, and for any bacteria to be used in probiotic production, it must tolerate this bile concentration [<xref rid="B14" ref-type="bibr">14</xref>, <xref rid="B52" ref-type="bibr">52</xref>, <xref rid="B71" ref-type="bibr">71</xref>, <xref rid="B72" ref-type="bibr">72</xref>]. All of the black olive isolates and a few of the green olive isolates gave maximum growth on 0.3% bile salt, and almost all of the isolates tolerate this bile concentration (up to 1%). This was because of a vital characteristic of <italic>Lactobacilli</italic> which enabled them to survive, grow, and exert their action in the GIT due to the action of bile salt hydrolase, thus reducing the toxic side effects of bile salts. Along with this, some components of food protect and promote resistance among strains to bile salts [<xref rid="B68" ref-type="bibr">68</xref>].</p>
+      <p>To achieve health benefits, probiotic foods must comprise an adequate amount of live bacteria, at least 10<sup>6-7</sup>&#x2009;CFU/g [<xref rid="B73" ref-type="bibr">73</xref>]. The ability to tolerate harsh conditions and viable cell counts of isolated potential probiotic bacteria were checked while incubating in artificial gastric juice with pH&#x2009;2.2 for 30, 60, 90, 120 minutes, and 24&#x2009;h. The experiments yielded &#x2264;10<sup>5</sup> bacterial counts, and recent studies have provided significant data on the valuable immunological effects derived from dead probiotic cells [<xref rid="B68" ref-type="bibr">68</xref>]. The viability of isolates from black olives (<italic>Lactoccocus lactis</italic> MB418) and green olives (MB422) gradually decreased with incubation time, while black olive isolates MB416, and <italic>Lactobacillus crispatus</italic> MB417; and green olive isolates MB424, MB422 showed stability up to 24&#x2009;h of incubation in acidic gastric juice. Results of the experiment predict that gastric juice in the GIT has fewer effects that could be hostile to most of the probiotic isolates [<xref rid="B74" ref-type="bibr">74</xref>]. Similar viability counts (3.4-5.6 logs CFU/ml) for the fermented olive isolates from the present study were also observed previously for <italic>L. plantarum, L. pentosus,</italic> and <italic>L. paraplantarum</italic>, showing 3-6 log CFU/ml viable bacterial cells [<xref rid="B68" ref-type="bibr">68</xref>].</p>
+      <p>In natural olives, organic acids can be added to create an optimal initial pH for the proliferation of LAB [<xref rid="B69" ref-type="bibr">69</xref>, <xref rid="B75" ref-type="bibr">75</xref>]. Olive samples used in the study also contained added lactic, ascorbic, and citric acids before packaging. The organic acid production ability of probiotic bacteria present inside the brine of black and green olives was determined to have an idea of the shelf life of the fermented food, which can be spoiled in terms of taste, texture, and smell due to altered lactic acid production. The Acidity of the brine of black and green olives remained the same throughout, but the brine of green olives was more acidic with a lower pH as compared to black olives. Because green olives were un-ripened, the bacteria employed for their fermentation had to work more to make them less bitter than for fully ripened black olives, for example, maturation of olives will condition phenolic compounds, sugar, and cell wall permeability [<xref rid="B69" ref-type="bibr">69</xref>].</p>
+      <p>In our study, the data analysis showed that one of the isolates, MB422, from green olives, is the least similar to the rest of the isolates. Isolates from black olives MB416 and green olives <italic>Carnobacterium divergens</italic> MB421 showed 84% similarity, which is 72% similar to <italic>Lactococcus lactis</italic> MB418. The cluster is 60% similar to other clusters, such as MB424 and <italic>Lactobacillus crispatus</italic> MB417 (75% similar).</p>
+    </sec>
+    <sec id="sec5">
+      <title>5. Conclusion</title>
+      <p>It is concluded that isolated potential probiotic bacteria are well adapted to the olive surface or brine. Thus, the olives, either green or black, contained good microbial flora of probiotics and could be consumed as an effective probiotic food. As a result, the isolates from our study, specifically MB417, MB418, MB421, and MB424, demonstrated relatively good antipathogenic activity and survival in harsh conditions, suggesting that they could be considered viable &#x201C;next-generation&#x201D; probiotic candidates, which could be beneficial to the pharmaceutical industry.</p>
+      <sec id="sec5.1">
+        <title>5.1. Future Applications</title>
+        <p>It would be advantageous to conduct a detailed study on the identification of isolates using molecular methods. The use of bacteriocin producers as starters is of considerable interest because bacteriocin production is a significant factor that helps to promote the safety and quality of fermented table olives and can also be used as natural antibiotics.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The publication was supported by the National Natural Science Foundation of China (U2001207 and 61872248), Guangdong NSF (2017A030312008), Shenzhen Science and Technology Foundation (ZDSYS20190902092853047 and R2020A045), The Project of DEGP (2019KCXTD005), and the Guangdong &#x201C;Pearl River Talent Recruitment Program&#x201D; (2019ZT08X603).</p>
+    </ack>
+    <sec sec-type="data-availability">
+      <title>Data Availability</title>
+      <p>All the data is available in the manuscript.</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no competing interests.</p>
+    </sec>
+    <sec>
+      <title>Authors' Contributions</title>
+      <p>A. Saeed, A. Yasmin, I. Ahmad, M. Baig, K. Khan, and A. Y. Muaad supervised, conceived the study, and conducted the experimental procedures. M. B. B Heyat, F. Akhtar, Z. Batool, A. Kazmi, and A. Wahab contributed to data analysis and interpretation as well as manuscript editing. M. Shahid, M. A. Ahmed, S. Abbas, and F. Naheed wrote the manuscript, revised the article, and approved the article for submission.</p>
+    </sec>
+    <ref-list>
+      <ref id="B1" content-type="article">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Bandyopadhyay</surname><given-names>B.</given-names></name>
+<name><surname>Mandal</surname><given-names>N. C.</given-names></name>
+</person-group>
+          <article-title>Probiotics, prebiotics and synbiotics-in health improvement by modulating gut microbiota: the concept revisited</article-title>
+          <source>
+<italic>International Journal of Current Microbiology and Applied Sciences</italic>
+</source>
+          <year>2014</year>
+          <volume>3</volume>
+          <issue>3</issue>
+          <fpage>410</fpage>
+          <lpage>420</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2" content-type="article">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nya</surname><given-names>E. J.</given-names></name>
+<name><surname>Uffia</surname><given-names>I. D.</given-names></name>
+</person-group>
+          <article-title>Bacterial inhibition and antioxidant activity of probiotic yoghurt developed using microbial isolates from soymilk</article-title>
+          <source>
+<italic>European Journal of Biology and Biotechnology</italic>
+</source>
+          <year>2021</year>
+          <volume>2</volume>
+          <issue>4</issue>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="doi">10.24018/ejbio.2021.2.4.174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3" content-type="article">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Malik</surname><given-names>S. S.</given-names></name>
+<name><surname>Saeed</surname><given-names>A.</given-names></name>
+<name><surname>Baig</surname><given-names>M.</given-names></name>
+<name><surname>Asif</surname><given-names>N.</given-names></name>
+<name><surname>Masood</surname><given-names>N.</given-names></name>
+<name><surname>Yasmin</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Anticarcinogenecity of microbiota and probiotics in breast cancer</article-title>
+          <source>
+<italic>International Journal of Food Properties</italic>
+</source>
+          <year>2018</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>655</fpage>
+          <lpage>666</lpage>
+          <pub-id pub-id-type="doi">10.1080/10942912.2018.1448994</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85064122395</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4" content-type="article">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Scholz-Ahrens</surname><given-names>K. E.</given-names></name>
+<name><surname>Adolphi</surname><given-names>B.</given-names></name>
+<name><surname>Rochat</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Effects of probiotics, prebiotics, and synbiotics on mineral metabolism in ovariectomized rats -- impact of bacterial mass, intestinal absorptive area and reduction of bone turn-over</article-title>
+          <source>
+<italic>Nfs Journal</italic>
+</source>
+          <year>2016</year>
+          <volume>3</volume>
+          <fpage>41</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.nfs.2016.03.001</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84962858008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5" content-type="article">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ranadheera</surname><given-names>R. D.</given-names></name>
+<name><surname>Baines</surname><given-names>S. K.</given-names></name>
+<name><surname>Adams</surname><given-names>M. C.</given-names></name>
+</person-group>
+          <article-title>Importance of food in probiotic efficacy</article-title>
+          <source>
+<italic>Food Research International</italic>
+</source>
+          <year>2010</year>
+          <volume>43</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6" content-type="article">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Oleskin</surname><given-names>A. V.</given-names></name>
+<name><surname>Shenderov</surname><given-names>B. A.</given-names></name>
+</person-group>
+          <article-title>Probiotics and psychobiotics: the role of microbial neurochemicals</article-title>
+          <source>
+<italic>Probiotics And Antimicrobial Proteins</italic>
+</source>
+          <year>2019</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>1071</fpage>
+          <lpage>1085</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12602-019-09583-0</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85073929339</pub-id>
+          <pub-id pub-id-type="pmid">31493127</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7" content-type="article">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Clarke</surname><given-names>G.</given-names></name>
+<name><surname>Cryan</surname><given-names>J. F.</given-names></name>
+<name><surname>Dinan</surname><given-names>T. G.</given-names></name>
+<name><surname>Quigley</surname><given-names>E. M.</given-names></name>
+</person-group>
+          <article-title>Review article: probiotics for the treatment of irritable bowel syndrome &#x2013; focus on lactic acid bacteria</article-title>
+          <source>
+<italic>Alimentary Pharmacology &amp; Therapeutics</italic>
+</source>
+          <year>2012</year>
+          <volume>35</volume>
+          <issue>4</issue>
+          <fpage>403</fpage>
+          <lpage>413</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2036.2011.04965.x</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84856033373</pub-id>
+          <pub-id pub-id-type="pmid">22225517</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8" content-type="article">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Taye</surname><given-names>Y.</given-names></name>
+<name><surname>Degu</surname><given-names>T.</given-names></name>
+<name><surname>Fesseha</surname><given-names>H.</given-names></name>
+<name><surname>Mathewos</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Isolation and identification of lactic acid bacteria from cow milk and milk products</article-title>
+          <source>
+<italic>The Scientific World Journal</italic>
+</source>
+          <year>2021</year>
+          <volume>2021</volume>
+          <fpage>6</fpage>
+          <pub-id pub-id-type="publisher-id">4697445</pub-id>
+          <pub-id pub-id-type="doi">10.1155/2021/4697445</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9" content-type="article">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Fariq</surname><given-names>A.</given-names></name>
+<name><surname>Saeed</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Production and biomedical applications of probiotic biosurfactants</article-title>
+          <source>
+<italic>Current Microbiology</italic>
+</source>
+          <year>2016</year>
+          <volume>72</volume>
+          <issue>4</issue>
+          <fpage>489</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00284-015-0978-4</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84959139815</pub-id>
+          <pub-id pub-id-type="pmid">26742771</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10" content-type="article">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kelesidis</surname><given-names>T.</given-names></name>
+<name><surname>Pothoulakis</surname><given-names>C.</given-names></name>
+</person-group>
+          <article-title>Efficacy and safety of the probiotic saccharomyces boulardii for the prevention and therapy of gastrointestinal disorders</article-title>
+          <source>
+<italic>Therapeutic Advances in Gastroenterology</italic>
+</source>
+          <year>2012</year>
+          <volume>5</volume>
+          <issue>2</issue>
+          <fpage>111</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="doi">10.1177/1756283X11428502</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84857520779</pub-id>
+          <pub-id pub-id-type="pmid">22423260</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11" content-type="article">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Morrow</surname><given-names>L. E.</given-names></name>
+<name><surname>Gogineni</surname><given-names>V.</given-names></name>
+<name><surname>Malesker</surname><given-names>M. A.</given-names></name>
+</person-group>
+          <article-title>Probiotics in the intensive care unit</article-title>
+          <source>
+<italic>Nutrition in Clinical Practice</italic>
+</source>
+          <year>2012</year>
+          <volume>27</volume>
+          <issue>2</issue>
+          <fpage>235</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="doi">10.1177/0884533612440290</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84859309626</pub-id>
+          <pub-id pub-id-type="pmid">22473797</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12" content-type="article">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pais</surname><given-names>P.</given-names></name>
+<name><surname>Almeida</surname><given-names>V.</given-names></name>
+<name><surname>Y&#x131;lmaz</surname><given-names>M.</given-names></name>
+<name><surname>Teixeira</surname><given-names>M. C.</given-names></name>
+</person-group>
+          <article-title>Saccharomyces boulardii: what makes it tick as successful probiotic?</article-title>
+          <source>
+<italic>Journal of Fungi</italic>
+</source>
+          <year>2020</year>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>78</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.3390/jof6020078</pub-id>
+          <pub-id pub-id-type="pmid">32512834</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13" content-type="article">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>H.</given-names></name>
+<name><surname>Raikos</surname><given-names>V.</given-names></name>
+</person-group>
+          <article-title>Lactic-acid bacteria fermentation-induced effects on microstructure and interfacial properties of oil-in-water emulsions stabilized by goat-milk proteins</article-title>
+          <source>
+<italic>Lwt</italic>
+</source>
+          <year>2019</year>
+          <volume>109</volume>
+          <fpage>70</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lwt.2019.04.002</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85063936840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14" content-type="article">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hoque</surname><given-names>M. Z.</given-names></name>
+<name><surname>Akter</surname><given-names>F.</given-names></name>
+<name><surname>Hossain</surname><given-names>K. M.</given-names></name>
+<name><surname>Rahman</surname><given-names>M. S. M.</given-names></name>
+<name><surname>Billah</surname><given-names>M. M.</given-names></name>
+<name><surname>Islam</surname><given-names>K. M. D.</given-names></name>
+</person-group>
+          <article-title>Isolation, identification and analysis of probiotic properties of lactobacillus spp. from selective regional yoghurts. <italic>World journal dairy food</italic></article-title>
+          <source>
+<italic>Science</italic>
+</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <lpage>46</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B15" content-type="article">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tavares</surname><given-names>L. M.</given-names></name>
+<name><surname>De Jesus</surname><given-names>L. C.</given-names></name>
+<name><surname>Da Silva</surname><given-names>T. F.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Novel strategies for efficient production and delivery of live biotherapeutics and biotechnological uses of Lactococcus lactis: the lactic acid bacterium model</article-title>
+          <source>
+<italic>Frontiers in Bioengineering and Biotechnology</italic>
+</source>
+          <year>2020</year>
+          <volume>8, article 517166</volume>
+          <pub-id pub-id-type="doi">10.3389/fbioe.2020.517166</pub-id>
+          <pub-id pub-id-type="pmid">33251190</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16" content-type="article">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Elbanna</surname><given-names>K.</given-names></name>
+<name><surname>El Hadad</surname><given-names>S.</given-names></name>
+<name><surname>Assaeedi</surname><given-names>A.</given-names></name>
+<name><surname>Aldahlawi</surname><given-names>A.</given-names></name>
+<name><surname>Khider</surname><given-names>M.</given-names></name>
+<name><surname>Alhebshi</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>In vitro and in vivo evidences for innate immune stimulators lactic acid bacterial starters isolated from fermented camel dairy products</article-title>
+          <source>
+<italic>Scientific Reports</italic>
+</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-018-31006-3</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85052227873</pub-id>
+          <pub-id pub-id-type="pmid">29311619</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17" content-type="article">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Park</surname><given-names>Y. H.</given-names></name>
+<name><surname>Hamidon</surname><given-names>F.</given-names></name>
+<name><surname>Rajangan</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Application of probiotics for the production of safe and high-quality poultry meat</article-title>
+          <source>
+<italic>Korean Journal for Food Science of Animal Resources</italic>
+</source>
+          <year>2016</year>
+          <volume>36</volume>
+          <issue>5</issue>
+          <fpage>567</fpage>
+          <lpage>576</lpage>
+          <pub-id pub-id-type="doi">10.5851/kosfa.2016.36.5.567</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85009936462</pub-id>
+          <pub-id pub-id-type="pmid">27857531</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18" content-type="article">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Alves</surname><given-names>M.</given-names></name>
+<name><surname>Peres</surname><given-names>C. M.</given-names></name>
+<name><surname>Hernandez-Mendonza</surname><given-names>A.</given-names></name>
+<name><surname>Bronze</surname><given-names>M. R.</given-names></name>
+<name><surname>Peres</surname><given-names>C.</given-names></name>
+<name><surname>Malcata</surname><given-names>F. X.</given-names></name>
+</person-group>
+          <article-title>Olive paste as vehicle for delivery of potential probiotic <italic>Lactobacillus plantarum</italic> 33</article-title>
+          <source>
+<italic>Food Research International</italic>
+</source>
+          <year>2015</year>
+          <volume>75</volume>
+          <fpage>61</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.foodres.2015.04.048</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84930618256</pub-id>
+          <pub-id pub-id-type="pmid">28454973</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19" content-type="article">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ziadi</surname><given-names>M.</given-names></name>
+<name><surname>Bouzaiene</surname><given-names>T.</given-names></name>
+<name><surname>Lakhal</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Screening of lactic starter from Tunisian fermented vegetables and application for the improvement of caper (Capparis spinosa) fermentation through an experimental factorial design</article-title>
+          <source>
+<italic>Annals of Microbiology</italic>
+</source>
+          <year>2019</year>
+          <volume>69</volume>
+          <issue>13</issue>
+          <fpage>1373</fpage>
+          <lpage>1385</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13213-019-01519-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20" content-type="article">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Aymerich</surname><given-names>T.</given-names></name>
+<name><surname>Rodr&#xED;guez</surname><given-names>M.</given-names></name>
+<name><surname>Garriga</surname><given-names>M.</given-names></name>
+<name><surname>Bover-Cid</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Assessment of the bioprotective potential of lactic acid bacteria against <italic>Listeria monocytogenes</italic> on vacuum-packed cold-smoked salmon stored at 8 &#xB0;C</article-title>
+          <source>
+<italic>Food Microbiology</italic>
+</source>
+          <year>2019</year>
+          <volume>83</volume>
+          <fpage>64</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fm.2019.04.011</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85064980468</pub-id>
+          <pub-id pub-id-type="pmid">31202420</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21" content-type="article">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Anacarso</surname><given-names>I.</given-names></name>
+<name><surname>Messi</surname><given-names>P.</given-names></name>
+<name><surname>Cond&#xF2;</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>A bacteriocin-like substance produced from <italic>Lactobacillus pentosus</italic> 39 is a natural antagonist for the control of <italic>Aeromonas hydrophila</italic> and <italic>Listeria monocytogenes</italic> in fresh salmon fillets</article-title>
+          <source>
+<italic>LWT-Food Science and Technology</italic>
+</source>
+          <year>2014</year>
+          <volume>55</volume>
+          <issue>2</issue>
+          <fpage>604</fpage>
+          <lpage>611</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lwt.2013.10.012</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84888129071</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22" content-type="article">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mathur</surname><given-names>H.</given-names></name>
+<name><surname>Field</surname><given-names>D.</given-names></name>
+<name><surname>Rea</surname><given-names>M. C.</given-names></name>
+<name><surname>Cotter</surname><given-names>P. D.</given-names></name>
+<name><surname>Hill</surname><given-names>C.</given-names></name>
+<name><surname>Ross</surname><given-names>R. P.</given-names></name>
+</person-group>
+          <article-title>Bacteriocin-antimicrobial synergy: a medical and food perspective</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>p. 1205</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2017.01205</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85021421030</pub-id>
+          <pub-id pub-id-type="pmid">28706513</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23" content-type="article">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tapiba</surname><given-names>V.</given-names></name>
+<name><surname>Nasr</surname><given-names>N.</given-names></name>
+<name><surname>Higazy</surname><given-names>A. M.</given-names></name>
+</person-group>
+          <article-title>Isolation, identification and application of bacteriocin-like inhibitory substances producing bacterial strains</article-title>
+          <source>
+<italic>Interntionl Journl Current Microbiolgy Applied Sciences</italic>
+</source>
+          <year>2015</year>
+          <volume>4</volume>
+          <issue>8</issue>
+          <fpage>333</fpage>
+          <lpage>342</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B24" content-type="article">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Besnard</surname><given-names>G.</given-names></name>
+<name><surname>Cheptou</surname><given-names>P. O.</given-names></name>
+<name><surname>Debbaoui</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Paternity tests support a diallelic self-incompatibility system in a wild olive (Olea europaea subsp. laperrinei, Oleaceae)</article-title>
+          <source>
+<italic>Ecology and Evolution</italic>
+</source>
+          <year>2020</year>
+          <volume>10</volume>
+          <issue>4</issue>
+          <fpage>1876</fpage>
+          <lpage>1888</lpage>
+          <pub-id pub-id-type="doi">10.1002/ece3.5993</pub-id>
+          <pub-id pub-id-type="pmid">32128122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25" content-type="article">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sebastiani</surname><given-names>L.</given-names></name>
+<name><surname>Busconi</surname><given-names>M.</given-names></name>
+</person-group>
+          <article-title>Recent developments in olive (Olea europaea L.) genetics and genomics: applications in taxonomy, varietal identification, traceability and breeding</article-title>
+          <source>
+<italic>Plant Cell Reports</italic>
+</source>
+          <year>2017</year>
+          <volume>36</volume>
+          <issue>9</issue>
+          <fpage>1345</fpage>
+          <lpage>1360</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00299-017-2145-9</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85018826255</pub-id>
+          <pub-id pub-id-type="pmid">28434019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26" content-type="article">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Corsetti</surname><given-names>A.</given-names></name>
+<name><surname>Perpetuini</surname><given-names>G.</given-names></name>
+<name><surname>Schirone</surname><given-names>M.</given-names></name>
+<name><surname>Tofalo</surname><given-names>R.</given-names></name>
+<name><surname>Suzzi</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>Application of starter cultures to table olive fermentation: an overview on the experimental studies</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2012</year>
+          <volume>3</volume>
+          <fpage>p. 248</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2012.00248</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84872518211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27" content-type="article">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Reboredo-Rodr&#xED;guez</surname><given-names>P.</given-names></name>
+<name><surname>Gonz&#xE1;lez-Barreiro</surname><given-names>C.</given-names></name>
+<name><surname>Mart&#xED;nez-Carballo</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Applicability of an in-vitro digestion model to assess the bioaccessibility of phenolic compounds from olive-related products</article-title>
+          <source>
+<italic>Molecules</italic>
+</source>
+          <year>2021</year>
+          <volume>26</volume>
+          <issue>21</issue>
+          <fpage>p. 6667</fpage>
+          <pub-id pub-id-type="doi">10.3390/molecules26216667</pub-id>
+          <pub-id pub-id-type="pmid">34771074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28" content-type="article">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Fern&#xE1;ndez-Poyatos</surname><given-names>M. P.</given-names></name>
+<name><surname>Ruiz-Medina</surname><given-names>A.</given-names></name>
+<name><surname>Llorent-Mart&#xED;nez</surname><given-names>E. J.</given-names></name>
+</person-group>
+          <article-title>Phytochemical profile, mineral content, and antioxidant activity of <italic>Olea europaea</italic> L. cv. Cornezuelo table olives. Influence of <italic>in vitro</italic> simulated gastrointestinal digestion</article-title>
+          <source>
+<italic>Food Chemistry</italic>
+</source>
+          <year>2019</year>
+          <volume>297</volume>
+          <fpage>124933</fpage>
+          <lpage>124942</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.foodchem.2019.05.207</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85066942411</pub-id>
+          <pub-id pub-id-type="pmid">31253274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29" content-type="article">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nikfarjam</surname><given-names>A. K.</given-names></name>
+<name><surname>Mahdian</surname><given-names>E.</given-names></name>
+<name><surname>Ghavidel</surname><given-names>R. A.</given-names></name>
+<name><surname>Karazhyan</surname><given-names>R.</given-names></name>
+</person-group>
+          <article-title>Probiotic potential of lactobacillus strains isolated from Iranian traditional pickled garlic and using them in fermented olive</article-title>
+          <source>
+<italic>Journal of BioScience and Biotechnology</italic>
+</source>
+          <year>2021</year>
+          <volume>10</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+          <lpage>51</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B30" content-type="article">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lavermicocca</surname><given-names>P.</given-names></name>
+<name><surname>Angiolillo</surname><given-names>L.</given-names></name>
+<name><surname>Lonigro</surname><given-names>S. L.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Lactobacillus plantarum 5BG survives during refrigerated storage bio-preserving packaged Spanish-style table olives (cv. Bella di Cerignola)</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>889</fpage>
+          <lpage>896</lpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2018.00889</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85046682898</pub-id>
+          <pub-id pub-id-type="pmid">29867802</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31" content-type="article">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Aprile</surname><given-names>A.</given-names></name>
+<name><surname>Negro</surname><given-names>C.</given-names></name>
+<name><surname>Sabella</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Antioxidant activity and anthocyanin contents in olives (cv cellina di nard&#xF2;) during ripening and after fermentation</article-title>
+          <source>
+<italic>Antioxidants</italic>
+</source>
+          <year>2019</year>
+          <volume>8</volume>
+          <issue>5</issue>
+          <fpage>138</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="doi">10.3390/antiox8050138</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85067971547</pub-id>
+          <pub-id pub-id-type="pmid">31109100</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32" content-type="article">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Heperkan</surname><given-names>D.</given-names></name>
+</person-group>
+          <article-title>Microbiota of table olive fermentations and criteria of selection for their use as starters</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2013</year>
+          <volume>4</volume>
+          <fpage>143</fpage>
+          <lpage>151</lpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2013.00143</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84884216345</pub-id>
+          <pub-id pub-id-type="pmid">23781216</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33" content-type="article">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Doulgeraki</surname><given-names>A. I.</given-names></name>
+<name><surname>Pramateftaki</surname><given-names>P.</given-names></name>
+<name><surname>Argyri</surname><given-names>A. A.</given-names></name>
+<name><surname>Nychas</surname><given-names>G. J. E.</given-names></name>
+<name><surname>Tassou</surname><given-names>C. C.</given-names></name>
+<name><surname>Panagou</surname><given-names>E. Z.</given-names></name>
+</person-group>
+          <article-title>Molecular characterization of lactic acid bacteria isolated from industrially fermented Greek table olives</article-title>
+          <source>
+<italic>LWT-Food Science and Technology</italic>
+</source>
+          <year>2013</year>
+          <volume>50</volume>
+          <issue>1</issue>
+          <fpage>353</fpage>
+          <lpage>356</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lwt.2012.07.003</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84866348752</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34" content-type="article">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Begum</surname><given-names>R.</given-names></name>
+<name><surname>Sarker</surname><given-names>M. A. K.</given-names></name>
+<name><surname>Islam</surname><given-names>M. A.</given-names></name>
+<name><surname>Alam</surname><given-names>M. K.</given-names></name>
+<name><surname>Pramanik</surname><given-names>M. K.</given-names></name>
+</person-group>
+          <article-title>Isolation and characterization of lactic acid bacteria from indigenous dairy product and preparation of starter culture by freeze-drying</article-title>
+          <source>
+<italic>Bioresearch Communications-(BRC)</italic>
+</source>
+          <year>2017</year>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>302</fpage>
+          <lpage>308</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B35" content-type="article">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mahato</surname><given-names>S.</given-names></name>
+<name><surname>Shahani</surname><given-names>A. K.</given-names></name>
+</person-group>
+          <article-title>Identifying the Diversity of Dominant LABs from Fermented Dairy Products Dahi and Yoghurt in Eastern Region of Nepal</article-title>
+          <source>
+<italic>Journal of Food Science and Technology Nepal</italic>
+</source>
+          <year>2019</year>
+          <volume>11</volume>
+          <fpage>60</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B36" content-type="article">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>&#xC7;elekli</surname><given-names>A.</given-names></name>
+<name><surname>Alslibi</surname><given-names>Z. A.</given-names></name>
+<name><surname>Bozkurt</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Boosting effects of Spirulina platensis, whey protein, and probiotics on the growth of microflora and the nutritional value of ayran</article-title>
+          <source>
+<italic>Engineering Reports</italic>
+</source>
+          <year>2020</year>
+          <volume>2</volume>
+          <issue>9, article e12235</issue>
+          <pub-id pub-id-type="doi">10.1002/eng2.12235</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37" content-type="article">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gram</surname><given-names>C.</given-names></name>
+</person-group>
+          <article-title>The differential staining of Schizomycetes in tissue sections and in dried preparations</article-title>
+          <source>
+<italic>Fortschitte der Medicin</italic>
+</source>
+          <year>1884</year>
+          <volume>2</volume>
+          <issue>6</issue>
+          <fpage>185</fpage>
+          <lpage>189</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B38" content-type="article">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mushtaq</surname><given-names>M.</given-names></name>
+<name><surname>Bukhari</surname><given-names>S. M.</given-names></name>
+<name><surname>Ahmad</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Isolation and characterization of bacteria residing in the oral, gut, and fecal samples of different pheasant species</article-title>
+          <source>
+<italic>Brazilian Journal of Biology</italic>
+</source>
+          <year>2021</year>
+          <volume>83</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B39" content-type="book">
+        <label>39</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Harley</surname><given-names>J. P.</given-names></name>
+</person-group>
+          <source>
+<italic>Laboratory Exercises in Microbiology</italic>
+</source>
+          <year>2005</year>
+          <edition>6th</edition>
+          <publisher-loc>New York, NY</publisher-loc>
+          <publisher-name>McGraw Hill</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B40" content-type="article">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Jo</surname><given-names>O.</given-names></name>
+<name><surname>Okobia</surname><given-names>U. B.</given-names></name>
+</person-group>
+          <article-title>The prevalence of <italic>enterococcus spp.</italic> in toilet door handles of male and female hostel in delta state polytechnic ozoro. <italic>International journal of modern</italic></article-title>
+          <source>
+<italic>Pharmaceutical Research</italic>
+</source>
+          <year>2021</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>132</fpage>
+          <lpage>136</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B41" content-type="article">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>McDevitt</surname><given-names>S.</given-names></name>
+</person-group>
+          <article-title>Methyl red and Voges&#x2013;Proskauer test protocols</article-title>
+          <source>
+<italic>American Society for Microbiology</italic>
+</source>
+          <year>2009</year>
+          <volume>8</volume>
+        </element-citation>
+      </ref>
+      <ref id="B42" content-type="article">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rosenberg</surname><given-names>E.</given-names></name>
+<name><surname>Rubinovitz</surname><given-names>C.</given-names></name>
+<name><surname>Legmann</surname><given-names>R.</given-names></name>
+<name><surname>Ron</surname><given-names>E. Z.</given-names></name>
+</person-group>
+          <article-title>Purification and chemical properties of Acinetobacter calcoaceticus A2 biodispersan</article-title>
+          <source>
+<italic>Applied and environmental microbiology</italic>
+</source>
+          <year>1988</year>
+          <volume>54</volume>
+          <issue>2</issue>
+          <fpage>323</fpage>
+          <lpage>326</lpage>
+          <pub-id pub-id-type="pmid">16347545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43" content-type="article">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Di&#xE9;guez</surname><given-names>A. L.</given-names></name>
+<name><surname>Balboa</surname><given-names>S.</given-names></name>
+<name><surname>Romalde</surname><given-names>J. L.</given-names></name>
+</person-group>
+          <article-title>
+<italic>Halomonas borealis</italic> sp. nov. and <italic>Halomonas niordiana</italic> sp. nov., two new species isolated from seawater</article-title>
+          <source>
+<italic>Systematic and Applied Microbiology</italic>
+</source>
+          <year>2020</year>
+          <volume>43</volume>
+          <issue>1</issue>
+          <fpage>126040</fpage>
+          <lpage>126049</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.syapm.2019.126040</pub-id>
+          <pub-id pub-id-type="pmid">31784208</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44" content-type="article">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lemos</surname><given-names>M. L.</given-names></name>
+<name><surname>Toranzo</surname><given-names>A. E.</given-names></name>
+<name><surname>Barja</surname><given-names>J. L.</given-names></name>
+</person-group>
+          <article-title>Modified medium for the oxidation-fermentation test in the identification of marine bacteria</article-title>
+          <source>
+<italic>Applied and Environmental Microbiology</italic>
+</source>
+          <year>1985</year>
+          <volume>49</volume>
+          <issue>6</issue>
+          <fpage>1541</fpage>
+          <lpage>1543</lpage>
+          <pub-id pub-id-type="doi">10.1128/aem.49.6.1541-1543.1985</pub-id>
+          <pub-id pub-id-type="pmid">16346823</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45" content-type="article">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Simatende</surname><given-names>P.</given-names></name>
+<name><surname>Siwela</surname><given-names>M.</given-names></name>
+<name><surname>Gadaga</surname><given-names>T. H.</given-names></name>
+</person-group>
+          <article-title>Identification of lactic acid bacteria and determination of selected biochemical properties in emasi and emahewu</article-title>
+          <source>
+<italic>South African Journal of Science</italic>
+</source>
+          <year>2019</year>
+          <volume>115</volume>
+          <issue>11/12</issue>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.17159/sajs.2019/6362</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46" content-type="article">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>E.</given-names></name>
+<name><surname>Fan</surname><given-names>L.</given-names></name>
+<name><surname>Yan</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Influence of culture media, pH and temperature on growth and bacteriocin production of bacteriocinogenic lactic acid bacteria</article-title>
+          <source>
+<italic>AMB Express</italic>
+</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1186/s13568-018-0536-0</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85040969016</pub-id>
+          <pub-id pub-id-type="pmid">29302756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47" content-type="article">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wanja</surname><given-names>D. W.</given-names></name>
+<name><surname>Mbuthia</surname><given-names>P. G.</given-names></name>
+<name><surname>Waruiru</surname><given-names>R. M.</given-names></name>
+<name><surname>Bebora</surname><given-names>L. C.</given-names></name>
+<name><surname>Ngowi</surname><given-names>H. A.</given-names></name>
+<name><surname>Nyaga</surname><given-names>P. N.</given-names></name>
+</person-group>
+          <article-title>Antibiotic and disinfectant susceptibility patterns of bacteria isolated from farmed fish in Kirinyaga county, Kenya</article-title>
+          <source>
+<italic>International Journal of Microbiology</italic>
+</source>
+          <year>2020</year>
+          <volume>2020</volume>
+          <fpage>8</fpage>
+          <pub-id pub-id-type="doi">10.1155/2020/8897338</pub-id>
+          <pub-id pub-id-type="publisher-id">8897338</pub-id>
+          <pub-id pub-id-type="pmid">32802077</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48" content-type="article">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Contente</surname><given-names>D.</given-names></name>
+<name><surname>Feito</surname><given-names>J.</given-names></name>
+<name><surname>Borrero</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Lactococcus lactis RBT18: from the rainbow trout farm to the lab, the tale of a nisin Z producer</article-title>
+          <source>
+<italic>In Multidisciplinary Digital Publishing Institute Proceedings</italic>
+</source>
+          <year>2020</year>
+          <volume>66</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B49" content-type="article">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Nami</surname><given-names>Y.</given-names></name>
+<name><surname>Vaseghi Bakhshayesh</surname><given-names>R.</given-names></name>
+<name><surname>Mohammadzadeh Jalaly</surname><given-names>H.</given-names></name>
+<name><surname>Lotfi</surname><given-names>H.</given-names></name>
+<name><surname>Eslami</surname><given-names>S.</given-names></name>
+<name><surname>Hejazi</surname><given-names>M. A.</given-names></name>
+</person-group>
+          <article-title>Probiotic properties of <italic>enterococcus</italic> isolated from artisanal dairy products</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>300</fpage>
+          <lpage>310</lpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2019.00300</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85065918210</pub-id>
+          <pub-id pub-id-type="pmid">30863379</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50" content-type="article">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Dunne</surname><given-names>C.</given-names></name>
+<name><surname>O'Mahony</surname><given-names>L.</given-names></name>
+<name><surname>Murphy</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>In vitro selection criteria for probiotic bacteria of human origin: correlation with in vivo findings<sup>1,2,3,4</sup></article-title>
+          <source>
+<italic>The American Journal of Clinical Nutrition</italic>
+</source>
+          <year>2001</year>
+          <volume>73</volume>
+          <issue>2</issue>
+          <fpage>386s</fpage>
+          <lpage>392s</lpage>
+          <pub-id pub-id-type="doi">10.1093/ajcn/73.2.386s</pub-id>
+          <pub-id pub-id-type="pmid">11157346</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51" content-type="article">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>S. J.</given-names></name>
+<name><surname>Yang</surname><given-names>S. Y.</given-names></name>
+<name><surname>Yoon</surname><given-names>K. S.</given-names></name>
+</person-group>
+          <article-title>Lactic acid bacteria starter in combination with sodium chloride controls pathogenic <italic>Escherichia coli</italic> (EPEC, ETEC, and EHEC) in kimchi</article-title>
+          <source>
+<italic>Food Microbiology</italic>
+</source>
+          <year>2021</year>
+          <volume>100</volume>
+          <fpage>103868</fpage>
+          <lpage>103872</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fm.2021.103868</pub-id>
+          <pub-id pub-id-type="pmid">34416967</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52" content-type="book">
+        <label>52</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Graciela</surname><given-names>F.</given-names></name>
+<name><surname>Maria</surname><given-names>P. T.</given-names></name>
+</person-group>
+          <person-group person-group-type="editor">
+<name><surname>Spencer</surname><given-names>J. F. T.</given-names></name>
+<name><surname>Spencer</surname><given-names>A. L. R. D.</given-names></name>
+</person-group>
+          <source>
+<italic>Food Microbiology Protocols</italic>
+</source>
+          <year>2001</year>
+          <publisher-loc>Totowa, New Jersey</publisher-loc>
+          <publisher-name>Humana Press Inc., chap. 21 (Probiotic Properties of Lactobacillus)</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B53" content-type="incollection">
+        <label>53</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Peres</surname><given-names>C. M.</given-names></name>
+<name><surname>Peres</surname><given-names>C.</given-names></name>
+<name><surname>Malcata</surname><given-names>F. X.</given-names></name>
+</person-group>
+          <article-title>Role of natural fermented olives in health and disease</article-title>
+          <source>
+<italic>Fermented Foods in Health and Disease Prevention</italic>
+</source>
+          <year>2017</year>
+          <publisher-name>Academic Press</publisher-name>
+          <fpage>517</fpage>
+          <lpage>542</lpage>
+          <pub-id pub-id-type="doi">10.1016/B978-0-12-802309-9.00022-4</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85011031787</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B54" content-type="article">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Buckland</surname><given-names>G.</given-names></name>
+<name><surname>Gonzalez</surname><given-names>C. A.</given-names></name>
+</person-group>
+          <article-title>The role of olive oil in disease prevention: a focus on the recent epidemiological evidence from cohort studies and dietary intervention trials</article-title>
+          <source>
+<italic>British Journal of Nutrition</italic>
+</source>
+          <year>2015</year>
+          <volume>113</volume>
+          <issue>S2</issue>
+          <fpage>S94</fpage>
+          <lpage>S101</lpage>
+          <pub-id pub-id-type="pmid">26148926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B55" content-type="article">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Argyri</surname><given-names>K.</given-names></name>
+<name><surname>Doulgeraki</surname><given-names>A. I.</given-names></name>
+<name><surname>Manthou</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Microbial diversity of fermented Greek table olives of Halkidiki and Konservolia varieties from different regions as revealed by metagenomic analysis</article-title>
+          <source>
+<italic>Microorganisms</italic>
+</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <issue>8</issue>
+          <fpage>1241</fpage>
+          <lpage>1249</lpage>
+          <pub-id pub-id-type="doi">10.3390/microorganisms8081241</pub-id>
+          <pub-id pub-id-type="pmid">32824085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56" content-type="article">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Papadelli</surname><given-names>M.</given-names></name>
+<name><surname>Zoumpopoulou</surname><given-names>G.</given-names></name>
+<name><surname>Georgalaki</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Evaluation of two lactic acid bacteria starter cultures for the fermentation of natural black table olives (Olea europaea L cv. Kalamon)</article-title>
+          <source>
+<italic>Polish Journal of Microbiology</italic>
+</source>
+          <year>2015</year>
+          <volume>64</volume>
+          <issue>3</issue>
+          <fpage>265</fpage>
+          <lpage>271</lpage>
+          <pub-id pub-id-type="doi">10.5604/01.3001.0009.2121</pub-id>
+          <pub-id pub-id-type="pmid">26638534</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57" content-type="article">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yal&#xE7;&#x131;nkaya</surname><given-names>S.</given-names></name>
+<name><surname>K&#x131;l&#x131;&#xE7;</surname><given-names>G. B.</given-names></name>
+</person-group>
+          <article-title>Isolation, identification and determination of technological properties of the halophilic lactic acid bacteria isolated from table olives</article-title>
+          <source>
+<italic>Journal of Food Science and Technology</italic>
+</source>
+          <year>2019</year>
+          <volume>56</volume>
+          <issue>4</issue>
+          <fpage>2027</fpage>
+          <lpage>2037</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13197-019-03679-9</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85062779265</pub-id>
+          <pub-id pub-id-type="pmid">30996437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B58" content-type="article">
+        <label>58</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Mourad</surname><given-names>K.</given-names></name>
+<name><surname>Halima</surname><given-names>Z. K.</given-names></name>
+<name><surname>Nour-Eddine</surname><given-names>K.</given-names></name>
+</person-group>
+          <article-title>Isolation of lactic acid bacteria for its possible use in the fermentation of green Algerian olives</article-title>
+          <source>
+<italic>Grasas y Aceites</italic>
+</source>
+          <year>2004</year>
+          <volume>55</volume>
+          <issue>4</issue>
+          <fpage>385</fpage>
+          <lpage>393</lpage>
+          <pub-id pub-id-type="doi">10.3989/gya.2004.v55.i4.205</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-17444418995</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B59" content-type="article">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ashraf</surname><given-names>R.</given-names></name>
+<name><surname>Smith</surname><given-names>S. C.</given-names></name>
+</person-group>
+          <article-title>Selective enumeration of dairy based strains of probiotic and lactic acid bacteria</article-title>
+          <source>
+<italic>International Food Research Journal</italic>
+</source>
+          <year>2015</year>
+          <volume>22</volume>
+          <issue>6</issue>
+          <fpage>2576</fpage>
+          <lpage>2586</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B60" content-type="article">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ashraf</surname><given-names>R.</given-names></name>
+<name><surname>Smith</surname><given-names>S. C.</given-names></name>
+</person-group>
+          <article-title>Commercial lactic acid bacteria and probiotic strains-tolerance to bile, pepsin and antibiotics</article-title>
+          <source>
+<italic>International Food Research Journal</italic>
+</source>
+          <year>2016</year>
+          <volume>23</volume>
+          <issue>2</issue>
+          <fpage>777</fpage>
+          <lpage>786</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B61" content-type="article">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lim</surname><given-names>S. M.</given-names></name>
+<name><surname>Lee</surname><given-names>N. K.</given-names></name>
+<name><surname>Kim</surname><given-names>K. T.</given-names></name>
+<name><surname>Paik</surname><given-names>H. D.</given-names></name>
+</person-group>
+          <article-title>Probiotic <italic>Lactobacillus fermentum</italic> KU200060 isolated from watery kimchi and its application in probiotic yogurt for oral health</article-title>
+          <source>
+<italic>Microbial Pathogenesis</italic>
+</source>
+          <year>2020</year>
+          <volume>147</volume>
+          <fpage>104430</fpage>
+          <lpage>104439</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2020.104430</pub-id>
+          <pub-id pub-id-type="pmid">32758520</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B62" content-type="article">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>M.</given-names></name>
+<name><surname>Zhang</surname><given-names>R.</given-names></name>
+<name><surname>Tian</surname><given-names>X.</given-names></name>
+<name><surname>Zhou</surname><given-names>X.</given-names></name>
+<name><surname>Pan</surname><given-names>X.</given-names></name>
+<name><surname>Wong</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Assessing the risk of probiotic dietary supplements in the context of antibiotic resistance</article-title>
+          <source>
+<italic>Frontiers in Microbiology</italic>
+</source>
+          <year>2017</year>
+          <volume>8</volume>
+          <fpage>908</fpage>
+          <lpage>917</lpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2017.00908</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85019724186</pub-id>
+          <pub-id pub-id-type="pmid">28579981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B63" content-type="article">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Manyi-Loh</surname><given-names>C.</given-names></name>
+<name><surname>Mamphweli</surname><given-names>S.</given-names></name>
+<name><surname>Meyer</surname><given-names>E.</given-names></name>
+<name><surname>Okoh</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Antibiotic use in agriculture and its consequential resistance in environmental sources: potential public health implications</article-title>
+          <source>
+<italic>Molecules</italic>
+</source>
+          <year>2018</year>
+          <volume>23</volume>
+          <issue>4</issue>
+          <fpage>p. 795</fpage>
+          <pub-id pub-id-type="doi">10.3390/molecules23040795</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85044867718</pub-id>
+          <pub-id pub-id-type="pmid">29601469</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B64" content-type="article">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Maragkoudakis</surname><given-names>P. A.</given-names></name>
+<name><surname>Miaris</surname><given-names>C.</given-names></name>
+<name><surname>Rojez</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Production of traditional Greek yoghurt using <italic>Lactobacillus</italic> strains with probiotic potential as starter adjuncts</article-title>
+          <source>
+<italic>International Dairy Journal</italic>
+</source>
+          <year>2006</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>52</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.idairyj.2004.12.013</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-27444447106</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B65" content-type="article">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hosseini</surname><given-names>N. M.</given-names></name>
+<name><surname>Hussain</surname><given-names>M. A.</given-names></name>
+<name><surname>Britz</surname><given-names>M. L.</given-names></name>
+</person-group>
+          <article-title>Stress responses in probiotic Lactobacillus casei</article-title>
+          <source>
+<italic>Critical Reviews in Food Science and Nutrition</italic>
+</source>
+          <year>2015</year>
+          <volume>55</volume>
+          <issue>6</issue>
+          <fpage>740</fpage>
+          <lpage>749</lpage>
+          <pub-id pub-id-type="pmid">24915363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B66" content-type="article">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>El-Mohsen</surname><given-names>S. A.</given-names></name>
+<name><surname>El-Leboudy</surname><given-names>A. A.</given-names></name>
+<name><surname>Ibrahim</surname><given-names>H. R.</given-names></name>
+<name><surname>Amer</surname><given-names>A. A.</given-names></name>
+</person-group>
+          <article-title>Anti-helicobacter pylori activity of lactobacillus fermentum in fermented skimmed bovine Milk</article-title>
+          <source>
+<italic>Alexandria Journal for Veterinary Sciences</italic>
+</source>
+          <year>2019</year>
+          <volume>60</volume>
+          <issue>2</issue>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B67" content-type="article">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lin</surname><given-names>W. H.</given-names></name>
+<name><surname>Yu</surname><given-names>B.</given-names></name>
+<name><surname>Jang</surname><given-names>S. H.</given-names></name>
+<name><surname>Tsen</surname><given-names>H. Y.</given-names></name>
+</person-group>
+          <article-title>Different probiotic properties for <italic>Lactobacillus fermentum</italic> strains isolated from swine and poultry</article-title>
+          <source>
+<italic>Anaerobe</italic>
+</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>3-4</issue>
+          <fpage>107</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.anaerobe.2007.04.006</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-34547929062</pub-id>
+          <pub-id pub-id-type="pmid">17544731</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B68" content-type="article">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Argyri</surname><given-names>A. A.</given-names></name>
+<name><surname>Zoumpopoulou</surname><given-names>G.</given-names></name>
+<name><surname>Karatzas</surname><given-names>K. A. G.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Selection of potential probiotic lactic acid bacteria from fermented olives by <italic>in vitro</italic> tests</article-title>
+          <source>
+<italic>Food Microbiology</italic>
+</source>
+          <year>2013</year>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>282</fpage>
+          <lpage>291</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fm.2012.10.005</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84871721160</pub-id>
+          <pub-id pub-id-type="pmid">23200662</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B69" content-type="article">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hurtado</surname><given-names>A.</given-names></name>
+<name><surname>Reguant</surname><given-names>C.</given-names></name>
+<name><surname>Bordons</surname><given-names>A.</given-names></name>
+<name><surname>Roz&#xE8;s</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Lactic acid bacteria from fermented table olives</article-title>
+          <source>
+<italic>Food Microbiology</italic>
+</source>
+          <year>2012</year>
+          <volume>31</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.fm.2012.01.006</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84859159387</pub-id>
+          <pub-id pub-id-type="pmid">22475936</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B70" content-type="article">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Soni</surname><given-names>M.</given-names></name>
+<name><surname>Shah</surname><given-names>H. R.</given-names></name>
+<name><surname>Patel</surname><given-names>S. M.</given-names></name>
+</person-group>
+          <article-title>Isolation, identification and analysis of probiotic characteristics of lactobacillus spp. from regional yoghurts from Surendranagar District, Gujarat</article-title>
+          <source>
+<italic>Asian Journal of Dairy and Food Research</italic>
+</source>
+          <year>2021</year>
+          <volume>40</volume>
+          <issue>3</issue>
+          <fpage>267</fpage>
+          <lpage>272</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B71" content-type="article">
+        <label>71</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>W.</given-names></name>
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+<name><surname>Duo</surname><given-names>L.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Characterization of potentially probiotic lactic acid bacteria and bifidobacteria isolated from human colostrum</article-title>
+          <source>
+<italic>Journal of Dairy Science</italic>
+</source>
+          <year>2020</year>
+          <volume>103</volume>
+          <issue>5</issue>
+          <fpage>4013</fpage>
+          <lpage>4025</lpage>
+          <pub-id pub-id-type="doi">10.3168/jds.2019-17602</pub-id>
+          <pub-id pub-id-type="pmid">32113772</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B72" content-type="article">
+        <label>72</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Munoz-Quezada</surname><given-names>S.</given-names></name>
+<name><surname>Chenoll</surname><given-names>E.</given-names></name>
+<name><surname>Vieites</surname><given-names>J. M.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Isolation, identification and characterisation of three novel probiotic strains (lactobacillus paracaseiCNCM I-4034,Bifidobacterium breveCNCM I-4035 andLactobacillus rhamnosusCNCM I-4036) from the faeces of exclusively breast-fed infants</article-title>
+          <source>
+<italic>British Journal of Nutrition</italic>
+</source>
+          <year>2013</year>
+          <volume>109</volume>
+          <issue>S2</issue>
+          <fpage>S51</fpage>
+          <lpage>S62</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0007114512005211</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84873869379</pub-id>
+          <pub-id pub-id-type="pmid">23360881</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B73" content-type="article">
+        <label>73</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Cui</surname><given-names>L.</given-names></name>
+<name><surname>Niu</surname><given-names>L.-y.</given-names></name>
+<name><surname>Da-jing</surname><given-names>L. I.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Effects of different drying methods on quality, bacterial viability and storage stability of probiotic enriched apple snacks</article-title>
+          <source>
+<italic>Journal of Integrative Agriculture</italic>
+</source>
+          <year>2018</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>247</fpage>
+          <lpage>255</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2095-3119(17)61742-8</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85044712963</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B74" content-type="article">
+        <label>74</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Piatek</surname><given-names>J.</given-names></name>
+<name><surname>Gibas-Dorna</surname><given-names>M.</given-names></name>
+<name><surname>Olejnik</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The viability and intestinal epithelial cell adhesion of probiotic strain combination-in vitro study</article-title>
+          <source>
+<italic>Annals of Agricultural and Environmental Medicine</italic>
+</source>
+          <year>2012</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">22462437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B75" content-type="article">
+        <label>75</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Perpetuini</surname><given-names>G.</given-names></name>
+<name><surname>Prete</surname><given-names>R.</given-names></name>
+<name><surname>Garcia-Gonzalez</surname><given-names>N.</given-names></name>
+<name><surname>Khairul Alam</surname><given-names>M.</given-names></name>
+<name><surname>Corsetti</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Table olives more than a fermented food</article-title>
+          <source>
+<italic>Food</italic>
+</source>
+          <year>2020</year>
+          <volume>9</volume>
+          <issue>2</issue>
+          <fpage>178</fpage>
+          <lpage>186</lpage>
+          <pub-id pub-id-type="doi">10.3390/foods9020178</pub-id>
+          <pub-id pub-id-type="pmid">32059387</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="fig1">
+      <label>Figure 1</label>
+      <caption>
+        <p>Different tests performed on isolated probiotic bacteria. (a) Culture of isolated probiotic bacteria on Simmon citrate agar. (b) Disc diffusion assay of MB425 and MB417. (c) Gastric juice tolerance test for MB416. (d) Milk coagulation by different isolates.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.001" position="float"/>
+    </fig>
+    <fig position="float" id="fig2">
+      <label>Figure 2</label>
+      <caption>
+        <p>API 50 CH fermentation patterns of fermented olive isolate MB417, MB418, and MB421 along with <italic>Lactobacillus bulgaricus</italic> as a reference strain, where blue color fields represent positive test results and red field represents negative test results.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.002" position="float"/>
+    </fig>
+    <fig position="float" id="fig3">
+      <label>Figure 3</label>
+      <caption>
+        <p>Similarity index of probiotic bacteria from fermented black and green olives.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.003" position="float"/>
+    </fig>
+    <fig position="float" id="fig4">
+      <label>Figure 4</label>
+      <caption>
+        <p>Growth of isolated bacteria from fermented black and green olives at different temperatures.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.004" position="float"/>
+    </fig>
+    <fig position="float" id="fig5">
+      <label>Figure 5</label>
+      <caption>
+        <p>Growth of bacterial isolates from black and green fermented olives at various pH.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.005" position="float"/>
+    </fig>
+    <fig position="float" id="fig6">
+      <label>Figure 6</label>
+      <caption>
+        <p>Growth of isolated probiotic bacteria from black and green olives at different bile salt concentrations.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.006" position="float"/>
+    </fig>
+    <fig position="float" id="fig7">
+      <label>Figure 7</label>
+      <caption>
+        <p>CFU/ml of fermented green and black olives isolates for gastric juice tolerance test.</p>
+      </caption>
+      <graphic xlink:href="BMRI2023-8726320.007" position="float"/>
+    </fig>
+    <table-wrap position="float" id="tab1">
+      <label>Table 1</label>
+      <caption>
+        <p>List of isolated bacteria from fermented green and black olives on MRS medium.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Source</th>
+            <th align="center" colspan="2" rowspan="1">Isolates</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">Black olives</th>
+            <th align="center" rowspan="1" colspan="1">Green olives</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="2" colspan="1">Chunks</td>
+            <td align="center" rowspan="2" colspan="1">MB414</td>
+            <td align="center" rowspan="1" colspan="1">MB419</td>
+          </tr>
+          <tr>
+            <td align="center" rowspan="1" colspan="1">MB420</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="3" colspan="1">Suspension</td>
+            <td align="center" rowspan="1" colspan="1">MB415</td>
+            <td align="center" rowspan="1" colspan="1">MB421</td>
+          </tr>
+          <tr>
+            <td align="center" rowspan="1" colspan="1">MB416</td>
+            <td align="center" rowspan="1" colspan="1">MB422</td>
+          </tr>
+          <tr>
+            <td align="center" rowspan="1" colspan="1">MB417</td>
+            <td align="center" rowspan="1" colspan="1">MB423</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="2" colspan="1">Brine</td>
+            <td align="center" rowspan="2" colspan="1">MB418</td>
+            <td align="center" rowspan="1" colspan="1">MB424</td>
+          </tr>
+          <tr>
+            <td align="center" rowspan="1" colspan="1">MB425</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>Suspension: suspension from minced olives.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tab2">
+      <label>Table 2</label>
+      <caption>
+        <p>Identification of probiotic bacteria isolated from black and green olives.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Strains</th>
+            <th align="center" colspan="2" rowspan="1">Morphology</th>
+            <th align="center" colspan="6" rowspan="1">Biochemical tests</th>
+            <th align="center" colspan="2" rowspan="1">Aerobic condition</th>
+            <th align="center" colspan="2" rowspan="1">Anaerobic condition</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">Staining</th>
+            <th align="center" rowspan="1" colspan="1">Shape</th>
+            <th align="center" rowspan="1" colspan="1">S&#x2009;F</th>
+            <th align="center" rowspan="1" colspan="1">Cat</th>
+            <th align="center" rowspan="1" colspan="1">M R</th>
+            <th align="center" rowspan="1" colspan="1">V P</th>
+            <th align="center" rowspan="1" colspan="1">I P</th>
+            <th align="center" rowspan="1" colspan="1">S C</th>
+            <th align="center" rowspan="1" colspan="1">Growth</th>
+            <th align="center" rowspan="1" colspan="1">A P</th>
+            <th align="center" rowspan="1" colspan="1">Growth</th>
+            <th align="center" rowspan="1" colspan="1">A P</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactobacillus crispatus</italic> MB417</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">Bacilli</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>&#x2014;</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>&#x2014;</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>++</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>+</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>++</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>+</italic>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactococcus lactis</italic> MB418</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">Cocci</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>&#x2014;</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>&#x2014;</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>++</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Carnobacterium divergens</italic> MB421</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">Bacilli</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>&#x2014;</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>++</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>+</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>++</italic>
+</td>
+            <td align="center" rowspan="1" colspan="1">
+<italic>+</italic>
+</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>+Gram positive: S&#x2009;F: spore formatio; Cat: catalase production; M R: methyl red; V P: Voges-Proskauer; I P: indole production; S C: Simmon's citrate; A P: acid production.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tab3">
+      <label>Table 3</label>
+      <caption>
+        <p>Carbohydrates fermentation pattern of probiotic isolates from fermented black and green olives on API 50 CH panel.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="1" colspan="1">API 50 tests</th>
+            <th align="center" rowspan="1" colspan="1">
+<italic>Lactobacillus crispatus</italic> MB417</th>
+            <th align="center" rowspan="1" colspan="1">
+<italic>Lactococcus lactis</italic> MB418</th>
+            <th align="center" rowspan="1" colspan="1">
+<italic>Carnobacteriumdivergens</italic> MB421</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Salicine</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Potassium gluconate</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">N-Acetyl glucosamine</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">L-Sorbose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">L-arabinose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Inuline</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Glycerol</td>
+            <td align="center" rowspan="1" colspan="1">V</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Gentiobiose</td>
+            <td align="center" rowspan="1" colspan="1">V</td>
+            <td align="center" rowspan="1" colspan="1">V</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Esculine/iron citrate</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Turanose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Trehalose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-tagatose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Saccharose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-ribose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Rafinose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Melezitose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Melbiose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Mannitol</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Maltose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Lactose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Glucose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Galactose</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Fructose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">D-Cellobiose</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Arbutine</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Amygdaline</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="tab4">
+      <label>Table 4</label>
+      <caption>
+        <p>Antibiotic resistance/sensitivity profile of isolated probiotic bacteria from black and green against different antibiotics.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Name of antibiotics</th>
+            <th align="center" rowspan="2" colspan="1">Resistance</th>
+            <th align="center" rowspan="2" colspan="1">Intermediate</th>
+            <th align="center" rowspan="2" colspan="1">Sensitive</th>
+            <th align="center" colspan="3" rowspan="1">Profiling pattern of antibiotics for the three isolates</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">Sensitivity %</th>
+            <th align="center" rowspan="1" colspan="1">Intermediate %</th>
+            <th align="center" rowspan="1" colspan="1">Resistance %</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">AMC</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;13</td>
+            <td align="center" rowspan="1" colspan="1">14-16</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;17</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">CN</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;12</td>
+            <td align="center" rowspan="1" colspan="1">13-14</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;15</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">S</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;11</td>
+            <td align="center" rowspan="1" colspan="1">12-14.5</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;15</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">TE</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;14</td>
+            <td align="center" rowspan="1" colspan="1">15-18</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;19</td>
+            <td align="center" rowspan="1" colspan="1">66.6</td>
+            <td align="center" rowspan="1" colspan="1">33.3</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">K</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;13</td>
+            <td align="center" rowspan="1" colspan="1">14-17</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;18</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">IMP</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;15</td>
+            <td align="center" rowspan="1" colspan="1">16-20</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;21</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">C</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;12</td>
+            <td align="center" rowspan="1" colspan="1">13-17</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;18</td>
+            <td align="center" rowspan="1" colspan="1">100</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">B</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;10</td>
+            <td align="center" rowspan="1" colspan="1">11-13.5</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;14</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+            <td align="center" rowspan="1" colspan="1">66.6</td>
+            <td align="center" rowspan="1" colspan="1">33.3</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">E</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;13</td>
+            <td align="center" rowspan="1" colspan="1">14-22</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;23</td>
+            <td align="center" rowspan="1" colspan="1">33.3</td>
+            <td align="center" rowspan="1" colspan="1">66.6</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">N</td>
+            <td align="center" rowspan="1" colspan="1">&#x2264;12</td>
+            <td align="center" rowspan="1" colspan="1">13-15</td>
+            <td align="center" rowspan="1" colspan="1">&#x2265;16</td>
+            <td align="center" rowspan="1" colspan="1">66.6</td>
+            <td align="center" rowspan="1" colspan="1">33.3</td>
+            <td align="center" rowspan="1" colspan="1">0</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>AMC: amoxicillin: CN: gentamicin; S: streptomycin; TE: tetracycline; K: kanamycin; IMP: imipenem; C: chloramphenicol; B: bacitracin; E: erythromycin; N: neomycin; <sup>&#x2217;</sup>All zones were measured in millimeters.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tab5">
+      <label>Table 5</label>
+      <caption>
+        <p>Tolerance of different concentrations of NaCl by isolated probiotic bacteria isolated from black and green olives.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Strains</th>
+            <th align="center" colspan="6" rowspan="1">Salt concentration</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">1%</th>
+            <th align="center" rowspan="1" colspan="1">3%</th>
+            <th align="center" rowspan="1" colspan="1">5%</th>
+            <th align="center" rowspan="1" colspan="1">7%</th>
+            <th align="center" rowspan="1" colspan="1">8%</th>
+            <th align="center" rowspan="1" colspan="1">9%</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactobacillus crispatus</italic> MB417</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactococcus lactis</italic> MB418</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Carnobacterium divergens</italic> MB421</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">++</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">+w</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+            <td align="center" rowspan="1" colspan="1">&#x2014;</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>++ = maximum growth; + = normal growth; +w = weak growth, - = negative growth.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tab6">
+      <label>Table 6</label>
+      <caption>
+        <p>Results for quantification of organic acid production by isolated probiotic bacteria from black and green olives.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Strains</th>
+            <th align="center" rowspan="2" colspan="1">Milk coagulation</th>
+            <th align="center" colspan="2" rowspan="1">Incubation time (24 hours)</th>
+            <th align="center" colspan="2" rowspan="1">Incubation time (48 hours)</th>
+            <th align="center" colspan="2" rowspan="1">Incubation time (72 hours)</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactobacillus crispatus</italic> MB417</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">6.09</td>
+            <td align="center" rowspan="1" colspan="1">1.126</td>
+            <td align="center" rowspan="1" colspan="1">4.54</td>
+            <td align="center" rowspan="1" colspan="1">7.208</td>
+            <td align="center" rowspan="1" colspan="1">4.35</td>
+            <td align="center" rowspan="1" colspan="1">10.812</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Lactococcus lactis</italic> MB418</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">4.96</td>
+            <td align="center" rowspan="1" colspan="1">5.406</td>
+            <td align="center" rowspan="1" colspan="1">5.52</td>
+            <td align="center" rowspan="1" colspan="1">3.604</td>
+            <td align="center" rowspan="1" colspan="1">5.45</td>
+            <td align="center" rowspan="1" colspan="1">2.703</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">
+<italic>Carnobacterium divergens</italic> MB421</td>
+            <td align="center" rowspan="1" colspan="1">+</td>
+            <td align="center" rowspan="1" colspan="1">6.07</td>
+            <td align="center" rowspan="1" colspan="1">1.802</td>
+            <td align="center" rowspan="1" colspan="1">4.53</td>
+            <td align="center" rowspan="1" colspan="1">5.406</td>
+            <td align="center" rowspan="1" colspan="1">4.26</td>
+            <td align="center" rowspan="1" colspan="1">9.01</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>+ = positive test result.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tab7">
+      <label>Table 7</label>
+      <caption>
+        <p>Determination of organic acid production in a brine of black and green olives through the course of time during the study period.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="2" colspan="1">Brine</th>
+            <th align="center" colspan="2" rowspan="1">At beginning</th>
+            <th align="center" colspan="2" rowspan="1">During middle</th>
+            <th align="center" colspan="2" rowspan="1">At end</th>
+          </tr>
+          <tr>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+            <th align="center" rowspan="1" colspan="1">pH</th>
+            <th align="center" rowspan="1" colspan="1">Organic acid (%)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Green olives</td>
+            <td align="center" rowspan="1" colspan="1">3.56</td>
+            <td align="center" rowspan="1" colspan="1">6.307</td>
+            <td align="center" rowspan="1" colspan="1">3.6</td>
+            <td align="center" rowspan="1" colspan="1">5.406</td>
+            <td align="center" rowspan="1" colspan="1">3.62</td>
+            <td align="center" rowspan="1" colspan="1">7.208</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Black olives</td>
+            <td align="center" rowspan="1" colspan="1">5.67</td>
+            <td align="center" rowspan="1" colspan="1">0.901</td>
+            <td align="center" rowspan="1" colspan="1">5.72</td>
+            <td align="center" rowspan="1" colspan="1">0.901</td>
+            <td align="center" rowspan="1" colspan="1">5.76</td>
+            <td align="center" rowspan="1" colspan="1">0.901</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

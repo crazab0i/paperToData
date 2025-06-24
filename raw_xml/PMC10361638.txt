@@ -1,0 +1,1826 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Braz J Med Biol Res</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Braz J Med Biol Res</journal-id>
+      <journal-id journal-id-type="publisher-id">bjmbr</journal-id>
+      <journal-title-group>
+        <journal-title>Brazilian Journal of Medical and Biological Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0100-879X</issn>
+      <issn pub-type="epub">1414-431X</issn>
+      <publisher>
+        <publisher-name>Associa&#xE7;&#xE3;o Brasileira de Divulga&#xE7;&#xE3;o Cient&#xED;fica</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37493775</article-id>
+      <article-id pub-id-type="pmc">10361638</article-id>
+      <article-id pub-id-type="other">00652</article-id>
+      <article-id pub-id-type="doi">10.1590/1414-431X2023e12938</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bioinformatics-based design of a fusion vaccine with CTLA-4 variable region to combat Brucella</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0003-4555-0911</contrib-id>
+          <name>
+            <surname>Guo</surname>
+            <given-names>W.H.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <xref rid="fn1" ref-type="author-notes">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6088-8991</contrib-id>
+          <name>
+            <surname>Zhu</surname>
+            <given-names>Y.J.</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <xref rid="fn1" ref-type="author-notes">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0000-3495-9971</contrib-id>
+          <name>
+            <surname>Haimiti</surname>
+            <given-names>G.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0005-0118-9815</contrib-id>
+          <name>
+            <surname>Xie</surname>
+            <given-names>X.R.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0002-0797-1742</contrib-id>
+          <name>
+            <surname>Niu</surname>
+            <given-names>C.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0005-3231-8341</contrib-id>
+          <name>
+            <surname>Li</surname>
+            <given-names>M.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0000-8719-6461</contrib-id>
+          <name>
+            <surname>Shi</surname>
+            <given-names>J.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0009-0002-4391-4200</contrib-id>
+          <name>
+            <surname>Yin</surname>
+            <given-names>Z.W.</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6046-2846</contrib-id>
+          <name>
+            <surname>Yu</surname>
+            <given-names>M.K.</given-names>
+          </name>
+          <xref rid="aff5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5506-7665</contrib-id>
+          <name>
+            <surname>Ding</surname>
+            <given-names>J.B.</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">3</xref>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5795-8672</contrib-id>
+          <name>
+            <surname>Zhang</surname>
+            <given-names>F.B.</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">3</xref>
+          <xref rid="aff4" ref-type="aff">4</xref>
+        </contrib>
+        <aff id="aff1">
+<label>1</label>The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, China</aff>
+        <aff id="aff2">
+<label>2</label>Department of Reproductive Assistance, Center for Reproductive Medicine, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, China</aff>
+        <aff id="aff3">
+<label>3</label>Department of Clinical Laboratory, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, Xinjiang, China</aff>
+        <aff id="aff4">
+<label>4</label>State Key Laboratory of Pathogenesis, Prevention, and Treatment of Central Asian High Incidence Diseases, The First Affiliated Hospital of Xinjiang Medical University, Urumqi, China</aff>
+        <aff id="aff5">
+<label>5</label>School of Life Science and Technology, Southeast University, Nanjing, China</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">Correspondence: F.B. Zhang: &lt;<email>765219598@qq.com&gt; | J.B. Ding &lt;1601379937@qq.com</email>&gt;</corresp>
+        <fn fn-type="equal" id="fn1">
+          <label>*</label>
+          <p>W.H. Guo and Y.J. Zhu contributed equally to this study.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>56</volume>
+      <elocation-id>e12938</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>16</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Brucellosis has become a global zoonotic disease, seriously endangering the health of people all over the world. Vaccination is an effective strategy for protection against <italic>Brucella</italic> infection in livestock in developed countries. However, current vaccines are pathogenic to humans and pregnant animals, which limits their use. Therefore, it is very important to improve the safety and immune protection of <italic>Brucella</italic> vaccine. In this study, different bioinformatics approaches were carried out to predict the physicochemical properties, T/B epitope, and tertiary structure of Omp2b and Omp31. Then, these two proteins were sequentially linked, and the Cytotoxic T lymphocyte associated antigen-4 (CTLA-4) variable region was fused to the N-terminal of the epitope sequence. In addition, molecular docking was performed to show that the structure of the fusion protein vaccine had strong affinity with B7 (B7-1, B7-2). This study showed that the designed vaccine containing CTLA-4 had high potency against <italic>Brucella</italic>, which could provide a reference for the future development of efficient brucellosis vaccines.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>CTLA-4 extracellular domain</kwd>
+        <kwd>Brucella</kwd>
+        <kwd>Bioinformatics approaches</kwd>
+        <kwd>Fusion vaccine</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="7"/>
+        <table-count count="6"/>
+        <equation-count count="0"/>
+        <ref-count count="33"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introduction</title>
+      <p>Brucellosis is a zoonotic infectious disease caused by <italic>Brucella</italic>, which mainly infects livestock (<xref rid="B01" ref-type="bibr">1</xref>). There are more than 500,000 new cases of brucellosis worldwide every year (<xref rid="B02" ref-type="bibr">2</xref>). Since 2000, brucellosis infection in China has rapidly spread from northern livestock areas to coastal and southeastern areas, showing a continuous upward trend (<xref rid="B03" ref-type="bibr">3</xref>). Symptoms of Brucella infection tend to be non-specific and include flu-like symptoms such as headache, joint pain, night sweats, fatigue, and anorexia, which is easily misdiagnosed as the common cold. If not treated in time, the course of disease can last several years, mainly manifested as arthritis, epididymal orchitis, neuro spondylitis, liver and spleen abscesses, and endocarditis; severe cases may die (<xref rid="B04" ref-type="bibr">4</xref>).</p>
+      <p>
+<italic>Brucella</italic> is a Gram-negative facultative intracellular parasite, which can be divided into many different species depending on host preference. Clinically, <italic>B. melitensis</italic>, <italic>B. abortus</italic>, and <italic>B. suis</italic> are of the greatest significance (<xref rid="B05" ref-type="bibr">5</xref>).</p>
+      <p>In view of the serious losses caused by brucellosis, many countries and regions in the world have formulated specific prevention, control, and eradication plans (<xref rid="B06" ref-type="bibr">6</xref>). In China, vaccination and eradication are the principles of comprehensive measures to prevent and control brucellosis. At present, the vaccines used for human brucellosis immunization mainly include 19-BA vaccine and 104M vaccine. The live attenuated vaccines used for animal brucellosis prevention and control include SL9, Rev. 1, RB5l, S2, and M5 (<xref rid="B07" ref-type="bibr">7</xref>). Although the current brucellosis vaccine plays a role in controlling the epidemic of brucellosis, there are a number of shortcomings with regard to short protection time, the serological test cannot distinguish immunity/infection, and virulence recovery (<xref rid="B08" ref-type="bibr">8</xref>). Therefore, a safe, stable, and efficient fusion vaccine must be designed. The screening, improvement, and verification of its effect have become the focus of brucellosis vaccine research.</p>
+      <p>Outer membrane proteins play an important role in bacterial differentiation, energy signal transmission, and material transport. They are the main components of biofilm function (<xref rid="B09" ref-type="bibr">9</xref>). Currently, some subunit proteins of <italic>Brucella</italic>, especially outer membrane proteins (Omps), such as Omp2b, Omp31, are candidates for vaccines (<xref rid="B10" ref-type="bibr">10</xref>,<xref rid="B11" ref-type="bibr">11</xref>). However, previous studies showed that vaccines constructed from a single protein stimulate poor immune responses and that multiple protein combinations enhance the vaccine's immune response. Therefore, the combination of Omp2b and Omp31 could be a good candidate to enhance the immune response against <italic>Brucella</italic>.</p>
+      <p>Cytotoxic T lymphocyte associated antigen-4 (CTLA-4) plays an important regulatory role in T-cell activation (<xref rid="B12" ref-type="bibr">12</xref>). Both B7-1 (CD80) and B7-2 (CD86) bind to CTLA4, which shares 30% homology with CD28 but has a 10 to 20 times greater binding affinity to the B7 molecules. CTLA-4 variable region (IgV_CTLA-4) can efficiently bind to B7 molecules on antigen-presenting cells (APCs), which can improve the affinity with APCs (<xref rid="B13" ref-type="bibr">13</xref>). Therefore, vaccines containing Omp2b, Omp31, and IgV_CTLA-4 can elicit good immune response by increasing antigen-presenting ability of APCs. In this study, a bioinformatics approach was used to predict the physical, chemical properties, structure, and the B-cell and T-cell antigenic epitopes of Omp2b and Omp31. A linker was used to connect the IgV_CTLA-4 with antigen epitopes to construct a fusion vaccine. Eventually, molecular docking and statistical analysis methods were used to assess the interaction between the fusion protein vaccine and human B7-1 and B7-2.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>Material and Methods</title>
+      <sec>
+        <title>Amino acid sequences of proteins</title>
+        <p>The GenBank online database was used to obtain the amino acid sequences of Omp2b, Omp31, and CTLA-4. GenBank is the NIH genetic sequence database (USA), an annotated collection of all publicly available DNA sequences [<ext-link xlink:href="https://www.ncbi.nlm.nih.gov/genbank/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/genbank/</ext-link>] (<xref rid="B14" ref-type="bibr">14</xref>).</p>
+      </sec>
+      <sec>
+        <title>Physicochemical parameters of proteins</title>
+        <p>The online software ProtParam (<ext-link xlink:href="http://web.expasy.org/protparam/" ext-link-type="uri">web.expasy.org/protparam/</ext-link>) was used to analyze the physicochemical parameters of Omp2b and Omp31 proteins, including atomic composition, molecular weight, theoretical isoelectric point (pI), polar charge, stability, hydrophobicity (the overall average value of the GRAVY range is between -2 and 2, and negative values represent hydrophilic proteins).</p>
+      </sec>
+      <sec>
+        <title>Prediction of signal peptide sequence of proteins</title>
+        <p>When the signal peptide sequence is synthesized, it is recognized by the signal recognition particle (SRP), and the protein synthesis is suspended or slowed down. The signal recognition particle carries the ribosome to the endoplasmic reticulum, and the protein synthesis starts again. Under the guidance of signal peptide, the newly synthesized protein enters the endoplasmic reticulum cavity, and the signal peptide sequence is removed under the action of signal peptidase. Therefore, it is necessary to exclude the signal peptide sequence when predicting T/B epitopes.</p>
+        <p>The online server signalP-5.0 (SignalP-5.0 - DTU Health Tech, Denmark) was used to analyze the signal peptide of proteins Omp2b and Omp31.</p>
+      </sec>
+      <sec>
+        <title>Prediction of transmembrane domains</title>
+        <p>The online server TMHMM (<ext-link xlink:href="http://www.cbs.dtu.dk/services/TMHMM-2.0/" ext-link-type="uri">www.cbs.dtu.dk/services/TMHMM-2.0/</ext-link>), which has been rated best in an independent comparison of programs for prediction of TM helices (<xref rid="B15" ref-type="bibr">15</xref>), was used to analyze the transmembrane domains of proteins Omp2b and Omp31.</p>
+      </sec>
+      <sec>
+        <title>Analysis of T-cell epitope of proteins</title>
+        <p>The vaccine exerts its immune effect mainly by producing antibodies, and the production of antibodies is mainly done by CD4+ T-cell cells. Therefore, only CD4+ T-cell epitopes need to be predicted. The MHC was called human leukocyte antigen (HLA) in humans, the HLA-DRB1*0701 (16.35%), HLA-DRB1*1501 (8.65%), and HLA-DRB1*0301 (7.69%) are the high frequency HLA alleles in Xinjiang, China (<xref rid="B16" ref-type="bibr">16</xref>), thus we selected the allele (the HLA-DRB1*0701) with the highest frequency as the prediction material, after removing the signal peptide sequence. The online software IEDB-MHCII (tools.iedb.org/mhcii/) was used for analyzing the T-cell epitopes of Omp2b and Omp31.</p>
+      </sec>
+      <sec>
+        <title>Analysis of B-cell epitope of proteins</title>
+        <p>After removing the signal peptide sequence, the antigen dominant epitopes of B-cells of Omp2b and Omp31 were analyzed by IEDB (<ext-link xlink:href="http://tools.iedb.org/bcell/" ext-link-type="uri">http://tools.iedb.org/bcell/</ext-link>). Epitopes with length of less than 5 units were excluded.</p>
+      </sec>
+      <sec>
+        <title>Tertiary structure prediction of the Omp2b and Omp31 proteins</title>
+        <p>The homology of all protein models found was less than 30% in the Omp2b and Omp31 proteins, and their amino acid length is more than 200 aa. We chose the online server Robetta (<ext-link xlink:href="https://robetta.bakerlab.org" ext-link-type="uri">https://robetta.bakerlab.org</ext-link>) to establish a model to analyze the tertiary structure of proteins Omp2b and Omp31. The online server first identifies structural templates from the PDB by the multiple threading approach LOMETS, with full-length atomic models constructed by iterative template-based fragment assembly simulations. Function insights of the target are then derived by re-threading the 3D models through protein function database BioLiP (<xref rid="B17" ref-type="bibr">17</xref>). Then, the online server SAVES v6.0 (<ext-link xlink:href="https://saves.mbi.ucla.edu/" ext-link-type="uri">https://saves.mbi.ucla.edu/</ext-link>) was used to evaluate the rationality of the predicted protein. In addition, we used the Discovery Studio (DS) software (a new molecular modeling environment for personal computer and professional molecular simulation software in life science) to edit its tertiary structure and mark its T/B epitope.</p>
+      </sec>
+      <sec>
+        <title>Analysis of epitope characteristics of the Omp2b-Omp31 fusion protein</title>
+        <sec>
+          <title>Amino acid sequence of the Omp2b-Omp31 fusion protein</title>
+          <p>The connection between Omp2b and Omp31 usually needs the help of connecting peptides to avoid mutual interference and affect the stability of the overall structure and function (<xref rid="B18" ref-type="bibr">18</xref>). Due to the stability of the secondary structure and the non-extensibility and bending characteristics, connecting peptides are often used to connect the distance between the two ends of the functional protein to ensure the integrity of the functional domain. At the same time, due to the controllable distance, the fusion protein can be adjusted to optimal activity and stability (<xref rid="B19" ref-type="bibr">19</xref>). Linker peptide refers to a segment of peptide existing between modules. Its length ranges from several to hundreds of amino acid residues (generally 5&#x223C;25). Common linker peptides can be divided into two categories: flexible and rigid (<xref rid="B20" ref-type="bibr">20</xref>). The most commonly used flexible linker peptide in fusion protein technology is the (GGGGS) n sequence proposed by Huston et al. (<xref rid="B21" ref-type="bibr">21</xref>). Therefore, Omp2b and Omp31 were connected by the linker (GGGGS)3 one by one.</p>
+        </sec>
+        <sec>
+          <title>Analysis of T-cell epitope of the Omp2b-Omp31 fusion protein</title>
+          <p>The method is the same as above. We used the online software IEDB-MHCII to analyze the T-cell epitopes. Finally, the T-cell epitopes of the fusion protein were compared with those of Omp2b and Omp31. We observed whether there were differences among them.</p>
+        </sec>
+        <sec>
+          <title>Analysis of B-cell epitope of the Omp2b-Omp31 fusion protein</title>
+          <p>The method is the same as above. We used the online software IEDB to analyze the B-cell epitopes. Finally, the B-cell epitopes of the fusion protein were compared with those of Omp2b and Omp31. We observed whether there were differences among them.</p>
+        </sec>
+        <sec>
+          <title>Tertiary structure prediction of the Omp2b-Omp31 fusion protein</title>
+          <p>Similarly, we established a model to analyze the tertiary structure of the protein Omp2b-Omp31. In addition, we used the DS software to edit its tertiary structure and mark its T/B epitope.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Analysis of epitope characteristics of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+        <sec>
+          <title>Amino acid sequence of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>CTLA-4 is involved in the transmission of immune signals as a transmembrane receptor on T lymphocytes. CTLA-4 and ligand B7 on the surface of APCs are a pair of synergistic costimulatory signals, which play a regulatory role in the activation of T-cells (<xref rid="B22" ref-type="bibr">22</xref>). Based on previous research, we used Pet30a (+) skeleton structure to simulate the linker sequence. Between CTLA-4 and protein Omp2b-Omp31, there are 16 amino acids (GTDDDDKAMADIGSEF), which is part of Pet30a (+). In this way, we ensured that the two proteins before and after fusion could fold correctly against the interference of steric hindrance.</p>
+        </sec>
+        <sec>
+          <title>Analysis of T-cell epitope of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>We used the online software IEDB-MHCII to analyze the T-cell epitopes. Finally, the T-cell epitopes of the fusion protein were compared with those of Omp2b, Omp31, and Omp2b-Omp31, and differences among them were recorded.</p>
+        </sec>
+        <sec>
+          <title>Analysis of B-cell epitope of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>We used the online software IEDB to analyze the T-cell epitopes. Finally, the B-cell epitopes of the fusion protein were compared with those of Omp2b, Omp31, and Omp2b-Omp31, and differences among them were recorded.</p>
+        </sec>
+        <sec>
+          <title>Tertiary structure prediction of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>In the same way, we established a model to analyze the tertiary structure of the protein IgV_CTLA-4-Omp2b-Omp31. In addition, we used the DS software to edit its tertiary structure and mark its T/B epitope.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Molecular docking</title>
+        <p>In order to analyze the interaction between <italic>Brucella</italic> fusion protein vaccine and human B7-1 and B7-2, 3D models of B7-1 (PDB ID 1DR9) and B7-2 (PDB ID 1NCN) were searched using the Protein Data Bank (PDB) (<ext-link xlink:href="https://www.rcsb.org/" ext-link-type="uri">https://www.rcsb.org/</ext-link>). Then, we used the DS software to isolate the compounds and obtain the final mode since most of the results were compounds.</p>
+        <p>We used the ClusPro server (<ext-link xlink:href="https://cluspro.org" ext-link-type="uri">https://cluspro.org</ext-link>), a widely used tool for protein-protein docking, to dock Omp2b-Omp31 and IgV_CTLA-4-Omp2b-Omp31 with B7-1 and B7-2 molecules. The advantage of the software is that it can offer a number of advanced options to modify the search that include the removal of unstructured protein regions, applying attraction or repulsion, accounting for pairwise distance restraints, considering small angle X-ray scattering (SAXS) data, and finding heparin binding sites (<xref rid="B23" ref-type="bibr">23</xref>).</p>
+        <p>Finally, the results (the lower the score, the stronger the affinity) were statistically analyzed by GraphPad Prism 9 software (USA) to assess differences in scores and to determine whether the affinity was stronger with the addition of a variable region than without the addition of a variable region.</p>
+      </sec>
+      <sec>
+        <title>
+<italic>In-silico</italic> immune simulation</title>
+        <p>C-ImmSim (<ext-link xlink:href="https://kraken.iac.rm.cnr.it/C-IMMSIM/" ext-link-type="uri">https://kraken.iac.rm.cnr.it/C-IMMSIM/</ext-link>) server was used to simulate the host immune system in response to the vaccine antigen (<xref rid="B24" ref-type="bibr">24</xref>). In mammals, 3 injections are given with an interval of 4 weeks apart, and the injection time steps are 1, 84, and 168, respectively (<xref rid="B25" ref-type="bibr">25</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Amino acid sequence of proteins</title>
+        <p>The GenBank accession number of the Omp2b protein is AMM72579 and version AMM72579.1, with a total length of 362 amino acids. The amino acid sequence of the Omp2b protein is MNIKSLLLGSAAALVAASGAQAADAIVAPEPEAVEYVRVCDAYGAGYFYIPGTETCLRVHGYVRYDVKGGDDVYSGTDRNGWDKGARFALRVSTGSETELGTLKTFTELRFNYAANNSGVDGKYGNETSSGTVMEFAYIQLGGLRVGIDESEFHTFTGYLGDVINDDVISAGSYRTGKIAYTFTGGNGFSAVIALEQGGDNDGGYTGTTNYHIDGYMPDVVGGLKYAGGWGSIAGVVAYDSVIEEWAAKVRGDVNITDQFSVWLQGAYSSAATPDQNYGQWGGDWAVWGGLKYQATQKAAFNLQAAHDDWGKTAVTANVAYELVPGFTVTPEVSYTKFGGEWKNTVAEDNAWGGIVRFQRSF.</p>
+        <p>The GenBank accession number of the Omp31 protein is AAS84567 and version AAS84567.1, with a total length of 240 amino acids. The amino acid sequence of the Omp31 protein is MKSVILASIAAMFATSAMAADVVVSEPSAPTAAPVDTFSWTGGYIGINAGYAGGKFKHPFSSFDKEDNEQVSGSLDVTAGGFVGGVQAGYNWQLDNGVVLGAETDFQGSSVTGSISAGASGLEGKAETKVEWFGTVRARLGYTATERLMVYGTGGLAYGKVKSAFNLGDDASALHTWSDKTKAGWTLGAGAEYAINNNWTLKSEYLYTDLGKRNLVDVDNSFLESKVNFHTVRVGLNYKF.</p>
+        <p>The GenBank accession number of the CTLA-4 is P16410 and version P16410.3, with a total length of 223 amino acids. The amino acid sequence of CTLA-4 is MACLGFQRHKAQLNLATRTWPCTLLFFLLFIPVFCKAMHVAQPAVVLASSRGIASFVCEYASPGKATEVRVTVLRQADSQVTEVCAATYMMGNELTFLDDSICTGTSSGNQVNLTIQGLRAMDTGLYICKVELMYPPPYYLGIGNGTQIYVIDPEPCPDSDFLLWILAAVSSGLFFYSFLLTAVSLSKMLKKRSPLTTGVYVKMPPTEPECEKQFQPYFIPIN. Among them, the range of variable area (IgV_CTLA-4) is 39~152, its sequence is HVAQPAVVLASSRGIASFVCEYASPGKATEVRVTVLRQADSQVTEVCAATYMMGNELTFLDDSICTGTSSGNQVNLTIQGLRAMDTGLYICKVELMYPPPYYLGIGNGTQIYVI.</p>
+      </sec>
+      <sec>
+        <title>Physicochemical parameters of proteins</title>
+        <p>The Omp2b protein is composed of 362 amino acids. The molecular weight is 38,676.57, the theoretical pI is 4.58, and the chemical molecular formula is C1734H2578N456O544S5. The instability index (II) is 23.54. This classifies the protein as stable. The grand average of hydrophobicity (GRAVY) is -0.200, indicating hydrophilicity.</p>
+        <p>The Omp31 protein is composed of 240 amino acids. The molecular weight is 25,323.20, the theoretical pI is 5.22, and the chemical molecular formula is C1135H1725N297O354S4. The instability index (II) is 8.61. This classifies the protein as stable. The grand average of hydrophobicity (GRAVY) is -0.091, indicating hydrophilicity.</p>
+      </sec>
+      <sec>
+        <title>Signal peptide of proteins</title>
+        <p>The probability of signal peptide of Omp2b is 99.854%, and the type of signal peptide is SP (SEC/SPI). The cleavage site is 22-23 and probability is 85.780%. The signal peptide sequence is MNIKSLLGSAAALVAASGAQA. The probability of signal peptide of Omp31 is 99.928%, and the type of signal peptide is SP (SEC/SPI). The cleavage site is 19-20 and probability is 92.130%. The signal peptide sequence is MKSVILASIAAMFATSAMA (<xref rid="f01" ref-type="fig">Figure 1</xref>).</p>
+        <fig position="float" id="f01">
+          <label>Figure 1</label>
+          <caption>
+            <title>Prediction of Omp2b signal peptide (<bold>A</bold>) and of Omp31 signal peptide (<bold>B</bold>).</title>
+          </caption>
+          <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Transmembrane domains</title>
+        <p>The online software TMHMM showed that both the Omp2b and Omp31 proteins did not have transmembrane domains (<xref rid="f02" ref-type="fig">Figure 2</xref>).</p>
+        <fig position="float" id="f02">
+          <label>Figure 2</label>
+          <caption>
+            <title>Prediction of extracellular domain. Prediction of Omp2b (<bold>A</bold>) and of Omp31 (<bold>B</bold>). As shown, Omp2b and Omp31 have no transmembrane region.</title>
+          </caption>
+          <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Analysis of T-cell and B-cell epitopes of proteins</title>
+        <p>The results of CD4+ T-cell epitopes of proteins Omp2b and Omp31 (signal peptide sequence removed) are shown in <xref rid="t01" ref-type="table">Table 1</xref>.</p>
+        <table-wrap position="float" id="t01">
+          <label>Table 1</label>
+          <caption>
+            <title>Predicted T epitopes of Omp2b proteins and Omp31 proteins.</title>
+          </caption>
+          <table frame="hsides" rules="groups" width="center">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+              <tr>
+                <th align="left" rowspan="1" colspan="1"/>
+                <th align="center" colspan="3" rowspan="1">Predicted T epitopes of Omp2b proteins</th>
+              </tr>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Allele</th>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">199</td>
+                <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                <td align="center" rowspan="1" colspan="1">2.40</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">200</td>
+                <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                <td align="center" rowspan="1" colspan="1">2.50</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">202</td>
+                <td align="center" rowspan="1" colspan="1">DGGYTGTTNYHIDGY</td>
+                <td align="center" rowspan="1" colspan="1">2.60</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">203</td>
+                <td align="center" rowspan="1" colspan="1">GGYTGTTNYHIDGYM</td>
+                <td align="center" rowspan="1" colspan="1">2.60</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">201</td>
+                <td align="center" rowspan="1" colspan="1">NDGGYTGTTNYHIDG</td>
+                <td align="center" rowspan="1" colspan="1">2.70</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">316</td>
+                <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                <td align="center" rowspan="1" colspan="1">4.40</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">315</td>
+                <td align="center" rowspan="1" colspan="1">VTANVAYELVPGFTV</td>
+                <td align="center" rowspan="1" colspan="1">4.40</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">317</td>
+                <td align="center" rowspan="1" colspan="1">ANVAYELVPGFTVTP</td>
+                <td align="center" rowspan="1" colspan="1">4.50</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">318</td>
+                <td align="center" rowspan="1" colspan="1">NVAYELVPGFTVTPE</td>
+                <td align="center" rowspan="1" colspan="1">4.60</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">319</td>
+                <td align="center" rowspan="1" colspan="1">VAYELVPGFTVTPEV</td>
+                <td align="center" rowspan="1" colspan="1">4.70</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" colspan="3" rowspan="1">
+<bold>Predicted T epitopes of Omp31 proteins</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Allele</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>Percentile rank</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">158</td>
+                <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                <td align="center" rowspan="1" colspan="1">1.70</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">160</td>
+                <td align="center" rowspan="1" colspan="1">ARLGYTATERLMVYG</td>
+                <td align="center" rowspan="1" colspan="1">2.10</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">150</td>
+                <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                <td align="center" rowspan="1" colspan="1">2.10</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">149</td>
+                <td align="center" rowspan="1" colspan="1">ETKVEWFGTVRARLG</td>
+                <td align="center" rowspan="1" colspan="1">2.40</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">151</td>
+                <td align="center" rowspan="1" colspan="1">KVEWFGTVRARLGYT</td>
+                <td align="center" rowspan="1" colspan="1">2.50</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">157</td>
+                <td align="center" rowspan="1" colspan="1">TVRARLGYTATERLM</td>
+                <td align="center" rowspan="1" colspan="1">2.50</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">156</td>
+                <td align="center" rowspan="1" colspan="1">GTVRARLGYTATERL</td>
+                <td align="center" rowspan="1" colspan="1">2.70</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">152</td>
+                <td align="center" rowspan="1" colspan="1">VEWFGTVRARLGYTA</td>
+                <td align="center" rowspan="1" colspan="1">3.10</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                <td align="center" rowspan="1" colspan="1">161</td>
+                <td align="center" rowspan="1" colspan="1">RLGYTATERLMVYGT</td>
+                <td align="center" rowspan="1" colspan="1">3.80</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The results of B-cell epitopes of proteins Omp2b and Omp31 (signal peptide sequence removed) are shown in <xref rid="t02" ref-type="table">Table 2</xref>.</p>
+        <table-wrap position="float" id="t02">
+          <label>Table 2</label>
+          <caption>
+            <title>Predicted B epitopes of Omp2b proteins and Omp31 proteins.</title>
+          </caption>
+          <table frame="hsides" rules="groups" width="center">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+              <tr>
+                <th align="left" rowspan="1" colspan="1"/>
+                <th align="center" colspan="3" rowspan="1">Predicted B epitopes of Omp2b proteins</th>
+              </tr>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Start</th>
+                <th align="center" rowspan="1" colspan="1">End</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Length</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">27</td>
+                <td align="center" rowspan="1" colspan="1">33</td>
+                <td align="center" rowspan="1" colspan="1">VAPEPEA</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">70</td>
+                <td align="center" rowspan="1" colspan="1">84</td>
+                <td align="center" rowspan="1" colspan="1">GDDVYSGTDRNGWDK</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">115</td>
+                <td align="center" rowspan="1" colspan="1">130</td>
+                <td align="center" rowspan="1" colspan="1">ANNSGVDGKYGNETSS</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">158</td>
+                <td align="center" rowspan="1" colspan="1">173</td>
+                <td align="center" rowspan="1" colspan="1">GYLGDVINDDVISAGS</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">199</td>
+                <td align="center" rowspan="1" colspan="1">216</td>
+                <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">255</td>
+                <td align="center" rowspan="1" colspan="1">259</td>
+                <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">265</td>
+                <td align="center" rowspan="1" colspan="1">285</td>
+                <td align="center" rowspan="1" colspan="1">AATPDQNYGQWGGDW</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">293</td>
+                <td align="center" rowspan="1" colspan="1">298</td>
+                <td align="center" rowspan="1" colspan="1">YQATQK</td>
+                <td align="center" rowspan="1" colspan="1">6</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">308</td>
+                <td align="center" rowspan="1" colspan="1">312</td>
+                <td align="center" rowspan="1" colspan="1">DDWGK</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">339</td>
+                <td align="center" rowspan="1" colspan="1">350</td>
+                <td align="center" rowspan="1" colspan="1">GGEWKNTVAEDN</td>
+                <td align="center" rowspan="1" colspan="1">12</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" colspan="3" rowspan="1">
+<bold>Predicted B epitopes of Omp31 proteins</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Start</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>End</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                <td align="center" rowspan="1" colspan="1">
+<bold>Length</bold>
+</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">45</td>
+                <td align="center" rowspan="1" colspan="1">61</td>
+                <td align="center" rowspan="1" colspan="1">VVSEPSAPTAAPVDTFS</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">73</td>
+                <td align="center" rowspan="1" colspan="1">102</td>
+                <td align="center" rowspan="1" colspan="1">YAGGKFKPFSSDKEDNEQVSGSLDVTAG</td>
+                <td align="center" rowspan="1" colspan="1">30</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">112</td>
+                <td align="center" rowspan="1" colspan="1">118</td>
+                <td align="center" rowspan="1" colspan="1">YNWQLDN</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">128</td>
+                <td align="center" rowspan="1" colspan="1">150</td>
+                <td align="center" rowspan="1" colspan="1">FQGSSVTGSISAGASGLEGKAET</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">182</td>
+                <td align="center" rowspan="1" colspan="1">204</td>
+                <td align="center" rowspan="1" colspan="1">KVKSAFNLGDDASALHTWSDKTK</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">226</td>
+                <td align="center" rowspan="1" colspan="1">252</td>
+                <td align="center" rowspan="1" colspan="1">EYLYTDLGKRNLVDVDNSFLESKVNFH</td>
+                <td align="center" rowspan="1" colspan="1">27</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Tertiary structure prediction of the Omp2b and Omp31 proteins</title>
+        <p>All the protein molecular models were clearly viewed by the software DS. T epitope is shown in purple and B epitope is shown in yellow. We also plotted a Ramachandran plot to evaluate the rationality of structure (<xref rid="f03" ref-type="fig">Figure 3</xref>).</p>
+        <fig position="float" id="f03">
+          <label>Figure 3</label>
+          <caption>
+            <title>Predicted tertiary structures of Omp2b (<bold>A</bold>) and of Omp31 (<bold>B</bold>). On the left, the tertiary structure of the protein and on the right, the Ramachandran plot. The figure shows that the tertiary structures are reasonable.</title>
+          </caption>
+          <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf003" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Analysis of epitope characteristics of the Omp2b-Omp31 fusion protein</title>
+        <sec>
+          <title>Amino acid sequence of the Omp2b-Omp31 fusion protein</title>
+          <p>The author used the linker GGGGS (<xref rid="B03" ref-type="bibr">3</xref>) to connect the two proteins, named Omp2b-Omp31, as shown in <xref rid="f04" ref-type="fig">Figure 4</xref>. Its sequence is MNIKSLLLGSAAALVAASGAQAADAIVAPEPEAVEYVRVCDAYGAGYFYIPGTETCLRVHGYVRYDVKGGDDVYSGTDRNGWDKGARFALRVSTGSETELGTLKTFTELRFNYAANNSGVDGKYGNETSSGTVMEFAYIQLGGLRVGIDESEFHTFTGYLGDVINDDVISAGSYRTGKIAYTFTGGNGFSAVIALEQGGDNDGGYTGTTNYHIDGYMPDVVGGLKYAGGWGSIAGVVAYDSVIEEWAAKVRGDVNITDQFSVWLQGAYSSAATPDQNYGQWGGDWAVWGGLKYQATQKAAFNLQAAHDDWGKTAVTANVAYELVPGFTVTPEVSYTKFGGEWKNTVAEDNAWGGIVRFQRSFGGGGSGGGGSGGGGSMKSVILASIAAMFATSAMAADVVVSEPSAPTAAPVDTFSWTGGYIGINAGYAGGKFKHPFSSFDKEDNEQVSGSLDVTAGGFVGGVQAGYNWQLDNGVVLGAETDFQGSSVTGSISAGASGLEGKAETKVEWFGTVRARLGYTATERLMVYGTGGLAYGKVKSAFNLGDDASALHTWSDKTKAGWTLGAGAEYAINNNWTLKSEYLYTDLGKRNLVDVDNSFLESKVNFHTVRVGLNYKF.</p>
+          <fig position="float" id="f04">
+            <label>Figure 4</label>
+            <caption>
+              <title>
+<bold>A</bold>, Process of fusion between Omp2b and Omp31 with linker. On the right, the arrow indicates the fusion result. <bold>B</bold>, Predicted tertiary structures of Omp2b-Omp31. The T epitope is shown in purple and the B epitope in yellow. <bold>C</bold>, Ramachandran plot. The figure shows that the tertiary structure is reasonable.</title>
+            </caption>
+            <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf004" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Analysis of T-cell epitope of the Omp2b-Omp31 fusion protein</title>
+          <p>The results of CD4+ T-cell epitopes of protein Omp2b-Omp31 fusion protein (signal peptide sequence removed) are shown in <xref rid="t03" ref-type="table">Table 3</xref>. By analyzing <xref rid="t03" ref-type="table">Table 3</xref>, we found that the epitopes are basically the same.</p>
+          <table-wrap position="float" id="t03">
+            <label>Table 3</label>
+            <caption>
+              <title>Predicted T epitopes of Omp2b-Omp31 proteins and comparison with T epitopes of Omp2b and Omp31.</title>
+            </caption>
+            <table frame="hsides" rules="groups" width="center">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+                <tr>
+                  <th align="center" colspan="3" rowspan="1">Omp2b</th>
+                  <th align="center" colspan="3" rowspan="1">Omp2b-Omp31</th>
+                </tr>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">199</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                  <td align="center" rowspan="1" colspan="1">2.40</td>
+                  <td align="center" rowspan="1" colspan="1">199</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                  <td align="center" rowspan="1" colspan="1">2.40</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">200</td>
+                  <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                  <td align="center" rowspan="1" colspan="1">2.50</td>
+                  <td align="center" rowspan="1" colspan="1">200</td>
+                  <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                  <td align="center" rowspan="1" colspan="1">2.50</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">316</td>
+                  <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                  <td align="center" rowspan="1" colspan="1">4.40</td>
+                  <td align="center" rowspan="1" colspan="1">316</td>
+                  <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                  <td align="center" rowspan="1" colspan="1">4.40</td>
+                </tr>
+                <tr>
+                  <td align="center" colspan="3" rowspan="1">
+<bold>Omp31</bold>
+</td>
+                  <td align="center" colspan="3" rowspan="1">
+<bold>Omp2b-Omp31</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Percentile rank</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Percentile rank</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">159</td>
+                  <td align="center" rowspan="1" colspan="1">RARLGYTATERLMVY</td>
+                  <td align="center" rowspan="1" colspan="1">1.60</td>
+                  <td align="center" rowspan="1" colspan="1">514</td>
+                  <td align="center" rowspan="1" colspan="1">RARLGYTATERLMVY</td>
+                  <td align="center" rowspan="1" colspan="1">1.60</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">158</td>
+                  <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                  <td align="center" rowspan="1" colspan="1">1.70</td>
+                  <td align="center" rowspan="1" colspan="1">513</td>
+                  <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                  <td align="center" rowspan="1" colspan="1">1.70</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">160</td>
+                  <td align="center" rowspan="1" colspan="1">ARLGYTATERLMVYG</td>
+                  <td align="center" rowspan="1" colspan="1">2.10</td>
+                  <td align="center" rowspan="1" colspan="1">515</td>
+                  <td align="center" rowspan="1" colspan="1">ARLGYTATERLMVYG</td>
+                  <td align="center" rowspan="1" colspan="1">2.10</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">150</td>
+                  <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                  <td align="center" rowspan="1" colspan="1">2.10</td>
+                  <td align="center" rowspan="1" colspan="1">505</td>
+                  <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                  <td align="center" rowspan="1" colspan="1">2.10</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>Analysis of B-cell epitope of the Omp2b-Omp31 fusion protein</title>
+          <p>The results of B-cell epitopes of protein Omp2b-Omp31 fusion protein (signal peptide sequence removed) are shown in <xref rid="t04" ref-type="table">Table 4</xref>, which indicate that the epitopes are basically the same.</p>
+          <table-wrap position="float" id="t04">
+            <label>Table 4</label>
+            <caption>
+              <title>Predicted B epitopes of Omp2b-Omp31 proteins and comparison with B epitopes of Omp2b and Omp31.</title>
+            </caption>
+            <table frame="hsides" rules="groups" width="center">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+                <tr>
+                  <th align="center" colspan="3" rowspan="1">Omp2b</th>
+                  <th align="center" colspan="3" rowspan="1">Omp2b-Omp31</th>
+                </tr>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">27</td>
+                  <td align="center" rowspan="1" colspan="1">VAPEPEA</td>
+                  <td align="center" rowspan="1" colspan="1">7</td>
+                  <td align="center" rowspan="1" colspan="1">27</td>
+                  <td align="center" rowspan="1" colspan="1">VAPEPEA</td>
+                  <td align="center" rowspan="1" colspan="1">7</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">199</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                  <td align="center" rowspan="1" colspan="1">18</td>
+                  <td align="center" rowspan="1" colspan="1">199</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                  <td align="center" rowspan="1" colspan="1">18</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">255</td>
+                  <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                  <td align="center" rowspan="1" colspan="1">5</td>
+                  <td align="center" rowspan="1" colspan="1">255</td>
+                  <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                  <td align="center" rowspan="1" colspan="1">5</td>
+                </tr>
+                <tr>
+                  <td align="center" colspan="3" rowspan="1">
+<bold>Omp31</bold>
+</td>
+                  <td align="center" colspan="3" rowspan="1">
+<bold>Omp2b-Omp31</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Percentile rank</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Percentile rank</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">45</td>
+                  <td align="center" rowspan="1" colspan="1">VVSEPSAPTAAPVDTFS</td>
+                  <td align="center" rowspan="1" colspan="1">17</td>
+                  <td align="center" rowspan="1" colspan="1">397</td>
+                  <td align="center" rowspan="1" colspan="1">ADVVVSEPSAPTAAPVDTFS</td>
+                  <td align="center" rowspan="1" colspan="1">20</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">73</td>
+                  <td align="center" rowspan="1" colspan="1">YAGGKFKHPFSSFDKEDNEQVSGSLDVTAG</td>
+                  <td align="center" rowspan="1" colspan="1">30</td>
+                  <td align="center" rowspan="1" colspan="1">429</td>
+                  <td align="center" rowspan="1" colspan="1">AGGKFKHPFSSFDKEDNEQVSGSLDVTAG</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">182</td>
+                  <td align="center" rowspan="1" colspan="1">KVKSAFNLGDDASALHTWSDKTK</td>
+                  <td align="center" rowspan="1" colspan="1">23</td>
+                  <td align="center" rowspan="1" colspan="1">539</td>
+                  <td align="center" rowspan="1" colspan="1">KSAFNLGDDASALHTWSDKTK</td>
+                  <td align="center" rowspan="1" colspan="1">21</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>Tertiary structure prediction of the Omp2b-Omp31 fusion protein</title>
+          <p>All the protein molecular models were viewed by software DS clearly. T epitope is shown in purple and B epitope is shown in yellow. We also plotted a Ramachandran plot to evaluate the rationality of structure (<xref rid="f04" ref-type="fig">Figure 4</xref>).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Analysis of epitope characteristics of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+        <sec>
+          <title>The amino acid sequence of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>Through fusion, we obtained the sequence of fusion protein IgV_CTLA-4-Omp2b-Omp31 as shown in <xref rid="f05" ref-type="fig">Figure 5:</xref> RFALRVSTGSETELGTLKTFTELRFNYAANNSGVDGKYGNETSSGTVMEFAYIQLGGLRVGIDESEFHTFTGYLGDVINDDVISAGSYRTGKIAYTFTGGNGFSAVIALEQGGDNDGGYTGTTNYHIDGYMPDVVGGLKYAGGWGSIAGVVAYDSVIEEWAAKVRGDVNITDQFSVWLQGAYSSAATPDQNYGQWGGDWAVWGGLKYQATQKAAFNLQAAHDDWGKTAVTANVAYELVPGFTVTPEVSYTKFGGEWKNTVAEDNAWGGIVRFQRSFGGGGSGGGGSGGGGSMKSVILASIAAMFATSAMAADVVVSEPSAPTAAPVDTFSWTGGYIGINAGYAGGKFKHPFSSFDKEDNEQVSGSLDVTAGGFVGGVQAGYNWQLDNGVVLGAETDFQGSSVTGSISAGASGLEGKAETKVEWFGTVRARLGYTATERLMVYGTGGLAYGKVKSAFNLGDDASALHTWSDKTKAGWTLGAGAEYAINNNWTLKSEYLYTDLGKRNLVDVDNSFLESKVNFHTVRVGLNYKF.</p>
+          <fig position="float" id="f05">
+            <label>Figure 5</label>
+            <caption>
+              <title>
+<bold>A</bold>, The process of fusion of Omp2b-Omp31and IgV_CTLA-4 with linker. On the right, the arrow indicates the fusion result. <bold>B</bold>, Predicted tertiary structures of IgV_CTLA-4-Omp2b-Omp31. The T epitope is shown in purple and the B epitope in yellow. <bold>C</bold>, Ramachandran plot. The figure shows that the tertiary structure is reasonable.</title>
+            </caption>
+            <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf005" position="float"/>
+          </fig>
+        </sec>
+        <sec>
+          <title>Analysis of T-cell epitope of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>The results of CD4+ T-cell epitopes of Omp2b-Omp31 fusion protein (signal peptide sequence removed) are shown in <xref rid="t05" ref-type="table">Table 5</xref>, which indicate that the epitopes are basically the same.</p>
+          <table-wrap position="float" id="t05">
+            <label>Table 5</label>
+            <caption>
+              <title>Predicted T epitopes of IgV_CTLA-4-Omp2b-Omp31 proteins and comparison with T epitopes of Omp2b, Omp31, and Omp2b-Omp31.</title>
+            </caption>
+            <table frame="hsides" rules="groups" width="center">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+                <tr>
+                  <th align="center" colspan="2" rowspan="1">Omp2b</th>
+                  <th align="center" colspan="2" rowspan="1">Omp2b-Omp31</th>
+                  <th align="center" colspan="2" rowspan="1">IgV_CTLA-4-Omp2b-Omp31</th>
+                </tr>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">177</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                  <td align="center" rowspan="1" colspan="1">177</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                  <td align="center" rowspan="1" colspan="1">329</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHI</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">178</td>
+                  <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                  <td align="center" rowspan="1" colspan="1">178</td>
+                  <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                  <td align="center" rowspan="1" colspan="1">330</td>
+                  <td align="center" rowspan="1" colspan="1">DNDGGYTGTTNYHID</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">294</td>
+                  <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                  <td align="center" rowspan="1" colspan="1">294</td>
+                  <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                  <td align="center" rowspan="1" colspan="1">446</td>
+                  <td align="center" rowspan="1" colspan="1">TANVAYELVPGFTVT</td>
+                </tr>
+                <tr>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>Omp31</bold>
+</td>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>Omp2b-Omp31</bold>
+</td>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>IgV_CTLA-4-Omp2b-Omp31</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">118</td>
+                  <td align="center" rowspan="1" colspan="1">RARLGYTATERLMVY</td>
+                  <td align="center" rowspan="1" colspan="1">473</td>
+                  <td align="center" rowspan="1" colspan="1">RARLGYTATERLMVY</td>
+                  <td align="center" rowspan="1" colspan="1">644</td>
+                  <td align="center" rowspan="1" colspan="1">RARLGYTATERLMVY</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">117</td>
+                  <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                  <td align="center" rowspan="1" colspan="1">472</td>
+                  <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                  <td align="center" rowspan="1" colspan="1">643</td>
+                  <td align="center" rowspan="1" colspan="1">VRARLGYTATERLMV</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">109</td>
+                  <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                  <td align="center" rowspan="1" colspan="1">464</td>
+                  <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                  <td align="center" rowspan="1" colspan="1">635</td>
+                  <td align="center" rowspan="1" colspan="1">TKVEWFGTVRARLGY</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>Analysis of B-cell epitope of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>The results of B-cell epitopes of IgV_CTLA-4-Omp2b-Omp31 fusion protein (signal peptide sequence removed) are shown in <xref rid="t06" ref-type="table">Table 6</xref>, which indicate that that the epitopes are basically the same.</p>
+          <table-wrap position="float" id="t06">
+            <label>Table 6</label>
+            <caption>
+              <title>Predicted B epitopes of IgV_CTLA-4-Omp2b-Omp31 proteins and comparison with B epitopes of Omp2b, Omp31, and Omp2b-Omp31.</title>
+            </caption>
+            <table frame="hsides" rules="groups" width="center">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+                <col align="center" span="1"/>
+              </colgroup>
+              <thead style="border-bottom: thin solid; border-top: thin solid; border-color: #000000">
+                <tr>
+                  <th align="center" colspan="2" rowspan="1">Omp2b</th>
+                  <th align="center" colspan="2" rowspan="1">Omp2b-Omp31</th>
+                  <th align="center" colspan="2" rowspan="1">IgV_CTLA-4-Omp2b-Omp31</th>
+                </tr>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                  <th align="center" rowspan="1" colspan="1">Position</th>
+                  <th align="center" rowspan="1" colspan="1">Sequence</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">177</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                  <td align="center" rowspan="1" colspan="1">177</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                  <td align="center" rowspan="1" colspan="1">329</td>
+                  <td align="center" rowspan="1" colspan="1">GDNDGGYTGTTNYHIDGY</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">233</td>
+                  <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                  <td align="center" rowspan="1" colspan="1">233</td>
+                  <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                  <td align="center" rowspan="1" colspan="1">385</td>
+                  <td align="center" rowspan="1" colspan="1">NITDQ</td>
+                </tr>
+                <tr>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>Omp31</bold>
+</td>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>Omp2b-Omp31</bold>
+</td>
+                  <td align="center" colspan="2" rowspan="1">
+<bold>IgV_CTLA-4-Omp2b-Omp31</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Position</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<bold>Sequence</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">4</td>
+                  <td align="center" rowspan="1" colspan="1">VVSEPSAPTAAPVDTFS</td>
+                  <td align="center" rowspan="1" colspan="1">356</td>
+                  <td align="center" rowspan="1" colspan="1">ADVVVSEPSAPTAAPVDTFS</td>
+                  <td align="center" rowspan="1" colspan="1">529</td>
+                  <td align="center" rowspan="1" colspan="1">VVSEPSAPTAAPVDTFS</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">32</td>
+                  <td align="center" rowspan="1" colspan="1">YAGGKFKHPFSSFDKEDNEQVSGSLDVTAG</td>
+                  <td align="center" rowspan="1" colspan="1">388</td>
+                  <td align="center" rowspan="1" colspan="1">AGGKFKHPFSSFDKEDNEQVSGSLDVTAG</td>
+                  <td align="center" rowspan="1" colspan="1">559</td>
+                  <td align="center" rowspan="1" colspan="1">AGGKFKHPFSSFDKEDNEQVSGSLDVTAG</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">141</td>
+                  <td align="center" rowspan="1" colspan="1">KVKSAFNLGDDASALHTWSDKTK</td>
+                  <td align="center" rowspan="1" colspan="1">498</td>
+                  <td align="center" rowspan="1" colspan="1">KSAFNLGDDASALHTWSDKTK</td>
+                  <td align="center" rowspan="1" colspan="1">669</td>
+                  <td align="center" rowspan="1" colspan="1">KSAFNLGDDASALHTWSDKTK</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec>
+          <title>Tertiary structure prediction of the IgV_CTLA-4-Omp2b-Omp31 fusion protein</title>
+          <p>With the same method as above, we obtained the tertiary structure of the IgV_CTLA-4-Omp2b-Omp31 fusion protein and the Ramachandran plot (<xref rid="f05" ref-type="fig">Figure 5</xref>). By comparing the tertiary structure of the above proteins, it was not difficult to see that their T/B epitopes did not change, showing that the fused protein is not affected by the linker.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Molecular docking</title>
+        <p>B7-1 and B7-2 were used for molecular docking with Omp2b-Omp31 and IgV_CTLA-4-Omp2b-Omp31 as shown in <xref rid="f06" ref-type="fig">Figure 6</xref>.</p>
+        <fig position="float" id="f06">
+          <label>Figure 6</label>
+          <caption>
+            <title>
+<bold>A</bold>, Docking of B7-1 and Omp2b-Omp31; <bold>B</bold>, Docking of B7-1 and IgV_CTLA-4-Omp2b-Omp31; <bold>C</bold>, Docking of B7-2 and Omp2b-Omp31; <bold>D</bold>, Docking of B7-2 and IgV_CTLA-4-Omp2b-Omp31; <bold>E</bold>, Statistical diagram of B7-1 docking with Omp2b-Omp31 and IgV_CTLA-4-Omp2b-Omp31, which indicates that the docking effect of IgV_CTLA-4-Omp2b-Omp31 is stronger than that of Omp2b-Omp31; <bold>F</bold>, Statistical diagram of B7-2 docking with Omp2b-Omp31 and IgV_CTLA-4-Omp2b-Omp31, which indicates that the docking effect of IgV_CTLA-4-Omp2b-Omp31 is stronger than that of Omp2b-Omp31.</title>
+          </caption>
+          <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf006" position="float"/>
+        </fig>
+        <p>The score of B7-1 and B7-2 docking with the two fusion proteins was tested by two independent samples <italic>t</italic>-test, as shown in <xref rid="f06" ref-type="fig">Figure 6</xref>.</p>
+        <p>We concluded that whether docking with B7-1 or B7-2, the affinity of the fusion protein with variable region was indeed different from that without the variable region, and the affinity of the former was stronger than that of the latter (P&lt;0.05). Therefore, IgV_CTLA-4-Omp2b-Omp31 induced stronger immune responses than Omp2b-Omp31.</p>
+      </sec>
+      <sec>
+        <title>
+<italic>In-silico</italic> immune simulation</title>
+        <p>The <italic>in silico</italic> immune simulator was used to evaluate the immune response caused by the actual vaccine injected into the human body. Overall, the primary immune response mainly causes the increase of IgM and IgG, and the secondary immune response mainly causes the increase of IgG1, IgG1+IgG2, and B cells. In addition, vaccines can also cause intense cytokine reactions, the most important of which is elevated levels of interferon, IL-23, IL-10, and IL-12. Most importantly, the T cell epitope in the vaccine has immunogenicity, which is consistent with the previous prediction. In addition, after each vaccine injection, the number of macrophages increased, and most natural killer cells remained at a high level during the whole immune process, as shown in <xref rid="f07" ref-type="fig">Figure 7</xref>.</p>
+        <fig position="float" id="f07">
+          <label>Figure 7</label>
+          <caption>
+            <title>The results of immune simulation. <bold>A</bold>, Level of antigen and antibody after vaccination; <bold>B</bold>, Cytokine level; <bold>C</bold>, B cell level; <bold>D</bold>, Dendritic cell (DC) level; <bold>E</bold>, TH cell level; <bold>F</bold>, Killer T cell (TC) level; <bold>G</bold>, Macrophage (MA) level; <bold>H</bold>, Natural killer (NK) cell level.</title>
+          </caption>
+          <graphic xlink:href="1414-431X-bjmbr-56-e12938-gf007" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <p>In many countries, <italic>Brucella</italic> infection is still a major threat to livestock and humans (<xref rid="B26" ref-type="bibr">26</xref>). Since vaccines remain the first choice for brucellosis prevention, the development of an effective vaccine against brucellosis is particularly important. In recent years, with the rapid development of molecular biology, nucleic acid and protein bioinformatics technology has become simple and accurate (<xref rid="B27" ref-type="bibr">27</xref>). Using bioinformatics methods to design novel fusion protein vaccines composed of multiple single proteins has become a new way to induce protective immune responses (<xref rid="B28" ref-type="bibr">28</xref>). At present, the development of brucellosis vaccine has changed from a univalent vaccine to a multivalent compound vaccine (<xref rid="B29" ref-type="bibr">29</xref>). According to previous studies, Omp2b and Omp31 proteins have good antigenicity as candidate molecules for brucellosis vaccine. Therefore, we selected these two proteins to design a fusion protein vaccine. Moreover, the research showed that it has excellent effectiveness.</p>
+      <p>In a previous study, Gan et al. (<xref rid="B30" ref-type="bibr">30</xref>) constructed the fusion protein with linker and proved the feasibility of this method through experiments. Therefore, bioinformatics methods were used to construct the fusion protein Omp2b-Omp31. The proteins Omp2b, Omp31, Omp2b-Omp31, and IgV_CTLA-4-Omp2b-Omp31 were analyzed by bioinformatics method. First of all, we defined the amino acid sequences of Omp2b and Omp31 by NCBI. Through their sequences, we predicted the physicochemical parameters of protein Omp2b and Omp31. The analysis found that Omp2b and Omp31 are stable and hydrophilic proteins, which are favorable to the construction of vaccine. Then, we fused the two proteins with linker (GGGGS)3 to enhance the vaccine immunogenicity. Glycine G and serine S are usually selected as the constituent amino acids of linker sequence because they are the smallest of all amino acids and have no chiral carbon, so they are the most flexible, and will not affect the conformation and function of the two proteins when placed between fusion proteins (<xref rid="B31" ref-type="bibr">31</xref>). Furthermore, we predicted the T/B epitopes of Omp2b, Omp31, and Omp2b-Omp31, and it was found that the fused protein T/B epitope was almost identical to the previous epitopes of Omp2b and Omp31. In addition, we presented those proteins with a tertiary structure model by DS and determined the rationality of their tertiary structures by drawing Ramachandran diagrams. This method not only maintains the T/B epitope, but also may enhance the immunogenicity of the vaccine, enhancing the immune response of the vaccine.</p>
+      <p>In order to increase the affinity between protein and APCs and increase its antigen presentation ability, CTLA-4 was fused with the protein in this study. Previous studies demonstrated that fusing CTLA-4 with antigens significantly improves specific immune responses (<xref rid="B32" ref-type="bibr">32</xref>). Based on the efficient binding between CTLA-4 variable region and B7 molecule on antigen-presenting cells, CTLA-4 variable region is fused with Omp2b-Omp31 antigen, so that the antigen can accurately bind to APCs and produce a strong immune response (<xref rid="B33" ref-type="bibr">33</xref>). The T/B epitope of the IgV_CTLA-4-Omp2b-Omp31 fusion protein was predicted and compared with other proteins, as mentioned above. The results showed that the sequence and the number of Omp2b-Omp31 T/B epitope did not change after IgV_CTLA-4 was linked to the N-terminal of Omp2b-Omp31. Using the same method, we constructed the tertiary structure of IgV_CTLA-4-Omp2b-Omp31, marked the T/B epitope by DS, and evaluated its rationality with the Ramachandran diagram. It was observed that the addition of the linker sequence made the adjacent proteins before and after it fold normally and did not affect their respective functions. B7-1 and B7-2 were docked with Omp2b-Omp31 and IgV_CTLA-4-Omp2b-Omp31. The results showed that there were differences between the two scores and that the docking effect of IgV_CTLA-4-Omp2b-Omp31 was better than that of Omp2b-Omp31.</p>
+      <p>In summary, we learned that the fusion of the two antigens and the addition of IgV_CTLA-4 as an adjuvant not only had no effect on the epitope of the antigen itself, but also improved the antigenicity and immunogenicity. At this point, we can obtain an excellent fusion vaccine. The results of this study can serve as a reference for the design of an effective brucellosis vaccine.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors are very grateful to all members of the Laboratory Department of the First Affiliated Hospital of Xinjiang Medical University and the Immunology Department of the School of Basic Medicine of Xinjiang Medical University.</p>
+      <p>This work was supported by Youth Science and Technology Top Talent Program (2022TSYCCX0112); Xinjiang Uygur Autonomous Region Science and Technology Support Project (2022E02061); State Key Laboratory of Pathogenesis, Prevention and Treatment of High Incidence Diseases in Central Asia Fund (SKL-HIDCA2021-JH11).</p>
+    </ack>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="B01">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Tabynov</surname><given-names>K</given-names></name>
+<name><surname>Ryskeldinova</surname><given-names>S</given-names></name>
+<name><surname>Sansyzbay</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>An influenza viral vector <italic>Brucella abortus</italic> vaccine induces good cross-protection against <italic>Brucella melitensis</italic> infection in pregnant heifers</article-title>
+          <source>Vaccine</source>
+          <year>2015</year>
+          <volume>33</volume>
+          <fpage>3619</fpage>
+          <lpage>3623</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2015.06.045</pub-id>
+          <pub-id pub-id-type="pmid">26093199</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B02">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Franco</surname><given-names>MP</given-names></name>
+<name><surname>Mulder</surname><given-names>M</given-names></name>
+<name><surname>Gilman</surname><given-names>RH</given-names></name>
+<name><surname>Smits</surname><given-names>HL</given-names></name>
+</person-group>
+          <article-title>Human brucellosis</article-title>
+          <source>Lancet Infect Dis</source>
+          <year>2007</year>
+          <volume>7</volume>
+          <fpage>775</fpage>
+          <lpage>786</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id>
+          <pub-id pub-id-type="pmid">18045560</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B03">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Lai</surname><given-names>S</given-names></name>
+<name><surname>Zhou</surname><given-names>H</given-names></name>
+<name><surname>Xiong</surname><given-names>W</given-names></name>
+<name><surname>Gilbert</surname><given-names>M</given-names></name>
+<name><surname>Huang</surname><given-names>Z</given-names></name>
+<name><surname>Yu</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Changing epidemiology of human brucellosis, China, 1955-2014</article-title>
+          <source>Emerg Infect Dis</source>
+          <year>2017</year>
+          <volume>23</volume>
+          <fpage>184</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="doi">10.3201/eid2302.151710</pub-id>
+          <pub-id pub-id-type="pmid">28098531</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B04">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gali&#x144;ska</surname><given-names>EM</given-names></name>
+<name><surname>Zag&#xF3;rski</surname><given-names>J</given-names></name>
+</person-group>
+          <article-title>Brucellosis in humans - etiology, diagnostics, clinical forms</article-title>
+          <source>Ann Agric Environ Med</source>
+          <year>2013</year>
+          <volume>20</volume>
+          <fpage>233</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="pmid">23772567</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B05">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Moreno</surname><given-names>E</given-names></name>
+</person-group>
+          <article-title>Retrospective and prospective perspectives on zoonotic brucellosis</article-title>
+          <source>Front Microbiol</source>
+          <year>2014</year>
+          <volume>5</volume>
+          <fpage>213</fpage>
+          <pub-id pub-id-type="doi">10.3389/fmicb.2014.00213</pub-id>
+          <pub-id pub-id-type="pmid">24860561</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B06">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Y</given-names></name>
+<name><surname>Liu</surname><given-names>X</given-names></name>
+<name><surname>Duan</surname><given-names>K</given-names></name>
+<name><surname>Peng</surname><given-names>Q</given-names></name>
+</person-group>
+          <article-title>Research progress on brucellosis</article-title>
+          <source>Curr Med Chem</source>
+          <year>2019</year>
+          <volume>26</volume>
+          <fpage>5598</fpage>
+          <lpage>5608</lpage>
+          <pub-id pub-id-type="doi">10.2174/0929867325666180510125009</pub-id>
+          <pub-id pub-id-type="pmid">29745323</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B07">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Jing</surname><given-names>ZJ</given-names></name>
+<name><surname>Yan</surname><given-names>JR</given-names></name>
+<name><surname>Fan</surname><given-names>WX</given-names></name>
+</person-group>
+          <article-title>Research progress on brucellosis vaccine [in Chinese]</article-title>
+          <source>Chin J Zoonozool</source>
+          <year>2016</year>
+          <volume>32</volume>
+          <fpage>188</fpage>
+          <lpage>199</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B08">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>L</given-names></name>
+<name><surname>Wu</surname><given-names>CX</given-names></name>
+<name><surname>Zheng</surname><given-names>K</given-names></name>
+<name><surname>Xu</surname><given-names>XJ</given-names></name>
+<name><surname>Zhang</surname><given-names>H</given-names></name>
+<name><surname>Chen</surname><given-names>CF</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immunogenic response to a recombinant pseudorabies virus carrying bp26 gene of <italic>Brucella melitensis</italic> in mice</article-title>
+          <source>Res Vet Sci</source>
+          <year>2015</year>
+          <volume>100</volume>
+          <fpage>61</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.rvsc.2015.03.030</pub-id>
+          <pub-id pub-id-type="pmid">25890577</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B09">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>Z</given-names></name>
+<name><surname>Jie</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Isolation, identification and rpoB gene analysis of Brucella sheep in Nanjing</article-title>
+          <source>J Nanjing Med Univers (Natural Science Edition)</source>
+          <year>2018</year>
+          <volume>38</volume>
+          <fpage>328</fpage>
+          <lpage>330</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Vizca&#xED;no</surname><given-names>N</given-names></name>
+<name><surname>Cloeckaert</surname><given-names>A</given-names></name>
+<name><surname>Zygmunt</surname><given-names>MS</given-names></name>
+<name><surname>Dubray</surname><given-names>G</given-names></name>
+</person-group>
+          <article-title>Cloning, nucleotide sequence, and expression of the <italic>Brucella melitensis</italic> Omp31 gene coding for an immunogenic major outer membrane protein</article-title>
+          <source>Infect Immun</source>
+          <year>1996</year>
+          <volume>64</volume>
+          <fpage>3744</fpage>
+          <lpage>3751</lpage>
+          <pub-id pub-id-type="doi">10.1128/iai.64.9.3744-3751.1996</pub-id>
+          <pub-id pub-id-type="pmid">8751924</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Paquet</surname><given-names>JY</given-names></name>
+<name><surname>Diaz</surname><given-names>MA</given-names></name>
+<name><surname>Genevrois</surname><given-names>S</given-names></name>
+<name><surname>Grayon</surname><given-names>M</given-names></name>
+<name><surname>Verger</surname><given-names>JM</given-names></name>
+<name><surname>de Bolle</surname><given-names>X</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Molecular, antigenic, and functional analyses of Omp2b porin size variants of Brucella spp</article-title>
+          <source>J Bacteriol</source>
+          <year>2001</year>
+          <volume>183</volume>
+          <fpage>4839</fpage>
+          <lpage>4847</lpage>
+          <pub-id pub-id-type="doi">10.1128/JB.183.16.4839-4847.2001</pub-id>
+          <pub-id pub-id-type="pmid">11466287</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ru</surname><given-names>Z</given-names></name>
+<name><surname>Yu</surname><given-names>M</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>Z</given-names></name>
+<name><surname>Zhang</surname><given-names>F</given-names></name>
+<name><surname>Zhang</surname><given-names>Z</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Immmunoinformatics-based design of a multi-epitope vaccine with CTLA-4 extracellular domain to combat <italic>Helicobacter pylori</italic>
+</article-title>
+          <source>FASEB J</source>
+          <year>2022</year>
+          <volume>36</volume>
+          <fpage>e22252</fpage>
+          <pub-id pub-id-type="doi">10.1096/fj.202101538RR</pub-id>
+          <pub-id pub-id-type="pmid">35294065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Salomon</surname><given-names>B</given-names></name>
+<name><surname>Bluestone</surname><given-names>JA</given-names></name>
+</person-group>
+          <article-title>Complexities of CD28/B7: CTLA-4 costimulatory pathways in autoimmunity and transplantation</article-title>
+          <source>Annu Rev Immunol</source>
+          <year>2001</year>
+          <volume>19</volume>
+          <fpage>225</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.immunol.19.1.225</pub-id>
+          <pub-id pub-id-type="pmid">11244036</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Benson</surname><given-names>DA</given-names></name>
+<name><surname>Cavanaugh</surname><given-names>M</given-names></name>
+<name><surname>Clark</surname><given-names>K</given-names></name>
+<name><surname>Karsch-Mizrachi</surname><given-names>I</given-names></name>
+<name><surname>Lipman</surname><given-names>DJ</given-names></name>
+<name><surname>Ostell</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+          <article-title>GenBank</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <fpage>D36</fpage>
+          <lpage>D42</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gks1195</pub-id>
+          <pub-id pub-id-type="pmid">23193287</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>M&#xF6;ller</surname><given-names>S</given-names></name>
+<name><surname>Croning</surname><given-names>MD</given-names></name>
+<name><surname>Apweiler</surname><given-names>R</given-names></name>
+</person-group>
+          <article-title>Evaluation of methods for the prediction of membrane spanning regions</article-title>
+          <source>Bioinformatics</source>
+          <year>2001</year>
+          <volume>17</volume>
+          <fpage>646</fpage>
+          <lpage>653</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/17.7.646</pub-id>
+          <pub-id pub-id-type="pmid">11448883</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>X</given-names></name>
+<name><surname>Zhang</surname><given-names>F</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>An</surname><given-names>M</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Bioinformatics analysis of EgA31 and EgG1Y162 proteins for designing a multi-epitope vaccine against <italic>Echinococcus granulosus</italic>
+</article-title>
+          <source>Infect Genet Evol</source>
+          <year>2019</year>
+          <volume>73</volume>
+          <fpage>98</fpage>
+          <lpage>108</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.meegid.2019.04.017</pub-id>
+          <pub-id pub-id-type="pmid">31022474</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Li</surname><given-names>M</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Niu</surname><given-names>C</given-names></name>
+<name><surname>Xie</surname><given-names>X</given-names></name>
+<name><surname>Haimiti</surname><given-names>G</given-names></name>
+<name><surname>Guo</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Design of a multi-epitope vaccine candidate against <italic>Brucella melitensis</italic>
+</article-title>
+          <source>Sci Rep</source>
+          <year>2022</year>
+          <volume>12</volume>
+          <fpage>10146</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-022-14427-z</pub-id>
+          <pub-id pub-id-type="pmid">35710873</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>W</given-names></name>
+<name><surname>Zhang</surname><given-names>C</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Pearce</surname><given-names>R</given-names></name>
+<name><surname>Bell</surname><given-names>EW</given-names></name>
+<name><surname>Zhang</surname><given-names>Y</given-names></name>
+</person-group>
+          <article-title>Folding non-homologous proteins by coupling deep-learning contact maps with I-TASSER assembly simulations</article-title>
+          <source>Cell Rep Methods</source>
+          <year>2021</year>
+          <volume>1</volume>
+          <fpage>100014</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.crmeth.2021.100014</pub-id>
+          <pub-id pub-id-type="pmid">34355210</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>George</surname><given-names>RA</given-names></name>
+<name><surname>Heringa</surname><given-names>J</given-names></name>
+</person-group>
+          <article-title>An analysis of protein domain linkers: their classification and role in protein folding</article-title>
+          <source>Protein Eng</source>
+          <year>2002</year>
+          <volume>15</volume>
+          <fpage>871</fpage>
+          <lpage>879</lpage>
+          <pub-id pub-id-type="doi">10.1093/protein/15.11.871</pub-id>
+          <pub-id pub-id-type="pmid">12538906</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>Z</given-names></name>
+<name><surname>Zhang</surname><given-names>C</given-names></name>
+<name><surname>Wu</surname><given-names>X</given-names></name>
+<name><surname>Su</surname><given-names>N</given-names></name>
+<name><surname>Xing</surname><given-names>X</given-names></name>
+</person-group>
+          <article-title>Recent progress in fusion enzyme design and applications [in Chinese]</article-title>
+          <source>Sheng Wu Gong Cheng Xue Bao</source>
+          <year>2012</year>
+          <volume>28</volume>
+          <fpage>393</fpage>
+          <lpage>409</lpage>
+          <pub-id pub-id-type="pmid">22803390</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Huston</surname><given-names>JS</given-names></name>
+<name><surname>Levinson</surname><given-names>D</given-names></name>
+<name><surname>Mudgett-Hunter</surname><given-names>M</given-names></name>
+<name><surname>Tai</surname><given-names>MS</given-names></name>
+<name><surname>Novotn&#xFD;</surname><given-names>J</given-names></name>
+<name><surname>Margolies</surname><given-names>MN</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Protein engineering of antibody binding sites: recovery of specific activity in an anti-digoxin single-chain Fv analogue produced in <italic>Escherichia coli</italic>
+</article-title>
+          <source>Proc Natl Acad Sci USA</source>
+          <year>1988</year>
+          <volume>85</volume>
+          <fpage>5879</fpage>
+          <lpage>5883</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.85.16.5879</pub-id>
+          <pub-id pub-id-type="pmid">3045807</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Peggs</surname><given-names>KS</given-names></name>
+<name><surname>Quezada</surname><given-names>SA</given-names></name>
+<name><surname>Chambers</surname><given-names>CA</given-names></name>
+<name><surname>Korman</surname><given-names>AJ</given-names></name>
+<name><surname>Allison</surname><given-names>JP</given-names></name>
+</person-group>
+          <article-title>Blockade of CTLA-4 on both effector and regulatory T cell compartments contributes to the antitumor activity of anti-CTLA-4 antibodies</article-title>
+          <source>J Exp Med</source>
+          <year>2009</year>
+          <volume>206</volume>
+          <fpage>1717</fpage>
+          <lpage>1725</lpage>
+          <pub-id pub-id-type="doi">10.1084/jem.20082492</pub-id>
+          <pub-id pub-id-type="pmid">19581407</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Kozakov</surname><given-names>D</given-names></name>
+<name><surname>Hall</surname><given-names>DR</given-names></name>
+<name><surname>Xia</surname><given-names>B</given-names></name>
+<name><surname>Porter</surname><given-names>KA</given-names></name>
+<name><surname>Padhorny</surname><given-names>D</given-names></name>
+<name><surname>Yueh</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The ClusPro web server for protein-protein docking</article-title>
+          <source>Nat Protoc</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <fpage>255</fpage>
+          <lpage>278</lpage>
+          <pub-id pub-id-type="doi">10.1038/nprot.2016.169</pub-id>
+          <pub-id pub-id-type="pmid">28079879</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rapin</surname><given-names>N</given-names></name>
+<name><surname>Lund</surname><given-names>O</given-names></name>
+<name><surname>Castiglione</surname><given-names>F</given-names></name>
+</person-group>
+          <article-title>Immune system simulation online</article-title>
+          <source>Bioinformatics</source>
+          <year>2011</year>
+          <volume>27</volume>
+          <fpage>2013</fpage>
+          <lpage>2014</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btr335</pub-id>
+          <pub-id pub-id-type="pmid">21685045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chand</surname><given-names>Y</given-names></name>
+<name><surname>Singh</surname><given-names>S</given-names></name>
+</person-group>
+          <article-title>Prioritization of potential vaccine candidates and designing a multiepitope-based subunit vaccine against multidrug-resistant <italic>Salmonella Typhi</italic> str. CT18: a subtractive proteomics and immunoinformatics approach</article-title>
+          <source>Microb Pathog</source>
+          <year>2021</year>
+          <volume>159</volume>
+          <fpage>105150</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2021.105150</pub-id>
+          <pub-id pub-id-type="pmid">34425197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Van der Henst</surname><given-names>C</given-names></name>
+<name><surname>de Barsy</surname><given-names>M</given-names></name>
+<name><surname>Zorreguieta</surname><given-names>A</given-names></name>
+<name><surname>Letesson</surname><given-names>JJ</given-names></name>
+<name><surname>De Bolle</surname><given-names>X</given-names></name>
+</person-group>
+          <article-title>The Brucella pathogens are polarized bacteria</article-title>
+          <source>Microbes Infect</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <fpage>998</fpage>
+          <lpage>1004</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micinf.2013.10.008</pub-id>
+          <pub-id pub-id-type="pmid">24141086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Fern&#xE1;ndez-Cuenca</surname><given-names>F</given-names></name>
+<name><surname>Mart&#xED;nez-Mart&#xED;nez</surname><given-names>L</given-names></name>
+<name><surname>Conejo</surname><given-names>MC</given-names></name>
+<name><surname>Ayala</surname><given-names>JA</given-names></name>
+<name><surname>Perea</surname><given-names>EJ</given-names></name>
+<name><surname>Pascual</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>Relationship between beta-lactamase production, outer membrane protein and penicillin-binding protein profiles on the activity of carbapenems against clinical isolates of <italic>Acinetobacter baumannii</italic>
+</article-title>
+          <source>J Antimicrob Chemother</source>
+          <year>2003</year>
+          <volume>51</volume>
+          <fpage>565</fpage>
+          <lpage>574</lpage>
+          <pub-id pub-id-type="doi">10.1093/jac/dkg097</pub-id>
+          <pub-id pub-id-type="pmid">12615856</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Khatoon</surname><given-names>N</given-names></name>
+<name><surname>Pandey</surname><given-names>RK</given-names></name>
+<name><surname>Prajapati</surname><given-names>VK</given-names></name>
+</person-group>
+          <article-title>Exploring Leishmania secretory proteins to design B and T cell multi-epitope subunit vaccine using immunoinformatics approach</article-title>
+          <source>Sci Rep</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <fpage>8285</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-017-08842-w</pub-id>
+          <pub-id pub-id-type="pmid">28811600</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Sha</surname><given-names>T</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Zhang</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Design of a new multi-epitope vaccine against <italic>Brucella</italic> based on T and B cell epitopes using bioinformatics methods</article-title>
+          <source>Epidemiol Infect</source>
+          <year>2021</year>
+          <volume>149</volume>
+          <fpage>e136</fpage>
+          <pub-id pub-id-type="doi">10.1017/S0950268821001229</pub-id>
+          <pub-id pub-id-type="pmid">34032200</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Gan</surname><given-names>L</given-names></name>
+<name><surname>Jia</surname><given-names>R</given-names></name>
+<name><surname>Zhou</surname><given-names>L</given-names></name>
+<name><surname>Guo</surname><given-names>J</given-names></name>
+<name><surname>Fan</surname><given-names>M</given-names></name>
+</person-group>
+          <article-title>Fusion of CTLA-4 with HPV16 E7 and E6 enhanced the potency of therapeutic HPV DNA vaccine</article-title>
+          <source>PLoS One</source>
+          <year>2014</year>
+          <volume>9</volume>
+          <fpage>e108892</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0108892</pub-id>
+          <pub-id pub-id-type="pmid">25265018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yu</surname><given-names>M</given-names></name>
+<name><surname>Zhu</surname><given-names>Y</given-names></name>
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Chen</surname><given-names>Z</given-names></name>
+<name><surname>Li</surname><given-names>Z</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Design of a recombinant multivalent epitope vaccine based on SARS-CoV-2 and its variants in immunoinformatics approaches</article-title>
+          <source>Front Immunol</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <fpage>884433</fpage>
+          <pub-id pub-id-type="doi">10.3389/fimmu.2022.884433</pub-id>
+          <pub-id pub-id-type="pmid">35603198</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>Y</given-names></name>
+<name><surname>Wu</surname><given-names>C</given-names></name>
+<name><surname>Song</surname><given-names>J</given-names></name>
+<name><surname>Wang</surname><given-names>J</given-names></name>
+<name><surname>Zhang</surname><given-names>E</given-names></name>
+<name><surname>Liu</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+          <article-title>DNA immunization with fusion of CTLA-4 to hepatitis B virus (HBV) core protein enhanced Th2 type responses and cleared HBV with an accelerated kinetic</article-title>
+          <source>PLoS One</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <fpage>e22524</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0022524</pub-id>
+          <pub-id pub-id-type="pmid">21799884</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Namai</surname><given-names>F</given-names></name>
+<name><surname>Murakami</surname><given-names>A</given-names></name>
+<name><surname>Ueda</surname><given-names>A</given-names></name>
+<name><surname>Tsukagoshi</surname><given-names>M</given-names></name>
+<name><surname>Shigemori</surname><given-names>S</given-names></name>
+<name><surname>Ogita</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Construction of genetically modified <italic>Lactococcus lactis</italic> producing anti-human-CTLA-4 single-chain fragment variable</article-title>
+          <source>Mol Biotechnol</source>
+          <year>2020</year>
+          <volume>62</volume>
+          <fpage>572</fpage>
+          <lpage>579</lpage>
+          <pub-id pub-id-type="doi">10.1007/s12033-020-00274-8</pub-id>
+          <pub-id pub-id-type="pmid">32960405</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

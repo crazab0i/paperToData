@@ -1,0 +1,2065 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Medicine (Baltimore)</journal-id>
+      <journal-id journal-id-type="publisher-id">MD</journal-id>
+      <journal-title-group>
+        <journal-title>Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0025-7974</issn>
+      <issn pub-type="epub">1536-5964</issn>
+      <publisher>
+        <publisher-name>Lippincott Williams &amp; Wilkins</publisher-name>
+        <publisher-loc>Hagerstown, MD</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36930131</article-id>
+      <article-id pub-id-type="pmc">10019172</article-id>
+      <article-id pub-id-type="art-access-id">00068</article-id>
+      <article-id pub-id-type="doi">10.1097/MD.0000000000033182</article-id>
+      <article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" article-version-type="Version of Record">3</article-version>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>3700</subject>
+        </subj-group>
+        <subj-group>
+          <subject>Research Article</subject>
+          <subject>Observational Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bioinformatics analysis of Omp19 and Omp25 proteins for designing multi-epitope vaccines against Brucella</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shi</surname>
+            <given-names>Donghao</given-names>
+          </name>
+          <degrees>MM</degrees>
+          <email>Shidonghao0306@126.com</email>
+          <xref rid="aff1" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yuan</given-names>
+          </name>
+          <degrees>MB</degrees>
+          <email>2545783453@qq.com</email>
+          <xref rid="aff2" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Muzhi</given-names>
+          </name>
+          <degrees>MM</degrees>
+          <email>2545783453@qq.com</email>
+          <xref rid="aff3" ref-type="aff">c</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhou</surname>
+            <given-names>Tingting</given-names>
+          </name>
+          <degrees>MM</degrees>
+          <email>624521055@qq.com</email>
+          <xref rid="aff4" ref-type="aff">d</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Feili</given-names>
+          </name>
+          <degrees>BS</degrees>
+          <email>xufelli6284@163.com</email>
+          <xref rid="aff1" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Chao</given-names>
+          </name>
+          <degrees>MB</degrees>
+          <email>1609846709@qq.com</email>
+          <xref rid="aff5" ref-type="aff">e</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Changmin</given-names>
+          </name>
+          <degrees>MM</degrees>
+          <email>wcm224@126.com</email>
+          <xref rid="aff2" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Li</surname>
+            <given-names>Zhiwei</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="aff2" ref-type="aff">b</xref>
+          <xref rid="c1" ref-type="corresp">*</xref>
+        </contrib>
+        <aff id="aff1"><label>a</label> Clinical Laboratory Center, Traditional Chinese Medicine Hospital Affiliated to Xinjiang Medical University, Urumqi, P.R. China</aff>
+        <aff id="aff2"><label>b</label> Clinical Laboratory Center, People`s Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang, P.R. China</aff>
+        <aff id="aff3"><label>c</label> Department of Rheumatology, Traditional Chinese Medicine Hospital Affiliated to Xinjiang Medical University, Urumqi, P.R. China</aff>
+        <aff id="aff4"><label>d</label> Department of Public Health, People`s Hospital of Xinjiang Uygur Autonomous Region, Urumqi, Xinjiang, P.R. China</aff>
+        <aff id="aff5"><label>e</label> Urumqi OE Biotech Co., Ltd., Urumqi, Xinjiang, P.R. China.</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1">* Correspondence: Zhiwei Li, Clinical Laboratory Center, People`s Hospital of Xinjiang Uygur Autonomous Region, No. 91 Tianchi Road, Tianshan District, Urumqi 830001, Xinjiang, China (e-mail: <email xlink:href="lzw18129463395@163.com">lzw18129463395@163.com</email>).</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <day>17</day>
+        <month>3</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>102</volume>
+      <issue>11</issue>
+      <elocation-id>e33182</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+        <date date-type="received">
+          <day>27</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 the Author(s). Published by Wolters Kluwer Health, Inc.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-Non Commercial License 4.0 (CCBY-NC)</ext-link>, where it is permissible to download, share, remix, transform, and buildup the work provided it is properly cited. The work cannot be used commercially without permission from the journal.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="medi-102-e33182.pdf"/>
+      <abstract>
+        <p>Brucellosis is a zoonotic disease caused by Brucella. There is no effective vaccine against human brucellosis. Omp19 and Omp25 are the outer membrane proteins of Brucella. They are widely expressed and highly conserved in Brucella and have high immunogenicity. Herein, we aim to identify multi-epitope vaccine candidates based on Omp19 and Omp25. We analyzed the physicochemical properties and protein structure of Omp19 and Omp25, and predicted the corresponding B cell and T cell epitopes using bioinformatics analysis. Omp19 and Omp25 were composed of 177 amino acids and 213 amino acids, respectively. They were both stable hydrophilic proteins. The instability indices were 44.8 and 23, respectively. The hydrophilicity was &#x2212;0.1 and &#x2212;0.317, respectively. In the secondary structure of Omp19 and Omp25 proteins, the &#x3B1;-helix accounted for 12.43% and 23.94%, the &#x3B2;-sheet was 18.64% and 23.47%, the &#x3B2;-turn was 6.78% and 4.23%, and the random coil was 62.15% and 48.36%. Finally, 5 B cell epitopes, 3 Th-cell epitopes and 5 CTL cell epitopes of Omp19 protein, and 4 B cell epitopes, 3 Th-cell epitopes, and 5 CTL cell epitopes of Omp25 protein were selected as vaccine candidates. In conclusion, we obtained potential B cell and T cell epitopes of the Brucella outer membrane Omp19 and Omp25 proteins. This lays the foundation for the further design of multi-epitope vaccine of Brucella.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>B cell epitopes</kwd>
+        <kwd>bioinformatics</kwd>
+        <kwd>Brucella</kwd>
+        <kwd>Omp19</kwd>
+        <kwd>Omp25</kwd>
+        <kwd>T cell epitopes</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>OPEN-ACCESS</meta-name>
+          <meta-value>TRUE</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>1. Introduction</title>
+      <p>Brucellosis, caused by Brucella, is one of the most common zoonotic diseases in the world. It severely affects public health in many countries around the world, especially in developing countries in Africa and Central Asia.<sup>[<xref rid="R1" ref-type="bibr">1</xref>]</sup> In China, Xinjiang and Inner Mongolia are provinces with high incidence of brucellosis.<sup>[<xref rid="R2" ref-type="bibr">2</xref>]</sup> The Brucella genus contains at least 10 genetically similar species, the most common being Brucella melitensis.<sup>[<xref rid="R3" ref-type="bibr">3</xref>]</sup> Brucellosis often causes abortion and infertility in mammals, and can be transmitted to humans through the digestive tract and direct contact with broken skin or mucous membranes.<sup>[<xref rid="R4" ref-type="bibr">4</xref>]</sup> Brucella can infect human tissues and organs, causing damage to multiple systems. Although the clinical manifestations of patients are diverse, and the symptoms and signs are atypical, most patients have clinical symptoms of fever, chills, chills, fatigue, night sweats, myalgia, joint pain, headache, backache, and gastrointestinal symptoms.<sup>[<xref rid="R5" ref-type="bibr">5</xref>]</sup></p>
+      <p>There are currently no effective vaccines against human brucellosis,<sup>[<xref rid="R6" ref-type="bibr">6</xref>,<xref rid="R7" ref-type="bibr">7</xref>]</sup> and vaccines against animal brucellosis have certain shortcomings. For example, the attenuated vaccine S19 may cause orchitis in male animals or abortion in pregnant animals and is harmful to humans.<sup>[<xref rid="R8" ref-type="bibr">8</xref>]</sup> RB51 induces stable immune protection but is resistant to rifampicin, an important antibiotic for the treatment of Brucella.<sup>[<xref rid="R8" ref-type="bibr">8</xref>]</sup> The ev.1 vaccine is resistant to streptomycin in the treatment of brucellosis, is prone to cause abortion in female animals and is harmful to humans.<sup>[<xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref>]</sup></p>
+      <p>The multi-epitope vaccine is an immunogenic polypeptide designed based on the amino acid sequence of the immunogen, in order to stimulate an effective adaptive immune response with a smaller immunogenic peptide. Some studies have shown that multi-epitope vaccines can produce a more effective immune response to brucella infections.<sup>[<xref rid="R11" ref-type="bibr">11</xref>]</sup> Compared with traditional inactivated vaccines, multi-epitope-based vaccines have many advantages, including lack of pathogens, high safety, ease of production, high stability, and hypo allergenicity.<sup>[<xref rid="R12" ref-type="bibr">12</xref>]</sup> In recent years, vaccine design by bioinformatics analysis of proteins has become an effective method for designing different multi-epitope vaccines.<sup>[<xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref>]</sup></p>
+      <p>OMP19 and OMP25 are outer membrane proteins widely expressed in Brucella,<sup>[<xref rid="R15" ref-type="bibr">15</xref>]</sup> and are expected to become candidate vaccines for brucellosis.<sup>[<xref rid="R16" ref-type="bibr">16</xref>]</sup> Animal study has shown that oral adjuvant-free vaccine against Omp19 protected against Brucella abortus mucosal infection.<sup>[<xref rid="R17" ref-type="bibr">17</xref>]</sup> Omp25 is highly conserved among Brucella species.<sup>[<xref rid="R18" ref-type="bibr">18</xref>]</sup> Studies have shown that the Omp25 DNA vaccine and recombinant protein vaccine can induce immune response to Brucella melitensis or Brucella abortus in mice.<sup>[<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>]</sup> Therefore, the epitopes of OMP19 and Omp25 are potential targets for multi-epitope vaccines against Brucella infection.</p>
+      <p>In this study, we predicted the B cell and T cell epitopes of OMP19 and Omp25 proteins through bioinformatics analysis. The epitope predicted by this study may be used as effective vaccine candidates to prevent brucellosis.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>2. Materials and methods</title>
+      <sec>
+        <title>2.1. Ethical statement</title>
+        <p>The study did not include any human or animal experimentation for which ethical approval was required.</p>
+      </sec>
+      <sec>
+        <title>2.2. Amino acid sequence</title>
+        <p>From the NCBI website (<ext-link xlink:href="https://www.ncbi.nlm.nih.gov" ext-link-type="uri">https://www.ncbi.nlm.nih.gov</ext-link>), the amino acid sequence of OMP19 (GenBank: EEZ15319.1) and OMP25 (GenBank: AEF59022.1) of Brucella melitensis was obtained.</p>
+      </sec>
+      <sec>
+        <title>2.3. Prediction of physicochemical properties</title>
+        <p>Prot Param online analysis tool<sup>[<xref rid="R21" ref-type="bibr">21</xref>]</sup> (<ext-link xlink:href="http://web.expasy.org/protparam/" ext-link-type="uri">http://web.expasy.org/protparam/</ext-link>) was used to analyze the physicochemical properties of OMP2b and BCSP31, including amino acid number, theoretical isoelectric point, relative molecular mass, molecular formula, instability coefficient, and hydrophilicity.</p>
+      </sec>
+      <sec>
+        <title>2.4. Prediction of protein secondary structure</title>
+        <p>The secondary structures of OMP19 and OMP25 proteins were analyzed by SOPMA online analysis software<sup>[<xref rid="R22" ref-type="bibr">22</xref>]</sup> (<ext-link xlink:href="https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_sopma.html" ext-link-type="uri">https://npsa-prabi.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_sopma.html</ext-link>). The protein features such as &#x3B1;-helix, &#x3B2;-sheet, &#x3B2;-turn and random coil were predicted. The similarity threshold and window width parameters are the default values of 8 and 17, respectively.</p>
+      </sec>
+      <sec>
+        <title>2.5. Prediction of protein tertiary structure</title>
+        <p>The tertiary structure of OMP19 and OMP25 proteins were analyzed by SWISS-MODEL online analysis tool<sup>[<xref rid="R23" ref-type="bibr">23</xref>]</sup> (<ext-link xlink:href="https://swissmodel.expasy.org/" ext-link-type="uri">https://swissmodel.expasy.org/</ext-link>), and illustrated using RasMol 2.7.5.2 software (<ext-link xlink:href="https://www.rasmol.org/" ext-link-type="uri">https://www.rasmol.org/</ext-link>).</p>
+      </sec>
+      <sec>
+        <title>2.6. B cell epitope prediction</title>
+        <p>To improve the accuracy of predicting linear B cell epitopes, we used 4 online analysis tools, including BepiPred1.0<sup>[<xref rid="R24" ref-type="bibr">24</xref>]</sup> (<ext-link xlink:href="http://www.cbs.dtu.dk/services/BepiPred/" ext-link-type="uri">http://www.cbs.dtu.dk/services/BepiPred/</ext-link>), ABCpred<sup>[<xref rid="R25" ref-type="bibr">25</xref>]</sup> (<ext-link xlink:href="http://www.imtech.res.in/raghava/abcpred/" ext-link-type="uri">http://www.imtech.res.in/raghava/abcpred/</ext-link>), BCPREDS<sup>[<xref rid="R26" ref-type="bibr">26</xref>]</sup> (<ext-link xlink:href="http://ailab-projects1.ist.psu.edu:8080/bcpred/" ext-link-type="uri">http://ailab-projects1.ist.psu.edu:8080/bcpred/</ext-link>), IEDB<sup>[<xref rid="R27" ref-type="bibr">27</xref>]</sup> (<ext-link xlink:href="http://tools.immune" ext-link-type="uri">http://tools.immune</ext-link> epitope.org/mhci/).</p>
+        <p>We first evaluated the length and position of the epitopes predicted by each software. BepiPred 1.0 sets a threshold of 0.35. The threshold for ABCpred is 0.51. BCPRED predicts a linear epitope of 20 amino acids with a default specificity of 75%. The IEDB online software predicts the &#x3B2;-helix, surface accessibility, flexibility and hydrophilicity of the predicted B cell epitopes of Omp19 and Omp25. The default thresholds for &#x3B2;-helix, surface accessibility, flexibility, and hydrophilicity of Omp19 are 1.079, 1, 1.015, and 2.164, respectively; while those of Omp25 are 1.018, 1, 0.995, and 1.663, respectively. We eliminated sequences below the thresholds and selected the overlapping sequences predicted by 4 online tools as promising vaccine candidates.</p>
+      </sec>
+      <sec>
+        <title>2.7. T cell epitope prediction</title>
+        <p>The SYFPEITHI<sup>[<xref rid="R28" ref-type="bibr">28</xref>]</sup> (<ext-link xlink:href="http://www.syfpeithi.de/bin/MHCServer.dll/Epitope" ext-link-type="uri">http://www.syfpeithi.de/bin/MHCServer.dll/Epitope</ext-link> Prediction.htm), NetMHCII 2.3 Server<sup>[<xref rid="R29" ref-type="bibr">29</xref>]</sup> (<ext-link xlink:href="http://www.cbs.dtu.dk/services/" ext-link-type="uri">http://www.cbs.dtu.dk/services/</ext-link> NetMHCII) and NetMHC 4.0 Server (<ext-link xlink:href="http://www.cbs.dtu.dk/services/NetMHC/" ext-link-type="uri">http://www.cbs.dtu.dk/services/NetMHC/</ext-link>) were used to predict T cell epitopes of OMP19 and OMP25. According to the research by Shen et al,<sup>[<xref rid="R30" ref-type="bibr">30</xref>]</sup> the high frequency HLA alleles in Xinjiang, China, included HLA-A * 1101, A * 0201, and A * 0301, HLA-DRB1 * 0701, DRB1 * 1501, and DRB1 * 0301. Among them, we selected HLA-A * 0201, HLA-A * 0301, and HLA-A * 1101 to predict the corresponding CTL (cytotoxic T lymphocyte) epitope, and the HLA-DRB1 * 0301, HLA-DRB1 * 0701, and HLA-DRB1 * 150 to predict the Th epitope. According to the characteristics of major histocompatibility complex (MHC) molecules, we excluded some sequences that are too long or too short to form epitopes, and then selected overlapping sequences as the final candidate epitopes for Th and CTL based on the high-scoring epitope sequence and percentile ranking.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>3. Results</title>
+      <sec>
+        <title>3.1. Amino acid sequence</title>
+        <p>From the NCBI website (<ext-link xlink:href="https://www.ncbi.nlm.nih.gov" ext-link-type="uri">https://www.ncbi.nlm.nih.gov</ext-link>), the amino acid sequence of the outer membrane protein OMP19 (GenBank: EEZ15319.1) and OMP25 (GenBank: AEF59022.1) of Brucella melitensis was obtained, which were as follows:</p>
+        <p>OMP19: MGISKASLL SLAAAGIVL AGCQSSRLGNL DNVSPPPPPAPVNA VPAGTVQKGN LDSPTQFPNAP STDMSAQSGT QVASLPPASAP DLTPGAVAGV WNASLGGQSC KIATPQTKYG QGYRAGPLRCP GELANLASWA VNGKQLVLYD ANGGTVASLY SSGQGRFDGQT TGGQAVTLSR</p>
+        <p>OMP25: MRTLKSLVIV SAALLPFSATA FAADAIQEQP PVPAPVEVAP QYSWAGGYT GLYLGYGWNK AKTSTVGSIK PDDWKAGAF AGWNFQQDQ IVYGVEGDAG YSWAKKSKD GLEVKQGFEG SLRARVGYDL NPVMPYLTAG IAGSQIKLNNG LDDESKFRVG WTAGAGLEAK LTDNILGRVEY RYTQYGNKNY DLAGTTVRNKL DTQDFRVGIGYKF.</p>
+      </sec>
+      <sec>
+        <title>3.2. Physicochemical properties of OMP19 and OMP25</title>
+        <p>The physicochemical properties of OMP2b and BCSP31 was analyzed with Prot Param. As shown in Table <xref rid="T1" ref-type="table">1</xref>, Omp19 is composed of 177 amino acids, and its isoelectric point is 8.91 with a molecular weight of 17.6KD. Its molecular formula is C764H1224N220O247S5, and its instability index is 44.8, showing that it is a stable protein with a hydrophilicity of &#x2212;0.1 (hydrophilic protein).</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>The physicochemical properties of Omp19 and omp25.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Items</th>
+                <th align="center" rowspan="1" colspan="1">Omp19</th>
+                <th align="center" rowspan="1" colspan="1">Omp25</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Number of amino acids</td>
+                <td align="center" rowspan="1" colspan="1">177</td>
+                <td align="center" rowspan="1" colspan="1">213</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Theoretical isoelectric point</td>
+                <td align="center" rowspan="1" colspan="1">8.91</td>
+                <td align="center" rowspan="1" colspan="1">8.58</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Molecular mass (Daltons)</td>
+                <td align="center" rowspan="1" colspan="1">17603.75</td>
+                <td align="center" rowspan="1" colspan="1">23185.12</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Formula</td>
+                <td align="center" rowspan="1" colspan="1">C<sub>764</sub>H<sub>1224</sub>N<sub>220</sub>O<sub>247</sub>S<sub>5</sub></td>
+                <td align="center" rowspan="1" colspan="1">C<sub>1053</sub>H<sub>1605</sub>N<sub>277</sub>O<sub>311</sub>S<sub>2</sub></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Instability index</td>
+                <td align="center" rowspan="1" colspan="1">44.8 (stable protein)</td>
+                <td align="center" rowspan="1" colspan="1">23.00 (stable protein)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Grand average of hydropathicity</td>
+                <td align="center" rowspan="1" colspan="1">&#x2212;0.100 (hydrophilic protein)</td>
+                <td align="center" rowspan="1" colspan="1">&#x2212;0.317 (hydrophilic protein)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Omp25 is composed of 213 amino acids with an isoelectric point of 8.58 and a molecular weight of 23.1KD. Its molecular formula is C1053H1605N277O311S2, and its instability index is 23, indicating that it is a stable protein with a hydrophilicity of &#x2212;0.317 (hydrophilic protein).</p>
+      </sec>
+      <sec>
+        <title>3.3. Secondary structure of OMP19 and OMP25 proteins</title>
+        <p>SOPMA analysis showed that in the secondary structure of OMP19 protein contained 12.43% of &#x3B1;-helix, 18.64% of &#x3B2;-sheet, 6.78% of &#x3B2;-turn and 62.15% of random coil (Fig. <xref rid="F1" ref-type="fig">1</xref>A). For the secondary structure of OMP25 protein, the &#x3B1;-helix was 23.94%, &#x3B2;-sheet was 23.47%, &#x3B2;-turn was 4.23%, and random coil was 48.36% (Fig. <xref rid="F1" ref-type="fig">1</xref>B). The &#x3B2; turn and the random coils are conducive to the formation of linear B cell epitopes. Therefore, from the secondary structure, we can speculate that both Omp19 and Omp25 contain a large number of regions that could easily form epitopes.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1.</label>
+          <caption>
+            <p>The secondary structure of OMP19 protein and Omp25 protein analyzed by SOPMA. The similarity threshold and window width parameters are the default values of 8 and 17. (A) The secondary structure of Omp19. Alpha helix in the secondary structure of Omp19 protein was 12.43%, &#x3B2;-turn was 6.78%, &#x3B2;-sheet was 18.64%, and random coil was 62.15%. (B) The secondary structure of Omp25. Alpha helix in the secondary structure of Omp25 protein was 23.94%, &#x3B2;-turn was 4.23%, &#x3B2;-sheet was 23.47%, and random coil was 48.36%. The yellow part indicates the epitope position above the threshold, and the green part indicates the epitope position below the threshold.</p>
+          </caption>
+          <graphic xlink:href="medi-102-e33182-g001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>3.4. Tertiary structure of OMP19 and OMP25</title>
+        <p>SWISS-MODEL online analysis software and RasMol 2.7.5.2 were used to predict and illustrate the tertiary structure of Omp19 and Omp25 (Fig. <xref rid="F2" ref-type="fig">2</xref>). The results showed that both Omp19 and Omp25 showed a relatively stable closed-loop structure. The &#x3B2;-turn and random coil in Omp19 and Omp25 were located near the surface of the protein. Therefore, we speculate that these sites have great potential as epitopes for vaccines.</p>
+        <fig position="float" id="F2">
+          <label>Figure 2.</label>
+          <caption>
+            <p>The predicted tertiary structures of the Omp19 and Omp25 proteins. The prediction of the tertiary structures of the Omp19 and Omp25 proteins was performed by the SWISS-MODEL online server and illustrated by the RasMol 2.7.5.2 software. The alpha-helix was marked in red, the&#x3B2;-sheet in yellow, the random coil in blue, and other residues tags in white. The front views of Omp19 (A) and Omp25 protein, (B) and the reverse views of Omp19, (C) and Omp25 protein, and (D) were shown.</p>
+          </caption>
+          <graphic xlink:href="medi-102-e33182-g002" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>3.5. B cell epitope analysis of OMP19 and OMP25</title>
+        <p>We used ABCpred, BCPRED, and BepiPred 1.0 to predict the linear B cell epitopes of OMP19 and OMP25. B cell epitopes with higher scores were shown in Table <xref rid="T2" ref-type="table">2</xref>. IEDB was used to predict the &#x3B2;-turn, hydrophilicity, flexibility, and surface accessibility of OMP19 and OMP25 B cell epitopes. The default threshold value of the IEDB system was used. The parts above the threshold value were shown in yellow, and parts below were shown in green (Figs. <xref rid="F3" ref-type="fig">3</xref> and <xref rid="F4" ref-type="fig">4</xref>). The higher score represents a higher possibility as a potential epitope. We eliminated sequences below the threshold and selected overlapping sequences predicted by different software as final B cell epitope candidates. Finally, amino acids 32 to 39, 56 to 61, 82 to 87, 117 to 121, and 160 to 168 were used as the final B cell candidate epitopes of Omp19. Amino acids 59 to 71, 93 to 101, 147 to 151, and 182 to 191 were used as the final B cell candidate epitopes of Omp25 (Table <xref rid="T3" ref-type="table">3</xref>).</p>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <p>The linear B-cell epitopes of OMP19 and OMP25.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1"/>
+                <th align="center" colspan="3" rowspan="1">ABC pred prediction</th>
+                <th align="center" colspan="3" rowspan="1">BC Pred prediction</th>
+                <th align="center" colspan="3" rowspan="1">Bepi Pred 1.0 server</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Omp19</th>
+                <th align="center" rowspan="1" colspan="1">Start position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" rowspan="1" colspan="1">Start position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" rowspan="1" colspan="1">Start position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="7" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">107</td>
+                <td align="center" rowspan="1" colspan="1">IATPQTKYGQGYRAGP</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">29</td>
+                <td align="center" rowspan="1" colspan="1">LDNVSPPPPPAPVNAVPAGT</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">29</td>
+                <td align="center" rowspan="1" colspan="1">LDNVSPPPPPAPVNAVP</td>
+                <td align="center" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">74</td>
+                <td align="center" rowspan="1" colspan="1">TQVASLPPASAPDLTP</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">56</td>
+                <td align="center" rowspan="1" colspan="1">SPTQFPNAPSTDMSAQSGTQ</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">55</td>
+                <td align="center" rowspan="1" colspan="1">DSPTQFPNAPSTDMSA</td>
+                <td align="center" rowspan="1" colspan="1">1.6</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">82</td>
+                <td align="center" rowspan="1" colspan="1">ASAPDLTPGAVAGVWN</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">80</td>
+                <td align="center" rowspan="1" colspan="1">PPASAPDLTPGAVAGVWNAS</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">156</td>
+                <td align="center" rowspan="1" colspan="1">YSSGQGRFDGQTTGGQAV</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">46</td>
+                <td align="center" rowspan="1" colspan="1">AGTVQKGNLDSPTQFP</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">108</td>
+                <td align="center" rowspan="1" colspan="1">ATPQTKYGQGYRAGPLRCPG</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">105</td>
+                <td align="center" rowspan="1" colspan="1">CKIATPQTKYGQGYRAGPLRC</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">28</td>
+                <td align="center" rowspan="1" colspan="1">NLDNVSPPPPPAPVNA</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+                <td align="center" rowspan="1" colspan="1">155</td>
+                <td align="center" rowspan="1" colspan="1">LYSSGQGRFDGQTTGGQAVT</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">147</td>
+                <td align="center" rowspan="1" colspan="1">ANGGTV</td>
+                <td align="center" rowspan="1" colspan="1">0.7</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">160</td>
+                <td align="center" rowspan="1" colspan="1">QGRFDGQTTGGQAVTL</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">117</td>
+                <td align="center" rowspan="1" colspan="1">GYRAGPLRCPGELANL</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="5" colspan="1">Omp25</td>
+                <td align="center" rowspan="1" colspan="1">86</td>
+                <td align="center" rowspan="1" colspan="1">QDQIVYGVEGDAGYSW</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">AIQEQPPVPAPVEVAPQYSW</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">AIQEQPPVPAPVEVAPQYSWAGG</td>
+                <td align="center" rowspan="1" colspan="1">1.2</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">50</td>
+                <td align="center" rowspan="1" colspan="1">TGLYLGYGWNKAKTST</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">87</td>
+                <td align="center" rowspan="1" colspan="1">IVYGVEGDAGYSWAKKSKDG</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">59</td>
+                <td align="center" rowspan="1" colspan="1">NKAKTSTVGSIKPDDWKAG</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AGIAGSQIKLNNGLDD</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">57</td>
+                <td align="center" rowspan="1" colspan="1">GWNKAKTSTVGSIKPDDWKA</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1">93</td>
+                <td align="center" rowspan="1" colspan="1">VEGDAGYSWAKKSKDGLEVK</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">176</td>
+                <td align="center" rowspan="1" colspan="1">RVEYRYTQYGNKNYDL</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">148</td>
+                <td align="center" rowspan="1" colspan="1">GLDDESK</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">65</td>
+                <td align="center" rowspan="1" colspan="1">TVGSIKPDDWKAGAFA</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">182</td>
+                <td align="center" rowspan="1" colspan="1">TQYGNKNYDLA</td>
+                <td align="center" rowspan="1" colspan="1">0.7</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>ABC pred Prediction server score threshold is 0.51. Bepi Pred 1.0 Server score threshold is 0.35.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <p>The T- and B cell dominant epitope prediction of the Omp19 and Omp25 protein.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="2" colspan="1">Episode</th>
+                <th align="center" rowspan="2" colspan="1">Methods</th>
+                <th align="center" colspan="2" rowspan="1">Omp19</th>
+                <th align="center" colspan="2" rowspan="1">Omp25</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Location</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Location</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="5" colspan="1">B cell epitope</td>
+                <td align="center" rowspan="5" colspan="1">Bepi Pred1.0, ABC pred, BCPREDS, IEDB</td>
+                <td align="center" rowspan="1" colspan="1">32&#x2013;39</td>
+                <td align="center" rowspan="1" colspan="1">VSPPPPPA</td>
+                <td align="center" rowspan="1" colspan="1">59&#x2013;71</td>
+                <td align="center" rowspan="1" colspan="1">NKAKTSTVGSIKP</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">56&#x2013;61</td>
+                <td align="center" rowspan="1" colspan="1">SPTQFP</td>
+                <td align="center" rowspan="1" colspan="1">93&#x2013;101</td>
+                <td align="center" rowspan="1" colspan="1">VEGDAGYSW</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">82&#x2013;87</td>
+                <td align="center" rowspan="1" colspan="1">ASAPDL</td>
+                <td align="center" rowspan="1" colspan="1">147&#x2013;151</td>
+                <td align="center" rowspan="1" colspan="1">NGLDD</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">117&#x2013;121</td>
+                <td align="center" rowspan="1" colspan="1">GYRAG</td>
+                <td align="center" rowspan="1" colspan="1">182&#x2013;191</td>
+                <td align="center" rowspan="1" colspan="1">TQYGNKNYDL</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">160&#x2013;168</td>
+                <td align="center" rowspan="1" colspan="1">QGRFDGQTT</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="5" colspan="1">CTL</td>
+                <td align="center" rowspan="5" colspan="1">SYFPEITHI, Net MHC 4.0 Server</td>
+                <td align="center" rowspan="1" colspan="1">10&#x2013;18</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">7&#x2013;15</td>
+                <td align="center" rowspan="1" colspan="1">LVIVSAALL</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">87&#x2013;95</td>
+                <td align="center" rowspan="1" colspan="1">LTPGAVAGV</td>
+                <td align="center" rowspan="1" colspan="1">13&#x2013;21</td>
+                <td align="center" rowspan="1" colspan="1">ALLPFSATA</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">98&#x2013;106</td>
+                <td align="center" rowspan="1" colspan="1">ASLGGQSCK</td>
+                <td align="center" rowspan="1" colspan="1">136&#x2013;144</td>
+                <td align="center" rowspan="1" colspan="1">AGIAGSQIK</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">136&#x2013;144</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">2&#x2013;10</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">154&#x2013;162</td>
+                <td align="center" rowspan="1" colspan="1">SLYSSGQGR</td>
+                <td align="center" rowspan="1" colspan="1">168&#x2013;176</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Th</td>
+                <td align="center" rowspan="1" colspan="1">SYFPEITHI, Net MHCII 2.3</td>
+                <td align="center" rowspan="1" colspan="1">6&#x2013;20</td>
+                <td align="center" rowspan="1" colspan="1">ASLLSLAAAGIVLAG</td>
+                <td align="center" rowspan="1" colspan="1">11&#x2013;25</td>
+                <td align="center" rowspan="1" colspan="1">SAALLPFSATAFAAD</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">15&#x2013;29</td>
+                <td align="center" rowspan="1" colspan="1">GIVLAGCQSSRLGNL</td>
+                <td align="center" rowspan="1" colspan="1">120&#x2013;134</td>
+                <td align="center" rowspan="1" colspan="1">RARVGYDLNPVMPYL</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">126&#x2013;154</td>
+                <td align="center" rowspan="1" colspan="1">PGELANLASWAVNGKQLVLYDANGGTVAS</td>
+                <td align="center" rowspan="1" colspan="1">154&#x2013;168</td>
+                <td align="center" rowspan="1" colspan="1">KFRVGWTAGAGLEAK</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <fig position="float" id="F3">
+          <label>Figure 3.</label>
+          <caption>
+            <p>IEDB predicts &#x3B2;-turn, hydrophilicity, flexibility and surface accessibility of Omp19 B cell epitopes. (A) Prediction of &#x3B2;-turn of OMP19 protein by IEDB software. The software is based on the results of Chou and Fasman method to predict the &#x3B2;-turn. The software default threshold is 1.079. (B) Prediction of surface accessibility of Omp19 by IEDB. The software predicts the results based on Emini method. The default value is 1.0. (C) Prediction of Omp19 hydrophilicity by IEDB. Hydrophilic results predicted based on Parker method. The default threshold is 2.164. (D) Prediction of Omp19 flexibility by IEDB. Based on Karplus and Schulz method. The default threshold is 1.015.</p>
+          </caption>
+          <graphic xlink:href="medi-102-e33182-g003" position="float"/>
+        </fig>
+        <fig position="float" id="F4">
+          <label>Figure 4.</label>
+          <caption>
+            <p>IEDB predicts &#x3B2;-turn, hydrophilicity, flexibility and surface accessibility of Omp25 B cell epitopes. (A) Prediction of &#x3B2;-turn of OMP25 protein by IEDB software. The software is based on the results of Chou and Fasman method to predict the &#x3B2;-turn angle. The software default threshold is 1.018. (B) Prediction of surface accessibility of Omp19 by IEDB. The software predicts the results based on Emini method. The default value is 1.0. (C) Prediction of Omp19 hydrophilicity by IEDB. Hydrophilic results predicted based on Parker method. The default threshold is 1.663. (D) Prediction of Omp19 flexibility by IEDB. Based on Karplus and Schulz method. The default threshold is 0.995.</p>
+          </caption>
+          <graphic xlink:href="medi-102-e33182-g004" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>3.6. T cell epitope analysis of OMP19 and OMP25</title>
+        <p>We used SYFPEITHI, NetMHCII 2.3 Server, and NetMHC 4.0 Server to predict the T cell epitopes of OMP19 and OMP25. Specifically, the HLA-A * 1101, HLA-A * 0201, and HLA-A * 0301 were used to predict the CTL epitope. The HLA-DRB1 * 0701, HLA-DRB1 * 1501, and HLA-DRB1 * 0301 were used to predict the Th epitope. We selected high-scoring overlapping sequences as candidate epitopes (Tables <xref rid="T4" ref-type="table">4</xref>&#x2013;<xref rid="T7" ref-type="table">7</xref>). In the end, we selected amino acids 10 to 18, 87 to 95, 98 to 106, 136 to 144, and 154 to 162 as the Omp19 protein CTL epitopes (Table <xref rid="T3" ref-type="table">3</xref>). Amino acids 6 to 20, 15 to 29, and 126 to 154 were selected as the Th cell epitopes of Omp19 protein. The 7 to 15 amino acids, 13 to 21 amino acids, 136 to 144 amino acids, 2 to 10 amino acids, and 168 to 176 amino acids were selected as CTL epitopes of Omp25 protein. Amino acids 11 to 25, 120 to 134, and 154 to 168 were selected as the Th cell epitopes of Omp25 protein.</p>
+        <table-wrap position="float" id="T4">
+          <label>Table 4</label>
+          <caption>
+            <p>Parameters HLA-A*0201 and HLA-A*0301 HLA-A*1101 OMP19 protein T cell epitope prediction.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="2" colspan="1">HLA</th>
+                <th align="center" colspan="3" rowspan="1">Syfpeithi</th>
+                <th align="center" colspan="3" rowspan="1">Net MHC 4.0 server</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="13" colspan="1">HLA_A*0201</td>
+                <td align="center" rowspan="1" colspan="1">87</td>
+                <td align="center" rowspan="1" colspan="1">LTPGAVAGV</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">99</td>
+                <td align="center" rowspan="1" colspan="1">SLGGQSCKI</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">LLSLAAAGI</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">74</td>
+                <td align="center" rowspan="1" colspan="1">TQVASLPPA</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">LLSLAAAGI</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">87</td>
+                <td align="center" rowspan="1" colspan="1">LTPGAVAGV</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">147</td>
+                <td align="center" rowspan="1" colspan="1">ANGGTVASL</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">129</td>
+                <td align="center" rowspan="1" colspan="1">LANLASWAV</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">99</td>
+                <td align="center" rowspan="1" colspan="1">SLGGQSCKI</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">LAAAGIVLA</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">143</td>
+                <td align="center" rowspan="1" colspan="1">VLYDANGGT</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">SRLGNLDNV</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">LAAAGIVLA</td>
+                <td align="center" rowspan="1" colspan="1">6.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">167</td>
+                <td align="center" rowspan="1" colspan="1">TTGGQAVTL</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">90</td>
+                <td align="center" rowspan="1" colspan="1">GAVAGVWNA</td>
+                <td align="center" rowspan="1" colspan="1">6.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">92</td>
+                <td align="center" rowspan="1" colspan="1">VAGVWNASL</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">SLLSLAAAG</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">3</td>
+                <td align="center" rowspan="1" colspan="1">ISKASLLSL</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1">83</td>
+                <td align="center" rowspan="1" colspan="1">SAPDLTPGA</td>
+                <td align="center" rowspan="1" colspan="1">8.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">SLLSLAAAG</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KASLLSLAA</td>
+                <td align="center" rowspan="1" colspan="1">13</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">VLAGCQSSR</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="11" colspan="1">HLA_A*0301</td>
+                <td align="center" rowspan="1" colspan="1">43</td>
+                <td align="center" rowspan="1" colspan="1">AVPAGTVQK</td>
+                <td align="center" rowspan="1" colspan="1">34</td>
+                <td align="center" rowspan="1" colspan="1">106</td>
+                <td align="center" rowspan="1" colspan="1">KIATPQTKY</td>
+                <td align="center" rowspan="1" colspan="1">0.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">86</td>
+                <td align="center" rowspan="1" colspan="1">DLTPGAVAG</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">98</td>
+                <td align="center" rowspan="1" colspan="1">ASLGGQSCK</td>
+                <td align="center" rowspan="1" colspan="1">0.6</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">SLYSSGQGR</td>
+                <td align="center" rowspan="1" colspan="1">0.6</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">VLAGCQSSR</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">VLAGCQSSR</td>
+                <td align="center" rowspan="1" colspan="1">0.9</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">98</td>
+                <td align="center" rowspan="1" colspan="1">ASLGGQSCK</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">43</td>
+                <td align="center" rowspan="1" colspan="1">AVPAGTVQK</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">SLYSSGQGR</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">132</td>
+                <td align="center" rowspan="1" colspan="1">LASWAVNGK</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">111</td>
+                <td align="center" rowspan="1" colspan="1">QTKYGQGYR</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">SLLSLAAAG</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">116</td>
+                <td align="center" rowspan="1" colspan="1">QGYRAGPLR</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">16</td>
+                <td align="center" rowspan="1" colspan="1">IVLAGCQSS</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">8.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">105</td>
+                <td align="center" rowspan="1" colspan="1">CKIATPQTK</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">9.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KASLLSLAA.</td>
+                <td align="center" rowspan="1" colspan="1">12</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="14" colspan="1">HLA-A*1101</td>
+                <td align="center" rowspan="1" colspan="1">43</td>
+                <td align="center" rowspan="1" colspan="1">AVPAGTVQK</td>
+                <td align="center" rowspan="1" colspan="1">28</td>
+                <td align="center" rowspan="1" colspan="1">43</td>
+                <td align="center" rowspan="1" colspan="1">AVPAGTVQK</td>
+                <td align="center" rowspan="1" colspan="1">0.4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">98</td>
+                <td align="center" rowspan="1" colspan="1">ASLGGQSCK</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">98</td>
+                <td align="center" rowspan="1" colspan="1">ASLGGQSCK</td>
+                <td align="center" rowspan="1" colspan="1">0.4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">SLYSSGQGR</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">SLYSSGQGR</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1">132</td>
+                <td align="center" rowspan="1" colspan="1">LASWAVNGK</td>
+                <td align="center" rowspan="1" colspan="1">1.3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">94</td>
+                <td align="center" rowspan="1" colspan="1">GVWNASLGG</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">106</td>
+                <td align="center" rowspan="1" colspan="1">KIATPQTKY</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">SSRLGNLDN</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">169</td>
+                <td align="center" rowspan="1" colspan="1">GGQAVTLSR</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+                <td align="center" rowspan="1" colspan="1">111</td>
+                <td align="center" rowspan="1" colspan="1">QTKYGQGYR</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">VLAGCQSSR</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">VLAGCQSSR</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">116</td>
+                <td align="center" rowspan="1" colspan="1">QGYRAGPLR</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">150</td>
+                <td align="center" rowspan="1" colspan="1">GTVASLYSS</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">GISKASLLS</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KASLLSLAA</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AVNGKQLVL</td>
+                <td align="center" rowspan="1" colspan="1">12</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">SLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">13</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>The default length of CTL epitope is 9aa.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T5">
+          <label>Table 5</label>
+          <caption>
+            <p>Parameters HLA-DRB1*0301 and HLA-DRB1 *0701 HLA-DRB1*1501 OMP19 protein T cell epitope prediction.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="2" colspan="1">HLA</th>
+                <th align="center" colspan="4" rowspan="1">Syfpeithi</th>
+                <th align="center" colspan="3" rowspan="1">Net MHCII 2.3 server</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" colspan="2" rowspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="7" colspan="1">HLA-DRB1*0301</td>
+                <td align="center" rowspan="1" colspan="1">140</td>
+                <td align="center" rowspan="1" colspan="1">KQLVLYDANGGTVAS</td>
+                <td align="center" rowspan="1" colspan="1">28</td>
+                <td align="center" colspan="2" rowspan="1">132</td>
+                <td align="center" rowspan="1" colspan="1">LASWAVNGKQLVLYD</td>
+                <td align="center" rowspan="1" colspan="1">12</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">152</td>
+                <td align="center" rowspan="1" colspan="1">VASLYSSGQGRFDGQ</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" colspan="2" rowspan="1">131</td>
+                <td align="center" rowspan="1" colspan="1">NLASWAVNGKQLVLY</td>
+                <td align="center" rowspan="1" colspan="1">14</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">89</td>
+                <td align="center" rowspan="1" colspan="1">PGAVAGVWNASLGGQ</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" colspan="2" rowspan="1">133</td>
+                <td align="center" rowspan="1" colspan="1">ASWAVNGKQLVLYDA</td>
+                <td align="center" rowspan="1" colspan="1">14</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">49</td>
+                <td align="center" rowspan="1" colspan="1">VQKGNLDSPTQFPNA</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" colspan="2" rowspan="1">14</td>
+                <td align="center" rowspan="1" colspan="1">AGIVLAGCQSSRLGN</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">76</td>
+                <td align="center" rowspan="1" colspan="1">VASLPPASAPDLTPG</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" colspan="2" rowspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">GIVLAGCQSSRLGNL</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">134</td>
+                <td align="center" rowspan="1" colspan="1">SWAVNGKQLVLYDAN</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" colspan="2" rowspan="1">134</td>
+                <td align="center" rowspan="1" colspan="1">SWAVNGKQLVLYDAN</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">GIVLAGCQSSRLGNL</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="9" colspan="1">HLA-DRB1 *0701</td>
+                <td align="center" rowspan="1" colspan="1">57</td>
+                <td align="center" rowspan="1" colspan="1">PTQFPNAPSTDMSAQ</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" colspan="2" rowspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">SKASLLSLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">GIVLAGCQSSRLGNL</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" colspan="2" rowspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KASLLSLAAAGIVLA</td>
+                <td align="center" rowspan="1" colspan="1">3.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">126</td>
+                <td align="center" rowspan="1" colspan="1">PGELANLASWAVNGK</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" colspan="2" rowspan="1">3</td>
+                <td align="center" rowspan="1" colspan="1">ISKASLLSLAAAGIV</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">ASLLSLAAAGIVLAG</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" colspan="2" rowspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">ASLLSLAAAGIVLAG</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">76</td>
+                <td align="center" rowspan="1" colspan="1">VASLPPASAPDLTPG</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" colspan="2" rowspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">SLLSLAAAGIVLAGC</td>
+                <td align="center" rowspan="1" colspan="1">6.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">89</td>
+                <td align="center" rowspan="1" colspan="1">PGAVAGVWNASLGGQ</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" colspan="2" rowspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">LLSLAAAGIVLAGCQ</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">141</td>
+                <td align="center" rowspan="1" colspan="1">QLVLYDANGGTVASL</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" colspan="2" rowspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">152</td>
+                <td align="center" rowspan="1" colspan="1">VASLYSSGQGRFDGQ</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" colspan="2" rowspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">LLSLAAAGIVLAGCQ</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="10" colspan="1">HLA-DRB1*1501</td>
+                <td align="center" rowspan="1" colspan="1">139</td>
+                <td align="center" rowspan="1" colspan="1">GKQLVLYDANGGTVA</td>
+                <td align="center" rowspan="1" colspan="1">28</td>
+                <td align="center" colspan="2" rowspan="1">138</td>
+                <td align="center" rowspan="1" colspan="1">NGKQLVLYDANGGTV</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">129</td>
+                <td align="center" rowspan="1" colspan="1">LANLASWAVNGKQLV</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" colspan="2" rowspan="1">139</td>
+                <td align="center" rowspan="1" colspan="1">GKQLVLYDANGGTVA</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">LLSLAAAGIVLAGCQ</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" colspan="2" rowspan="1">140</td>
+                <td align="center" rowspan="1" colspan="1">KQLVLYDANGGTVAS</td>
+                <td align="center" rowspan="1" colspan="1">6</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">ASLLSLAAAGIVLAG</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KASLLSLAAAGIVLA</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">76</td>
+                <td align="center" rowspan="1" colspan="1">VASLPPASAPDLTPG</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">126</td>
+                <td align="center" rowspan="1" colspan="1">PGELANLASWAVNGK</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">89</td>
+                <td align="center" rowspan="1" colspan="1">PGAVAGVWNASLGGQ</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">127</td>
+                <td align="center" rowspan="1" colspan="1">GELANLASWAVNGKQ</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">126</td>
+                <td align="center" rowspan="1" colspan="1">PGELANLASWAVNGK</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">SKASLLSLAAAGIVL</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">140</td>
+                <td align="center" rowspan="1" colspan="1">KQLVLYDANGGTVAS</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">137</td>
+                <td align="center" rowspan="1" colspan="1">VNGKQLVLYDANGGT</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">141</td>
+                <td align="center" rowspan="1" colspan="1">QLVLYDANGGTVASL</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">ASLLSLAAAGIVLAG</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">GIVLAGCQSSRLGNL</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" colspan="2" rowspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>The default length of Th epitope is 15aa.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T6">
+          <label>Table 6</label>
+          <caption>
+            <p>Parameters HLA_A*0201 and HLA_A*0301 HLA-A*1101 OMP25 protein T cell epitope prediction.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="2" colspan="1"/>
+                <th align="center" colspan="3" rowspan="1">Syfpeithi</th>
+                <th align="center" colspan="3" rowspan="1">Net MHC 4.0 server</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="12" colspan="1">HLA_A*0201</td>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">SLVIVSAAL</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">13</td>
+                <td align="center" rowspan="1" colspan="1">ALLPFSATA</td>
+                <td align="center" rowspan="1" colspan="1">0.25</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">13</td>
+                <td align="center" rowspan="1" colspan="1">ALLPFSATA</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">199</td>
+                <td align="center" rowspan="1" colspan="1">KLDTQDFRV</td>
+                <td align="center" rowspan="1" colspan="1">0.25</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">137</td>
+                <td align="center" rowspan="1" colspan="1">GIAGSQIKL</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">130</td>
+                <td align="center" rowspan="1" colspan="1">VMPYLTAGI</td>
+                <td align="center" rowspan="1" colspan="1">1.2</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">126</td>
+                <td align="center" rowspan="1" colspan="1">DLNPVMPYL</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">85</td>
+                <td align="center" rowspan="1" colspan="1">QQDQIVYGV</td>
+                <td align="center" rowspan="1" colspan="1">1.7</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">SLVIVSAAL</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">LVIVSAALL</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">133</td>
+                <td align="center" rowspan="1" colspan="1">YLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">133</td>
+                <td align="center" rowspan="1" colspan="1">YLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">53</td>
+                <td align="center" rowspan="1" colspan="1">YLGYGWNKA</td>
+                <td align="center" rowspan="1" colspan="1">2</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">44</td>
+                <td align="center" rowspan="1" colspan="1">SWAGGYTGL</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">126</td>
+                <td align="center" rowspan="1" colspan="1">DLNPVMPYL</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">168</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+                <td align="center" rowspan="1" colspan="1">3.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">190</td>
+                <td align="center" rowspan="1" colspan="1">DLAGTTVRN</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">172</td>
+                <td align="center" rowspan="1" colspan="1">NILGRVEYR</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">118</td>
+                <td align="center" rowspan="1" colspan="1">SLRARVGYD</td>
+                <td align="center" rowspan="1" colspan="1">16</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="13" colspan="1">HLA_A*0301</td>
+                <td align="center" rowspan="1" colspan="1">176</td>
+                <td align="center" rowspan="1" colspan="1">RVEYRYTQY</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">62</td>
+                <td align="center" rowspan="1" colspan="1">KTSTVGSIK</td>
+                <td align="center" rowspan="1" colspan="1">0.15</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">13</td>
+                <td align="center" rowspan="1" colspan="1">ALLPFSATA</td>
+                <td align="center" rowspan="1" colspan="1">25</td>
+                <td align="center" rowspan="1" colspan="1">54</td>
+                <td align="center" rowspan="1" colspan="1">LGYGWNKAK</td>
+                <td align="center" rowspan="1" colspan="1">1.7</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">IVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">168</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+                <td align="center" rowspan="1" colspan="1">1.9</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">104</td>
+                <td align="center" rowspan="1" colspan="1">KSKDGLEVK</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">104</td>
+                <td align="center" rowspan="1" colspan="1">KSKDGLEVK</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">168</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">191</td>
+                <td align="center" rowspan="1" colspan="1">LAGTTVRNK</td>
+                <td align="center" rowspan="1" colspan="1">3.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AGIAGSQIK</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">117</td>
+                <td align="center" rowspan="1" colspan="1">GSLRARVGY</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">LVIVSAALL</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">160</td>
+                <td align="center" rowspan="1" colspan="1">TAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">118</td>
+                <td align="center" rowspan="1" colspan="1">SLRARVGYD</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">52</td>
+                <td align="center" rowspan="1" colspan="1">LYLGYGWNK</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">172</td>
+                <td align="center" rowspan="1" colspan="1">NILGRVEYR</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AGIAGSQIK</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">SLVIVSAAL</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">IVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">6</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">133</td>
+                <td align="center" rowspan="1" colspan="1">YLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">190</td>
+                <td align="center" rowspan="1" colspan="1">DLAGTTVRN</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">67</td>
+                <td align="center" rowspan="1" colspan="1">GSIKPDDWK</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">13</td>
+                <td align="center" rowspan="1" colspan="1">ALLPFSATA</td>
+                <td align="center" rowspan="1" colspan="1">8.5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="11" colspan="1">HLA-A*1101</td>
+                <td align="center" rowspan="1" colspan="1">67</td>
+                <td align="center" rowspan="1" colspan="1">GSIKPDDWK</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">62</td>
+                <td align="center" rowspan="1" colspan="1">KTSTVGSIK</td>
+                <td align="center" rowspan="1" colspan="1">0.15</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">104</td>
+                <td align="center" rowspan="1" colspan="1">KSKDGLEVK</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">160</td>
+                <td align="center" rowspan="1" colspan="1">TAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">1.4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">168</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+                <td align="center" rowspan="1" colspan="1">21</td>
+                <td align="center" rowspan="1" colspan="1">67</td>
+                <td align="center" rowspan="1" colspan="1">GSIKPDDWK</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">148</td>
+                <td align="center" rowspan="1" colspan="1">GLDDESKFR</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1">52</td>
+                <td align="center" rowspan="1" colspan="1">LYLGYGWNK</td>
+                <td align="center" rowspan="1" colspan="1">2.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">172</td>
+                <td align="center" rowspan="1" colspan="1">NILGRVEYR</td>
+                <td align="center" rowspan="1" colspan="1">17</td>
+                <td align="center" rowspan="1" colspan="1">117</td>
+                <td align="center" rowspan="1" colspan="1">GSLRARVGY</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">136</td>
+                <td align="center" rowspan="1" colspan="1">AGIAGSQIK</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">LVIVSAALL</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">168</td>
+                <td align="center" rowspan="1" colspan="1">KLTDNILGR</td>
+                <td align="center" rowspan="1" colspan="1">3.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">IVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">112</td>
+                <td align="center" rowspan="1" colspan="1">KQGFEGSLR</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">137</td>
+                <td align="center" rowspan="1" colspan="1">GIAGSQIKL</td>
+                <td align="center" rowspan="1" colspan="1">15</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">IVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">VSAALLPFS</td>
+                <td align="center" rowspan="1" colspan="1">7.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">RTLKSLVIV</td>
+                <td align="center" rowspan="1" colspan="1">8.5</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>The default length of CTL epitope is 9aa.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap position="float" id="T7">
+          <label>Table 7</label>
+          <caption>
+            <p>Parameters HLA-DRB1*0301 and HLA-DRB1 *0701 HLA-DRB1*1501 OMP25 protein T cell epitope prediction.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="2" colspan="1"/>
+                <th align="center" colspan="3" rowspan="1">Syfpeithi</th>
+                <th align="center" colspan="3" rowspan="1">Net MHCII 2.3 server</th>
+              </tr>
+              <tr>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Score</th>
+                <th align="center" rowspan="1" colspan="1">Position</th>
+                <th align="center" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" rowspan="1" colspan="1">Percentile rank</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="6" colspan="1">HLA-DRB1*0301</td>
+                <td align="center" rowspan="1" colspan="1">120</td>
+                <td align="center" rowspan="1" colspan="1">RARVGYDLNPVMPYL</td>
+                <td align="center" rowspan="1" colspan="1">27</td>
+                <td align="center" rowspan="1" colspan="1">120</td>
+                <td align="center" rowspan="1" colspan="1">RARVGYDLNPVMPYL</td>
+                <td align="center" rowspan="1" colspan="1">3.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">170</td>
+                <td align="center" rowspan="1" colspan="1">TDNILGRVEYRYTQY</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">121</td>
+                <td align="center" rowspan="1" colspan="1">ARVGYDLNPVMPYLT</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">144</td>
+                <td align="center" rowspan="1" colspan="1">KLNNGLDDESKFRVG</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">122</td>
+                <td align="center" rowspan="1" colspan="1">RVGYDLNPVMPYLTA</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">SAALLPFSATAFAAD</td>
+                <td align="center" rowspan="1" colspan="1">23</td>
+                <td align="center" rowspan="1" colspan="1">119</td>
+                <td align="center" rowspan="1" colspan="1">LRARVGYDLNPVMPY</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">LKSLVIVSAALLPFS</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">KFRVGWTAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">19</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="10" colspan="1">HLA-DRB1 *0701</td>
+                <td align="center" rowspan="1" colspan="1">55</td>
+                <td align="center" rowspan="1" colspan="1">GYGWNKAKTSTVGSI</td>
+                <td align="center" rowspan="1" colspan="1">32</td>
+                <td align="center" rowspan="1" colspan="1">199</td>
+                <td align="center" rowspan="1" colspan="1">KLDTQDFRVGIGYKF</td>
+                <td align="center" rowspan="1" colspan="1">1.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">12</td>
+                <td align="center" rowspan="1" colspan="1">AALLPFSATAFAADA</td>
+                <td align="center" rowspan="1" colspan="1">26</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">MRTLKSLVIVSAALL</td>
+                <td align="center" rowspan="1" colspan="1">4.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">127</td>
+                <td align="center" rowspan="1" colspan="1">LNPVMPYLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">151</td>
+                <td align="center" rowspan="1" colspan="1">DESKFRVGWTAGAGL</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">KFRVGWTAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">152</td>
+                <td align="center" rowspan="1" colspan="1">ESKFRVGWTAGAGLE</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">112</td>
+                <td align="center" rowspan="1" colspan="1">KQGFEGSLRARVGYD</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">153</td>
+                <td align="center" rowspan="1" colspan="1">SKFRVGWTAGAGLEA</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">3</td>
+                <td align="center" rowspan="1" colspan="1">TLKSLVIVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">KFRVGWTAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">6.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">120</td>
+                <td align="center" rowspan="1" colspan="1">RARVGYDLNPVMPYL</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">3</td>
+                <td align="center" rowspan="1" colspan="1">TLKSLVIVSAALLPF</td>
+                <td align="center" rowspan="1" colspan="1">7</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">152</td>
+                <td align="center" rowspan="1" colspan="1">ESKFRVGWTAGAGLE</td>
+                <td align="center" rowspan="1" colspan="1">22</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">LKSLVIVSAALLPFS</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">155</td>
+                <td align="center" rowspan="1" colspan="1">FRVGWTAGAGLEAKL</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">53</td>
+                <td align="center" rowspan="1" colspan="1">YLGYGWNKAKTSTVG</td>
+                <td align="center" rowspan="1" colspan="1">10</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="9" colspan="1">HLA-DRB1*1501</td>
+                <td align="center" rowspan="1" colspan="1">127</td>
+                <td align="center" rowspan="1" colspan="1">LNPVMPYLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">28</td>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">VSAALLPFSATAFAA</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">SAALLPFSATAFAAD</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">SAALLPFSATAFAAD</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">ADAIQEQPPVPAPVE</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">12</td>
+                <td align="center" rowspan="1" colspan="1">AALLPFSATAFAADA</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">43</td>
+                <td align="center" rowspan="1" colspan="1">YSWAGGYTGLY L G Y G</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">IVSAALLPFSATAFA</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">KSLVIVSAALLPFSA</td>
+                <td align="center" rowspan="1" colspan="1">24</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">MRTLKSLV IVSAALL</td>
+                <td align="center" rowspan="1" colspan="1">5.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">39</td>
+                <td align="center" rowspan="1" colspan="1">QPPVPAPVEVAPQYS</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">127</td>
+                <td align="center" rowspan="1" colspan="1">LNPVMPYLTAGIAGS</td>
+                <td align="center" rowspan="1" colspan="1">9</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">30</td>
+                <td align="center" rowspan="1" colspan="1">QPPVPAPVEVAPQYS</td>
+                <td align="center" rowspan="1" colspan="1">20</td>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">VIVSAALLPFSATAF</td>
+                <td align="center" rowspan="1" colspan="1">9.5</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">LKSLVIVSAALLPFS</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1">128</td>
+                <td align="center" rowspan="1" colspan="1">NPVMPYLTAGIAGSQ</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+              </tr>
+              <tr>
+                <td align="center" rowspan="1" colspan="1">154</td>
+                <td align="center" rowspan="1" colspan="1">KFRVGWTAGAGLEAK</td>
+                <td align="center" rowspan="1" colspan="1">18</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>The default length of Th epitope is 15aa.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>4. Discussion</title>
+      <p>Brucella infection poses a serious health threat to herders and livestock in areas with developed animal husbandry, and results in substantial losses to the farming and pastoral economy.<sup>[<xref rid="R31" ref-type="bibr">31</xref>]</sup> However, there is currently no effective vaccine against Brucella in humans.<sup>[<xref rid="R32" ref-type="bibr">32</xref>]</sup> Studies have shown that using biological information analysis to predict pathogenic B cell and T cell epitopes is a cost-effective method in the design of vaccines.<sup>[<xref rid="R33" ref-type="bibr">33</xref>&#x2013;<xref rid="R36" ref-type="bibr">36</xref>]</sup> Many studies have shown that an effective Brucella vaccine requires humoral and cellular immune-mediated immune responses.<sup>[<xref rid="R37" ref-type="bibr">37</xref>]</sup></p>
+      <p>Some proteins from the Brucella cell membrane and cytoplasm have been evaluated as protective antigens in mouse models, including OMP28 (BP26),<sup>[<xref rid="R38" ref-type="bibr">38</xref>]</sup> Omp2b,<sup>[<xref rid="R39" ref-type="bibr">39</xref>]</sup> Cu-Zn superoxide dismutase,<sup>[<xref rid="R40" ref-type="bibr">40</xref>]</sup> and Omp31.<sup>[<xref rid="R41" ref-type="bibr">41</xref>]</sup> Among them, Omp19 is related to bacterial virulence and is widely expressed in Brucella.<sup>[<xref rid="R42" ref-type="bibr">42</xref>]</sup> Pasquevich et al<sup>[<xref rid="R15" ref-type="bibr">15</xref>]</sup> found that the lipidated Omp19 protein had a significant protective effect against Brucella abortus infection, and had a similar level of protection induced by the S19 vaccine. And in their subsequent research,<sup>[<xref rid="R17" ref-type="bibr">17</xref>]</sup> they found that the purified nonlipidated Omp19 protein elicited a protective immune response in mice. We speculate that a vaccine containing the Omp19 epitope may generate a protective immune response against multiple Brucella infections. Omp25 is highly conserved among Brucella species,<sup>[<xref rid="R43" ref-type="bibr">43</xref>]</sup> and can inhibit the production of tumor necrosis factor alpha by human macrophages infected with Brucella Suis.<sup>[<xref rid="R44" ref-type="bibr">44</xref>]</sup> Studies by Goel et al<sup>[<xref rid="R20" ref-type="bibr">20</xref>,<xref rid="R45" ref-type="bibr">45</xref>]</sup> and Paul et al<sup>[<xref rid="R46" ref-type="bibr">46</xref>]</sup> showed that the immune response produced by recombinant Omp25 in mice protected the infection of Brucella melitensis and Brucella abortus. These studies suggest that Omp19 and Omp25 are effective candidates for human brucellosis vaccines. In this study, we predicted the potential B cell and T cell epitopes of Omp19 and Omp25. According to the physicochemical properties predicted by Prot Param, Omp19 and Omp25 were both highly hydrophilic proteins. Their isoelectric points were 8.91 and 8.58, respectively. The prediction of the instability index showed that both of them were stable. These biochemical parameters will provide references for the extraction and purification of Omp19 and Omp25.</p>
+      <p>At present, the commonly used methods to predict the secondary structure of proteins are PHD, SOPMA, GOR, etc. Among them, SOPMA uses an optimization scheme and can combine several independent secondary structure predictions into 1 consistent result.<sup>[<xref rid="R22" ref-type="bibr">22</xref>]</sup> Using SOPMA analysis, we analyzed the secondary structures of OMP19 and OMP25. Protein secondary structure mainly includes &#x3B1;-helix, &#x3B2;-sheet, &#x3B2;-turn and random coil. The &#x3B1;-helix and &#x3B2;-sheet play an important role in maintaining the stability of the secondary structure of the protein, but they are mostly located inside the protein. Thus, it is more difficult for them to form epitopes. However, &#x3B2;-turn regions and random coil regions are mostly found on the surface of proteins. Therefore, &#x3B2;-turn regions and random coil regions are conductive to the formation of linear B cell epitope regions. The results showed that in the secondary structure of Omp19, &#x3B1;-helix accounted for 12.43%, &#x3B2;-sheet accounted for 18.64%, and, &#x3B2;-turn and random coil accounted for 6.78% and 62.15%, respectively. In the secondary structure of OMP25, &#x3B1;-helix accounted for 23.94%, &#x3B2;-sheet accounted for 23.47%, and, &#x3B2;-turn and random coil accounted for 4.23% and 48.36%, respectively. From the secondary structure, we can speculate that both Omp19 and Omp25 contain regions that easily form epitopes.</p>
+      <p>In addition, we use SWISS-MODEL, which is a commonly used protein tertiary structure prediction tool,<sup>[<xref rid="R23" ref-type="bibr">23</xref>]</sup> to predict the tertiary structure. In Rasmol software, we choose the Cartoons mode as the representation form of Omp19 and Omp25. Cartoons mode is mainly used to display some special structures of macromolecules, such as alpha helix and beta fold. We found that its &#x3B2;-turns and random coil structures were located on the outside of the protein, suggesting that these structures are prone to form B cell linear epitopes.</p>
+      <p>Humoral immunity plays an important role in the initial stages of the Brucella infection. But when Brucella resides inside the cell, the effective immune response against Brucella is mainly cellular immunity. In addition, the production of interferon-&#x3B3; by helper T cells 1 and CTL cell-mediated responses are key mediators of protective immunity against Brucella infection.<sup>[<xref rid="R17" ref-type="bibr">17</xref>]</sup> Therefore, we analyzed the B-, Th-, and CTL-cell epitopes of Omp19 and Omp25.</p>
+      <p>B cell epitopes play a vital role in vaccine design, immunodiagnostic design, and immunogen design for antibody production.<sup>[<xref rid="R47" ref-type="bibr">47</xref>]</sup> In this study, we analyzed the linear B cell epitopes of Omp19 and Omp25. To improve the accuracy of predicting epitopes, we used Bepi Pred, ABC pred, BCPREDS, and IEDB to analyze linear B cell epitopes. Bepi Pred is a method for obtaining B cell epitopes based on the combination of a hidden Markov model and the optimal propensity scale method.<sup>[<xref rid="R24" ref-type="bibr">24</xref>,<xref rid="R48" ref-type="bibr">48</xref>]</sup> The score threshold is set to the default value (0.35). ABC Pred is a prediction method using a recurrent neural network,<sup>[<xref rid="R25" ref-type="bibr">25</xref>]</sup> with amino acid length and threshold set to 20 and 0.51, respectively. BC Pred is based on the subsequence support vector machine theory.<sup>[<xref rid="R49" ref-type="bibr">49</xref>]</sup> The default analysis sequence length is 20 amino acid sequences, and the default specificity is 75%. The IEDB predicts &#x3B2;-turn, hydrophilicity, flexibility and surface accessibility parameters of B cell epitopes. In addition, regions with strong hydrophilicity, good accessibility and plasticity are also the dominant regions for forming epitopes.<sup>[<xref rid="R50" ref-type="bibr">50</xref>]</sup> Comprehensively analyzing the results of the 4 analysis softwares, we eliminated sequences below the threshold and selected overlapping sequences with higher scores as the final B cell candidate epitopes. In the end, we used amino acids 32 to 39, 56 to 61, 82 to 87, 117 to 121, and 160 to 168 as the final B cell candidate epitopes of Omp19. Amino acid 59 to 71, amino acid 93 to 101, amino acid 147 to 151, amino acid 182 to 191 were used as the final B cell candidate epitopes of Omp25.</p>
+      <p>T cell epitopes are short protein peptides that bind to MHC molecules and are recognized by T cell receptors. T cell receptor is able to recognize the antigen when the surface of the antigen-presenting cell is bound to the MHC molecule. T cell epitopes are presented by class I (MHC I) and II (MHC II) MHC molecules, which are recognized by 2 different T cell subsets, CD8&#x2005;+&#x2005;and CD4&#x2005;+&#x2005;T cells, respectively. CD8&#x2005;+&#x2005;T cells become CTLs after CD8 epitope recognition. Meanwhile, activated CD4&#x2005;+&#x2005;T cells can differentiate into helper (Th) or regulatory (Treg) T cells.<sup>[<xref rid="R28" ref-type="bibr">28</xref>]</sup> It isshown that,<sup>[<xref rid="R30" ref-type="bibr">30</xref>]</sup> among the Uighur population in Xinjiang, China, HLA-A * 1101 (13.46%), A * 0201 (12.50%), A * 0301 (10.10%), and HLA-DRB1 * 0701 (16.35%), DRB1 * 1501 (8.65%), DRB1 * 0301 (7.69%) had high frequency distribution. Therefore, we use HLA-A * 1101, HLA-A * 0201, and HLA-A * 0301 to predict the corresponding CTL epitope, and HLA-DRB1 * 0701, HLA-DRB1 * 1501, and HLA-DRB1 * 0301 to predict the Th epitope. Bit. We use SYFPEITHI and NetMHCII to predict T cell epitopes of OMP19 and OMP25 proteins. SYFPEITHI is based on the principle of the motif matrix,<sup>[<xref rid="R51" ref-type="bibr">51</xref>]</sup> and NetMHC is a model based on artificial neural networks.<sup>[<xref rid="R29" ref-type="bibr">29</xref>,<xref rid="R52" ref-type="bibr">52</xref>]</sup> MHC I molecules can only bind relatively short peptides of 9 to 11 amino acids, and MHC II molecules can bind longer peptides.<sup>[<xref rid="R28" ref-type="bibr">28</xref>]</sup> In the end, we selected amino acids 10 to 18, 87 to 95, 98 to 106, 136 to 144, and 154 to 162 as the CTL epitopes of Omp19 protein. Amino acids 6 to 20, 15 to 29, and 126 to 154 were determined as the Th cell epitopes of Omp19 protein. The 7 to 15 amino acids, 13 to 21 amino acids, 136 to 144 amino acids, 2 to 10 amino acids, and 168 to 176 amino acids were selected as CTL epitopes of Omp25 protein. Amino acids 11 to 25, 120 to 134, and 154 to 168 were determined as the Th cell epitopes of Omp25 protein.</p>
+      <p>With the rapid development of computational methods and the production of large amount of experimental immunological data, a new field of research called immunoinformatics has arisen. Immunoinformatics focuses on the design and development of computational and mathematical models for the analysis of the immune system through immunological data. Safavi et al<sup>[<xref rid="R53" ref-type="bibr">53</xref>]</sup> screened out the high immunogenic region of TMEM31 antigen according to the CTL epitopes and MHC binding affinity. They designed the multi-epitope DNA and peptide cancer vaccines consisting of the most immunodominant epitopes of ACRBP and SYCP1 antigens by using bioinformatic tools. In another study by Safavi et al<sup>[<xref rid="R54" ref-type="bibr">54</xref>]</sup>, prophylactic combination immunization with multi-epitope DNA and polypeptide cancer vaccines activated the immune system against breast cancer in the animal model. Thus, their findings fully demonstrate the feasibility of bioinformatics in predicting epitopes of antigens and developing vaccines. In future studies, we will develop vaccines based on the prediced epitopes.</p>
+    </sec>
+    <sec>
+      <title>5. Conclusion</title>
+      <p>In this study, we predicted the physicochemical properties of Brucella outer membrane Omp19 and Omp25 protein. We used different methods and parameters to predict the B cell and T cell epitopes of Omp19 and Omp25 protein. The potential B cell and T cell epitopes of Omp19 and Omp25 protein were identified. These predicted B cell and T cell epitopes provide basis for the design of Brucella multi-epitope vaccines.</p>
+    </sec>
+    <sec>
+      <title>Author contributions</title>
+      <p><bold>Conceptualization:</bold> Donghao Shi, Zhiwei Li.</p>
+      <p><bold>Data curation:</bold> Donghao Shi, Yuan Chen, Muzhi Chen, Tingting Zhou, Feili Xu, Chao Zhang, Changmin Wang.</p>
+      <p><bold>Formal analysis:</bold> Feili Xu, Chao Zhang, Changmin Wang.</p>
+      <p><bold>Funding acquisition:</bold> Zhiwei Li.</p>
+      <p><bold>Project administration:</bold> Zhiwei Li.</p>
+      <p><bold>Software:</bold> Donghao Shi, Yuan Chen, Muzhi Chen, Tingting Zhou.</p>
+      <p><bold>Writing &#x2013; original draft:</bold> Donghao Shi.</p>
+      <p><bold>Writing &#x2013; review &amp; editing:</bold> Zhiwei Li.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="abbr">
+        <p>
+<def-list><title>Abbreviations:</title><def-item><term>MHC</term><def><p>major histocompatibility complex</p></def></def-item></def-list>
+</p>
+      </fn>
+    </fn-group>
+    <fn-group>
+      <fn fn-type="other">
+        <p>The datasets generated during and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>The study did not include any human or animal experimentation for which ethical approval was required.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>This study was supported by the Xinjiang Uygur Autonomous Region Natural Science Foundation Outstanding Youth Science Foundation Project (2022D01E30), the Xinjiang Uygur Autonomous Region Regional Collaborative Innovation Project (2022E02118), Tianshan Talent- top-notch personnel (2022TSYCCX0102) ,and the National Natural Science Foundation of China (No. 81860375).</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>The authors have no conflicts of interest to disclose.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>How to cite this article: Shi D, Chen Y, Chen M, Zhou T, Xu F, Zhang C, Wang C, Li Z. Bioinformatics analysis of Omp19 and Omp25 proteins for designing multi-epitope vaccines against Brucella. Medicine 2023;102:11(e33182).</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>[1]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Musallam</surname><given-names>II</given-names></name><name><surname>Abo-Shehada</surname><given-names>MN</given-names></name><name><surname>Hegazy</surname><given-names>YM</given-names></name><etal/></person-group>. <article-title>Systematic review of brucellosis in the Middle East: disease frequency in ruminants and humans and risk factors for human infection.</article-title>
+<source>Epidemiol Infect</source>. <year>2016</year>;<volume>144</volume>:<fpage>671</fpage>&#x2013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">26508323</pub-id></mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>[2]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>MJ</given-names></name><name><surname>Di</surname><given-names>DD</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Genotyping of Brucella melitensis and Brucella abortus strains currently circulating in Xinjiang, China.</article-title>
+<source>Infect Genet Evol</source>. <year>2016</year>;<volume>44</volume>:<fpage>522</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">27521159</pub-id></mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>[3]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Zhang</surname><given-names>F</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Immunoinformatics prediction of OMP2b and BCSP31 for designing multi-epitope vaccine against Brucella.</article-title>
+<source>Mol Immunol</source>. <year>2019</year>;<volume>114</volume>:<fpage>651</fpage>&#x2013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">31557626</pub-id></mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>[4]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pal</surname><given-names>M</given-names></name></person-group>. <article-title>Public health and economic importance of bovine brucellosis: an overview.</article-title>
+<source>Am J Epidemiol Infect Diseases</source>. <year>2017</year>;<volume>5</volume>:<fpage>27</fpage>&#x2013;<lpage>34</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>[5]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dean</surname><given-names>AS</given-names></name><name><surname>Crump</surname><given-names>L</given-names></name><name><surname>Greter</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Clinical manifestations of human brucellosis: a systematic review and meta-analysis.</article-title>
+<source>PLoS NeglTrop Dis</source>. <year>2012</year>;<volume>6</volume>:<fpage>e1929e1929</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>[6]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lalsiamthara</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>JH</given-names></name></person-group>. <article-title>Development and trial of vaccines against Brucella.</article-title>
+<source>J Vet Sci</source>. <year>2017</year>;<volume>18</volume>:<fpage>281</fpage>&#x2013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">28859268</pub-id></mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>[7]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Skyberg</surname><given-names>JA</given-names></name><name><surname>Cao</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Progress in Brucella vaccine development.</article-title>
+<source>Front Biol (Beijing)</source>. <year>2013</year>;<volume>8</volume>:<fpage>60</fpage>&#x2013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">23730309</pub-id></mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>[8]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mansoori</surname><given-names>N</given-names></name><name><surname>Pourmand</surname><given-names>M</given-names></name></person-group>. <article-title>Vaccines and vaccine candidates against brucellosis.</article-title>
+<source>Infect Epidemiol Med</source>. <year>2016</year>;<volume>2</volume>:<fpage>32</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>[9]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Minas</surname><given-names>A</given-names></name><name><surname>Minas</surname><given-names>M</given-names></name><name><surname>Stournara</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>The &#x201C;effects&#x201D; of Rev-1 vaccination of sheep and goats on human brucellosis in Greece.</article-title>
+<source>Prev Vet Med</source>. <year>2004</year>;<volume>64</volume>:<fpage>41</fpage>&#x2013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">15219968</pub-id></mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>[10]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Olsen</surname><given-names>SC</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name><name><surname>Schurig</surname><given-names>GG</given-names></name><etal/></person-group>. <article-title>Immune responses and protection against experimental challenge after vaccination of bison with Brucella abortus strain RB51 or RB51 overexpressing superoxide dismutase and glycosyltransferase genes.</article-title>
+<source>Clin Vaccine Immunol</source>. <year>2009</year>;<volume>16</volume>:<fpage>535</fpage>&#x2013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">19176693</pub-id></mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>[11]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saadi</surname><given-names>M</given-names></name><name><surname>Karkhah</surname><given-names>A</given-names></name><name><surname>Nouri</surname><given-names>HR</given-names></name></person-group>. <article-title>Development of a multi-epitope peptide vaccine inducing robust T cell responses against brucellosis using immunoinformatics based approaches.</article-title>
+<source>Infect Genet Evol</source>. <year>2017</year>;<volume>51</volume>:<fpage>227</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">28411163</pub-id></mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>[12]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skwarczynski</surname><given-names>M</given-names></name><name><surname>Toth</surname><given-names>I</given-names></name></person-group>. <article-title>Recent advances in peptide-based subunit nanovaccines.</article-title>
+<source>Nanomedicine (Lond)</source>. <year>2014</year>;<volume>9</volume>:<fpage>2657</fpage>&#x2013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">25529569</pub-id></mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>[13]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dar</surname><given-names>HA</given-names></name><name><surname>Zaheer</surname><given-names>T</given-names></name><name><surname>Shehroz</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Immunoinformatics-aided design and evaluation of a potential multi-epitope vaccine against Klebsiella pneumoniae.</article-title>
+<source>Vaccines (Basel)</source>. <year>2019</year>;<volume>7</volume>:<fpage>88</fpage>.<pub-id pub-id-type="pmid">31409021</pub-id></mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>[14]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tu</surname><given-names>J</given-names></name><name><surname>Hou</surname><given-names>B</given-names></name><name><surname>Wang</surname><given-names>B</given-names></name><etal/></person-group>. <article-title>A multi-epitope vaccine based on Chlamydia trachomatis major outer membrane protein induces specific immunity in mice.</article-title>
+<source>Acta Biochim Biophys Sin (Shanghai)</source>. <year>2014</year>;<volume>46</volume>:<fpage>401</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">24681882</pub-id></mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>[15]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>KA</given-names></name><name><surname>Estein</surname><given-names>SM</given-names></name><name><surname>Garcia Samartino</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Immunization with recombinant Brucella species outer membrane protein Omp16 or Omp19 in adjuvant induces specific CD4+ and CD8+ T cells as well as systemic and oral protection against Brucella abortus infection.</article-title>
+<source>Infect Immun</source>. <year>2009</year>;<volume>77</volume>:<fpage>436</fpage>&#x2013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">18981242</pub-id></mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>[16]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abkar</surname><given-names>M</given-names></name><name><surname>Lotfi</surname><given-names>AS</given-names></name><name><surname>Amani</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Survey of Omp19 immunogenicity against Brucella abortus and Brucella melitensis: influence of nanoparticulation versus traditional immunization.</article-title>
+<source>Vet Res Commun</source>. <year>2015</year>;<volume>39</volume>:<fpage>217</fpage>&#x2013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">26395469</pub-id></mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>[17]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>KA</given-names></name><name><surname>Ibanez</surname><given-names>AE</given-names></name><name><surname>Coria</surname><given-names>LM</given-names></name><etal/></person-group>. <article-title>An oral vaccine based on U-Omp19 induces protection against B. abortus mucosal challenge by inducing an adaptive IL-17 immune response in mice.</article-title>
+<source>PLoS One</source>. <year>2011</year>;<volume>6</volume>:<fpage>e16203</fpage>.<pub-id pub-id-type="pmid">21264260</pub-id></mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>[18]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cui</surname><given-names>B</given-names></name><name><surname>Liu</surname><given-names>W</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><etal/></person-group>. <article-title>Brucella Omp25 Upregulates miR-155, miR-21-5p, and miR-23b to Inhibit Interleukin-12 production via modulation of programmed death-1 signaling in human monocyte/macrophages.</article-title>
+<source>Front Immunol</source>. <year>2017</year>;<volume>8</volume>:<fpage>708</fpage>.<pub-id pub-id-type="pmid">28694807</pub-id></mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>[19]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Commander</surname><given-names>NJ</given-names></name><name><surname>Spencer</surname><given-names>SA</given-names></name><name><surname>Wren</surname><given-names>BW</given-names></name><etal/></person-group>. <article-title>The identification of two protective DNA vaccines from a panel of five plasmid constructs encoding Brucella melitensis 16M genes.</article-title>
+<source>Vaccine</source>. <year>2007</year>;<volume>25</volume>:<fpage>43</fpage>&#x2013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">17049676</pub-id></mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>[20]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goel</surname><given-names>D</given-names></name><name><surname>Bhatnagar</surname><given-names>R</given-names></name></person-group>. <article-title>Intradermal immunization with outer membrane protein 25 protects BALB/c mice from virulent B. abortus 544.</article-title>
+<source>Mol Immunol</source>. <year>2012</year>;<volume>51</volume>:<fpage>159</fpage>&#x2013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">22464098</pub-id></mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>[21]</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>GY</surname><given-names>W</given-names></name></person-group>. <article-title>The proteomics protocols handbook.</article-title> In: <person-group person-group-type="editor"><name><surname>Walker</surname><given-names>J</given-names></name></person-group>, ed. <source>Biochemistry</source>. <volume>Vol 71</volume>. <publisher-loc>Moscow</publisher-loc>: <publisher-name>Humana Press</publisher-name>; <year>2005</year>:<fpage>696</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>[22]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Geourjon</surname><given-names>C</given-names></name><name><surname>Deleage</surname><given-names>G</given-names></name></person-group>. <article-title>SOPMA: significant improvements in protein secondary structure prediction by consensus prediction from multiple alignments.</article-title>
+<source>Comput Appl Biosci</source>. <year>1995</year>;<volume>11</volume>:<fpage>681</fpage>&#x2013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">8808585</pub-id></mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>[23]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bienert</surname><given-names>S</given-names></name><name><surname>Waterhouse</surname><given-names>A</given-names></name><name><surname>de Beer</surname><given-names>TA</given-names></name><etal/></person-group>. <article-title>The SWISS-MODEL repository-new features and functionality.</article-title>
+<source>Nucleic Acids Res</source>. <year>2017</year>;<volume>45</volume>:<fpage>D313</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">27899672</pub-id></mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>[24]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Larsen</surname><given-names>JE</given-names></name><name><surname>Lund</surname><given-names>O</given-names></name><name><surname>Nielsen</surname><given-names>M</given-names></name></person-group>. <article-title>Improved method for predicting linear B-cell epitopes.</article-title>
+<source>Immunome Res</source>. <year>2006</year>;<volume>2</volume>:<fpage>2</fpage>.<pub-id pub-id-type="pmid">16635264</pub-id></mixed-citation>
+      </ref>
+      <ref id="R25">
+        <label>[25]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saha</surname><given-names>S</given-names></name><name><surname>Raghava</surname><given-names>GPS</given-names></name></person-group>. <article-title>Prediction of continuous B-cell epitopes in an antigen using recurrent neural network.</article-title>
+<source>Proteins</source>. <year>2006</year>;<volume>65</volume>:<fpage>40</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">16894596</pub-id></mixed-citation>
+      </ref>
+      <ref id="R26">
+        <label>[26]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Liu</surname><given-names>H</given-names></name><name><surname>Yang</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Prediction of linear B-cell epitopes using amino acid pair antigenicity scale.</article-title>
+<source>Amino Acids</source>. <year>2007</year>;<volume>33</volume>:<fpage>423</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">17252308</pub-id></mixed-citation>
+      </ref>
+      <ref id="R27">
+        <label>[27]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ponomarenko</surname><given-names>JV</given-names></name><name><surname>Bourne</surname><given-names>PE</given-names></name></person-group>. <article-title>Antibody-protein interactions: benchmark datasets and prediction tools evaluation.</article-title>
+<source>BMC Struct Biol</source>. <year>2007</year>;<volume>7</volume>:<fpage>64</fpage>.<pub-id pub-id-type="pmid">17910770</pub-id></mixed-citation>
+      </ref>
+      <ref id="R28">
+        <label>[28]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanchez-Trincado</surname><given-names>JL</given-names></name><name><surname>Gomez-Perosanz</surname><given-names>M</given-names></name><name><surname>Reche</surname><given-names>PA</given-names></name></person-group>. <article-title>Fundamentals and methods for T- and B-cell epitope prediction.</article-title>
+<source>J Immunol Res</source>. <year>2017</year>;<volume>2017</volume>:<fpage>2680160</fpage>.<pub-id pub-id-type="pmid">29445754</pub-id></mixed-citation>
+      </ref>
+      <ref id="R29">
+        <label>[29]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nielsen</surname><given-names>M</given-names></name><name><surname>Lundegaard</surname><given-names>C</given-names></name><name><surname>Lund</surname><given-names>O</given-names></name></person-group>. <article-title>Prediction of MHC class II binding affinity using SMM-align, a novel stabilization matrix alignment method.</article-title>
+<source>BMC Bioinf</source>. <year>2007</year>;<volume>8</volume>:<fpage>238</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R30">
+        <label>[30]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>CM</given-names></name><name><surname>Zhu</surname><given-names>BF</given-names></name><name><surname>Deng</surname><given-names>YJ</given-names></name><etal/></person-group>. <article-title>Allele polymorphism and haplotype diversity of HLA-A, -B and -DRB1 loci in sequence-based typing for Chinese Uyghur ethnic group.</article-title>
+<source>PLoS One</source>. <year>2010</year>;<volume>5</volume>:<fpage>e13458</fpage>.<pub-id pub-id-type="pmid">21079793</pub-id></mixed-citation>
+      </ref>
+      <ref id="R31">
+        <label>[31]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McDermott</surname><given-names>J</given-names></name><name><surname>Grace</surname><given-names>D</given-names></name><name><surname>Zinsstag</surname><given-names>J</given-names></name></person-group>. <article-title>Economics of brucellosis impact and control in low-income countries.</article-title>
+<source>Rev Sci Tech</source>. <year>2013</year>;<volume>32</volume>:<fpage>249</fpage>&#x2013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">23837382</pub-id></mixed-citation>
+      </ref>
+      <ref id="R32">
+        <label>[32]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vishnu</surname><given-names>US</given-names></name><name><surname>Sankarasubramanian</surname><given-names>J</given-names></name><name><surname>Gunasekaran</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>Identification of potential antigens from non-classically secreted proteins and designing novel multitope peptide vaccine candidate against Brucella melitensis through reverse vaccinology and immunoinformatics approach.</article-title>
+<source>Infect Genet Evol</source>. <year>2017</year>;<volume>55</volume>:<fpage>151</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">28919551</pub-id></mixed-citation>
+      </ref>
+      <ref id="R33">
+        <label>[33]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hajighahramani</surname><given-names>N</given-names></name><name><surname>Nezafat</surname><given-names>N</given-names></name><name><surname>Eslami</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Immunoinformatics analysis and in silico designing of a novel multi-epitope peptide vaccine against Staphylococcus aureus.</article-title>
+<source>Infect Genet Evol</source>. <year>2017</year>;<volume>48</volume>:<fpage>83</fpage>&#x2013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">27989662</pub-id></mixed-citation>
+      </ref>
+      <ref id="R34">
+        <label>[34]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Karkhah</surname><given-names>A</given-names></name><name><surname>Amani</surname><given-names>J</given-names></name></person-group>. <article-title>A potent multivalent vaccine for modulation of immune system in atherosclerosis: an in silico approach.</article-title>
+<source>Clin Exp Vaccine Res</source>. <year>2016</year>;<volume>5</volume>:<fpage>50</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">26866024</pub-id></mixed-citation>
+      </ref>
+      <ref id="R35">
+        <label>[35]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kumar</surname><given-names>A</given-names></name><name><surname>Harjai</surname><given-names>K</given-names></name><name><surname>Chhibber</surname><given-names>S</given-names></name></person-group>. <article-title>A multiepitopic theoretical fusion construct based on in-silico epitope screening of known vaccine candidates for protection against wide range of enterobacterial pathogens.</article-title>
+<source>Hum Immunol</source>. <year>2019</year>;<volume>80</volume>:<fpage>493</fpage>&#x2013;<lpage>502</lpage>.<pub-id pub-id-type="pmid">30769032</pub-id></mixed-citation>
+      </ref>
+      <ref id="R36">
+        <label>[36]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Russi</surname><given-names>RC</given-names></name><name><surname>Bourdin</surname><given-names>E</given-names></name><name><surname>Garcia</surname><given-names>MI</given-names></name><etal/></person-group>. <article-title>In silico prediction of T- and B-cell epitopes in PMPD: first step towards to the design of a Chlamydia trachomatis vaccine.</article-title>
+<source>Biomed J</source>. <year>2018</year>;<volume>41</volume>:<fpage>109</fpage>&#x2013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">29866599</pub-id></mixed-citation>
+      </ref>
+      <ref id="R37">
+        <label>[37]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>CL</given-names></name><name><surname>Parent</surname><given-names>M</given-names></name></person-group>. <article-title>Fundamentals of host immune response against Brucella abortus: what the mouse model has revealed about control of infection.</article-title>
+<source>Vet Microbiol</source>. <year>2002</year>;<volume>90</volume>:<fpage>367</fpage>&#x2013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">12414157</pub-id></mixed-citation>
+      </ref>
+      <ref id="R38">
+        <label>[38]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qiu</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Wu</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Characterization of periplasmic protein BP26 epitopes of Brucella melitensis reacting with murine monoclonal and sheep antibodies.</article-title>
+<source>PLoS One</source>. <year>2012</year>;<volume>7</volume>:<fpage>e34246</fpage>.<pub-id pub-id-type="pmid">22457830</pub-id></mixed-citation>
+      </ref>
+      <ref id="R39">
+        <label>[39]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Golshani</surname><given-names>M</given-names></name><name><surname>Rafati</surname><given-names>S</given-names></name><name><surname>Nejati-Moheimani</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Comparison of potential protection conferred by three immunization strategies (protein/protein, DNA/DNA, and DNA/protein) against Brucella infection using Omp2b in BALB/c Mice.</article-title>
+<source>Vet Microbiol</source>. <year>2016</year>;<volume>197</volume>:<fpage>47</fpage>&#x2013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">27938682</pub-id></mixed-citation>
+      </ref>
+      <ref id="R40">
+        <label>[40]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Zhou</surname><given-names>M</given-names></name><name><surname>Yang</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Overexpression of Cu-Zn SOD in Brucella abortus suppresses bacterial intracellular replication via down-regulation of Sar1 activity.</article-title>
+<source>Oncotarget</source>. <year>2018</year>;<volume>9</volume>:<fpage>9596</fpage>&#x2013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">29515756</pub-id></mixed-citation>
+      </ref>
+      <ref id="R41">
+        <label>[41]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ghasemi</surname><given-names>A</given-names></name><name><surname>Jeddi-Tehrani</surname><given-names>M</given-names></name><name><surname>Mautner</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Simultaneous immunization of mice with Omp31 and TF provides protection against Brucella melitensis infection.</article-title>
+<source>Vaccine</source>. <year>2015</year>;<volume>33</volume>:<fpage>5532</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">26384448</pub-id></mixed-citation>
+      </ref>
+      <ref id="R42">
+        <label>[42]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sidhu-Munoz</surname><given-names>RS</given-names></name><name><surname>Sancho</surname><given-names>P</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Characterization of cell envelope multiple mutants of brucella ovis and assessment in mice of their vaccine potential.</article-title>
+<source>Front Microbiol</source>. <year>2018</year>;<volume>9</volume>:<fpage>2230</fpage>.<pub-id pub-id-type="pmid">30294312</pub-id></mixed-citation>
+      </ref>
+      <ref id="R43">
+        <label>[43]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yousefi</surname><given-names>S</given-names></name><name><surname>Tahmoorespur</surname><given-names>M</given-names></name><name><surname>Sekhavati</surname><given-names>MH</given-names></name></person-group>. <article-title>Cloning, expression and molecular analysis of Iranian Brucella melitensis Omp25 gene for designing a subunit vaccine.</article-title>
+<source>Res Pharm Sci</source>. <year>2016</year>;<volume>11</volume>:<fpage>412</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">27920824</pub-id></mixed-citation>
+      </ref>
+      <ref id="R44">
+        <label>[44]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jubier-Maurin</surname><given-names>V</given-names></name><name><surname>Boigegrain</surname><given-names>RA</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Major outer membrane protein Omp25 of Brucella suis is involved in inhibition of tumor necrosis factor alpha production during infection of human macrophages.</article-title>
+<source>Infect Immun</source>. <year>2001</year>;<volume>69</volume>:<fpage>4823</fpage>&#x2013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">11447156</pub-id></mixed-citation>
+      </ref>
+      <ref id="R45">
+        <label>[45]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goel</surname><given-names>D</given-names></name><name><surname>Rajendran</surname><given-names>V</given-names></name><name><surname>Ghosh</surname><given-names>PC</given-names></name><etal/></person-group>. <article-title>Cell mediated immune response after challenge in Omp25 liposome immunized mice contributes to protection against virulent Brucella abortus 544.</article-title>
+<source>Vaccine</source>. <year>2013</year>;<volume>31</volume>:<fpage>1231</fpage>&#x2013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">23273966</pub-id></mixed-citation>
+      </ref>
+      <ref id="R46">
+        <label>[46]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paul</surname><given-names>S</given-names></name><name><surname>Peddayelachagiri</surname><given-names>BV</given-names></name><name><surname>Nagaraj</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Recombinant outer membrane protein 25c from Brucella abortus induces Th1 and Th2 mediated protection against Brucella abortus infection in mouse model.</article-title>
+<source>Mol Immunol</source>. <year>2018</year>;<volume>99</volume>:<fpage>9</fpage>&#x2013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">29649688</pub-id></mixed-citation>
+      </ref>
+      <ref id="R47">
+        <label>[47]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bahrami</surname><given-names>AA</given-names></name><name><surname>Payandeh</surname><given-names>Z</given-names></name><name><surname>Khalili</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Immunoinformatics: in silico approaches and computational design of a multi-epitope, immunogenic protein.</article-title>
+<source>Int Rev Immunol</source>. <year>2019</year>;<volume>38</volume>:<fpage>307</fpage>&#x2013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">31478759</pub-id></mixed-citation>
+      </ref>
+      <ref id="R48">
+        <label>[48]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jespersen</surname><given-names>MC</given-names></name><name><surname>Peters</surname><given-names>B</given-names></name><name><surname>Nielsen</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>BepiPred-2.0: improving sequence-based B-cell epitope prediction using conformational epitopes.</article-title>
+<source>Nucleic Acids Res</source>. <year>2017</year>;<volume>45</volume>:<fpage>W24</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">28472356</pub-id></mixed-citation>
+      </ref>
+      <ref id="R49">
+        <label>[49]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>El-Manzalawy</surname><given-names>Y</given-names></name><name><surname>Dobbs</surname><given-names>D</given-names></name><name><surname>Honavar</surname><given-names>V</given-names></name></person-group>. <article-title>Predicting linear B-cell epitopes using string kernels.</article-title>
+<source>J Mol Recognition</source>. <year>2008</year>;<volume>21</volume>:<fpage>243</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R50">
+        <label>[50]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>Wu</surname><given-names>Q</given-names></name></person-group>. <article-title>Research progress in live attenuated Brucella vaccine development.</article-title>
+<source>Curr Pharm Biotechnol</source>. <year>2013</year>;<volume>14</volume>:<fpage>887</fpage>&#x2013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">24372253</pub-id></mixed-citation>
+      </ref>
+      <ref id="R51">
+        <label>[51]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schuler</surname><given-names>MM</given-names></name><name><surname>Nastke</surname><given-names>MD</given-names></name><name><surname>Stevanovikc</surname><given-names>S</given-names></name></person-group>. <article-title>SYFPEITHI: database for searching and T-cell epitope prediction.</article-title>
+<source>Methods Mol Biol</source>. <year>2007</year>;<volume>409</volume>:<fpage>75</fpage>&#x2013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">18449993</pub-id></mixed-citation>
+      </ref>
+      <ref id="R52">
+        <label>[52]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nielsen</surname><given-names>M</given-names></name><name><surname>Lundegaard</surname><given-names>C</given-names></name><name><surname>Worning</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>Reliable prediction of T-cell epitopes using neural networks with novel sequence representations.</article-title>
+<source>Protein Sci</source>. <year>2003</year>;<volume>12</volume>:<fpage>1007</fpage>&#x2013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">12717023</pub-id></mixed-citation>
+      </ref>
+      <ref id="R53">
+        <label>[53]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Safavi</surname><given-names>A</given-names></name><name><surname>Kefayat</surname><given-names>A</given-names></name><name><surname>Abiri</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>In silico analysis of transmembrane protein 31 (TMEM31) antigen to design novel multiepitope peptide and DNA cancer vaccines against melanoma.</article-title>
+<source>Mol Immunol</source>. <year>2019</year>;<volume>112</volume>:<fpage>93</fpage>&#x2013;<lpage>102</lpage>.<pub-id pub-id-type="pmid">31079006</pub-id></mixed-citation>
+      </ref>
+      <ref id="R54">
+        <label>[54]</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Safavi</surname><given-names>A</given-names></name><name><surname>Kefayat</surname><given-names>A</given-names></name><name><surname>Mahdevar</surname><given-names>E</given-names></name><etal/></person-group>. <article-title>Efficacy of co-immunization with the DNA and peptide vaccines containing SYCP1 and ACRBP epitopes in a murine triple-negative breast cancer model.</article-title>
+<source>Hum Vaccin Immunother</source>. <year>2021</year>;<volume>17</volume>:<fpage>22</fpage>&#x2013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">32497486</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

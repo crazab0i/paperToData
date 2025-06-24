@@ -1,0 +1,1739 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Bioinform Biol Insights</journal-id><journal-id journal-id-type="iso-abbrev">Bioinform Biol Insights</journal-id><journal-id journal-id-type="publisher-id">BBI</journal-id><journal-id journal-id-type="hwp">spbbi</journal-id><journal-title-group><journal-title>Bioinformatics and Biology Insights</journal-title></journal-title-group><issn pub-type="epub">1177-9322</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">39220468</article-id><article-id pub-id-type="pmc">11365029</article-id><article-id pub-id-type="doi">10.1177/11779322241272404</article-id><article-id pub-id-type="publisher-id">10.1177_11779322241272404</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Proteomics Exploration of <italic toggle="yes">Brucella melitensis</italic> to Design an Innovative Multi-Epitope mRNA Vaccine</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Asadinezhad</surname><given-names>Maryam</given-names></name><xref rid="aff1-11779322241272404" ref-type="aff">1</xref><xref rid="aff2-11779322241272404" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Pakzad</surname><given-names>Iraj</given-names></name><xref rid="aff2-11779322241272404" ref-type="aff">2</xref><xref rid="aff3-11779322241272404" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Asadollahi</surname><given-names>Parisa</given-names></name><xref rid="aff2-11779322241272404" ref-type="aff">2</xref><xref rid="aff3-11779322241272404" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Ghafourian</surname><given-names>Sobhan</given-names></name><xref rid="aff2-11779322241272404" ref-type="aff">2</xref><xref rid="aff3-11779322241272404" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2936-3142</contrib-id><name><surname>Kalani</surname><given-names>Behrooz Sadeghi</given-names></name><xref rid="aff2-11779322241272404" ref-type="aff">2</xref><xref rid="aff3-11779322241272404" ref-type="aff">3</xref><xref rid="aff4-11779322241272404" ref-type="aff">4</xref><xref rid="corresp1-11779322241272404" ref-type="corresp"/></contrib></contrib-group><aff id="aff1-11779322241272404"><label>1</label>Students Research Committee, Ilam University of Medical Sciences, Ilam, Iran</aff><aff id="aff2-11779322241272404"><label>2</label>Department of Microbiology, Faculty of Medicine, Ilam University of Medical Sciences, Ilam, Iran</aff><aff id="aff3-11779322241272404"><label>3</label>Clinical Microbiology Research Center, Ilam University of Medical Sciences, Ilam, Iran</aff><aff id="aff4-11779322241272404"><label>4</label>Department of Medical Microbiology, School of Medicine, Ilam University of Medical Sciences, Ilam, Iran</aff><author-notes><corresp id="corresp1-11779322241272404">Behrooz Sadeghi Kalani, Department of Medical Microbiology, School of Medicine, Ilam University of Medical Sciences, Ilam 6939177143, Iran. Email: <email>Behroz.sadeghi@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>8</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>18</volume><elocation-id>11779322241272404</elocation-id><history><date date-type="received"><day>3</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>9</day><month>7</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; The Author(s) 2024</copyright-statement><copyright-year>2024</copyright-year><copyright-holder content-type="sage">SAGE Publications Ltd unless otherwise noted. Manuscript content on this site is licensed under Creative Commons Licenses</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>Brucellosis is a chronic and debilitating disease in humans, causing great economic losses in the livestock industry. Making an effective vaccine is one of the most important concerns for this disease. The new mRNA vaccine technology due to its accuracy and high efficiency has given promising results in various diseases. The objective of this research was to create a novel mRNA vaccine with multiple epitopes targeting <italic toggle="yes">Brucella melitensis</italic>. Seventeen antigenic proteins and their appropriate epitopes were selected with immunoinformatic tools and surveyed in terms of toxicity, allergenicity, and homology. Then, their presentation and identification by MHC cells and other immune cells were checked with valid tools such as molecular docking, and a multi-epitope protein was modeled, and after optimization, mRNA was analyzed in terms of structure and stability. Ultimately, the immune system&#x2019;s reaction to this novel vaccine was evaluated and the results disclosed that the designed mRNA construct can be an effective and promising vaccine that requires laboratory and clinical trials.</p></abstract><kwd-group><kwd><italic toggle="yes">Brucella melitensis</italic></kwd><kwd>chronic diseases</kwd><kwd>mRNA vaccine</kwd><kwd>epitopes</kwd><kwd>molecular docking</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="award1-11779322241272404"><funding-source id="funding1-11779322241272404">
+<institution-wrap><institution>Ilam University of Medical Sciences</institution><institution-id institution-id-type="FundRef">https://doi.org/10.13039/501100003841</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2024</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts1</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="section1-11779322241272404">
+      <title>Introduction</title>
+      <p><italic toggle="yes">Brucella</italic> is an intracellular microorganism responsible for inducing a severe febrile ailment in humans, which is referred to as brucellosis.<sup>
+<xref rid="bibr1-11779322241272404" ref-type="bibr">1</xref>
+</sup> Brucellosis is a substantial global health concern, exhibiting elevated incidence levels in specific geographical areas, where it can reach up to 200 cases per 100&#x2009;000 individuals.<sup>
+<xref rid="bibr2-11779322241272404" ref-type="bibr">2</xref>
+</sup> This disease has established endemicity in numerous nations, posing a significant risk to human well-being and inflicting considerable financial setbacks within the livestock sector.<sup>
+<xref rid="bibr2-11779322241272404" ref-type="bibr">2</xref>
+</sup> Brucellosis is a resurging infectious disease passed from animals to humans, presenting a range of symptoms and an extended duration of illness, frequently resulting in misidentification, elevated treatment expenses, and the inefficient allocation of medical resources.<sup>
+<xref rid="bibr3-11779322241272404" ref-type="bibr">3</xref>
+</sup> The genus <italic toggle="yes">Brucella</italic> comprises 12 species among which, <italic toggle="yes">B melitensis</italic> is the most pathogenic species, causing ovine and caprine brucellosis and resulting in the most extreme manifestation of the illness in humans.<sup>
+<xref rid="bibr4-11779322241272404" ref-type="bibr">4</xref>
+</sup> It persists as a prevalent issue in diverse regions like Latin America, the Middle East, Africa, and Asia, affecting roughly 500&#x2009;000 individuals globally each year.<sup>
+<xref rid="bibr5-11779322241272404" ref-type="bibr">5</xref>
+</sup> Transmission to humans occurs through the ingestion of unpasteurized dairy products, aerosol inhalation, or occupational exposure.<sup>
+<xref rid="bibr6-11779322241272404" ref-type="bibr">6</xref>
+</sup> Despite the presence of antibiotic therapy for the treatment of brucellosis, the disease significantly debilitates the human body, often necessitating long-term recovery. The intracellular inclination of <italic toggle="yes">Brucella</italic> limits the effectiveness of antibiotics, as only a limited set of options can adequately combat this infection. In addition, relapses occur in 5% to 40% of cases, requiring extended treatment with different combinations of antibiotics.<sup>
+<xref rid="bibr7-11779322241272404" ref-type="bibr">7</xref>
+</sup> The lack of an approved vaccine for human brucellosis exacerbates the problem in regions where the disease is prevalent.<sup>
+<xref rid="bibr8-11779322241272404" ref-type="bibr">8</xref>
+</sup> At present, there are no officially approved vaccines for human use against <italic toggle="yes">Brucella</italic>, and the existing vaccines developed for animals come with various adverse effects, including the potential for infection.<sup>
+<xref rid="bibr9-11779322241272404" ref-type="bibr">9</xref>
+</sup> In addition, bacterial vaccines that are either inactivated or attenuated have their own set of constraints.<sup><xref rid="bibr8-11779322241272404" ref-type="bibr">8</xref>,<xref rid="bibr9-11779322241272404" ref-type="bibr">9</xref></sup> While early-stage animal brucellosis prevention relied on M5, H38, and 45 of 20 vaccines, the current animal vaccines include S19, Rev.1, S2, RB51, and SR82.<sup><xref rid="bibr8-11779322241272404" ref-type="bibr">8</xref>,<xref rid="bibr9-11779322241272404" ref-type="bibr">9</xref></sup> Nonetheless, these vaccines possess certain disadvantages, such as retaining some level of virulence and causing interference with standard serological examinations.<sup><xref rid="bibr8-11779322241272404" ref-type="bibr">8</xref>,<xref rid="bibr9-11779322241272404" ref-type="bibr">9</xref></sup> Today, mRNA vaccines provide a compelling alternative to conventional vaccine strategies, thanks to their remarkable efficacy, swift development prospects, economical production, and safe delivery.<sup><xref rid="bibr10-11779322241272404" ref-type="bibr">10</xref><xref rid="bibr11-11779322241272404" ref-type="bibr"/><xref rid="bibr12-11779322241272404" ref-type="bibr"/><xref rid="bibr13-11779322241272404" ref-type="bibr"/>-<xref rid="bibr14-11779322241272404" ref-type="bibr">14</xref></sup> Over the previous 10 years, substantial technological progress and substantial research investments have propelled mRNA into the forefront as a valuable tool in the realm of vaccine creation and protein replacement therapy.<sup><xref rid="bibr15-11779322241272404" ref-type="bibr">15</xref>,<xref rid="bibr16-11779322241272404" ref-type="bibr">16</xref></sup> In the case of <italic toggle="yes">Brucella</italic>, numerous surface proteins play crucial roles in host cell binding and entry, making them suitable targets for the design of an effective mRNA vaccine.<sup>
+<xref rid="bibr16-11779322241272404" ref-type="bibr">16</xref>
+</sup> Seventeen surface proteins have been selected for vaccine development: VirB5, VirB2, Cyclic &#x3B2;-1-2-glucans (C&#x3B2;G), BtpA, bvrS, bvrR, OM25, OM31, OMP10, outer membrane protein, immunogenic protein, FrpB, FlgE, flgK, BRUME 26-kDa periplasmic immunogenic protein, Dihydrolipoyllysine, and Ribosome-recycling factor.<sup>
+<xref rid="bibr17-11779322241272404" ref-type="bibr">17</xref>
+</sup> The VirB operon encodes the Type IV secretion system (T4SS), which plays a critical role in conjugation, DNA uptake and release, as well as acting as a significant virulence factor for <italic toggle="yes">Brucella</italic>.<sup>
+<xref rid="bibr17-11779322241272404" ref-type="bibr">17</xref>
+</sup> The T4SS facilitates substrate transport across the cell membrane and enables the secretion of proteins outside the cell. Comprising 12 genes (VirB1 to VirB12), the VirB operon, encompassing 12 genes (VirB1 to VirB12), encodes the T4SS.<sup>
+<xref rid="bibr18-11779322241272404" ref-type="bibr">18</xref>
+</sup> This T4SS plays a crucial role in various <italic toggle="yes">Brucella</italic> functions, including conjugation, DNA uptake and release, and serves as a significant virulence factor.<sup>
+<xref rid="bibr18-11779322241272404" ref-type="bibr">18</xref>
+</sup> The T4SS facilitates the transport of substrates across the cell membrane and enables the secretion of proteins outside the cell.<sup>
+<xref rid="bibr18-11779322241272404" ref-type="bibr">18</xref>
+</sup></p>
+      <p>Cyclic &#x3B2;-1,2-glucan (C&#x3B2;G) is a key virulence factor in <italic toggle="yes">Brucella</italic> pathogenesis and its intracellular life cycle. C&#x3B2;G is composed of cyclic polymers with 17 to 25 D-glucose molecules linked by &#x3B2;-1,2 linkages. Its synthesis is catalyzed by a membrane-bound enzyme called Cgs (cyclic glucan synthase), which exploits UDP-glucose as the sugar donor.<sup>
+<xref rid="bibr19-11779322241272404" ref-type="bibr">19</xref>
+</sup></p>
+      <p>BtpA, a 30-kDa cytoplasmic antigen in <italic toggle="yes">Brucella</italic> spp., hinders with the Toll-like receptor 2 (TLR-2) signaling pathway in the host, thereby reducing innate immunity. BtpA also modulates the function of dendritic cells (DCs), impairing their function and exerting a cytotoxic effect, collectively promoting the occurrence and persistence of chronic brucellosis.<sup>
+<xref rid="bibr20-11779322241272404" ref-type="bibr">20</xref>
+</sup></p>
+      <p>Omp10 as a main membrane protein of <italic toggle="yes">B melitensis</italic>, has demonstrated significant immunogenicity in previous experiments, making it a suitable candidate for vaccine design. Similarly, Omp25, another outer membrane protein of <italic toggle="yes">B melitensis</italic>, exhibits strong immunogenicity.<sup>
+<xref rid="bibr21-11779322241272404" ref-type="bibr">21</xref>
+</sup> Furthermore, Omp31 has revealed remarkable immunogenicity in animal infection models and is considered a promising choice for vaccine design.<sup>
+<xref rid="bibr21-11779322241272404" ref-type="bibr">21</xref>
+</sup></p>
+      <p>Given the significance of cellular immunity in brucellosis and the absence of a viable vaccine for human use, this study sought to develop an mRNA-based vaccine that can elicit both cellular and humoral immune responses to combat brucellosis, which is primarily caused by <italic toggle="yes">B melitensis</italic> in humans.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="section2-11779322241272404">
+      <title>Materials and Methods</title>
+      <sec id="section3-11779322241272404">
+        <title>Compilation of proteomes</title>
+        <p>To gather data, 6 distinct <italic toggle="yes">Brucella melitensis</italic> strains with complete protein sequences were sourced from the GenBank database. Subsequently, the PSORTb v.3.0.2 online server<sup>
+<xref rid="bibr22-11779322241272404" ref-type="bibr">22</xref>
+</sup> was employed for subcellular localization determination.</p>
+      </sec>
+      <sec id="section4-11779322241272404">
+        <title>Extract of bacterial protein sequences</title>
+        <p>For the retrieval of the amino acid sequences of target proteins, the UniProt Knowledgebase was used.</p>
+      </sec>
+      <sec id="section5-11779322241272404">
+        <title>Forecasting of immune cell epitopes</title>
+        <p>To predict B-cell epitopes, the ABCpred web server<sup>
+<xref rid="bibr23-11779322241272404" ref-type="bibr">23</xref>
+</sup> was employed. This prediction employed an artificial machine learning approach with a 0.5 threshold for each protein sequence. The desired epitope length was set at 16 amino acids, and the overlap filter was activated.</p>
+        <p>For the anticipation of cytotoxic T-cell lymphocyte (CTL) epitopes, the Immune Epitope Database MHC<sup>
+<xref rid="bibr24-11779322241272404" ref-type="bibr">24</xref>
+</sup> used the ANN 4.0 method. The predicted epitopes were organized based on their IC50 values.</p>
+        <p>In addition, for the forecasting of helper T-cell lymphocyte epitopes, the Immune Epitope Database MHC-II employed the NN-align method.<sup>
+<xref rid="bibr24-11779322241272404" ref-type="bibr">24</xref>
+</sup></p>
+      </sec>
+      <sec id="section6-11779322241272404">
+        <title>Evaluation of human homology</title>
+        <p>To ascertain the homology, all peptides in the vaccine construct were cross-referenced with the <italic toggle="yes">Homo sapiens</italic> (TaxID: 9606) protein database using the BLASTp tool Peptides with an E-value surpassing 0.05 were considered potential nonhomologous peptides.</p>
+      </sec>
+      <sec id="section7-11779322241272404">
+        <title>Estimation of epitope antigenicity, allergenicity, and toxicity</title>
+        <p>All chosen epitopes underwent an assessment of their antigenicity, allergenicity, and toxicity. Antigenicity evaluation was carried out using the VaxiJen web server,<sup>
+<xref rid="bibr25-11779322241272404" ref-type="bibr">25</xref>
+</sup> which relies on an alignment-independent method hinging on the physicochemical properties of the epitopes. A threshold of 0.4 was applied, with specific consideration of bacteria in the prediction process. The AllerTOP V.2.0 web server<sup>
+<xref rid="bibr26-11779322241272404" ref-type="bibr">26</xref>
+</sup> was employed to determine the allergenicity of the epitopes, with all parameters maintained at their default settings. Furthermore, the ToxinPred server<sup>
+<xref rid="bibr27-11779322241272404" ref-type="bibr">27</xref>
+</sup> was used to forecast and evaluate the toxicity of the epitopes, including the generation of potential mutants while keeping the default parameters. Only epitopes demonstrating antigenicity, nontoxicity, and nonallergenicity were retained for further research stages.</p>
+      </sec>
+      <sec id="section8-11779322241272404">
+        <title>Molecular docking between T lymphocyte epitopes and MHC alleles</title>
+        <p>A subset of the extracted T lymphocyte epitopes (80 in total) underwent a molecular docking simulation to assess their binding affinity with their corresponding MHC alleles. The 3D structures of the MHC alleles were acquired from the RCSB PDB database.<sup>
+<xref rid="bibr28-11779322241272404" ref-type="bibr">28</xref>
+</sup> Structural processing, which involved the removal of unnecessary ligands, was performed using PyMOL software.<sup>
+<xref rid="bibr29-11779322241272404" ref-type="bibr">29</xref>
+</sup> Energy minimization of these structures was carried out via the Swiss-PDB Viewer.<sup>
+<xref rid="bibr30-11779322241272404" ref-type="bibr">30</xref>
+</sup> Simultaneously, the selected epitopes for docking were transformed into three-dimensional structures using the PEP-FOLD 4 server<sup>
+<xref rid="bibr31-11779322241272404" ref-type="bibr">31</xref>
+</sup> and subjected to energy minimization with the Swiss-PDB Viewer. The ClusPro 2.0 server<sup>
+<xref rid="bibr32-11779322241272404" ref-type="bibr">32</xref>
+</sup> was employed for the docking procedure.</p>
+      </sec>
+      <sec id="section9-11779322241272404">
+        <title>Design of vaccine construct</title>
+        <p>The proposed mRNA vaccine construct is characterized by a sequence that spans from the N-terminus to the C-terminus. It incorporates a sequence featuring a 5&#x2032; m7GCap, a 5&#x2032; UTR, a Kozak sequence, a tPA (Signal peptide), an EAAAK Linker, an RpfE (Adjuvant), a GPGPG linker, HTL Epitopes, KK, LBL Epitopes, an AAY Linker, CTL Epitopes, the MITD sequence, a Stop codon, a 3&#x2032; UTR, and a Poly (A) tail.</p>
+        <p>To ensure proper separation of the epitopes, three distinct linkers are employed: AAY, KK, and GPGPG. These linkers are intentionally designed to be cleavable, flexible, and rigid, facilitating the optimal functionality of the domains.<sup><xref rid="bibr33-11779322241272404" ref-type="bibr">33</xref><xref rid="bibr34-11779322241272404" ref-type="bibr"/>-<xref rid="bibr35-11779322241272404" ref-type="bibr">35</xref></sup></p>
+      </sec>
+      <sec id="section10-11779322241272404">
+        <title>Anticipating biological and physicochemical properties of the construct</title>
+        <p>The antigenicity of the vaccine construct was assessed using the VaxiJen 2.0<sup>
+<xref rid="bibr25-11779322241272404" ref-type="bibr">25</xref>
+</sup> and ANTIGENpro. The prediction of antigenicity is a pivotal step as it determines the capacity of an antigen to induce an immune response and stimulate the formation of memory cells. VaxiJen 2.0 relies on the physicochemical properties of the vaccine for predictions, while the ANTIGENpro employs machine learning algorithms and microarray analysis data.</p>
+        <p>The input for the created mRNA vaccine exclusively encompasses the amino acid sequence of the translated ORF, excluding the tPA and MITD sequences. Allergenicity was evaluated via the AllerTOP 2.0, while vaccine toxicity was predicted using the ToxinPred.<sup>
+<xref rid="bibr27-11779322241272404" ref-type="bibr">27</xref>
+</sup> Furthermore, the ProtParam web server was harnessed to predict various physicochemical properties of the vaccine.</p>
+      </sec>
+      <sec id="section11-11779322241272404">
+        <title>In silico immune simulation</title>
+        <p>The C-ImmSim simulation server<sup>
+<xref rid="bibr36-11779322241272404" ref-type="bibr">36</xref>
+</sup> was engaged to execute a dynamic imitation of the immune response for the studied vaccine. In the default setup, the C-ImmSim uses epitopes and lymphocyte receptors to simulate the immune response. In this particular study, the immune simulation involved the administration of 3 doses, each containing 1000 vaccine units (ng/mL), over a span of 4 weeks. This regimen aligns with the recommended practice for many contemporary vaccines, where 2 to 3 doses are administered within a 4-week window. The injections were given at time-step 1, 84, and 168, and all parameters were put to their default values.</p>
+      </sec>
+      <sec id="section12-11779322241272404">
+        <title>Codon optimization of the vaccine construct</title>
+        <p>To ensure effectual expression within human cells, the codon sequences within the designed construct required optimization. The GenSmart Codon Optimization Tool, provided by GenScript (GS), was the tool of choice for this purpose.</p>
+        <p>Following optimization, a quality valuation of the optimized sequence was executed using the Rare Codon Analysis tools, also provided by GS. In this analysis, the efficiency of mRNA translation is gauged by the Codon Adaptation Index (CAI), which measures the alignment of codon usage in a given sequence with the codon usage bias of the target organism&#x2014;in this case, human cells. In addition, the Codon Frequency Distribution (CFD) analysis was used to identify the incidence of any tandem unusual codons, indicating regions with atypical codon usage patterns.</p>
+      </sec>
+      <sec id="section13-11779322241272404">
+        <title>Secondary structure prediction of the designed mRNA vaccine</title>
+        <p>The RNA secondary structure of mRNA is important in mRNA vaccines because it plays a crucial role in determining the stability, efficiency, and immunogenicity of the vaccine. The secondary structure of mRNA refers to how the nucleotides in the RNA molecule interact with each other to form stable base pairings and secondary structures such as hairpins and loops.</p>
+        <p>In this study, Structure of the mRNA vaccine was anticipated by means of the RNAfold tool from the ViennaRNA Package 2.0.<sup>
+<xref rid="bibr37-11779322241272404" ref-type="bibr">37</xref>
+</sup> This tool applies McCaskill&#x2019;s algorithm to calculate the minimal free energy (MFE) of the projected secondary structure. Both the MFE structure and the centroid secondary structure were reported, along with their respective minimum free energy values.</p>
+      </sec>
+      <sec id="section14-11779322241272404">
+        <title>Anticipating and validating secondary and 3D structures of the designed vaccine</title>
+        <p>For predicting the secondary structure of the peptide, the PSIPRED<sup>
+<xref rid="bibr38-11779322241272404" ref-type="bibr">38</xref>
+</sup> was applied. This prediction relied on position-specific scoring matrices and achieved an accuracy of 84.2%.</p>
+        <p>In the quest for predicting the 3D structures of the peptide, the Robetta server<sup>
+<xref rid="bibr39-11779322241272404" ref-type="bibr">39</xref>
+</sup> was called into action, yielding five potential structures. To validate and confirm the most optimal structure, the ProSA-web,<sup>
+<xref rid="bibr40-11779322241272404" ref-type="bibr">40</xref>
+</sup> PROCHECK,<sup>
+<xref rid="bibr41-11779322241272404" ref-type="bibr">41</xref>
+</sup> and ERRAT were employed.</p>
+      </sec>
+      <sec id="section15-11779322241272404">
+        <title>Foreseeing conformational B-cell epitopes</title>
+        <p>The tertiary structure of a protein can give rise to the formation of new conformational B-cell epitopes. To predict these discontinuous B-cell epitopes within the protein structure, the ElliPro online server was enlisted. ElliPro leverages the geometrical properties of the 3D model to make these predictions. Among the various prediction tools for discontinuous B-cell epitopes, ElliPro stands out with the highest AUC (area under the curve) value of 0.732 for any protein model, signifying its accuracy and reliability in predicting these specific epitopes.</p>
+      </sec>
+      <sec id="section16-11779322241272404">
+        <title>Molecular docking study of the designed vaccine</title>
+        <p>The PIPER docking algorithm, available through the ClusPro, was used to dock the 3D structure of the desired vaccine with TLR-4 or TLR-3.</p>
+      </sec>
+      <sec id="section17-11779322241272404">
+        <title>Molecular dynamics simulation</title>
+        <p>To verify solidity and scrutinize the physical movements of atoms and molecules within the TLR4-vaccine and TLR3-vaccine complex structures with the lowest binding energy, dynamic simulation analysis was done by means of the iMODS server.<sup>
+<xref rid="bibr42-11779322241272404" ref-type="bibr">42</xref>
+</sup></p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="section18-11779322241272404">
+      <title>Results</title>
+      <sec id="section19-11779322241272404">
+        <title>Retrieval of bacterial protein sequences</title>
+        <p>To obtain the amino acid sequences of specific proteins, we used the UniProt Knowledgebase. The following proteins and their respective accession numbers were retrieved: (1) virB5 (accession number&#x2014;A0A144KBH0), (2) virB2 (accession number&#x2014;A0A1S6ZGJ3), (3) cyclic &#x3B2;-1,2-glucans (C&#x3B2;G) (accession number&#x2014;O85166), (4) BtpA (accession number&#x2014;A0A1S6ZGK7), (5) bvrS (accession number&#x2014;O68164), bvrR (accession number&#x2014;O67996), (7) Omp25 (accession number&#x2014;Q45321), (8) Omp31 (accession number&#x2014;P0A3U4), (9) Omp10 (accession number&#x2014;P0A3N8), (10) outer membrane protein (accession number&#x2014;P0A3U4), (11) immunogenic protein (accession number&#x2014;P0A3U4), (12) FrpB (accession number&#x2014;Q8YDS0), (13) FlgE (accession number&#x2014;Q8YDL6), (14) flgK (accession number&#x2014;C0RMR9), (15) BRUME 26-kDa periplasmic immunogenic protein (accession number&#x2014;P0A3U8), (16) dihydrolipoyllysine (accession number&#x2014;Q9L6H8), and (17) Ribosome-recycling factor (accession number&#x2014;P94340).</p>
+      </sec>
+      <sec id="section20-11779322241272404">
+        <title>Prediction and assessment of B-cell epitopes</title>
+        <p>In the pursuit of epitopes for inclusion in the vaccine construct, we employed a rigorous selection process. The ABCpred web server was employed to predict epitopes, and the top five epitopes for each protein were chosen. Subsequently, we retained only those epitopes that met specific criteria: they had to be antigenic, nonallergenic, and nontoxic. To make these determinations, we made use of the VaxiJen, AllerTOP, and ToxinPred web servers, respectively. Furthermore, we scrutinized the predicted epitopes for any homologs in <italic toggle="yes">Homo sapiens</italic> (TaxID: 9606) to mitigate the risk of autoimmunity induction, and peptides with an E-value exceeding 0.05 were excluded from consideration. We also ensured that all desired epitopes were located within the conserved regions of the proteins under investigation. Variants of the selected proteins were obtained from the NCBI database and aligned using the Bioedit 7.2 program. In the end, we extracted a total of 12 B-cell epitopes from the 17 proteins studied, and these were incorporated into the vaccine construct (<xref rid="table1-11779322241272404" ref-type="table">Table 1</xref>).</p>
+        <table-wrap position="float" id="table1-11779322241272404">
+          <label>Table 1.</label>
+          <caption>
+            <p>A compilation of 72 potential epitopes derived from 17 <italic toggle="yes">Brucella melitensis</italic> proteins, along with the induced cell types for each epitope.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="10.1177_11779322241272404-table1" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="char" char="." span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Cell type</th>
+                  <th align="left" rowspan="1" colspan="1">Sequence of Epitope</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">CD8+ Cytotoxic T Lymphocytes</td>
+                  <td rowspan="1" colspan="1">RELDGLTAM</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LSEHFFSKQW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">MPRMDGMEL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RTIDSHIKR</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RQKSDLPVIF</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DAAYDEQVY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RIYDRYANK</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QEQPGGNGL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">IAAPFVVIW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AELDGILAQY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">IPLPGYLAF</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">APVEVAPQY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DESKFRVGW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AEYAINNNW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">YLSPQLVEI</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LPHLLLALI</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QPKALEAAY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DAAGVGLGR</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AEIDGTDIVY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QPAPAAAKL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ETDKVTVEV</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">YENGTQKVL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AETQFSSLVL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RQKANSEFTY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">GEIGITTMM</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SADEAMFNRY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">GPSKRIHVL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SVNGTLSYK</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">TTIGATFTK</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ESIGVSQSK</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DYLKVKNTF</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RVLSEKVQK</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ASATMEAEEEYDFFI</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">CD4+ helper T Lymphocytes</td>
+                  <td rowspan="1" colspan="1">RTTASATMEAEEEYD</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QERHTCTWKGEPVTL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DRPASEAFGQNSGLG</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SPDSPDNWEFPINPE</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QEQPPVPAPVEVAPQ</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">EQPPVPAPVEVAPQY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">EPSAPTAAPVDTFSW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">PSAPTAAPVDTFSWT</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AACETTGPGSGNAPI</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ACETTGPGSGNAPII</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LAHANGGLDKVNTSM</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">VPVLGGALVVGAAAE</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LDERQHELDAKDNAR</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">TSTAHAQLPVTDAGS</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">KAGIEDRDLQTGGIN</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">KKAGIEDRDLQTGGI</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AAAPAQKKEEAKPAA</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AEGSTAGDFTVNLPS</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">EGSTAGDFTVNLPST</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">STDQAPAAGGYNHKT</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AESDQTGSSPDQTGL</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SDQTGSSPDQTGLFS</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">KNGDGTEILGTEPAA</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">APSQNRGGIDAVWAP</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DASHSDTDPDLDLTT</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AGGAEVSGKAKLNPW</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">IRDSGLGLNPITDGM</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">B Lymphocyte</td>
+                  <td rowspan="1" colspan="1">TPSPDSPDNWEFPINP</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">EVVEDYPTGYNVDVSR</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SAFTWAGNSRDYQLTP</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">GISEAAFNARDAHLNY</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">YIGINAGYAGGKFKHP</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LHTWSDKTKAGWTLGA</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LSGEIGITTMMRGDND</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SEGGSALLLRDGGANG</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">TDMWDPEVQFYYNRND</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QKLGNDPEEYRSRGFT</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LGGQIGYGWGRSTLSD</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">GAVERAIRDSGLGLNP</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+      <sec id="section21-11779322241272404">
+        <title>Assessment of CTL epitopes</title>
+        <p>To predict and evaluate CTL epitopes, we relied on the immune epitope database (IEDB), focusing on the 9 proteins included in this study. Only epitopes with an IC50 value greater than 500 were selected for further analysis. We applied the same criteria as with B-cell epitopes, ensuring that the chosen epitopes were antigenic, nonallergenic, nontoxic, and nonhomologous. A total of 32 epitopes, situated within the conserved regions of the proteins, were chosen for inclusion in the vaccine construct (<xref rid="table1-11779322241272404" ref-type="table">Table 1</xref>).</p>
+      </sec>
+      <sec id="section22-11779322241272404">
+        <title>Assessment of HTL epitopes</title>
+        <p>Numerous potential HTL epitopes were identified through examination of the 17 proteins associated with <italic toggle="yes">Brucella melitensis</italic>, as previously mentioned. We exclusively focused on epitopes that were antigenic, nonallergenic, nontoxic, and nonhomologous. These epitopes were assessed for their potential to induce IL-4, IL-10, and IFN-&#x3B3;. In the end, A total of 72 epitopes were identified (<xref rid="table1-11779322241272404" ref-type="table">Table 1</xref>), with 28 epitopes specifically selected for vaccine design based on the analyses conducted, all of which are located within the conserved regions of the proteins and demonstrated the ability to induce the mentioned cytokines (<xref rid="table1-11779322241272404" ref-type="table">Table 1</xref>).</p>
+      </sec>
+      <sec id="section23-11779322241272404">
+        <title>Docking among MHC alleles and studied T lymphocyte epitopes</title>
+        <p>Our investigation successfully identified a total of 60 lymphocyte epitopes, all of which demonstrated recognition by a diverse array of 90 MHC alleles. Intriguingly, some of these epitopes displayed a predilection for binding to a single MHC allele, while others exhibited the versatility to interact with multiple alleles. These findings are comprehensively detailed in <xref rid="table2-11779322241272404" ref-type="table">Table 2</xref>.</p>
+        <table-wrap position="float" id="table2-11779322241272404">
+          <label>Table 2.</label>
+          <caption>
+            <p>Selected T lymphocyte epitopes (CTL&#x2009;+&#x2009;HTL epitopes) alongside their respective MHC alleles.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="10.1177_11779322241272404-table2" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Protein name</th>
+                  <th align="left" rowspan="1" colspan="1">CTL Epitopes</th>
+                  <th align="left" rowspan="1" colspan="1">MHC I binding Alleles</th>
+                  <th align="left" rowspan="1" colspan="1">HTL Epitopes</th>
+                  <th align="left" rowspan="1" colspan="1">MHC II binding Alleles</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">BtpA</td>
+                  <td rowspan="1" colspan="1">RELDGLTAM</td>
+                  <td rowspan="1" colspan="1">HLA-B*40:01</td>
+                  <td rowspan="1" colspan="1">ASATMEAEEEYDFFI</td>
+                  <td rowspan="1" colspan="1">HLA-DRB3*02:02</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LSEHFFSKQW</td>
+                  <td rowspan="1" colspan="1">HLA-B*57:01</td>
+                  <td rowspan="1" colspan="1">RTTASATMEAEEEYD</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">bvrR</td>
+                  <td rowspan="1" colspan="1">MPRMDGMEL</td>
+                  <td rowspan="1" colspan="1">HLA-B*07:02</td>
+                  <td rowspan="1" colspan="1">QERHTCTWKGEPVTL</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RTIDSHIKR</td>
+                  <td rowspan="1" colspan="1">HLA-A*31:01<break/>HLA-A*11:01<break/>HLA-A*68:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RQKSDLPVIF</td>
+                  <td rowspan="1" colspan="1">HLA-B*15:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DAAYDEQVY</td>
+                  <td rowspan="1" colspan="1">HLA-B*35:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">bvrS</td>
+                  <td rowspan="1" colspan="1">RIYDRYANK</td>
+                  <td rowspan="1" colspan="1">HLA-A*03:01</td>
+                  <td rowspan="1" colspan="1">DRPASEAFGQNSGLG</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QEQPGGNGL</td>
+                  <td rowspan="1" colspan="1">HLA-B*40:01</td>
+                  <td rowspan="1" colspan="1">SPDSPDNWEFPINPE</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Cyclic &#x3B2;-1-2-glucans (C&#x3B2;G)</td>
+                  <td rowspan="1" colspan="1">IAAPFVVIW</td>
+                  <td rowspan="1" colspan="1">HLA-B*58:01<break/>HLA-B*57:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AELDGILAQY</td>
+                  <td rowspan="1" colspan="1">HLA-B*44:03</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">IPLPGYLAF</td>
+                  <td rowspan="1" colspan="1">HLA-B*35:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">OM25</td>
+                  <td rowspan="1" colspan="1">APVEVAPQY</td>
+                  <td rowspan="1" colspan="1">HLA-B*35:01</td>
+                  <td rowspan="1" colspan="1">QEQPPVPAPVEVAPQ</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01<break/>HLA-DRB1*15:01<break/>HLA-DRB3*02:02</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DESKFRVGW</td>
+                  <td rowspan="1" colspan="1">HLA-B*44:03<break/>HLA-B*44:02</td>
+                  <td rowspan="1" colspan="1">EQPPVPAPVEVAPQY</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01<break/>HLA-DRB3*02:02<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">OM31</td>
+                  <td rowspan="1" colspan="1">AEYAINNNW</td>
+                  <td rowspan="1" colspan="1">HLA-B*44:03<break/>HLA-B*44:02</td>
+                  <td rowspan="1" colspan="1">EPSAPTAAPVDTFSW</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01<break/>HLA-DRB1*03:01<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">PSAPTAAPVDTFSWT</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">OMP10</td>
+                  <td rowspan="1" colspan="1">YLSPQLVEI</td>
+                  <td rowspan="1" colspan="1">HLA-A*02:01<break/>HLA-A*02:03<break/>HLA-A*02:06</td>
+                  <td rowspan="1" colspan="1">AACETTGPGSGNAPI</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01<break/>HLA-DRB1*15:01<break/>HLA-DRB3*02:02</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ACETTGPGSGNAPII</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01<break/>HLA-DRB1*15:01<break/>HLA-DRB3*02:02</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">VirB2</td>
+                  <td rowspan="1" colspan="1">LPHLLLALI</td>
+                  <td rowspan="1" colspan="1">HLA-B*51:01</td>
+                  <td rowspan="1" colspan="1">LAHANGGLDKVNTSM</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01<break/>HLA-DRB1*07:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">VPVLGGALVVGAAAE</td>
+                  <td rowspan="1" colspan="1">HLA-DRB3*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">VirB5</td>
+                  <td rowspan="1" colspan="1">QPKALEAAY</td>
+                  <td rowspan="1" colspan="1">HLA-B*35:01</td>
+                  <td rowspan="1" colspan="1">LDERQHELDAKDNAR</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*07:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">TSTAHAQLPVTDAGS</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">BRUME 26-kDa periplasmic immunogenic protein</td>
+                  <td rowspan="1" colspan="1">DAAGVGLGR</td>
+                  <td rowspan="1" colspan="1">HLA-A*68:01</td>
+                  <td rowspan="1" colspan="1">KAGIEDRDLQTGGIN</td>
+                  <td rowspan="1" colspan="1">HLA-DRB3*02:02</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">KKAGIEDRDLQTGGI</td>
+                  <td rowspan="1" colspan="1">HLA-DRB3*02:02<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Dihydrolipoyllysine</td>
+                  <td rowspan="1" colspan="1">AEIDGTDIVY</td>
+                  <td rowspan="1" colspan="1">HLA-B*44:03<break/>HLA-B*44:02</td>
+                  <td rowspan="1" colspan="1">AAAPAQKKEEAKPAA</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QPAPAAAKL</td>
+                  <td rowspan="1" colspan="1">HLA-B*07:02</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ETDKVTVEV</td>
+                  <td rowspan="1" colspan="1">HLA-A*68:02</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">FlgE</td>
+                  <td rowspan="1" colspan="1">YENGTQKVL</td>
+                  <td rowspan="1" colspan="1">HLA-B*40:01</td>
+                  <td rowspan="1" colspan="1">AEGSTAGDFTVNLPS</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AETQFSSLVL</td>
+                  <td rowspan="1" colspan="1">HLA-B*40:01</td>
+                  <td rowspan="1" colspan="1">EGSTAGDFTVNLPST</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">STDQAPAAGGYNHKT</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*03:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Fig K</td>
+                  <td rowspan="1" colspan="1">RQKANSEFTY</td>
+                  <td rowspan="1" colspan="1">HLA-B*15:01</td>
+                  <td rowspan="1" colspan="1">AESDQTGSSPDQTGL</td>
+                  <td rowspan="2" colspan="1">HLA-DRB1*03:01<break/>HLA-DRB1*15:01<break/>HLA-DRB3*02:02<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">GEIGITTMM</td>
+                  <td rowspan="1" colspan="1">HLA-B*40:01</td>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SADEAMFNRY</td>
+                  <td rowspan="1" colspan="1">HLA-A*01:01</td>
+                  <td rowspan="1" colspan="1">SDQTGSSPDQTGLFS</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">FrpB</td>
+                  <td rowspan="1" colspan="1">GPSKRIHVL</td>
+                  <td rowspan="1" colspan="1">HLA-B*07:02</td>
+                  <td rowspan="1" colspan="1">KNGDGTEILGTEPAA</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SVNGTLSYK</td>
+                  <td rowspan="1" colspan="1">HLA-A*11:01<break/>HLA-A*03:01</td>
+                  <td rowspan="1" colspan="1">APSQNRGGIDAVWAP</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">TTIGATFTK</td>
+                  <td rowspan="1" colspan="1">HLA-A*68:01<break/>HLA-A*11:01</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">immunogenic protein</td>
+                  <td rowspan="1" colspan="1">ESIGVSQSK</td>
+                  <td rowspan="1" colspan="1">HLA-A*68:01</td>
+                  <td rowspan="1" colspan="1">DASHSDTDPDLDLTT</td>
+                  <td rowspan="1" colspan="1">HLA-DRB1*15:01<break/>HLA-DRB3*02:02<break/>HLA-DRB5*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">outer membrane protein W</td>
+                  <td rowspan="1" colspan="1">DYLKVKNTF</td>
+                  <td rowspan="1" colspan="1">HLA-A*24:02<break/>HLA-A*23:01</td>
+                  <td rowspan="1" colspan="1">AGGAEVSGKAKLNPW</td>
+                  <td rowspan="1" colspan="1">HLA-DRB3*01:01</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Ribosome-recycling factor</td>
+                  <td rowspan="1" colspan="1">RVLSEKVQK</td>
+                  <td rowspan="1" colspan="1">HLA-A*11:01<break/>HLA-A*03:01</td>
+                  <td rowspan="1" colspan="1">IRDSGLGLNPITDGM</td>
+                  <td rowspan="1" colspan="1">HLA-DRB5*01:01</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>In our quest to delve deeper into the nature of these interactions, we executed a series of molecular docking experiments involving 12 selected epitopes and their respective MHC alleles, with comprehensive information provided in <xref rid="table3-11779322241272404" ref-type="table">Table 3</xref>. The crystallographic structures of the MHC alleles employed in this analysis were thoughtfully obtained from the RCSB PDB, and their specific PDB IDs are thoughtfully presented in <xref rid="table3-11779322241272404" ref-type="table">Table 3</xref>.</p>
+        <table-wrap position="float" id="table3-11779322241272404">
+          <label>Table 3.</label>
+          <caption>
+            <p>Docking analysis of some CTL epitopes alongside their respective MHC alleles.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="10.1177_11779322241272404-table3" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Type of T Lymphocyte</th>
+                  <th align="left" rowspan="1" colspan="1">Epitope</th>
+                  <th align="left" rowspan="1" colspan="1">MHC Alleles</th>
+                  <th align="left" rowspan="1" colspan="1">PDB ID of MHC Allele</th>
+                  <th align="left" rowspan="1" colspan="1">Binding affinity (kcal/mol)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<bold>CTL</bold>
+</td>
+                  <td rowspan="1" colspan="1">YLSPQLVEI</td>
+                  <td rowspan="1" colspan="1">HLA-A0201</td>
+                  <td rowspan="1" colspan="1">6TDR</td>
+                  <td rowspan="1" colspan="1">&#x2212;715.3</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RIYDRYANK</td>
+                  <td rowspan="1" colspan="1">HLA-A0301</td>
+                  <td rowspan="1" colspan="1">2XPG</td>
+                  <td rowspan="1" colspan="1">&#x2212;717.8</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RVLSEKVQK</td>
+                  <td rowspan="1" colspan="1">HLA-A1101</td>
+                  <td rowspan="1" colspan="1">4UQ2</td>
+                  <td rowspan="1" colspan="1">&#x2212;524.6</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">SVNGTLSYK</td>
+                  <td rowspan="1" colspan="1">HLA-A1101</td>
+                  <td rowspan="1" colspan="1">4UQ2</td>
+                  <td rowspan="1" colspan="1">&#x2212;663.7</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">DYLKVKNTF</td>
+                  <td rowspan="1" colspan="1">HLA-A2402</td>
+                  <td rowspan="1" colspan="1">5HGA</td>
+                  <td rowspan="1" colspan="1">&#x2212;672.1</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">ESIGVSQSK</td>
+                  <td rowspan="1" colspan="1">HLA-A6801</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">&#x2212;500.3</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">IAAPFVVIW</td>
+                  <td rowspan="1" colspan="1">HLA-B5801</td>
+                  <td rowspan="1" colspan="1">7WZZ</td>
+                  <td rowspan="1" colspan="1">&#x2212;935.9</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">RQKANSEFTY</td>
+                  <td rowspan="1" colspan="1">HLA-B1501</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">&#x2212;690.7</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LPHLLLALI</td>
+                  <td rowspan="1" colspan="1">HLA-B5101</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">&#x2212;709.1</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">LSEHFFSKQW</td>
+                  <td rowspan="1" colspan="1">HLA-B5701</td>
+                  <td rowspan="1" colspan="1">2YPK</td>
+                  <td rowspan="1" colspan="1">&#x2212;855.7</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">QPKALEAAY</td>
+                  <td rowspan="1" colspan="1">HLA-B3501</td>
+                  <td rowspan="1" colspan="1">2CIK</td>
+                  <td rowspan="1" colspan="1">&#x2212;641.8</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">AEYAINNNW</td>
+                  <td rowspan="1" colspan="1">HLA-B4403</td>
+                  <td rowspan="1" colspan="1"/>
+                  <td rowspan="1" colspan="1">&#x2212;616.2</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>The outcomes of these meticulously conducted molecular docking experiments, shedding light on binding affinities, are meticulously documented in <xref rid="table3-11779322241272404" ref-type="table">Table 3</xref>. It is worth highlighting that the epitope IAAPFVVIW emerged as a standout performer, displaying the highest binding affinity with a remarkable score of &#x2212;935.9&#x2009;kcal/mol when paired with its corresponding MHC allele, HLA-B5801. On closer examination of this particular interaction, we observed the epitope fitting precisely into the binding cleft of the MHC allele. <xref rid="fig1-11779322241272404" ref-type="fig">Figure 1</xref> illustrated the cartoon representation of docking results of some epitopes and corresponding MHC alleles (<xref rid="fig1-11779322241272404" ref-type="fig">Figure 1</xref>). Overall, the findings of this section indicate that the epitopes forecasted by the examined servers are situated within the antigen-binding groove of the corresponding MHC alleles during the molecular docking process.</p>
+        <fig position="float" id="fig1-11779322241272404">
+          <label>Figure 1.</label>
+          <caption>
+            <p>Docking among the epitopes and their corresponding MHC alleles.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig1" position="float"/>
+        </fig>
+      </sec>
+      <sec id="section24-11779322241272404">
+        <title>Designing the vaccine construct</title>
+        <p>The design of the proposed vaccine construct followed a sequence from the N-terminus to the C-terminus, structured as follows: 5&#x2032; m7GCap&#x2013;5&#x2032; UTR&#x2013;Kozak sequence&#x2013;Signal peptide(tPA)&#x2013;EAAAK-Adjuvant(RpfE)ASATMEAEEEYDFFI<underline>GPGPG</underline>RTTASATMEAEEEYD<underline>GPGPG</underline>QERHTCTWKGEPVTL<underline>GPGPG</underline>DRPASEAFGQNSGLG<underline>GPGPG</underline>SPDSPDNWEFPINPE<underline>GPGPG</underline>QEQPPVPAPVEVAPQ<underline>GPGPG</underline>EQPPVPAPVEVAPQY<underline>GPGPG</underline>EPSAPTAAPVDTFSW<underline>GPGPG</underline>PSAPTAAPVDTFSWT<underline>GPGPG</underline>AACETTGPGSGNAPI<underline>GPGPG</underline>ACETTGPGSGNAPII<underline>GPGPG</underline>LAHANGGLDKVNTSM<underline>GPGPG</underline>VPVLGGALVVGAAAE<underline>GPGPG</underline>LDERQHELDAKDNAR<underline>GPGPG</underline>TSTAHAQLPVTDAGS<underline>GPGPG</underline>KAGIEDRDLQTGGIN<underline>GPGPG</underline>KKAGIEDRDLQTGGI<underline>GPGPG</underline>AAAPAQKKEEAKPAA<underline>GPGPG</underline>AEGSTAGDFTVNLPS<underline>GPGPG</underline>EGSTAGDFTVNLPST<underline>GPGPG</underline>STDQAPAAGGYNHKT<underline>GPGPG</underline>AESDQTGSSPDQTGL<underline>GPGPG</underline>SDQTGSSPDQTGLFS<underline>GPGPG</underline>KNGDGTEILGTEPAA<underline>GPGPG</underline>APSQNRGGIDAVWAP<underline>GPGPG</underline>DASHSDTDPDLDLTT<underline>GPGPG</underline>AGGAEVSGKAKLNPW<underline>GPGPG</underline>IRDSGLGLNPITDGM<underline>KK</underline>TPSPDSPDNWEFPINP<underline>KK</underline>EVVEDYPTGYNVDVSR<underline>KK</underline>SAFTWAGNSRDYQLTP<underline>KK</underline>GISEAAFNARDAHLNY<underline>KK</underline>YIGINAGYAGGKFKHP<underline>KK</underline>LHTWSDKTKAGWTLGA<underline>KK</underline>LSGEIGITTMMRGDND<underline>KK</underline>SEGGSALLLRDGGANG<underline>KK</underline>TDMWDPEVQFYYNRND<underline>KK</underline>QKLGNDPEEYRSRGFT<underline>KK</underline>LGGQIGYGWGRSTLSD<underline>KK</underline>GAVERAIRDSGLGLNP<underline>AAY</underline>RELDGLTAM<underline>AAY</underline>LSEHFFSKQW<underline>AAY</underline>MPRMDGMEL<underline>AAY</underline>RTIDSHIKR<underline>AAY</underline>RQKSDLPVIF<underline>AAY</underline>DAAYDEQVY<underline>AAY</underline>RIYDRYANK<underline>AAY</underline>QEQPGGNGL<underline>AAY</underline>IAAPFVVIW<underline>AAY</underline>AELDGILAQY<underline>AAY</underline>IPLPGYLAF<underline>AAY</underline>APVEVAPQY<underline>AAY</underline>DESKFRVGW<underline>AAY</underline>AEYAINNNW<underline>AAY</underline>YLSPQLVEI<underline>AAY</underline>LPHLLLALI<underline>AAY</underline>QPKALEAAY<underline>AAY</underline>DAAGVGLGR<underline>AAY</underline>AEIDGTDIVY<underline>AAY</underline>QPAPAAAKL<underline>AAY</underline>ETDKVTVEV<underline>AAY</underline>YENGTQKVL<underline>AAY</underline>AETQFSSLVL<underline>AAY</underline>RQKANSEFTY<underline>AAY</underline>GEIGITTMM<underline>AAY</underline>SADEAMFNRY<underline>AAY</underline>GPSKRIHVL<underline>AAY</underline> SVNGTLSYK <underline>AAY</underline> TTIGATFTK <underline>AAY</underline> ESIGVSQSK <underline>AAY</underline> DYLKVKNTF <underline>AAY</underline> RVLSEKVQK <underline>AAY</underline> Linker&#x2013;MITD sequence&#x2013;Stop codon&#x2013;3&#x2032; UTR&#x2013;Poly (A) tail.</p>
+        <p>The vaccine contains the tissue plasminogen activator (tPA) secretory signal sequence in its 5&#x2032; region. This sequence acts as a signal to aid in the excretion of epitopes after translation outside the cell, if necessary.<sup>
+<xref rid="bibr43-11779322241272404" ref-type="bibr">43</xref>
+</sup></p>
+      </sec>
+      <sec id="section25-11779322241272404">
+        <title>Assessing the biological and physicochemical characteristics of the studied vaccine</title>
+        <p>To ensure the suitability and safety of the vaccine construct, we conducted a comprehensive evaluation encompassing various aspects. This included the assessment of antigenicity, allergenicity, and toxicity through using esteemed servers such as VaxiJen, ANTIGENpro, AllerTOP, and ToxinPred. In addition, we delved into the physicochemical properties of the vaccine construct, with the results thoughtfully compiled in <xref rid="table4-11779322241272404" ref-type="table">Table 4</xref>. Our thorough evaluation revealed that the vaccine not only displayed antigenicity but also exhibited characteristics of nonallergenicity and nontoxicity.</p>
+        <table-wrap position="float" id="table4-11779322241272404">
+          <label>Table 4.</label>
+          <caption>
+            <p>Physicochemical properties of studied mRNA vaccine.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="10.1177_11779322241272404-table4" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Property</th>
+                  <th align="left" rowspan="1" colspan="1">Measurement</th>
+                  <th align="left" rowspan="1" colspan="1">Indication</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">Total Number of Amino Acids</td>
+                  <td rowspan="1" colspan="1">1165</td>
+                  <td rowspan="1" colspan="1">Appropriete</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Molecular Weight</td>
+                  <td rowspan="1" colspan="1">120&#x2009;012.62</td>
+                  <td rowspan="1" colspan="1">Appropriete</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Formula</td>
+                  <td rowspan="1" colspan="1">C5336H8092N1442O1689S17</td>
+                  <td rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Theoretical pI</td>
+                  <td rowspan="1" colspan="1">4.96</td>
+                  <td rowspan="1" colspan="1">Acidic</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Total Number of Negatively Charged Residues (Asp&#x2009;+&#x2009;Glu)</td>
+                  <td rowspan="1" colspan="1">127</td>
+                  <td rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Total Number of Positively Charged Residues (Arg&#x2009;+&#x2009;Lys)</td>
+                  <td rowspan="1" colspan="1">93</td>
+                  <td rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Total Number of Atoms</td>
+                  <td rowspan="1" colspan="1">16&#x2009;576</td>
+                  <td rowspan="1" colspan="1">-</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Instability Index (II)</td>
+                  <td rowspan="1" colspan="1">32.97</td>
+                  <td rowspan="1" colspan="1">Stable</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Estimated half-life</td>
+                  <td rowspan="1" colspan="1">4.4 hours (mammalian reticulocytes, in vitro)</td>
+                  <td rowspan="1" colspan="1">Appropriate</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Aliphatic Index (AI)</td>
+                  <td rowspan="1" colspan="1">59.35</td>
+                  <td rowspan="1" colspan="1">Thermostable</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Grand Average of Hydropathicity (GRAVY)</td>
+                  <td rowspan="1" colspan="1">-0.496</td>
+                  <td rowspan="1" colspan="1">Hydrophilic</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Antigenicity (Using VaxiJen)</td>
+                  <td rowspan="1" colspan="1">0.9135</td>
+                  <td rowspan="1" colspan="1">Antigenic</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Antigenicity (Using ANTIGENpro)</td>
+                  <td rowspan="1" colspan="1">0.931148</td>
+                  <td rowspan="1" colspan="1">Antigenic</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Allergenicity (Using AllerTOP 2.0)</td>
+                  <td rowspan="1" colspan="1">Nonallergenic</td>
+                  <td rowspan="1" colspan="1">Nonallergenic</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Toxicity (ToxinPred)</td>
+                  <td rowspan="1" colspan="1">Nontoxic</td>
+                  <td rowspan="1" colspan="1">Nontoxic</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+        <p>Furthermore, our investigation confirmed the thermal stability of the vaccine construct, as supported by its physicochemical properties. We also identified the vaccine&#x2019;s hydrophilic nature, evident through a measured Grand Average of Hydropathicity (GRAVY) of &#x2212;0.496. The results of this server show that the designed protein vaccine has a suitable weight and would be stable, and its half-life in the mammalian body is about 4.4 hours. In general, these findings imply that the designed multi-epitope mRNA vaccine construct has the potential to be an assertive candidate for use as a vaccine.</p>
+      </sec>
+      <sec id="section26-11779322241272404">
+        <title>Predicting population coverage</title>
+        <p>To gauge the potential impact of the vaccine, we sought to assess its coverage across the global population. The combined analysis of the 60 epitopes and their respective 90 alleles was executed using the IEDB Population Coverage tool. The outcome of this evaluation indicated that the vaccine holds the promise of providing coverage to an estimated about 98% of the global population (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/11779322241272404" ext-link-type="uri">Supplementary 1</ext-link>).</p>
+      </sec>
+      <sec id="section27-11779322241272404">
+        <title>Simulating the immune response against the vaccine</title>
+        <p>To gain insights into the immune response triggered by the vaccine, a series of in silico simulations were conducted, as visually depicted in <xref rid="fig3-11779322241272404" ref-type="fig">Figure 3</xref>. The observations unveiled that both secondary and tertiary responses surpassed the primary response. Notably, the production of immunoglobulin (IgM) outpaced that of IgG. Following antigen reduction, the levels of immunoglobulins remained notably elevated, signifying the potential emergence of immune memory resulting from antigen exposure and the development of acquired immunity.</p>
+        <p>The enduring presence of B-cell isotypes for an extended duration suggests isotype switching and memory formation within the B-cell population. In addition, an upsurge in the generation of memory CTL and HTL cells was observed. Macrophage activity exhibited enhancement, while dendritic cell activity remained relatively stable. Furthermore, the levels of IFN-&#x3B3; and IL-2 experienced an increase, with heightened activity of epithelial cells contributing to innate immunity. Ultimately, the low Simpson index (D) suggests a discernible difference in the immune response.</p>
+        <p>The combined global population coverage of the 60 epitopes and their corresponding 90 alleles was determined using the IEDB Population Coverage tool. It was discovered that the vaccine has the potential to cover approximately 98.04% of the global population.</p>
+      </sec>
+      <sec id="section28-11779322241272404">
+        <title>In silico simulation of the immune response to the vaccine</title>
+        <p>In the realm of in silico simulations, we administered 3 doses of the vaccine to mimic the immune response, as visually represented in <xref rid="fig2-11779322241272404" ref-type="fig">Figure 2</xref>. Our observations shed light on several key aspects of the simulated response:</p>
+        <fig position="float" id="fig2-11779322241272404">
+          <label>Figure 2.</label>
+          <caption>
+            <p>An immune simulation using computational methods was performed to assess the effectiveness of the mRNA vaccine obtained from the C-ImmSim server. (A) the production of immunoglobulins following antigen injection (B) the B-cell population post 3 injections, (C) the distribution of B-Cell Population in various states, (D) the Helper T-Cell Population, (E) the Helper T-Cell Population distribution by state, (F) the Cytotoxic T-Cell Population distribution by state, (G) the Macrophage Population in different states, (H) the Dendritic Cell Population in different states, and (I) the production of cytokines and interleukins alongside the Simpson Index, which provides insights into the immune response&#x2019;s distinctiveness and specificity.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig2" position="float"/>
+        </fig>
+        <p>Secondary and tertiary responses: notably, the secondary and tertiary responses surpassed the primary response. This suggests an increasingly robust and effective immune reaction with subsequent exposures to the vaccine.</p>
+        <sec id="section29-11779322241272404">
+          <title>IgM dominance</title>
+          <p>The production of immunoglobulin (IgM) exceeded that of IgG, indicating the initial activation of the immune system and the body&#x2019;s rapid response to the antigen (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2A</xref>).</p>
+          <p>An intriguing observation regarding the antibody response following booster doses is the unexpected decrease in their production levels. Following the second and third administrations, a decline in antibody titers was noted, possibly attributed to the short intervals between the doses, resulting in a phenomenon suggestive of immune tolerance.</p>
+        </sec>
+        <sec id="section30-11779322241272404">
+          <title>Isotype switching and memory formation</title>
+          <p>The presence of B-cell isotypes for an extended duration provides evidence of isotype switching and the formation of immune memory within the B-cell population, further underlining the vaccine&#x2019;s potential to establish lasting protection (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2B</xref> and <xref rid="fig2-11779322241272404" ref-type="fig">C</xref>).</p>
+        </sec>
+        <sec id="section31-11779322241272404">
+          <title>Augmented generation of memory CTL and HTL cells</title>
+          <p>An increase in the generation of memory cytotoxic T lymphocytes (CTL) and helper T lymphocytes (HTL) cells was observed, contributing to a more robust and specific immune response on reexposure to the antigen (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2D</xref> to <xref rid="fig2-11779322241272404" ref-type="fig">F</xref>).</p>
+        </sec>
+        <sec id="section32-11779322241272404">
+          <title>Stable dendritic cell activity</title>
+          <p>Dendritic cell activity remained stable, ensuring the continued surveillance and communication between innate and adaptive immunity (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2G</xref>).</p>
+        </sec>
+        <sec id="section33-11779322241272404">
+          <title>Enhanced macrophage activity</title>
+          <p>Macrophage activity was notably enhanced, indicating an active role in phagocytosis and antigen presentation, which are crucial components of the immune response (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2H</xref>).</p>
+        </sec>
+        <sec id="section34-11779322241272404">
+          <title>Elevated IFN-&#x3B3; and IL-2 levels</title>
+          <p>The levels of important immune signaling molecules, such as interferon-gamma (IFN-&#x3B3;) and interleukin-2 (IL-2), experienced an increase, signifying a heightened and coordinated immune response (<xref rid="fig2-11779322241272404" ref-type="fig">Figure 2I</xref>).</p>
+        </sec>
+        <sec id="section35-11779322241272404">
+          <title>Increased epithelial cells</title>
+          <p>An increase in the population of epithelial cells, which play a role in innate immunity, was also observed, further reinforcing the body&#x2019;s defense mechanisms (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/11779322241272404" ext-link-type="uri">Supplementary 2</ext-link>).</p>
+          <p>The low Simpson index (D) indicated a discernible difference in the immune response, reflecting the vaccine&#x2019;s capacity to induce a distinct and specific defense against the targeted pathogen.</p>
+        </sec>
+      </sec>
+      <sec id="section36-11779322241272404">
+        <title>Codon adaptability of the mRNA construct</title>
+        <p>The mRNA coding sequence (CDS) spanned 1896 nucleotides, and we evaluated the superiority of the optimized construct. The codon adaptation index (CAI) value, crucial for efficient expression, was determined to be 0.95. This CAI value surpasses the accepted threshold of 0.8, indicating the construct&#x2019;s suitability for proficient expression within the human host.</p>
+        <p>Efficient expression requires the GC content of the construct to fall within the range of 30% to 70%. The optimized construct demonstrated an average GC of 66.78%, falling comfortably within this desired range. In addition, the Codon Frequency Distribution (CFD) analysis revealed a value of 0%, signifying that no codons hinder translation efficiency or functionality. It is worth noting that codons with values below 30 can disrupt the translational process (<ext-link xlink:href="https://journals.sagepub.com/doi/suppl/10.1177/11779322241272404" ext-link-type="uri">Supplementary 3</ext-link>).</p>
+      </sec>
+      <sec id="section37-11779322241272404">
+        <title>Forecasting the secondary structure of the studied mRNA vaccine</title>
+        <p>The mRNA vaccine&#x2019;s structural configuration was projected using the RNAfold server, and the associated free energy values were assessed (<xref rid="fig3-11779322241272404" ref-type="fig">Figure 3</xref>). In this assessment, the optimized codons from the construct were employed as the input. The outcomes reveal that the mRNA vaccine is anticipated to possess stability, featuring a minimum free energy (MFE) for the structure at &#x2212;1399.90&#x2009;kcal/mol. Furthermore, the secondary centroid structure indicates a free energy of &#x2212;1213.12 kcal/mol. These data offer valuable insights into the thermodynamic resilience of the mRNA vaccine structure.</p>
+        <fig position="float" id="fig3-11779322241272404">
+          <label>Figure 3.</label>
+          <caption>
+            <p>(A) Ideal secondary configuration, (B) Central secondary arrangement of the mRNA vaccine obtained through the RNAfold web server.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig3" position="float"/>
+        </fig>
+      </sec>
+      <sec id="section38-11779322241272404">
+        <title>Estimation and verification of secondary and tertiary structures of the studied vaccine</title>
+        <p>The PSIPRED service was used to forecast the secondary structure of the vaccine. This analysis indicated a prevalence of alpha helices in the structure, as depicted in <xref rid="fig4-11779322241272404" ref-type="fig">Figure 4A</xref>. Following that, we predicted the peptide&#x2019;s tertiary structure using the Robetta, as displayed in <xref rid="fig4-11779322241272404" ref-type="fig">Figure 4B</xref>. To evaluate the stereochemical accuracy of the structure, we used the PROCHECK, which considers the geometry of residues and the general structure for prediction. The Ramachandran plot, presented in <xref rid="fig4-11779322241272404" ref-type="fig">Figure 4C</xref>, demonstrates that roughly 79.8% of residues occupy the most favored regions, 17.5% are within the additionally allowed zone, and 1.5% fall in the allowed regions. The total quality factor acquired was 94.6168, indicating a high level of structural quality. Furthermore, the ProSA projected a negative Z-score (&#x2212;10.72), signifying substantial consistency in the 3D protein model, as illustrated in <xref rid="fig4-11779322241272404" ref-type="fig">Figure 4D</xref>.</p>
+        <fig position="float" id="fig4-11779322241272404">
+          <label>Figure 4.</label>
+          <caption>
+            <p>Forecasting and verification of the peptide vaccine construct&#x2019;s structure: (A) Secondary structure prognosis of the vaccine, (B) Prediction of the tertiary structure. (C) Ramachandran plot, (D) Z-scores.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig4" position="float"/>
+        </fig>
+      </sec>
+      <sec id="section39-11779322241272404">
+        <title>Foreseeing conformational B-cell epitopes</title>
+        <p>The folding of the model protein resulted in the creation of conformational B-cell epitopes. To pinpoint these epitopes, we engaged the ElliPro, which foretold 6 discontinuous B-cell epitopes. These epitopes encompass a total of 374 residues, with prediction scores ranging from 0.621 to 0.946, suggesting a high likelihood of their antigenic potential. The 2D and 3D models of these conformational B-cell epitopes are depicted in <xref rid="fig5-11779322241272404" ref-type="fig">Figure 5</xref>, specifically in panels I and II, respectively.</p>
+        <fig position="float" id="fig5-11779322241272404">
+          <label>Figure 5.</label>
+          <caption>
+            <p>Some anticipated conformational B-cell epitopes identified with the ElliPro: (I) Schematic Presentation of the Epitope Locations, (II) Three-Dimensional Models. Conformational Epitopes are Represented by Yellow Spheres.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig5" position="float"/>
+        </fig>
+      </sec>
+      <sec id="section40-11779322241272404">
+        <title>Molecular dynamics simulation</title>
+        <p>To further explore the interactions within the vaccine-TLR3 and vaccine-TLR4 complexes, we conducted molecular dynamics simulations using the iMODS server. These simulations allowed us to evaluate how the receptor and ligand interacted over time and identify regions of the construct that displayed flexibility, visualized in the deformability graph (see <xref rid="fig6-11779322241272404" ref-type="fig">Figures 6B</xref> and <xref rid="fig7-11779322241272404" ref-type="fig">7B</xref>).</p>
+        <p>We also employed normal mode analysis (NMA) to assess the flexibility of the proteins. The B-factor graph, which depicts the relationship between NMA and PDB areas in the complex, is presented in <xref rid="fig6-11779322241272404" ref-type="fig">Figures 6C</xref> and <xref rid="fig7-11779322241272404" ref-type="fig">7C</xref>. Eigenvalues for the docked complexes were calculated to provide insights into their overall dynamics, as depicted in <xref rid="fig6-11779322241272404" ref-type="fig">Figures 6D</xref> and <xref rid="fig7-11779322241272404" ref-type="fig">7D</xref>. These results demonstrated that the vaccine-receptor complex had a low deformation index, indicating high rigidity and enhanced steadiness.</p>
+        <fig position="float" id="fig6-11779322241272404">
+          <label>Figure 6.</label>
+          <caption>
+            <p>Exploration of molecular dynamics, normal mode analysis, and interactions between receptor and ligand. (A) Complex formed by docking the vaccine with TLR4 using the ClusPro server (B) Graph illustrating deformability (C) Chart depicting B-factor analysis (D) Eigenvalue assessment of the vaccine-TLR4 and TLR3 (E) Visualization of the covariance matrix (F) Employment of an elastic network model via the iMODS server (G) Assessment of receptor-ligand interactions with the PDBsum web server (H) Examination of receptor-ligand interactions using the LIGPLOT web server.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig6" position="float"/>
+        </fig>
+        <fig position="float" id="fig7-11779322241272404">
+          <label>Figure 7.</label>
+          <caption>
+            <p>Exploration of molecular dynamics, normal mode analysis, and interactions between receptor and ligand. (A) Complex formed by docking the vaccine with TLR3 using the ClusPro server (B) Graph illustrating deformability (C) Chart depicting B-factor analysis (D) Eigenvalue assessment of the vaccine-TLR4 and TLR3 (E) Visualization of the covariance matrix (F) Employment of an elastic network model via the iMODS server (G) Assessment of receptor-ligand interactions with the PDBsum web server (H) Examination of receptor-ligand interactions using the LIGPLOT web server.</p>
+          </caption>
+          <graphic xlink:href="10.1177_11779322241272404-fig7" position="float"/>
+        </fig>
+        <p>Moreover, the covariance matrix (see <xref rid="fig6-11779322241272404" ref-type="fig">Figures 6E</xref> and <xref rid="fig7-11779322241272404" ref-type="fig">7E</xref>) illustrated the connections between amino acid pairs located in dynamic regions. A connecting matrix based on an elastic network model, as revealed in <xref rid="fig6-11779322241272404" ref-type="fig">Figures 6F</xref> and <xref rid="fig7-11779322241272404" ref-type="fig">7F</xref>, was used to recognize pairs of atoms connected by springs. Darker gray regions in this matrix represented higher stiffness within each chain of the complex.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="section41-11779322241272404">
+      <title>Discussion</title>
+      <p>This study aimed to harness immunoinformatics methodologies to create a secure, engineered mRNA vaccine that is highly effective. Today, mRNA vaccines have garnered significant attention as promising alternatives to traditional vaccines due to their ease of production, cost-effectiveness, safety profile, and robust potency, particularly during pandemics.<sup><xref rid="bibr16-11779322241272404" ref-type="bibr">16</xref>,<xref rid="bibr44-11779322241272404" ref-type="bibr">44</xref></sup> These vaccines have the ability to elicit a well-rounded immune response, encompassing both cellular and humoral immunity, and are not limited by specific MHC haplotypes. Moreover, mRNA serves as a safe vector as it carries transient information without interacting with the genome.<sup><xref rid="bibr16-11779322241272404" ref-type="bibr">16</xref>,<xref rid="bibr44-11779322241272404" ref-type="bibr">44</xref></sup></p>
+      <p>To combat <italic toggle="yes">B melitensis</italic> infection, we developed an innovative in silico multi-epitope mRNA vaccine based on the bacterium&#x2019;s major surface proteins. We thoroughly examined target proteins responsible for cell binding and attachment, seeking potential epitopes capable of triggering either humoral or cellular immune responses. The IEDB database was employed for predicting epitopes for HTL and CTL, while B-cell epitopes were determined using the ABCpred tool, which relies on machine learning methods.<sup>
+<xref rid="bibr24-11779322241272404" ref-type="bibr">24</xref>
+</sup></p>
+      <p>One of the intriguing findings from our study was the identification of novel targets for the development of a vaccine. Using the complete bacterial proteome, we focused on surface-exposed proteins identified through domain signal analysis. The selection of appropriate servers for this purpose was a key strength of our study. The limited success in developing an effective brucellosis vaccine<sup><xref rid="bibr9-11779322241272404" ref-type="bibr">9</xref>,<xref rid="bibr45-11779322241272404" ref-type="bibr">45</xref></sup> or addressing diagnostic challenges in serology-based kits<sup><xref rid="bibr46-11779322241272404" ref-type="bibr">46</xref>,<xref rid="bibr47-11779322241272404" ref-type="bibr">47</xref></sup> may be attributed to the reliance on a small number of known bacterial proteins, highlighting the significance of the new targets identified in our investigation.</p>
+      <p>The predicted epitopes underwent scrutiny to evaluate their antigenicity, allergenicity, and toxicity through dedicated web servers. Specific linkers were employed to combine these epitopes, and immune simulations were carried out to validate the vaccine&#x2019;s ability to provoke both humoral and cellular responses. The unexpected finding in our study was the decrease in antibody production following the administration of booster doses at a 4-week interval. This shortened interval may appear to induce a phenomenon of immune tolerance, suggesting the need to extend the interval between booster dose injections.</p>
+      <p>The selected epitopes demonstrated compatibility with 90 distinct MHC alleles. Molecular docking analysis was performed to assess the interaction between the chosen epitopes and their corresponding MHC alleles, as this ligand-epitope interaction plays a pivotal role in vaccine design. The analysis included the examination of binding affinity and bond formation through ClusPro, as well as an analysis of the interactions between the epitopes and the MHC pockets.</p>
+      <p>Furthermore, as there is a vast diversity of human MHC alleles, the vaccine&#x2019;s effectiveness hinges on individuals possessing specific MHC alleles capable of binding to the epitopes. According to predictions from the IEDB tool, one notable outcome of the vaccine formulated in this investigation was the broad coverage of epitopes obtained, encompassing over 98% of the alleles across the global population. This finding underscores the potential novelty and significance of the targets employed in this study as promising candidates for brucellosis prevention. In addition, the vaccine construct was subjected to docking with immune receptors TLR-3 and TLR-4 to assess its potential interaction with these receptors, which could trigger the development of innate and adaptive immunity. Molecular dynamic simulations were employed to evaluate the permanency of the vaccine complex.</p>
+      <p>Overall, the validity of in silico studies can be established through laboratory experimentation.</p>
+      <p>In a study conducted by Tarrahimofrad et al in 2022, a multi-epitope vaccine was developed using BtpA, Omp16, Omp28, virB10, Omp25, and Omp31 antigens targeting <italic toggle="yes">B melitensis</italic>, <italic toggle="yes">Brucella abortus</italic>, and <italic toggle="yes">Brucella suis</italic>. Through molecular docking analyses, molecular dynamics simulations including gyration, Root Mean Square Fluctuation (RMSF), and Root Mean Square Deviation (RMSD) assessments, and validation of tertiary protein structures, the constructed protein exhibited a stable conformation capable of interacting with TLR2/4 receptors. The researchers posited that this peptide-based vaccine could elicit immune responses in both B and T cells, thereby potentially preventing infections caused by <italic toggle="yes">B suis</italic>, <italic toggle="yes">B abortus</italic>, and <italic toggle="yes">B melitensis</italic>.<sup>
+<xref rid="bibr48-11779322241272404" ref-type="bibr">48</xref>
+</sup></p>
+      <p>Notably, the divergence between the present investigation and the aforementioned study lies in the identification of novel targets sourced from a comprehensive proteomic analysis of the melitensis species. These selected targets represent novel candidates, and the vaccine under investigation is based on an mRNA platform. In contrast to the peptide vaccine delineated in the prior study, the current research elucidated that it could also trigger the immune response in celery, a crucial factor in the pathogenesis of the aforementioned bacterium.</p>
+      <p>Nguyen et al conducted a study in 2023 where they used the reverse vaccinology approach to design DNA vaccines with potential bacterial antigens against <italic toggle="yes">Nocardia seriolae</italic>. These potential vaccine candidates were identified through in silico analysis. In vitro assays confirmed the immunogenicity of these proteins, and DNA-based vaccines resulted in a significant gene expression and serum antibody production in the orange-spotted grouper <italic toggle="yes">Epinephelus coioides</italic>. The study concludes that the reverse vaccinology is a promising plan vaccine candidates against <italic toggle="yes">N seriolae</italic> infection.<sup>
+<xref rid="bibr49-11779322241272404" ref-type="bibr">49</xref>
+</sup></p>
+      <p>In summary, this study introduces an innovative multi-epitope mRNA vaccine for <italic toggle="yes">B melitensis</italic>, developed through immunoinformatic approaches. While this research lays the foundation for future studies and vaccine development, further in vitro and in vivo investigations are imperative to confirm these findings and ensure the vaccine&#x2019;s efficacy.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="section42-11779322241272404">
+      <title>Supplemental Material</title>
+      <supplementary-material id="suppl1-11779322241272404" position="float" content-type="local-data">
+        <caption>
+          <title>sj-pdf-1-bbi-10.1177_11779322241272404 &#x2013; Supplemental material for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine</title>
+        </caption>
+        <media xlink:href="sj-pdf-1-bbi-10.1177_11779322241272404.pdf"/>
+        <p>Supplemental material, sj-pdf-1-bbi-10.1177_11779322241272404 for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine by Maryam Asadinezhad, Iraj Pakzad, Parisa Asadollahi, Sobhan Ghafourian and Behrooz Sadeghi Kalani in Bioinformatics and Biology Insights</p>
+      </supplementary-material>
+      <supplementary-material id="suppl2-11779322241272404" position="float" content-type="local-data">
+        <caption>
+          <title>sj-pdf-2-bbi-10.1177_11779322241272404 &#x2013; Supplemental material for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine</title>
+        </caption>
+        <media xlink:href="sj-pdf-2-bbi-10.1177_11779322241272404.pdf"/>
+        <p>Supplemental material, sj-pdf-2-bbi-10.1177_11779322241272404 for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine by Maryam Asadinezhad, Iraj Pakzad, Parisa Asadollahi, Sobhan Ghafourian and Behrooz Sadeghi Kalani in Bioinformatics and Biology Insights</p>
+      </supplementary-material>
+      <supplementary-material id="suppl3-11779322241272404" position="float" content-type="local-data">
+        <caption>
+          <title>sj-pdf-3-bbi-10.1177_11779322241272404 &#x2013; Supplemental material for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine</title>
+        </caption>
+        <media xlink:href="sj-pdf-3-bbi-10.1177_11779322241272404.pdf"/>
+        <p>Supplemental material, sj-pdf-3-bbi-10.1177_11779322241272404 for Proteomics Exploration of Brucella melitensis to Design an Innovative Multi-Epitope mRNA Vaccine by Maryam Asadinezhad, Iraj Pakzad, Parisa Asadollahi, Sobhan Ghafourian and Behrooz Sadeghi Kalani in Bioinformatics and Biology Insights</p>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank the Students Research Committee (IR.MEDILAM.REC.1402.139), Ilam University of Medical Sciences, for their cooperation. Our appreciation goes to the Vice Chancellor for Research Affairs, Ilam University of Medical Sciences, Ilam, Iran, for their executive and financial support. Also, we appreciate Nazanin Omidi who assisted us in revising the revised version.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="con">
+        <p><bold>Author Contributions:</bold> The methodology was carried out by Maryam Asadinezhad. The results were analyzed and confirmed by Iraj Pakzad. Parisa Asadollahi revised the article draft. The analysis of the docking and visualization results was conducted by Sobhan Ghafourian. This study was designed, drafted, and supervised by Behrooz Sadeghi Kalani.</p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study was supported by Ilam University of Medical Sciences, Ilam, Iran.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>ORCID iD:</bold> Behrooz Sadeghi Kalani <inline-graphic xlink:href="10.1177_11779322241272404-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0002-2936-3142" ext-link-type="uri">https://orcid.org/0000-0002-2936-3142</ext-link></p>
+      </fn>
+      <fn fn-type="supplementary-material">
+        <p><bold>Supplemental Material:</bold> Supplemental material for this article is available online.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="bibr1-11779322241272404">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>de Figueiredo</surname><given-names>P</given-names></name>
+<name><surname>Ficht</surname><given-names>TA</given-names></name>
+<name><surname>Rice-Ficht</surname><given-names>A</given-names></name>
+<name><surname>Rossetti</surname><given-names>CA</given-names></name>
+<name><surname>Adams</surname><given-names>LG.</given-names></name>
+</person-group>
+<article-title>Pathogenesis and immunobiology of brucellosis: review of Brucella&#x2013;Host Interactions</article-title>. <source>Am J Pathol</source>. <year>2015</year>;<volume>185</volume>:<fpage>1505</fpage>-<lpage>1517</lpage>.<pub-id pub-id-type="pmid">25892682</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr2-11779322241272404">
+        <label>2</label>
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Corbel</surname><given-names>MJ.</given-names></name>
+</person-group>
+<source>Brucellosis: Epidemiology and Prevalence Worldwide, in Brucellosis</source>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press</publisher-name>; <year>2020</year>.</mixed-citation>
+      </ref>
+      <ref id="bibr3-11779322241272404">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Khurana</surname><given-names>SK</given-names></name>
+<name><surname>Sehrawat</surname><given-names>A</given-names></name>
+<name><surname>Tiwari</surname><given-names>R</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Bovine brucellosis&#x2014;a comprehensive review</article-title>. <source>Vet Q</source>. <year>2021</year>;<volume>41</volume>:<fpage>61</fpage>-<lpage>88</lpage>.<pub-id pub-id-type="pmid">33353489</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr4-11779322241272404">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Amjadi</surname><given-names>O</given-names></name>
+<name><surname>Rafiei</surname><given-names>A</given-names></name>
+<name><surname>Mardani</surname><given-names>M</given-names></name>
+<name><surname>Zafari</surname><given-names>P</given-names></name>
+<name><surname>Zarifian</surname><given-names>A.</given-names></name>
+</person-group>
+<article-title>A review of the immunopathogenesis of Brucellosis</article-title>. <source>Infect Dis (Lond)</source>. <year>2019</year>;<volume>51</volume>:<fpage>321</fpage>-<lpage>333</lpage>.<pub-id pub-id-type="pmid">30773082</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr5-11779322241272404">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Darbandi</surname><given-names>A</given-names></name>
+<name><surname>Koupaei</surname><given-names>M</given-names></name>
+<name><surname>Navidifar</surname><given-names>T</given-names></name>
+<name><surname>Shahroodian</surname><given-names>S</given-names></name>
+<name><surname>Heidary</surname><given-names>M</given-names></name>
+<name><surname>Talebi</surname><given-names>M.</given-names></name>
+</person-group>
+<article-title>Brucellosis control methods with an emphasis on vaccination: a systematic review</article-title>. <source>Expert Rev Anti Infect Ther</source>. <year>2022</year>;<volume>20</volume>:<fpage>1025</fpage>-<lpage>1035</lpage>.<pub-id pub-id-type="pmid">35416090</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr6-11779322241272404">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Barbier</surname><given-names>AJ</given-names></name>
+<name><surname>Jiang</surname><given-names>AY</given-names></name>
+<name><surname>Zhang</surname><given-names>P</given-names></name>
+<name><surname>Wooster</surname><given-names>R</given-names></name>
+<name><surname>Anderson</surname><given-names>DG.</given-names></name>
+</person-group>
+<article-title>The clinical progress of mRNA vaccines and immunotherapies</article-title>. <source>Nat Biotechnol</source>. <year>2022</year>;<volume>40</volume>:<fpage>840</fpage>-<lpage>854</lpage>.<pub-id pub-id-type="pmid">35534554</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr7-11779322241272404">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hasanjani Roushan</surname><given-names>MR</given-names></name>
+<name><surname>Moulana</surname><given-names>Z</given-names></name>
+<name><surname>Mohseni Afshar</surname><given-names>Z</given-names></name>
+<name><surname>Ebrahimpour</surname><given-names>S.</given-names></name>
+</person-group>
+<article-title>Risk factors for relapse of human brucellosis</article-title>. <source>Glob J Health Sci</source>. <year>2016</year>;<volume>8</volume>:<fpage>77</fpage>-<lpage>82</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr8-11779322241272404">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dorneles</surname><given-names>EM</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N</given-names></name>
+<name><surname>Lage</surname><given-names>AP.</given-names></name>
+</person-group>
+<article-title>Recent advances in Brucella abortus vaccines</article-title>. <source>Vet Res</source>. <year>2015</year>;<volume>46</volume>:<fpage>1</fpage>-<lpage>10</lpage>.<pub-id pub-id-type="pmid">25582708</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr9-11779322241272404">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Perkins</surname><given-names>SD</given-names></name>
+<name><surname>Smither</surname><given-names>SJ</given-names></name>
+<name><surname>Atkins</surname><given-names>HS.</given-names></name>
+</person-group>
+<article-title>Towards a Brucella vaccine for humans</article-title>. <source>FEMS Microbiol Rev</source>. <year>2010</year>;<volume>34</volume>:<fpage>379</fpage>-<lpage>394</lpage>.<pub-id pub-id-type="pmid">20180858</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr10-11779322241272404">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Asadinezhad</surname><given-names>M</given-names></name>
+<name><surname>Khoshnood</surname><given-names>S</given-names></name>
+<name><surname>Asadollahi</surname><given-names>P</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Development of innovative multi-epitope mRNA vaccine against Pseudomonas aeruginosa using in silico approaches</article-title>. <source>Brief Bioinform</source>. <year>2024</year>;<volume>25</volume>:bbad502.</mixed-citation>
+      </ref>
+      <ref id="bibr11-11779322241272404">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Carvalho</surname><given-names>T.</given-names></name>
+</person-group>
+<article-title>Personalized anti-cancer vaccine combining mRNA and immunotherapy tested in melanoma trial</article-title>. <source>Nat Med</source>. <year>2023</year>;<volume>29</volume>:<fpage>2379</fpage>-<lpage>2380</lpage>.<pub-id pub-id-type="pmid">37773210</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr12-11779322241272404">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Beatty</surname><given-names>GL</given-names></name>
+<name><surname>Haas</surname><given-names>AR</given-names></name>
+<name><surname>Maus</surname><given-names>MV</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Mesothelin-specific chimeric antigen receptor mRNA-engineered T cells induce anti-tumor activity in solid malignancies</article-title>. <source>Cancer Immunol Res</source>. <year>2014</year>;<volume>2</volume>:<fpage>112</fpage>-<lpage>120</lpage>.<pub-id pub-id-type="pmid">24579088</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr13-11779322241272404">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Anttila</surname><given-names>V</given-names></name>
+<name><surname>Saraste</surname><given-names>A</given-names></name>
+<name><surname>Knuuti</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Synthetic mRNA encoding VEGF-A in patients undergoing coronary artery bypass grafting: design of a phase 2a clinical trial</article-title>. <source>Mol Ther Methods Clin Dev</source>. <year>2020</year>;<volume>18</volume>:<fpage>464</fpage>-<lpage>472</lpage>.<pub-id pub-id-type="pmid">32728595</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr14-11779322241272404">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kremsner</surname><given-names>PG</given-names></name>
+<name><surname>Mann</surname><given-names>P</given-names></name>
+<name><surname>Kroidl</surname><given-names>A</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Safety and immunogenicity of an mRNA-lipid nanoparticle vaccine candidate against SARS-CoV-2: a phase 1 randomized clinical trial</article-title>. <source>Wien Klin Wochenschr</source>. <year>2021</year>;<volume>133</volume>:<fpage>931</fpage>-<lpage>941</lpage>.<pub-id pub-id-type="pmid">34378087</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr15-11779322241272404">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gote</surname><given-names>V</given-names></name>
+<name><surname>Bolla</surname><given-names>PK</given-names></name>
+<name><surname>Kommineni</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>A comprehensive review of mRNA vaccines</article-title>. <source>Int J Mol Sci</source>. <year>2023</year>;<volume>24</volume>:<fpage>2700</fpage>.<pub-id pub-id-type="pmid">36769023</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr16-11779322241272404">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jackson</surname><given-names>NAC</given-names></name>
+<name><surname>Kester</surname><given-names>KE</given-names></name>
+<name><surname>Casimiro</surname><given-names>D</given-names></name>
+<name><surname>Gurunathan</surname><given-names>S</given-names></name>
+<name><surname>DeRosa</surname><given-names>F</given-names></name>
+</person-group>. <article-title>The promise of mRNA vaccines: a biotech and industrial perspective</article-title>. <source>NPJ Vaccines</source>. <year>2020</year>;<volume>5</volume>:<fpage>11</fpage>.<pub-id pub-id-type="pmid">32047656</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr17-11779322241272404">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bai</surname><given-names>Q</given-names></name>
+<name><surname>Li</surname><given-names>H</given-names></name>
+<name><surname>Wu</surname><given-names>X</given-names></name>
+<name><surname>Shao</surname><given-names>J</given-names></name>
+<name><surname>Sun</surname><given-names>M</given-names></name>
+<name><surname>Yin</surname><given-names>D.</given-names></name>
+</person-group>
+<article-title>Comparative analysis of the main outer membrane proteins of Brucella in the diagnosis of brucellosis</article-title>. <source>Biochem Biophys Res Commun</source>. <year>2021</year>;<volume>560</volume>:<fpage>126</fpage>-<lpage>131</lpage>.<pub-id pub-id-type="pmid">33989903</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr18-11779322241272404">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lacerda</surname><given-names>TL</given-names></name>
+<name><surname>Salcedo</surname><given-names>SP</given-names></name>
+<name><surname>Gorvel</surname><given-names>JP.</given-names></name>
+</person-group>
+<article-title>Brucella T4SS: the VIP pass inside host cells</article-title>. <source>Curr Opin Microbiol</source>. <year>2013</year>;<volume>16</volume>:<fpage>45</fpage>-<lpage>51</lpage>.<pub-id pub-id-type="pmid">23318140</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr19-11779322241272404">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sedzicki</surname><given-names>J</given-names></name>
+<name><surname>Ni</surname><given-names>D</given-names></name>
+<name><surname>Lehmann</surname><given-names>F</given-names></name>
+<name><surname>Stahlberg</surname><given-names>H</given-names></name>
+<name><surname>Dehio</surname><given-names>C.</given-names></name>
+</person-group>
+<article-title>Structure-function analysis of the cyclic &#x3B2;-1,2-glucan synthase</article-title>. <source>bioRxiv</source>, <year>2023</year>.</mixed-citation>
+      </ref>
+      <ref id="bibr20-11779322241272404">
+        <label>20</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Coronas-Serna</surname><given-names>JM</given-names></name>
+<name><surname>Louche</surname><given-names>A</given-names></name>
+<name><surname>Rodr&#xED;guez-Escudero</surname><given-names>M</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The TIR-domain containing effectors BtpA and BtpB from Brucella abortus impact NAD metabolism</article-title>. <source>PLoS Pathog</source>. <year>2020</year>;<volume>16</volume>:e1007979.</mixed-citation>
+      </ref>
+      <ref id="bibr21-11779322241272404">
+        <label>21</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bulashev</surname><given-names>A</given-names></name>
+<name><surname>Akibekov</surname><given-names>O</given-names></name>
+<name><surname>Syzdykova</surname><given-names>A</given-names></name>
+<name><surname>Suranshiyev</surname><given-names>Z</given-names></name>
+<name><surname>Ingirbay</surname><given-names>B.</given-names></name>
+</person-group>
+<article-title>Use of recombinant Brucella outer membrane proteins 19, 25, and 31 for serodiagnosis of bovine brucellosis</article-title>. <source>Vet World</source>. <year>2020</year>;<volume>13</volume>:<fpage>1439</fpage>-<lpage>1447</lpage>.<pub-id pub-id-type="pmid">32848322</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr22-11779322241272404">
+        <label>22</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Peabody</surname><given-names>MA</given-names></name>
+<name><surname>Lau</surname><given-names>WYV</given-names></name>
+<name><surname>Hoad</surname><given-names>GR</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>PSORTm: a bacterial and archaeal protein subcellular localization prediction tool for metagenomics data</article-title>. <source>Bioinformatics</source>. <year>2020</year>;<volume>36</volume>:<fpage>3043</fpage>-<lpage>3048</lpage>.<pub-id pub-id-type="pmid">32108861</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr23-11779322241272404">
+        <label>23</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Saha</surname><given-names>S</given-names></name>
+<name><surname>Raghava</surname><given-names>GPS</given-names></name>
+</person-group>. <article-title>Prediction of continuous B-cell epitopes in an antigen using recurrent neural network</article-title>. <source>Proteins</source>. <year>2006</year>;<volume>65</volume>:<fpage>40</fpage>-<lpage>48</lpage>.<pub-id pub-id-type="pmid">16894596</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr24-11779322241272404">
+        <label>24</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vita</surname><given-names>R</given-names></name>
+<name><surname>Mahajan</surname><given-names>S</given-names></name>
+<name><surname>Overton</surname><given-names>JA</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The immune epitope database (IEDB): 2018 update</article-title>. <source>Nucleic Acids Res</source>. <year>2019</year>;<volume>47</volume>:D339-D343.</mixed-citation>
+      </ref>
+      <ref id="bibr25-11779322241272404">
+        <label>25</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Doytchinova</surname><given-names>IA</given-names></name>
+<name><surname>Flower</surname><given-names>DR.</given-names></name>
+</person-group>
+<article-title>VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines</article-title>. <source>BMC Bioinformatics</source>. <year>2007</year>;<volume>8</volume>:<fpage>1</fpage>-<lpage>7</lpage>.<pub-id pub-id-type="pmid">17199892</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr26-11779322241272404">
+        <label>26</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dimitrov</surname><given-names>I</given-names></name>
+<name><surname>Bangov</surname><given-names>I</given-names></name>
+<name><surname>Flower</surname><given-names>DR</given-names></name>
+<name><surname>Doytchinova</surname><given-names>I.</given-names></name>
+<name><surname>AllerTOP</surname><given-names>v.</given-names></name>
+</person-group>
+<article-title>2&#x2014;a server for in silico prediction of allergens</article-title>. <source>J Mol Model</source>. <year>2014</year>;<volume>20</volume>:2278-2276.</mixed-citation>
+      </ref>
+      <ref id="bibr27-11779322241272404">
+        <label>27</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rathore</surname><given-names>AS</given-names></name>
+<name><surname>Arora</surname><given-names>A</given-names></name>
+<name><surname>Choudhury</surname><given-names>S</given-names></name>
+<name><surname>Tijare</surname><given-names>P</given-names></name>
+<name><surname>Raghava</surname><given-names>GPS.</given-names></name>
+</person-group>
+<article-title>ToxinPred 3.0: an improved method for predicting the toxicity of peptides</article-title>. <source>bioRxiv</source>, <year>2023</year>.</mixed-citation>
+      </ref>
+      <ref id="bibr28-11779322241272404">
+        <label>28</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kouranov</surname><given-names>A</given-names></name>
+<name><surname>Xie</surname><given-names>L</given-names></name>
+<name><surname>de la Cruz</surname><given-names>J</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The RCSB PDB information portal for structural genomics</article-title>. <source>Nucleic Acids Res</source>. <year>2006</year>;<volume>34</volume>:D302-D305.</mixed-citation>
+      </ref>
+      <ref id="bibr29-11779322241272404">
+        <label>29</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>DeLano</surname><given-names>WL.</given-names></name>
+</person-group>
+<article-title>Pymol: an open-source molecular graphics tool</article-title>. <source>CCP4 Newsl Protein Crystallogr</source>. <year>2002</year>;<volume>40</volume>:<fpage>82</fpage>-<lpage>92</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr30-11779322241272404">
+        <label>30</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Guex</surname><given-names>N</given-names></name>
+<name><surname>Peitsch</surname><given-names>MC</given-names></name>
+<name><surname>Schwede</surname><given-names>T.</given-names></name>
+</person-group>
+<article-title>Automated comparative protein structure modeling with SWISS-MODEL and Swiss-PdbViewer: a historical perspective</article-title>. <source>Electrophoresis</source>. <year>2009</year>;<volume>30</volume>:S162-S173.</mixed-citation>
+      </ref>
+      <ref id="bibr31-11779322241272404">
+        <label>31</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Maupetit</surname><given-names>J</given-names></name>
+<name><surname>Derreumaux</surname><given-names>P</given-names></name>
+<name><surname>Tuffery</surname><given-names>P.</given-names></name>
+</person-group>
+<article-title>PEP-FOLD: an online resource for de novo peptide structure prediction</article-title>. <source>Nucleic Acids Res</source>. <year>2009</year>;<volume>37</volume>:W498-W503.</mixed-citation>
+      </ref>
+      <ref id="bibr32-11779322241272404">
+        <label>32</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kozakov</surname><given-names>D</given-names></name>
+<name><surname>Hall</surname><given-names>DR</given-names></name>
+<name><surname>Xia</surname><given-names>B</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>The ClusPro web server for protein&#x2013;protein docking</article-title>. <source>Nat Protoc</source>. <year>2017</year>;<volume>12</volume>:<fpage>255</fpage>-<lpage>278</lpage>.<pub-id pub-id-type="pmid">28079879</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr33-11779322241272404">
+        <label>33</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tahir</surname><given-names>Ul</given-names></name>
+<name><surname>Qamar</surname><given-names>M</given-names></name>
+<name><surname>Rehman</surname><given-names>A</given-names></name>
+<name><surname>Tusleem</surname><given-names>K</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Designing of a next generation multiepitope based vaccine (MEV) against SARS-COV-2: immunoinformatics and in silico approaches</article-title>. <source>PLoS ONE</source>. <year>2020</year>;<volume>15</volume>:e0244176.</mixed-citation>
+      </ref>
+      <ref id="bibr34-11779322241272404">
+        <label>34</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Behmard</surname><given-names>E</given-names></name>
+<name><surname>Abdulabbas</surname><given-names>HT</given-names></name>
+<name><surname>Abdalkareem Jasim</surname><given-names>S</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Design of a novel multi-epitope vaccine candidate against hepatitis C virus using structural and nonstructural proteins: an immunoinformatics approach</article-title>. <source>PLoS ONE</source>. <year>2022</year>;<volume>17</volume>:e0272582.</mixed-citation>
+      </ref>
+      <ref id="bibr35-11779322241272404">
+        <label>35</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Asadollahi</surname><given-names>P</given-names></name>
+<name><surname>Pakzad</surname><given-names>I</given-names></name>
+<name><surname>Sadeghifard</surname><given-names>N</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Immunoinformatics insights into the internalin A and B proteins to design a multi-epitope subunit vaccine for L. monocytogenes</article-title>. <source>Int J Pept Res Ther</source>. <year>2022</year>;<volume>28</volume>:<fpage>47</fpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr36-11779322241272404">
+        <label>36</label>
+        <mixed-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name><surname>Castiglione</surname><given-names>F</given-names></name>
+<name><surname>Bernaschi</surname><given-names>M.</given-names></name>
+</person-group>
+<article-title>C-immsim: playing with the immune response</article-title>. <conf-name>Paper presented at: Proceedings of the sixteenth international symposium on mathematical theory of networks and systems (MTNS2004)</conf-name>; <conf-date>2004 July</conf-date>; <conf-loc>Katholieke Universiteit Leuven, Leuven, Belgium</conf-loc>.</mixed-citation>
+      </ref>
+      <ref id="bibr37-11779322241272404">
+        <label>37</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lorenz</surname><given-names>R</given-names></name>
+<name><surname>Bernhart</surname><given-names>SH</given-names></name>
+<name><surname>H&#xF6;ner</surname><given-names>Zu</given-names></name>
+<name><surname>Siederdissen</surname><given-names>C</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>ViennaRNA package 2.0</article-title>. <source>Algorithms Mol Biol</source>. <year>2011</year>;<volume>6</volume>:<fpage>26</fpage>.<pub-id pub-id-type="pmid">22115189</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr38-11779322241272404">
+        <label>38</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>McGuffin</surname><given-names>LJ</given-names></name>
+<name><surname>Bryson</surname><given-names>K</given-names></name>
+<name><surname>Jones</surname><given-names>DT.</given-names></name>
+</person-group>
+<article-title>The PSIPRED protein structure prediction server</article-title>. <source>Bioinformatics</source>. <year>2000</year>;<volume>16</volume>:<fpage>404</fpage>-<lpage>405</lpage>.<pub-id pub-id-type="pmid">10869041</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr39-11779322241272404">
+        <label>39</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>DE</given-names></name>
+<name><surname>Chivian</surname><given-names>D</given-names></name>
+<name><surname>Baker</surname><given-names>D.</given-names></name>
+</person-group>
+<article-title>Protein structure prediction and analysis using the Robetta server</article-title>. <source>Nucleic Acids Res</source>. <year>2004</year>;<volume>32</volume>:W526-W531.</mixed-citation>
+      </ref>
+      <ref id="bibr40-11779322241272404">
+        <label>40</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wiederstein</surname><given-names>M</given-names></name>
+<name><surname>Sippl</surname><given-names>MJ.</given-names></name>
+</person-group>
+<article-title>ProSA-web: interactive web service for the recognition of errors in three-dimensional structures of proteins</article-title>. <source>Nucleic Acids Res</source>. <year>2007</year>;<volume>35</volume>:W407-W410.</mixed-citation>
+      </ref>
+      <ref id="bibr41-11779322241272404">
+        <label>41</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Laskowski</surname><given-names>RA</given-names></name>
+<name><surname>MacArthur</surname><given-names>MW</given-names></name>
+<name><surname>Moss</surname><given-names>DS</given-names></name>
+<name><surname>Thornton</surname><given-names>JM</given-names></name>
+</person-group>. <article-title>PROCHECK: a program to check the stereochemical quality of protein structures</article-title>. <source>J Appl Crystallogr</source>. <year>1993</year>;<volume>26</volume>:<fpage>283</fpage>-<lpage>291</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr42-11779322241272404">
+        <label>42</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>L&#xF3;pez-Blanco</surname><given-names>JR</given-names></name>
+<name><surname>Aliaga</surname><given-names>JI</given-names></name>
+<name><surname>Quintana-Ort&#xED;</surname><given-names>ES</given-names></name>
+<name><surname>Chac&#xF3;n</surname><given-names>P.</given-names></name>
+</person-group>
+<article-title>IMODS: internal coordinates normal mode analysis server</article-title>. <source>Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>:W271-276.</mixed-citation>
+      </ref>
+      <ref id="bibr43-11779322241272404">
+        <label>43</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kou</surname><given-names>Y</given-names></name>
+<name><surname>Xu</surname><given-names>Y</given-names></name>
+<name><surname>Zhao</surname><given-names>Z</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Tissue plasminogen activator (tPA) signal sequence enhances immunogenicity of MVA-based vaccine against tuberculosis</article-title>. <source>Immunol Lett</source>. <year>2017</year>;<volume>190</volume>:<fpage>51</fpage>-<lpage>57</lpage>.<pub-id pub-id-type="pmid">28728855</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr44-11779322241272404">
+        <label>44</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rosa</surname><given-names>SS</given-names></name>
+<name><surname>Prazeres</surname><given-names>DMF</given-names></name>
+<name><surname>Azevedo</surname><given-names>AM</given-names></name>
+<name><surname>Marques</surname><given-names>MPC</given-names></name>
+</person-group>. <article-title>MRNA vaccines manufacturing: challenges and bottlenecks</article-title>. <source>Vaccine</source>. <year>2021</year>;<volume>39</volume>:<fpage>2190</fpage>-<lpage>2200</lpage>.<pub-id pub-id-type="pmid">33771389</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr45-11779322241272404">
+        <label>45</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Heidary</surname><given-names>M</given-names></name>
+<name><surname>Dashtbin</surname><given-names>S</given-names></name>
+<name><surname>Ghanavati</surname><given-names>R</given-names></name>
+</person-group>, <etal>et al</etal>. <article-title>Evaluation of brucellosis vaccines: a comprehensive review</article-title>. <source>Front Vet Sci</source>. <year>2022</year>;<volume>9</volume>:<fpage>925773</fpage>.<pub-id pub-id-type="pmid">35923818</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr46-11779322241272404">
+        <label>46</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>B&#xE1;ny&#xE1;sz</surname><given-names>B</given-names></name>
+<name><surname>Antal</surname><given-names>J</given-names></name>
+<name><surname>D&#xE9;nes</surname><given-names>B.</given-names></name>
+</person-group>
+<article-title>False positives in brucellosis serology: wrong bait and wrong pond?</article-title>
+<source>Trop Med Infect Dis</source>. <year>2023</year>;<volume>8</volume>:<fpage>274</fpage>.<pub-id pub-id-type="pmid">37235322</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr47-11779322241272404">
+        <label>47</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>H</given-names></name>
+<name><surname>O&#x2019;Callaghan</surname><given-names>D</given-names></name>
+<name><surname>Ding</surname><given-names>JB.</given-names></name>
+</person-group>
+<article-title>Brucellosis in China: history, progress and challenge</article-title>. <source>Infect Dis Poverty</source>. <year>2020</year>;<volume>9</volume>:<fpage>101</fpage>-<lpage>104</lpage>.<pub-id pub-id-type="pmid">32703319</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr48-11779322241272404">
+        <label>48</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tarrahimofrad</surname><given-names>H</given-names></name>
+<name><surname>Zamani</surname><given-names>J</given-names></name>
+<name><surname>Hamblin</surname><given-names>MR</given-names></name>
+<name><surname>Darvish</surname><given-names>M</given-names></name>
+<name><surname>Mirzaei</surname><given-names>H</given-names></name>
+</person-group>. <article-title>A designed peptide-based vaccine to combat Brucella melitensis, B. suis and B. abortus: harnessing an epitope mapping and immunoinformatics approach</article-title>. <source>Biomed Pharmacother</source>. <year>2022</year>;<volume>155</volume>:<fpage>113557</fpage>.<pub-id pub-id-type="pmid">36115112</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="bibr49-11779322241272404">
+        <label>49</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Nguyen</surname><given-names>PTD</given-names></name>
+<name><surname>Giovanni</surname><given-names>A</given-names></name>
+<name><surname>Maekawa</surname><given-names>S</given-names></name>
+<name><surname>Pham</surname><given-names>TH</given-names></name>
+<name><surname>Wang</surname><given-names>PC</given-names></name>
+<name><surname>Chen</surname><given-names>SC</given-names></name>
+</person-group>. <article-title>An Integrated in silico and in vivo study of nucleic acid vaccine against Nocardia seriolae infection in orange-spotted grouper Epinephelus coioides</article-title>. <source>Fish Shellfish Immunol</source>. <year>2023</year>;<volume>143</volume>:<fpage>109202</fpage>.<pub-id pub-id-type="pmid">37913891</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

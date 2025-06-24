@@ -1,0 +1,1108 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Microorganisms</journal-id><journal-id journal-id-type="iso-abbrev">Microorganisms</journal-id><journal-id journal-id-type="publisher-id">microorganisms</journal-id><journal-title-group><journal-title>Microorganisms</journal-title></journal-title-group><issn pub-type="epub">2076-2607</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38930429</article-id><article-id pub-id-type="pmc">11205566</article-id><article-id pub-id-type="doi">10.3390/microorganisms12061047</article-id><article-id pub-id-type="publisher-id">microorganisms-12-01047</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Development of a Plant-Expressed Subunit Vaccine against Brucellosis</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5120-4255</contrib-id><name><surname>Rutkowska</surname><given-names>Daria A.</given-names></name><xref rid="af1-microorganisms-12-01047" ref-type="aff">1</xref><xref rid="c1-microorganisms-12-01047" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0954-2976</contrib-id><name><surname>Du Plessis</surname><given-names>Lissinda H.</given-names></name><xref rid="af2-microorganisms-12-01047" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2499-7381</contrib-id><name><surname>Suleman</surname><given-names>Essa</given-names></name><xref rid="af1-microorganisms-12-01047" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3050-7008</contrib-id><name><surname>O&#x2019;Kennedy</surname><given-names>Martha M.</given-names></name><xref rid="af3-microorganisms-12-01047" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9328-449X</contrib-id><name><surname>Thimiri Govinda Raj</surname><given-names>Deepak B.</given-names></name><xref rid="af4-microorganisms-12-01047" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6932-3014</contrib-id><name><surname>Lemmer</surname><given-names>Yolandy</given-names></name><xref rid="af3-microorganisms-12-01047" ref-type="aff">3</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Fowler</surname><given-names>Elizabeth V.</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Ambrose</surname><given-names>Rebecca K.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-microorganisms-12-01047"><label>1</label>Advanced Agriculture and Food Cluster, Council for Scientific and Industrial Research, Pretoria 0001, South Africa; <email>esuleman@csir.co.za</email></aff><aff id="af2-microorganisms-12-01047"><label>2</label>Centre of Excellence for Pharmaceutical Sciences (PharmacenTM), North-West University, Potchefstroom 2520, South Africa; <email>lissinda.duplessis@nwu.ac.za</email></aff><aff id="af3-microorganisms-12-01047"><label>3</label>Future Production and Chemicals Cluster, Council for Scientific and Industrial Research, Pretoria 0001, South Africa; <email>mokennedy@csir.co.za</email> (M.M.O.); <email>ylemmer@csir.co.za</email> (Y.L.)</aff><aff id="af4-microorganisms-12-01047"><label>4</label>Synthetic Biology and Precision Medicine Centre, Future Production and Chemicals Cluster, Council for Scientific and Industrial Research, Pretoria 0001, South Africa; <email>dgovindaraj@csir.co.za</email></aff><author-notes><corresp id="c1-microorganisms-12-01047"><label>*</label>Correspondence: <email>drutkowska@csir.co.za</email></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2024</year></pub-date><volume>12</volume><issue>6</issue><elocation-id>1047</elocation-id><history><date date-type="received"><day>07</day><month>5</month><year>2024</year></date><date date-type="rev-recd"><day>17</day><month>5</month><year>2024</year></date><date date-type="accepted"><day>20</day><month>5</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 by the authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Brucellosis is an important bacterial disease of livestock and the most common zoonotic disease. The current vaccines are effective but unsafe, as they result in animal abortions and are pathogenic to humans. Virus-like particles are being investigated as molecular scaffolds for foreign antigen presentation to the immune system. Here, we sought to develop a new-generation vaccine by presenting selected <italic toggle="yes">Brucella melitensis</italic> T cell epitopes on the surface of Orbivirus core-like particles (CLPs) and transiently expressing these chimeric particles in <italic toggle="yes">Nicotiana benthamiana</italic> plants. We successfully demonstrated the assembly of five chimeric CLPs in <italic toggle="yes">N. benthamiana</italic> plants, with each CLP presenting a different T cell epitope. The safety and protective efficacy of three of the highest-yielding CLPs was investigated in a mouse model of brucellosis. All three plant-expressed chimeric CLPs were safe when inoculated into BALB/c mice at specific antigen doses. However, only one chimeric CLP induced protection against the virulent <italic toggle="yes">Brucella</italic> strain challenge equivalent to the protection induced by the commercial Rev1 vaccine. Here, we have successfully shown the assembly, safety and protective efficacy of plant-expressed chimeric CLPs presenting <italic toggle="yes">B. melitensis</italic> T cell epitopes. This is the first step in the development of a safe and efficacious subunit vaccine against brucellosis.</p></abstract><kwd-group><kwd>plant-expressed</kwd><kwd>core-like particle</kwd><kwd>CLP</kwd><kwd>new generation</kwd><kwd>vaccine</kwd><kwd>subunit</kwd><kwd>Orbivirus</kwd><kwd><italic toggle="yes">Brucella</italic></kwd><kwd>epitope</kwd></kwd-group><funding-group><award-group><funding-source>SmartBiotech (Pty) Ltd.</funding-source></award-group><award-group><funding-source>Galvmed</funding-source></award-group><award-group><funding-source>CSIR internal Parliamentary</funding-source></award-group><funding-statement>This project was initially funded by a USD 100,000 prize awarded to SmartBiotech (Pty) Ltd., as one of 10 prizes allocated during the first round of the AgResults Brucellosis Vaccine Prize competition administered by Galvmed. Subsequent funding was obtained from CSIR internal Parliamentary grant (PG) funding.</funding-statement></funding-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="sec1-microorganisms-12-01047">
+      <title>1. Introduction</title>
+      <p>Brucellosis is a contagious bacterial disease of livestock caused by facultative intracellular pathogens of the genus <italic toggle="yes">Brucella</italic> [<xref rid="B1-microorganisms-12-01047" ref-type="bibr">1</xref>]. The genus <italic toggle="yes">Brucella</italic> includes at least 10 species, with <italic toggle="yes">Brucella melitensis</italic> primarily infecting sheep and goats and <italic toggle="yes">Brucella abortus</italic> primarily affecting cattle. The disease in livestock is characterised by late-term abortions, decreased fertility and reduced milk production [<xref rid="B2-microorganisms-12-01047" ref-type="bibr">2</xref>], resulting in severe economic losses. Brucellosis is also the most common zoonotic disease worldwide [<xref rid="B3-microorganisms-12-01047" ref-type="bibr">3</xref>], with the highly contagious <italic toggle="yes">B. melitensis</italic> considered the major causative agent of human brucellosis [<xref rid="B4-microorganisms-12-01047" ref-type="bibr">4</xref>]. <italic toggle="yes">Brucella</italic> has a worldwide distribution, with different species varying in their geographic distribution [<xref rid="B5-microorganisms-12-01047" ref-type="bibr">5</xref>]. <italic toggle="yes">Brucella</italic> currently affects the entire African continent, with its prevalence unknown, and is endemic to North Africa, with a heavy burden on public health, food safety and food security [<xref rid="B6-microorganisms-12-01047" ref-type="bibr">6</xref>].</p>
+      <p>The current live-attenuated <italic toggle="yes">Brucella</italic> vaccines administered to animals are effective but unsafe, as they cause abortions in a proportion of pregnant animals and are also pathogenic to humans [<xref rid="B7-microorganisms-12-01047" ref-type="bibr">7</xref>]. To secure the livelihoods and health of human populations affected by brucellosis, especially abattoir workers constantly at risk due to close contact with diseased animals, it is imperative that safe and efficacious alternatives to the current live <italic toggle="yes">Brucella</italic> vaccines be developed.</p>
+      <p>Virus-like particles (VLPs) are inherently immunogenic, safe, and DIVA-compliant [<xref rid="B8-microorganisms-12-01047" ref-type="bibr">8</xref>]. &#x201C;DIVA&#x201D; is the abbreviation for Differentiating Infected from Vaccinated Animals. VLPs, formed by the assembly of viral structural proteins, exhibit a size and morphology very similar to that of wild-type virions. Proteins presented in their native conformation in repetitive arrays on the surface of VLPs stimulate humoral immunity, whilst the particulate nature of VLPs results in a broad range of T cell immune responses; hence, VLPs have been used as vaccine candidates for a range of human and animal diseases [<xref rid="B9-microorganisms-12-01047" ref-type="bibr">9</xref>]. VLPs may also function as molecular scaffolds for the presentation of foreign antigens to the immune system [<xref rid="B10-microorganisms-12-01047" ref-type="bibr">10</xref>,<xref rid="B11-microorganisms-12-01047" ref-type="bibr">11</xref>]. Viruses from 14 different families have been used to produce chimeric VLP particles by inserting small antigenic peptides into viral structural proteins [<xref rid="B12-microorganisms-12-01047" ref-type="bibr">12</xref>,<xref rid="B13-microorganisms-12-01047" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-12-01047" ref-type="bibr">14</xref>]. These include Orbiviruses such as bluetongue virus (BTV) and African horse sickness (AHSV), where foreign peptides were inserted into sites within the VP7 core protein and presented to the immune system on either core-like particles (CLPs) [<xref rid="B15-microorganisms-12-01047" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-12-01047" ref-type="bibr">16</xref>] or soluble VP7 trimers [<xref rid="B17-microorganisms-12-01047" ref-type="bibr">17</xref>].</p>
+      <p>Eliciting a Th1 cellular immune response is considered key in obtaining protection against brucellosis [<xref rid="B18-microorganisms-12-01047" ref-type="bibr">18</xref>]. T cell epitopes have been identified as immunogenic and protective against <italic toggle="yes">B. abortus</italic> infection in a mouse model [<xref rid="B19-microorganisms-12-01047" ref-type="bibr">19</xref>]. Protection was mediated through the release of IFN-&#x3B3; cytokines. Four MHC class I epitopes and one MHC class II epitope were thus selected in this study to induce a cellular T cell immune response. The sequences of these epitopes are identical to those in the <italic toggle="yes">Brucella melitensis</italic> strain and, thus, would most likely also protect sheep and goats from <italic toggle="yes">B. melitensis</italic> infection. Vaccine candidate antigens that are conserved between <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. suis</italic> have recently been identified [<xref rid="B20-microorganisms-12-01047" ref-type="bibr">20</xref>].</p>
+      <p>Since the high costs of production and a lack of scalability derailed previous attempts to develop insect-cell-produced Orbivirus CLPs as a veterinary vaccine strategy [<xref rid="B15-microorganisms-12-01047" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-12-01047" ref-type="bibr">16</xref>,<xref rid="B21-microorganisms-12-01047" ref-type="bibr">21</xref>], in this study, we aimed to use a well-established transient plant expression system [<xref rid="B22-microorganisms-12-01047" ref-type="bibr">22</xref>]. The transient expression of heterologous proteins is mediated by either plant viral vectors, <italic toggle="yes">Agrobacterium tumefaciens</italic> bacterium or a combination of the two. The genes that are introduced into the plant cell are transiently expressed because the plant is not stably transformed, with expression only occurring for a few days. However, this short time period is sufficient for large quantities of protein to accumulate, in some cases, to more than 2 g per kilogram of plant material in one week [<xref rid="B23-microorganisms-12-01047" ref-type="bibr">23</xref>]. The routine transient expression host is <italic toggle="yes">Nicotiana benthamiana</italic>, a relative of tobacco that has a fast growth rate, has a defective RNA-silencing system and is amenable to infiltration [<xref rid="B24-microorganisms-12-01047" ref-type="bibr">24</xref>]. Transient plant-based production platforms thus offer several advantages over conventional mammalian, avian, insect cell, yeast and prokaryotic expression systems, including high speed, high scalability, eukaryotic post-translational protein modifications and safety due to a lack of contaminating mammalian pathogens [<xref rid="B23-microorganisms-12-01047" ref-type="bibr">23</xref>,<xref rid="B24-microorganisms-12-01047" ref-type="bibr">24</xref>,<xref rid="B25-microorganisms-12-01047" ref-type="bibr">25</xref>]. Although glycosylation patterns differ between plant and mammalian proteins [<xref rid="B26-microorganisms-12-01047" ref-type="bibr">26</xref>], and despite initial safety concerns about plant-made therapeutics [<xref rid="B27-microorganisms-12-01047" ref-type="bibr">27</xref>], recent Phase I and Phase III clinical trials have demonstrated the safety of plant-made virus-like particles (VLPs) in humans [<xref rid="B28-microorganisms-12-01047" ref-type="bibr">28</xref>,<xref rid="B29-microorganisms-12-01047" ref-type="bibr">29</xref>,<xref rid="B30-microorganisms-12-01047" ref-type="bibr">30</xref>,<xref rid="B31-microorganisms-12-01047" ref-type="bibr">31</xref>,<xref rid="B32-microorganisms-12-01047" ref-type="bibr">32</xref>,<xref rid="B33-microorganisms-12-01047" ref-type="bibr">33</xref>]. A monoclonal antibody [<xref rid="B34-microorganisms-12-01047" ref-type="bibr">34</xref>] and a Newcastle disease subunit vaccine for poultry, both plant-produced recombinant proteins, first received regulatory approval in 2006 [<xref rid="B35-microorganisms-12-01047" ref-type="bibr">35</xref>]. Elelyso, a mitochondrial enzyme deficiency therapy for Gaucher disease, is the only plant-produced human therapeutic currently licensed by the US Food and Drug Administration (FDA) [<xref rid="B36-microorganisms-12-01047" ref-type="bibr">36</xref>]. However, a recent phase III clinical trial with a plant-produced seasonal influenza quadrivalent VLP-based vaccine (QVLP) has successfully been concluded [<xref rid="B30-microorganisms-12-01047" ref-type="bibr">30</xref>], as has a phase II/III clinical trial for a plant-produced SARS-CoV-2 VLP-based vaccine [<xref rid="B32-microorganisms-12-01047" ref-type="bibr">32</xref>,<xref rid="B37-microorganisms-12-01047" ref-type="bibr">37</xref>]. In addition, a large number of plant-produced human and veterinary therapeutics and vaccines have been produced and are in the pipeline for commercialization [<xref rid="B38-microorganisms-12-01047" ref-type="bibr">38</xref>].</p>
+      <p>Techno-economic analyses indicate that the use of whole plants reduces upstream manufacturing costs, while the downstream processing (DSP) costs are almost equivalent to those incurred by bacterial or mammalian-based expression and account for more than 80% of total costs [<xref rid="B23-microorganisms-12-01047" ref-type="bibr">23</xref>]. The reduced cost of plant molecular pharming, in addition to its other benefits, has made this strategy particularly attractive as an accessible and affordable manufacturing platform for low- and middle-income countries (LMIC&#x2019;s) which do not have the infrastructure to implement other more costly expression systems [<xref rid="B39-microorganisms-12-01047" ref-type="bibr">39</xref>,<xref rid="B40-microorganisms-12-01047" ref-type="bibr">40</xref>]. Although there are currently no large-scale facilities for plant protein production in Africa, we hope that such a platform will be established in South Africa through the Centre for Epidemic Response and Innovation (CERI) initiative [<xref rid="B41-microorganisms-12-01047" ref-type="bibr">41</xref>].</p>
+      <p>In this study, we sought to insert five different <italic toggle="yes">B. melitensis</italic> T cell epitopes into a specific insertion site within the top domain of an Orbivirus VP7 protein and assess the ability of these chimeric VP7 proteins to assemble into chimeric-core-like particles (CLPs) when transiently co-expressed with a compatible VP3 protein in <italic toggle="yes">N. benthamiana</italic> plants. The safety, immunogenicity and protective efficacy of selected plant-expressed chimeric particles was assessed in BALB/c mice, a mouse model of brucellosis.</p>
+    </sec>
+    <sec id="sec2-microorganisms-12-01047">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-microorganisms-12-01047">
+        <title>2.1. Constructs</title>
+        <p>Sequences of selected <italic toggle="yes">Brucella melitensis</italic> epitopes were inserted into the Orbivirus VP7 following a strategy similar to that described previously [<xref rid="B17-microorganisms-12-01047" ref-type="bibr">17</xref>]. Gene sequences encoding the native Orbivirus VP3 and VP7 proteins were obtained from the publicly accessible National Center for Biotechnology Information (NCBI) databases. The sequences were codon-optimised for optimal expression in <italic toggle="yes">N. benthamiana</italic> plant cells and subsequently inserted into the pEAQ transient expression vectors [<xref rid="B22-microorganisms-12-01047" ref-type="bibr">22</xref>] via directional AgeI/XhoI restriction-enzyme-based cloning. The expression vectors were made available to the CSIR under a licence agreement from Plant Bioscience Limited (PBL), Norwich, UK.</p>
+      </sec>
+      <sec id="sec2dot2-microorganisms-12-01047">
+        <title>2.2. Agrobacterium-Mediated Infiltration of N. benthamiana Plants</title>
+        <p>The transient expression of the Orbivirus capsid proteins in <italic toggle="yes">N. benthamiana</italic> dXT/FT plants was accomplished through <italic toggle="yes">Agrobacterium</italic>-mediated infiltration of their leaves. The protocol followed has been described in detail previously [<xref rid="B9-microorganisms-12-01047" ref-type="bibr">9</xref>]. Briefly, expression constructs were transformed into <italic toggle="yes">Agrobacterium tumefaciens</italic> LBA4404 bacterial cells (Invitrogen, Waltham, MA, USA) by electroporation and propagated at 28 &#xB0;C. The bacterial suspensions were combined in a 1:1 ratio for CLP assembly. The combinations were subsequently diluted with MMA buffer (10 mM MES hydrate; pH 5.6, 10 mM MgCl<sub>2</sub>, 100 &#xB5;M 3,5-Dimethoxy-4-hydroxy-acetophenone) such that the final OD<sub>600</sub> was 2. The leaves of four-week-old <italic toggle="yes">N. benthamiana</italic> dXT/FT plants were syringe-infiltrated with the agrobacterial suspensions. The plants were incubated at 27 &#xB0;C for 8 days. <italic toggle="yes">N. benthamiana</italic> dXT/FT seeds were acquired from Icon Genetics GmbH under a material transfer agreement.</p>
+      </sec>
+      <sec id="sec2dot3-microorganisms-12-01047">
+        <title>2.3. Protein Extraction and Small-Scale CLP Purification</title>
+        <p>Agroinfiltrated <italic toggle="yes">N. benthamiana</italic> leaves were harvested 8 days post-infiltration (d.p.i) and extracted and the CLPs purified as previously described [<xref rid="B9-microorganisms-12-01047" ref-type="bibr">9</xref>]. The plant cell lysate was extracted in 2 volumes of VLP extraction buffer (50 mM bicine, pH = 8.4, 20 mM sodium chloride (NaCl), 0.2% Protease inhibitor cocktail P2714 (Sigma Life Science, Burlington, MA, USA)) in a multipurpose juice extractor (MATSONE, Honolulu, HI, USA) and clarified via low-speed centrifugation (7000&#xD7; <italic toggle="yes">g</italic>; 20 min; 10 &#xB0;C). Large plant debris was removed via filtration through 2 layers of cheesecloth. Core-like particles (CLPs) were purified using density gradient centrifugation by layering five millilitres of clarified lysate onto 60&#x2013;20% iodixanol (OptiPrep&#x2122; Density Gradient Medium) (Sigma-Aldrich, St. Louis, MO, USA) gradients for analysis. Following centrifugation, 500 &#xB5;L fractions were harvested using a Minipuls2 peristaltic pump (Gilson, Madison, WI, USA) and iodixanol fraction 9 subjected to electrophoresis on a 12% SDS-polyacrylamide gel followed by Coomassie Brilliant Blue G250 staining for 20 min and destaining overnight. The PageRuler<sup>TM</sup> Plus prestained protein ladder (Thermo Fisher Scientific, Waltham, MA, USA) was used as a size marker. The gels were documented using a ChemiDoc&#x2122; MP Imager (Bio-Rad, Hercules, CA, USA).</p>
+      </sec>
+      <sec id="sec2dot4-microorganisms-12-01047">
+        <title>2.4. Protein Confirmation Using LC-MS/MS-Based Peptide Sequencing</title>
+        <p>Candidate protein bands of approximately the correct size were excised from the SDS polyacrylamide gel and sent for LCMS-MS peptide sequencing analysis, previously described by our colleagues [<xref rid="B42-microorganisms-12-01047" ref-type="bibr">42</xref>]. Briefly, the protein bands were in-gel trypsin-digested, resuspended in 2% acetonitrile/0.2% formic acid and analysed using a Dionex Ultimate 3000 RSLC system coupled to an AB Sciex 6600 Triple TOF mass spectrometer. The obtained MS/MS spectra were compared with the Uniprot Swissprot protein database by using Protein pilot v5, which makes use of the Paragon search engine (AB Sciex, Framingham, MA, USA). Proteins with a threshold above &#x2265;99.9% confidence were reported.</p>
+      </sec>
+      <sec id="sec2dot5-microorganisms-12-01047">
+        <title>2.5. Transmission Electron Microscopy (TEM)</title>
+        <p>CLPs from 35&#x2013;25% iodixanol fractions were visualised by adsorbing samples onto carbon-coated holey copper grids (5 min) and stained with 2% uranyl acetate, pH = 4.2, for 15 s, as previously described [<xref rid="B9-microorganisms-12-01047" ref-type="bibr">9</xref>]. Grids were air-dried and imaged using a Philips CM 10 transmission electron microscope (Philips Electron Optical Division, Eindhoven, The Netherlands) with a MegaView III side-mounted digital camera (Olympus Soft Imaging Solutions GmbH, Munster, Germany. The diameters of the particles visualised on the grid were measured using the measure tool in the iTEM Soft Imaging System software, Version 5.20 (Build 1175) (Olympus Soft Imaging Solutions GmbH, Munster, Germany). Thirty-five particles of each type were measured, and the mean diameter was calculated.</p>
+      </sec>
+      <sec id="sec2dot6-microorganisms-12-01047">
+        <title>2.6. Antigen Preparation for Animal Trials</title>
+        <p>The antigen preparation protocol followed was similar to that of our previous animal trials [<xref rid="B9-microorganisms-12-01047" ref-type="bibr">9</xref>,<xref rid="B43-microorganisms-12-01047" ref-type="bibr">43</xref>]. Leaves of <italic toggle="yes">N. benthamiana</italic> dXT/FT plants were infiltrated with recombinant <italic toggle="yes">Agrobacteria</italic> combinations, and infiltrated leaves were harvested at 8 d.p.i. Following extraction, the cell extract was clarified via centrifugation (8000&#xD7; <italic toggle="yes">g</italic>; 10 min; 4 &#xB0;C) and filtered through a Sartoclean GF sterile midicap (3 + 0.8 &#xB5;M) depth filter (Sartorius Stedim Biotech GmbH, G&#xF6;ttingen, Germany) and subsequently a 300 K Minimate<sup>TM</sup> Tangential Flow Filtration (TFF) Capsule (Pall Life Sciences, New York, NY, USA) with the pressure not exceeding 2 Bar. Two subsequent wash steps with bicine buffer (20 mM NaCl, 50 mM bicine, pH = 8.4), each resulting in a 1:10 dilution of concentrated lysate, was performed in order to remove the protease inhibitors. The volume of the lysate was reduced to 1/10 of its original volume. The lysates were subsequently filter-sterilized through 0.45 &#xB5;M + 0.2 &#xB5;M Sartopore 2300 Sterile capsules (Sartorius Stedim Biotech GmbH, G&#xF6;ttingen, Germany) utilizing a peristaltic pump with the pressure not exceeding 2 Bar. Six-millilitre samples were analysed for protein content by density gradient centrifugation and polyacrylamide electrophoresis, as previously described, and putative CLPs were visualised via TEM. The protein content in specific fractions was quantified using a Micro BCA&#x2122; Protein Assay kit (Thermo Fisher Scientific, Waltham, MA, USA), according to the manufacturer&#x2019;s instructions. The bulk of the protein in 35&#x2013;25% iodixanol fractions consisted of the VP3 and VP7 proteins; however, there were some contaminating plant proteins, so the CLP quantity was slightly less than the quantities calculated. Based on the CLP quantities determined in the iodixanol fractions, we proceeded to infer the quantity of CLPs in the partially purified cell lysate.</p>
+        <p>The filter-sterilized samples were used to formulate the primary and boost inoculums for the mice in the safety and efficacy trials. These inoculums consisted of 0.4 &#x3BC;, 0.8 &#x3BC;g or 2 &#x3BC;g antigen and 60% Montanide ISA 61 VG adjuvant in a total volume of 100 &#x3BC;L per mouse. Negative control samples were also prepared and consisted of sterile bicine buffer with 60% Montanide ISA 61 VG adjuvant in a total volume of 100 &#x3BC;L per mouse. The sterile samples were stored at 4 &#xB0;C until use.</p>
+      </sec>
+      <sec id="sec2dot7-microorganisms-12-01047">
+        <title>2.7. Efficacy Trials in Mice</title>
+        <p>The safety and protective efficacy of the plant-produced chimeric CLP antigens were investigated in BALB/c Mus musculus mice, a small animal model for brucellosis. Mice were bred and maintained in the small-animal facilities at the Preclinical Drug Development platform (PCDDP) unit at North-West University, Potchefstroom. All the regulatory animal ethics approvals for this study were obtained from both the CSIR and NWU animal ethics committees, and approval for the study was obtained from the Department of Agriculture, Land Reform and Rural development (DALRRD). The safety of the plant-expressed chimeric CLP antigens was investigated in fifty-five 6&#x2013;8-week-old female BALB/c mice. The safety of the chimeric CLPs at 0.4 &#x3BC;g, 0.8 &#x3BC;g or 2 &#x3BC;g doses per animal was tested in this study, and the safety trial was conducted in three phases due to the limited numbers of animals available at any one time and for the samples to be processed efficiently. The groups, number of animals/group (n), route of administration, inoculation schedule and quantity of antigen inoculated into the animals were established from the literature [<xref rid="B44-microorganisms-12-01047" ref-type="bibr">44</xref>,<xref rid="B45-microorganisms-12-01047" ref-type="bibr">45</xref>,<xref rid="B46-microorganisms-12-01047" ref-type="bibr">46</xref>,<xref rid="B47-microorganisms-12-01047" ref-type="bibr">47</xref>]. These details for the safety trial are given in <xref rid="app1-microorganisms-12-01047" ref-type="app">Supplementary Tables S1&#x2013;S3</xref>. The mean weight of the animals prior to euthanasia was 23 g (20&#x2013;28 g) (mean; range). The standard dose of the Rev1 vaccination for lambs and kids between 3 and 6 months of age is between 0.5 &#xD7; 10<sup>9</sup> and 2 &#xD7; 10<sup>9</sup> viable organisms [<xref rid="B5-microorganisms-12-01047" ref-type="bibr">5</xref>]. We reduced the lowest dose by 5 logs for inoculation into mice (5 &#xD7; 10<sup>5</sup> viable organisms). The adjuvant selected as suitable for inoculation was Montanide ISA61VG (Seppic Speciality Ingredients Pvt. Ltd, Mumbai, India), an aqueous polymeric adjuvant for veterinary vaccines for use in livestock. It has a safety profile equivalent to aluminium salts. Mice were inoculated intraperitoneally on Day 1 and then boosted on Day 15. The mice were inspected visually 1 day post-inoculation, and thereafter, once a day to ascertain whether there were any adverse side effects caused by the inoculations, according to PCDDP SOPs. All mice, including those inoculated with the live-attenuated <italic toggle="yes">Brucella</italic> vaccine, were kept within the Biosafety Level 3 facility at the PCDDP unit during the course of this study. Mice were euthanized as per the approved protocol (cervical dislocation) on day 45. Spleens were harvested from the animals, and they underwent gross examination by the resident veterinarian. The spleens were weighed and pooled prior to processing for preliminary cellular immune response assays.</p>
+        <p>The protective efficacy of the plant-expressed chimeric CLP antigens against <italic toggle="yes">Brucella melitensis</italic> infection was investigated in fifty-five 9-week-old female BALB/c Mus musculus mice. The use of slightly older mice is advantageous, as the age at which animal models are commonly used is 8&#x2013;12 week to allow for immune system development [<xref rid="B48-microorganisms-12-01047" ref-type="bibr">48</xref>]. The groups, number of animals/group (n), route of administration, inoculation schedule, quantity of antigen inoculated and challenge details were obtained from the literature and are listed in <xref rid="microorganisms-12-01047-t001" ref-type="table">Table 1</xref>. The mean weight of the animals prior to euthanasia was 24 g (19&#x2013;27 g) (mean; range). The test-group mice were inoculated with either 2 &#x3BC;g chimeric P3 CLP antigen, 2 &#x3BC;g P2 CLP antigen or 2 &#x3BC;g of a combination of P2, P3 and P4 CLPs (0.6 &#x3BC;g of each CLP), with Montanide ISA61VG adjuvant. The positive-control-group mice were inoculated with the commercially available Rev1 brucellosis vaccine (Onderstepoort Biological Products (OBP)) with the titre indicated in <xref rid="microorganisms-12-01047-t001" ref-type="table">Table 1</xref>, while the negative-control-group mice were inoculated with bicine buffer with Montanide ISA61VG adjuvant. One group of mice remained untouched. The mice were inspected visually 1 day pre-inoculation, and thereafter, once a day to ascertain whether there are any adverse side effects caused by the inoculations, according to PCDDP SOPs. The mice in the test groups, as well as those in the negative and positive control groups, were boosted with their respective antigens on day 15. On day 45, all 5 untouched mice, as well as half (5) of the mice from each of the remaining groups, were euthanized via cervical dislocation and their spleens harvested, weighed and pooled for cellular immune response assays. The remaining 5 mice from each group were challenged with the virulent <italic toggle="yes">Brucella</italic> field strain (5 &#xD7; 10<sup>5</sup>) on day 45 of the trial. The dose of the challenge strain was as per the literature, and it was not expected that the infected BALB/c mice would display overt disease symptoms [<xref rid="B49-microorganisms-12-01047" ref-type="bibr">49</xref>]. The mice were inspected twice a day for the detection of any symptoms and, in the event that the challenged mice displayed clinical symptoms of disease and/or the mice were deemed to be in pain and distress, as determined by the resident veterinarian (NWU SOP_Viv_Anim 27: Determining pain and distress in laboratory rodents), the protocol dictated that the mice would be euthanized according to NWU SOP_Viv_Anim 1: Euthanasia of rodents. No mice displayed signs of distress or pain during the course of this study and no animals were prematurely euthanized and excluded. The virulent <italic toggle="yes">Brucella melitensis</italic> strain was a field isolate obtained from the Provincial Veterinary Laboratory of the Department of Agriculture, Western Cape Government, which cultured and titrated the strain for use in the challenge experiment. It was transported to the NWU BSL-3 facility with a DALRRD red cross permit. Thirty days after challenge (Day 75), as per the protocol, the mice were euthanised via cervical dislocation and their spleens harvested for spleen bacterial cell count assays. All mice, including those inoculated with the live-attenuated <italic toggle="yes">Brucella</italic> vaccine and the virulent <italic toggle="yes">Brucella</italic> field strain, were kept within the Biosafety Level 3 facility at the PCDDP unit during the course of this study.</p>
+        <p>All animal experiments complied with the ARRIVE guidelines and were carried out in accordance with the existing and relevant national legislation and codes of practice for the Care and Use of Laboratory Animals.</p>
+        <p>Animals in each trial were randomly allocated to different cages and experimental groups. Briefly, a randomisation sequence was obtained using the Experimental Unit Randomizer software programme v1 (2004, Mr Bertus Van Zyl). Following the input of the number of experimental units (Mice), number of experiments (cages), number of experimental units per experiment (mice/cage) and number of groups per experiment (treatment groups/cage), the programme generated a randomization data sheet which indicated how to allocate mice at random to the different cages and treatment groups. The programme allocated a mouse to a different cage and treatment group simultaneously. Mice were thus randomly allocated to different cages, with each mouse in a single cage allocated randomly to a different treatment group. The mice were placed together in a large container, and the first mouse that was removed from the container was allocated to a cage and treatment according to number 1 on the randomisation data sheet. The treatment group was indicated by an ear notch in the right ear of the mouse and the cage number was indicated by an ear notch in the left ear of the mouse. This procedure was also followed until all the mice had been allocated to cages according to the numbers on the randomization data sheet.</p>
+        <p>During this study a technician (KV) was solely responsible for the antigen administration to the animals and was aware of group allocation; the researcher (DAR) performing the assays was also not blinded to group allocation and was responsible for conducting the spleen bacterial counts and performing the flow cytometry experiment. The spleen count data were analysed by another investigator (ES), while the flow cytometry data were analysed by an independent investigator (LdP). All investigators were aware of group allocation.</p>
+      </sec>
+      <sec id="sec2dot8-microorganisms-12-01047">
+        <title>2.8. Cellular Immune Response Assays</title>
+        <sec id="sec2dot8dot1-microorganisms-12-01047">
+          <title>2.8.1. Spleen Homogenization</title>
+          <p>The cellular immune response assays were conducted with the cells isolated from the mouse spleens. The spleens from each mouse were aseptically harvested immediately after euthanasia; the fat surrounding this organ was removed and its weight recorded. The spleens from the mice of each group were pooled and placed in ice-cold incomplete RPMI 1640 medium (no serum, no antibiotics) in sterile 50 mL falcon tubes on ice. The spleens were homogenised through a cell strainer (BD falcon #352350) and the cells centrifuged at 300&#xD7; <italic toggle="yes">g</italic> for 10 min at 4 &#xB0;C. The supernatant was discarded and the cells resuspended in ice-cold ACK lysis buffer (Lonza) to lyse the red blood cells. Following a 5 min incubation step on ice, complete RPMI 1640 medium (10% FBS, no antibiotics) was added to inactivate the buffer. Following centrifugation at 300&#xD7; <italic toggle="yes">g</italic> for 10 min at 4 &#xB0;C, supernatant was then discarded and the cells resuspended in 5 mL RPMI medium (5% mouse serum, no antibiotics). The cells were stained with trypan blue solution, counted using a haemocytometer and diluted to 1 &#xD7; 10<sup>7</sup> cells/mL. An amount of 1 mL of each undiluted splenocyte suspension was added to 10 mL complete medium in 75 cm<sup>2</sup> cell culture flasks and incubated O/N at 37 &#xB0;C, 5% CO<sub>2</sub>.</p>
+        </sec>
+        <sec id="sec2dot8dot2-microorganisms-12-01047">
+          <title>2.8.2. Interferon-Gamma Cytokine Secretion Assay</title>
+          <p>The detection of IFN-gamma produced from splenocytes, stimulated <italic toggle="yes">in vitro</italic> with the appropriate antigen, was performed using a MACS Mouse IFN-&#x263; secretion assay detection kit (PE) (Miltenyi Biotec, Bergisch Gladbach, Germany), according to the manufacturer&#x2019;s instructions. The undiluted splenocyte suspensions were seeded into 96-well flat-bottomed cell culture plates (Nunc, Roskilde, Denmark) at 0.15 &#xD7; 10<sup>7</sup> splenocytes/well (150 &#x3BC;L/well). For <italic toggle="yes">in vitro</italic> stimulation, P2, P3 and P4 peptides (Genscript, Piscataway, NJ, USA) were added to their respective wells at a final concentration of 10 &#x3BC;g/mL. The plate was incubated for 16 h at 37 &#xB0;C, 5% CO<sub>2</sub>. The cytokine secretion assay was performed as per the manufacturer&#x2019;s instructions. After labelling the cells with the mouse IFN-gamma detection antibody, the anti-CD4-FITC (ANTI-MO CD4 RM4-5 FITC (Invitrogen #11-0042-82)), anti-CD8-APC (ANTI-MO CD8A 53-6.7 APC Invitrogen# 17-0081-82) and B220-PerCP (PerCP anti-mouse/human CD45R/B220 BioLegend #103234) detection antibodies were also added to detect CD4+, CD8+ and B cells, respectively. The pellets were resuspended in 500 &#x3BC;L cold buffer (1 &#xD7; PBS, 0.5% BSA, 2 mM EDTA), propidium iodide (PI, Sigma# P4864) was added to a final concentration of 0.5 &#x3BC;g/mL and the samples were transferred to 12 &#xD7; 75 mm polystyrene test tubes for flow cytometry analysis.</p>
+        </sec>
+        <sec id="sec2dot8dot3-microorganisms-12-01047">
+          <title>2.8.3. Flow Cytometry</title>
+          <p>Samples were analysed with a BD FACSVerse<sup>TM</sup> flow cytometer (BD Biosciences, Franklin Lakes, NJ, USA) equipped with a 488 nm laser for the excitation of FITC, PE, PE-Cy7, PerCP-Cy5.5 and a 640 nm laser for the excitation of APC. A lymphocyte gate was used during the analysis to capture 15,000 cells. Data were analysed with FCSExpress version 7 (De Novo Software, Pasadena, CA, USA). Lymphocytes were identified on forward-scatter (FCS) and side-scatter (SSC) density plots. To ensure stringent single-cell gating, doublets were excluded using SSC and FSC height and width. Single events were gated on the FSC-H vs. FSC-W density plots, and live cells were gated with PI-negative staining. Percentages of the IFN-gamma-secreting lymphocytes as well as CD4+- and CD8+-containing lymphocytes present in the samples were quantified.</p>
+        </sec>
+        <sec id="sec2dot8dot4-microorganisms-12-01047">
+          <title>2.8.4. Spleen Counts</title>
+          <p>In order to determine the protective efficacy of the plant-expressed chimeric CLPs, we needed to count the number of bacteria in the spleens of each vaccinated mouse after challenge with a virulent <italic toggle="yes">Brucella</italic> field isolate. The protocol we followed is detailed in the protocol &#x2018;Bacterial Counts in Spleen&#x2019; [<xref rid="B50-microorganisms-12-01047" ref-type="bibr">50</xref>] (<uri xlink:href="www.bio-protocol.org/e954">www.bio-protocol.org/e954</uri> accessed on 30 July 2018). Briefly, the spleen from each mouse was aseptically harvested immediately after euthanasia; the fat surrounding this organ removed and placed in a sterile plastic Whirl-Pak<sup>&#xAE;</sup> write-on bag (B01067WA (Nasco) supplied by Sigma-Aldrich, St. Louis, MO, USA) and its weight recorded. Nine parts of sterile buffer (1 &#xD7; PBS, 0.1% Tween-20) was added per gram of spleen and homogenised by squeezing the organ inside the bag by hand. After homogenisation, serial dilutions of the spleen homogenates were performed (10<sup>2</sup>&#x2013;10<sup>5</sup> dilutions) with 1xPBS. An amount of 100 &#x3BC;L of each dilution was then dispensed in each agar plate (Tryptone Soya Agar (Thermo Fisher Scientific, Waltham, MA, USA)), and the samples were spread with a sterile Drigalski spatula until the inoculum was fully dispersed. Two agar plates were used per sample. The plates were incubated at 37&#xB0; and 5% CO<sub>2</sub> for 72 h. The bacterial colonies were counted on each of the plates and the spleen bacterial loads calculated by multiplying the cfus by the corresponding dilution and by 10. The average bacterial loads in the spleens, and standard deviations, were calculated using Excel. The resistance <italic toggle="yes">of B. melitensis</italic> Rev 1 and susceptibility of the <italic toggle="yes">B. melitensis</italic> challenge field strain to Streptomycin antibiotic (2.5 &#x3BC;g/mL) were used to distinguish between the two strains on agar plates.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-microorganisms-12-01047">
+      <title>3. Results</title>
+      <sec id="sec3dot1-microorganisms-12-01047">
+        <title>3.1. Expression and Assembly of Chimeric Orbivirus CLPs in Plants</title>
+        <p>In order to facilitate the assembly of the chimeric Orbivirus core-like particles (CLPs) in <italic toggle="yes">N. benthamiana</italic> dXT/FT plant cells, sequences encoding the structural capsid protein VP7, with or without <italic toggle="yes">B. melitensis</italic> epitope inserts (P1&#x2013;P5), as well as the VP3 protein, were codon-optimised for <italic toggle="yes">N. benthamiana</italic> expression and cloned individually into the pEAQ-HT plant expression vector [<xref rid="B22-microorganisms-12-01047" ref-type="bibr">22</xref>]. Leaves of 4-week-old <italic toggle="yes">N. benthamiana</italic> dXT/FT plants were infiltrated with a combination of the recombinant <italic toggle="yes">Agrobacterium tumefaciens</italic> bacteria in a ratio of 1:1 (VP7:VP3). Infiltrated leaves were harvested 8 days post-infiltration, as previously reported for optimal Orbiviral capsid protein transient expression [<xref rid="B51-microorganisms-12-01047" ref-type="bibr">51</xref>], and the leaf tissue extract was centrifuged through iodixanol density gradients. The presence of the VP7 and VP3 capsid proteins within the iodixanol fractions was assessed by SDS-PAGE (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>).</p>
+        <p>The protein bands corresponding in size to the VP3 (103.2 KDa) and chimeric/WT VP7 (approximately 37.8 KDa) capsid proteins (P1-VP7, P2-VP7 and P3-VP7) were visualised in iodixanol fraction 9 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>a, lanes 2&#x2013;5). The protein bands corresponding in size to the VP3 (103.2 KDa) and chimeric VP7 (approximately 37.8 KDa) capsid proteins P4-VP7 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>b, lanes 2&#x2013;5) and P5-VP7 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>b, lanes 6&#x2013;9) were visualised in iodixanol fractions 7&#x2013;10. The candidate P1-VP7, P2-VP7 and P3-VP7 protein bands were subjected to LC-MS/MS-based peptide sequencing analysis, and the percentage coverage values with 95% confidence of the VP7 protein were 42.7%, 36.6% and 58.4%, respectively (MS data available on request). The presence of both capsid proteins within the same gradient fractions following centrifugation indicates that these proteins assembled into high-molecular-weight particulate structures. To view these particulate structures, a sample of the 35% iodixanol gradient fraction was stained with uranyl acetate and viewed under a transmission electron microscope (TEM). The particulate structures observed (<xref rid="microorganisms-12-01047-f002" ref-type="fig">Figure 2</xref>a&#x2013;f) resembled core-like particles (CLPs), as previously described [<xref rid="B52-microorganisms-12-01047" ref-type="bibr">52</xref>].</p>
+        <p>These CLPs were approximately 60 nm in diameter with a &#x2018;spiky&#x2019;, knob-like surface.</p>
+        <p>Due to the low yield of the P1 CLP (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>a, lane 3) and P5 CLP (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>b, lanes 6&#x2013;9) proteins observed on the SDS-PAGE gels, it was decided to continue the remainder of this study with the P2 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>a, lane 4), P3 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>a, lane 5) and P4 (<xref rid="microorganisms-12-01047-f001" ref-type="fig">Figure 1</xref>b, lanes 2&#x2013;5) CLPs. Protein quantification of selected iodixanol fractions with the Micro BCA Protein Assay kit (Thermo Fisher Scientific, Waltham, MA, USA) indicated that the P2, P3 and P4 CLP protein yields ranged from 0.086 to 0.155 mg per gram of fresh leaf weight. The WT CLP yields were calculated to be 0.152 mg per gram fresh leaf weight.</p>
+      </sec>
+      <sec id="sec3dot2-microorganisms-12-01047">
+        <title>3.2. Safety of Plant-Expressed Orbivirus CLPs in BALB/c Mice</title>
+        <p>The safety trial was performed with 0.4 &#x3BC;g, 0.8 &#x3BC;g and 2 &#x3BC;g antigen doses of the P2, P3 and P4 CLP antigens. The CLPs were partially purified by a combination of depth filtration and tangential flow filtration and subsequently quantified. The trial was performed in three phases due to the limited numbers of animals available at any one time and limited capability to process large numbers of samples. Each phase tested different concentrations of antigen, and positive and negative control groups were included in each phase. In the first phase of the trial, the test-group mice were inoculated with either 0.4 &#x3BC;g P2 CLP antigen or 0.4 &#x3BC;g wild-type CLP antigen (<xref rid="app1-microorganisms-12-01047" ref-type="app">Table S1</xref>). The wild-type CLP antigen was included to determine whether the inserted <italic toggle="yes">Brucella</italic> epitope causes any adverse side effects. During the second phase of the trial, 0.4 &#x3BC;g and 2 &#x3BC;g antigen doses of each of the P3 and P4 CLPs were tested for their safety in mice (<xref rid="app1-microorganisms-12-01047" ref-type="app">Table S2</xref>). During the third phase of the safety trial, 0.8 &#x3BC;g antigen doses of the P2, P3 and P4 CLPs were tested (<xref rid="app1-microorganisms-12-01047" ref-type="app">Table S3</xref>). On day 45 of each phase, the mice were euthanized. No adverse effects were observed in any of the fifty-five mice during the three phases of the safety trial, and we concluded that 0.4 &#x3BC;g, 0.8 &#x3BC;g and 2 &#x3BC;g antigen dosages of plant-expressed chimeric P3 and P4 CLPs were safe in the mouse model of brucellosis. Due to its safety at the 0.4 &#x3BC;g and 0.8 &#x3BC;g antigen doses in mice, the 2 &#x3BC;g antigen dosage of the chimeric P2 CLP was also presumed to be safe in the mouse model.</p>
+      </sec>
+      <sec id="sec3dot3-microorganisms-12-01047">
+        <title>3.3. Protective Efficacy of Plant-Expressed Orbivirus CLPs in BALB/c Mice</title>
+        <p>Next, we conducted a protective efficacy trial in fifty-five additional BALB/c mice. As we planned to challenge with a virulent <italic toggle="yes">Brucella</italic> isolate, we decided on an antigen dose of 2 &#x3BC;g CLP antigen/mouse. P2 and P3 CLPs were tested individually for their ability to protect mice against virulent <italic toggle="yes">Brucella</italic> challenge (2 &#x3BC;g/mouse), and the P2, P3 and P4 CLPs were also combined to assess whether greater protection may be elicited with a combination of CLPs (0.6 &#x3BC;g of each CLP). The CLPs were administered with Montanide ISA61VG adjuvant. The groups, number of animals per group, route of administration, inoculation schedule and quantity of antigen inoculated are listed in <xref rid="microorganisms-12-01047-t001" ref-type="table">Table 1</xref>. The positive-control-group mice were inoculated with the commercially available Rev1 brucellosis vaccine (OBP), while the negative-control-group mice were inoculated with bicine buffer administered with Montanide ISA61VG adjuvant. One group of mice remained untouched. The mice in the test groups, as well as those in the negative and positive control groups, were boosted with their respective antigens on day 15. On day 45, all five untouched mice, as well as half (five) of the mice from each of the remaining groups, were euthanized and their spleens harvested for cellular immune response assays. The spleens from the mice of each group were weighed and pooled for further analysis. The remaining five mice from each group were challenged with a virulent <italic toggle="yes">Brucella</italic> field strain on day 45 of the trial. Thirty days after the challenge, as per the protocol, the mice were euthanised and their spleens harvested for spleen bacterial cell counts. Mice from both the test and control groups displayed no adverse effects during the duration of the trial, even after the challenge with the virulent Brucella strain. This result was expected from the literature, as BALB/c mice do not display symptoms of Brucella infection [<xref rid="B49-microorganisms-12-01047" ref-type="bibr">49</xref>].</p>
+      </sec>
+      <sec id="sec3dot4-microorganisms-12-01047">
+        <title>3.4. Measurement of Cellular Immune Response by Flow Cytometry and Cytokine Secretion Assay</title>
+        <p>Experiments performed to determine whether a cellular immune response was elicited in the mice included flow cytometry to determine the numbers of CD4+ and CD8+ cells in the antigen-stimulated splenocytes and an interferon-gamma (IFN-&#x263;) cytokine secretion assay, where the secretion of IFN-&#x263; from antigen-stimulated splenocytes was measured using fluorescently labelled antibodies (<xref rid="microorganisms-12-01047-f003" ref-type="fig">Figure 3</xref>).</p>
+        <p>The flow cytometry plots obtained clearly indicate an increase in the numbers of CD4+ cells (visible in the lower right-hand quadrant) in groups 5 and 6, that is, in animals inoculated with the P2, P3 and P4 CLP combination and P2 CLPs, respectively (<xref rid="microorganisms-12-01047-f003" ref-type="fig">Figure 3</xref>D,E), when compared to the numbers of CD4+ cells in the untouched (Group 1) and Rev-1 vaccinated (Group 3) animals (<xref rid="microorganisms-12-01047-f003" ref-type="fig">Figure 3</xref>A,B). The CD8+ cells (in the upper left-hand quadrant), however, decreased in groups 5 and 6. This was unexpected, as the P2 epitope is an MHC class I epitope and was intended to elicit a CD8+ cellular immune response. Group 4 (<xref rid="microorganisms-12-01047-f003" ref-type="fig">Figure 3</xref>C) had a very slight increase in both CD4+ and CD8+ cell populations when compared to Groups 1 and 3. It had been expected that the P3 epitope, being an MHC class II epitope, would elicit an increased CD4+ immune response in the mice in Group 4. Due to a lack of increase of CD4+ cells in Group 4, the increased CD4+ immune response in groups 5 and 6 was elicited not by the CLP particles themselves, but by the P2 epitope that is being presented. Interestingly, even though the P2 CLP dose in Group 5 was 1/3 of the P2 CLP dose in Group 6, the CD4+ immune response elicited was equivalent, indicating that even at lower doses (0.6 &#x3BC;g/mouse), P2 CLPs can elicit an equivalent immune response due to their potent immunogenicity.</p>
+        <p>We also assessed whether the CD4+ and CD8+ cell populations secreted interferon-gamma (IFN-&#x263;), a marker of the cellular immune response and an indication of protection against brucellosis (<xref rid="microorganisms-12-01047-f004" ref-type="fig">Figure 4</xref>).</p>
+        <p>From the CD8+ versus IFN-&#x263; plots obtained from the flow cytometry analysis, it is clear that there is a cell population in the lower right quadrant in groups 5 and 6 that expresses IFN-&#x263; in greater quantities (<xref rid="microorganisms-12-01047-f004" ref-type="fig">Figure 4</xref>D,E) than that observed in groups 1, 3 and 4 (<xref rid="microorganisms-12-01047-f004" ref-type="fig">Figure 4</xref>A&#x2013;C, respectively). This cell population is, however, clearly not composed of CD8+ cells. From the CD4+ versus IFN-&#x263; plots, it also becomes apparent that a cell population observed in the lower right-hand quadrant in groups in Groups 5 and 6 (<xref rid="microorganisms-12-01047-f005" ref-type="fig">Figure 5</xref>D,E), respectively) expresses higher IFN-&#x263; levels than those observed in Groups 1, 3 and 4 (<xref rid="microorganisms-12-01047-f005" ref-type="fig">Figure 5</xref>A&#x2013;C, respectively). This cell population is, however, not a CD4+ population. This cell population in Groups 5 and 6 may be one of a few other cell populations known to produce IFN-&#x263;. </p>
+        <p>It must be noted at this point that the low numbers of CD4+ cells and the low levels of IFN-&#x263; observed in Group 3 may be due to the experimental design and the specific peptides that were used for splenocyte stimulation. </p>
+      </sec>
+      <sec id="sec3dot5-microorganisms-12-01047">
+        <title>3.5. Bacterial Spleen Count Assay</title>
+        <p>On day 75 of the trial, spleens were harvested from the mice challenged with the virulent <italic toggle="yes">Brucella</italic> field isolate and homogenised to enable spleen bacterial count assays. A bar graph depicting the average numbers of bacteria (colony-forming units (cfu&#x2019;s)) in the 10<sup>&#x2212;3</sup> dilution of the spleen homogenates of each group is depicted in <xref rid="microorganisms-12-01047-f006" ref-type="fig">Figure 6</xref>. The average spleen bacterial loads in groups 2&#x2013;6 are listed in <xref rid="microorganisms-12-01047-t002" ref-type="table">Table 2</xref>.</p>
+        <p>The animals in positive control Group 3 and test Group 6 inoculated with the Rev1 vaccine and P2 CLPs, respectively, yielded the same number of average colony-forming units (cfus)/spleen. Although low average cfu numbers were expected in the animals inoculated with the commercial Rev1 vaccine, the low cfu number observed in Group 6 indicates that the mice inoculated with P2 CLPS were also protected against the virulent <italic toggle="yes">Brucella</italic> strain to the same degree as the Rev1-vaccinated animals. The lowest average cfus/spleen was observed in Group 5, where the animals were inoculated with a combination of P2/P3/P4 CLPs. Although the value of 0.625 &#xD7; 10<sup>5</sup> average cfus/spleen of Group 5 was not much lower than that of groups 3 and 6 (0.7 &#xD7; 10<sup>5</sup> cfus/spleen), what is notable is that an equivalent amount of protection is observed in Group 5 and was induced by a third of the dose of each CLP (0.6 &#x3BC;g). The protection observed in Group 5 is most likely due to the presence of P2 CLPs. It is unlikely that P3 CLPs contributed to the protection observed in Group 5, and previous results indicate that P4 CLPs are also unlikely to contribute to the protection observed due to preliminary data obtained. Group 4 had the highest average cfus/spleen and the highest standard deviation. This is because although animals in this group exhibited differing levels of protection against <italic toggle="yes">Brucella</italic> infection, one animal (#4.9) had 8.9 times more than the average of the number of colonies in the other Group 4 animals.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-microorganisms-12-01047">
+      <title>4. Discussion</title>
+      <p>In this study, we sought to develop a plant-produced subunit vaccine against brucellosis, which is a contagious bacterial disease of livestock with a worldwide distribution and the most common zoonotic disease. This subunit vaccine would serve as a safe and effective alternative to the current live-attenuated <italic toggle="yes">Brucella</italic> vaccines, which are unsafe in animals and pathogenic towards humans [<xref rid="B7-microorganisms-12-01047" ref-type="bibr">7</xref>]. The current vaccines are also not DIVA-compliant, and do not allow for the differentiation between infected and vaccinated animals.</p>
+      <p>As <italic toggle="yes">Brucella</italic> is an intracellular bacterial pathogen, the enhancement of the Th1 cellular immune response in vaccinated individuals is considered key in obtaining protection against the disease [<xref rid="B18-microorganisms-12-01047" ref-type="bibr">18</xref>,<xref rid="B53-microorganisms-12-01047" ref-type="bibr">53</xref>]. A previous study identified MHC-I- and MHC-II-restricted epitopes that are immunogenic and provide protection against <italic toggle="yes">Brucella abortus</italic> infection in a mouse model [<xref rid="B19-microorganisms-12-01047" ref-type="bibr">19</xref>]. Protection is mediated through the release of IFN-&#x3B3; cytokine. The sequences of these epitopes are identical to those in the <italic toggle="yes">Brucella melitensis</italic> strain and thus would most likely also protect sheep and goats from <italic toggle="yes">Brucella</italic> infection. In a recent study, <italic toggle="yes">Brucella</italic> antigens and polyepitopes were absorbed onto calcium phosphate nanoparticles and found to induce cross-protection against <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. abortus</italic> in mice [<xref rid="B54-microorganisms-12-01047" ref-type="bibr">54</xref>]. Here, we proposed the presentation of epitopes on the surface of Orbivirus core-like particles (CLPs), previously employed as a particulate presentation system to induce an immune response [<xref rid="B15-microorganisms-12-01047" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-12-01047" ref-type="bibr">16</xref>,<xref rid="B55-microorganisms-12-01047" ref-type="bibr">55</xref>]. CLPs are formed by the assembly of viral structural proteins VP3 and VP7 in repetitive arrays and can stimulate humoral immunity, whilst the particulate nature of CLPs results in a broad range of T cell immune responses. These protein-based CLPs also do not contain genomic material, which makes them safe as well as DIVA-compliant. Several positions within the top domain of Orbivirus VP7 have been identified as being good candidates for the insertion and presentation of foreign epitopes [<xref rid="B15-microorganisms-12-01047" ref-type="bibr">15</xref>,<xref rid="B16-microorganisms-12-01047" ref-type="bibr">16</xref>,<xref rid="B55-microorganisms-12-01047" ref-type="bibr">55</xref>,<xref rid="B56-microorganisms-12-01047" ref-type="bibr">56</xref>,<xref rid="B57-microorganisms-12-01047" ref-type="bibr">57</xref>]. Following the investigation of possible insertion sites using protein modelling, our collaborator Dr Elien Vandermarliere (University of Gent, Belgium) identified an insertion site within the top domain of an Orbivirus VP7 for the individual insertion and presentation of four <italic toggle="yes">B. melitensis</italic> MHC class I epitopes and one MHC class II epitope [<xref rid="B19-microorganisms-12-01047" ref-type="bibr">19</xref>] on the surface of CLPs. </p>
+      <p>We subsequently co-expressed the Orbivirus VP3 and chimeric VP7 genes in <italic toggle="yes">N. benthamiana</italic> plants using the pEAQ transient plant expression system [<xref rid="B22-microorganisms-12-01047" ref-type="bibr">22</xref>] and assessed CLP assembly. Novel vaccines and antibodies against animal diseases produced in plants have the advantageous of being safe, efficacious and easily scalable and requiring a relatively low capital investment [<xref rid="B58-microorganisms-12-01047" ref-type="bibr">58</xref>], which makes plant biopharming an affordable and accessible manufacturing option for the developing world [<xref rid="B39-microorganisms-12-01047" ref-type="bibr">39</xref>,<xref rid="B40-microorganisms-12-01047" ref-type="bibr">40</xref>].</p>
+      <p>We successfully assembled all five chimeric CLPs in <italic toggle="yes">N. benthamiana</italic> plants; however, they differed in terms of yield. As very few P1 and P5 CLP proteins were visible on the SDS-PAGE gels, we proceeded to determine the yield of the P2, P3 and P4 CLPs, which ranged from 0.086 to 0.155 mg per g of fresh leaf weight, and used them for safety and efficacy trials in mice. For these trials, the CLPs were partially purified from the plant cell lysate by a combination of depth filtration and tangential flow filtration and then quantified by centrifuging a sample of the final inoculum through an iodixanol density gradient. The filtration methods used here are scalable and thus suitable for commercial manufacturing on an industrial scale. </p>
+      <p>BALB/c mice have previously been used as a small animal model for brucellosis [<xref rid="B19-microorganisms-12-01047" ref-type="bibr">19</xref>,<xref rid="B59-microorganisms-12-01047" ref-type="bibr">59</xref>,<xref rid="B60-microorganisms-12-01047" ref-type="bibr">60</xref>]. Although infected mice do not display overt disease symptoms [<xref rid="B49-microorganisms-12-01047" ref-type="bibr">49</xref>], they do elicit a protective immune response against <italic toggle="yes">Brucella</italic> that lowers the number of pathogenic bacteria in their spleens. We first investigated the safety of the plant-produced chimeric CLPs in BALB/c mice. We decided on minimum CLP dose of 0.4 &#x3BC;g for this study. We also investigated 0.8 &#x3BC;g and 2 &#x3BC;g antigen doses of the chimeric CLP antigens. Wild-type CLPs were added as a control to determine whether the epitope sequences may cause adverse side effects. No adverse effects were noted in any of the mice during the three phases of the safety trial, and we concluded that the 0.4 &#x3BC;g, 0.8 &#x3BC;g and 2 &#x3BC;g dosages of plant-expressed chimeric P3 and P4 CLPs; 0.4 &#x3BC;g and 0.8 &#x3BC;g of the P2 CLPs; and 0.4 &#x3BC;g of the wild-type CLPs are safe for use in mice. Although the CLP inoculum also contained contaminating plant proteins, the safety of these plant proteins was also confirmed in this study. Indeed, these plant proteins may have an adjuvant effect resulting in an enhanced immune response against the target antigen [<xref rid="B61-microorganisms-12-01047" ref-type="bibr">61</xref>] and remain to be investigated.</p>
+      <p>We proceeded with an efficacy trial to investigate whether the individual CLPs, and/or a combination of the three chimeric CLPs, could induce a protective cellular immune response against virulent <italic toggle="yes">B. melitensis</italic> challenge. As we planned to challenge with a virulent <italic toggle="yes">Brucella</italic> field isolate, we decided on an antigen dose of 2 &#x3BC;g CLP antigen/mouse, previously confirmed as safe in our safety trial. On day 45 of the efficacy trial, the spleens of half the number of the inoculated mice were harvested and processed for cellular immune response assays. The remaining mice were challenged with the virulent <italic toggle="yes">B. melitensis</italic> field isolate. Flow cytometry was used to determine the numbers of antigen-activated CD4+ and CD8+ cells from the processed spleens from each group as well as the identification of cells secreting IFN-&#x263;, which is a key cytokine for providing protection against <italic toggle="yes">Brucella</italic> infection [<xref rid="B62-microorganisms-12-01047" ref-type="bibr">62</xref>,<xref rid="B63-microorganisms-12-01047" ref-type="bibr">63</xref>]. The mice in Groups 5 and 6, inoculated with a combination of P2, P3 and P4 CLPs and P2 CLPs, respectively, exhibited higher CD4+ T cell levels compared to the remaining groups. As the P3 CLPs (Group 4) and P4 CLPs (preliminary data)) did not elicit this level of CD4+ immune response, it was concluded that the P2 epitope presented on the surface of the CLPs was responsible for eliciting the CD4+ response in groups 5 and 6. The presented P2 epitope was also able to elicit an equivalent CD4+ immune response when inoculated into mice at a lower dose of 0.6 &#x3BC;g in combination with the other CLPs (Group 5). This result was surprising, as the P2 epitope was identified as an MCH class I epitope [<xref rid="B19-microorganisms-12-01047" ref-type="bibr">19</xref>] and was expected to elicit a CD8+ cellular immune response. We also determined that a small population of cells secreting IFN-gamma in groups 5 and 6 may be either &#x3B3;&#x3B4; T cells, natural killer (NK) cells, natural killer T cells (NKT), B cells or professional antigen-presenting cells (APCs) [<xref rid="B64-microorganisms-12-01047" ref-type="bibr">64</xref>].</p>
+      <p>The average bacterial load in the spleens of the mice in Group 6, inoculated with the P2 CLPs, was equivalent to that of the average load in the spleens of the mice in Group 3 inoculated with the Rev 1 live-attenuated <italic toggle="yes">B. melitensis</italic> vaccine. This indicated that there was the same level of protection against <italic toggle="yes">Brucella</italic> infection in mice of both groups. It was expected that the Rev 1 vaccine would elicit a greater degree of protection, and thus a much lower bacterial load, in the spleens of Groups 3. This is due to the entire pathogen being able to elicit a broader range of protective responses than a single immunogenic epitope. However, it has been reported that various Rev 1 vaccines being produced around the world have differing residual virulence and immunogenicity [<xref rid="B65-microorganisms-12-01047" ref-type="bibr">65</xref>], and the low protective immunogenicity being exhibited by the Rev 1 vaccine in this study may be due to the specific seed lot being propagated by the manufacturer. </p>
+      <p>Interestingly, the average bacterial load in the spleens of the mice inoculated with a combination of P2, P3 and P4 CLPs (Group 5) was almost equivalent to that of Group 6, indicating that even at a third of the antigen dose (0.6 &#x3BC;g), the chimeric CLPs elicit an equivalent level of protection. The protection observed in Group 5, like in Group 6, is most likely due to the presence of P2 CLPs. The high average bacterial load observed in Group 4 in the animals inoculated with the P3 CLPs indicates that the P3 CLPs do not afford notable protection against <italic toggle="yes">B. melitensis</italic> infection and are unlikely to contribute to the protection observed in Group 5. The P4 CLPs are also unlikely to contribute to the protection observed in Group 5 due to preliminary data. </p>
+      <p>It is of interest to note that although the increased levels of CD4+ cells and IFN-gamma cytokine in Groups 5 and 6 correlate with reduced spleen bacterial loads, these increased levels were not detected in the animals in Group 3, which were vaccinated with the Rev 1 vaccine. However, the animals in Group 3 were also protected against virulent bacterial challenge. The lack of detection of increased levels of CD4+ cells and IFN-gamma cytokine in Group 3 is likely due to the P2, P3 and P4 peptides not being presented by the Rev1 bacterium to the immune system and the harvested splenocytes thus not being stimulated when exposed to these peptides <italic toggle="yes">in vitro.</italic> This does not mean that a protective cellular immune response was not elicited in Group 3, just that perhaps the splenocytes were not stimulated <italic toggle="yes">in vitro</italic> by the specific P2, P3 and P4 peptides.</p>
+      <p>In this study, we successfully identified one <italic toggle="yes">B. melitensis</italic> epitope out of a panel of 5 protective epitope candidates that is able to elicit a protective cellular immune response in a mouse model of brucellosis. It is, however, unlikely that the protection afforded by a single epitope will afford the long-lasting protection that is required from a brucellosis vaccine. We are currently in the process of identifying additional protective <italic toggle="yes">B. melitensis</italic> epitopes that could be combined with the P2 epitope to develop a plant-produced, multi-epitope CLP-based subunit vaccine to provide robust, efficacious and long-lasting immunity against <italic toggle="yes">B. melitensis</italic>.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec5-microorganisms-12-01047">
+      <title>5. Conclusions</title>
+      <p>We have successfully demonstrated that the presentation of a <italic toggle="yes">Brucella melitensis</italic> T cell epitope on the surface of Orbivirus CLPs is able to elicit a protective cellular immune response in a mouse model of brucellosis. A CLP-based vaccine that affords complete protection against virulent <italic toggle="yes">B. melitensis</italic> isolates has advantages over the current Rev 1 live-attenuated <italic toggle="yes">Brucella</italic> vaccine, including safety and DIVA compliance. To develop a long-lasting protective vaccine against <italic toggle="yes">B. melitensis</italic>, we propose a multi-CLP combination vaccine containing different protective epitopes, which will subsequently be tested for immunogenicity and protective efficacy in the target animals, sheep. If successful, this will be the first plant-produced particulate subunit vaccine against brucellosis, a safe, efficacious, and DIVA-compliant alternative to the live-attenuated vaccines currently on the market.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors would like to thank George Lomonossoff (John Innes Centre, Norwich, UK) for providing the pEAQ-HT- and pEAQ-expression vectors (under licence from Plant Biosciences Ltd. (LTD)); Icon Genetics GmbH for providing the seeds of the <italic toggle="yes">N. benthamiana</italic> dXT/FT plants under the auspices of a material transfer agreement; Albert Mabetha (CSIR) for ensuring an adequate supply of <italic toggle="yes">N. benthamiana</italic> plants; Gugu Mkhize for administrative support; Maretha O&#x2019;Kennedy for supplying the VP3 gene required for the expression experiments; Sipho Mamputha and Stoyan Stoychev (CSIR) for conducting the LC-MS/MS-based peptide sequencing;Antoinette Lensink at the Laboratory for Microscopy and Microanalysis, University of Pretoria, Onderstepoort campus, for performing the TEM work; Michelle Seutloali-Morule and Sophia Baloyi from the Provincial Veterinary Laboratory in the Department of Agriculture, Western Cape Government, for their kind donation of the virulent <italic toggle="yes">Brucella melitensis</italic> challenge field strain used in this study; Kobus Venter at the Preclinical Drug Development Platform (PCDDP) at North-West University (NWU) in Potchefstroom, South Africa, for his expert animal handling and conducting of the animal trials; Rose Hayeshi, director at the PCDDP, for her kind assistance with the NWU ethics applications; Elien Vandermarliere (University of Gent, Belgium) for the recommendation of the insertion site within the Orbivirus VP7 top domain; Sibongile Gumbi and Carin Basson from SmartBiotech for guiding the commercial, funding, risk management and regulatory aspects of the Brucellosis project; and past and current members of the CSIR Brucellosis steering committee for their guidance of the project.</p>
+    </ack>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <app id="app1-microorganisms-12-01047">
+        <title>Supplementary Materials</title>
+        <p>The following supporting information can be downloaded at: <uri xlink:href="https://www.mdpi.com/article/10.3390/microorganisms12061047/s1">https://www.mdpi.com/article/10.3390/microorganisms12061047/s1</uri>, Table S1: Phase 1 of safety trial in 6&#x2013;8-week-old female BALB/c mice. Table S2: Phase 2 of safety trial in 6&#x2013;8-week-old female BALB/c mice. Table S3: Phase 3 of safety trial in 6&#x2013;8-week-old female BALB/c mice.</p>
+        <supplementary-material id="microorganisms-12-01047-s001" position="float" content-type="local-data">
+          <media xlink:href="microorganisms-12-01047-s001.zip"/>
+        </supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>This project was conceptualized and supervised by D.A.R. as the principal investigator, with M.M.O. contributing to the concept of utilizing BTV CLPs. The methodology was developed by D.A.R., with Y.L. advising on the cellular assays to be conducted. The investigation, validation and formal analysis were performed by D.A.R., with L.H.D.P. curating the flow cytometry data and analysing the flow cytometry results. The spleen count data analysis was performed by E.S. The draft manuscript was written by D.A.R., with L.H.D.P. contributing to the flow cytometry analyses and results. The review and editing were performed by all the authors (D.A.R., L.H.D.P., E.S., Y.L. and D.B.T.G.R.). The project course was administered and governed by a steering committee, with the CSIR-based authors being part of this committee at various points. Funding for this project was sourced by D.A.R. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Ethics approval to conduct the mouse trials in this study was obtained from the Council for Scientific and Industrial Research (CSIR) research ethics committee (Ref # 269/2018) as well as the North West University (NWU) animal ethics committee (Ref #NWU-00171-18-A5). Permission to conduct this study in terms of Section 20 of the Animal Diseases Act 1984 (ACT NO. 35 of 1984) was obtained from the South African Department of Agriculture, Land Reform and Rural Development (DALRRD Ref #236/2017). All animals in this research project received humane and compassionate treatment and were housed, handled, utilized and generally treated in terms of existing and relevant national legislation and codes of practice, including the following: The Animal Protection Act 71/1962; The Medicines and Related Substance Control Act 101/1982; The Veterinary and Para-Veterinary Professions Act 19/1982; The Fertilizers, farm feed, agricultural remedies and stock remedies Act 36/1947; The National Code for Animal Use in Research, Education, Diagnosis and Testing of Drugs and Related Substances in SA;SANS 10386:2008 The care and use of animals for scientific purposes</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>The data presented in this study are available on request from the corresponding author. The commercial partner interested in this project has requested that the sensitive details of this study only be made available on request.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflicts of interest. The funders had no role in the design of the study; in the collection, analyses or interpretation of the data; in the writing of the manuscript; or in the decision to publish the results.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-microorganisms-12-01047">
+        <label>1.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Whatmore</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>Current understanding of the genetic diversity of Brucella, an expanding genus of zoonotic pathogens</article-title><source>Infect. Genet. Evol.</source><year>2009</year><volume>9</volume><fpage>1168</fpage><lpage>1184</lpage><pub-id pub-id-type="doi">10.1016/j.meegid.2009.07.001</pub-id><pub-id pub-id-type="pmid">19628055</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B2-microorganisms-12-01047">
+        <label>2.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Glynn</surname><given-names>M.K.</given-names></name>
+<name><surname>Lynn</surname><given-names>T.V.</given-names></name>
+</person-group><article-title>Brucellosis</article-title><source>J. Am. Vet. Med. Assoc.</source><year>2008</year><volume>233</volume><fpage>900</fpage><lpage>908</lpage><pub-id pub-id-type="doi">10.2460/javma.233.6.900</pub-id><pub-id pub-id-type="pmid">18795849</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B3-microorganisms-12-01047">
+        <label>3.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pappas</surname><given-names>G.</given-names></name>
+<name><surname>Papadimitriou</surname><given-names>P.</given-names></name>
+<name><surname>Akritidis</surname><given-names>N.</given-names></name>
+<name><surname>Christou</surname><given-names>L.</given-names></name>
+<name><surname>Tsianos</surname><given-names>E.V.</given-names></name>
+</person-group><article-title>The new global map of human brucellosis</article-title><source>Lancet Infect. Dis.</source><year>2006</year><volume>6</volume><fpage>91</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(06)70382-6</pub-id><pub-id pub-id-type="pmid">16439329</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B4-microorganisms-12-01047">
+        <label>4.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Franco</surname><given-names>M.P.</given-names></name>
+<name><surname>Mulder</surname><given-names>M.</given-names></name>
+<name><surname>Gilman</surname><given-names>R.H.</given-names></name>
+<name><surname>Smits</surname><given-names>H.L.</given-names></name>
+</person-group><article-title>Human brucellosis</article-title><source>Lancet Infect. Dis.</source><year>2007</year><volume>7</volume><fpage>775</fpage><lpage>786</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id><pub-id pub-id-type="pmid">18045560</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5-microorganisms-12-01047">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goodwin</surname><given-names>Z.I.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Brucellosis vaccines for livestock</article-title><source>Vet. Immunol. Immunopathol.</source><year>2016</year><volume>181</volume><fpage>51</fpage><lpage>58</lpage><pub-id pub-id-type="doi">10.1016/j.vetimm.2016.03.011</pub-id><pub-id pub-id-type="pmid">27032465</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B6-microorganisms-12-01047">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hotez</surname><given-names>P.J.</given-names></name>
+<name><surname>Savioli</surname><given-names>L.</given-names></name>
+<name><surname>Fenwick</surname><given-names>A.</given-names></name>
+</person-group>
+          <article-title>Neglected tropical diseases of the middle east and north africa: Review of their prevalence, distribution, and opportunities for control</article-title>
+          <source>PLoS Neglected Trop. Dis.</source>
+          <year>2012</year>
+          <volume>6</volume>
+          <elocation-id>e1475</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pntd.0001475</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-microorganisms-12-01047">
+        <label>7.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perkins</surname><given-names>S.D.</given-names></name>
+<name><surname>Smither</surname><given-names>S.J.</given-names></name>
+<name><surname>Atkins</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>Towards a Brucella vaccine for humans</article-title><source>FEMS Microbiol. Rev.</source><year>2010</year><volume>34</volume><fpage>379</fpage><lpage>394</lpage><pub-id pub-id-type="doi">10.1111/j.1574-6976.2010.00211.x</pub-id><pub-id pub-id-type="pmid">20180858</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B8-microorganisms-12-01047">
+        <label>8.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fuenmayor</surname><given-names>J.</given-names></name>
+<name><surname>G&#xF2;dia</surname><given-names>F.</given-names></name>
+<name><surname>Cervera</surname><given-names>L.</given-names></name>
+</person-group><article-title>Production of virus-like particles for vaccines</article-title><source>New Biotechnol.</source><year>2017</year><volume>39</volume><fpage>174</fpage><lpage>180</lpage><pub-id pub-id-type="doi">10.1016/j.nbt.2017.07.010</pub-id><pub-id pub-id-type="pmid">28778817</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B9-microorganisms-12-01047">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Rutkowska</surname><given-names>D.A.</given-names></name>
+<name><surname>Mokoena</surname><given-names>N.B.</given-names></name>
+<name><surname>Tsekoa</surname><given-names>T.L.</given-names></name>
+<name><surname>Dibakwane</surname><given-names>V.S.</given-names></name>
+<name><surname>O&#x2019;kennedy</surname><given-names>M.M.</given-names></name>
+</person-group>
+          <article-title>Plant-produced chimeric virus-like particles&#x2014;A new generation vaccine against African horse sickness</article-title>
+          <source>BMC Veter. Res.</source>
+          <year>2019</year>
+          <volume>15</volume>
+          <elocation-id>432</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/s12917-019-2184-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-microorganisms-12-01047">
+        <label>10.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chackerian</surname><given-names>B.</given-names></name>
+</person-group><article-title>Virus-like particles: Flexible platforms for vaccine development</article-title><source>Expert Rev. Vaccines</source><year>2007</year><volume>6</volume><fpage>381</fpage><lpage>390</lpage><pub-id pub-id-type="doi">10.1586/14760584.6.3.381</pub-id><pub-id pub-id-type="pmid">17542753</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B11-microorganisms-12-01047">
+        <label>11.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grgacic</surname><given-names>E.V.</given-names></name>
+<name><surname>Anderson</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Virus-like particles: Passport to immune recognition</article-title><source>Methods</source><year>2006</year><volume>40</volume><fpage>60</fpage><lpage>65</lpage><pub-id pub-id-type="doi">10.1016/j.ymeth.2006.07.018</pub-id><pub-id pub-id-type="pmid">16997714</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12-microorganisms-12-01047">
+        <label>12.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Frey</surname><given-names>S.</given-names></name>
+<name><surname>Castro</surname><given-names>A.</given-names></name>
+<name><surname>Arsiwala</surname><given-names>A.</given-names></name>
+<name><surname>Kane</surname><given-names>R.S.</given-names></name>
+</person-group><article-title>Bionanotechnology for vaccine design</article-title><source>Curr. Opin. Biotechnol.</source><year>2018</year><volume>52</volume><fpage>80</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1016/j.copbio.2018.03.003</pub-id><pub-id pub-id-type="pmid">29597075</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B13-microorganisms-12-01047">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Moreno</surname><given-names>N.</given-names></name>
+<name><surname>Mena</surname><given-names>I.</given-names></name>
+<name><surname>Angulo</surname><given-names>I.</given-names></name>
+<name><surname>G&#xF3;mez</surname><given-names>Y.</given-names></name>
+<name><surname>Crisci</surname><given-names>E.</given-names></name>
+<name><surname>Montoya</surname><given-names>M.</given-names></name>
+<name><surname>Cast&#xF3;n</surname><given-names>J.R.</given-names></name>
+<name><surname>Blanco</surname><given-names>E.</given-names></name>
+<name><surname>B&#xE1;rcena</surname><given-names>J.</given-names></name>
+</person-group><article-title>Rabbit hemorrhagic disease virus capsid, a versatile platform for foreign B-cell epitope display inducing protective humoral immune responses</article-title><source>Sci. Rep.</source><year>2016</year><volume>6</volume><fpage>31844</fpage><pub-id pub-id-type="doi">10.1038/srep31844</pub-id><pub-id pub-id-type="pmid">27549017</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14-microorganisms-12-01047">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pumpens</surname><given-names>P.</given-names></name>
+<name><surname>Grens</surname><given-names>E.</given-names></name>
+</person-group>
+          <article-title>The true story and advantages of the famous Hepatitis B virus core particles: Outlook 2016</article-title>
+          <source>Mol. Biol.</source>
+          <year>2016</year>
+          <volume>50</volume>
+          <fpage>489</fpage>
+          <lpage>509</lpage>
+          <pub-id pub-id-type="doi">10.1134/S0026893316040099</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-microorganisms-12-01047">
+        <label>15.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Adler</surname><given-names>S.</given-names></name>
+<name><surname>Reay</surname><given-names>P.</given-names></name>
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+<name><surname>Klenk</surname><given-names>H.-D.</given-names></name>
+</person-group><article-title>Induction of T cell response by bluetongue virus core-like particles expressing a T cell epitope of the M1 protein of influenza A virus</article-title><source>Med Microbiol. Immunol.</source><year>1998</year><volume>187</volume><fpage>91</fpage><lpage>96</lpage><pub-id pub-id-type="doi">10.1007/s004300050078</pub-id><pub-id pub-id-type="pmid">9832322</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16-microorganisms-12-01047">
+        <label>16.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+</person-group><article-title>Genetically Engineered Particulate Virus-Like Structures and Their Use as Vaccine Delivery Systems</article-title><source>Intervirology</source><year>1996</year><volume>39</volume><fpage>62</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1159/000150476</pub-id><pub-id pub-id-type="pmid">8957671</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17-microorganisms-12-01047">
+        <label>17.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rutkowska</surname><given-names>D.A.</given-names></name>
+<name><surname>Meyer</surname><given-names>Q.C.</given-names></name>
+<name><surname>Maree</surname><given-names>F.</given-names></name>
+<name><surname>Vosloo</surname><given-names>W.</given-names></name>
+<name><surname>Fick</surname><given-names>W.</given-names></name>
+<name><surname>Huismans</surname><given-names>H.</given-names></name>
+</person-group><article-title>The use of soluble African horse sickness viral protein 7 as an antigen delivery and presentation system</article-title><source>Virus Res.</source><year>2011</year><volume>156</volume><fpage>35</fpage><lpage>48</lpage><pub-id pub-id-type="doi">10.1016/j.virusres.2010.12.015</pub-id><pub-id pub-id-type="pmid">21195731</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B18-microorganisms-12-01047">
+        <label>18.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Oliveira</surname><given-names>S.</given-names></name>
+<name><surname>Harms</surname><given-names>J.</given-names></name>
+<name><surname>Rech</surname><given-names>E.</given-names></name>
+<name><surname>Rodarte</surname><given-names>R.</given-names></name>
+<name><surname>Bocca</surname><given-names>A.</given-names></name>
+<name><surname>Goes</surname><given-names>A.</given-names></name>
+<name><surname>Splitter</surname><given-names>G.</given-names></name>
+</person-group><article-title>The role of T cell subsets and cytokines in the regulation of intracellular bacterial infection</article-title><source>Braz. J. Med. Biol. Res.</source><year>1998</year><volume>31</volume><fpage>77</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1590/S0100-879X1998000100010</pub-id><pub-id pub-id-type="pmid">9686182</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B19-microorganisms-12-01047">
+        <label>19.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Afley</surname><given-names>P.</given-names></name>
+<name><surname>Dohre</surname><given-names>S.K.</given-names></name>
+<name><surname>Prasad</surname><given-names>G.B.K.S.</given-names></name>
+<name><surname>Kumar</surname><given-names>S.</given-names></name>
+</person-group><article-title>Prediction of T cell epitopes of Brucella abortus and evaluation of their protective role in mice</article-title><source>Appl. Microbiol. Biotechnol.</source><year>2015</year><volume>99</volume><fpage>7625</fpage><lpage>7637</lpage><pub-id pub-id-type="doi">10.1007/s00253-015-6787-7</pub-id><pub-id pub-id-type="pmid">26150246</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B20-microorganisms-12-01047">
+        <label>20.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hisham</surname><given-names>Y.</given-names></name>
+<name><surname>Ashhab</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Identification of Cross-Protective Potential Antigens against Pathogenic Brucella spp. through Combining Pan-Genome Analysis with Reverse Vaccinology</article-title><source>J. Immunol. Res.</source><year>2018</year><volume>2018</volume><fpage>1474517</fpage><pub-id pub-id-type="doi">10.1155/2018/1474517</pub-id><pub-id pub-id-type="pmid">30622973</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B21-microorganisms-12-01047">
+        <label>21.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Belyaev</surname><given-names>A.S.</given-names></name>
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+</person-group><article-title>Presentation of hepatitis B virus preS2 epitope on bluetongue virus core-like particles</article-title><source>Virology</source><year>1992</year><volume>190</volume><fpage>840</fpage><lpage>844</lpage><pub-id pub-id-type="doi">10.1016/0042-6822(92)90922-C</pub-id><pub-id pub-id-type="pmid">1381538</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B22-microorganisms-12-01047">
+        <label>22.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sainsbury</surname><given-names>F.</given-names></name>
+<name><surname>Thuenemann</surname><given-names>E.C.</given-names></name>
+<name><surname>Lomonossoff</surname><given-names>G.P.</given-names></name>
+</person-group><article-title>pEAQ: Versatile expression vectors for easy and quick transient expression of heterologous proteins in plants</article-title><source>Plant Biotechnol. J.</source><year>2009</year><volume>7</volume><fpage>682</fpage><lpage>693</lpage><pub-id pub-id-type="doi">10.1111/j.1467-7652.2009.00434.x</pub-id><pub-id pub-id-type="pmid">19627561</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B23-microorganisms-12-01047">
+        <label>23.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fischer</surname><given-names>R.</given-names></name>
+<name><surname>Buyel</surname><given-names>J.F.</given-names></name>
+</person-group><article-title>Molecular farming&#x2014;The slope of enlightenment</article-title><source>Biotechnol. Adv.</source><year>2020</year><volume>40</volume><elocation-id>107519</elocation-id><pub-id pub-id-type="doi">10.1016/j.biotechadv.2020.107519</pub-id><pub-id pub-id-type="pmid">31954848</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B24-microorganisms-12-01047">
+        <label>24.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lomonossoff</surname><given-names>G.P.</given-names></name>
+<name><surname>D&#x2019;aoust</surname><given-names>M.-A.</given-names></name>
+</person-group><article-title>Plant-produced biopharmaceuticals: A case of technical developments driving clinical deployment</article-title><source>Science</source><year>2016</year><volume>353</volume><fpage>1237</fpage><lpage>1240</lpage><pub-id pub-id-type="doi">10.1126/science.aaf6638</pub-id><pub-id pub-id-type="pmid">27634524</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B25-microorganisms-12-01047">
+        <label>25.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>D&#x2019;Aoust</surname><given-names>M.A.</given-names></name>
+<name><surname>Couture</surname><given-names>M.M.J.</given-names></name>
+<name><surname>Charland</surname><given-names>N.</given-names></name>
+<name><surname>Tr&#xE9;panier</surname><given-names>S.</given-names></name>
+<name><surname>Landry</surname><given-names>N.</given-names></name>
+<name><surname>Ors</surname><given-names>F.</given-names></name>
+<name><surname>V&#xE9;zina</surname><given-names>L.P.</given-names></name>
+</person-group><article-title>The production of hemagglutinin-based virus-like particles in plants: A rapid, efficient and safe response to pandemic influenza</article-title><source>Plant Biotechnol. J.</source><year>2010</year><volume>8</volume><fpage>607</fpage><lpage>619</lpage><pub-id pub-id-type="doi">10.1111/j.1467-7652.2009.00496.x</pub-id><pub-id pub-id-type="pmid">20199612</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B26-microorganisms-12-01047">
+        <label>26.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Strasser</surname><given-names>R.</given-names></name>
+</person-group><article-title>Recent Developments in Deciphering the Biological Role of Plant Complex N-Glycans</article-title><source>Front. Plant Sci.</source><year>2022</year><volume>13</volume><fpage>897549</fpage><pub-id pub-id-type="doi">10.3389/fpls.2022.897549</pub-id><pub-id pub-id-type="pmid">35557740</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B27-microorganisms-12-01047">
+        <label>27.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gomord</surname><given-names>V.</given-names></name>
+<name><surname>Fitchette</surname><given-names>A.</given-names></name>
+<name><surname>Menu-Bouaouiche</surname><given-names>L.</given-names></name>
+<name><surname>Saint-Jore-Dupas</surname><given-names>C.</given-names></name>
+<name><surname>Plasson</surname><given-names>C.</given-names></name>
+<name><surname>Michaud</surname><given-names>D.</given-names></name>
+<name><surname>Faye</surname><given-names>L.</given-names></name>
+</person-group><article-title>Plant-specific glycosylation patterns in the context of therapeutic protein production</article-title><source>Plant Biotechnol. J.</source><year>2010</year><volume>8</volume><fpage>564</fpage><lpage>587</lpage><pub-id pub-id-type="doi">10.1111/j.1467-7652.2009.00497.x</pub-id><pub-id pub-id-type="pmid">20233335</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B28-microorganisms-12-01047">
+        <label>28.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Landry</surname><given-names>N.</given-names></name>
+<name><surname>Ward</surname><given-names>B.J.</given-names></name>
+<name><surname>Tr&#xE9;panier</surname><given-names>S.</given-names></name>
+<name><surname>Montomoli</surname><given-names>E.</given-names></name>
+<name><surname>Dargis</surname><given-names>M.</given-names></name>
+<name><surname>Lapini</surname><given-names>G.</given-names></name>
+<name><surname>V&#xE9;zina</surname><given-names>L.-P.</given-names></name>
+</person-group><article-title>Preclinical and Clinical Development of Plant-Made Virus-Like Particle Vaccine against Avian H5N1 Influenza</article-title><source>PLoS ONE</source><year>2010</year><volume>5</volume><elocation-id>e15559</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0015559</pub-id><pub-id pub-id-type="pmid">21203523</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B29-microorganisms-12-01047">
+        <label>29.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pillet</surname><given-names>S.</given-names></name>
+<name><surname>Couillard</surname><given-names>J.</given-names></name>
+<name><surname>Tr&#xE9;panier</surname><given-names>S.</given-names></name>
+<name><surname>Poulin</surname><given-names>J.-F.</given-names></name>
+<name><surname>Yassine-Diab</surname><given-names>B.</given-names></name>
+<name><surname>Guy</surname><given-names>B.</given-names></name>
+<name><surname>Ward</surname><given-names>B.J.</given-names></name>
+<name><surname>Landry</surname><given-names>N.</given-names></name>
+</person-group><article-title>Immunogenicity and safety of a quadrivalent plant-derived virus like particle influenza vaccine candidate&#x2014;Two randomized Phase II clinical trials in 18 to 49 and &#x2265;50 years old adults</article-title><source>PLoS ONE</source><year>2019</year><volume>14</volume><elocation-id>e0216533</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0216533</pub-id><pub-id pub-id-type="pmid">31166987</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B30-microorganisms-12-01047">
+        <label>30.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ward</surname><given-names>B.J.</given-names></name>
+<name><surname>Makarkov</surname><given-names>A.</given-names></name>
+<name><surname>S&#xE9;guin</surname><given-names>A.</given-names></name>
+<name><surname>Pillet</surname><given-names>S.</given-names></name>
+<name><surname>Tr&#xE9;panier</surname><given-names>S.</given-names></name>
+<name><surname>Dhaliwall</surname><given-names>J.</given-names></name>
+<name><surname>Libman</surname><given-names>M.D.</given-names></name>
+<name><surname>Vesikari</surname><given-names>T.</given-names></name>
+<name><surname>Landry</surname><given-names>N.</given-names></name>
+</person-group><article-title>Efficacy, immunogenicity, and safety of a plant-derived, quadrivalent, virus-like particle influenza vaccine in adults (18&#x2013;64 years) and older adults (&#x2265;65 years): Two multicentre, randomised phase 3 trials</article-title><source>Lancet</source><year>2020</year><volume>396</volume><fpage>1491</fpage><lpage>1503</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(20)32014-6</pub-id><pub-id pub-id-type="pmid">33065035</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B31-microorganisms-12-01047">
+        <label>31.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ward</surname><given-names>B.J.</given-names></name>
+<name><surname>Gobeil</surname><given-names>P.</given-names></name>
+<name><surname>Seguin</surname><given-names>A.</given-names></name>
+<name><surname>Atkins</surname><given-names>J.</given-names></name>
+<name><surname>Boulay</surname><given-names>I.</given-names></name>
+<name><surname>Charbonneau</surname><given-names>P.-Y.</given-names></name>
+<name><surname>Couture</surname><given-names>M.</given-names></name>
+<name><surname>D&#x2019;Aoust</surname><given-names>M.-A.</given-names></name>
+<name><surname>Dhaliwall</surname><given-names>J.</given-names></name>
+<name><surname>Finkle</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>Phase 1 randomized trial of a plant-derived virus-like particle vaccine for COVID-19</article-title><source>Nat. Med.</source><year>2021</year><volume>27</volume><fpage>1071</fpage><lpage>1078</lpage><pub-id pub-id-type="doi">10.1038/s41591-021-01370-1</pub-id><pub-id pub-id-type="pmid">34007070</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B32-microorganisms-12-01047">
+        <label>32.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hager</surname><given-names>K.J.</given-names></name>
+<name><surname>Marc</surname><given-names>G.P.</given-names></name>
+<name><surname>Gobeil</surname><given-names>P.</given-names></name>
+<name><surname>Diaz</surname><given-names>R.S.</given-names></name>
+<name><surname>Heizer</surname><given-names>G.</given-names></name>
+<name><surname>Llapur</surname><given-names>C.</given-names></name>
+<name><surname>Makarkov</surname><given-names>A.I.</given-names></name>
+<name><surname>Vasconcellos</surname><given-names>E.</given-names></name>
+<name><surname>Pillet</surname><given-names>S.</given-names></name>
+<name><surname>Riera</surname><given-names>F.</given-names></name>
+<etal/>
+</person-group><article-title>Efficacy and Safety of a Recombinant Plant-Based Adjuvanted COVID-19 Vaccine</article-title><source>N. Engl. J. Med.</source><year>2022</year><volume>386</volume><fpage>2084</fpage><lpage>2096</lpage><pub-id pub-id-type="doi">10.1056/NEJMoa2201300</pub-id><pub-id pub-id-type="pmid">35507508</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B33-microorganisms-12-01047">
+        <label>33.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kurokawa</surname><given-names>N.</given-names></name>
+<name><surname>Robinson</surname><given-names>M.K.</given-names></name>
+<name><surname>Bernard</surname><given-names>C.</given-names></name>
+<name><surname>Kawaguchi</surname><given-names>Y.</given-names></name>
+<name><surname>Koujin</surname><given-names>Y.</given-names></name>
+<name><surname>Koen</surname><given-names>A.</given-names></name>
+<name><surname>Madhi</surname><given-names>S.</given-names></name>
+<name><surname>Polasek</surname><given-names>T.M.</given-names></name>
+<name><surname>McNeal</surname><given-names>M.</given-names></name>
+<name><surname>Dargis</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Safety and immunogenicity of a plant-derived rotavirus-like particle vaccine in adults, toddlers and infants</article-title><source>Vaccine</source><year>2021</year><volume>39</volume><fpage>5513</fpage><lpage>5523</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2021.08.052</pub-id><pub-id pub-id-type="pmid">34454786</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B34-microorganisms-12-01047">
+        <label>34.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pujol</surname><given-names>M.</given-names></name>
+<name><surname>Ram&#xED;rez</surname><given-names>N.I.</given-names></name>
+<name><surname>Ayala</surname><given-names>M.</given-names></name>
+<name><surname>Gavilondo</surname><given-names>J.V.</given-names></name>
+<name><surname>Vald&#xE9;s</surname><given-names>R.</given-names></name>
+<name><surname>Rodr&#xED;guez</surname><given-names>M.</given-names></name>
+<name><surname>Brito</surname><given-names>J.</given-names></name>
+<name><surname>Padilla</surname><given-names>S.</given-names></name>
+<name><surname>G&#xF3;mez</surname><given-names>L.</given-names></name>
+<name><surname>Reyes</surname><given-names>B.</given-names></name>
+<etal/>
+</person-group><article-title>An integral approach towards a practical application for a plant-made monoclonal antibody in vaccine purification</article-title><source>Vaccine</source><year>2005</year><volume>23</volume><fpage>1833</fpage><lpage>1837</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2004.11.023</pub-id><pub-id pub-id-type="pmid">15734051</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B35-microorganisms-12-01047">
+        <label>35.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liew</surname><given-names>P.S.</given-names></name>
+<name><surname>Hair-Bejo</surname><given-names>M.</given-names></name>
+</person-group><article-title>Farming of Plant-Based Veterinary Vaccines and Their Applications for Disease Prevention in Animals</article-title><source>Adv. Virol.</source><year>2015</year><volume>2015</volume><fpage>936940</fpage><pub-id pub-id-type="doi">10.1155/2015/936940</pub-id><pub-id pub-id-type="pmid">26351454</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B36-microorganisms-12-01047">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <article-title>In brief: Taliglucerase (Elelyso) for Gaucher disease</article-title>
+          <source>Med. Lett. Drugs Ther.</source>
+          <year>2012</year>
+          <volume>54</volume>
+          <fpage>56</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B37-microorganisms-12-01047">
+        <label>37.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ward</surname><given-names>B.J.</given-names></name>
+<name><surname>S&#xE9;guin</surname><given-names>A.</given-names></name>
+<name><surname>Couillard</surname><given-names>J.</given-names></name>
+<name><surname>Tr&#xE9;panier</surname><given-names>S.</given-names></name>
+<name><surname>Landry</surname><given-names>N.</given-names></name>
+</person-group><article-title>Phase III: Randomized observer-blind trial to evaluate lot-to-lot consistency of a new plant-derived quadrivalent virus like particle influenza vaccine in adults 18&#x2013;49 years of age</article-title><source>Vaccine</source><year>2021</year><volume>39</volume><fpage>1528</fpage><lpage>1533</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2021.01.004</pub-id><pub-id pub-id-type="pmid">33581920</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B38-microorganisms-12-01047">
+        <label>38.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chung</surname><given-names>Y.H.</given-names></name>
+<name><surname>Church</surname><given-names>D.</given-names></name>
+<name><surname>Koellhoffer</surname><given-names>E.C.</given-names></name>
+<name><surname>Osota</surname><given-names>E.</given-names></name>
+<name><surname>Shukla</surname><given-names>S.</given-names></name>
+<name><surname>Rybicki</surname><given-names>E.P.</given-names></name>
+<name><surname>Pokorski</surname><given-names>J.K.</given-names></name>
+<name><surname>Steinmetz</surname><given-names>N.F.</given-names></name>
+</person-group><article-title>Integrating plant molecular farming and materials research for next-generation vaccines</article-title><source>Nat. Rev. Mater.</source><year>2021</year><volume>7</volume><fpage>372</fpage><lpage>388</lpage><pub-id pub-id-type="doi">10.1038/s41578-021-00399-5</pub-id><pub-id pub-id-type="pmid">34900343</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B39-microorganisms-12-01047">
+        <label>39.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Murad</surname><given-names>S.</given-names></name>
+<name><surname>Fuller</surname><given-names>S.</given-names></name>
+<name><surname>Menary</surname><given-names>J.</given-names></name>
+<name><surname>Moore</surname><given-names>C.</given-names></name>
+<name><surname>Pinneh</surname><given-names>E.</given-names></name>
+<name><surname>Szeto</surname><given-names>T.</given-names></name>
+<name><surname>Hitzeroth</surname><given-names>I.</given-names></name>
+<name><surname>Freire</surname><given-names>M.</given-names></name>
+<name><surname>Taychakhoonavudh</surname><given-names>S.</given-names></name>
+<name><surname>Phoolcharoen</surname><given-names>W.</given-names></name>
+<etal/>
+</person-group><article-title>Molecular Pharming for low and middle income countries</article-title><source>Curr. Opin. Biotechnol.</source><year>2020</year><volume>61</volume><fpage>53</fpage><lpage>59</lpage><pub-id pub-id-type="doi">10.1016/j.copbio.2019.10.005</pub-id><pub-id pub-id-type="pmid">31751895</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B40-microorganisms-12-01047">
+        <label>40.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Tsekoa</surname><given-names>T.L.</given-names></name>
+<name><surname>Singh</surname><given-names>A.A.</given-names></name>
+<name><surname>Buthelezi</surname><given-names>S.G.</given-names></name>
+</person-group><article-title>Molecular farming for therapies and vaccines in Africa</article-title><source>Curr. Opin. Biotechnol.</source><year>2020</year><volume>61</volume><fpage>89</fpage><lpage>95</lpage><pub-id pub-id-type="doi">10.1016/j.copbio.2019.11.005</pub-id><pub-id pub-id-type="pmid">31786432</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B41-microorganisms-12-01047">
+        <label>41.</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<name><surname>Hodson</surname><given-names>J.</given-names></name>
+</person-group>
+          <article-title>Centre for Epidemic Response and Innovation (CERI)</article-title>
+          <comment>Available online: <ext-link xlink:href="https://www.csir.co.za/dr-patrick-soon-shiong-and-nantafrica-announce-launch-covid-19-and-cancer-vaccine-initiative" ext-link-type="uri">https://www.csir.co.za/dr-patrick-soon-shiong-and-nantafrica-announce-launch-covid-19-and-cancer-vaccine-initiative</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-02-11">(accessed on 11 February 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B42-microorganisms-12-01047">
+        <label>42.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chhiba-Govindjee</surname><given-names>V.P.</given-names></name>
+<name><surname>Mathiba</surname><given-names>K.</given-names></name>
+<name><surname>van der Westhuyzen</surname><given-names>C.W.</given-names></name>
+<name><surname>Steenkamp</surname><given-names>P.</given-names></name>
+<name><surname>Rashamuse</surname><given-names>J.K.</given-names></name>
+<name><surname>Stoychev</surname><given-names>S.</given-names></name>
+<name><surname>Bode</surname><given-names>M.L.</given-names></name>
+<name><surname>Brady</surname><given-names>D.</given-names></name>
+</person-group><article-title>Dimethylformamide is a novel nitrilase inducer in <italic toggle="yes">Rhodococcus rhodochrous</italic></article-title><source>Appl. Microbiol. Biotechnol.</source><year>2018</year><volume>102</volume><fpage>10055</fpage><lpage>10065</lpage><pub-id pub-id-type="doi">10.1007/s00253-018-9367-9</pub-id><pub-id pub-id-type="pmid">30244278</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B43-microorganisms-12-01047">
+        <label>43.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mokoena</surname><given-names>N.B.</given-names></name>
+<name><surname>Moetlhoa</surname><given-names>B.</given-names></name>
+<name><surname>Rutkowska</surname><given-names>D.A.</given-names></name>
+<name><surname>Mamputha</surname><given-names>S.</given-names></name>
+<name><surname>Dibakwane</surname><given-names>V.S.</given-names></name>
+<name><surname>Tsekoa</surname><given-names>T.L.</given-names></name>
+<name><surname>O&#x2019;Kennedy</surname><given-names>M.M.</given-names></name>
+</person-group><article-title>Plant-produced Bluetongue chimaeric VLP vaccine candidates elicit serotype-specific immunity in sheep</article-title><source>Vaccine</source><year>2019</year><volume>37</volume><fpage>6068</fpage><lpage>6075</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2019.08.042</pub-id><pub-id pub-id-type="pmid">31471154</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B44-microorganisms-12-01047">
+        <label>44.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Delpino</surname><given-names>M.V.</given-names></name>
+<name><surname>Estein</surname><given-names>S.M.</given-names></name>
+<name><surname>Fossati</surname><given-names>C.A.</given-names></name>
+<name><surname>Baldi</surname><given-names>P.C.</given-names></name>
+<name><surname>Cassataro</surname><given-names>J.</given-names></name>
+</person-group><article-title>Vaccination with Brucella recombinant DnaK and SurA proteins induces protection against Brucella abortus infection in BALB/c mice</article-title><source>Vaccine</source><year>2007</year><volume>25</volume><fpage>6721</fpage><lpage>6729</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2007.07.002</pub-id><pub-id pub-id-type="pmid">17686554</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B45-microorganisms-12-01047">
+        <label>45.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pasquevich</surname><given-names>K.A.</given-names></name>
+<name><surname>Estein</surname><given-names>S.M.</given-names></name>
+<name><surname>Samartino</surname><given-names>C.G.</given-names></name>
+<name><surname>Zwerdling</surname><given-names>A.</given-names></name>
+<name><surname>Coria</surname><given-names>L.M.</given-names></name>
+<name><surname>Barrionuevo</surname><given-names>P.</given-names></name>
+<name><surname>Fossati</surname><given-names>C.A.</given-names></name>
+<name><surname>Giambartolomei</surname><given-names>G.H.</given-names></name>
+<name><surname>Cassataro</surname><given-names>J.</given-names></name>
+</person-group><article-title>Immunization with Recombinant Brucella Species Outer Membrane Protein Omp16 or Omp19 in Adjuvant Induces Specific CD4+ and CD8+ T Cells as Well as Systemic and Oral Protection against Brucella abortus Infection</article-title><source>Infect. Immun.</source><year>2009</year><volume>77</volume><fpage>436</fpage><lpage>445</lpage><pub-id pub-id-type="doi">10.1128/IAI.01151-08</pub-id><pub-id pub-id-type="pmid">18981242</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B46-microorganisms-12-01047">
+        <label>46.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gupta</surname><given-names>V.</given-names></name>
+<name><surname>Radhakrishnan</surname><given-names>G.</given-names></name>
+<name><surname>Harms</surname><given-names>J.</given-names></name>
+<name><surname>Splitter</surname><given-names>G.</given-names></name>
+</person-group><article-title>Invasive Escherichia coli vaccines expressing <italic toggle="yes">Brucella melitensis</italic> outer membrane proteins 31 or 16 or periplasmic protein BP26 confer protection in mice challenged with <italic toggle="yes">B. melitensis</italic></article-title><source>Vaccine</source><year>2012</year><volume>30</volume><fpage>4017</fpage><lpage>4022</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2012.04.036</pub-id><pub-id pub-id-type="pmid">22546330</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B47-microorganisms-12-01047">
+        <label>47.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yin</surname><given-names>D.</given-names></name>
+<name><surname>Li</surname><given-names>L.</given-names></name>
+<name><surname>Song</surname><given-names>D.</given-names></name>
+<name><surname>Liu</surname><given-names>Y.</given-names></name>
+<name><surname>Ju</surname><given-names>W.</given-names></name>
+<name><surname>Song</surname><given-names>X.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Pang</surname><given-names>B.</given-names></name>
+<name><surname>Xu</surname><given-names>K.</given-names></name>
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><article-title>A novel recombinant multi-epitope protein against <italic toggle="yes">Brucella melitensis</italic> infection</article-title><source>Immunol. Lett.</source><year>2016</year><volume>175</volume><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.imlet.2016.04.016</pub-id><pub-id pub-id-type="pmid">27133932</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B48-microorganisms-12-01047">
+        <label>48.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jackson</surname><given-names>S.J.</given-names></name>
+<name><surname>Andrews</surname><given-names>N.</given-names></name>
+<name><surname>Ball</surname><given-names>D.</given-names></name>
+<name><surname>Bellantuono</surname><given-names>I.</given-names></name>
+<name><surname>Gray</surname><given-names>J.</given-names></name>
+<name><surname>Hachoumi</surname><given-names>L.</given-names></name>
+<name><surname>Holmes</surname><given-names>A.</given-names></name>
+<name><surname>Latcham</surname><given-names>J.</given-names></name>
+<name><surname>Petrie</surname><given-names>A.</given-names></name>
+<name><surname>Potter</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Does age matter? The impact of rodent age on study outcomes</article-title><source>Lab. Anim.</source><year>2017</year><volume>51</volume><fpage>160</fpage><lpage>169</lpage><pub-id pub-id-type="doi">10.1177/0023677216653984</pub-id><pub-id pub-id-type="pmid">27307423</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B49-microorganisms-12-01047">
+        <label>49.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>A Montaraz</surname><given-names>J.</given-names></name>
+<name><surname>Winter</surname><given-names>A.J.</given-names></name>
+</person-group><article-title>Comparison of living and nonliving vaccines for Brucella abortus in BALB/c mice</article-title><source>Infect. Immun.</source><year>1986</year><volume>53</volume><fpage>245</fpage><lpage>251</lpage><pub-id pub-id-type="doi">10.1128/iai.53.2.245-251.1986</pub-id><pub-id pub-id-type="pmid">3089933</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B50-microorganisms-12-01047">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Barquero-Calvo</surname><given-names>E.</given-names></name>
+<name><surname>Chac&#xF3;n-D&#xED;az</surname><given-names>C.</given-names></name>
+<name><surname>Chaves-Olarte</surname><given-names>E.</given-names></name>
+<name><surname>Moreno</surname><given-names>E.</given-names></name>
+</person-group>
+          <article-title>Bacterial Counts in Spleen</article-title>
+          <source>Bio-Protocol</source>
+          <year>2013</year>
+          <volume>3</volume>
+          <elocation-id>e954</elocation-id>
+          <pub-id pub-id-type="doi">10.21769/BioProtoc.954</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51-microorganisms-12-01047">
+        <label>51.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Thuenemann</surname><given-names>E.C.</given-names></name>
+<name><surname>Meyers</surname><given-names>A.E.</given-names></name>
+<name><surname>Verwey</surname><given-names>J.</given-names></name>
+<name><surname>Rybicki</surname><given-names>E.P.</given-names></name>
+<name><surname>Lomonossoff</surname><given-names>G.P.</given-names></name>
+</person-group><article-title>A method for rapid production of heteromultimeric protein complexes in plants: Assembly of protective bluetongue virus-like particles</article-title><source>Plant Biotechnol. J.</source><year>2013</year><volume>11</volume><fpage>839</fpage><lpage>846</lpage><pub-id pub-id-type="doi">10.1111/pbi.12076</pub-id><pub-id pub-id-type="pmid">23647743</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B52-microorganisms-12-01047">
+        <label>52.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>French</surname><given-names>T.J.</given-names></name>
+</person-group><article-title>(NERC Institute of Virology and Environmental Microbiology, Oxford, United Kingdom), Roy P. Synthesis of bluetongue virus (BTV) corelike particles by a recombinant baculovirus expressing the two major structural core proteins of BTV</article-title><source>J. Virol.</source><year>1990</year><volume>64</volume><fpage>1530</fpage><lpage>1536</lpage><pub-id pub-id-type="doi">10.1128/jvi.64.4.1530-1536.1990</pub-id><pub-id pub-id-type="pmid">2157041</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B53-microorganisms-12-01047">
+        <label>53.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goenka</surname><given-names>R.</given-names></name>
+<name><surname>Parent</surname><given-names>M.A.</given-names></name>
+<name><surname>Elzer</surname><given-names>P.H.</given-names></name>
+<name><surname>Baldwin</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>B Cell&#x2013;deficient Mice Display Markedly Enhanced Resistance to the Intracellular Bacterium Brucella abortus</article-title><source>J. Infect. Dis.</source><year>2011</year><volume>203</volume><fpage>1136</fpage><lpage>1146</lpage><pub-id pub-id-type="doi">10.1093/infdis/jiq171</pub-id><pub-id pub-id-type="pmid">21451002</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B54-microorganisms-12-01047">
+        <label>54.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sadeghi</surname><given-names>Z.</given-names></name>
+<name><surname>Fasihi-Ramandi</surname><given-names>M.</given-names></name>
+<name><surname>Bouzari</surname><given-names>S.</given-names></name>
+</person-group><article-title>Nanoparticle-Based Vaccines for Brucellosis: Calcium Phosphate Nanoparticles-Adsorbed Antigens Induce Cross Protective Response in Mice</article-title><source>Int. J. Nanomed.</source><year>2020</year><volume>15</volume><fpage>3877</fpage><lpage>3886</lpage><pub-id pub-id-type="doi">10.2147/IJN.S249942</pub-id><pub-id pub-id-type="pmid">32581535</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B55-microorganisms-12-01047">
+        <label>55.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+<name><surname>Mikhailov</surname><given-names>M.</given-names></name>
+<name><surname>Bishop</surname><given-names>D.H.</given-names></name>
+</person-group><article-title>Baculovirus multigene expression vectors and their use for understanding the assembly process of architecturally complex virus particles</article-title><source>Gene</source><year>1997</year><volume>190</volume><fpage>119</fpage><lpage>129</lpage><pub-id pub-id-type="doi">10.1016/S0378-1119(96)00619-1</pub-id><pub-id pub-id-type="pmid">9185857</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B56-microorganisms-12-01047">
+        <label>56.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+<name><surname>Sutton</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>New generation of African horse sickness virus vaccines based on structural and molecular studies of the virus particles</article-title>
+          <source>African Horse Sickness</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Vienna, Austria</publisher-loc>
+          <year>1998</year>
+          <volume>Volume 14</volume>
+          <fpage>177</fpage>
+          <lpage>202</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B57-microorganisms-12-01047">
+        <label>57.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grimes</surname><given-names>J.</given-names></name>
+<name><surname>Basak</surname><given-names>A.K.</given-names></name>
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+<name><surname>Stuart</surname><given-names>D.</given-names></name>
+</person-group><article-title>The crystal structure of bluetongue virus VP7</article-title><source>Nature</source><year>1995</year><volume>373</volume><fpage>167</fpage><lpage>170</lpage><pub-id pub-id-type="doi">10.1038/373167a0</pub-id><pub-id pub-id-type="pmid">7816101</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B58-microorganisms-12-01047">
+        <label>58.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Topp</surname><given-names>E.</given-names></name>
+<name><surname>Irwin</surname><given-names>R.</given-names></name>
+<name><surname>McAllister</surname><given-names>T.</given-names></name>
+<name><surname>Lessard</surname><given-names>M.</given-names></name>
+<name><surname>Joensuu</surname><given-names>J.J.</given-names></name>
+<name><surname>Kolotilin</surname><given-names>I.</given-names></name>
+<name><surname>Conrad</surname><given-names>U.</given-names></name>
+<name><surname>St&#xF6;ger</surname><given-names>E.</given-names></name>
+<name><surname>Mor</surname><given-names>T.</given-names></name>
+<name><surname>Warzecha</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group><article-title>The case for plant-made veterinary immunotherapeutics</article-title><source>Biotechnol. Adv.</source><year>2016</year><volume>34</volume><fpage>597</fpage><lpage>604</lpage><pub-id pub-id-type="doi">10.1016/j.biotechadv.2016.02.007</pub-id><pub-id pub-id-type="pmid">26875776</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B59-microorganisms-12-01047">
+        <label>59.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vishnu</surname><given-names>U.S.</given-names></name>
+<name><surname>Sankarasubramanian</surname><given-names>J.</given-names></name>
+<name><surname>Gunasekaran</surname><given-names>P.</given-names></name>
+<name><surname>Rajendhran</surname><given-names>J.</given-names></name>
+</person-group><article-title>Novel Vaccine Candidates against <italic toggle="yes">Brucella melitensis</italic> Identified through Reverse Vaccinology Approach</article-title><source>OMICS A J. Integr. Biol.</source><year>2015</year><volume>19</volume><fpage>722</fpage><lpage>729</lpage><pub-id pub-id-type="doi">10.1089/omi.2015.0105</pub-id><pub-id pub-id-type="pmid">26479901</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B60-microorganisms-12-01047">
+        <label>60.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Nazifi</surname><given-names>N.</given-names></name>
+<name><surname>Tahmoorespur</surname><given-names>M.</given-names></name>
+<name><surname>Sekhavati</surname><given-names>M.H.</given-names></name>
+<name><surname>Haghparast</surname><given-names>A.</given-names></name>
+<name><surname>Behroozikhah</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>In vivo immunogenicity assessment and vaccine efficacy evaluation of a chimeric tandem repeat of epitopic region of OMP31 antigen fused to interleukin 2 (IL-2) against Brucella melitensis in BALB/c mice</article-title><source>BMC Veter. Res.</source><year>2019</year><volume>15</volume><elocation-id>402</elocation-id><pub-id pub-id-type="doi">10.1186/s12917-019-2074-7</pub-id><pub-id pub-id-type="pmid">31703683</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B61-microorganisms-12-01047">
+        <label>61.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>A.</given-names></name>
+<name><surname>Sharma</surname><given-names>A.</given-names></name>
+<name><surname>Tirpude</surname><given-names>N.V.</given-names></name>
+<name><surname>Padwad</surname><given-names>Y.</given-names></name>
+<name><surname>Hallan</surname><given-names>V.</given-names></name>
+<name><surname>Kumar</surname><given-names>S.</given-names></name>
+</person-group><article-title>Plant-derived immuno-adjuvants in vaccines formulation: A promising avenue for improving vaccines efficacy against SARS-CoV-2 virus</article-title><source>Pharmacol. Rep.</source><year>2022</year><volume>74</volume><fpage>1238</fpage><lpage>1254</lpage><pub-id pub-id-type="doi">10.1007/s43440-022-00418-4</pub-id><pub-id pub-id-type="pmid">36125739</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B62-microorganisms-12-01047">
+        <label>62.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>X.</given-names></name>
+<name><surname>Baldwin</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>Effects of cytokines on intracellular growth of <italic toggle="yes">Brucella abortus</italic></article-title><source>Infect. Immun.</source><year>1993</year><volume>61</volume><fpage>124</fpage><lpage>134</lpage><pub-id pub-id-type="doi">10.1128/iai.61.1.124-134.1993</pub-id><pub-id pub-id-type="pmid">8418034</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B63-microorganisms-12-01047">
+        <label>63.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Paranavitana</surname><given-names>C.</given-names></name>
+<name><surname>Zelazowska</surname><given-names>E.</given-names></name>
+<name><surname>Izadjoo</surname><given-names>M.</given-names></name>
+<name><surname>Hoover</surname><given-names>D.</given-names></name>
+</person-group><article-title>Interferon-&#x3B3; associated cytokines and chemokines produced by spleen cells from Brucella-immune mice</article-title><source>Cytokine</source><year>2005</year><volume>30</volume><fpage>86</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1016/j.cyto.2004.12.009</pub-id><pub-id pub-id-type="pmid">15804600</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B64-microorganisms-12-01047">
+        <label>64.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Resende</surname><given-names>M.</given-names></name>
+<name><surname>Cardoso</surname><given-names>M.S.</given-names></name>
+<name><surname>Ribeiro</surname><given-names>A.R.</given-names></name>
+<name><surname>Fl&#xF3;rido</surname><given-names>M.</given-names></name>
+<name><surname>Borges</surname><given-names>M.</given-names></name>
+<name><surname>Castro</surname><given-names>A.G.</given-names></name>
+<name><surname>Alves</surname><given-names>N.L.</given-names></name>
+<name><surname>Cooper</surname><given-names>A.M.</given-names></name>
+<name><surname>Appelberg</surname><given-names>R.</given-names></name>
+</person-group><article-title>Innate IFN-&#x3B3;-Producing Cells Developing in the Absence of IL-2 Receptor Common &#x3B3;-Chain</article-title><source>J. Immunol.</source><year>2017</year><volume>199</volume><fpage>1429</fpage><lpage>1439</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.1601701</pub-id><pub-id pub-id-type="pmid">28687660</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B65-microorganisms-12-01047">
+        <label>65.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Blasco</surname><given-names>J.</given-names></name>
+</person-group><article-title>A review of the use of <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine in adult sheep and goats</article-title><source>Prev. Veter. Med.</source><year>1997</year><volume>31</volume><fpage>275</fpage><lpage>283</lpage><pub-id pub-id-type="doi">10.1016/S0167-5877(96)01110-5</pub-id><pub-id pub-id-type="pmid">9234451</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="microorganisms-12-01047-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>SDS-PAGE analysis of selected iodixanol fractions from gradients containing plant lysate with chimeric and wild-type (WT) Orbivirus CLPs. <italic toggle="yes">N. benthamiana</italic> dXT-FT leaves, infiltrated with recombinant Agrobacteria, were harvested 8 days post-infiltration and clarified lysates centrifuged through 60&#x2013;20% iodixanol gradients. The gradients were fractionated, and 1/19 of fractions 7&#x2013;10 (30&#x2013;20% iodixanol) were assessed for the presence of VP7 and VP3 capsid proteins via 4&#x2013;12% Bolt polyacrylamide gels. (<bold>a</bold>) Lane 1 contains the SeeBlue Plus 2 Prestained Protein Standard (Thermo Fisher Scientific, Waltham, MA, USA) as a marker protein (M) and the relevant sizes are indicated. Lanes 2&#x2013;5 contain iodixanol fractions 9 of the WT, P1, P2 and P3 CLP gradients, respectively. Lane 6 contains an unrelated sample. (<bold>b</bold>) Lane 1 contains the PageRuler<sup>TM</sup> Plus Prestained protein ladder (Thermo Fisher Scientific, Waltham, MA, USA) as a marker protein (M) and the relevant sizes are indicated. Lanes 2&#x2013;5 contain iodixanol fractions 7&#x2013;10 of the P4 CLP gradient, respectively. Lanes 6&#x2013;9 contain iodixanol fractions 7&#x2013;10 of the P5 CLP gradient, respectively. Red arrows indicate the position of the VP3 (103.2 KDa) and chimeric/WT VP7 (approximately 37.8 KDa) proteins on the PAGE gel.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g001" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-01047-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>Transmission electron micrograph (TEM) images of density-gradient-purified Orbivirus CLPs containing chimeric or wild-type VP7 protein. P1 CLPs are visualised in (<bold>a</bold>), P2 CLPs are visualised in (<bold>b</bold>), P3 CLPs are visualised in (<bold>c</bold>), P4 CLPs are visualised in (<bold>d</bold>), P5 CLPs are visualised in (<bold>e</bold>) and wild-type (wt) CLPs are visualised in (<bold>f</bold>). CLPs from fraction 8 from each gradient were adsorbed onto carbon-coated holey copper grids and stained with sodium uranyl acetate. These CLPs were visualized with a Philips CM 10 transmission electron microscope. Scale bars indicate 0.2 &#x3BC;m. Indicated with yellow arrows are the CLPs (60 nm).</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g002a" position="float"/>
+      <graphic xlink:href="microorganisms-12-01047-g002b" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-01047-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>Plots of CD8+ vs. CD4+ cells in groups of animals from the animal trial. Cells from untouched animals (Group 1), Rev 1 vaccinated animals (Group 3), P3 CLP vaccinated animals (Group 4), P2, P3 and P4 vaccinated animals (Group 5) and P2 CLP vaccinated animals (Group 6) are depicted in (<bold>A</bold>&#x2013;<bold>E</bold>), respectively.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g003" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-01047-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>Plots of CD8+ versus IFN-gamma in groups of animals from the animal trial. CD8+ cells and IFN-gamma from untouched animals (Group 1), Rev 1 vaccinated animals (Group 3), P3 CLP vaccinated animals (Group 4), P2, P3 and P4 vaccinated animals (Group 5) and P2 CLP vaccinated animals (Group 6) are depicted in (<bold>A</bold>&#x2013;<bold>E</bold>), respectively.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g004" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-01047-f005">
+      <label>Figure 5</label>
+      <caption>
+        <p>Plots of CD4+ versus IFN-gamma in groups of animals from the animal trial. CD4+ cells and IFN-gamma from untouched animals (Group 1), Rev 1 vaccinated animals (Group 3), P3 CLP vaccinated animals (Group 4), P2, P3 and P4 CLP vaccinated animals (Group 5) and P2 CLP vaccinated animals (Group 6) are depicted (<bold>A</bold>&#x2013;<bold>E</bold>), respectively.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g005" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-01047-f006">
+      <label>Figure 6</label>
+      <caption>
+        <p>Bar graph depicting the average numbers of bacteria in the 10<sup>&#x2212;3</sup> dilution of the spleen homogenates of each group. The standard deviations in each group are also indicated. NC: negative control. PC: positive control.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-01047-g006" position="float"/>
+    </fig>
+    <table-wrap position="float" id="microorganisms-12-01047-t001">
+      <object-id pub-id-type="pii">microorganisms-12-01047-t001_Table 1</object-id>
+      <label>Table 1</label>
+      <caption>
+        <p>Protective efficacy trial in 9-week-old female BALB/c mice.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Group</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Primary (i.p)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Boost (i.p)</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Challenge<break/>with Virulent <italic toggle="yes">Brucella melitensis</italic> Strain i.p</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Animals per Group (n)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Day 1</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Day 15</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Day 45</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Day 75</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G1 Untouched control</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice untouched</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice untouched</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">-</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G2 Negative control</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 mice injected with Bicine buffer + adj (100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10 mice injected with Bicine buffer + adj (100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays;<break/>5 mice challenged with 5 &#xD7; 10<sup>5</sup>
+<italic toggle="yes">B.melitensis</italic></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for spleen bacterial counts</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G3 Positive control (<italic toggle="yes">Brucella melitensis</italic> vaccine Rev 1)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice vaccinated with Rev1 5 &#xD7; 10<sup>5</sup></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice vaccinated with Rev1 5 &#xD7; 10<sup>5</sup></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays;<break/>5 mice challenged with 5 &#xD7; 10<sup>5</sup>
+<italic toggle="yes">B.melitensis</italic></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for spleen bacterial counts</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G4 Test Group</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice inoculated with P3 CLPs + adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice boosted with P3 CLPs + adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays;<break/>5 mice challenged with 5 &#xD7; 10<sup>5</sup>&#xA0;<italic toggle="yes">B. melitensis</italic></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for spleen bacterial counts</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G5 Test Group</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice inoculated with P2 + P3 + P4 CLPs + adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice boosted with P2 + 3 + 4 CLPs + adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays;<break/>5 mice challenged with 5 &#xD7; 10<sup>5</sup>
+<italic toggle="yes">B. melitensis</italic>
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for spleen bacterial counts</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">G6 Test Group</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice inoculated with P2 CLPs+ adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">All 10 mice boosted with P2 CLPs + adj (2 &#x3BC;g/100 &#x3BC;L/mouse)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for cellular immune assays;<break/>5 mice challenged with 5 &#xD7; 10<sup>5</sup>
+<italic toggle="yes">B. melitensis</italic></td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 mice sacrificed for spleen bacterial counts</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">55</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>Five mice from each group sacrificed and their spleens harvested for cellular assays (Day 45). Remaining 5 mice from each group challenged with <italic toggle="yes">B. melitensis</italic> for protection assay (Bacterial spleen counts). Five mice from each group sacrificed on Day 75 and their spleens collected for bacterial cell counts (Efficacy). I.P: Intraperitoneal; Ag: Antigen; Adj: Adjuvant; FS: Filter-sterilized.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="microorganisms-12-01047-t002">
+      <object-id pub-id-type="pii">microorganisms-12-01047-t002_Table 2</object-id>
+      <label>Table 2</label>
+      <caption>
+        <p>Average number of colony-forming units (cfus)/spleen in animal trial groups.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+            <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Average cfu */Spleen</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group 2 (Negative control)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.05 &#xD7; 10<sup>5</sup> (<italic toggle="yes">SD</italic> = 3.75 &#xD7; 10<sup>5</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group 3 (Rev1 vaccine Positive control)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.7 &#xD7; 10<sup>5</sup> (<italic toggle="yes">SD</italic> = 0.8 &#xD7; 10<sup>5</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group 4 (P3 CLPs)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">11.01 &#xD7; 10<sup>5</sup> (<italic toggle="yes">SD</italic> = 15.5 &#xD7; 10<sup>5</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group 5 (P2, P3, P4 CLPs)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.625 &#xD7; 10<sup>5</sup> (<italic toggle="yes">SD</italic> = 0.75 &#xD7; 10<sup>5</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Group 6 (P2 CLPs)</td>
+            <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.7 &#xD7; 10<sup>5</sup> (<italic toggle="yes">SD</italic> = 1.29 &#xD7; 10<sup>5</sup>)</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>* cfu = colony-forming unit.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

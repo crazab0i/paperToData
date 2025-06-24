@@ -1,0 +1,1235 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Genet Eng Biotechnol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Genet Eng Biotechnol</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Genetic Engineering &amp; Biotechnology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1687-157X</issn>
+      <issn pub-type="epub">2090-5920</issn>
+      <publisher>
+        <publisher-name>Springer Berlin Heidelberg</publisher-name>
+        <publisher-loc>Berlin/Heidelberg</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">38019359</article-id>
+      <article-id pub-id-type="pmc">10686926</article-id>
+      <article-id pub-id-type="publisher-id">614</article-id>
+      <article-id pub-id-type="doi">10.1186/s43141-023-00614-6</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Immunoinformatics analysis of <italic>Brucella melitensis</italic> to approach a suitable vaccine against brucellosis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8039-9792</contrib-id>
+          <name>
+            <surname>Hashemzadeh</surname>
+            <given-names>Pejman</given-names>
+          </name>
+          <address>
+            <email>Pejman7genetian@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0889-3635</contrib-id>
+          <name>
+            <surname>nezhad</surname>
+            <given-names>Saba Asgari</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0681-4094</contrib-id>
+          <name>
+            <surname>Khoshkhabar</surname>
+            <given-names>Hossein</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/035t7rn63</institution-id><institution-id institution-id-type="GRID">grid.508728.0</institution-id><institution-id institution-id-type="ISNI">0000 0004 0612 1516</institution-id><institution>Department of Medical Biotechnology, School of Medicine, </institution><institution>Lorestan University of Medical Sciences, </institution></institution-wrap>Khorramabad, Lorestan Iran </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/035t7rn63</institution-id><institution-id institution-id-type="GRID">grid.508728.0</institution-id><institution-id institution-id-type="ISNI">0000 0004 0612 1516</institution-id><institution>Department of Immunology, School of Medicine, </institution><institution>Lorestan University of Medical Sciences, </institution></institution-wrap>Khorramabad, Lorestan Iran </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>29</day>
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>12</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>21</volume>
+      <elocation-id>152</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>2</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>14</day>
+          <month>11</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Brucellosis caused by <italic>B. melitensis</italic> is one of the most important common diseases between humans and livestock. Currently, live attenuated vaccines are used for this disease, which causes many problems, and unfortunately, there is no effective vaccine for human brucellosis. The aim of our research was to design a recombinant vaccine containing potential immunogenic epitopes against <italic>B. melitensis</italic>.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">In this study, using immunoinformatics approaches, 3 antigens Omp31, Omp25, and Omp28 were identified and the amino acid sequence of the selected antigens was determined in NCBI. Signal peptides were predicted by SignaIP-5.0 server. To predict B-cell epitopes from ABCpred and Bcepred servers, to predict MHC-I epitopes from RANKPEP and SYFPEITHI servers, to predict MHC-II epitopes from RANKPEP and MHCPred servers, and to predict CTL epitopes were used from the CTLPred server. Potentially immunogenic final epitopes were joined by flexible linkers. Finally, allergenicity (AllerTOP 2.0 server), antigenicity (Vaxijen server), physicochemical properties (ProtParam server), solubility (Protein-sol server), secondary (PSIPRED and GRO4 servers) and tertiary structure (I-TASSER server), refinement (GalaxyWEB server), validation (ProSA-web, Molprobity, and ERRAT servers), and optimization of the codon sequence (JCat server) of the structure of the multi-epitope vaccine were analyzed.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">The analysis of immunoinformatics tools showed that the designed vaccine has high quality, acceptable physicochemical properties, and can induce humoral and cellular immune responses against <italic>B. melitensis</italic> bacteria. In addition, the high expression level of recombinant antigens in the <italic>E. coli</italic> host was observed through in silico simulation.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p id="Par4">According to the results in silico, the designed vaccine can be a suitable candidate to fight brucellosis and in vitro and in vivo studies are needed to evaluate the research of this study.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Multi-epitope vaccine</kwd>
+        <kwd>Brucellosis</kwd>
+        <kwd>Immunoinformatics</kwd>
+        <kwd>Epitope prediction</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; Academy of Scientific Research and Technology 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par5"><italic>Brucella</italic> are facultative intracellular and gram-negative coccobacillus bacteria, which causes brucellosis in a variety of animal species and humans. <italic>Brucella melitensis</italic>, <italic>Brucella abortus</italic>, and <italic>Brucella suis</italic> are the maximum malignant species in order of pathogenicity [<xref ref-type="bibr" rid="CR1">1</xref>].</p>
+      <p id="Par6">Brucellosis is a global zoonotic disease which endemic in plenty countries, including the Latin America, Africa, central Asia, and Middle East [<xref ref-type="bibr" rid="CR2">2</xref>]. This disease not only causes problems for humans, but also causes great damage to livestock and agriculture. Features of the disease with chronic infections with symptoms are such as arthritis, undulating osteomyelitis, and fever in humans, as well as with reduced fertility and abortion in animals [<xref ref-type="bibr" rid="CR3">3</xref>&#x2013;<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+      <p id="Par7">Therefore, it is very important to strengthen the diagnosis and treatment of this disease [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>]. Accordingly, a novel vaccine aimed at stimulating the immune system&#x2019;s response has a high potential for success. But unfortunately, an effective and no side effects vaccine for human brucellosis is not available yet [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>]. All available animal vaccines are based on live weakened strains of <italic>Brucella</italic> (Rev1, S19, and RB51), which can be potentially effective but are infectious to humans and cause abortion in pregnant animals [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>].</p>
+      <p id="Par8">Due to the limitations and disadvantages of live, attenuated vaccines, a new treatment method is needed. Peptide vaccines based on multiple epitopes have advantages compared to live attenuated vaccines, because the production of these novel vaccines is relatively fast and cheap, and they are also safe for the host [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. Research has shown that multi-epitope vaccines containing immune cell epitopes are able to stimulate protective immunity against different diseases [<xref ref-type="bibr" rid="CR14">14</xref>&#x2013;<xref ref-type="bibr" rid="CR16">16</xref>]. A useful peptide-based vaccine should include T-cell epitopes and B-cell epitopes to stimulate numerous humoral and cellular immunity system response [<xref ref-type="bibr" rid="CR17">17</xref>&#x2013;<xref ref-type="bibr" rid="CR19">19</xref>].</p>
+      <p id="Par9">The clue to important brucellosis diagnosis and treatment is to find efficient antigen. Hence, the development of efficient antigens is crucial for improving performance the immune system response of brucellosis multi-epitope vaccines and the sensitivity and specificity of diagnosis and treatment methods [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>].</p>
+      <p id="Par10">Nevertheless, the recognition of antigenic epitopes as novel vaccine candidates for designing recombinant vaccines is a costly and time-consuming method. Recently, due to the advances in structure and immunoinformatics vaccinology, the prediction of epitopes for T-lymphocytes and B-lymphocytes helps researchers to identify specific peptides [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]. In this work, using previous studies and immunoinformatics tools, three antigens for the new recombinant vaccine against brucellosis including 31&#xA0;kDa outer membrane protein (Omp31), outer membrane protein 25 (Omp25), and outer membrane protein 28 (Omp28) were selected and evaluated. Antigens in the outer membranes of bacteria (OMPs) play an essential role in stimulating the immune system [<xref ref-type="bibr" rid="CR24">24</xref>]. The characteristics of selected antigens are as follows:</p>
+      <p id="Par11">Omp31 is a play an essential role in conferring defense against <italic>Brucella</italic> and main membrane protein of <italic>Brucella</italic>. This antigen is a significant virulence factor of <italic>Brucella</italic> and is of high potential as an antigenic protein for vaccination [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+      <p id="Par12">Studies have shown that Omp25 protein is highly conserved in different species of <italic>Brucella</italic>. Omp25 is highly immunogenic and leads to an inflammatory response in brucellosis by activating MAPK signaling pathway [<xref ref-type="bibr" rid="CR26">26</xref>].</p>
+      <p id="Par13">Researchers use suitable adjuvants to induce effective immunity in the vaccine. Adjuvants can increase the immunogenicity of antigens and create effective and long-lasting immune responses [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]. Therefore, Omp28 protein was used. Omp28 is considered as an important outer membrane protein of <italic>Brucella</italic> and it has also been reported that Omp28 peptide with CpG oligonucleotide as an adjuvant can induce an immune response, indicating that this protein stimulates the immune system [<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+      <p id="Par14">Immunoinformatics or computational immunology is the interface between computer science and experimental immunology, which represents the use of computational methods and resources to understand immunological information [<xref ref-type="bibr" rid="CR30">30</xref>]. Therefore, to confirm the availability of the recombinant structure, the physicochemical properties, allergenicity, antigenicity, solubility, secondary, and tertiary structures of the vaccine were analyzed with different immunoinformatics servers. The results showed that the designed recombinant construct can be used to fight <italic>B. melitensis</italic>.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <p id="Par15">Summarized steps of the designing multi-epitope vaccine are presented as flowchart shown in Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>.<fig id="Fig1"><label>Fig. 1</label><caption><p>Schematic representation of multi-epitope vaccine design against <italic>B. melitensis</italic></p></caption><graphic xlink:href="43141_2023_614_Fig1_HTML" id="MO1"/></fig></p>
+      <sec id="Sec3">
+        <title>Sequence analysis</title>
+        <p id="Par16">The complete amino acid sequences of Omp31 (accession ACS50328.1), Omp25 (accession AEF59022), and Omp28 (accession AEF59021) were retrieved from the National Centre for Biotechnology Information (NCBI) at <ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov">www.ncbi.nlm.nih.gov</ext-link> in FASTA format [<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Prediction of signal peptide</title>
+        <p id="Par17">The SignalP-5.0 server (<ext-link ext-link-type="uri" xlink:href="https://services.healthtech.dtu.dk/service.php?SignalP-5.0">https://services.healthtech.dtu.dk/service.php?SignalP-5.0</ext-link>) provides a resource for predicting signal peptide cleavage sites in proteins. This server uses convolutional and recurrent (LSTM) neural networks to identify sequence motifs of different lengths [<xref ref-type="bibr" rid="CR32">32</xref>].</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Prediction of B-cell epitopes</title>
+        <p id="Par18">The B-cell epitopes of Omp31, Omp25, and Omp28 antigens were predicted using ABCpred (<ext-link ext-link-type="uri" xlink:href="http://crdd.osdd.net/raghava/abcpred/">http://crdd.osdd.net/raghava/abcpred/</ext-link>) and Bcepred (<ext-link ext-link-type="uri" xlink:href="http://crdd.osdd.net/raghava/bcepred/">http://crdd.osdd.net/raghava/bcepred/</ext-link>) servers [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]. Prediction of B-cell epitopes in ABCpred server using artificial neural network technique [<xref ref-type="bibr" rid="CR35">35</xref>]. Bcepred server to predict B-cell epitopes using physico-chemical properties. The results of Bcepred server are presented in graphic and tabular format. This server predicts epitopes with 58.7% accuracy and 2.38 threshold [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Prediction of MHC-I epitopes</title>
+        <p id="Par19">The MHC-I epitopes of Omp31, Omp25, and Omp28 antigens were predicted by RANKPEP (<ext-link ext-link-type="uri" xlink:href="http://imed.med.ucm.es/Tools/rankpep.html">http://imed.med.ucm.es/Tools/rankpep.html</ext-link>) and SYFPEITHI (<ext-link ext-link-type="uri" xlink:href="http://syfpeithi.de/">http://syfpeithi.de/</ext-link>) server [<xref ref-type="bibr" rid="CR37">37</xref>]. The RANKPEP servers rank all possible epitopes from an input antigen using position-specific scoring matrices (PSSM). MHC-I-restricted epitopes are predicted at a threshold of 2&#x2013;3% of high-scoring peptides [<xref ref-type="bibr" rid="CR38">38</xref>]. SYFPEITHI server uses binding status scoring qualitative prediction methods for T-cell epitope prediction [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Prediction of MHC-II epitopes</title>
+        <p id="Par20">The MHC-II epitopes of Omp31, Omp25, and Omp28 antigens were predicted by MHCPred V.2.0. (<ext-link ext-link-type="uri" xlink:href="http://www.ddg-pharmfac.net/mhcpred/MHCPred/">http://www.ddg-pharmfac.net/mhcpred/MHCPred/</ext-link>) and RANKPEP (<ext-link ext-link-type="uri" xlink:href="http://imed.med.ucm.es/Tools/rankpep.html">http://imed.med.ucm.es/Tools/rankpep.html</ext-link>) servers. The RANKPEP server ranks all possible epitopes from an input antigen using position-specific scoring matrices (PSSM). MHC-II-restricted epitopes are predicted at a threshold of 4&#x2013;6% of high-scoring peptides [<xref ref-type="bibr" rid="CR38">38</xref>]. MHCPred uses an additive method to predict MHC-II epitopes as well as transporter-associated processing (TAP). The order of epitopes is arranged based on IC50 values. If the IC50 value is higher than 5000, the peptide does not bind to MHC molecules. Therefore, epitopes with lower IC50 values are selected [<xref ref-type="bibr" rid="CR40">40</xref>].</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Prediction of CTL epitopes</title>
+        <p id="Par21">The CTL (cytotoxic T lymphocyte) epitopes of Omp31, Omp25, and Omp28 antigens was predicted using CTLPred (<ext-link ext-link-type="uri" xlink:href="http://crdd.osdd.net/raghava/ctlpred/applying">http://crdd.osdd.net/raghava/ctlpred/applying</ext-link>) server. This server predicts CTL epitopes based on artificial neural network (SVM) and support vector machine (ANN). CTLpred server accuracy is 75.8% [<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Epitope selection and construction of novel vaccine</title>
+        <p id="Par22">The results were compared and regions with the highest score and with the maximum overlap that induce the cellular and humoral immune responses were identified and finally the selected epitopes were joined by linkers.</p>
+        <sec id="Sec10">
+          <title>Linkers</title>
+          <p id="Par23">The final selected epitopes need a certain degree of flexibility; in this research, two flexible linkers (GSGSGS and GGGGS) were used to connect the epitopes.</p>
+        </sec>
+      </sec>
+      <sec id="Sec11">
+        <title>Evaluation of antigenicity and allergenicity of the novel vaccine</title>
+        <p id="Par24">Recombinant vaccine was experiment for antigenicity using VaxiJen v2.0 server (<ext-link ext-link-type="uri" xlink:href="http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html">http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html</ext-link>) with a threshold value&#x2009;&#x2265;&#x2009;0.4. This server&#x2019;s approach for antigen prediction is based on auto cross covariance (ACC) transformation of protein sequences into uniform vectors with amino acid features [<xref ref-type="bibr" rid="CR42">42</xref>]. Allertop v2.0 server (<ext-link ext-link-type="uri" xlink:href="https://www.ddg-pharmfac.net/AllerTOP/">https://www.ddg-pharmfac.net/AllerTOP/</ext-link>) with threshold value of&#x2009;&#x2212;&#x2009;0.4 was used to prevent allergic reactions to recombinant vaccine epitopes. The approach of this server is based on converting ACC of protein sequence into uniform vectors of equal length [<xref ref-type="bibr" rid="CR43">43</xref>].</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Physicochemical characterization and solubility novel vaccine</title>
+        <p id="Par25">The ProtParam server) <ext-link ext-link-type="uri" xlink:href="https://web.expasy.org/protparam/">https://web.expasy.org/protparam/</ext-link> (generates physico-chemical parameters for an amino acid sequence. The computed parameters include the grand average of hydropathicity (GRAVY), instability index, aliphatic index, extinction coefficient, atomic composition, estimated half-life, amino acid composition, theoretical pI, and molecular weight [<xref ref-type="bibr" rid="CR44">44</xref>].</p>
+        <p id="Par26">The Protein-sol server (<ext-link ext-link-type="uri" xlink:href="https://protein-sol.manchester.ac.uk/">https://protein-sol.manchester.ac.uk/</ext-link>) was used to analyze the solubility of the recombinant antigen. This server is a web based suite of theoretical calculations and predictive algorithms for understanding protein solubility and stability [<xref ref-type="bibr" rid="CR45">45</xref>].</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Protein secondary structure prediction</title>
+        <p id="Par27">PSIPRED web server (<ext-link ext-link-type="uri" xlink:href="http://bioinf.cs.ucl.ac.uk/psipred/">http://bioinf.cs.ucl.ac.uk/psipred/</ext-link>) was used to predict the second structure. This server uses a very stringent cross-validation method to evaluate the performance of the method. The Q3 score averages 81.6% [<xref ref-type="bibr" rid="CR46">46</xref>].</p>
+        <p id="Par28">GOR IV server (<ext-link ext-link-type="uri" xlink:href="https://npsa.lyon.inserm.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_gor4.html">https://npsa.lyon.inserm.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_gor4.html</ext-link>) was used to predict secondary structure novel multi-epitopes construct [<xref ref-type="bibr" rid="CR47">47</xref>].</p>
+      </sec>
+      <sec id="Sec14">
+        <title>Protein tertiary structure prediction</title>
+        <p id="Par29">I-TASSER server (<ext-link ext-link-type="uri" xlink:href="https://zhanggroup.org/I-TASSER/">https://zhanggroup.org/I-TASSER/</ext-link>) was used to predict the 3D structure and function of recombinant antigen. This server uses a hierarchical method for prediction. The evaluation parameter of this server to choose the best model is based on C-score. C-score is a confidence score for estimating the quality of the predicted 3D structures; the score range of this server is (&#x2212;&#x2009;5, 2), where a C-score with a higher score indicates a higher quality model [<xref ref-type="bibr" rid="CR48">48</xref>, <xref ref-type="bibr" rid="CR49">49</xref>].</p>
+      </sec>
+      <sec id="Sec15">
+        <title>Refinement of the 3D modeled structure</title>
+        <p id="Par30">GalaxyRefine server (<ext-link ext-link-type="uri" xlink:href="http://galaxy.seoklab.org/cgi-bin/submit.cgi">http://galaxy.seoklab.org/cgi-bin/submit.cgi</ext-link>) is used to refine the best 3D model of I-TASSER server. This server provides more accurate structures for determining the experimental structure, functional study, and molecular design [<xref ref-type="bibr" rid="CR50">50</xref>].</p>
+      </sec>
+      <sec id="Sec16">
+        <title>Validation of the 3D modeled structure</title>
+        <p id="Par31">Three-dimensional refined recombinant vaccine structures were validated by ProSAweb, Molprobity, and ERRAT servers. The ProSAweb server at <ext-link ext-link-type="uri" xlink:href="https://prosa.services.came.sbg.ac.at/prosa.php">https://prosa.services.came.sbg.ac.at/prosa.php</ext-link> calculates the overall quality score by checking it out the atomic peculiarities of the model. The ProSA-web <italic>z</italic>-score is depicted on a plan, which contains the <italic>z</italic>-score of the experimental structures entrusted in PDB. This server only needs C&#x3B1; atoms to evaluate low-resolution structures [<xref ref-type="bibr" rid="CR51">51</xref>]. Molprobity server (<ext-link ext-link-type="uri" xlink:href="http://molprobity.biochem.duke.edu">http://molprobity.biochem.duke.edu</ext-link>) was used for the Ramachandran plot [<xref ref-type="bibr" rid="CR52">52</xref>]. Calculate phi/psi angles (&#x3D5;, &#x3C8;) for any antigenic protein residue, and the residuals include favored regions, allowed regions, and outlier regions [<xref ref-type="bibr" rid="CR53">53</xref>]. Also, the ERRAT tool (<ext-link ext-link-type="uri" xlink:href="https://saves.mbi.ucla.edu/">https://saves.mbi.ucla.edu/</ext-link>) was used. This tool is used to verifying protein structures determined by crystallography [<xref ref-type="bibr" rid="CR54">54</xref>].</p>
+      </sec>
+      <sec id="Sec17">
+        <title>Optimization and in silico cloning</title>
+        <p id="Par32">The amino acid sequence of the recombinant vaccine was converted to DNA sequence (Reverse Translate) using SMS (Sequence Manipulation Suite) server (<ext-link ext-link-type="uri" xlink:href="https://www.bioinformatics.org/sms2/">https://www.bioinformatics.org/sms2/</ext-link>) [<xref ref-type="bibr" rid="CR55">55</xref>]. The JCAT server (<ext-link ext-link-type="uri" xlink:href="http://www.jcat.de/">http://www.jcat.de/</ext-link><underline>)</underline> was used to optimize and increase the expression (avoiding cleavage sites for restriction enzymes, predicting GC content, and codon adaption index score (CAI) of the recombinant vaccine protein in the <italic>E. coli</italic> K12 system [<xref ref-type="bibr" rid="CR56">56</xref>]. In the end, to clone the recombinant vaccine sequence in the pET-26b vector, HindIII and BamHI restriction sites were added for the N and C terminal of the sequence, respectively.</p>
+      </sec>
+    </sec>
+    <sec id="Sec18">
+      <title>Results</title>
+      <sec id="Sec19">
+        <title>Sequence analysis</title>
+        <p id="Par33">In the present study, Omp31, Omp25, and Omp28 proteins with 240, 213, and 250 amino acids, respectively, were selected as immunogenic proteins for recombinant vaccine design. The sequences of these proteins were obtained from the NCBI database.</p>
+      </sec>
+      <sec id="Sec20">
+        <title>Prediction of signal peptide</title>
+        <p id="Par34">SignalP-5.0 server was used to predict the signal peptides of Omp31, Omp25, and Omp28 proteins. The signal peptide sequence of Omp31, Omp25, and Omp28 was MKSVILASIAAMFATSAMA, MRTLKSLVIVSAALLPFSATAFA, and MNTRASNFLAASFSTIMLVGAFSLPAFA, respectively (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>). The signal peptide sequences were removed from the epitope prediction of the 3 selected proteins.<fig id="Fig2"><label>Fig. 2</label><caption><p>By SignalP-5.0 server, the peptide signal of selected antigens was checked. SP (Sec/SPI), type of signal peptide predicted; CS, the cleavage sits; Other, the probability that the sequence does not have any kind of signal peptide. The signal peptide sequence of Omp31 (<bold>a</bold>), Omp25 (<bold>b</bold>), and Omp28 (<bold>c</bold>) was MKSVILASIAAMFATSAMA, MRTLKSLVIVSAALLPFSATAFA, and MNTRASNFLAASFSTIMLVGAFSLPAFA, respectively</p></caption><graphic xlink:href="43141_2023_614_Fig2_HTML" id="MO2"/></fig></p>
+      </sec>
+      <sec id="Sec21">
+        <title>Prediction of B-cell epitopes</title>
+        <p id="Par35">Three selected antigens were predicted B-cell epitopes using Bcepred server. The amino acid sequence was analyzed based on properties such as hydrophilicity, flexibility, antigenic propensity, and exposed surface of this server. The results of this server are shown as graphical result and overlap display in Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>.<fig id="Fig3"><label>Fig. 3</label><caption><p>B-cell epitopes of Omp31 (<bold>a</bold>), Omp25 (<bold>b</bold>), and Omp28 (<bold>c</bold>) antigens were predicted using Bcepred server. The results of this server are shown as graphical result based on features such as hydrophilicity, flexibility, antigenic propensity, and exposed surface</p></caption><graphic xlink:href="43141_2023_614_Fig3_HTML" id="MO3"/></fig></p>
+        <p id="Par36">To further ensure the obtained results, ABCpred server was used to predict B-cell epitopes. The results of this server are shown in Table <xref rid="Tab1" ref-type="table">1</xref>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Results of prediction of B-cell epitopes using ABCpred server are shown</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Antigen</th><th align="left">Sequence</th><th align="left">Start position</th><th align="left">Score</th></tr></thead><tbody><tr><td align="left" rowspan="5">Omp31</td><td align="left">YIGINAGYAGGKFKHP</td><td align="left">25</td><td align="left">0.93</td></tr><tr><td align="left">LHTWSDKTKAGWTLGA</td><td align="left">155</td><td align="left">0.90</td></tr><tr><td align="left">GWTLGAGAEYAINNNW</td><td align="left">165</td><td align="left">0.89</td></tr><tr><td align="left">TGSISAGASGLEGKAE</td><td align="left">93</td><td align="left">0.88</td></tr><tr><td align="left">VVSEPSAPTAAPVDTF</td><td align="left">4</td><td align="left">0.86</td></tr><tr><td align="left" rowspan="5">Omp25</td><td align="left">QDQIVYGVEGDAGYSW</td><td align="left">63</td><td align="left">0.94</td></tr><tr><td align="left">GWTAGAGLEAKLTDNI</td><td align="left">135</td><td align="left">0.93</td></tr><tr><td align="left">TGLYLGYGWNKAKTST</td><td align="left">27</td><td align="left">0.91</td></tr><tr><td align="left">AGIAGSQIKLNNGLDD</td><td align="left">113</td><td align="left">0.91</td></tr><tr><td align="left">RVEYRYTQYGNKNYDL</td><td align="left">153</td><td align="left">0.89</td></tr><tr><td align="left" rowspan="5">Omp28</td><td align="left">MPMPIARGQFRTMLAA</td><td align="left">181</td><td align="left">0.89</td></tr><tr><td align="left">QPIYVYPDDKNNLKEP</td><td align="left">76</td><td align="left">0.88</td></tr><tr><td align="left">GEGMMTASPDMAILNL</td><td align="left">16</td><td align="left">0.88</td></tr><tr><td align="left">LGVNQGGDLNLVNDNP</td><td align="left">122</td><td align="left">0.88</td></tr><tr><td align="left">PARIAVTGEGMMTASP</td><td align="left">9</td><td align="left">0.87</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec22">
+        <title>Prediction of MHC-I epitopes</title>
+        <p id="Par37">RANKPEP and SYFPEITHI servers were used to predict MHC-I epitopes of antigens. The results of SYFPEITHI and RANKPEP servers for selecting the best epitopes of Omp31, Omp25, and Omp28 antigens are shown in Table <xref rid="Tab2" ref-type="table">2</xref>.<table-wrap id="Tab2"><label>Table 2</label><caption><p>The prediction results of MHC-I epitopes using RANKPEP and SYFPEITHI servers are shown</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Server</th><th align="left">Antigen</th><th align="left">Sequence</th><th align="left">Start position</th><th align="left">Score</th></tr></thead><tbody><tr><td align="left" rowspan="12">RANKPEP</td><td align="left" rowspan="4">Omp31</td><td align="left">YAINNNWTL</td><td align="left">174</td><td align="left">20.94</td></tr><tr><td align="left">AINNNWTLK</td><td align="left">175</td><td align="left">17.59</td></tr><tr><td align="left">WQLDNGVVL</td><td align="left">73</td><td align="left">16.82</td></tr><tr><td align="left">YIGINAGYA</td><td align="left">25</td><td align="left">11.45</td></tr><tr><td align="left" rowspan="4">Omp25</td><td align="left">YGNKNYDLA</td><td align="left">161</td><td align="left">21.78</td></tr><tr><td align="left">FAGWNFQQD</td><td align="left">56</td><td align="left">19.94</td></tr><tr><td align="left">GYGWNKAKT</td><td align="left">32</td><td align="left">8.52</td></tr><tr><td align="left">DLNPVMPYL</td><td align="left">103</td><td align="left">5.34</td></tr><tr><td align="left" rowspan="4">Omp28</td><td align="left">MAILNLSVL</td><td align="left">26</td><td align="left">20.64</td></tr><tr><td align="left">TGGINIQPI</td><td align="left">70</td><td align="left">17.99</td></tr><tr><td align="left">AAPDNSVPI</td><td align="left">196</td><td align="left">13.39</td></tr><tr><td align="left">AAGENSYNV</td><td align="left">205</td><td align="left">12.14</td></tr><tr><td align="left" rowspan="12">SYFPEITHI</td><td align="left" rowspan="4">Omp31</td><td align="left">YAINNNWTL</td><td align="left">174</td><td align="left">27</td></tr><tr><td align="left">WQLDNGVVL</td><td align="left">73</td><td align="left">25</td></tr><tr><td align="left">LGKRNLVDV</td><td align="left">191</td><td align="left">21</td></tr><tr><td align="left">ESKVNFHTV</td><td align="left">205</td><td align="left">21</td></tr><tr><td align="left" rowspan="4">Omp25</td><td align="left">FAGWNFQQD</td><td align="left">56</td><td align="left">18</td></tr><tr><td align="left">AGGYTGLYL</td><td align="left">23</td><td align="left">17</td></tr><tr><td align="left">VMPYLTAGI</td><td align="left">107</td><td align="left">16</td></tr><tr><td align="left">TAGIAGSQI</td><td align="left">112</td><td align="left">16</td></tr><tr><td align="left" rowspan="4">Omp28</td><td align="left">AAPDNSVPI</td><td align="left">196</td><td align="left">30</td></tr><tr><td align="left">MAILNLSVL</td><td align="left">26</td><td align="left">28</td></tr><tr><td align="left">AMTANNEAM</td><td align="left">43</td><td align="left">25</td></tr><tr><td align="left">TGGINIQPI</td><td align="left">70</td><td align="left">25</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec23">
+        <title>Prediction of MHC-II epitopes</title>
+        <p id="Par38">MHCPred V.2.0. and RANKPEP servers were used to predict MHC-II epitopes of antigens. The results of MHCPred V.2.0. and RANKPEP servers for selecting the best epitopes of Omp31, Omp25, and Omp28 antigens are shown in Table <xref rid="Tab3" ref-type="table">3</xref>.<table-wrap id="Tab3"><label>Table 3</label><caption><p>The prediction results of MHC-II epitopes using RANKPEP and MHCPred servers are shown</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left" rowspan="13">RANKPEP</td><td align="left">Antigen</td><td align="left">Sequence</td><td align="left">Start position</td><td align="left">Score</td></tr><tr><td align="left" rowspan="4">Omp31</td><td align="left">VEWFGTVRA</td><td align="left">111</td><td align="left">10.84</td></tr><tr><td align="left">KVEWFGTVR</td><td align="left">110</td><td align="left">7.57</td></tr><tr><td align="left">VTAGGFVGG</td><td align="left">58</td><td align="left">6.12</td></tr><tr><td align="left">GGFVGGVQA</td><td align="left">61</td><td align="left">3.29</td></tr><tr><td align="left" rowspan="4">Omp25</td><td align="left">GSLRARVGY</td><td align="left">94</td><td align="left">8.16</td></tr><tr><td align="left">QDFRVGIGY</td><td align="left">180</td><td align="left">7.45</td></tr><tr><td align="left">RARVGYDLN</td><td align="left">97</td><td align="left">3.96</td></tr><tr><td align="left">VMPYLTAGI</td><td align="left">107</td><td align="left">2.76</td></tr><tr><td align="left" rowspan="4">Omp28</td><td align="left">RGQFRTMLA</td><td align="left">187</td><td align="left">20.51</td></tr><tr><td align="left">VRELANVGK</td><td align="left">106</td><td align="left">15.91</td></tr><tr><td align="left">VVEISELSR</td><td align="left">170</td><td align="left">14.60</td></tr><tr><td align="left">ISELSRPPM</td><td align="left">173</td><td align="left">8.42</td></tr><tr><td align="left" rowspan="13">MHCPred</td><td align="left">Antigen</td><td align="left">Sequence</td><td align="left">Start position</td><td align="left">Predicted -logIC50 (M)</td></tr><tr><td align="left" rowspan="4">Omp31</td><td align="left">YNWQLDNGV</td><td align="left">71</td><td align="left">7.537</td></tr><tr><td align="left">FDKEDNEQV</td><td align="left">44</td><td align="left">7.531</td></tr><tr><td align="left">VDNSFLESK</td><td align="left">199</td><td align="left">7.52</td></tr><tr><td align="left">YLYTDLGKR</td><td align="left">186</td><td align="left">7.5</td></tr><tr><td align="left" rowspan="4">Omp25</td><td align="left">KLDTQDFRV</td><td align="left">176</td><td align="left">7.42</td></tr><tr><td align="left">YDLNPVMPY</td><td align="left">102</td><td align="left">7.41</td></tr><tr><td align="left">DLNPVMPYL</td><td align="left">103</td><td align="left">7.35</td></tr><tr><td align="left">YSWAGGYTG</td><td align="left">20</td><td align="left">7.25</td></tr><tr><td align="left" rowspan="4">Omp28</td><td align="left">GENSYNVSV</td><td align="left">207</td><td align="left">7.4</td></tr><tr><td align="left">GMMTASPDM</td><td align="left">18</td><td align="left">7.3</td></tr><tr><td align="left">KNNLKEPTI</td><td align="left">85</td><td align="left">7.2</td></tr><tr><td align="left">NLVNDNPSA</td><td align="left">131</td><td align="left">7</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec24">
+        <title>Prediction of CTL epitopes</title>
+        <p id="Par39">The CTLPred server was used to predict the potential CTL epitopes. The results of this server for Omp31, Omp25, and Omp28 antigens are shown in Table <xref rid="Tab4" ref-type="table">4</xref>.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Results of prediction of CTL epitopes using CTLPred server are shown</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Antigen</th><th align="left">Sequence</th><th align="left">Start position</th><th align="left">Score</th></tr></thead><tbody><tr><td align="left" rowspan="3">Omp31</td><td align="left">AGAEYAINNN</td><td align="left">170</td><td align="left">1.000</td></tr><tr><td align="left">EPSAPTAAP</td><td align="left">7</td><td align="left">0.990</td></tr><tr><td align="left">YTATERLMV</td><td align="left">123</td><td align="left">0.990</td></tr><tr><td align="left" rowspan="3">Omp25</td><td align="left">APVEVAPQY</td><td align="left">12</td><td align="left">0.990</td></tr><tr><td align="left">PQYSWAGGY</td><td align="left">18</td><td align="left">0.990</td></tr><tr><td align="left">GWTAGAGLE</td><td align="left">135</td><td align="left">0.990</td></tr><tr><td align="left" rowspan="3">Omp28</td><td align="left">DNPSAVINE</td><td align="left">135</td><td align="left">1.000</td></tr><tr><td align="left">RKRAVANAI</td><td align="left">145</td><td align="left">1.000</td></tr><tr><td align="left">DMAILNLSV</td><td align="left">25</td><td align="left">0.990</td></tr></tbody></table></table-wrap></p>
+      </sec>
+      <sec id="Sec25">
+        <title>Epitope selection and construction of novel vaccine</title>
+        <p id="Par40">Based on B-cell, MHC-I, MHC-II, and CTL epitopes, which have high overlap and good score, thirty-one epitopes of Omp31, Omp25, and Omp28 antigens were selected as the final regions. The epitopes selected from each antigen were fused by GSGSGS and GGGGS linkers. Finally, the recombinant sequence including epitopes and linkers is shown in Fig.&#xA0;<xref rid="Fig4" ref-type="fig">4</xref>.<fig id="Fig4"><label>Fig. 4</label><caption><p>A representation of the amino acid sequence of the recombinant vaccine</p></caption><graphic xlink:href="43141_2023_614_Fig4_HTML" id="MO4"/></fig></p>
+      </sec>
+      <sec id="Sec26">
+        <title>Evaluation of antigenicity and allergenicity of the novel vaccine</title>
+        <p id="Par41">The results obtained by the AllerTOP 2.0 server showed that the designed vaccine is non-allergenic. The probability of antigenicity of the vaccine was predicted by the Vaxijen server to be 1.4616% at a threshold of 0.4%, which means that our vaccine can stimulate the immune system.</p>
+      </sec>
+      <sec id="Sec27">
+        <title>Physicochemical characterization and solubility novel vaccine</title>
+        <p id="Par42">The results of ProtParam and protein-sol servers are shown in Table <xref rid="Tab5" ref-type="table">5</xref>. Analysis of the ProtParam server showed that the recombinant vaccine could be classified as a stable protein. The negative value of the GRAVY (grand average of hydropathy) indicates the non-polarity of this recombinant protein. The high value of the aliphatic index of the recombinant protein showed that protein is thermo-stable over a wide temperature range. The analysis of the protein-sol server showed that the target protein is soluble (Fig.&#xA0;<xref rid="Fig5" ref-type="fig">5</xref>).<table-wrap id="Tab5"><label>Table 5</label><caption><p>Analysis of physicochemical properties of recombinant vaccine</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Physicochemical properties</th><th align="left">Result</th></tr></thead><tbody><tr><td align="left">Number of amino acids</td><td align="left">618</td></tr><tr><td align="left">Molecular weight</td><td align="left">60079.77</td></tr><tr><td align="left">Theoretical Pi</td><td align="left">4.920</td></tr><tr><td align="left">Total number of negatively charged residues (Asp&#x2009;+&#x2009;Glu)</td><td align="left">51</td></tr><tr><td align="left">Total number of positively charged residues (Arg&#x2009;+&#x2009;Lys)</td><td align="left">39</td></tr><tr><td align="left">Total number of atoms</td><td align="left">8136</td></tr><tr><td align="left">instability index (II)</td><td align="left">18.75</td></tr><tr><td align="left">Aliphatic index</td><td align="left">51.36</td></tr><tr><td align="left">Grand average of hydropathicity (GRAVY)</td><td align="left">&#x2009;&#x2212;&#x2009;0.517</td></tr><tr><td align="left">Solubility</td><td align="left">0.546</td></tr></tbody></table></table-wrap><fig id="Fig5"><label>Fig. 5</label><caption><p>The analysis of the Protein-sol server showed that the target recombinant vaccine is soluble. The solubility of the vaccine construct was shown to be 0.546 compared to 0.45 of the population average solubility of <italic>E. coli</italic></p></caption><graphic xlink:href="43141_2023_614_Fig5_HTML" id="MO5"/></fig></p>
+      </sec>
+      <sec id="Sec28">
+        <title>Protein secondary structure prediction</title>
+        <p id="Par43">The graphical representation of secondary structure specification by PSIPRED server is shown in Fig.&#xA0;<xref rid="Fig6" ref-type="fig">6</xref>. Secondary structure specifications result by GRO4 server included 27.51% extended strand, 8.90% alpha helix, and 63.59% random coil (Fig.&#xA0;<xref rid="Fig7" ref-type="fig">7</xref>).<fig id="Fig6"><label>Fig. 6</label><caption><p>Graphic representation of the characteristics of the second structure of the recombinant vaccine. Alpha-helix residues, coil residues, and beta-strand residues are shown in pink, gray, and yellow, respectively</p></caption><graphic xlink:href="43141_2023_614_Fig6_HTML" id="MO6"/></fig><fig id="Fig7"><label>Fig. 7</label><caption><p>Secondary structure specifications are shown by the GRO4 server. Alpha helixs, extended strands, and beta turns are shown in blue, red, and green, respectively</p></caption><graphic xlink:href="43141_2023_614_Fig7_HTML" id="MO7"/></fig></p>
+      </sec>
+      <sec id="Sec29">
+        <title>Protein tertiary structure prediction</title>
+        <p id="Par44">Five models were predicted by I-TASSER server for tertiary structure. The predicted models had C-score values in the range of&#x2009;&#x2212;&#x2009;1.43 to&#x2009;&#x2212;&#x2009;3.59. Since the C-score with a higher score indicates a higher quality model, then model one with a C-score of&#x2009;&#x2212;&#x2009;1.43 was selected (Fig.&#xA0;<xref rid="Fig8" ref-type="fig">8</xref>).<fig id="Fig8"><label>Fig. 8</label><caption><p>The 3D model of the vaccine construct obtained after homology modeling on I-TASSER</p></caption><graphic xlink:href="43141_2023_614_Fig8_HTML" id="MO8"/></fig></p>
+      </sec>
+      <sec id="Sec30">
+        <title>Refinement and validation of the 3D modeled structure</title>
+        <p id="Par45">The predicted 3D structure is refined by the GalaxyWEB server. The refined model was validated by ProSA-web, Molprobity, and ERRAT servers. The ProSA-web server was checked for the recombinant vaccine and the <italic>z</italic>-score value of&#x2009;&#x2212;&#x2009;3.47 was provided (Fig.&#xA0;<xref rid="Fig9" ref-type="fig">9</xref>a). The Ramachandran plot for the recombinant vaccine was examined and showed that 79.3% residues in most favored regions, 17.0% residues in additional allowed regions, 1.3% residues in generously allowed regions, and 2.4% residues in disallowed regions (Fig.&#xA0;<xref rid="Fig9" ref-type="fig">9</xref>b). The ERRAT tool showed a quality score of 61.842% (Fig.&#xA0;<xref rid="Fig9" ref-type="fig">9</xref>c).<fig id="Fig9"><label>Fig. 9</label><caption><p><bold>a</bold> The <italic>z</italic>-score value of the recombinant vaccine is&#x2009;&#x2212;&#x2009;3.47, which was obtained by the ProSA-web server. <bold>b</bold> The 3D structure of the purified recombinant vaccine was evaluated by Molprobity server: 79.3% residues in most favored regions, 17.0% residues in additional allowed regions, 1.3% residues in generously allowed regions, and 2.4% residues in disallowed regions. <bold>c</bold> The quality score value of the recombinant vaccine is 61.842%, which was obtained by the ERRAT server</p></caption><graphic xlink:href="43141_2023_614_Fig9_HTML" id="MO9"/></fig></p>
+      </sec>
+      <sec id="Sec31">
+        <title>Optimization and in silico cloning</title>
+        <p id="Par46">The JCat server improved the nucleotide sequence of the recombinant vaccine and changed the CAI-value of the pasted sequence from 0.5 to 1.0 and the GC-content of the pasted sequence from 65.21 to 51.29%. These results indicate the excellent potential of high expression of the recombinant vaccine in the <italic>E. coli</italic> host (Fig.&#xA0;<xref rid="Fig10" ref-type="fig">10</xref>).<fig id="Fig10"><label>Fig. 10</label><caption><p>The results of JCat server improved the nucleotide sequence of the recombinant vaccine and changed the GC-content to about 51.29% and CAI value of 1.0</p></caption><graphic xlink:href="43141_2023_614_Fig10_HTML" id="MO10"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="Sec32">
+      <title>Discussion</title>
+      <p id="Par47">Brucellosis is one of the common diseases between humans and animals, which is associated with fever in humans and abortion in animals [<xref ref-type="bibr" rid="CR57">57</xref>]. Approximately 500,000 cases of brucellosis are reported annually worldwide. The spread of this disease is increasing due to tourist trips, trade, and immigration [<xref ref-type="bibr" rid="CR58">58</xref>]. Lack of effective human vaccine, long treatment period, relatively low efficiency of animal vaccines, and the process of prevention and treatment of this disease have faced serious problems. Accordingly, there is an urgent need for new approaches or effective recombinant vaccines to fight against <italic>Brucella</italic> [<xref ref-type="bibr" rid="CR59">59</xref>, <xref ref-type="bibr" rid="CR60">60</xref>].</p>
+      <p id="Par48">Currently, human vaccine against this disease is not available and the vaccines that are used are live attenuated vaccines to immunize animals, but these vaccines have problems such as abortion in livestock, disease in humans, and production of antibodies that make it difficult to diagnose infected animals from vaccinated animals [<xref ref-type="bibr" rid="CR61">61</xref>].</p>
+      <p id="Par49">Therefore, trying to produce an effective vaccine to prevent this infection is inevitable. Studies show that in vaccine design, the use of several different antigens in the vaccine composition can be more effective in its performance [<xref ref-type="bibr" rid="CR62">62</xref>, <xref ref-type="bibr" rid="CR63">63</xref>]. In this research, we used different immunoinformatics tools to design a multi-epitope recombinant construct. According to previous research, Omp31, Omp25, and Omp28 antigens were selected for use in this study, because they are highly conserved and effective in creating an immune response [<xref ref-type="bibr" rid="CR64">64</xref>, <xref ref-type="bibr" rid="CR65">65</xref>].</p>
+      <p id="Par50">In the first step of this study, using in silico tools, we identified the immunogenic epitopes of 3 antigens and removed the signal peptide sequences from the final antigen sequences.</p>
+      <p id="Par51">Previous studies show that in order to increase the effectiveness of <italic>Brucella</italic> vaccines, they should stimulate humoral and cellular immune responses [<xref ref-type="bibr" rid="CR66">66</xref>]. Therefore, the second step in this study is to predict the potential epitopes of B cells, MHC-I, MHC-II, and CTL, which were predicted by online servers (ABCpred, Bcepred, RANKPEP, SYFPEITHI, MHCPred, and CTLPred). Then, the epitopes with the highest score and the most overlap (thirty-one epitopes) were selected and fused together by flexible linkers (GSGSGS and GGGGS). Linkers are an important component of multi-epitope fusion antigens, increase stability in the structure of recombinant antigens, and improve biological activity and increase expression efficiency [<xref ref-type="bibr" rid="CR67">67</xref>].</p>
+      <p id="Par52">The third step of this study was the examination of the immunological characteristics and the physical and chemical characteristics of the recombinant construct, which was analyzed based on immunoinformatics methods. The obtained results showed that the recombinant construct is a strong antigen and non-allergenic and had an acceptable solubility percentage. The results of physicochemical properties by ProtParam tool showed that this multi-epitope protein is classified as a stable protein.</p>
+      <p id="Par53">The fourth step of this study was to investigate the secondary and tertiary structure of the recombinant vaccine. Studies on secondary structures showed 27.51% extended strand, 8.90% alpha helix, and 63.59% random coil. The results of the three-dimensional structure of the recombinant vaccine by the I-TASSER server showed that model 1 is the best model to choose among the 5 models, because model 1 has an estimated TM score of 0.54&#x2009;&#xB1;&#x2009;0.15 (TM score over 0.5 always indicates the correct model) and C-score of&#x2009;&#x2212;&#x2009;1.43 (the highest C-score among the 5 models).</p>
+      <p id="Par54">The fifth step of this study was to modify the 3D model by GalaxyWEB server. And after refining the 3D structure, the model was validated by ProSA-web, Molprobity, and ERRAT servers. From the ProSA-web server, the <italic>z</italic>-score shows the overall quality of the model. Its value is displayed in the graph (<italic>z</italic>-score&#x2009;&#x2212;&#x2009;3.47), which includes the <italic>z</italic>-scores of all experimental protein chains determined in the recombinant protein structure. The Ramachandran plot showed 79.3% residues in most favored regions, 17.0% residues in additional allowed regions, 1.3% residues in generously allowed regions, and 2.4% residues in disallowed regions. The results of the Ramachandran plot show that the quality of the 3D structure is acceptable. Finally, the ERRAT tool has been used for non-bonded interactions between different types of atoms. The higher the scores in ERRAT, the higher the quality of the 3D structure. The accepted range for the model is higher than 50. The quality score of recombinant protein is 61.842%.</p>
+      <p id="Par55">In the final steps of this study, we optimized our recombinant nucleotide sequence to increase the expression of multi-epitope vaccine in <italic>E. coli</italic>. The codon compatibility index (CAI) of the sequence changed from 0.5 to 1.0 and the GC content of the sequence changed from 65.21 to 51.29%.</p>
+      <p id="Par56">The results of immunoinformatics analysis showed that the designed multi-epitope construct was a suitable antigen and has the ability to be tested as a vaccine candidate.</p>
+    </sec>
+    <sec id="Sec33">
+      <title>Conclusion</title>
+      <p id="Par57">In the present study, using in silico tools, a multi-epitope recombinant vaccine against <italic>B. melitensis</italic> was designed. The purpose of using this method is to save time and money as much as possible. Based on the results of immunoinformatics, the designed construction has virtuous structural, suitable physiochemical characteristics, high antigenicity, good stability, and appropriate solubility, as well as non-allergenic. Therefore, this recombinant vaccine can be used as a suitable candidate to fight against brucellosis infection. But in order to confirm the results of the present studies, the analysis of immunogenicity in in vitro and in vivo tests is very necessary.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Not applicable.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>PH selected the study idea and reviewed and edited the final version. PH AND SA contributed to the original analysis and reviewed and edited the manuscript. PH and HKH contributed to the original analysis and writing the original draft. All authors have read and approved the article.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>The authors received no funding for this project from any organization.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>The data that support the findings of this study are available on request from the corresponding author.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par58">This article does not contain any studies with human participants or animals performed by any of the authors.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par59">Not applicable.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par60">The authors declare no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">Aliyev J, Alakbarova M, Garayusifova A, Omarov A, Aliyeva S, Fretin D, Godfroid J (2022) Identification and molecular characterization of Brucella abortus and Brucella melitensis isolated from milk in cattle in Azerbaijan. BMC Vet Res 18(1):71. 10.1186/s12917-022-03155-1</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <mixed-citation publication-type="other">Jokar M, Rahmanian V, Golestani N, Raziee Y, Farhoodi M (2023) The Global Seroprevalence of Equine Brucellosis: A Systematic Review and Meta-analysis Based on Publications From 1990 to 2022. J Equine Vet Sci 123:104227. 10.1016/j.jevs.2023.104227</mixed-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aparicio</surname>
+              <given-names>ED</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of brucellosis in domestic animals caused by Brucella melitensis, Brucella suis and Brucella abortus</article-title>
+          <source>Rev Sci Tech</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.32.1.2187</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <mixed-citation publication-type="other">Gali&#x144;ska EM, Zag&#xF3;rski J (2013) Brucellosis in humans--etiology, diagnostics, clinical forms. Ann Agric Environ Med 20(2):233&#x2013;8</mixed-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dean</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Crump</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Greter</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Schelling</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Zinsstag</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Global burden of human brucellosis: a systematic review of disease frequency</article-title>
+          <source>PLoS Negl Trop Dis</source>
+          <year>2012</year>
+          <volume>6</volume>
+          <issue>10</issue>
+          <fpage>e1865</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id>
+          <pub-id pub-id-type="pmid">23145195</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alp</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Doganay</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Current therapeutic strategy in spinal brucellosis</article-title>
+          <source>Int J Infect Dis</source>
+          <year>2008</year>
+          <volume>12</volume>
+          <issue>6</issue>
+          <fpage>573</fpage>
+          <lpage>577</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2008.03.014</pub-id>
+          <pub-id pub-id-type="pmid">18539496</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bashir</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Al-Kawi</surname>
+              <given-names>MZ</given-names>
+            </name>
+            <name>
+              <surname>Harder</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Jinkins</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Nervous system brucellosis: diagnosis and treatment</article-title>
+          <source>Neurology</source>
+          <year>1985</year>
+          <volume>35</volume>
+          <issue>11</issue>
+          <fpage>1576</fpage>
+          <pub-id pub-id-type="doi">10.1212/WNL.35.11.1576</pub-id>
+          <pub-id pub-id-type="pmid">3877254</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <mixed-citation publication-type="other">Sarkar B, Ullah MA, Araf Y, Das S, Hosen MJ (2021) Blueprint of epitope-based multivalent and multipathogenic vaccines: targeted against the dengue and zika viruses. J Biomol Struct Dyn 39(18):6882&#x2013;902. 10.1080/07391102.2020.1804456</mixed-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Jia</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Pang</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The immunogenicity of OMP31 peptides and its protection against Brucella melitensis infection in mice</article-title>
+          <source>Sci Rep</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">30626917</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>Q</given-names>
+            </name>
+          </person-group>
+          <article-title>Research progress in live attenuated Brucella vaccine development</article-title>
+          <source>Curr Pharm Biotechnol</source>
+          <year>2013</year>
+          <volume>14</volume>
+          <issue>10</issue>
+          <fpage>887</fpage>
+          <lpage>896</lpage>
+          <pub-id pub-id-type="doi">10.2174/1389201014666131226123016</pub-id>
+          <pub-id pub-id-type="pmid">24372253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mailybayeva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yespembetov</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Ryskeldinova</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zinina</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Sansyzbay</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Renukaradhya</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Improved influenza viral vector based Brucella abortus vaccine induces robust B and T-cell responses and protection against Brucella melitensis infection in pregnant sheep and goats</article-title>
+          <source>PLoS ONE</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <issue>10</issue>
+          <fpage>e0186484</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0186484</pub-id>
+          <pub-id pub-id-type="pmid">29023541</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sadeghi</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Fasihi-Ramandi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bouzari</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of immunogenicity of novel multi-epitope subunit vaccines in combination with poly I: C against Brucella melitensis and Brucella abortus infection</article-title>
+          <source>Int Immunopharmacol</source>
+          <year>2019</year>
+          <volume>75</volume>
+          <fpage>105829</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.intimp.2019.105829</pub-id>
+          <pub-id pub-id-type="pmid">31437796</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <mixed-citation publication-type="other">Jorge S, Dellagostin OA (2017) The development of veterinary vaccines: a review of traditional methods and modern biotechnology approaches. Biotechnology Research and Innovation 1(1):6&#x2013;13. 10.1016/J.BIORI.2017.10.001</mixed-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <mixed-citation publication-type="other">Skwarczynski M, Toth I (2014) Recent advances in peptide-based subunit nanovaccines. Nanomedicine (Lond) 9(17):2657&#x2013;69. 10.2217/nnm.14.187</mixed-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <mixed-citation publication-type="other">Ben-Yedidia T, Arnon R (2005) Towards an epitope-based human vaccine for influenza. Hum Vaccin 1(3):95&#x2013;101. 10.4161/hv.1.3.1851</mixed-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <mixed-citation publication-type="other">Dariushnejad H, Ghorbanzadeh V, Akbari S, Hashemzadeh P (2021) Designing a Multi-epitope Peptide Vaccine Against COVID-19 Variants Utilizing In-silico Tools. Iran J Med Microbiol 15(5):592&#x2013;605 10.30699/ijmm.15.5.592</mixed-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <mixed-citation publication-type="other">Hashemzadeh P, Ghorbanzadeh V, Lashgarian HE, et al (2020) Harnessing Bioinformatic Approaches to Design Novel Multi-epitope Subunit Vaccine Against Leishmania infantum. Int J Pept Res Ther 26:1417&#x2013;28. 10.1007/s10989-019-09949-6</mixed-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <mixed-citation publication-type="other">Karimi Rouzbahani A, Kheirandish F, Hashemzadeh P (2022) Bioinformatics Analysis to Design a Multi-epitope-based Peptide Vaccine to Combat Leishmania major. Iran J Med Microbiol 16(5):430&#x2013;46. <ext-link ext-link-type="uri" xlink:href="http://ijmm.ir/article-1-1596-en.html">http://ijmm.ir/article-1-1596-en.html</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <mixed-citation publication-type="other">Hashemzadeh P, Karimi Rouzbahani A, Bandehpour M, Kheirandish F, Dariushnejad H, Mohamadi M (2020) Designing a recombinant multiepitope vaccine against Leishmania donovani based on immunoinformatics approaches. Minerva Biotechnol 32:52&#x2013;7. 10.23736/S1120-4826.20.02610-5</mixed-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yousefi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Abbassi-Daloii</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sekhavati</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Tahmoorespur</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of immune responses induced by polymeric OMP25-BLS Brucella antigen</article-title>
+          <source>Microb Pathog</source>
+          <year>2018</year>
+          <volume>115</volume>
+          <fpage>50</fpage>
+          <lpage>56</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.micpath.2017.12.045</pub-id>
+          <pub-id pub-id-type="pmid">29253594</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <mixed-citation publication-type="other">Elbehiry A, Aldubaib M, Marzouk E, Abalkhail A, Almuzaini AM, Rawway M, Alghamdi A, Alqarni A, Aldawsari M, Draz A (2023) "The Development of Diagnostic and Vaccine Strategies for Early Detection and Control of Human Brucellosis, Particularly in Endemic Areas". Vaccines 11(3):654. 10.3390/vaccines11030654</mixed-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <mixed-citation publication-type="other">Enayatkhani M, Hasaniazad M, Faezi S, Gouklani H, Davoodian P, Ahmadi N, et al (2020) Reverse vaccinology approach to design a novel multi-epitope vaccine candidate against COVID-19: an in silico study. J Biomol Struct Dyn 1&#x2013;16. 10.1080/07391102.2020.1756411</mixed-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <mixed-citation publication-type="other">El-Manzalawy Y, Honavar V (2010) Recent advances in B-cell epitope prediction methods. Immunome Res 6 Suppl 2(Suppl 2):S2&#x2013;S. 10.1186/1745-7580-6-S2-S2</mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">Dubray G, Charriaut C (1983) Evidence of three major polypeptide species and two major polysaccharide species in the Brucella outer membrane. Ann Rech Vet 14(3):311&#x2013;8</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cassataro</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pasquevich</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bruno</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wallach</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Fossati</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Baldi</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>Antibody reactivity to Omp31 from Brucella melitensis in human and animal infections by smooth and rough Brucellae</article-title>
+          <source>Clin Diagn Lab Immunol</source>
+          <year>2004</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>111</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="pmid">14715555</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <mixed-citation publication-type="other">Zhu H, Jiao H, Nie X, Li B, Xu K, Pang F, Cao R, Zhu S, Yang X, Zhang Z, Peng D, Li Y, Li G, Huang H, Chen C, Du L , Wang F (2018) Alterations of microRNAs and their predicted targeting mRNAs expression in RAW264.7 macrophages infected with Omp25 mutant Brucella melitensis. Innate Immun. 24(6):382&#x2013;9. 10.1177/1753425918792298</mixed-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <mixed-citation publication-type="other">Dariushnejad H, Ghorbanzadeh V, Akbari S, Hashemzadeh P (2022) Design of a Novel Recombinant Multi-Epitope Vaccine against Triple-Negative Breast Cancer. Iran Biomed J 26(2):160&#x2013;74. 10.52547/ibj.26.2.160</mixed-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <mixed-citation publication-type="other">Dariushnejad H, Ghorbanzadeh V, Hashemzadeh P (2021) Prediction of B- and T-cell epitopes using in-silico approaches: a solution to the development of recombinant vaccines against COVID-19. Minerva Biotechnol Biomol Res 33:36&#x2013;42. 10.23736/S2724-542X.20.02652-X</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <mixed-citation publication-type="other">Kaushik P, Singh DK, Kumar SV, Tiwari AK, Shukla G, Dayal S, Chaudhuri P (2010) Protection of mice against Brucella abortus 544 challenge by vaccination with recombinant OMP28 adjuvanted with CpG oligonucleotides. Vet Res Commun 34(2):119&#x2013;32. 10.1007/s11259-009-9337-x</mixed-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <mixed-citation publication-type="other">Rawat SS, Keshri AK, Kaur R, Prasad A (2023) "Immunoinformatics Approaches for Vaccine Design: A Fast and Secure Strategy for Successful Vaccine Development". Vaccines 11(2):221. 10.3390/vaccines11020221</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sherry</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>M-H</given-names>
+            </name>
+            <name>
+              <surname>Kholodov</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Phan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Smigielski</surname>
+              <given-names>EM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>dbSNP: the NCBI database of genetic variation</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2001</year>
+          <volume>29</volume>
+          <issue>1</issue>
+          <fpage>308</fpage>
+          <lpage>311</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/29.1.308</pub-id>
+          <pub-id pub-id-type="pmid">11125122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <mixed-citation publication-type="other">Almagro Armenteros JJ, Tsirigos KD, S&#xF8;nderby CK, Petersen TN, Winther O, Brunak S, von Heijne G, Nielsen H (2019) SignalP 5.0 improves signal peptide predictions using deep neural networks. Nat Biotechnol 37(4):420&#x2013;3. 10.1038/s41587-019-0036-z</mixed-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saha</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Raghava</surname>
+              <given-names>GPS</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of continuous B-cell epitopes in an antigen using recurrent neural network</article-title>
+          <source>Proteins</source>
+          <year>2006</year>
+          <volume>65</volume>
+          <issue>1</issue>
+          <fpage>40</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1002/prot.21078</pub-id>
+          <pub-id pub-id-type="pmid">16894596</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <mixed-citation publication-type="other">Saha S, Raghava GPS (2004) BcePred: Prediction of Continuous B-Cell Epitopes in Antigenic Sequences Using Physico-chemical Properties. In: Nicosia G, Cutello V, Bentley PJ, Timmis J, (eds). Artificial Immune Systems. ICARIS 2004. Lecture Notes in Computer Science, vol 3239. Springer, Berlin, Heidelberg. 10.1007/978-3-540-30220-9_16</mixed-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <mixed-citation publication-type="other">Hashemzadeh P, Ghorbanzadeh V, Valizadeh Otaghsara SM, et al (2020) Novel Predicted B-Cell Epitopes of PSMA for Development of Prostate Cancer Vaccine. Int J Pept Res Ther 26:1523&#x2013;5. 10.1007/s10989-019-09954-9</mixed-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dariushnejad</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ghorbanzadeh</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Akbari</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hashemzadeh</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Design of a novel recombinant multi-epitope vaccine against triple-negative breast cancer</article-title>
+          <source>Iran Biomed J</source>
+          <year>2022</year>
+          <volume>26</volume>
+          <issue>2</issue>
+          <fpage>160</fpage>
+          <lpage>174</lpage>
+          <pub-id pub-id-type="doi">10.52547/ibj.26.2.160</pub-id>
+          <pub-id pub-id-type="pmid">35090304</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rammensee</surname>
+              <given-names>H-G</given-names>
+            </name>
+            <name>
+              <surname>Bachmann</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Emmerich</surname>
+              <given-names>NPN</given-names>
+            </name>
+            <name>
+              <surname>Bachor</surname>
+              <given-names>OA</given-names>
+            </name>
+            <name>
+              <surname>Stevanovi&#x107;</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>SYFPEITHI: database for MHC ligands and peptide motifs</article-title>
+          <source>Immunogenetics</source>
+          <year>1999</year>
+          <volume>50</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>213</fpage>
+          <lpage>219</lpage>
+          <pub-id pub-id-type="doi">10.1007/s002510050595</pub-id>
+          <pub-id pub-id-type="pmid">10602881</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <mixed-citation publication-type="other">Reche PA, Glutting JP, Zhang H, Reinherz EL (2004) Enhancement to the RANKPEP resource for the prediction of peptide binding to MHC molecules using profiles. Immunogenetics 56(6):405&#x2013;19. 10.1007/s00251-004-0709-7</mixed-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manijeh</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mehrnaz</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Violaine</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hassan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Abbas</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mohammad</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>In silico design of discontinuous peptides representative of B and T-cell epitopes from HER2-ECD as potential novel cancer peptide vaccines</article-title>
+          <source>Asian Pac J Cancer Prev</source>
+          <year>2013</year>
+          <volume>14</volume>
+          <issue>10</issue>
+          <fpage>5973</fpage>
+          <lpage>5981</lpage>
+          <pub-id pub-id-type="doi">10.7314/apjcp.2013.14.10.5973</pub-id>
+          <pub-id pub-id-type="pmid">24289611</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <mixed-citation publication-type="other">Guan P, Doytchinova IA, Zygouri C, Flower DR (2003) MHCPred: A server for quantitative prediction of peptide-MHC binding. Nucleic Acids Res 31(13):3621&#x2013;4. 10.1093/nar/gkg510</mixed-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhasin</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Raghava</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Prediction of CTL epitopes using QM SVM and ANN techniques</article-title>
+          <source>Vaccine</source>
+          <year>2004</year>
+          <volume>22</volume>
+          <issue>23&#x2013;24</issue>
+          <fpage>3195</fpage>
+          <lpage>3204</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.vaccine.2004.02.005</pub-id>
+          <pub-id pub-id-type="pmid">15297074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Doytchinova</surname>
+              <given-names>IA</given-names>
+            </name>
+            <name>
+              <surname>Flower</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines</article-title>
+          <source>BMC Bioinformatics</source>
+          <year>2007</year>
+          <volume>8</volume>
+          <issue>1</issue>
+          <fpage>4</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-8-4</pub-id>
+          <pub-id pub-id-type="pmid">17207271</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dimitrov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Bangov</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Flower</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Doytchinova</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>AllerTOP v. 2&#x2014;a server for in silico prediction of allergens</article-title>
+          <source>J Mol Model</source>
+          <year>2014</year>
+          <volume>20</volume>
+          <issue>6</issue>
+          <fpage>2278</fpage>
+          <pub-id pub-id-type="doi">10.1007/s00894-014-2278-5</pub-id>
+          <pub-id pub-id-type="pmid">24878803</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <mixed-citation publication-type="other">Gasteiger E, et al (2005) Protein Identification and Analysis Tools on the ExPASy Server. In: Walker JM, (eds). The Proteomics Protocols Handbook. Springer Protocols Handbooks. Humana Press. 10.1385/1-59259-890-0:571</mixed-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <mixed-citation publication-type="other">Hebditch M, Carballo-Amador MA, Charonis S, Curtis R, Warwicker J (2017) Protein-Sol: a web tool for predicting protein solubility from sequence. Bioinformatics 33(19):3098&#x2013;100. 10.1093/bioinformatics/btx345</mixed-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>DT</given-names>
+            </name>
+          </person-group>
+          <article-title>Protein secondary structure prediction based on position-specific scoring matrices</article-title>
+          <source>J Mol Biol</source>
+          <year>1999</year>
+          <volume>292</volume>
+          <issue>2</issue>
+          <fpage>195</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1006/jmbi.1999.3091</pub-id>
+          <pub-id pub-id-type="pmid">10493868</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sen</surname>
+              <given-names>TZ</given-names>
+            </name>
+            <name>
+              <surname>Jernigan</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Garnier</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kloczkowski</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>GOR V server for protein secondary structure prediction</article-title>
+          <source>Bioinformatics</source>
+          <year>2005</year>
+          <volume>21</volume>
+          <issue>11</issue>
+          <fpage>2787</fpage>
+          <lpage>2788</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/bti408</pub-id>
+          <pub-id pub-id-type="pmid">15797907</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <mixed-citation publication-type="other">Yang J, Yan R, Roy A, Xu D, Poisson J, Zhang Y (2015) The I-TASSER Suite: protein structure and function prediction. Nat Methods 12(1):7&#x2013;8. 10.1038/nmeth.3213</mixed-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <mixed-citation publication-type="other">Zhang Y (2008) I-TASSER server for protein 3D structure prediction. BMC Bioinformatics 9:40. 10.1186/1471-2105-9-40</mixed-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heo</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Seok</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>GalaxyRefine: protein structure refinement driven by side-chain repacking</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <issue>W1</issue>
+          <fpage>W384</fpage>
+          <lpage>W388</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt458</pub-id>
+          <pub-id pub-id-type="pmid">23737448</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wiederstein</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sippl</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <article-title>ProSA-web: interactive web service for the recognition of errors in three-dimensional structures of proteins</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2007</year>
+          <volume>35</volume>
+          <issue>suppl_2</issue>
+          <fpage>W407</fpage>
+          <lpage>W10</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkm290</pub-id>
+          <pub-id pub-id-type="pmid">17517781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <mixed-citation publication-type="other">Davis IW, Leaver-Fay A, Chen VB, Block JN, Kapral GJ, Wang X, Murray LW, Arendall WB 3rd, Snoeyink J, Richardson JS, Richardson DC (2007) MolProbity: all-atom contacts and structure validation for proteins and nucleic acids. Nucleic Acids Res 35(Web Server issue):W375&#x2013;83. 10.1093/nar/gkm216</mixed-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lovell</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>IW</given-names>
+            </name>
+            <name>
+              <surname>Arendall</surname>
+              <given-names>WB</given-names>
+              <suffix>III</suffix>
+            </name>
+            <name>
+              <surname>De Bakker</surname>
+              <given-names>PI</given-names>
+            </name>
+            <name>
+              <surname>Word</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Prisant</surname>
+              <given-names>MG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Structure validation by C&#x3B1; geometry: &#x3D5;, &#x3C8; and C&#x3B2; deviation</article-title>
+          <source>Proteins</source>
+          <year>2003</year>
+          <volume>50</volume>
+          <issue>3</issue>
+          <fpage>437</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="doi">10.1002/prot.10286</pub-id>
+          <pub-id pub-id-type="pmid">12557186</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <mixed-citation publication-type="other">Colovos C, Yeates TO (1993) Verification of protein structures: patterns of nonbonded atomic interactions. Protein Sci 2(9):1511&#x2013;9. 10.1002/pro.5560020916</mixed-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <mixed-citation publication-type="other">Stothard P (2000) The sequence manipulation suite: JavaScript programs for analyzing and formatting protein and DNA sequences. Biotechniques 28(6):1102, 1104. 10.2144/00286ir01</mixed-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <mixed-citation publication-type="other">Grote A, Hiller K, Scheer M, M&#xFC;nch R, N&#xF6;rtemann B, Hempel DC, Jahn D (2005) JCat: a novel tool to adapt codon usage of a target gene to its potential expression host. Nucleic Acids Res 33(Web Server issue):W526&#x2013;31. 10.1093/nar/gki376</mixed-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <mixed-citation publication-type="other">Godfroid J, Nielsen K, Saegerman C (2010) Diagnosis of brucellosis in livestock and wildlife. Croat Med J 51(4):296&#x2013;305. 10.3325/cmj.2010.51.296</mixed-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Golshani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Buozari</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A review of brucellosis in Iran: epidemiology, risk factors, diagnosis, control, and prevention</article-title>
+          <source>Iran Biomed J</source>
+          <year>2017</year>
+          <volume>21</volume>
+          <issue>6</issue>
+          <fpage>349</fpage>
+          <lpage>359</lpage>
+          <pub-id pub-id-type="doi">10.18869/acadpub.ibj.21.6.349</pub-id>
+          <pub-id pub-id-type="pmid">28766326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <mixed-citation publication-type="other">Thakur SD, Kumar R, Thapliyal DC (2002) Human brucellosis: review of an under-diagnosed animal transmitted disease. J Commun Dis 34(4):287&#x2013;301</mixed-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <mixed-citation publication-type="other">Ficht TA, Kahl-McDonagh MM, Arenas-Gamboa AM, Rice-Ficht AC (2009) Brucellosis: the case for live, attenuated vaccines. Vaccine 27 Suppl 4(Suppl 4):D40&#x2013;3. 10.1016/j.vaccine.2009.08.058</mixed-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <mixed-citation publication-type="other">Tibor A, Jacques I, Guilloteau L, Verger JM, Grayon M, Wansard V, Letesson JJ (1998) Effect of P39 gene deletion in live Brucella vaccine strains on residual virulence and protective activity in mice. Infect Immun 66(11):4&#x2013;5561. 10.1128/IAI.66.11.5561-5564.1998</mixed-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <mixed-citation publication-type="other">Skwarczynski M, Toth I (2016) Peptide-based synthetic vaccines. Chem Sci 7(2):842&#x2013;54. 10.1039/c5sc03892h</mixed-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <mixed-citation publication-type="other">Ulmer JB, Valley U, Rappuoli R (2006) Vaccine manufacturing: challenges and solutions. Nat Biotechnol 24(11):1377&#x2013;83. 10.1038/nbt1261.</mixed-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <mixed-citation publication-type="other">Yao M, Liu M, Chen X, Li J, Li Y, Wei YR, Liu Y, Yang KL, Duan X, Shao W, Sun X, Fan X, Sun S, Tian L, Yin D, Sun M (2022) Comparison of BP26, Omp25 and Omp31 and a Multiepitope-Based Fusion Protein in the Serological Detection of Canine Brucellosis. Infect Drug Resist 15:5301&#x2013;8. 10.2147/IDR.S374432</mixed-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <mixed-citation publication-type="other">Ahmed IM, Khairani-Bejo S, Hassan L, Bahaman AR, Omar AR (2015) Serological diagnostic potential of recombinant outer membrane proteins (rOMPs) from Brucella melitensis in mouse model using indirect enzyme-linked immunosorbent assay. BMC Vet Res 11:275. 10.1186/s12917-015-0587-2</mixed-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <mixed-citation publication-type="other">He Y, Rappuoli R, De Groot AS, Chen RT (2010) Emerging vaccine informatics. J Biomed Biotechnol 2010:218590. 10.1155/2010/218590</mixed-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">Chen X, Zaro JL, Shen WC (2013) Fusion protein linkers: properties, design and functionality. Adv Drug Deliv Rev 65(10):1357&#x2013;69. 10.1016/j.addr.2012.09.039</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

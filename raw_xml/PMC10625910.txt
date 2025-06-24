@@ -1,0 +1,965 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Vet Sci</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Vet. Sci.</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Veterinary Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2297-1769</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37937155</article-id>
+      <article-id pub-id-type="pmc">10625910</article-id>
+      <article-id pub-id-type="doi">10.3389/fvets.2023.1238634</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Veterinary Science</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Design of a multi-epitope vaccine against brucellosis fused to IgG-fc by an immunoinformatics approach</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Aodi</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2337571/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Yueli</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2121287/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ali</surname>
+            <given-names>Adnan</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/2343505/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xu</surname>
+            <given-names>Zhenyu</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Dongsheng</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhumanov</surname>
+            <given-names>Kairat</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Sheng</surname>
+            <given-names>Jinliang</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Yi</surname>
+            <given-names>Jihai</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="c002" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="https://loop.frontiersin.org/people/1080553/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>College of Animal Science and Technology, Shihezi University</institution>, <addr-line>Shihezi, Xinjiang</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>College of Veterinary Medicine, Kazakhstan Kazakh State Agricultural University</institution>, <addr-line>Almaty</addr-line>, <country>Kazakhstan</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by" id="fn0016">
+          <p>Edited by: Xiaoyu Niu, North Carolina Agricultural and Technical State University, United States</p>
+        </fn>
+        <fn fn-type="edited-by" id="fn0017">
+          <p>Reviewed by: Saurabh Gupta, GLA University, India; Mirinda Van Kleef, Agricultural Research Council of South Africa (ARC-SA), South Africa</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Jinliang Sheng, <email>1572621211@qq.com</email></corresp>
+        <corresp id="c002">Jihai Yi, <email>724050645@qq.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>10</volume>
+      <elocation-id>1238634</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2023 Wu, Wang, Ali, Xu, Zhang, Zhumanov, Sheng and Yi.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Wu, Wang, Ali, Xu, Zhang, Zhumanov, Sheng and Yi</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Introduction</title>
+          <p><italic>Brucella</italic>, a type of intracellular Gram-negative bacterium, has unique features and acts as a zoonotic pathogen. It can lead to abortion and infertility in animals. Eliminating brucellosis becomes very challenging once it spreads among both humans and animals, putting a heavy burden on livestock and people worldwide. Given the increasing spread of brucellosis, it is crucial to develop improved vaccines for susceptible animals to reduce the disease&#x2019;s impact.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>In this study, we effectively used an immunoinformatics approach with advanced computer software to carefully identify and analyze important antigenic parts of <italic>Brucella abortus</italic>. Subsequently, we skillfully designed chimeric peptides to enhance the vaccine&#x2019;s strength and effectiveness. We used computer programs to find four important parts of the <italic>Brucella</italic> bacteria that our immune system recognizes. Then, we carefully looked for eight parts that are recognized by a type of white blood cell called cytotoxic T cells, six parts recognized by T helper cells, and four parts recognized by B cells. We connected these parts together using a special link, creating a strong new vaccine. To make the vaccine even better, we added some extra parts called molecular adjuvants. These included something called human &#x3B2;-defensins 3 (hBD-3) that we found in a database, and another part that helps the immune system called PADRE. We attached these extra parts to the beginning of the vaccine. In a new and clever way, we made the vaccine even stronger by attaching a part from a mouse&#x2019;s immune system to the end of it. This created a new kind of vaccine called MEV-Fc. We used advanced computer methods to study how well the MEV-Fc vaccine interacts with certain receptors in the body (TLR-2 and TLR-4).</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>In the end, Immunosimulation predictions showed that the MEV-Fc vaccine can make the immune system respond strongly, both in terms of cells and antibodies.</p>
+        </sec>
+        <sec>
+          <title>Discussion</title>
+          <p>In summary, our results provide novel insights for the development of <italic>Brucella</italic> vaccines. Although further laboratory experiments are required to assess its protective effect.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          <italic>Brucella</italic>
+        </kwd>
+        <kwd>vaccine</kwd>
+        <kwd>epitope</kwd>
+        <kwd>immunoinformatics</kwd>
+        <kwd>IgG-fc</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source id="cn1">
+            <institution-wrap>
+              <institution>Shihezi University</institution>
+              <institution-id institution-id-type="doi">10.13039/501100004317</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id award-type="contract" rid="cn1">GJHZ202203</award-id>
+        </award-group>
+        <funding-statement>This research was supported by Program of Shihezi University International Science and Technology Cooperation Promotion (GJHZ202203).</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="11"/>
+        <table-count count="3"/>
+        <equation-count count="0"/>
+        <ref-count count="72"/>
+        <page-count count="15"/>
+        <word-count count="8364"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>section-at-acceptance</meta-name>
+          <meta-value>Veterinary Infectious Diseases</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1">
+      <label>1.</label>
+      <title>Introduction</title>
+      <p><italic>Brucella</italic> is a Gram-negative bacterium that lives inside cells and can cause reproductive problems in animals and chronic illnesses in humans (<xref rid="ref1" ref-type="bibr">1</xref>). This disease, known as brucellosis or by other names like Wave fever or Malta fever, is a widespread bacterial infection affecting both animals and humans in various regions around the world. It is considered one of the most common bacterial zoonotic diseases globally (<xref rid="ref2" ref-type="bibr">2</xref>). <italic>Brucella</italic> has a strong ability to invade a specific type of white blood cell called macrophages, which makes it resistant to many antibiotics commonly used against other bacteria. As a result, this harmful pathogen poses a significant threat to global public health, causing considerable social and economic challenges (<xref rid="ref3" ref-type="bibr">3</xref>).</p>
+      <p>Controlling brucellosis in livestock currently relies on using <italic>Brucella abortus</italic> S19, <italic>B. abortus</italic> RB51, and <italic>B. melitensis</italic> Rev-1 strains (<xref rid="ref4" ref-type="bibr">4</xref>). However, completely removing the remaining virulence associated with these weakened vaccine strains is a challenging task. There is also a risk that these vaccine strains could infect humans, which might worsen the spread of the disease. Furthermore, these strains can induce abortions in pregnant animals, causing significant economic losses. Additionally, their presence complicates the accurate diagnosis and management of brucellosis (<xref rid="ref5" ref-type="bibr">5</xref>, <xref rid="ref6" ref-type="bibr">6</xref>). Consequently, we are facing significant challenges when it comes to diagnosing and treating brucellosis, emphasizing the urgent need for a safe and effective vaccine or therapy (<xref rid="ref7" ref-type="bibr">7</xref>).</p>
+      <p>In light of these challenges, peptide vaccines offer a promising approach to combat brucellosis. Not only do they stimulate strong antibody responses, but they also address the safety concerns associated with live vaccines (<xref rid="ref7" ref-type="bibr">7</xref>). Peptide-based interventions provide a safer and practical alternative for dealing with the devastating impact of brucellosis.</p>
+      <p>In previous studies, researchers have explored a range of outer membrane proteins (OMPs) and effector proteins as potential immunodominant antigens against <italic>Brucella</italic>. Notably, two such proteins, OMP16 and OMP19, which are outer membrane lipoproteins, are prominently found on the surface of all <italic>Brucella</italic> strains (<xref rid="ref8" ref-type="bibr">8</xref>). These lipoproteins are universally present in <italic>Brucella</italic>.OMP16, similar to a protein called peptidoglycan-associated lipoprotein (PAL) found in other Gram-negative bacteria, is highly conserved and plays a crucial role in maintaining the structural integrity and function of the outer membrane. Interestingly, OMP16 also acts as a pathogen-associated molecular pattern (PAMP) in <italic>Brucella abortus</italic>, which means it triggers the activation of dendritic cells (DCs) in the body, leading to a strong Th1 immune response (<xref rid="ref9" ref-type="bibr">9</xref>). Encouragingly, recombinant OMP16 has been shown to generate a potent protective immune response in mice, making it a highly promising candidate for a vaccine (<xref rid="ref10" ref-type="bibr">10</xref>).</p>
+      <p>In contrast, OMP19 is resistant to protease degradation, particularly following oral infection with <italic>Brucella abortus</italic>. Additionally, it acts as a protective shield for another protein called OMP25, preventing it from being degraded by proteases (<xref rid="ref11" ref-type="bibr">11</xref>).</p>
+      <p>Intriguingly, It has been revealed that OMP19 inhibits MHC-II expression and hinders antigen presentation, prevents T cell recognition to evade host immunity and establishes chronic infections (<xref rid="ref12" ref-type="bibr">12</xref>). Because of its strong protective qualities against <italic>Brucella</italic>, OMP19 looks like a very promising candidate for a vaccine to fight brucellosis (<xref rid="ref13" ref-type="bibr">13</xref>).</p>
+      <p>OMP25 is an important protein on the outer membrane of <italic>Brucella abortus</italic>. It helps keep the cell&#x2019;s outer covering strong and intact (<xref rid="ref14" ref-type="bibr">14</xref>). Interestingly, OMP25 also plays a role in reducing the production of certain immune signals like tumor necrosis factor-alpha (TNF-&#x3B1;) and interleukin 12 (IL-12), which are typically produced when the body is fighting infections caused by other germs. This shows that OMP25 has a significant effect on the immune system (<xref rid="ref15" ref-type="bibr">15</xref>). Studies have shown that vaccines made from OMP25&#x2019;s DNA and protein can protect mice from <italic>Brucella abortus</italic> infection, making OMP25 a strong candidate for a vaccine (<xref rid="ref16" ref-type="bibr">16</xref>, <xref rid="ref17" ref-type="bibr">17</xref>).</p>
+      <p>Another protein called <italic>Brucella</italic> ribosomal protein L7/L12 is known for being easily recognized by the immune system and staying similar across different <italic>Brucella</italic> types (<xref rid="ref18" ref-type="bibr">18</xref>). This protein can activate a specific type of white blood cell called monocytes in animals with infections. This activation leads to the production of interferon-gamma, an important immune molecule that helps protect against <italic>Brucella abortus</italic> infection (<xref rid="ref19" ref-type="bibr">19</xref>, <xref rid="ref20" ref-type="bibr">20</xref>). Because of these proteins&#x2019; ability to trigger immune responses, they seem like good options for designing vaccines that can delay or prevent brucellosis.</p>
+      <p>Antibodies are made of two parts: the antigen binding fragment (Fab) and the crystallizable fragment (Fc). Using Fc fragment fusion protein technology is a very effective way to make protein and peptide drugs last longer in the body. Important biological molecules found on the surface of cells, like cell receptors, cytokines, enzymes, and peptide antigens on harmful germs, can be combined with Fc parts. This makes these molecules more stable in the body and helps them last longer, making their effects stronger (<xref rid="ref21" ref-type="bibr">21</xref>, <xref rid="ref22" ref-type="bibr">22</xref>). When we combine specific antigens with Fc parts, it creates a new and promising strategy for vaccines to fight diseases (<xref rid="ref23" ref-type="bibr">23</xref>).</p>
+      <p>A study by David G. Alleva showed that when AKS-452 was fused with the Fc fragment, it produced much higher levels of neutralizing antibodies in mice compared to when Fc was not used. This significant boost in the body&#x2019;s response highlights the enormous potential of using the immunoglobulin Fc fragment fusion in peptide vaccines (<xref rid="ref24" ref-type="bibr">24</xref>). Using this method for making vaccines has a lot of promise for various treatments and preventive measures.</p>
+      <p>Previous studies have shown that <italic>Brucella</italic> multi-epitope vaccines (MEVs), created by predicting important parts recognized by the immune system, offer a level of immune protection, although not as effective as weakened vaccines. However, a new approach using peptide vaccines that include multi-epitope molecules fused to IgG-Fc for fighting <italic>Brucella</italic> infections has not been explored much. So, we combined the IgG Fc fragment with a multi-epitope structure, forming the peptide molecule MEV-Fc. This molecule includes important parts from different immune responses like CTL, HTL, B cells, hBD-3, PADRE, and IgG Fc.</p>
+      <p>To understand how effective this combined molecule could be, we used predictive tools to study its features, structure, and how it interacts with immune receptors such as TLR2 and TLR4. Additionally, we used a tool called C-ImmSim server to simulate how the immune cells would respond after the molecule is given as a vaccine to mice (<xref rid="fig1" ref-type="fig">Figure 1</xref>). Our main goal in this study was to create a peptide molecule that could enhance the immune protection provided by <italic>Brucella</italic> subunit vaccines. This could be a groundbreaking approach in preventing brucellosis.</p>
+      <fig position="float" id="fig1">
+        <label>Figure 1</label>
+        <caption>
+          <p>Illustrates the construction and analysis flow chart of MEV-Fc.</p>
+        </caption>
+        <graphic xlink:href="fvets-10-1238634-g001" position="float"/>
+      </fig>
+    </sec>
+    <sec sec-type="materials|methods" id="sec2">
+      <label>2.</label>
+      <title>Materials and methods</title>
+      <sec id="sec3">
+        <label>2.1.</label>
+        <title>Sequence retrieval</title>
+        <p>The amino acid sequences of the main <italic>Brucella</italic> antigens, specifically OMP16 (AEF59023.1), OMP19 (AAB06277.1), L7/L12 (AAL51929.1), and OMP25 (AFJ79953.1), were retrieved from the NCBI database and are detailed in <xref rid="tab1" ref-type="table">Table 1</xref>. To determine whether these four proteins have antigenic properties, we employed the VaxiJen server v2.0, setting a threshold value at 0.5 (<xref rid="ref25" ref-type="bibr">25</xref>).</p>
+        <table-wrap position="float" id="tab1">
+          <label>Table 1</label>
+          <caption>
+            <p>Protein information: L7/L12, OMP16, OMP19, OMP25.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Protein name</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">Sequence</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Vaxijen score</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">Antigenicity</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">OMP16</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">MRRIQSIARSPIAIALFMSLAVAGCASKKNLPNNAGDLGLGAGAATPGSSQDFTVNVGDRIFFDLDSSLIRADAQQTLSKQAQWLQRYPQYSITIEGHADERGTREYNLALGQRRAAATRDFLASRGVPTNRMRTISYGNERPVAVCDADTCWSQNRRAVTVLNGAGR</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.5500</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">ANTIGEN</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">OMP19</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">MGISKASLLSLAAAGIVLAGCQSSRLGNLDNVSPPPPPAPVNAVPAGTVQKGNLDSPTQFPNAPSTDMSAQSGTQVASLPPASAPDLTPGAVAGVWNASLGGQSCKIATPQTKYGQGYRAGPLRCPGELANLASWAVNGKQLVLYDANGGTVASLYSSGQGRFDGQTTGGQAVTLSR</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.6547</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">ANTIGEN</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">OMP25</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">MTFKNLLGASLVAVITSTSAYAADAIVAQEPAPIAIAPSFSWAGAYFGGQVGYGWGRAKLENRTNGGTSEFKPNGFIGGLYTGYNFDTGNNFILGLDANVDYNNLKKSRDFITSGNPVQTTGETQLRWSGAVRARAGYAIDRFMPYIAGGVAFGGIKNSLRIGGEESSKSKTQTGWTVGAGIEYAATDNVLLRLEYRYTDYGKKNFGLNDLDTRGSFKTNDIRLGVAYKF</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.7575</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">ANTIGEN</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">L7/L12</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">MNTRASNFLAASFSTIMLVGAFSLPAFAQENQMTTQPARIAVTGEGMMTASPDMAILNLSVLRQAKTAREAMTANNEAMTKVLDAMKKAGIEDRDLQTGGINIQPIYVYPDDKNNLKEPTITGYSVSTSLTVRVRELANVGKILDESVTLGVNQGGDLNLVNDNPSAVINEARKRAVANAIAKAKTLADAAGVGLGRVVEISELSRPPMPMPIARGQFRTMLAAAPDNSVPIAAGENSYNVSVNVVFEIK</td>
+                <td align="center" valign="middle" rowspan="1" colspan="1">0.5381</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">ANTIGEN</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="sec4">
+        <label>2.2.</label>
+        <title>Prediction of cytotoxic T-lymphocyte epitopes</title>
+        <p>To predict Cytotoxic T Lymphocyte (CTL) epitopes for the primary <italic>Brucella</italic> antigen, we utilized the IEDB MHC I server, accessible (<xref rid="ref26" ref-type="bibr">26</xref>).<xref rid="fn0001" ref-type="fn"><sup>1</sup></xref> The specific parameters we used were as follows: Prediction Method: IEDB recommended 2020.09 (NetMHCpan EL 4.1); Source species of MHC: Human; HLA allele reference set, and Length set to 9 and 10. We selected epitopes with a percentile rank of less than 0.5 for further analysis. We also used Class I Immunogenicity to predict immunogenicity and chose CTL epitopes with a percentile rank of less than 0.5 and an immunoscore greater than 0 for further analysis. To determine the antigenicity of these screened epitopes, we employed the VaxiJen server v2.0, setting a threshold at 0.5 (<xref rid="ref25" ref-type="bibr">25</xref>). The epitopes that passed these criteria were considered as immunodominant CTL epitopes for the construction of MEV-Fc.</p>
+      </sec>
+      <sec id="sec5">
+        <label>2.3.</label>
+        <title>Prediction of helper T-lymphocyte epitopes</title>
+        <p>To predict Helper T Lymphocyte (HTL) epitopes for the dominant <italic>Brucella</italic> antigen, we utilized the IEDB MHCII server 2, which can be accessed (<xref rid="ref27" ref-type="bibr">27</xref>).<xref rid="fn0002" ref-type="fn"><sup>2</sup></xref> The specific parameters we used were as follows: Prediction Method: IEDB recommended 2.22; MHC source species: Human; MHC allele set selected as all reference. We set the epitope length to 15. The predicted epitopes were ranked based on percentile rank, and we selected those with a percentile rank of less than 0.5. To predict their antigenicity, we used the VaxiJen server v2.0 with a threshold set at 0.5 (<xref rid="ref25" ref-type="bibr">25</xref>). We chose epitopes with an antigenicity value greater than 0.5, and we predicted their inducibility of IFN-&#x3B3; using an epitope server (<xref rid="ref28" ref-type="bibr">28</xref>) specifically designed for IFN-&#x3B3;. Ultimately, the epitope that was predicted to induce IFN-&#x3B3; was selected as the HTL immunodominant epitope for the construction of MEV-Fc.</p>
+      </sec>
+      <sec id="sec6">
+        <label>2.4.</label>
+        <title>Prediction of linear B-cell epitopes</title>
+        <p>To predict linear B-cell epitopes for the dominant <italic>Brucella</italic> antigen, we used the ABCpred server, which is accessible,<xref rid="fn0003" ref-type="fn"><sup>3</sup></xref> with the following parameters: epitope length&#x2009;=&#x2009;16 and screening threshold&#x2009;=&#x2009;0.51. We employed thresholds ranging from +0.1 to +1.0 (<xref rid="ref29" ref-type="bibr">29</xref>). The highest ABCpred score among these thresholds was selected as the immunodominant B-cell epitope for MEV (Multi-Epitope Vaccine) construction.</p>
+      </sec>
+      <sec id="sec7">
+        <label>2.5.</label>
+        <title>Construction of MEV-fc</title>
+        <p>To create the MEV, we used an appropriate linker to connect the individual epitopes. This linker prevents these epitopes from interacting with each other. The MEV was formed by connecting the predicted and screened CTL epitopes, an HTL epitope, and a linear B-cell epitope using the GPGPG linker.</p>
+        <p>To further enhance its ability to trigger an immune response and ensure the persistence of the helper T cell 1 (TH1) response (<xref rid="ref30" ref-type="bibr">30</xref>), we added the hBD-3 sequence (PDB ID: 1KJ6) and the PADRE sequence to the N-terminal end of the MEV, using EAAAK linkers. Finally, to make the peptide more effective at triggering an immune response and to make it last longer in the body, we added the sequence of the mouse immunoglobulin IgG Fc fragment (P01868-1) by connecting it to the C-terminus of the MEV with KK linkers. This resulted in the complete sequence of the vaccine construct.</p>
+      </sec>
+      <sec id="sec8">
+        <label>2.6.</label>
+        <title>Evaluation of physical and chemical properties of vaccines</title>
+        <p>We evaluated the properties of MEV-Fc using bioinformatic analysis software. Firstly, we analyzed its physical and chemical characteristics using the ProtParam server, accessible.<xref rid="fn0004" ref-type="fn"><sup>4</sup></xref> Next, we conducted antimicrobial and immunogenicity analyses using the VaxiJen v2.0 server. We specifically utilized the IEDB I class immunogenicity module, with VaxiJen predictions showing an accuracy range of 70 to 89% (<xref rid="ref25" ref-type="bibr">25</xref>). Subsequently, we predicted solubility using the SOLpro server, available,<xref rid="fn0005" ref-type="fn"><sup>5</sup></xref> which demonstrated an overall accuracy of 74.15% (<xref rid="ref31" ref-type="bibr">31</xref>). Finally, we performed sensitivity and toxicity analyses using AlergenFP v1.0, accessible (<xref rid="ref32" ref-type="bibr">32</xref>),<xref rid="fn0006" ref-type="fn"><sup>6</sup></xref> and ToxinPred, available (<xref rid="ref33" ref-type="bibr">33</xref>).<xref rid="fn0007" ref-type="fn"><sup>7</sup></xref></p>
+      </sec>
+      <sec id="sec9">
+        <label>2.7.</label>
+        <title>Prediction of secondary and tertiary structures</title>
+        <p>We predicted the secondary structure of MEV-Fc using the SOPMA secondary structure prediction tool. To forecast the tertiary structure of MEV-Fc, we utilized the Robetta server (<xref rid="ref34" ref-type="bibr">34</xref>). To assess the quality of the constructed models, we employed the Prosa Web Server (<xref rid="ref35" ref-type="bibr">35</xref>), the Ramachandran Plot, and the PROCHECK Server (<xref rid="ref36" ref-type="bibr">36</xref>), which can be accessed.<xref rid="fn0008" ref-type="fn"><sup>8</sup></xref> These tools help evaluate the correctness and quality of the protein&#x2019;s three-dimensional structure. We further assessed the uncertainty of the tertiary structure through ERRAT, available.<xref rid="fn0009" ref-type="fn"><sup>9</sup></xref> ERRAT examines the overall quality factor of non-bonded atomic interactions, with higher values indicating better quality (<xref rid="ref37" ref-type="bibr">37</xref>).</p>
+      </sec>
+      <sec id="sec10">
+        <label>2.8.</label>
+        <title>Prediction of B-cell epitopes</title>
+        <p>B-cell epitopes are particular sites on antigens where B-cell antibodies can bind and trigger immune responses (<xref rid="ref38" ref-type="bibr">38</xref>). In vaccine development, these epitopes play a crucial role in generating an effective immune response. To predict B-cell epitopes for MEV-Fc, we utilized the ElliPro server with default parameters (<xref rid="ref39" ref-type="bibr">39</xref>).</p>
+      </sec>
+      <sec id="sec11">
+        <label>2.9.</label>
+        <title>Molecular docking of MEV-fc and immune receptors TLR2 and TLR4</title>
+        <p>Molecular docking is a fundamental and promising method for studying how peptides interact with human immune receptors like TLR2 and TLR4 (<xref rid="ref40" ref-type="bibr">40</xref>). It offers a quick and cost-effective way to understand the detailed interactions at the atomic level within the structure of the antibody&#x2013;antigen complex and its interface.</p>
+        <p>Here&#x2019;s how we conducted the molecular docking analysis: We obtained the PDB files of TLR2 (PDB ID: 2Z7X) and TLR4 (PDB ID: 2Z63) from the NCBI Molecular Modeling Database (MMDB), which is accessible.<xref rid="fn0010" ref-type="fn"><sup>10</sup></xref> Next, we performed ligand-receptor docking analysis using the ClusPro 2.0 online server, which you can find (<xref rid="ref41" ref-type="bibr">41</xref>).<xref rid="fn0011" ref-type="fn"><sup>11</sup></xref> We then examined the interaction surfaces of the resulting complexes using PDBE Pisa, available (<xref rid="ref42" ref-type="bibr">42</xref>).<xref rid="fn0012" ref-type="fn"><sup>12</sup></xref> Finally, we visualized the complexes using PyMOL software and analyzed them using Ligplot+ software.</p>
+      </sec>
+      <sec id="sec12">
+        <label>2.10.</label>
+        <title>Molecular dynamics simulation</title>
+        <p>We performed molecular dynamics simulations of the MEV-Fc-TLR2 and MEV-Fc-TLR4 complexes using the iMODSweb server. This server, which is accessible,<xref rid="fn0013" ref-type="fn"><sup>13</sup></xref> allows us to explore possible trajectories between two conformations and enables interactive analysis of the resulting structures, animations, and trajectories in three dimensions. Importantly, it can effectively simulate and explore even large molecules (<xref rid="ref43" ref-type="bibr">43</xref>).</p>
+      </sec>
+      <sec id="sec13">
+        <label>2.11.</label>
+        <title>Immune simulation</title>
+        <p>We used the C-ImmSim server, which you can access,<xref rid="fn0014" ref-type="fn"><sup>14</sup></xref> to predict the ability of MEV-Fc to stimulate the production of specific antibodies and various cytokines by immune cells (<xref rid="ref44" ref-type="bibr">44</xref>). This server is capable of predicting the immune response of both B lymphocytes and T lymphocytes, including Th1 and Th2 lymphocytes.</p>
+        <p>In our simulation, we considered the recommended minimum interval between the initial and subsequent doses of most vaccines, which is 28&#x2009;days (<xref rid="ref45" ref-type="bibr">45</xref>). Therefore, we configured the simulation parameters as follows: three injections, with each injection spaced 28&#x2009;days apart; a random seed value set to 12,345; a simulation volume of 50; and a total of 1,050 simulation steps. We kept the remaining parameters at their default values.</p>
+      </sec>
+      <sec id="sec14">
+        <label>2.12.</label>
+        <title><italic>In silico</italic> cloning</title>
+        <p>To obtain an optimized nucleotide sequence, we used the Java Codon Adaptation Tool (JCat), which is available.<xref rid="fn0015" ref-type="fn"><sup>15</sup></xref> This tool quickly generates optimized codon sequences tailored to the chosen expression host, thereby enhancing the production yield of heterologous proteins (<xref rid="ref46" ref-type="bibr">46</xref>). In this case, we selected <italic>E. coli</italic> (strain K12) as the preferred bacterial strain. The ideal Codon Adaptation Index (CAI) value is 1, and the GC content percentage should ideally fall within the range of 30 to 70%.</p>
+        <p>After obtaining the optimized gene sequence, we cloned it into the expression vector pET28a(+) using Hind III and BamHI digestion sites. Subsequently, we analyzed the cloned sequence using Snapgene software.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec15">
+      <label>3.</label>
+      <title>Results</title>
+      <sec id="sec16">
+        <label>3.1.</label>
+        <title>Selection and construction of immunodominant epitopes</title>
+        <p>A set of four proteins was retrieved from the NCBI server, and subsequently, their antigenicity was predicted using VaxiJen (<xref rid="tab1" ref-type="table">Table 1</xref>). Utilizing the IEDB MHCI and MHC II servers, we predicted a total of 308 CTL epitopes (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 1</xref>) and 89 HTL epitopes (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 2</xref>) with a percentile rank of 0.5. Among the 308 CTL epitopes, 57 epitopes with immunogenicity &gt;0 and an antigenicity score&#x2009;&gt;&#x2009;1 were selected (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 3</xref>). Additionally, from the 89 HTL epitopes, 28 epitopes exhibiting positive induction of IFN-&#x3B3; and an antigenicity score&#x2009;&gt;&#x2009;0 were selected (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 4</xref>). The ABCpred server was employed to predict 68 linear B cell epitopes (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 5</xref>). Ultimately, 18 epitopes were chosen as candidates for vaccine construction (<xref rid="tab2" ref-type="table">Table 2</xref>), including eight epitopes with the highest immunogenicity or highest antigenicity score, six HTL epitopes with the highest antigenicity score or highest IFN-&#x3B3; scores, and four B cell epitopes with the highest ABCpred prediction scores. The predicted and screened CTL epitopes, HTL epitopes, and linear B-cell epitopes were linked together using GPGPG linkers. The hBD-3 sequences and PADRE sequences were connected via EAAAK linkers, while the fc (PDB ID: 1KJ6) sequences were linked using KK linkers. The resulting peptide molecule was named MEV-Fc, and its schematic diagram and amino acid sequence are presented in <xref rid="fig2" ref-type="fig">Figure 2</xref>.</p>
+        <table-wrap position="float" id="tab2">
+          <label>Table 2</label>
+          <caption>
+            <p>Final selection of HEL, CTL, B-cell peptides.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Protein name</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">CTL epitope</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">HTL epitope</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">B-cell epitope</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="middle" rowspan="2" colspan="1">L7/L12</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">VLADGGANK</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AAGGAAPAAAAEEKT</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AAAAEEKTEFDVVLAD</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AQLEAAGAKV</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">AGGAAPAAAAEEKTE</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="2" colspan="1">OMP16</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">HADERGTREY</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">NAGDLGLGAGAATPG</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LGLGAGAATPGSSQDF</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">ADERGTREY</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">REYNLALGQRRAAAT</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="2" colspan="1">OMP19</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">LTPGAVAGV</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">IATPQTKYGQGYRAGP</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">DLTPGAVAGV</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="2" colspan="1">OMP25</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">FKTNDIRLGV</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GETQLRWSGAVRARA</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">GWTVGAGIEYAATDNV</td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" rowspan="1" colspan="1">RTNGGTSEFK</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">TQLRWSGAVRARAGY</td>
+                <td align="left" valign="middle" rowspan="1" colspan="1">&#x2013;</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <fig position="float" id="fig2">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>(A)</bold> Schematic diagram of the MEV-Fc construct. <bold>(B)</bold> Amino acid sequence of the MEV-Fc construct.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g002" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec17">
+        <label>3.2.</label>
+        <title>Prediction of physicochemical properties, antigenicity, immunogenicity, sensitization, and toxicity of MEV-fc</title>
+        <p>MEV-Fc, a protein we studied, has some important characteristics. It is composed of 600 amino acids and has a molecular weight of about 61.2 kilodaltons. Its isoelectric point (PI) is approximately 8.89, indicating its charge at a specific pH. It is relatively stable with an instability index of 24.06 and Aliphatic index of 57.35. In terms of its lifespan, MEV-Fc is estimated to last about 30&#x2009;h in mammalian reticulocytes <italic>in vitro</italic>. It has a slight preference for water, making it slightly hydrophilic with a GRAVY value of &#x2212;0.500 (<xref rid="tab3" ref-type="table">Table 3</xref>). Moreover, it is highly likely to be soluble during production, with a probability of 0.976819.</p>
+        <table-wrap position="float" id="tab3">
+          <label>Table 3</label>
+          <caption>
+            <p>Physicochemical properties predicted by Expasy Protparam server.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" valign="top" rowspan="1" colspan="1">Number of amino acids</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Molecular weight</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Theoretical pI</th>
+                <th align="left" valign="top" rowspan="1" colspan="1">Estimated half-life</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Instability index</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">Aliphatic index</th>
+                <th align="center" valign="top" rowspan="1" colspan="1">GRAVY</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" valign="top" rowspan="1" colspan="1">600</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">61202.56&#x2009;Da</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">8.89</td>
+                <td align="left" valign="top" rowspan="1" colspan="1">30&#x2009;h (mammalian reticulocytes, <italic>in vitro</italic>). &gt;20&#x2009;h (yeast, <italic>in vivo</italic>); &gt;10&#x2009;h (<italic>Escherichia coli</italic>, <italic>in vivo</italic>)&#x3002;</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">24.06</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">57.35</td>
+                <td align="center" valign="top" rowspan="1" colspan="1">&#x2212;0.5</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>Regarding its potential as an antigen, predictions suggest it has a high likelihood of triggering an immune response with an immunogenicity score of 4.18 and good antigenicity (1.0342). Importantly, MEV-Fc is considered non-sensitizing and non-toxic based on prediction, indicating its safety profile.</p>
+        <p>In summary, MEV-Fc possesses favorable characteristics, including stability, solubility, and the potential to elicit an immune response, making it a strong candidate for a peptide vaccine. Additionally, it is considered safe for use.</p>
+      </sec>
+      <sec id="sec18">
+        <label>3.3.</label>
+        <title>Prediction and validation of secondary and tertiary structures of MEV-fc</title>
+        <p>The results of the secondary structure prediction (<xref rid="fig3" ref-type="fig">Figure 3A</xref>) show that MEV-Fc&#x2019;s conformation consists of 15.33% alpha helix (Hh), 19.17% extended strand (Ee), 7.17% beta-turn (Tt), and 58.33% random coil (Cc). To predict the tertiary structure of MEV-Fc, we used the Robetta server, and the resulting model was visualized using the Pymol software package (<xref rid="fig3" ref-type="fig">Figure 3B</xref>). To assess the model&#x2019;s quality, we conducted ProSA-web analysis, which yielded a Z-Score of &#x2212;7.88 (<xref rid="fig4" ref-type="fig">Figure 4A</xref>). This Z-Score falls within the normal range for native proteins of similar size, confirming the credibility of the model. Additionally, we generated a Ramachandran plot using the PROCHECK server to comprehensively evaluate the overall quality of the structural arrangement (<xref rid="fig4" ref-type="fig">Figure 4B</xref>). The analysis showed that 87.1% of residues were in the most favored regions, 10.2% in additional allowed regions, 1.2% in generously allowed regions, and 1.6% in disallowed regions.</p>
+        <fig position="float" id="fig3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Prediction of MEV-Fc secondary and tertiary structures. <bold>(A)</bold> The prediction of MEV-Fc secondary structure. <bold>(B)</bold> The 3D model showcases the MEV-Fc tertiary structure, providing both front view and back view perspectives.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g003" position="float"/>
+        </fig>
+        <fig position="float" id="fig4">
+          <label>Figure 4</label>
+          <caption>
+            <p><bold>(A)</bold> Z-score evaluation results: the x-axis represents the number of amino acids in the protein, while the y-axis represents the score. The figure displays regions marked by blue and gray spots, which indicate the expected scoring range for proteins. The black spots represent the target proteins. <bold>(B)</bold> Ramachandran plot: the plot illustrates the distribution of residues based on their conformational angles.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g004" position="float"/>
+        </fig>
+        <p>In conclusion, the ERRAT server indicated an overall quality factor of 86.531, surpassing the generally accepted threshold of 50 for a good model. Therefore, we can confidently consider the tertiary structure of MEV-Fc as a reliable and accurate model.</p>
+      </sec>
+      <sec id="sec19">
+        <label>3.4.</label>
+        <title>Prediction of B-cell epitopes</title>
+        <p>Using the ElliPro server, we identified a comprehensive set of 311 residues that make up discontinuous B cell epitopes (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 6</xref>). These epitopes had scores ranging from 0.524 to 0.854. Additionally, our prediction revealed 18 consecutive B cell epitopes (<xref rid="SM1" ref-type="supplementary-material">Supplementary Table 7</xref>), which varied in size from 4 to 42 residues, with scores ranging from 0.512 to 0.832.</p>
+      </sec>
+      <sec id="sec20">
+        <label>3.5.</label>
+        <title>Molecular docking</title>
+        <p>We used a powerful tool called ClusPro 2.0 to understand how our vaccine interacts with TLR2 and TLR4, two important proteins. When we examined how the vaccine connects with TLR2, we got 10 different models. We found that one model stood out, showing 11 hydrogen bonds and 5 salt-bridge interactions (<xref rid="fig5" ref-type="fig">Figure 5</xref>; <xref rid="SM1" ref-type="supplementary-material">Supplementary Table 8</xref>). The strength of the bond, called binding free energy, was &#x2212;10.4&#x2009;kcal/mol, indicating a strong connection between MEV-Fc and TLR2. To better understand this interaction, we used Ligplot+ to create a clear 2D picture of how they bond (<xref rid="fig6" ref-type="fig">Figure 6</xref>).</p>
+        <fig position="float" id="fig5">
+          <label>Figure 5</label>
+          <caption>
+            <p><bold>(A)</bold> Outcome plots derived from the ClusPro molecular docking of the vaccine structures (cyan) and TLR2 receptors (red). <bold>(B)</bold> Analysis of interactions within the MEV-Fc-TLR2 complex and generation of their 3D images utilizing the PyMol visualization tool.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g005" position="float"/>
+        </fig>
+        <fig position="float" id="fig6">
+          <label>Figure 6</label>
+          <caption>
+            <p>Further analysis of the interactions within the MEV-Fc-TLR2 complex and generation of their two-dimensional images using the Ligplot+ visualization tool.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g006" position="float"/>
+        </fig>
+        <p>In a similar way, we looked at how our vaccine interacts with TLR4. We also got 10 different models. One model showed an impressive 27 hydrogen bonds and 5 salt-bridge interactions (<xref rid="fig7" ref-type="fig">Figure 7</xref>; <xref rid="SM1" ref-type="supplementary-material">Supplementary Table 9</xref>). The strength of this bond, in terms of binding free energy, was even higher at &#x2212;18.8&#x2009;kcal/mol, suggesting a very strong link between MEV-Fc and TLR4. We used Ligplot+ again to create a clear 2D picture of this complex bond (<xref rid="fig8" ref-type="fig">Figure 8</xref>).</p>
+        <fig position="float" id="fig7">
+          <label>Figure 7</label>
+          <caption>
+            <p><bold>(A)</bold> Result plots generated from the molecular docking of Cluspro, displaying the vaccine structures in cyan and TLR4 receptors in red. <bold>(B)</bold> Analysis of the MEV-Fc-TLR4 complex interactions and generation of their 3D images using the PyMol visualization tool.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g007" position="float"/>
+        </fig>
+        <fig position="float" id="fig8">
+          <label>Figure 8</label>
+          <caption>
+            <p>Analysis of the MEV-Fc-TLR4 complex interactions using the Ligplot+ visualization tool, resulting in two-dimensional images of the interactions.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g008" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec21">
+        <label>3.6.</label>
+        <title>Molecular dynamics simulation between MEV-fc and TLR</title>
+        <p>We used a tool called IModS to simulate how the molecules in our vaccine move and behave. In <xref rid="fig9" ref-type="fig">Figures 9 A</xref>-<xref rid="fig9" ref-type="fig">F</xref>, we show the results of this simulation. In Figure A, we can see how our vaccine (MEV-Fc) behaves when it is connected to TLR2. We used a method called normal mode analysis (NMA) to understand how flexible the proteins are. Figure B shows specific values related to this analysis for the MEV-Fc-TLR2 complex. In Figure C, variance plots showed a cumulative or individual variance of MEV-Fc-TLR2 complex with green or purple, respectively. In Figure D, we compare the actual movement (B factor) with what we predicted through NMA. Figure E displays a map that highlights how different parts of the complex move together. The red areas show significant motions happening together. Lastly, Figure F provides a diagram showing how the parts of the docked protein complexes are interconnected, like springs with varying stiffness. Darker areas indicate stiffer connections. Similar results were obtained for TLR4 (<xref rid="SM1" ref-type="supplementary-material">Supplementary Figure 1</xref>).</p>
+        <fig position="float" id="fig9">
+          <label>Figure 9</label>
+          <caption>
+            <p>Molecular dynamics simulation results of MEV-Fc-TLR2. <bold>(A)</bold> Deformability analysis. <bold>(B)</bold> Eigenvalues of the simulation. <bold>(C)</bold> Variance plots, indicating individual (red) and cumulative (green) variances. <bold>(D)</bold> B-factor comparison. <bold>(E)</bold> Covariance map showing correlated (red), uncorrelated (white), and anticorrelated (blue)movements. <bold>(F)</bold> Elastic network representation, with darker gray areas indicating higher rigidity.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g009" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec22">
+        <label>3.7.</label>
+        <title>Immune simulation</title>
+        <p>We used a tool called C-ImmSim to predict how the immune system in mice would respond to the MEV-Fc vaccine. Here are the key findings (<xref rid="fig10" ref-type="fig">Figure 10</xref>): (1) Antibody Levels: The results showed that the levels of IgM and IgG antibodies increased progressively after three rounds of vaccine injections (<xref rid="fig10" ref-type="fig">Figure 10A</xref>). This suggests that the vaccine triggered an antibody response in mice. (2) B-Cells: B-cells, which are responsible for producing antibodies, became more active with each vaccine injection, reaching their highest level after the final injection (<xref rid="fig10" ref-type="fig">Figure 10B</xref>). (3) Helper T Cells (TH-Cells): Both the total and memory populations of helper T cells (TH-cells) increased significantly (<xref rid="fig10" ref-type="fig">Figure 10C</xref>). The active TH-cell population also expanded robustly, reaching its peak after the third immunization (<xref rid="fig10" ref-type="fig">Figure 10D</xref>). (4) Cytotoxic T Cells (TC Cells): The count of active cytotoxic T lymphocytes (TC cells) increased gradually after each immunization injection (<xref rid="fig10" ref-type="fig">Figure 10E</xref>). (5) Cytokines: There was a notable increase in the levels of interferon-&#x3B3; and IL-2, which are immune system signaling molecules, in response to antigen stimulation (<xref rid="fig10" ref-type="fig">Figure 10F</xref>). These findings suggest that the MEV-Fc vaccine could elicit a strong and diverse immune response in mice, involving antibodies, B-cells, helper T cells, cytotoxic T cells, and cytokines.</p>
+        <fig position="float" id="fig10">
+          <label>Figure 10</label>
+          <caption>
+            <p>Immune simulation. <bold>(A)</bold> Levels of immunoglobulins in different states after antigen stimulation. <bold>(B)</bold> Distribution of B-cell subtypes in different states after antigen stimulation. <bold>(C)</bold> Count of CD4 T-helper lymphocytes after antigen stimulation. <bold>(D)</bold> Distribution of CD4 T-helper lymphocytes divided by activation status after antigen stimulation. <bold>(E)</bold> Count of CD8 T-cytotoxic lymphocytes divided by activation status. <bold>(F)</bold> Production of multiple cytokines following antigen stimulation.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g010" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec23">
+        <label>3.8.</label>
+        <title><italic>In silico</italic> cloning</title>
+        <p>Codon optimization is a technique used to improve the way a particular genetic sequence is expressed by enhancing translational efficiency (<xref rid="ref47" ref-type="bibr">47</xref>). In this context, we optimized the codon usage in the MEV-Fc construct sequence using a tool called JCat. This optimization resulted in a Codon Adaptation Index (CAI) value of 1, and the GC content was measured at 56.99%, which falls within the desirable range. These findings suggest that the optimized sequence is likely to be efficiently expressed in the <italic>E. coli</italic> expression system. You can see the result in (<xref rid="fig11" ref-type="fig">Figure 11</xref>), which shows the expression vector pET 28a(+) with the inserted fragment of the multi-epitope vaccines.</p>
+        <fig position="float" id="fig11">
+          <label>Figure 11</label>
+          <caption>
+            <p><italic>In silico</italic> cloning. The multi-epitope vaccine sequence (highlighted in pink) was successfully inserted into the pET28a (+) expression vector at the HindIII and BamHI restriction endonuclease cleavage sites.</p>
+          </caption>
+          <graphic xlink:href="fvets-10-1238634-g011" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussions" id="sec24">
+      <label>4.</label>
+      <title>Discussion</title>
+      <p>Brucellosis is a complex disease that poses a significant health risk to both humans and livestock (<xref rid="ref48" ref-type="bibr">48</xref>). Vaccines are considered the most cost-effective way to prevent diseases caused by infectious agents (<xref rid="ref49" ref-type="bibr">49</xref>). Subunit vaccines, in particular, show promise due to their safety, non-infectious nature, inability to revert to a virulent form, and precise control over desired effects (<xref rid="ref50" ref-type="bibr">50</xref>). However, developing a safe and effective subunit vaccine against <italic>Brucella</italic> for use in humans and animals has been challenging (<xref rid="ref51" ref-type="bibr">51</xref>, <xref rid="ref52" ref-type="bibr">52</xref>). Advances in bioinformatics, structural biology, and computational tools have transformed vaccine design (<xref rid="ref53" ref-type="bibr">53</xref>). Bioinformatics has been used extensively to predict and design vaccines for various pathogens, including bacteria, viruses, fungi, and cancer (<xref rid="ref54" ref-type="bibr">54</xref>).</p>
+      <p>In this context, we focused on <italic>Brucella abortus</italic> proteins OMP16, OMP19, OMP25, and L7/L12, which are known for their strong immunogenicity and potential to induce immune protection. We developed a multi-epitope vaccine based on these proteins and confirmed its immunogenicity. This vaccine has the potential to provide broad protection against <italic>Brucella</italic> infection.</p>
+      <p><italic>Brucella</italic>, an intracellular and facultative intracellular parasite, has the ability to replicate within specialized or nonprofessional phagocytes (<xref rid="ref55" ref-type="bibr">55</xref>). It has been demonstrated that cell-mediated immunity, particularly involving macrophages and T cells, plays a crucial role in immunoprotection against <italic>Brucella</italic> and other intracellular bacterial pathogens (<xref rid="ref56" ref-type="bibr">56</xref>). B lymphocytes, are pivotal components of humoral immunity, producing antigen-specific antibodies that play a critical role in eliminating <italic>Brucella</italic> infection (<xref rid="ref57" ref-type="bibr">57</xref>, <xref rid="ref58" ref-type="bibr">58</xref>). Therefore, an ideal anti-<italic>Brucella</italic> vaccine should encompass both T-cell and B-cell epitopes. In our study, we employed epitope prediction techniques to identify CD4+ and CD8+ short peptide sequences within the antigen, targeting both CTL and HTL epitopes (<xref rid="ref59" ref-type="bibr">59</xref>). B cell epitopes can be recognized and bind to antibodies (on the surface of B cells or free antibodies), stimulating the immune system&#x2019;s response against pathogens (<xref rid="ref38" ref-type="bibr">38</xref>). By incorporating B cell epitopes, the vaccine can more effectively activate B cells and induce humoral immunity. Consequently, utilizing the IEDB server, we identified 8 dominant CTL epitopes and 6 dominant HTL epitopes from the 4 proteins. Additionally, the ABCpred server was employed to identify 4 dominant linear B cell epitopes present in all four proteins.</p>
+      <p>The choice of a suitable linker is crucial when combining different components in a vaccine (<xref rid="ref60" ref-type="bibr">60</xref>). It helps prevent unintended interactions and improves how the vaccine is processed and presented to the immune system. In our vaccine design, we added the Fc sequence to the vaccine to address the issue of the vaccine&#x2019;s short lifespan and prevent its breakdown in the body. Fc fragment fusion proteins have been studied as potential vaccines or treatments for various diseases like influenza, tuberculosis, and swine fever (<xref rid="ref61" ref-type="bibr">61</xref>&#x2013;<xref rid="ref63" ref-type="bibr">63</xref>). While Fc fragments can help with antigen presentation by binding to receptors on immune cells, this may not be enough to activate certain immune cells and promote the desired immune response. To boost the immune response, we paired our vaccine with adjuvants and molecular agonists (<xref rid="ref64" ref-type="bibr">64</xref>). We chose &#x3B2;-defensin as an adjuvant because it has antimicrobial properties and can modulate the immune system (<xref rid="ref65" ref-type="bibr">65</xref>). Additionally, we included the PADRE sequence, which acts as an activator of certain immune receptors, to enhance the vaccine&#x2019;s long-term effectiveness (<xref rid="ref66" ref-type="bibr">66</xref>). With these modifications, we successfully created a peptide vaccine consisting of 600 amino acids.</p>
+      <p>We conducted further analysis to assess the physical and chemical properties, sensitization, and toxicity of MEV-Fc. Previous research suggests that vaccine proteins should have a molecular mass of less than 110&#x2009;kDa (<xref rid="ref67" ref-type="bibr">67</xref>). MEV-Fc has a predicted molecular weight of about 61.2&#x2009;kDa, which falls within this desirable range. It also shows good antigenic properties, stability, hydrophilicity, solubility, and low sensitivity with an antigenicity score of 1.0342.</p>
+      <p>When we looked at its secondary structure, we found that MEV-Fc is composed of 15.33% alpha helix, 7.17% beta turns, and 58.33% random coils. These structural elements play a crucial role in how antibodies recognize the vaccine when the body is infected (<xref rid="ref40" ref-type="bibr">40</xref>). The presence of beta turns and random coils in protein vaccines helps create antigenic epitopes (<xref rid="ref68" ref-type="bibr">68</xref>).</p>
+      <p>We also generated a 3D model of the <italic>Brucella</italic> vaccine using the Robetta server. The Z score of &#x2212;7.88 indicates that the protein structure prediction is accurate. In a Ramachandran plot analysis, over 98% of residues were located in favorable and permissive regions. This confirms the high accuracy and confidence of the predicted tertiary structure of MEV-Fc, making it a strong foundation for an effective vaccine model.</p>
+      <p>Protein&#x2013;protein docking has become an important tool in the fields of immunoinformatics and pharmacological research. TLR2 and TLR4 are particularly important because they play a crucial role in generating specific T cells and are essential for the body&#x2019;s defense against <italic>Brucella</italic> infection (<xref rid="ref69" ref-type="bibr">69</xref>, <xref rid="ref70" ref-type="bibr">70</xref>). Therefore, we selected TLR2 and TLR4 as the receptors for molecular docking with MEV-Fc. Through molecular docking and subsequent molecular dynamics simulations, the stability of the MEV-Fc-TLR complex interactions was assessed. The docking results revealed the presence of an atomistic interaction interface between MEV-Fc and TLR2/TLR4, indicating a strong interaction between them, it indicates that MEV-Fc can activate the TLR2/TLR4 receptor signaling pathway and activate the immune response.</p>
+      <p>As mentioned earlier, <italic>Brucella</italic> is a type of bacteria that can survive and multiply within cells. To combat this, stimulating a T-cell-dependent immune response is crucial, as it hinders the bacteria&#x2019;s growth within cells (<xref rid="ref71" ref-type="bibr">71</xref>). B cells are also vital for the body&#x2019;s defense by producing specific proteins that aid in immunity (<xref rid="ref59" ref-type="bibr">59</xref>). The predictions regarding MEV-Fc showed that it effectively triggered both the innate and adaptive immune responses in mice. Notably, it increased various cell populations related to immunity and promoted the production of antibodies (Ig). The predicted results also indicated a significant rise in interferon-gamma and IL-2 levels. Interferon-gamma is important for fighting bacterial infections as it activates macrophages, aiding in the elimination of intracellular pathogens (<xref rid="ref72" ref-type="bibr">72</xref>).</p>
+      <p>To ensure effective transcription and translation, we used JCAT software for codon optimization. The goal was to predict the best way to express the MEV-Fc construct in the <italic>E. coli</italic> K12 strain. The results showed a CAI value of 1 and a GC content of 56.99%. This suggests a high chance of successful and efficient expression in the <italic>E. coli</italic> expression system. Experimental verification of the immunogenicity and safety of the vaccine candidates designed and constructed in this study is required. The next step in this study will therefore be to perform high throughput cloning of the constructed vaccine candidates, expression of the purified recombinant proteins, immunization of the animals, and immunological assessments to ensure the true potential of the designed <italic>Brucella</italic> epitope vaccine.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec25">
+      <label>5.</label>
+      <title>Conclusion</title>
+      <p>In summary, this study introduces a novel vaccine candidate called MEV-Fc, designed specifically to prevent brucellosis. MEV-Fc includes 8 CTL epitopes, 6 HTL epitopes, 4 B cell epitopes, along with adjuvants and Fc fragments. MEV-Fc shows strong antigenicity and immunogenicity, and it is safe with no sensitizing or toxic effects. Importantly, MEV-Fc has a strong affinity for both TLR2 and TLR4, indicating a stable interaction. Additionally, MEV-Fc triggers a robust innate and adaptive immune response, leading to increased levels of Th1-type cytokines like interferon-gamma and IL-2. These promising findings suggest that MEV-Fc could be an excellent vaccine candidate for preventing brucellosis. But <italic>in vivo</italic> studies and laboratory data are also required to confirm vaccine efficacy.</p>
+    </sec>
+    <sec sec-type="data-availability" id="sec26">
+      <title>Data availability statement</title>
+      <p>The datasets presented in this study can be found in online repositories. The names of the repository or repositories and accession number(s) can be found in the <xref rid="SM1" ref-type="supplementary-material">Supplementary material</xref>.</p>
+    </sec>
+    <sec sec-type="author-contributions" id="sec27">
+      <title>Author contributions</title>
+      <p>JS and JY presented the concept and edited the article. AW and YW presented the concept, analyzed the data, and wrote the manuscript. AA and ZX designed the figures and edited the Manuscript. DZ and KZ review the manuscript and contributed to the data analysis. All authors contributed to the article and approved the submitted version.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="fn0001">
+        <p><sup>1</sup><ext-link xlink:href="http://tools.iedb.org/mhci/" ext-link-type="uri">http://tools.iedb.org/mhci/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0002">
+        <p><sup>2</sup><ext-link xlink:href="http://tools.iedb.org/mhcii/" ext-link-type="uri">http://tools.iedb.org/mhcii/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0003">
+        <p><sup>3</sup><ext-link xlink:href="https://webs.iiitd.edu.in/raghava/abcpred/ABC_submission.html" ext-link-type="uri">https://webs.iiitd.edu.in/raghava/abcpred/ABC_submission.html</ext-link>
+</p>
+      </fn>
+      <fn id="fn0004">
+        <p><sup>4</sup><ext-link xlink:href="https://www.expasy.org/resources/protparam" ext-link-type="uri">https://www.expasy.org/resources/protparam</ext-link>
+</p>
+      </fn>
+      <fn id="fn0005">
+        <p><sup>5</sup><ext-link xlink:href="http://scratch.proteomics.ics.uci.edu//" ext-link-type="uri">http://scratch.proteomics.ics.uci.edu//</ext-link>
+</p>
+      </fn>
+      <fn id="fn0006">
+        <p><sup>6</sup><ext-link xlink:href="http://ddg-pharmfac.net/AllergenFP/" ext-link-type="uri">http://ddg-pharmfac.net/AllergenFP/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0007">
+        <p><sup>7</sup><ext-link xlink:href="http://crdd.osdd.net/raghava/toxinpred/" ext-link-type="uri">http://crdd.osdd.net/raghava/toxinpred/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0008">
+        <p><sup>8</sup><ext-link xlink:href="https://saves.mbi.ucla.edu/" ext-link-type="uri">https://saves.mbi.ucla.edu/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0009">
+        <p><sup>9</sup><ext-link xlink:href="http://services.mbi.ucla.edu/ERRAT/" ext-link-type="uri">http://services.mbi.ucla.edu/ERRAT/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0010">
+        <p><sup>10</sup><ext-link xlink:href="https://www.ncbi.nlm.nih.gov/structure/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/structure/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0011">
+        <p><sup>11</sup><ext-link xlink:href="https://cluspro.bu.edu/login.php?redir=/home.php" ext-link-type="uri">https://cluspro.bu.edu/login.php?redir=/home.php</ext-link>
+</p>
+      </fn>
+      <fn id="fn0012">
+        <p><sup>12</sup><ext-link xlink:href="https://www.ebi.ac.uk/pdbe/pisa/" ext-link-type="uri">https://www.ebi.ac.uk/pdbe/pisa/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0013">
+        <p><sup>13</sup><ext-link xlink:href="https://imods.iqfr.csic.es/" ext-link-type="uri">https://imods.iqfr.csic.es/</ext-link>
+</p>
+      </fn>
+      <fn id="fn0014">
+        <p><sup>14</sup><ext-link xlink:href="https://150.146.2.1/C-IMMSIM/index.php" ext-link-type="uri">https://150.146.2.1/C-IMMSIM/index.php</ext-link>
+</p>
+      </fn>
+      <fn id="fn0015">
+        <p><sup>15</sup><ext-link xlink:href="http://www.jcat.de/" ext-link-type="uri">http://www.jcat.de/</ext-link>
+</p>
+      </fn>
+    </fn-group>
+    <sec sec-type="COI-statement" id="sec29">
+      <title>Conflict of interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="sec100">
+      <title>Publisher&#x2019;s note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="sec30">
+      <title>Supplementary material</title>
+      <p>The Supplementary material for this article can be found online at: <ext-link xlink:href="https://www.frontiersin.org/articles/10.3389/fvets.2023.1238634/full#supplementary-material" ext-link-type="uri">https://www.frontiersin.org/articles/10.3389/fvets.2023.1238634/full#supplementary-material</ext-link></p>
+      <supplementary-material id="SM1" position="float" content-type="local-data">
+        <media xlink:href="Data_Sheet_1.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Byndloss</surname><given-names>MX</given-names></name><name><surname>Tsolis</surname><given-names>RM</given-names></name></person-group>. <article-title>Brucella spp. virulence factors and immunity</article-title>. <source>Ann Rev Anim Biosci</source>. (<year>2016</year>) <volume>4</volume>:<fpage>111</fpage>&#x2013;<lpage>27</lpage>. doi: <pub-id pub-id-type="doi">10.1146/annurev-animal-021815-111326</pub-id><pub-id pub-id-type="pmid">26734887</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boschiroli</surname><given-names>ML</given-names></name><name><surname>Foulongne</surname><given-names>V</given-names></name><name><surname>O'Callaghan</surname><given-names>D</given-names></name></person-group>. <article-title>Brucellosis: a worldwide zoonosis</article-title>. <source>Curr Opin Microbiol</source>. (<year>2001</year>) <volume>4</volume>:<fpage>58</fpage>&#x2013;<lpage>64</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s1369-5274(00)00165-x</pub-id><pub-id pub-id-type="pmid">11173035</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Celli</surname><given-names>J</given-names></name></person-group>. <article-title>The changing nature of the Brucella-containing vacuole</article-title>. <source>Cell Microbiol</source>. (<year>2015</year>) <volume>17</volume>:<fpage>951</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1111/cmi.12452</pub-id>, PMID: <pub-id pub-id-type="pmid">25916795</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lalsiamthara</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>JH</given-names></name></person-group>. <article-title>Brucella lipopolysaccharide reinforced Salmonella delivering Brucella immunogens protects mice against virulent challenge</article-title>. <source>Vet Microbiol</source>. (<year>2017</year>) <volume>205</volume>:<fpage>84</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vetmic.2017.05.012</pub-id>, PMID: <pub-id pub-id-type="pmid">28622869</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godfroid</surname><given-names>J</given-names></name><name><surname>Scholz</surname><given-names>HC</given-names></name><name><surname>Barbier</surname><given-names>T</given-names></name><name><surname>Nicolas</surname><given-names>C</given-names></name><name><surname>Wattiau</surname><given-names>P</given-names></name><name><surname>Fretin</surname><given-names>D</given-names></name><etal/></person-group>. <article-title>Brucellosis at the animal/ecosystem/human interface at the beginning of the 21st century</article-title>. <source>Prev Vet Med</source>. (<year>2011</year>) <volume>102</volume>:<fpage>118</fpage>&#x2013;<lpage>31</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.prevetmed.2011.04.007</pub-id><pub-id pub-id-type="pmid">21571380</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dorneles</surname><given-names>EMS</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name><name><surname>Lage</surname><given-names>AP</given-names></name></person-group>. <article-title>Recent advances in <italic>Brucella abortus</italic> vaccines</article-title>. <source>Vet Res</source>. (<year>2015</year>) <volume>46</volume>:<fpage>76</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13567-015-0199-7</pub-id>, PMID: <pub-id pub-id-type="pmid">26155935</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Avila-Calder&#xF3;n</surname><given-names>ED</given-names></name><name><surname>Lopez-Merino</surname><given-names>A</given-names></name><name><surname>Sriranganathan</surname><given-names>N</given-names></name><name><surname>Boyle</surname><given-names>SM</given-names></name><name><surname>Contreras-Rodr&#xED;guez</surname><given-names>A</given-names></name></person-group>. <article-title>A history of the development of Brucella vaccines</article-title>. <source>Biomed Res Int</source>. (<year>2013</year>) <volume>2013</volume>:<fpage>743509</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2013/743509</pub-id>, PMID: <pub-id pub-id-type="pmid">23862154</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tibor</surname><given-names>A</given-names></name><name><surname>Decelle</surname><given-names>B</given-names></name><name><surname>Letesson</surname><given-names>JJ</given-names></name></person-group>. <article-title>Outer membrane proteins Omp10, Omp16, and Omp19 of Brucella spp. are lipoproteins</article-title>. <source>Infect Immun</source>. (<year>1999</year>) <volume>67</volume>:<fpage>4960</fpage>&#x2013;<lpage>2</lpage>. doi: <pub-id pub-id-type="doi">10.1128/iai.67.9.4960-4962.1999</pub-id>, PMID: <pub-id pub-id-type="pmid">10456959</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Godlewska</surname><given-names>R</given-names></name><name><surname>Wi&#x15B;niewska</surname><given-names>K</given-names></name><name><surname>Pietras</surname><given-names>Z</given-names></name><name><surname>Jagusztyn-Krynicka</surname><given-names>EK</given-names></name></person-group>. <article-title>Peptidoglycan-associated lipoprotein (pal) of gram-negative bacteria: function, structure, role in pathogenesis and potential application in immunoprophylaxis</article-title>. <source>FEMS Microbiol Lett</source>. (<year>2009</year>) <volume>298</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1574-6968.2009.01659.x</pub-id>, PMID: <pub-id pub-id-type="pmid">19519769</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alizadeh</surname><given-names>H</given-names></name><name><surname>Dezfulian</surname><given-names>M</given-names></name><name><surname>Rahnema</surname><given-names>M</given-names></name><name><surname>Fallah</surname><given-names>J</given-names></name><name><surname>Esmaeili</surname><given-names>D</given-names></name></person-group>. <article-title>Protection of BALB/c mice against pathogenic Brucella abortus and <italic>Brucella melitensis</italic> by vaccination with recombinant Omp16</article-title>. <source>Iran J Basic Med Sci</source>. (<year>2019</year>) <volume>22</volume>:<fpage>1302</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.22038/ijbms.2019.36369.8665</pub-id><pub-id pub-id-type="pmid">32128095</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>KA</given-names></name><name><surname>Carabajal</surname><given-names>MV</given-names></name><name><surname>Guaimas</surname><given-names>FF</given-names></name><name><surname>Bruno</surname><given-names>L</given-names></name><name><surname>Roset</surname><given-names>MS</given-names></name><name><surname>Coria</surname><given-names>LM</given-names></name><etal/></person-group>. <article-title>Omp19 enables <italic>Brucella abortus</italic> to evade the antimicrobial activity from Host's proteolytic Defense system</article-title>. <source>Front Immunol</source>. (<year>2019</year>) <volume>10</volume>:<fpage>1436</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2019.01436</pub-id>, PMID: <pub-id pub-id-type="pmid">31297115</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barrionuevo</surname><given-names>P</given-names></name><name><surname>Cassataro</surname><given-names>J</given-names></name><name><surname>Delpino</surname><given-names>MV</given-names></name><name><surname>Zwerdling</surname><given-names>A</given-names></name><name><surname>Pasquevich</surname><given-names>KA</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C</given-names></name><etal/></person-group>. <article-title><italic>Brucella abortus</italic> inhibits major histocompatibility complex class II expression and antigen processing through interleukin-6 secretion via toll-like receptor 2</article-title>. <source>Infect Immun</source>. (<year>2007</year>) <volume>76</volume>:<fpage>250</fpage>&#x2013;<lpage>62</lpage>. doi: <pub-id pub-id-type="doi">10.1128/iai.00949-07</pub-id>, PMID: <pub-id pub-id-type="pmid">17984211</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pasquevich</surname><given-names>KA</given-names></name><name><surname>Iba&#xF1;ez</surname><given-names>AE</given-names></name><name><surname>Coria</surname><given-names>LM</given-names></name><name><surname>Garc&#xED;a Samartino</surname><given-names>C</given-names></name><name><surname>Estein</surname><given-names>SM</given-names></name><name><surname>Zwerdling</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>An oral vaccine based on U-Omp19 induces protection against <italic>B. abortus</italic> mucosal challenge by inducing an adaptive IL-17 immune response in mice</article-title>. <source>PLoS One</source>. (<year>2011</year>) <volume>6</volume>:<fpage>e16203</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0016203</pub-id><pub-id pub-id-type="pmid">21264260</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Vizca&#xED;no</surname><given-names>N</given-names></name><name><surname>Paquet</surname><given-names>J-Y</given-names></name><name><surname>Bowden</surname><given-names>RA</given-names></name><name><surname>Elzer</surname><given-names>PH</given-names></name></person-group>. <article-title>Major outer membrane proteins of Brucella spp.: past, present and future</article-title>. <source>Vet Microbiol</source>. (<year>2002</year>) <volume>90</volume>:<fpage>229</fpage>&#x2013;<lpage>47</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s0378-1135(02)00211-0</pub-id>, PMID: <pub-id pub-id-type="pmid">12414146</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jubier-Maurin</surname><given-names>V</given-names></name><name><surname>Boigegrain</surname><given-names>RA</given-names></name><name><surname>Cloeckaert</surname><given-names>A</given-names></name><name><surname>Gross</surname><given-names>A</given-names></name><name><surname>Alvarez-Martinez</surname><given-names>MT</given-names></name><name><surname>Terraza</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Major outer membrane protein Omp25 of <italic>Brucella suis</italic> is involved in inhibition of tumor necrosis factor alpha production during infection of human macrophages</article-title>. <source>Infect Immun</source>. (<year>2001</year>) <volume>69</volume>:<fpage>4823</fpage>&#x2013;<lpage>30</lpage>. doi: <pub-id pub-id-type="doi">10.1128/iai.69.8.4823-4830.2001</pub-id>, PMID: <pub-id pub-id-type="pmid">11447156</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Commander</surname><given-names>NJ</given-names></name><name><surname>Spencer</surname><given-names>SA</given-names></name><name><surname>Wren</surname><given-names>BW</given-names></name><name><surname>MacMillan</surname><given-names>AP</given-names></name></person-group>. <article-title>The identification of two protective DNA vaccines from a panel of five plasmid constructs encoding <italic>Brucella melitensis</italic> 16M genes</article-title>. <source>Vaccine</source>. (<year>2006</year>) <volume>25</volume>:<fpage>43</fpage>&#x2013;<lpage>54</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2006.07.046</pub-id>, PMID: <pub-id pub-id-type="pmid">17049676</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goel</surname><given-names>D</given-names></name><name><surname>Bhatnagar</surname><given-names>R</given-names></name></person-group>. <article-title>Intradermal immunization with outer membrane protein 25 protects Balb/c mice from virulent <italic>B. abortus</italic> 544</article-title>. <source>Mol Immunol</source>. (<year>2012</year>) <volume>51</volume>:<fpage>159</fpage>&#x2013;<lpage>68</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2012.02.126</pub-id><pub-id pub-id-type="pmid">22464098</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Golshani</surname><given-names>M</given-names></name><name><surname>Rafati</surname><given-names>S</given-names></name><name><surname>Siadat</surname><given-names>SD</given-names></name><name><surname>Nejati-Moheimani</surname><given-names>M</given-names></name><name><surname>Shahcheraghi</surname><given-names>F</given-names></name><name><surname>Arsang</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Improved immunogenicity and protective efficacy of a divalent DNA vaccine encoding Brucella L7/L12-truncated Omp31 fusion protein by a DNA priming and protein boosting regimen</article-title>. <source>Mol Immunol</source>. (<year>2015</year>) <volume>66</volume>:<fpage>384</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2015.04.015</pub-id>, PMID: <pub-id pub-id-type="pmid">25968974</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>SC</given-names></name><name><surname>Zhu</surname><given-names>Y</given-names></name><name><surname>Splitter</surname><given-names>GA</given-names></name></person-group>. <article-title>Recombinant L7/L12 ribosomal protein and gamma-irradiated <italic>Brucella abortus</italic> induce a T-helper 1 subset response from murine CD4+ T cells</article-title>. <source>Immunology</source>. (<year>1994</year>) <volume>83</volume>:<fpage>659</fpage>&#x2013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">7875746</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>SC</given-names></name><name><surname>Splitter</surname><given-names>GA</given-names></name></person-group>. <article-title>Immunization of mice with recombinant L7/L12 ribosomal protein confers protection against <italic>Brucella abortus</italic> infection</article-title>. <source>Vaccine</source>. (<year>1996</year>) <volume>14</volume>:<fpage>959</fpage>&#x2013;<lpage>62</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0264-410x(96)00018-7</pub-id>, PMID: <pub-id pub-id-type="pmid">8873388</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jafari</surname><given-names>R</given-names></name><name><surname>Zolbanin</surname><given-names>NM</given-names></name><name><surname>Rafatpanah</surname><given-names>H</given-names></name><name><surname>Majidi</surname><given-names>J</given-names></name><name><surname>Kazemi</surname><given-names>T</given-names></name></person-group>. <article-title>Fc-fusion proteins in therapy: an updated view</article-title>. <source>Curr Med Chem</source>. (<year>2017</year>) <volume>24</volume>:<fpage>1228</fpage>&#x2013;<lpage>37</lpage>. doi: <pub-id pub-id-type="doi">10.2174/0929867324666170113112759</pub-id>, PMID: <pub-id pub-id-type="pmid">28088904</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kontermann</surname><given-names>RE</given-names></name></person-group>. <article-title>Strategies for extended serum half-life of protein therapeutics</article-title>. <source>Curr Opin Biotechnol</source>. (<year>2011</year>) <volume>22</volume>:<fpage>868</fpage>&#x2013;<lpage>76</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.copbio.2011.06.012</pub-id><pub-id pub-id-type="pmid">21862310</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ye</surname><given-names>L</given-names></name><name><surname>Zeng</surname><given-names>R</given-names></name><name><surname>Bai</surname><given-names>Y</given-names></name><name><surname>Roopenian</surname><given-names>DC</given-names></name><name><surname>Zhu</surname><given-names>X</given-names></name></person-group>. <article-title>Efficient mucosal vaccination mediated by the neonatal fc receptor</article-title>. <source>Nat Biotechnol</source>. (<year>2011</year>) <volume>29</volume>:<fpage>158</fpage>&#x2013;<lpage>63</lpage>. doi: <pub-id pub-id-type="doi">10.1038/nbt.1742</pub-id>, PMID: <pub-id pub-id-type="pmid">21240266</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alleva</surname><given-names>DG</given-names></name><name><surname>Delpero</surname><given-names>AR</given-names></name><name><surname>Scully</surname><given-names>MM</given-names></name><name><surname>Murikipudi</surname><given-names>S</given-names></name><name><surname>Ragupathy</surname><given-names>R</given-names></name><name><surname>Greaves</surname><given-names>EK</given-names></name><etal/></person-group>. <article-title>Development of an IgG-fc fusion COVID-19 subunit vaccine, AKS-452</article-title>. <source>Vaccine</source>. (<year>2021</year>) <volume>39</volume>:<fpage>6601</fpage>&#x2013;<lpage>13</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2021.09.077</pub-id>, PMID: <pub-id pub-id-type="pmid">34642088</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Doytchinova</surname><given-names>IA</given-names></name><name><surname>Flower</surname><given-names>DR</given-names></name></person-group>. <article-title>VaxiJen: a server for prediction of protective antigens, tumour antigens and subunit vaccines</article-title>. <source>BMC Bioinfo</source>. (<year>2007</year>) <volume>8</volume>:<fpage>4</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1471-2105-8-4</pub-id>, PMID: <pub-id pub-id-type="pmid">17207271</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>Y</given-names></name><name><surname>Ponomarenko</surname><given-names>J</given-names></name><name><surname>Zhu</surname><given-names>Z</given-names></name><name><surname>Tamang</surname><given-names>D</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>Greenbaum</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Immune epitope database analysis resource</article-title>. <source>Nucleic Acids Res</source>. (<year>2012</year>) <volume>40</volume>:<fpage>W525</fpage>&#x2013;<lpage>30</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gks438</pub-id><pub-id pub-id-type="pmid">22610854</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><name><surname>Kim</surname><given-names>Y</given-names></name><name><surname>Haste-Andersen</surname><given-names>P</given-names></name><name><surname>Beaver</surname><given-names>J</given-names></name><name><surname>Bourne</surname><given-names>PE</given-names></name><etal/></person-group>. <article-title>Immune epitope database analysis resource (IEDB-AR)</article-title>. <source>Nucleic Acids Res</source>. (<year>2008</year>) <volume>36</volume>:<fpage>W513</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkn254</pub-id><pub-id pub-id-type="pmid">18515843</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dhanda</surname><given-names>SK</given-names></name><name><surname>Vir</surname><given-names>P</given-names></name><name><surname>Raghava</surname><given-names>GPS</given-names></name></person-group>. <article-title>Designing of interferon-gamma inducing MHC class-II binders</article-title>. <source>Biol Direct</source>. (<year>2013</year>) <volume>8</volume>:<fpage>30</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1745-6150-8-30</pub-id>, PMID: <pub-id pub-id-type="pmid">24304645</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saha</surname><given-names>S</given-names></name><name><surname>Raghava</surname><given-names>GPS</given-names></name></person-group>. <article-title>Prediction of continuous B-cell epitopes in an antigen using recurrent neural network</article-title>. <source>Proteins: Struc, Func Bioinfo</source>. (<year>2006</year>) <volume>65</volume>:<fpage>40</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1002/prot.21078</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuspoca</surname><given-names>AF</given-names></name><name><surname>D&#xED;az</surname><given-names>LL</given-names></name><name><surname>Acosta</surname><given-names>AF</given-names></name><name><surname>Pe&#xF1;aloza</surname><given-names>MK</given-names></name><name><surname>M&#xE9;ndez</surname><given-names>YR</given-names></name><name><surname>Clavijo</surname><given-names>DC</given-names></name><etal/></person-group>. <article-title>An Immunoinformatics approach for SARS-CoV-2 in Latam populations and multi-epitope vaccine candidate directed towards the World&#x2019;s population</article-title>. <source>Vaccine</source>. (<year>2021</year>) <volume>9</volume>:<fpage>581</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines9060581</pub-id>, PMID: <pub-id pub-id-type="pmid">34205992</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Magnan</surname><given-names>CN</given-names></name><name><surname>Randall</surname><given-names>A</given-names></name><name><surname>Baldi</surname><given-names>P</given-names></name></person-group>. <article-title>SOLpro: accurate sequence-based prediction of protein solubility</article-title>. <source>Bioinformatics</source>. (<year>2009</year>) <volume>25</volume>:<fpage>2200</fpage>&#x2013;<lpage>7</lpage>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btp386</pub-id>, PMID: <pub-id pub-id-type="pmid">19549632</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saha</surname><given-names>S</given-names></name><name><surname>Raghava</surname><given-names>GPS</given-names></name></person-group>. <article-title>AlgPred: prediction of allergenic proteins and mapping of IgE epitopes</article-title>. <source>Nucleic Acids Res</source>. (<year>2006</year>) <volume>34</volume>:<fpage>W202</fpage>&#x2013;<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkl343</pub-id><pub-id pub-id-type="pmid">16844994</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gupta</surname><given-names>S</given-names></name><name><surname>Kapoor</surname><given-names>P</given-names></name><name><surname>Chaudhary</surname><given-names>K</given-names></name><name><surname>Gautam</surname><given-names>A</given-names></name><name><surname>Kumar</surname><given-names>R</given-names></name><name><surname>Null</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>In silico approach for predicting toxicity of peptides and proteins</article-title>. <source>PLoS One</source>. (<year>2013</year>) <volume>34</volume>:<fpage>W202</fpage>&#x2013;<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0073957</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baek</surname><given-names>M</given-names></name><name><surname>DiMaio</surname><given-names>F</given-names></name><name><surname>Anishchenko</surname><given-names>I</given-names></name><name><surname>Dauparas</surname><given-names>J</given-names></name><name><surname>Ovchinnikov</surname><given-names>S</given-names></name><name><surname>Lee</surname><given-names>GR</given-names></name><etal/></person-group>. <article-title>Accurate prediction of protein structures and interactions using a three-track neural network</article-title>. <source>Science</source>. (<year>2021</year>) <volume>373</volume>:<fpage>871</fpage>&#x2013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.1126/science.abj8754</pub-id>, PMID: <pub-id pub-id-type="pmid">34282049</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wiederstein</surname><given-names>M</given-names></name><name><surname>Sippl</surname><given-names>MJ</given-names></name></person-group>. <article-title>ProSA-web: interactive web service for the recognition of errors in three-dimensional structures of proteins</article-title>. <source>Nucleic Acids Res</source>. (<year>2007</year>) <volume>35</volume>:<fpage>W407</fpage>&#x2013;<lpage>10</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gkm290</pub-id><pub-id pub-id-type="pmid">17517781</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laskowski</surname><given-names>RA</given-names></name><name><surname>MacArthur</surname><given-names>MW</given-names></name><name><surname>Moss</surname><given-names>DS</given-names></name><name><surname>Thornton</surname><given-names>JM</given-names></name></person-group>. <article-title>PROCHECK: a program to check the stereochemical quality of protein structures</article-title>. <source>J Appl Crystallogr</source>. (<year>1993</year>) <volume>26</volume>:<fpage>283</fpage>&#x2013;<lpage>91</lpage>. doi: <pub-id pub-id-type="doi">10.1107/s0021889892009944</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Colovos</surname><given-names>C</given-names></name><collab id="coll1">Yeates TO</collab></person-group>. <article-title>Verification of protein structures: patterns of nonbonded atomic interactions</article-title>. <source>Protein Sci</source>. (<year>1993</year>) <volume>2</volume>:<fpage>1511</fpage>&#x2013;<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.1002/pro.5560020916</pub-id>, PMID: <pub-id pub-id-type="pmid">8401235</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alghamdi</surname><given-names>W</given-names></name><name><surname>Attique</surname><given-names>M</given-names></name><name><surname>Alzahrani</surname><given-names>E</given-names></name><name><surname>Ullah</surname><given-names>MZ</given-names></name><name><surname>Khan</surname><given-names>YD</given-names></name></person-group>. <article-title>LBCEPred: a machine learning model to predict linear B-cell epitopes</article-title>. <source>Brief Bioinform</source>. (<year>2022</year>) <volume>23</volume>:<fpage>bbac035</fpage>. doi: <pub-id pub-id-type="doi">10.1093/bib/bbac035</pub-id><pub-id pub-id-type="pmid">35262658</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ponomarenko</surname><given-names>J</given-names></name><name><surname>Bui</surname><given-names>H-H</given-names></name><name><surname>Li</surname><given-names>W</given-names></name><name><surname>Fusseder</surname><given-names>N</given-names></name><name><surname>Bourne</surname><given-names>PE</given-names></name><name><surname>Sette</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>ElliPro: a new structure-based tool for the prediction of antibody epitopes</article-title>. <source>BMC Bioinfo</source>. (<year>2008</year>) <volume>23</volume>:<fpage>bbac035</fpage>. doi: <pub-id pub-id-type="doi">10.1186/1471-2105-9-514</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>P</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Gong</surname><given-names>W</given-names></name></person-group>. <article-title>In silico analysis of peptide-based biomarkers for the diagnosis and prevention of latent tuberculosis infection</article-title>. <source>Front Microbiol</source>. (<year>2022</year>) <volume>13</volume>:<fpage>947852</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2022.947852</pub-id>, PMID: <pub-id pub-id-type="pmid">35836423</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kozakov</surname><given-names>D</given-names></name><name><surname>Hall</surname><given-names>DR</given-names></name><name><surname>Xia</surname><given-names>B</given-names></name><name><surname>Porter</surname><given-names>KA</given-names></name><name><surname>Padhorny</surname><given-names>D</given-names></name><name><surname>Yueh</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>The ClusPro web server for protein-protein docking</article-title>. <source>Nat Protoc</source>. (<year>2017</year>) <volume>12</volume>:<fpage>255</fpage>&#x2013;<lpage>78</lpage>. doi: <pub-id pub-id-type="doi">10.1038/nprot.2016.169</pub-id>, PMID: <pub-id pub-id-type="pmid">28079879</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krissinel</surname><given-names>E</given-names></name><name><surname>Henrick</surname><given-names>K</given-names></name></person-group>. <article-title>Inference of macromolecular assemblies from crystalline state</article-title>. <source>J Mol Biol</source>. (<year>2007</year>) <volume>372</volume>:<fpage>774</fpage>&#x2013;<lpage>97</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jmb.2007.05.022</pub-id><pub-id pub-id-type="pmid">17681537</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lop&#xE9;z-Blanco</surname><given-names>JR</given-names></name><name><surname>Garz&#xF3;n</surname><given-names>JI</given-names></name><name><surname>Chac&#xF3;n</surname><given-names>P</given-names></name></person-group>. <article-title>iMod: multipurpose normal mode analysis in internal coordinates</article-title>. <source>Bioinformatics</source>. (<year>2011</year>) <volume>27</volume>:<fpage>2843</fpage>&#x2013;<lpage>50</lpage>. doi: <pub-id pub-id-type="doi">10.1093/bioinformatics/btr497</pub-id>, PMID: <pub-id pub-id-type="pmid">21873636</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rapin</surname><given-names>N</given-names></name><name><surname>Lund</surname><given-names>O</given-names></name><name><surname>Bernaschi</surname><given-names>M</given-names></name><name><surname>Castiglione</surname><given-names>F</given-names></name></person-group>. <article-title>Computational immunology meets bioinformatics: the use of prediction tools for molecular binding in the simulation of the immune system</article-title>. <source>PLoS One</source>. (<year>2010</year>) <volume>5</volume>:<fpage>e9862</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0009862</pub-id>, PMID: <pub-id pub-id-type="pmid">20419125</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Castiglione</surname><given-names>F</given-names></name><name><surname>Mantile</surname><given-names>F</given-names></name><name><surname>De Berardinis</surname><given-names>P</given-names></name><name><surname>Prisco</surname><given-names>A</given-names></name></person-group>. <article-title>How the interval between prime and boost injection affects the immune response in a computational model of the immune system</article-title>. <source>Comput Math Methods Med</source>. (<year>2012</year>) <volume>2012</volume>:<fpage>842329</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2012/842329</pub-id>, PMID: <pub-id pub-id-type="pmid">22997539</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grote</surname><given-names>A</given-names></name><name><surname>Hiller</surname><given-names>K</given-names></name><name><surname>Scheer</surname><given-names>M</given-names></name><name><surname>Munch</surname><given-names>R</given-names></name><name><surname>Nortemann</surname><given-names>B</given-names></name><name><surname>Hempel</surname><given-names>DC</given-names></name><etal/></person-group>. <article-title>JCat: a novel tool to adapt codon usage of a target gene to its potential expression host</article-title>. <source>Nucleic Acids Res</source>. (<year>2005</year>) <volume>33</volume>:<fpage>W526</fpage>&#x2013;<lpage>31</lpage>. doi: <pub-id pub-id-type="doi">10.1093/nar/gki376</pub-id><pub-id pub-id-type="pmid">15980527</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qian</surname><given-names>W</given-names></name><name><surname>Yang</surname><given-names>J-R</given-names></name><name><surname>Pearson</surname><given-names>NM</given-names></name><name><surname>Maclean</surname><given-names>C</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name></person-group>. <article-title>Balanced codon usage optimizes eukaryotic translational efficiency</article-title>. <source>PLoS Genet</source>. (<year>2012</year>) <volume>8</volume>:<fpage>e1002603</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pgen.1002603</pub-id><pub-id pub-id-type="pmid">22479199</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yin</surname><given-names>D</given-names></name><name><surname>Bai</surname><given-names>Q</given-names></name><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Xu</surname><given-names>K</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name></person-group>. <article-title>Study on immunogenicity and antigenicity of a novel brucella multiepitope recombined protein</article-title>. <source>Biochem Biophys Res Commun</source>. (<year>2021</year>) <volume>540</volume>:<fpage>37</fpage>&#x2013;<lpage>41</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbrc.2020.12.098</pub-id>, PMID: <pub-id pub-id-type="pmid">33429198</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Greenwood</surname><given-names>B</given-names></name></person-group>. <article-title>The contribution of vaccination to global health: past, present and future</article-title>. <source>Philosop Trans Royal Society B: Biolog Sci</source>. (<year>2014</year>) <volume>369</volume>:<fpage>20130433</fpage>. doi: <pub-id pub-id-type="doi">10.1098/rstb.2013.0433</pub-id>, PMID: <pub-id pub-id-type="pmid">24821919</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ficht</surname><given-names>TA</given-names></name><name><surname>Kahl-McDonagh</surname><given-names>MM</given-names></name><name><surname>Arenas-Gamboa</surname><given-names>AM</given-names></name></person-group>. <article-title>Rice-Ficht AC Brucellosis: the case for live, attenuated vaccines</article-title>, <article-title>27</article-title>. <source>Vaccine</source>. (<year>2009</year>) <volume>27</volume>:<fpage>D40</fpage>&#x2013;<lpage>3</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2009.08.058</pub-id>, PMID: </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hou</surname><given-names>H</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Peng</surname><given-names>Q</given-names></name></person-group>. <article-title>The advances in brucellosis vaccines</article-title>. <source>Vaccine</source>. (<year>2019</year>) <volume>37</volume>:<fpage>3981</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2019.05.084</pub-id>, PMID: <pub-id pub-id-type="pmid">31176541</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moyle</surname><given-names>PM</given-names></name><name><surname>Toth</surname><given-names>I</given-names></name></person-group>. <article-title>Modern subunit vaccines: development, components, and research opportunities</article-title>. <source>ChemMedChem</source>. (<year>2013</year>) <volume>8</volume>:<fpage>360</fpage>&#x2013;<lpage>76</lpage>. doi: <pub-id pub-id-type="doi">10.1002/cmdc.201200487</pub-id><pub-id pub-id-type="pmid">23316023</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kardani</surname><given-names>K</given-names></name><name><surname>Bolhassani</surname><given-names>A</given-names></name><name><surname>Namvar</surname><given-names>A</given-names></name></person-group>. <article-title>An overview of in silico vaccine design against different pathogens and cancer</article-title>. <source>Expert Rev Vaccines</source>. (<year>2020</year>) <volume>19</volume>:<fpage>699</fpage>&#x2013;<lpage>726</lpage>. doi: <pub-id pub-id-type="doi">10.1080/14760584.2020.1794832</pub-id>, PMID: <pub-id pub-id-type="pmid">32648830</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <label>54.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raoufi</surname><given-names>E</given-names></name><name><surname>Hemmati</surname><given-names>M</given-names></name><name><surname>Eftekhari</surname><given-names>S</given-names></name><name><surname>Khaksaran</surname><given-names>K</given-names></name><name><surname>Mahmodi</surname><given-names>Z</given-names></name><name><surname>Farajollahi</surname><given-names>MM</given-names></name><etal/></person-group>. <article-title>Epitope prediction by novel Immunoinformatics approach: a state-of-the-art review</article-title>. <source>Int J Peptide Res Therapeutics</source>. (<year>2019</year>) <volume>26</volume>:<fpage>1155</fpage>&#x2013;<lpage>63</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10989-019-09918-z</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Detilleux</surname><given-names>PG</given-names></name><name><surname>Deyoe</surname><given-names>BL</given-names></name><name><surname>Cheville</surname><given-names>NF</given-names></name></person-group>. <article-title>Entry and intracellular localization of Brucella spp. in Vero cells: fluorescence and electron microscopy</article-title>. <source>Vet Pathol</source>. (<year>1990</year>) <volume>27</volume>:<fpage>317</fpage>&#x2013;<lpage>28</lpage>. doi: <pub-id pub-id-type="doi">10.1177/030098589002700503</pub-id>, PMID: <pub-id pub-id-type="pmid">2122572</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Figueiredo</surname><given-names>P</given-names></name><name><surname>Ficht</surname><given-names>TA</given-names></name><name><surname>Rice-Ficht</surname><given-names>A</given-names></name><name><surname>Rossetti</surname><given-names>CA</given-names></name><name><surname>Adams</surname><given-names>LG</given-names></name></person-group>. <article-title>Pathogenesis and immunobiology of brucellosis: review of Brucella-host interactions</article-title>. <source>Am J Pathol</source>. (<year>2015</year>) <volume>185</volume>:<fpage>1505</fpage>&#x2013;<lpage>17</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id>, PMID: <pub-id pub-id-type="pmid">25892682</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <label>57.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goenka</surname><given-names>R</given-names></name><name><surname>Guirnalda</surname><given-names>PD</given-names></name><name><surname>Black</surname><given-names>SJ</given-names></name><name><surname>Baldwin</surname><given-names>CL</given-names></name></person-group>. <article-title>B lymphocytes provide an infection niche for intracellular bacterium <italic>Brucella abortus</italic></article-title>. <source>J Infect Dis</source>. (<year>2012</year>) <volume>206</volume>:<fpage>91</fpage>&#x2013;<lpage>8</lpage>. doi: <pub-id pub-id-type="doi">10.1093/infdis/jis310</pub-id>, PMID: <pub-id pub-id-type="pmid">22561364</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <label>58.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goenka</surname><given-names>R</given-names></name><name><surname>Parent</surname><given-names>MA</given-names></name><name><surname>Elzer</surname><given-names>PH</given-names></name><name><surname>Baldwin</surname><given-names>CL</given-names></name></person-group>. <article-title>B cell-deficient mice display markedly enhanced resistance to the intracellular bacterium <italic>Brucella abortus</italic></article-title>. <source>J Infect Dis</source>. (<year>2011</year>) <volume>203</volume>:<fpage>1136</fpage>&#x2013;<lpage>46</lpage>. doi: <pub-id pub-id-type="doi">10.1093/infdis/jiq171</pub-id><pub-id pub-id-type="pmid">21451002</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rawal</surname><given-names>K</given-names></name><name><surname>Sinha</surname><given-names>R</given-names></name><name><surname>Abbasi</surname><given-names>BA</given-names></name><name><surname>Chaudhary</surname><given-names>A</given-names></name><name><surname>Nath</surname><given-names>SK</given-names></name><name><surname>Kumari</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>Identification of vaccine targets in pathogens and design of a vaccine using computational approaches</article-title>. <source>Sci Rep</source>. (<year>2021</year>) <volume>11</volume>:<fpage>17626</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-021-96863-x</pub-id><pub-id pub-id-type="pmid">34475453</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanches</surname><given-names>RCO</given-names></name><name><surname>Tiwari</surname><given-names>S</given-names></name><name><surname>Ferreira</surname><given-names>LCG</given-names></name><name><surname>Oliveira</surname><given-names>FM</given-names></name><name><surname>Lopes</surname><given-names>MD</given-names></name><name><surname>Passos</surname><given-names>MJF</given-names></name><etal/></person-group>. <article-title>Immunoinformatics design of multi-epitope peptide-based vaccine against <italic>Schistosoma mansoni</italic> using transmembrane proteins as a target</article-title>. <source>Front Immunol</source>. (<year>2021</year>) <volume>12</volume>:<fpage>621706</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.621706</pub-id>, PMID: <pub-id pub-id-type="pmid">33737928</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <label>61.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loureiro</surname><given-names>S</given-names></name><name><surname>Ren</surname><given-names>J</given-names></name><name><surname>Phapugrangkul</surname><given-names>P</given-names></name><name><surname>Colaco</surname><given-names>CA</given-names></name><name><surname>Bailey</surname><given-names>CR</given-names></name><name><surname>Shelton</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Adjuvant-free immunization with hemagglutinin-fc fusion proteins as an approach to influenza vaccines</article-title>. <source>J Virol</source>. (<year>2010</year>) <volume>85</volume>:<fpage>3010</fpage>&#x2013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.1128/jvi.01241-10</pub-id>, PMID: <pub-id pub-id-type="pmid">21191017</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <label>62.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soleimanpour</surname><given-names>S</given-names></name><name><surname>Farsiani</surname><given-names>H</given-names></name><name><surname>Mosavat</surname><given-names>A</given-names></name><name><surname>Ghazvini</surname><given-names>K</given-names></name><name><surname>Eydgahi</surname><given-names>MRA</given-names></name><name><surname>Sankian</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>APC targeting enhances immunogenicity of a novel multistage fc-fusion tuberculosis vaccine in mice</article-title>. <source>Appl Microbiol Biotechnol</source>. (<year>2015</year>) <volume>99</volume>:<fpage>10467</fpage>&#x2013;<lpage>80</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00253-015-6952-z</pub-id>, PMID: <pub-id pub-id-type="pmid">26373723</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <label>63.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Ma</surname><given-names>H</given-names></name><name><surname>Ren</surname><given-names>X</given-names></name><name><surname>Hao</surname><given-names>G</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Efficient mucosal vaccination of a novel classical swine fever virus E2-fc fusion protein mediated by neonatal fc receptor</article-title>. <source>Vaccine</source>. (<year>2020</year>) <volume>38</volume>:<fpage>4574</fpage>&#x2013;<lpage>83</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2020.05.013</pub-id>, PMID: <pub-id pub-id-type="pmid">32417139</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <label>64.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Meza</surname><given-names>B</given-names></name><name><surname>Ascencio</surname><given-names>F</given-names></name><name><surname>Sierra-Beltr&#xE1;n</surname><given-names>AP</given-names></name><name><surname>Torres</surname><given-names>J</given-names></name><name><surname>Angulo</surname><given-names>C</given-names></name></person-group>. <article-title>A novel design of a multi-antigenic, multistage and multi-epitope vaccine against <italic>Helicobacter pylori</italic>: an in silico approach</article-title>. <source>Infect Genet Evol</source>. (<year>2017</year>) <volume>49</volume>:<fpage>309</fpage>&#x2013;<lpage>17</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.meegid.2017.02.007</pub-id><pub-id pub-id-type="pmid">28185986</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <label>65.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garc&#xED;a-Valtanen</surname><given-names>P</given-names></name><name><surname>Martinez-Lopez</surname><given-names>A</given-names></name><name><surname>Ortega-Villaizan</surname><given-names>M</given-names></name><name><surname>Perez</surname><given-names>L</given-names></name><name><surname>Coll</surname><given-names>JM</given-names></name><name><surname>Estepa</surname><given-names>A</given-names></name></person-group>. <article-title>In addition to its antiviral and immunomodulatory properties, the zebrafish &#x3B2;-defensin 2 (zfBD2) is a potent viral DNA vaccine molecular adjuvant</article-title>. <source>Antivir Res</source>. (<year>2013</year>) <volume>101</volume>:<fpage>136</fpage>&#x2013;<lpage>47</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.antiviral.2013.11.009</pub-id>, PMID: <pub-id pub-id-type="pmid">24286781</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <label>66.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Solanki</surname><given-names>V</given-names></name><name><surname>Tiwari</surname><given-names>V</given-names></name></person-group>. <article-title>Subtractive proteomics to identify novel drug targets and reverse vaccinology for the development of chimeric vaccine against <italic>Acinetobacter baumannii</italic></article-title>. <source>Sci Rep</source>. (<year>2018</year>) <volume>8</volume>:<fpage>9044</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41598-018-26689-7</pub-id><pub-id pub-id-type="pmid">29899345</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <label>67.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barh</surname><given-names>D</given-names></name><name><surname>Barve</surname><given-names>N</given-names></name><name><surname>Gupta</surname><given-names>K</given-names></name><name><surname>Chandra</surname><given-names>S</given-names></name><name><surname>Jain</surname><given-names>N</given-names></name><name><surname>Tiwari</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Exoproteome and secretome derived broad spectrum novel drug and vaccine candidates in <italic>Vibrio cholerae</italic> targeted by <italic>Piper betel</italic> derived compounds</article-title>. <source>PLoS One</source>. (<year>2013</year>) <volume>8</volume>:<fpage>e52773</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0052773</pub-id>, PMID: <pub-id pub-id-type="pmid">23382822</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <label>68.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yu</surname><given-names>M</given-names></name><name><surname>Zhu</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Chen</surname><given-names>Z</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Design of a Recombinant Multivalent Epitope Vaccine Based on SARS-CoV-2 and its variants in Immunoinformatics approaches</article-title>. <source>Front Immunol</source>. (<year>2022</year>) <volume>13</volume>:<fpage>884433</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.884433</pub-id>, PMID: <pub-id pub-id-type="pmid">35603198</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <label>69.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dominguez-Flores</surname><given-names>A</given-names></name><name><surname>Rodr&#xED;guez L&#xF3;pez</surname><given-names>GM</given-names></name><name><surname>Soria-Castro</surname><given-names>R</given-names></name><name><surname>L&#xF3;pez-Santiago</surname><given-names>R</given-names></name><name><surname>Rodr&#xED;guez-Cort&#xE9;s</surname><given-names>O</given-names></name><name><surname>P&#xE9;rez-Tapia</surname><given-names>SM</given-names></name><etal/></person-group>. <article-title><italic>Brucella abortus</italic> induces mast cell activation through TLR-2 and TLR-4</article-title>. <source>Microb Pathog</source>. (<year>2023</year>) <volume>176</volume>:<fpage>106005</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.micpath.2023.106005</pub-id>, PMID: <pub-id pub-id-type="pmid">36717005</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <label>70.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>J-Y</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Gao</surname><given-names>X-X</given-names></name><name><surname>Gao</surname><given-names>X</given-names></name><name><surname>Cai</surname><given-names>H</given-names></name></person-group>. <article-title>TLR2 and TLR4 signaling pathways are required for recombinant <italic>Brucella abortus</italic> BCSP31-induced cytokine production, functional upregulation of mouse macrophages, and the Th1 immune response in vivo and in vitro</article-title>. <source>Cell Mol Immunol</source>. (<year>2023</year>) <volume>11</volume>:<fpage>477</fpage>&#x2013;<lpage>94</lpage>. doi: <pub-id pub-id-type="doi">10.1038/cmi.2014.28</pub-id>, PMID: <pub-id pub-id-type="pmid">24769793</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <label>71.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Skendros</surname><given-names>P</given-names></name><name><surname>Pappas</surname><given-names>G</given-names></name><name><surname>Boura</surname><given-names>P</given-names></name></person-group>. <article-title>Cell-mediated immunity in human brucellosis</article-title>. <source>Microbes Infect</source>. (<year>2010</year>) <volume>13</volume>:<fpage>134</fpage>&#x2013;<lpage>42</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.micinf.2010.10.015</pub-id><pub-id pub-id-type="pmid">21034846</pub-id></mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <label>72.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mezouar</surname><given-names>S</given-names></name><name><surname>Mege</surname><given-names>J-L</given-names></name></person-group>. <article-title>Changing the paradigm of IFN-&#x3B3; at the interface between innate and adaptive immunity: macrophage-derived IFN-&#x3B3;</article-title>. <source>J Leukoc Biol</source>. (<year>2020</year>) <volume>108</volume>:<fpage>419</fpage>&#x2013;<lpage>26</lpage>. doi: <pub-id pub-id-type="doi">10.1002/jlb.4mir0420-619rr</pub-id>, PMID: <pub-id pub-id-type="pmid">32531848</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

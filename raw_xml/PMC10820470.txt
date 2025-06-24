@@ -1,0 +1,687 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Microorganisms</journal-id><journal-id journal-id-type="iso-abbrev">Microorganisms</journal-id><journal-id journal-id-type="publisher-id">microorganisms</journal-id><journal-title-group><journal-title>Microorganisms</journal-title></journal-title-group><issn pub-type="epub">2076-2607</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38257995</article-id><article-id pub-id-type="pmc">10820470</article-id>
+<article-id pub-id-type="doi">10.3390/microorganisms12010169</article-id><article-id pub-id-type="publisher-id">microorganisms-12-00169</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Parenteral Vaccination with a Live <italic toggle="yes">Brucella melitensis</italic> Mutant Protects against Wild-Type <italic toggle="yes">B. melitensis</italic> 16M Challenge</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Xinghong</given-names></name></contrib><contrib contrib-type="author"><name><surname>Goodwin</surname><given-names>Zakia I.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Bhagyaraj</surname><given-names>Ella</given-names></name></contrib><contrib contrib-type="author"><name><surname>Hoffman</surname><given-names>Carol</given-names></name></contrib><contrib contrib-type="author"><name><surname>Pascual</surname><given-names>David W.</given-names></name><xref rid="c1-microorganisms-12-00169" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Mesalam</surname><given-names>Ahmed Atef</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-microorganisms-12-00169">Department of Infectious Diseases &amp; Immunology, College of Veterinary Medicine, University of Florida, Gainesville, FL 32611, USA; <email>yangxh@ufl.edu</email> (X.Y.); <email>zakiagoodwin721@gmail.com</email> (Z.I.G.); <email>bhagyaraj970@gmail.com</email> (E.B.); <email>riccardic@ufl.edu</email> (C.H.)</aff><author-notes><corresp id="c1-microorganisms-12-00169"><label>*</label>Correspondence: <email>pascuald@ufl.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>1</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2024</year></pub-date><volume>12</volume><issue>1</issue><elocation-id>169</elocation-id><history><date date-type="received"><day>05</day><month>12</month><year>2023</year></date><date date-type="rev-recd"><day>04</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>11</day><month>1</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 by the authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Susceptibility to brucellosis remains prevalent, even in herds vaccinated with conventional vaccines. Efforts are underway to develop an improved brucellosis vaccine, and possibly a universal vaccine, given that <italic toggle="yes">Brucella</italic> species are highly homologous. To this end, two <italic toggle="yes">B. melitensis</italic> mutants were developed, znBM-<italic toggle="yes">lacZ</italic> (znBMZ) and znBM-mCherry (znBM-mC), and were tested for their ability to confer systemic immunity against virulent <italic toggle="yes">B. melitensis</italic> challenge. To assess the extent of their attenuation, bone-marrow-derived macrophages and human TF-1 myeloid cells were infected with both mutants, and the inability to replicate within these cells was noted. Mice infected with varying doses of znBM-mC cleared the brucellae within 6&#x2013;10 weeks. To test for efficacy against systemic disease, groups of mice were vaccinated once by the intraperitoneal route with either znBMZ or <italic toggle="yes">B. abortus</italic> S19 vaccine. Relative to the PBS-dosed mice, znBMZ vaccination greatly reduced splenic brucellae colonization by ~25,000-fold compared to 700-fold for S19-vaccinated mice. Not surprisingly, both znBMZ and S19 strains induced IFN-&#x3B3;<sup>+</sup> CD4<sup>+</sup> T cells, yet only znBMZ induced IFN-&#x3B3;<sup>+</sup> CD8<sup>+</sup> T cells. While both strains induced CD4<sup>+</sup> effector memory T cells (Tems), only znBMZ induced CD8<sup>+</sup> Tems. Thus, these results show that the described znBM mutants are safe, able to elicit CD4<sup>+</sup> and CD8<sup>+</sup> T cell immunity without a boost, and highly effective, rendering them promising vaccine candidates for livestock.</p></abstract><kwd-group><kwd><italic toggle="yes">Brucella</italic></kwd><kwd>T cells</kwd><kwd>IFN-&#x3B3;</kwd><kwd>TNF-&#x3B1;</kwd><kwd>vaccine</kwd></kwd-group><funding-group><award-group><funding-source>U.S. Public Health Grants</funding-source><award-id>R01 AI-125516</award-id><award-id>R01 AI-123244</award-id></award-group><funding-statement>This work is supported by U.S. Public Health Grants R01 AI-125516 (DWP) and R01 AI-123244 (DWP).</funding-statement></funding-group></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="sec1-microorganisms-12-00169">
+      <title>1. Introduction</title>
+      <p><italic toggle="yes">Brucella</italic> species are Gram-negative, intracellular bacteria [<xref rid="B1-microorganisms-12-00169" ref-type="bibr">1</xref>,<xref rid="B2-microorganisms-12-00169" ref-type="bibr">2</xref>] that are mostly considered a disease of livestock resulting in the abortion of offspring [<xref rid="B3-microorganisms-12-00169" ref-type="bibr">3</xref>,<xref rid="B4-microorganisms-12-00169" ref-type="bibr">4</xref>,<xref rid="B5-microorganisms-12-00169" ref-type="bibr">5</xref>,<xref rid="B6-microorganisms-12-00169" ref-type="bibr">6</xref>,<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>]. Brucellosis poses a socio-economic burden for many countries [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B8-microorganisms-12-00169" ref-type="bibr">8</xref>,<xref rid="B9-microorganisms-12-00169" ref-type="bibr">9</xref>,<xref rid="B10-microorganisms-12-00169" ref-type="bibr">10</xref>,<xref rid="B11-microorganisms-12-00169" ref-type="bibr">11</xref>,<xref rid="B12-microorganisms-12-00169" ref-type="bibr">12</xref>]. Specific <italic toggle="yes">Brucella</italic> species show a propensity for infecting livestock. Cattle is mostly infected by <italic toggle="yes">Brucella abortus</italic>; goats and sheep are infected by <italic toggle="yes">B. melitensis</italic>; pigs are infected by <italic toggle="yes">B. suis</italic>; and sheep can be infected by <italic toggle="yes">B. ovis</italic> [<xref rid="B10-microorganisms-12-00169" ref-type="bibr">10</xref>,<xref rid="B11-microorganisms-12-00169" ref-type="bibr">11</xref>]. Zoonosis, primarily from infection with <italic toggle="yes">B. abortus</italic>, <italic toggle="yes">B. melitensis</italic>, or <italic toggle="yes">B. suis</italic>, produces a debilitating chronic disease that causes undulant fever and fatigue in patients and can lead to the involvement of various organ systems if left untreated [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B8-microorganisms-12-00169" ref-type="bibr">8</xref>,<xref rid="B13-microorganisms-12-00169" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-12-00169" ref-type="bibr">14</xref>]. In fact, brucellosis is the third most neglected disease worldwide [<xref rid="B15-microorganisms-12-00169" ref-type="bibr">15</xref>]. Humans acquire disease primarily via the consumption of tainted, e.g., unpasteurized, dairy products or via aerosol exposure [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B13-microorganisms-12-00169" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-12-00169" ref-type="bibr">14</xref>]. If diagnosis is made early, antibiotic treatment can eradicate infection; however, treatment requires daily dosing with two or three antibiotics for six weeks and, in some cases, treatment does not eradicate the infection [<xref rid="B8-microorganisms-12-00169" ref-type="bibr">8</xref>,<xref rid="B13-microorganisms-12-00169" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-12-00169" ref-type="bibr">14</xref>]. Treated patients may still have up to a 16% chance for remaining infected [<xref rid="B13-microorganisms-12-00169" ref-type="bibr">13</xref>]. No vaccine for human brucellosis is currently available [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B13-microorganisms-12-00169" ref-type="bibr">13</xref>,<xref rid="B14-microorganisms-12-00169" ref-type="bibr">14</xref>].</p>
+      <p>Vaccines for livestock are available and widely used, but these are not completely effective in preventing or treating disease [<xref rid="B3-microorganisms-12-00169" ref-type="bibr">3</xref>,<xref rid="B4-microorganisms-12-00169" ref-type="bibr">4</xref>,<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>]. Protection from brucellosis requires the stimulation of cell-mediated immunity, primarily via T helper 1 (Th1) cells producing IFN-&#x3B3; and TNF-&#x3B1; [<xref rid="B16-microorganisms-12-00169" ref-type="bibr">16</xref>,<xref rid="B17-microorganisms-12-00169" ref-type="bibr">17</xref>,<xref rid="B18-microorganisms-12-00169" ref-type="bibr">18</xref>,<xref rid="B19-microorganisms-12-00169" ref-type="bibr">19</xref>,<xref rid="B20-microorganisms-12-00169" ref-type="bibr">20</xref>,<xref rid="B21-microorganisms-12-00169" ref-type="bibr">21</xref>]. Past work in experimental systems, as well as in relevant livestock, show that protection requires Th1-type immunity [<xref rid="B2-microorganisms-12-00169" ref-type="bibr">2</xref>,<xref rid="B4-microorganisms-12-00169" ref-type="bibr">4</xref>,<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B22-microorganisms-12-00169" ref-type="bibr">22</xref>,<xref rid="B23-microorganisms-12-00169" ref-type="bibr">23</xref>,<xref rid="B24-microorganisms-12-00169" ref-type="bibr">24</xref>]. In fact, humans with an IFN-&#x3B3; deficiency show an increased likelihood of chronic disease due to the inability to prevent <italic toggle="yes">Brucella</italic>&#x2019;s dissemination [<xref rid="B25-microorganisms-12-00169" ref-type="bibr">25</xref>,<xref rid="B26-microorganisms-12-00169" ref-type="bibr">26</xref>,<xref rid="B27-microorganisms-12-00169" ref-type="bibr">27</xref>]. Natural infections and livestock vaccines do stimulate antibody (Ab) responses, albeit primarily directed against <italic toggle="yes">Brucella</italic>&#x2019;s LPS, yet these Abs are unable to confer protection [<xref rid="B19-microorganisms-12-00169" ref-type="bibr">19</xref>,<xref rid="B28-microorganisms-12-00169" ref-type="bibr">28</xref>]. Thus, an effective vaccine must be able to elicit strong Th1 cell immunity.</p>
+      <p>Next-generation brucellosis vaccines are needed to improve livestock health and reduce zoonotic transmission. Effectively vaccinating livestock would reduce disease transmission to humans [<xref rid="B29-microorganisms-12-00169" ref-type="bibr">29</xref>]. To this end, our laboratory has generated various <italic toggle="yes">Brucella</italic> mutants based on the deletion of their <italic toggle="yes">znuA</italic>, which is responsible for zinc uptake [<xref rid="B30-microorganisms-12-00169" ref-type="bibr">30</xref>,<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>,<xref rid="B32-microorganisms-12-00169" ref-type="bibr">32</xref>]. The deletion of <italic toggle="yes">znuA</italic> greatly reduces <italic toggle="yes">Brucella</italic>&#x2019;s virulence [<xref rid="B30-microorganisms-12-00169" ref-type="bibr">30</xref>,<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>]. To address THE possible reversion to a wild-type (wt) phenotype, a second mutation was introduced, interrupting their <italic toggle="yes">norD</italic> which encodes for nitric oxide reductase [<xref rid="B33-microorganisms-12-00169" ref-type="bibr">33</xref>]. These combined mutations resulted in the development of attenuated &#x2206;<italic toggle="yes"><underline>z</underline>nuA</italic> &#x2206;<italic toggle="yes"><underline>n</underline>orD <underline>B</underline>. <underline>a</underline>bortus-lac<underline>Z</underline></italic> (znBAZ; [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>,<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>]) and &#x2206;<italic toggle="yes"><underline>z</underline>nuA</italic> &#x2206;<italic toggle="yes"><underline>n</underline>orD <underline>B</underline>. <underline>m</underline>elitensis</italic>-<underline>mC</underline>herry (znBM-mC; [<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]) strains. As described here, the additional mutant, &#x2206;<italic toggle="yes"><underline>z</underline>nuA</italic> &#x2206;<italic toggle="yes"><underline>n</underline>orD <underline>B</underline>. <underline>m</underline>elitensis</italic>-<italic toggle="yes">lac<underline>Z</underline></italic> (znBMZ), was also generated. Previous work with znBAZ showed that two doses, administered parenterally [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>] or mucosally [<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>], were required for optimal protection against wt challenge with virulent <italic toggle="yes">B. abortus</italic> 2308. Mice mucosally dosed twice with znBM-mC were optimally protected against wt challenge with virulent <italic toggle="yes">B. melitensis</italic> 16M [<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]. Herein, the objective of the current study was to ascertain whether the route of znBMZ vaccination influences the type of immunity elicited, and whether a single intraperitoneal (IP) dose can confer potent protection against parenteral challenge with wt <italic toggle="yes">B. melitensis</italic> 16M.</p>
+    </sec>
+    <sec id="sec2-microorganisms-12-00169">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2dot1-microorganisms-12-00169">
+        <title>2.1. Brucella Strains</title>
+        <p>The development of the live attenuated <italic toggle="yes">Brucella melitensis</italic> mutant, znBM-mC, which lacks <italic toggle="yes">znuA</italic> and <italic toggle="yes">norD</italic> and expresses mCherry, was previously described [<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]. The znBMZ strain was constructed similar to znBM-mC, but the <italic toggle="yes">E. coli lacZ</italic> was incorporated into the uncoded regions between BMEI1800 and BMEI1801. The smooth <italic toggle="yes">B. melitensis</italic> Rev 1 livestock vaccine was used as previously described [<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>], and wt <italic toggle="yes">B. melitensis</italic> 16M was obtained through BEI Resources, NIAID, and NIH. The smooth <italic toggle="yes">B. abortus</italic> S19 was acquired as previously described [<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>]. All <italic toggle="yes">Brucella</italic> strains were grown on potato infusion agar (PIA) plates for 3 days at 37 &#xB0;C under 5% CO<sub>2</sub>. Brucellae were harvested with sterile Dulbecco&#x2019;s phosphate-buffered saline (DPBS; Life Technologies Corp., Grand Island, NY, USA), washed twice, and diluted with DPBS for use.</p>
+      </sec>
+      <sec id="sec2dot2-microorganisms-12-00169">
+        <title>2.2. Mice</title>
+        <p>Female BALB/c mice at 6&#x2013;8 weeks age were acquired from Charles River Laboratory (Frederick, MD, USA). All animal experiments using the live attenuated <italic toggle="yes">Brucella</italic> strains S19, znBMZ, or znBM-mC were conducted under biosafety level-2 (BSL-2) containment. Those studies involving wt <italic toggle="yes">B. melitensis</italic> 16M or <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine were performed under BSL-3 containment. Mice were maintained in individually ventilated cages under HEPA-filtered barrier conditions with 12 h of light and 12 h of darkness, and food and water were provided ad libitum. All animal care and procedures were in strict accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health. All animal studies were conducted under protocols approved by the University of Florida Institutional Animal Care and Use Committee.</p>
+      </sec>
+      <sec id="sec2dot3-microorganisms-12-00169">
+        <title>2.3. Evaluation of znBMZ&#x2019;s and znBM-mC&#x2019;s Attenuation in Macrophages</title>
+        <p>Naive mice were humanely euthanized to procure their femurs and tibias. The long bones were flushed with 5 mls of complete media (CM) using a sterile syringe and a 25 gauge needle. CM consisted of RPMI-1640 (Caisson Labs, Inc., Smithfield, UT, USA) plus various supplements (Caisson Labs) including 10 mM HEPES buffer, 10 mM penicillin/streptomycin, 10 mM nonessential amino acids, and 10 mM sodium pyruvate plus 10% fetal bovine serum (FBS; Atlanta Biologicals, Norcross, GA, USA). Bone marrow cells (2 &#xD7; 10<sup>6</sup>/mL) were subjected to differentiation using mouse 25 ng/mL M-CSF (Peprotech, Cranberry, NJ, USA) for 7 days with new media containing M-CSF added on day 3. On day 7, adherent cells were gently scraped and washed in antibiotic-free incomplete media (ICM). Antibiotic-free ICM consisted of RPMI-1640 and 10 mM HEPES buffer. Flow cytometry analysis revealed that &gt;96% of these adherent cells were bone-marrow-derived macrophages (BMDMs) by their dual expression of F4/80 and CD11b.</p>
+        <p>BMDMs and human TF-1 myeloid cells (American Type Culture Collection, Manassas, VA) were seeded into 96-well microtiter plates (Falcon Corning, Glendale, AZ, USA) at 1 &#xD7; 10<sup>4</sup> cells/mL overnight in antibiotic-free ICM to allow to adhere. BMDMs and TF-1 cells were then infected with wt <italic toggle="yes">B. melitensis</italic> 16M, <italic toggle="yes">B. melitensis</italic> Rev 1, znBMZ, or znBM-mC at 10:1 (bacteria:cell) for 4 h, then cells were washed twice with CM and incubated with CM containing 50 &#x3BC;g/mL gentamicin (Life Technologies-Invitrogen, Carlsbad, CA, USA) for 30 min to rid cultures of extracellular bacteria. Cells were then cultured in CM without antibiotics for the indicated time points: 0, 24, 48, and 72 h. At each time point, samples were lysed in 100 &#x3BC;L of sterile water. Lysate dilutions were then plated on PIA plates. The PIA plates were incubated at 37 &#xB0;C under 5% CO<sub>2</sub> for three days. Brucellae colonies were then enumerated.</p>
+      </sec>
+      <sec id="sec2dot4-microorganisms-12-00169">
+        <title>2.4. Assessment of znBM-mC&#x2019;s Attenuation In Vivo</title>
+        <p><italic toggle="yes">B. abortus</italic> S19 and znBM-mC were grown overnight on PIA for 2&#x2013;3 days at 37 &#xB0;C, 5% CO<sub>2</sub>. Bacteria were washed twice in sterile DPBS, resuspended in DPBS, and dose estimated by spectrophotometric measurement at OD600. Bacteria were diluted in DPBS for an appropriate dose in 200 &#xB5;L suspension, which was then given to mice by the intraperitoneal (IP) route. The actual viable inoculum was confirmed by serial dilution tests on PIA. To measure the extent of in vivo tissue colonization, various dilutions of znBM-mC were administered: 10<sup>5</sup>, 10<sup>6</sup>, or 10<sup>7</sup> CFUs znBM-mC or 10<sup>6</sup> CFUs <italic toggle="yes">B. abortus</italic> S19 vaccine in 200 &#xB5;L DPBS were given IP to BALB/c mice. Splenic weights and CFU counts were assessed at 2, 4, 6, and 10 weeks post-infection. Individual spleens were mechanically homogenized in 1.0 mL of sterile Milli-Q water. Various dilutions of splenic homogenates were incubated for 3&#x2013;5 days at 37 &#xB0;C in 5% CO<sub>2</sub> on PIA, after which bacterial colonies were enumerated and calculated CFUs per spleen were determined [<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>].</p>
+      </sec>
+      <sec id="sec2dot5-microorganisms-12-00169">
+        <title>2.5. Evaluation of znBMZ&#x2019;s Efficacy following Parenteral Vaccination</title>
+        <p>Groups of BALB/c female mice were IP vaccinated with DPBS vehicle (n = 4), 1 &#xD7; 10<sup>7</sup> CFUs S19 (n = 7), or 1 &#xD7; 10<sup>7</sup> CFUs znBMZ (n = 6) on day 0. On day 42, all mice were IP challenged with 5 &#xD7; 10<sup>4</sup> CFUs wt <italic toggle="yes">B. melitensis</italic> 16M in 200 &#x3BC;L DPBS. Spleens from individual mice were harvested four weeks later, weighed, and evaluated for brucellae colonization on PIA plates with X-gal.</p>
+      </sec>
+      <sec id="sec2dot6-microorganisms-12-00169">
+        <title>2.6. Evaluation of Cellular Immunity and Cytokine Analysis</title>
+        <p>Groups of mice (5/group) were IP vaccinated with znBMZ, S19, or DPBS, as described above, and evaluated 42 days after vaccination. Ex vivo intracellular IFN-&#x3B3; expression by immune T cells were measured by flow cytometry similarly to previously described [<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]. Lymphocytes were then stained for TCR&#x3B2;, CD4, CD8 T cell, CD44, CX3CR1, and KLRG1 mAbs (BioLegend, San Diego, CA, USA; eBioscience, San Diego, CA, USA), washed, and then fixed with IC Fixation Buffer (eBioscience). Subsequently, cells were permeabilized with Permeabilization Buffer (eBioscience), and stained with labeled anti-IFN-&#x3B3; (eBioscience). Fluorescence was acquired on Cytek Auora flow cytometer using SpectroFlo<sup>&#xAE;</sup> software version 2.0 (Fremont, CA, USA). All samples were analyzed using FlowJo software version 10.8.1 (Tree Star, Ashland, OR, USA).</p>
+        <p>To measure soluble proinflammatory cytokine production by each treatment group, isolated splenic mononuclear cells (3 &#xD7; 10<sup>6</sup>) in 1.0 mL of CM were restimulated with 10<sup>9</sup> CFUs of heat-killed RB51 (HKRB51) at 37 &#xB0;C under 5% CO<sub>2</sub>. After three days of in vitro stimulation, culture supernatants were harvested for cytokine analyses. IFN-&#x3B3;, TNF-&#x3B1;, and IL-17 were measured by cytokine-specific sandwich-based ELISAs using the relevant monoclonal Abs for detection as previously described [<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>,<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>].</p>
+      </sec>
+      <sec id="sec2dot7-microorganisms-12-00169">
+        <title>2.7. Statistical Analysis</title>
+        <p>The statistical differences were calculated using the Tukey&#x2013;Kramer Multiple Comparisons Test to measure differences among variations of in vitro infection and in vivo splenic weight, as well as colonization by znBMZ, znBM-mC, <italic toggle="yes">B. abortus</italic> S19, or wt <italic toggle="yes">B. melitensis</italic> 16M at the 95% confidence interval. One-way analysis of variance (ANOVA) was used to compare differences in the types of T cell and cytokine responses. SigmaPlot version 10.0 and SigmaStat version 3.5 (Systat Software, Palo Alto, CA, USA) were used for determining significance and generating graphs.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec3-microorganisms-12-00169">
+      <title>3. Results</title>
+      <sec id="sec3dot1-microorganisms-12-00169">
+        <title>3.1. znBMZ and znBM-mC Are Attenuated in Mouse Macrophages and Human Myeloid Cells</title>
+        <p>A past study examined the suitability of znBM-mC as a vaccine prototype when administered mucosally [<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]. In addition, the znBMZ strain was generated to be similar to its related znBM-mC strain [<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>]. The current work examines the effectiveness in stimulating host immunity to <italic toggle="yes">B. melitensis</italic> subsequent to parenteral vaccination.</p>
+        <p>To determine if znBMZ and znBM-mC are attenuated in primary macrophages, BMDMs were generated, and infected at a 10:1 (brucellae to macrophage) ratio. Macrophages were water-lysed at 24, 48, and 72 h after infection to determine the extent of colonization by znBMZ and znBM-mC relative to wt <italic toggle="yes">B. melitensis</italic> 16M and <italic toggle="yes">B. melitensis</italic> Rev 1 strains (<xref rid="microorganisms-12-00169-f001" ref-type="fig">Figure 1</xref>A). Macrophage colonization by both znBMZ and znBM-mC progressively diminished over time up to 72 h post-infection, and relative to wt <italic toggle="yes">B. melitensis</italic> 16M and Rev 1 vaccine. In fact, both wt <italic toggle="yes">B. melitensis</italic> and the Rev 1 vaccine showed a progressively increased colonization of the BMDMs over time, although Rev 1 colonized to a lesser extent.</p>
+        <p>The colonization capacity in human myeloid TF-1 cells was assessed using similar infection ratios with wt and <italic toggle="yes">Brucella</italic> mutants as carried out for the BMDMs. Again, both wt <italic toggle="yes">B. melitensis</italic> 16M and <italic toggle="yes">B. melitensis</italic> Rev 1 strains showed a significantly increased colonization of TF-1 cells at 48 and 72 h post-infection (<xref rid="microorganisms-12-00169-f001" ref-type="fig">Figure 1</xref>B). In contrast, both znBMZ and znBM-mC showed diminished CFUs throughout the three time points with a progressive decline in colonization. Thus, this evidence demonstrates that both znBMZ and znBM-mC are attenuated, and can be cleared from mouse and human cells.</p>
+      </sec>
+      <sec id="sec3dot2-microorganisms-12-00169">
+        <title>3.2. znBM-mC Is Attenuated In Vivo</title>
+        <p>To assess the persistence of znBM-mC&#x2019;s in vivo, a colonization study was performed. Groups of BALB/c mice were tested with three IP doses of znBM-mC: 1 &#xD7; 10<sup>5</sup>, 1 &#xD7; 10<sup>6</sup>, and 1 &#xD7; 10<sup>7</sup> CFUs. These were compared to mice dosed with 1 &#xD7; 10<sup>6</sup> CFUs S19. Individual mice were measured for splenic colonization (<xref rid="microorganisms-12-00169-f002" ref-type="fig">Figure 2</xref>A) and changes in splenic weights (<xref rid="microorganisms-12-00169-f002" ref-type="fig">Figure 2</xref>B) at 3, 6, and 10 weeks post-infection. All three of the groups dosed with</p>
+        <p>znBM-mC showed a progressive decline in splenic colonization, which was significantly less than that in mice infected with S19. The clearance of znBM-mC did not appear to be dose-dependent, since only one time point showed a significant difference between groups infected with 1 &#xD7; 10<sup>5</sup> or 1 &#xD7; 10<sup>6</sup> CFUs at 6 weeks post-infection (<xref rid="microorganisms-12-00169-f002" ref-type="fig">Figure 2</xref>A). Spleen weights from the znBM-mC-infected mice were significantly less than the S19-infected group, and the dose of znBM-mC did not affect splenic weights at any time point measured (<xref rid="microorganisms-12-00169-f002" ref-type="fig">Figure 2</xref>B). These data show that znBM-mC is attenuated in vivo following IP infection.</p>
+      </sec>
+      <sec id="sec3dot3-microorganisms-12-00169">
+        <title>3.3. IP Vaccination of BALB/c Mice with znBMZ Confers Immune Protection</title>
+        <p>To measure znBMZ&#x2019;s ability to induce protective immunity, groups of BALB/c mice were IP vaccinated with 1 &#xD7; 10<sup>7</sup> CFUs S19 or znBMZ, and compared to mice dosed with DPBS vehicle. Six weeks after vaccination, all mice were subjected to an IP challenge with 5 &#xD7; 10<sup>4</sup> CFUs of wt <italic toggle="yes">B. melitensis</italic> 16M, and four weeks post-challenge, individual spleens were harvested for colonization and weights. The <italic toggle="yes">B. abortus</italic> S19 reduced splenic colonization by ~676-fold, but znBMZ proved more effective by reducing colonization by more than 25,000-fold (<xref rid="microorganisms-12-00169-f003" ref-type="fig">Figure 3</xref>A). Such a reduction by the znBMZ-vaccinated mice was significantly different from the PBS-treated and S19-immunized mice. None of the colonies detected from the znBMZ-vaccinated spleens showed a blue color, indicating that the white colonies present were wt <italic toggle="yes">B. melitensis</italic> 16M. Although both S19- and znBMZ-vaccinated mice showed less splenic inflammation than the PBS-treated mice, the splenic weights between the two vaccinated groups were not significantly different (<xref rid="microorganisms-12-00169-f003" ref-type="fig">Figure 3</xref>B).</p>
+      </sec>
+      <sec id="sec3dot4-microorganisms-12-00169">
+        <title>3.4. IP Vaccination with znBMZ Stimulates Induction of CD4<sup>+</sup> and CD8<sup>+</sup> T Effector Memory Cells (Tems)</title>
+        <p>To determine the types of T cell responses induced following IP vaccination, groups of BALB/c mice were IP vaccinated with 10<sup>7</sup> CFUs S19 or znBMZ on day 0, and spleens were harvested 42 days later. Stained splenic mononuclear cells were gated on TCR&#x3B2;<sup>+</sup> lymphocytes (<xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref>A) and were assessed for total CD4<sup>+</sup> and CD8<sup>+</sup> T cells (<xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref>B,C). Vaccination with znBMZ resulted in greater numbers of CD4<sup>+</sup> and CD8<sup>+</sup> T cells than those obtained with S19-vaccinated mice or age-matched naive (PBS-dosed) mice. A further evaluation of the induced CD44<sup>High</sup> memory T cells revealed that the frequency of Tem induction, defined as CD44<sup>High</sup> CD62<sup>Low</sup> CX3CR1<sup>+</sup> KLRG1<sup>+</sup>, was increased in znBMZ-vaccinated mice (<xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref>D,F). The total CD4<sup>+</sup> and CD8<sup>+</sup> Tems were significantly increased in the znBMZ-vaccinated mice (<xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref>E,G), particularly for the CD8<sup>+</sup> Tems (<xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref>G). The S19-vaccinated mice showed no significant change from the PBS-dosed mice with regard to their CD8<sup>+</sup> Tems.</p>
+      </sec>
+      <sec id="sec3dot5-microorganisms-12-00169">
+        <title>3.5. IP Vaccination with znBMZ Stimulates IFN-&#x3B3; Production</title>
+        <p>The same splenic lymphocytes from <xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref> were further evaluated for the source of IFN-&#x3B3; production. Splenic lymphocytes from individual mice were stained for surface T cell molecules and subjected to intracellular staining for IFN-&#x3B3;. Although the frequency of IFN-&#x3B3;<sup>+</sup> CD4<sup>+</sup> or CD8<sup>+</sup> Tems did not significantly differ among the groups (<xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>A,D), the total IFN-&#x3B3;<sup>+</sup> CD4<sup>+</sup> T cells were significantly increased for both S19- and znBMZ-vaccinated mice (<xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>B). Only the total IFN-&#x3B3;<sup>+</sup> CD8<sup>+</sup> T cells were significantly increased for znBMZ-vaccinated mice (<xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>E). A further evaluation showed that both S19- and znBMZ-vaccinated mice had significantly increased total IFN-&#x3B3;<sup>+</sup> CD4<sup>+</sup> Tems (<xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>C). Only the znBMZ-vaccinated mice exhibited increased IFN-&#x3B3;<sup>+</sup> CD8<sup>+</sup> Tems (<xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>F).</p>
+        <p>To assess whether other cytokines are induced by IP vaccination with the attenuated <italic toggle="yes">Brucella</italic> strains, the splenic lymphocytes from the same groups of mice were restimulated with HKRB51 for three days, and harvested supernatants were measured for IFN-&#x3B3;, TNF-&#x3B1;, and IL-17 production (<xref rid="microorganisms-12-00169-f006" ref-type="fig">Figure 6</xref>). Both S19 and znBMZ produced increased levels of IFN-&#x3B3; and TNF-&#x3B1; (<xref rid="microorganisms-12-00169-f006" ref-type="fig">Figure 6</xref>A,B). Neither showed stimulation for IL-17 (<xref rid="microorganisms-12-00169-f006" ref-type="fig">Figure 6</xref>C).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec4-microorganisms-12-00169">
+      <title>4. Discussion</title>
+      <p>Available livestock vaccines have proved effective in maintaining brucellosis-free herds when combined with test and slaughter interventions [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B12-microorganisms-12-00169" ref-type="bibr">12</xref>,<xref rid="B39-microorganisms-12-00169" ref-type="bibr">39</xref>]. However, not all countries can afford to compensate producers for slaughtered animals, and many producers are reliant on animals for dairy and meat [<xref rid="B10-microorganisms-12-00169" ref-type="bibr">10</xref>,<xref rid="B11-microorganisms-12-00169" ref-type="bibr">11</xref>,<xref rid="B40-microorganisms-12-00169" ref-type="bibr">40</xref>]. Thus, a highly effective brucellosis vaccine is needed. To remedy this shortcoming, efforts are underway to develop improved livestock vaccines, and possibly vaccination regimens [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>]. With respect to the latter, mucosal vaccinations, which can improve immunity at sites where invasion occurs, are worth consideration [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>].</p>
+      <p>To ascertain its effectiveness for vaccination, the IP route was selected since it better mimics disease outcome resulting in a systemic disease [<xref rid="B6-microorganisms-12-00169" ref-type="bibr">6</xref>,<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>]. Moreover, IP vaccination has proven effective in experimental models in conferring protection and significant brucellae clearance [<xref rid="B41-microorganisms-12-00169" ref-type="bibr">41</xref>]. A limitation with conventional <italic toggle="yes">Brucella</italic> vaccines lies in their incomplete efficacy, providing only about 70% efficacy against wt <italic toggle="yes">Brucella</italic> abortion challenges [<xref rid="B11-microorganisms-12-00169" ref-type="bibr">11</xref>,<xref rid="B42-microorganisms-12-00169" ref-type="bibr">42</xref>]. Additionally, due to their residual virulence, these vaccines pose risks to humans via inadvertent exposure [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B43-microorganisms-12-00169" ref-type="bibr">43</xref>,<xref rid="B44-microorganisms-12-00169" ref-type="bibr">44</xref>]. Even the rough vaccine, RB51, remains infectious to heifers and their fetuses [<xref rid="B45-microorganisms-12-00169" ref-type="bibr">45</xref>], and to humans via contaminated milk [<xref rid="B46-microorganisms-12-00169" ref-type="bibr">46</xref>].</p>
+      <p>To improve upon these limitations, our efforts are focused on developing an efficacious vaccine with minimal residual virulence. For nearly two decades, our lab has focused on developing mutants based on zinc uptake mechanisms for both <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. melitensis</italic> [<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>,<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>,<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>,<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>,<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>,<xref rid="B47-microorganisms-12-00169" ref-type="bibr">47</xref>]. <italic toggle="yes">Brucella</italic> deficient in <italic toggle="yes">znuA</italic> showed considerable attenuation, but its elimination from the host took considerable time, proving more effective when administered by the mucosal [<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>,<xref rid="B47-microorganisms-12-00169" ref-type="bibr">47</xref>] rather than the parenteral route [<xref rid="B31-microorganisms-12-00169" ref-type="bibr">31</xref>]. However, the introduction of a second mutation, &#x2206;<italic toggle="yes">norD</italic>, resulted in improved attenuation for znBAZ [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>], as shown here for znBMZ and znBM-mC. The level of attenuation by znBMZ and znBM-mC in primary mouse macrophages and human TF-1 myeloid cells is similar to that observed for znBAZ in mouse RAW264.7 macrophages and human peripheral blood macrophages [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>]. znBM-mC is also attenuated in vivo, as evidenced by its clearance from the host spleen between 6 and 10 weeks after IP vaccination. Its persistence is similar to znBAZ, which cleared by 8 weeks post-IP vaccination [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>].</p>
+      <p>Upon establishing the attenuation of the &#x2206;<italic toggle="yes">znuA</italic> &#x2206;<italic toggle="yes">norD B. melitensis</italic> mutants, subsequent analysis examined the efficacy of this double mutation. When using a single IP dose of 1 &#xD7; 10<sup>7</sup> CFUs for both, znBMZ conferred better protection than the S19 vaccine. Interestingly, when compared to IP znBAZ-vaccinated mice [<xref rid="B34-microorganisms-12-00169" ref-type="bibr">34</xref>], a single dose of znBMZ proved equivalent to two doses of znBAZ. Perhaps the znBM mutants are slightly more virulent or subtle differences between <italic toggle="yes">B. abortus</italic> and <italic toggle="yes">B. melitensis</italic> in pathogenicity may account for the improved efficacy by znBMZ. More testing in relevant livestock is needed to ascertain znBM mutants&#x2019; capability to protect in different situations.</p>
+      <p>An evaluation of the type of T cell immunity elicited by znBMZ vaccination revealed that IP vaccination induced both CD4<sup>+</sup> and CD8<sup>+</sup> T cell responses with total T cell numbers being greater than those obtained with S19-vaccinated mice. S19 vaccination exhibited a predilection for stimulating CD4<sup>+</sup> T cells, rather than CD8<sup>+</sup> T cells, similar to that observed following a single nasal dose of our <italic toggle="yes">B. abortus</italic> mutant, znBAZ [<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>]. It was surprising to observe the stimulation of CD8<sup>+</sup> T cells, since only a single parenteral vaccination was administered in contrast to past mucosal vaccinations [<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>,<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>,<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>,<xref rid="B47-microorganisms-12-00169" ref-type="bibr">47</xref>]. Such a finding suggests that the stimulation of CD8<sup>+</sup> T cells may be dependent on the <italic toggle="yes">Brucella</italic>&#x2019;s mutations, and less upon the route of administration. Further inquiry into the type of memory T cells elicited by znBMZ vaccination revealed CD44<sup>High</sup> CD62<sup>Low</sup> CX3CR1<sup>+</sup> KLRG1<sup>+</sup> Tems being induced [<xref rid="B48-microorganisms-12-00169" ref-type="bibr">48</xref>,<xref rid="B49-microorganisms-12-00169" ref-type="bibr">49</xref>]. The presence of resident memory T cells was not evident in the spleen, nor was it anticipated. Given that mucosal vaccinations were not performed [<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>], it seemed unlikely that we would detect these. Since IFN-&#x3B3; is essential for protection against <italic toggle="yes">Brucella</italic> infections [<xref rid="B7-microorganisms-12-00169" ref-type="bibr">7</xref>,<xref rid="B11-microorganisms-12-00169" ref-type="bibr">11</xref>,<xref rid="B17-microorganisms-12-00169" ref-type="bibr">17</xref>,<xref rid="B18-microorganisms-12-00169" ref-type="bibr">18</xref>,<xref rid="B19-microorganisms-12-00169" ref-type="bibr">19</xref>], the source of IFN-&#x3B3; was investigated. Vaccination with either S19 or znBMZ elicited equivalent levels of IFN-&#x3B3;-producing total CD4<sup>+</sup> T cells and total CD4<sup>+</sup> Tems. How they differed was associated with the stimulation of CD8<sup>+</sup> T cells. Vaccination with znBMZ resulted in the stimulation of elevated IFN-&#x3B3;-producing total CD8<sup>+</sup> T cells and total CD8<sup>+</sup> Tems. In fact, vaccination with S19 resulted in no significant difference in the number of IFN-&#x3B3;-producing total CD8<sup>+</sup> T cells or total CD8<sup>+</sup> Tems from PBS-dosed mice, which is consistent with past observations [<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>]. Thus, vaccination with znBMZ had the additional benefit of inducing IFN-&#x3B3;<sup>+</sup> CD8<sup>+</sup> Tems. An evaluation of the whole splenic mononuclear cell production of IFN-&#x3B3; following in vitro antigen restimulation showed S19-vaccinated mice producing more IFN-&#x3B3; than spleens from znBMZ-vaccinated mice. Although the difference between the two groups was subtle, it was significant, and both groups did respond favoring IFN-&#x3B3; production. However, protection was more efficient with the znBMZ-vaccinated mice, suggesting that other mechanisms may be contributing to such protection, possibly via CD8<sup>+</sup> T cell effector mechanisms. Although we were unable to detect TNF-&#x3B1; by intracellular cytokine staining, spleens from S19-vaccinated mice showed greater TNF-&#x3B1;-producing capacity than spleens from znBMZ-vaccinated mice. IL-17 was undetectable for either S19- or znBMZ-vaccinated groups. Thus, the difference in protection between the two groups is neither TNF-&#x3B1;- nor IL-17-dependent. Regarding the latter, IL-17 induction may be more dependent on mucosal routes of vaccination, as it was found to be induced by the various &#x2206;<italic toggle="yes">znuA Brucella</italic> mutants [<xref rid="B35-microorganisms-12-00169" ref-type="bibr">35</xref>,<xref rid="B36-microorganisms-12-00169" ref-type="bibr">36</xref>,<xref rid="B37-microorganisms-12-00169" ref-type="bibr">37</xref>,<xref rid="B38-microorganisms-12-00169" ref-type="bibr">38</xref>,<xref rid="B47-microorganisms-12-00169" ref-type="bibr">47</xref>].</p>
+      <p>In summary, the development of znBMZ and znBM-mC shows these mutants to be highly protective against systemic challenge with virulent wt <italic toggle="yes">B. melitensis</italic> 16M. Even a single dose proved to be strikingly effective. These mutants lack residual virulence, which will be important for testing in relevant livestock.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p><bold>Disclaimer/Publisher&#x2019;s Note:</bold> The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.</p>
+      </fn>
+    </fn-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>X.Y., Z.I.G., E.B. and D.W.P. conceived and designed the experiments. X.Y., Z.I.G., E.B. and C.H. completed experiments. X.Y., Z.I.G., E.B., C.H. and D.W.P. analyzed data. X.Y., Z.I.G., E.B. and D.W.P. prepared the manuscript. All authors reviewed the manuscript. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>All animal studies were conducted under protocols approved by the University of Florida Institutional Animal Care and Use Committee.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability Statement</title>
+      <p>Data are contained within the article.</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflicts of interest.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-microorganisms-12-00169">
+        <label>1.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Whatmore</surname><given-names>A.M.</given-names></name>
+<name><surname>Foster</surname><given-names>J.T.</given-names></name>
+</person-group><article-title>Emerging diversity and ongoing expansion of the genus <italic toggle="yes">Brucella</italic></article-title><source>Infect. Genet. Evol.</source><year>2021</year><volume>92</volume><fpage>104865</fpage><pub-id pub-id-type="doi">10.1016/j.meegid.2021.104865</pub-id><pub-id pub-id-type="pmid">33872784</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B2-microorganisms-12-00169">
+        <label>2.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roop</surname><given-names>R.M.</given-names><suffix>2nd</suffix></name>
+<name><surname>Barton</surname><given-names>I.S.</given-names></name>
+<name><surname>Hopersberger</surname><given-names>D.</given-names></name>
+<name><surname>Martin</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Uncovering the Hidden Credentials of <italic toggle="yes">Brucella</italic> Virulence</article-title><source>Microbiol. Mol. Biol. Rev.</source><year>2021</year><volume>85</volume><fpage>e00021-19</fpage><pub-id pub-id-type="doi">10.1128/MMBR.00021-19</pub-id><pub-id pub-id-type="pmid">33568459</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B3-microorganisms-12-00169">
+        <label>3.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Poester</surname><given-names>F.P.</given-names></name>
+<name><surname>Samartino</surname><given-names>L.E.</given-names></name>
+<name><surname>Santos</surname><given-names>R.L.</given-names></name>
+</person-group><article-title>Pathogenesis and pathobiology of brucellosis in livestock</article-title><source>Rev. Sci. Tech.</source><year>2013</year><volume>32</volume><fpage>105</fpage><lpage>115</lpage><pub-id pub-id-type="doi">10.20506/rst.32.1.2193</pub-id><pub-id pub-id-type="pmid">23837369</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B4-microorganisms-12-00169">
+        <label>4.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Palmer</surname><given-names>M.V.</given-names></name>
+</person-group><article-title>Advancement of knowledge of <italic toggle="yes">Brucella</italic> over the past 50 years</article-title><source>Vet. Pathol.</source><year>2014</year><volume>51</volume><fpage>1076</fpage><lpage>1089</lpage><pub-id pub-id-type="doi">10.1177/0300985814540545</pub-id><pub-id pub-id-type="pmid">24981716</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5-microorganisms-12-00169">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>de Figueiredo</surname><given-names>P.</given-names></name>
+<name><surname>Ficht</surname><given-names>T.A.</given-names></name>
+<name><surname>Rice-Ficht</surname><given-names>A.</given-names></name>
+<name><surname>Rossetti</surname><given-names>C.A.</given-names></name>
+<name><surname>Adams</surname><given-names>L.G.</given-names></name>
+</person-group><article-title>Pathogenesis and Immunobiology of Brucellosis</article-title><source>Am. J. Pathol.</source><year>2015</year><volume>185</volume><fpage>1505</fpage><lpage>1517</lpage><pub-id pub-id-type="doi">10.1016/j.ajpath.2015.03.003</pub-id><pub-id pub-id-type="pmid">25892682</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B6-microorganisms-12-00169">
+        <label>6.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Byndloss</surname><given-names>M.X.</given-names></name>
+<name><surname>Tsolis</surname><given-names>R.M.</given-names></name>
+</person-group><article-title><italic toggle="yes">Brucella</italic> spp. virulence factors and immunity</article-title><source>Annu. Rev. Anim. Biosci.</source><year>2016</year><volume>4</volume><fpage>111</fpage><lpage>127</lpage><pub-id pub-id-type="doi">10.1146/annurev-animal-021815-111326</pub-id><pub-id pub-id-type="pmid">26734887</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B7-microorganisms-12-00169">
+        <label>7.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+<name><surname>Goodwin</surname><given-names>Z.I.</given-names></name>
+<name><surname>Bhagyaraj</surname><given-names>E.</given-names></name>
+<name><surname>Hoffman</surname><given-names>C.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Activation of mucosal immunity as a novel therapeutic strategy for combating brucellosis</article-title><source>Front. Microbiol.</source><year>2022</year><volume>13</volume><elocation-id>1018165</elocation-id><pub-id pub-id-type="doi">10.3389/fmicb.2022.1018165</pub-id><pub-id pub-id-type="pmid">36620020</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B8-microorganisms-12-00169">
+        <label>8.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dean</surname><given-names>A.S.</given-names></name>
+<name><surname>Crump</surname><given-names>L.</given-names></name>
+<name><surname>Greter</surname><given-names>H.</given-names></name>
+<name><surname>Schelling</surname><given-names>E.</given-names></name>
+<name><surname>Zinsstag</surname><given-names>J.</given-names></name>
+</person-group><article-title>Global burden of human brucellosis: A systematic review of disease frequency</article-title><source>PLoS Negl. Trop. Dis.</source><year>2012</year><volume>6</volume><elocation-id>e1865</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pntd.0001865</pub-id><pub-id pub-id-type="pmid">23145195</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B9-microorganisms-12-00169">
+        <label>9.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rubach</surname><given-names>M.P.</given-names></name>
+<name><surname>Halliday</surname><given-names>J.E.</given-names></name>
+<name><surname>Cleaveland</surname><given-names>S.</given-names></name>
+<name><surname>Crump</surname><given-names>J.A.</given-names></name>
+</person-group><article-title>Brucellosis in low income and middle income countries</article-title><source>Curr. Opin. Infect. Dis.</source><year>2013</year><volume>26</volume><fpage>404</fpage><lpage>412</lpage><pub-id pub-id-type="doi">10.1097/QCO.0b013e3283638104</pub-id><pub-id pub-id-type="pmid">23963260</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B10-microorganisms-12-00169">
+        <label>10.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Welburn</surname><given-names>S.C.</given-names></name>
+<name><surname>Beange</surname><given-names>I.</given-names></name>
+<name><surname>Ducrotoy</surname><given-names>M.J.</given-names></name>
+<name><surname>Okello</surname><given-names>A.L.</given-names></name>
+</person-group><article-title>The neglected zoonoses the case for integrated control and advocacy</article-title><source>Clin. Microbiol. Infect.</source><year>2015</year><volume>21</volume><fpage>433</fpage><lpage>443</lpage><pub-id pub-id-type="doi">10.1016/j.cmi.2015.04.011</pub-id><pub-id pub-id-type="pmid">25911990</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B11-microorganisms-12-00169">
+        <label>11.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McDermott</surname><given-names>J.</given-names></name>
+<name><surname>Grace</surname><given-names>D.</given-names></name>
+<name><surname>Zinsstag</surname><given-names>J.</given-names></name>
+</person-group><article-title>Economics of brucellosis impact and control in low-income countries</article-title><source>Rev. Sci. Tech.</source><year>2013</year><volume>32</volume><fpage>249</fpage><lpage>261</lpage><pub-id pub-id-type="doi">10.20506/rst.32.1.2197</pub-id><pub-id pub-id-type="pmid">23837382</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12-microorganisms-12-00169">
+        <label>12.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kiiza</surname><given-names>D.</given-names></name>
+<name><surname>Denagamage</surname><given-names>T.</given-names></name>
+<name><surname>Serra</surname><given-names>R.</given-names></name>
+<name><surname>Maunsell</surname><given-names>F.</given-names></name>
+<name><surname>Kiker</surname><given-names>G.</given-names></name>
+<name><surname>Benavides</surname><given-names>B.</given-names></name>
+<name><surname>Hernandez</surname><given-names>J.A.</given-names></name>
+</person-group><article-title>A systematic review of economic assessments for brucellosis control interventions in livestock populations</article-title><source>Prev. Vet. Med.</source><year>2023</year><volume>213</volume><fpage>105878</fpage><pub-id pub-id-type="doi">10.1016/j.prevetmed.2023.105878</pub-id><pub-id pub-id-type="pmid">36857972</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B13-microorganisms-12-00169">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ariza</surname><given-names>J.</given-names></name>
+<name><surname>Corredoira</surname><given-names>J.</given-names></name>
+<name><surname>Pallares</surname><given-names>R.</given-names></name>
+<name><surname>Viladrich</surname><given-names>P.F.</given-names></name>
+<name><surname>Rufi</surname><given-names>G.</given-names></name>
+<name><surname>Pujol</surname><given-names>M.</given-names></name>
+<name><surname>Gudiol</surname><given-names>F.</given-names></name>
+</person-group><article-title>Characteristics of and risk factors for relapse of brucellosis in humans</article-title><source>Clin. Infect. Dis.</source><year>1995</year><volume>20</volume><fpage>1241</fpage><lpage>1249</lpage><pub-id pub-id-type="doi">10.1093/clinids/20.5.1241</pub-id><pub-id pub-id-type="pmid">7620005</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14-microorganisms-12-00169">
+        <label>14.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Franco</surname><given-names>M.P.</given-names></name>
+<name><surname>Mulder</surname><given-names>M.</given-names></name>
+<name><surname>Gilman</surname><given-names>R.H.</given-names></name>
+<name><surname>Smits</surname><given-names>H.L.</given-names></name>
+</person-group><article-title>Human brucellosis</article-title><source>Lancet Infect. Dis.</source><year>2007</year><volume>7</volume><fpage>775</fpage><lpage>786</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id><pub-id pub-id-type="pmid">18045560</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B15-microorganisms-12-00169">
+        <label>15.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mableson</surname><given-names>H.E.</given-names></name>
+<name><surname>Okello</surname><given-names>A.</given-names></name>
+<name><surname>Picozzi</surname><given-names>K.</given-names></name>
+<name><surname>Welburn</surname><given-names>S.C.</given-names></name>
+</person-group><article-title>Neglected zoonotic diseases-the long and winding road to advocacy</article-title><source>PLoS Negl. Trop. Dis.</source><year>2014</year><volume>8</volume><elocation-id>e2800</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pntd.0002800</pub-id><pub-id pub-id-type="pmid">24901769</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16-microorganisms-12-00169">
+        <label>16.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>Y.</given-names></name>
+<name><surname>Cheers</surname><given-names>C.</given-names></name>
+</person-group><article-title>Endogenous interleukin-12 is involved in resistance to <italic toggle="yes">Brucella abortus</italic> infection</article-title><source>Infect. Immun.</source><year>1995</year><volume>63</volume><fpage>1387</fpage><lpage>1390</lpage><pub-id pub-id-type="doi">10.1128/iai.63.4.1387-1390.1995</pub-id><pub-id pub-id-type="pmid">7890399</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17-microorganisms-12-00169">
+        <label>17.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhan</surname><given-names>Y.</given-names></name>
+<name><surname>Cheers</surname><given-names>C.</given-names></name>
+</person-group><article-title>Control of IL-12 and IFN-&#x3B3; production in response to live or dead bacteria by TNF and other factors</article-title><source>J. Immunol.</source><year>1998</year><volume>161</volume><fpage>1447</fpage><lpage>1453</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.161.3.1447</pub-id><pub-id pub-id-type="pmid">9686610</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B18-microorganisms-12-00169">
+        <label>18.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Murphy</surname><given-names>E.A.</given-names></name>
+<name><surname>Sathiyaseelan</surname><given-names>J.</given-names></name>
+<name><surname>Parent</surname><given-names>M.A.</given-names></name>
+<name><surname>Zou</surname><given-names>B.</given-names></name>
+<name><surname>Baldwin</surname><given-names>C.L.</given-names></name>
+</person-group><article-title>Interferon-&#x3B3; is crucial for surviving a <italic toggle="yes">Brucella abortus</italic> infection in both resistant C57BL/6 and susceptible BALB/c mice</article-title><source>Immunology</source><year>2001</year><volume>103</volume><fpage>511</fpage><lpage>518</lpage><pub-id pub-id-type="doi">10.1046/j.1365-2567.2001.01258.x</pub-id><pub-id pub-id-type="pmid">11529943</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B19-microorganisms-12-00169">
+        <label>19.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vitry</surname><given-names>M.A.</given-names></name>
+<name><surname>De Trez</surname><given-names>C.</given-names></name>
+<name><surname>Goriely</surname><given-names>S.</given-names></name>
+<name><surname>Dumoutier</surname><given-names>L.</given-names></name>
+<name><surname>Akira</surname><given-names>S.</given-names></name>
+<name><surname>Ryffel</surname><given-names>B.</given-names></name>
+<name><surname>Carlier</surname><given-names>Y.</given-names></name>
+<name><surname>Letesson</surname><given-names>J.J.</given-names></name>
+<name><surname>Muraille</surname><given-names>E.</given-names></name>
+</person-group><article-title>Crucial role of gamma interferon-producing CD4<sup>+</sup> Th1 cells but dispensable function of CD8<sup>+</sup> T cell, B cell, Th2, and Th17 responses in the control of <italic toggle="yes">Brucella melitensis</italic> infection in mice</article-title><source>Infect. Immun.</source><year>2012</year><volume>80</volume><fpage>4271</fpage><lpage>4280</lpage><pub-id pub-id-type="doi">10.1128/IAI.00761-12</pub-id><pub-id pub-id-type="pmid">23006848</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B20-microorganisms-12-00169">
+        <label>20.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hanot Mambres</surname><given-names>D.</given-names></name>
+<name><surname>Machelart</surname><given-names>A.</given-names></name>
+<name><surname>Potemberg</surname><given-names>G.</given-names></name>
+<name><surname>De Trez</surname><given-names>C.</given-names></name>
+<name><surname>Ryffel</surname><given-names>B.</given-names></name>
+<name><surname>Letesson</surname><given-names>J.J.</given-names></name>
+<name><surname>Muraille</surname><given-names>E.</given-names></name>
+</person-group><article-title>Identification of immune effectors essential to the control of primary and secondary intranasal infection with <italic toggle="yes">Brucella melitensis</italic> in mice</article-title><source>J. Immunol.</source><year>2016</year><volume>196</volume><fpage>3780</fpage><lpage>3793</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.1502265</pub-id><pub-id pub-id-type="pmid">27036913</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B21-microorganisms-12-00169">
+        <label>21.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Demars</surname><given-names>A.</given-names></name>
+<name><surname>Lison</surname><given-names>A.</given-names></name>
+<name><surname>Machelart</surname><given-names>A.</given-names></name>
+<name><surname>Van Vyve</surname><given-names>M.</given-names></name>
+<name><surname>Potemberg</surname><given-names>G.</given-names></name>
+<name><surname>Vanderwinden</surname><given-names>J.M.</given-names></name>
+<name><surname>De Bolle</surname><given-names>X.</given-names></name>
+<name><surname>Letesson</surname><given-names>J.J.</given-names></name>
+<name><surname>Muraille</surname><given-names>E.</given-names></name>
+</person-group><article-title>Route of Infection Strongly Impacts the Host-Pathogen Relationship</article-title><source>Front. Immunol.</source><year>2019</year><volume>10</volume><fpage>1589</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2019.01589</pub-id><pub-id pub-id-type="pmid">31354728</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B22-microorganisms-12-00169">
+        <label>22.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dorneles</surname><given-names>E.M.</given-names></name>
+<name><surname>Lima</surname><given-names>G.K.</given-names></name>
+<name><surname>Teixeira-Carvalho</surname><given-names>A.</given-names></name>
+<name><surname>Ara&#xFA;jo</surname><given-names>M.S.</given-names></name>
+<name><surname>Martins-Filho</surname><given-names>O.A.</given-names></name>
+<name><surname>Sriranganathan</surname><given-names>N.</given-names></name>
+<name><surname>Al Qublan</surname><given-names>H.</given-names></name>
+<name><surname>Heinemann</surname><given-names>M.B.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+</person-group><article-title>Immune Response of Calves Vaccinated with <italic toggle="yes">Brucella abortus</italic> S19 or RB51 and Revaccinated with RB51</article-title><source>PLoS ONE</source><year>2015</year><volume>10</volume><elocation-id>e0136696</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0136696</pub-id><pub-id pub-id-type="pmid">26352261</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B23-microorganisms-12-00169">
+        <label>23.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Higgins</surname><given-names>J.L.</given-names></name>
+<name><surname>Bowen</surname><given-names>R.A.</given-names></name>
+<name><surname>Gonzalez-Juarrero</surname><given-names>M.</given-names></name>
+</person-group><article-title>Cell mediated immune response in goats after experimental challenge with the virulent <italic toggle="yes">Brucella melitensis</italic> strain 16M and the reduced virulence strain Rev. 1</article-title><source>Vet. Immunol. Immunopathol.</source><year>2018</year><volume>202</volume><fpage>74</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1016/j.vetimm.2018.06.004</pub-id><pub-id pub-id-type="pmid">30078602</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B24-microorganisms-12-00169">
+        <label>24.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Boggiatto</surname><given-names>P.M.</given-names></name>
+<name><surname>Schaut</surname><given-names>R.G.</given-names></name>
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+</person-group><article-title>Enhancing the detection of <italic toggle="yes">Brucella</italic>-specific CD4+ T cell responses in cattle via in vitro antigenic expansion and restimulation</article-title><source>Front. Immunol.</source><year>2020</year><volume>11</volume><fpage>1944</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2020.01944</pub-id><pub-id pub-id-type="pmid">32983124</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B25-microorganisms-12-00169">
+        <label>25.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rodriguez-Zapata</surname><given-names>M.</given-names></name>
+<name><surname>Salmeron</surname><given-names>I.</given-names></name>
+<name><surname>Manzano</surname><given-names>L.</given-names></name>
+<name><surname>Salmeron</surname><given-names>O.J.</given-names></name>
+<name><surname>Prieto</surname><given-names>A.</given-names></name>
+<name><surname>Alvarez-Mon</surname><given-names>M.</given-names></name>
+</person-group><article-title>Defective interferon-gamma production by T-lymphocytes from patients with acute brucellosis</article-title><source>Eur. J. Clin. Investig.</source><year>1996</year><volume>26</volume><fpage>136</fpage><lpage>140</lpage><pub-id pub-id-type="doi">10.1046/j.1365-2362.1996.108250.x</pub-id><pub-id pub-id-type="pmid">8904523</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B26-microorganisms-12-00169">
+        <label>26.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rafiei</surname><given-names>A.</given-names></name>
+<name><surname>Ardestani</surname><given-names>S.K.</given-names></name>
+<name><surname>Kariminia</surname><given-names>A.</given-names></name>
+<name><surname>Keyhani</surname><given-names>A.</given-names></name>
+<name><surname>Mohraz</surname><given-names>M.</given-names></name>
+<name><surname>Amirkhani</surname><given-names>A.</given-names></name>
+</person-group><article-title>Dominant Th1 cytokine production in early onset of human brucellosis followed by switching towards Th2 along prolongation of disease</article-title><source>J. Infect.</source><year>2006</year><volume>53</volume><fpage>315</fpage><lpage>324</lpage><pub-id pub-id-type="doi">10.1016/j.jinf.2005.11.024</pub-id><pub-id pub-id-type="pmid">16488475</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B27-microorganisms-12-00169">
+        <label>27.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hedayatizadeh-Omran</surname><given-names>A.</given-names></name>
+<name><surname>Rafiei</surname><given-names>A.</given-names></name>
+<name><surname>Hajilooi</surname><given-names>M.</given-names></name>
+<name><surname>Haghshenas</surname><given-names>M.</given-names></name>
+</person-group><article-title>Interferon-&#x3B3; low producer genotype +5644 over presented in patients with focal brucellosis</article-title><source>Pak. J. Biol. Sci.</source><year>2010</year><volume>13</volume><fpage>1036</fpage><lpage>1041</lpage><pub-id pub-id-type="doi">10.3923/pjbs.2010.1036.1041</pub-id><pub-id pub-id-type="pmid">21313874</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B28-microorganisms-12-00169">
+        <label>28.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Atluri</surname><given-names>V.L.</given-names></name>
+<name><surname>Xavier</surname><given-names>M.N.</given-names></name>
+<name><surname>de Jong</surname><given-names>M.F.</given-names></name>
+<name><surname>den Hartigh</surname><given-names>A.B.</given-names></name>
+<name><surname>Tsolis</surname><given-names>R.M.</given-names></name>
+</person-group><article-title>Interactions of the human pathogenic <italic toggle="yes">Brucella</italic> species with their hosts</article-title><source>Annu. Rev. Microbiol.</source><year>2011</year><volume>65</volume><fpage>523</fpage><lpage>541</lpage><pub-id pub-id-type="doi">10.1146/annurev-micro-090110-102905</pub-id><pub-id pub-id-type="pmid">21939378</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B29-microorganisms-12-00169">
+        <label>29.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zinsstag</surname><given-names>J.</given-names></name>
+<name><surname>Schelling</surname><given-names>E.</given-names></name>
+<name><surname>Roth</surname><given-names>F.</given-names></name>
+<name><surname>Bonfoh</surname><given-names>B.</given-names></name>
+<name><surname>de Savigny</surname><given-names>D.</given-names></name>
+<name><surname>Tanner</surname><given-names>M.</given-names></name>
+</person-group><article-title>Human benefits of animal interventions for zoonosis control</article-title><source>Emerg. Infect. Dis.</source><year>2007</year><volume>13</volume><fpage>527</fpage><lpage>531</lpage><pub-id pub-id-type="doi">10.3201/eid1304.060381</pub-id><pub-id pub-id-type="pmid">17553265</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B30-microorganisms-12-00169">
+        <label>30.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S.</given-names></name>
+<name><surname>Watanabe</surname><given-names>K.</given-names></name>
+<name><surname>Shirahata</surname><given-names>T.</given-names></name>
+<name><surname>Watarai</surname><given-names>M.</given-names></name>
+</person-group><article-title>Zinc uptake system (<italic toggle="yes">znuA</italic> locus) of <italic toggle="yes">Brucella abortus</italic> is essential for intracellular survival and virulence in mice</article-title><source>J. Vet. Med. Sci.</source><year>2004</year><volume>66</volume><fpage>1059</fpage><lpage>1063</lpage><pub-id pub-id-type="doi">10.1292/jvms.66.1059</pub-id><pub-id pub-id-type="pmid">15472468</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B31-microorganisms-12-00169">
+        <label>31.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Becker</surname><given-names>T.</given-names></name>
+<name><surname>Jun</surname><given-names>S.M.</given-names></name>
+<name><surname>Walters</surname><given-names>N.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Deletion of <italic toggle="yes">znuA</italic> virulence factor attenuates <italic toggle="yes">Brucella abortus</italic> and confers protection against wild-type challenge</article-title><source>Infect. Immun.</source><year>2006</year><volume>74</volume><fpage>3874</fpage><lpage>3879</lpage><pub-id pub-id-type="doi">10.1128/IAI.01957-05</pub-id><pub-id pub-id-type="pmid">16790759</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B32-microorganisms-12-00169">
+        <label>32.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Roop</surname><given-names>R.M.</given-names></name>
+</person-group><article-title>Metal acquisition and virulence in <italic toggle="yes">Brucella</italic></article-title><source>Anim. Health Res. Rev.</source><year>2012</year><volume>13</volume><fpage>10</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1017/S1466252312000047</pub-id><pub-id pub-id-type="pmid">22632611</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B33-microorganisms-12-00169">
+        <label>33.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Loisel-Meyer</surname><given-names>S.</given-names></name>
+<name><surname>Jim&#xE9;nez de Bag&#xFC;&#xE9;s</surname><given-names>M.P.</given-names></name>
+<name><surname>Bass&#xE8;res</surname><given-names>E.</given-names></name>
+<name><surname>Dornand</surname><given-names>J.</given-names></name>
+<name><surname>K&#xF6;hler</surname><given-names>S.</given-names></name>
+<name><surname>Liautard</surname><given-names>J.P.</given-names></name>
+<name><surname>Jubier-Maurin</surname><given-names>V.</given-names></name>
+</person-group><article-title>Requirement of <italic toggle="yes">norD</italic> for <italic toggle="yes">Brucella suis</italic> virulence in a murine model of in vitro and in vivo infection</article-title><source>Infect. Immun.</source><year>2006</year><volume>74</volume><fpage>1973</fpage><lpage>1976</lpage><pub-id pub-id-type="doi">10.1128/IAI.74.3.1973-1976.2006</pub-id><pub-id pub-id-type="pmid">16495577</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B34-microorganisms-12-00169">
+        <label>34.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Clapp</surname><given-names>B.</given-names></name>
+<name><surname>Thornburg</surname><given-names>T.</given-names></name>
+<name><surname>Hoffman</surname><given-names>C.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Vaccination with a &#x394;<italic toggle="yes">norD</italic> &#x394;<italic toggle="yes">znuA Brucella abortus</italic> mutant confers potent protection against virulent challenge</article-title><source>Vaccine</source><year>2016</year><volume>34</volume><fpage>5290</fpage><lpage>5297</lpage><pub-id pub-id-type="doi">10.1016/j.vaccine.2016.09.004</pub-id><pub-id pub-id-type="pmid">27639282</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B35-microorganisms-12-00169">
+        <label>35.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<name><surname>Hoffman</surname><given-names>C.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Clapp</surname><given-names>B.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Targeting resident memory T cell immunity culminates in pulmonary and systemic protection against <italic toggle="yes">Brucella</italic> infection</article-title><source>PLoS Pathog.</source><year>2020</year><volume>16</volume><elocation-id>e1008176</elocation-id><pub-id pub-id-type="doi">10.1371/journal.ppat.1008176</pub-id><pub-id pub-id-type="pmid">31951645</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B36-microorganisms-12-00169">
+        <label>36.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goodwin</surname><given-names>Z.I.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Hoffman</surname><given-names>C.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Live mucosal vaccination stimulates potent protection via varied CD4<sup>+</sup> and CD8<sup>+</sup> T cell subsets against wild-type <italic toggle="yes">Brucella melitensis</italic> 16M challenge</article-title><source>Front. Immunol.</source><year>2022</year><volume>13</volume><fpage>995327</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2022.995327</pub-id><pub-id pub-id-type="pmid">36263034</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B37-microorganisms-12-00169">
+        <label>37.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Clapp</surname><given-names>B.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Thornburg</surname><given-names>T.</given-names></name>
+<name><surname>Walters</surname><given-names>N.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Nasal vaccination stimulates CD8<sup>+</sup> T cells for potent protection against mucosal <italic toggle="yes">Brucella melitensis</italic> challenge</article-title><source>Immunol. Cell Biol.</source><year>2016</year><volume>94</volume><fpage>496</fpage><lpage>508</lpage><pub-id pub-id-type="doi">10.1038/icb.2016.5</pub-id><pub-id pub-id-type="pmid">26752510</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B38-microorganisms-12-00169">
+        <label>38.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H.</given-names></name>
+<name><surname>Clapp</surname><given-names>B.</given-names></name>
+<name><surname>Hoffman</surname><given-names>C.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>A single nasal dose vaccination with a <italic toggle="yes">Brucella abortus</italic> mutant potently protects against pulmonary infection</article-title><source>J. Immunol.</source><year>2023</year><volume>210</volume><fpage>1576</fpage><lpage>1588</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.2300071</pub-id><pub-id pub-id-type="pmid">37036290</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B39-microorganisms-12-00169">
+        <label>39.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Stoffregen</surname><given-names>W.S.</given-names></name>
+</person-group><article-title>Essential role of vaccines in brucellosis control and eradication programs for livestock</article-title><source>Expert Rev. Vaccines</source><year>2005</year><volume>4</volume><fpage>915</fpage><lpage>928</lpage><pub-id pub-id-type="doi">10.1586/14760584.4.6.915</pub-id><pub-id pub-id-type="pmid">16372886</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B40-microorganisms-12-00169">
+        <label>40.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rossetti</surname><given-names>C.A.</given-names></name>
+<name><surname>Arenas-Gamboa</surname><given-names>A.M.</given-names></name>
+<name><surname>Maurizio</surname><given-names>E.</given-names></name>
+</person-group><article-title>Caprine brucellosis: A historically neglected disease with significant impact on public health</article-title><source>PLoS Negl. Trop. Dis.</source><year>2017</year><volume>11</volume><elocation-id>e0005692</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pntd.0005692</pub-id><pub-id pub-id-type="pmid">28817647</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B41-microorganisms-12-00169">
+        <label>41.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Darbandi</surname><given-names>A.</given-names></name>
+<name><surname>Alamdary</surname><given-names>S.Z.</given-names></name>
+<name><surname>Koupaei</surname><given-names>M.</given-names></name>
+<name><surname>Ghanavati</surname><given-names>R.</given-names></name>
+<name><surname>Heidary</surname><given-names>M.</given-names></name>
+<name><surname>Talebi</surname><given-names>M.</given-names></name>
+</person-group><article-title>Evaluation of immune responses to <italic toggle="yes">Brucella</italic> vaccines in mouse models: A systematic review</article-title><source>Front. Vet. Sci.</source><year>2022</year><volume>9</volume><fpage>903890</fpage><pub-id pub-id-type="doi">10.3389/fvets.2022.903890</pub-id><pub-id pub-id-type="pmid">36118342</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B42-microorganisms-12-00169">
+        <label>42.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lubroth</surname><given-names>J.</given-names></name>
+<name><surname>Rweyemamu</surname><given-names>M.M.</given-names></name>
+<name><surname>Viljoen</surname><given-names>G.</given-names></name>
+<name><surname>Diallo</surname><given-names>A.</given-names></name>
+<name><surname>Dungu</surname><given-names>B.</given-names></name>
+<name><surname>Amanfu</surname><given-names>W.</given-names></name>
+</person-group><article-title>Veterinary vaccines and their use in developing countries</article-title><source>Rev. Sci. Tech.</source><year>2007</year><volume>26</volume><fpage>179</fpage><lpage>201</lpage><pub-id pub-id-type="doi">10.20506/rst.26.1.1737</pub-id><pub-id pub-id-type="pmid">17633302</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B43-microorganisms-12-00169">
+        <label>43.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pereira</surname><given-names>C.R.</given-names></name>
+<name><surname>Cotrim de Almeida</surname><given-names>J.V.F.</given-names></name>
+<name><surname>Cardoso de Oliveira</surname><given-names>I.R.</given-names></name>
+<name><surname>Faria de Oliveira</surname><given-names>L.</given-names></name>
+<name><surname>Pereira</surname><given-names>L.J.</given-names></name>
+<name><surname>Zanger&#xF4;nimo</surname><given-names>M.G.</given-names></name>
+<name><surname>Lage</surname><given-names>A.P.</given-names></name>
+<name><surname>Dorneles</surname><given-names>E.M.S.</given-names></name>
+</person-group><article-title>Occupational exposure to <italic toggle="yes">Brucella</italic> spp.: A systematic review and meta-analysis</article-title><source>PLoS Negl. Trop. Dis.</source><year>2020</year><volume>14</volume><elocation-id>e0008164</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pntd.0008164</pub-id><pub-id pub-id-type="pmid">32392223</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B44-microorganisms-12-00169">
+        <label>44.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Buswell</surname><given-names>M.L.</given-names></name>
+<name><surname>Hourigan</surname><given-names>M.</given-names></name>
+<name><surname>Nault</surname><given-names>A.J.</given-names></name>
+<name><surname>Bender</surname><given-names>J.B.</given-names></name>
+</person-group><article-title>Needlestick injuries in agriculture workers and prevention programs</article-title><source>J. Agromedicine</source><year>2016</year><volume>21</volume><fpage>82</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1080/1059924X.2015.1106996</pub-id><pub-id pub-id-type="pmid">26478987</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B45-microorganisms-12-00169">
+        <label>45.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Olsen</surname><given-names>S.C.</given-names></name>
+<name><surname>Bricker</surname><given-names>B.</given-names></name>
+<name><surname>Palmer</surname><given-names>M.V.</given-names></name>
+<name><surname>Jensen</surname><given-names>A.E.</given-names></name>
+<name><surname>Cheville</surname><given-names>N.F.</given-names></name>
+</person-group><article-title>Responses of cattle to two dosages of <italic toggle="yes">Brucella abortus</italic> strain RB51: Serology, clearance and efficacy</article-title><source>Res. Vet. Sci.</source><year>1999</year><volume>66</volume><fpage>101</fpage><lpage>105</lpage><pub-id pub-id-type="doi">10.1053/rvsc.1998.0251</pub-id><pub-id pub-id-type="pmid">10208887</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B46-microorganisms-12-00169">
+        <label>46.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dadar</surname><given-names>M.</given-names></name>
+<name><surname>Shahali</surname><given-names>Y.</given-names></name>
+<name><surname>Whatmore</surname><given-names>A.M.</given-names></name>
+</person-group><article-title>Human brucellosis caused by raw dairy products: A review on the occurrence, major risk factors and prevention</article-title><source>Int. J. Food Microbiol.</source><year>2019</year><volume>292</volume><fpage>39</fpage><lpage>47</lpage><pub-id pub-id-type="doi">10.1016/j.ijfoodmicro.2018.12.009</pub-id><pub-id pub-id-type="pmid">30572264</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B47-microorganisms-12-00169">
+        <label>47.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Clapp</surname><given-names>B.</given-names></name>
+<name><surname>Skyberg</surname><given-names>J.A.</given-names></name>
+<name><surname>Yang</surname><given-names>X.</given-names></name>
+<name><surname>Thornburg</surname><given-names>T.</given-names></name>
+<name><surname>Walters</surname><given-names>N.</given-names></name>
+<name><surname>Pascual</surname><given-names>D.W.</given-names></name>
+</person-group><article-title>Protective live oral brucellosis vaccines stimulate Th1 and Th17 cell responses</article-title><source>Infect. Immun.</source><year>2011</year><volume>79</volume><fpage>4165</fpage><lpage>4174</lpage><pub-id pub-id-type="doi">10.1128/IAI.05080-11</pub-id><pub-id pub-id-type="pmid">21768283</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B48-microorganisms-12-00169">
+        <label>48.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sakai</surname><given-names>S.</given-names></name>
+<name><surname>Kauffman</surname><given-names>K.D.</given-names></name>
+<name><surname>Schenkel</surname><given-names>J.M.</given-names></name>
+<name><surname>McBerry</surname><given-names>C.C.</given-names></name>
+<name><surname>Mayer-Barber</surname><given-names>K.D.</given-names></name>
+<name><surname>Masopust</surname><given-names>D.</given-names></name>
+<name><surname>Barber</surname><given-names>D.L.</given-names></name>
+</person-group><article-title>Cutting edge: Control of <italic toggle="yes">Mycobacterium tuberculosis</italic> infection by a subset of lung parenchyma-homing CD4 T cells</article-title><source>J. Immunol.</source><year>2014</year><volume>192</volume><fpage>2965</fpage><lpage>2969</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.1400019</pub-id><pub-id pub-id-type="pmid">24591367</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B49-microorganisms-12-00169">
+        <label>49.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sallin</surname><given-names>M.A.</given-names></name>
+<name><surname>Sakai</surname><given-names>S.</given-names></name>
+<name><surname>Kauffman</surname><given-names>K.D.</given-names></name>
+<name><surname>Young</surname><given-names>H.A.</given-names></name>
+<name><surname>Zhu</surname><given-names>J.</given-names></name>
+<name><surname>Barber</surname><given-names>D.L.</given-names></name>
+</person-group><article-title>Th1 Differentiation Drives the Accumulation of Intravascular, Non-protective CD4 T Cells during Tuberculosis</article-title><source>Cell Rep.</source><year>2017</year><volume>18</volume><fpage>3091</fpage><lpage>3104</lpage><pub-id pub-id-type="doi">10.1016/j.celrep.2017.03.007</pub-id><pub-id pub-id-type="pmid">28355562</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="microorganisms-12-00169-f001">
+      <label>Figure 1</label>
+      <caption>
+        <p>Two recombinant strains, &#x2206;<italic toggle="yes">znuA</italic> &#x2206;<italic toggle="yes">norD B. melitensis-lacZ</italic> (znBMZ) and &#x2206;<italic toggle="yes">znuA</italic> &#x2206;<italic toggle="yes">norD B. melitensis</italic>-mCherry (znBM-mC), show reduced growth in (<bold>A</bold>) primary mouse bone-marrow-derived macrophages (BMDMs) and (<bold>B</bold>) human TF-1 myeloid cells. (<bold>A</bold>) Wild-type (wt) <italic toggle="yes">B. melitensis</italic> 16M (BM 16M), <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine, znBMZ, and znBM-mC were used to infect BMDMs (1 &#xD7; 10<sup>4</sup>/well) at a bacteria-to-macrophage ratio of 10:1. Primary BMDMs were derived from BALB/c mouse femurs and recovered BMDMs were found to be &gt;96% CD11b<sup>+</sup> F4/80<sup>+</sup>. After a 3-h incubation followed by a 30 min treatment with 50 &#x3BC;g/mL gentamicin to rid extracellular brucellae, infected BMDMs were incubated in fresh medium for 0, 24, 48, or 72 h. Infected macrophages were water-lysed, and supernatants were diluted for CFU enumeration on potato infusion agar (PIA). The level of initial infection was the same for all <italic toggle="yes">Brucella</italic> strains (t = 0 h). The results show that both znBMZ and znBM-mC were unable to achieve the level of colonization as the wt BM 16M strain or <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine. (<bold>B</bold>) Human TF-1 myeloid cells (1 &#xD7; 10<sup>4</sup>/well) were infected 10:1 with wt BM 16M, <italic toggle="yes">B. melitensis</italic> Rev 1 vaccine, znBMZ, or znBM-mC, and evaluated for colonization as described above. The results showed that both znBMZ and znBM-mC were unable to achieve the same level of colonization as wt BM 16M or Rev 1. Values are the means of triplicate wells &#xB1; SEM: *** <italic toggle="yes">p</italic> &#x2264; 0.002; differences in brucellae colonization by the same strain over time vs. t = 0; <sup>###</sup>&#xA0;<italic toggle="yes">p</italic> &#x2264; 0.001; differences in brucellae colonization vs. wt BM 16M at the same time point; and <sup>&#xA7;&#xA7;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.01, <sup>&#xA7;&#xA7;&#xA7;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.001 differences in brucellae colonization vs. BM Rev 1 vaccine.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g001" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-00169-f002">
+      <label>Figure 2</label>
+      <caption>
+        <p>The <italic toggle="yes">Brucella</italic> mutant, znBM-mC, is attenuated since it is effectively cleared from mice following intraperitoneal (IP) delivery. BALB/c mice (4&#x2013;7/group/time point) were IP vaccinated with 1 &#xD7; 10<sup>6</sup> CFUs of <italic toggle="yes">B. abortus</italic> S19 or with the indicated dose of znBM-mC (10<sup>5</sup>, 10<sup>6</sup>, or 10<sup>7</sup> CFUs). At 3, 6, and 10 weeks (wks) after vaccination, individual spleens were assessed for (<bold>A</bold>) brucellae colonization and (<bold>B</bold>) splenic weights. Values are the mean CFUs or weights from individual mice &#xB1; SEM; *** <italic toggle="yes">p</italic> &lt; 0.001, ** <italic toggle="yes">p</italic> &#x2264; 0.02, * <italic toggle="yes">p</italic> &lt; 0.05 differences vs. S19 colonization at the specific time point; <sup>##</sup>&#xA0;<italic toggle="yes">p</italic> = 0.018 between mice dosed with 10<sup>5</sup> or 10<sup>6</sup> CFUs of znBM-mC at 6 wks post-infection.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g002" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-00169-f003">
+      <label>Figure 3</label>
+      <caption>
+        <p>A single IP vaccination with znBMZ protects mice against wt <italic toggle="yes">Brucella</italic> colonization. Groups of BALB/c mice were IP vaccinated with sterile PBS vehicle (n = 4), 10<sup>7</sup> CFUs S19 (n = 7), or 10<sup>7</sup> CFUs znBMZ (n = 6) on day 0. On day 42, all mice were challenged IP with 5 &#xD7; 10<sup>4</sup> CFUs wt BM 16M. Spleens from individual mice were harvested and evaluated (<bold>A</bold>) for brucellae colonization on PIA plates with X-gal and (<bold>B</bold>) for individual weights. Values are the mean CFUs or weights from individual mice &#xB1; SEM; *** <italic toggle="yes">p</italic> &lt; 0.001, ** <italic toggle="yes">p</italic> &#x2264; 0.01, differences vs. PBS-treated mice; <sup>&#x2020;&#x2020;&#x2020;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.001 vs. S19-vaccinated mice.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g003" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-00169-f004">
+      <label>Figure 4</label>
+      <caption>
+        <p>IP vaccination with znBMZ induces CD4<sup>+</sup> and CD8<sup>+</sup> T effector memory cells (Tems). Groups of BALB/c mice were IP vaccinated with sterile PBS vehicle (n = 5), 10<sup>7</sup> CFUs S19 (n = 5), or 10<sup>7</sup> CFUs znBMZ (n = 5) on day 0. On day 42, spleens from individual mice were harvested and mononuclear cells were isolated for evaluation T cell subsets by flow cytometry. (<bold>A</bold>) Flow cytometry plots reveal that S19-vaccinated mice elicit mostly CD4<sup>+</sup> T cells in contrast to both CD4<sup>+</sup> and CD8<sup>+</sup> T cells induced with subsequent znBMZ vaccination. (<bold>B</bold>) Total CD4<sup>+</sup> and (<bold>C</bold>) CD8<sup>+</sup> T cells are depicted. The frequencies of (<bold>D</bold>) CD4<sup>+</sup> and (<bold>F</bold>) CD8<sup>+</sup> T cells were evaluated for induction of Tems by staining splenic lymphocytes for CD44<sup>High</sup> CD62<sup>Low</sup> CX3CR1<sup>+</sup> KLRG1<sup>+</sup> T cells and (<bold>E</bold>) total CD4<sup>+</sup> and (<bold>G</bold>) CD8<sup>+</sup> Tems were quantified. Values are the mean total T cells and Tems from individual mice &#xB1; SEM; *** <italic toggle="yes">p</italic> &lt; 0.001, differences vs. PBS-treated mice; <sup>&#x2020;&#x2020;&#x2020;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.001 vs. S19-vaccinated mice.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g004" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-00169-f005">
+      <label>Figure 5</label>
+      <caption>
+        <p>IP vaccination with znBMZ induces IFN-&#x3B3;-producing CD4<sup>+</sup> and CD8<sup>+</sup> T cells. The spleens from the same groups of mice evaluated in <xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref> were further analyzed for IFN-&#x3B3;<sup>+</sup> T cells by flow cytometry. (<bold>A</bold>) Gating on CD4<sup>+</sup> Tems, these were further analyzed for expression of IFN-&#x3B3;. (<bold>B</bold>) The total number of IFN-&#x3B3;<sup>+</sup> CD4<sup>+</sup> T cells and (<bold>C</bold>) IFN-&#x3B3;<sup>+</sup> Tems are depicted. (<bold>D</bold>) Gating on CD8<sup>+</sup> Tems, these were further analyzed for expression of IFN-&#x3B3;. (<bold>E</bold>) The total number of IFN-&#x3B3;<sup>+</sup> CD8<sup>+</sup> T cells and (<bold>F</bold>) IFN-&#x3B3;<sup>+</sup> Tems are shown. Values are the mean total CD4<sup>+</sup> and CD8<sup>+</sup> T cells and CD4<sup>+</sup> and CD8<sup>+</sup> Tems from individual mice &#xB1; SEM; *** <italic toggle="yes">p</italic> &lt; 0.001, ** <italic toggle="yes">p</italic> &#x2264; 0.002, * <italic toggle="yes">p</italic> &lt; 0.05 differences vs. PBS-treated mice; <sup>&#x2020;&#x2020;&#x2020;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.001, <sup>&#x2020;&#x2020;</sup>&#xA0;<italic toggle="yes">p</italic> &#x2264; 0.002 vs. S19-vaccinated mice.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g005" position="float"/>
+    </fig>
+    <fig position="float" id="microorganisms-12-00169-f006">
+      <label>Figure 6</label>
+      <caption>
+        <p>A single IP vaccination with S19 or znBMZ elicits increased splenic IFN-&#x3B3; and TNF-&#x3B1;, but no IL-17 following in vitro restimulation. Isolated splenic mononuclear cells from individual mice, described in <xref rid="microorganisms-12-00169-f004" ref-type="fig">Figure 4</xref> and <xref rid="microorganisms-12-00169-f005" ref-type="fig">Figure 5</xref>, were restimulated in vitro with media or 10<sup>9</sup> CFUs HKRB51 for three days. Harvested supernatants from duplicate cultures were analyzed for (<bold>A</bold>) IFN-&#x3B3;, (<bold>B</bold>) TNF-&#x3B1;, and (<bold>C</bold>) IL-17. Values are the mean cytokines from duplicate cultures corrected for media only levels from individual mice &#xB1; SEM; *** <italic toggle="yes">p</italic> &lt; 0.001, differences vs. PBS-treated mice; <sup>&#x2020;&#x2020;&#x2020;</sup>&#xA0;<italic toggle="yes">p</italic> &lt; 0.001 vs. S19-vaccinated mice.</p>
+      </caption>
+      <graphic xlink:href="microorganisms-12-00169-g006" position="float"/>
+    </fig>
+  </floats-group>
+</article>
+</pmc-articleset>

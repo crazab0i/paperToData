@@ -1,0 +1,2913 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">One Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">One Health</journal-id>
+      <journal-title-group>
+        <journal-title>One Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2352-7714</issn>
+      <publisher>
+        <publisher-name>Elsevier</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36632477</article-id>
+      <article-id pub-id-type="pmc">9827381</article-id>
+      <article-id pub-id-type="pii">S2352-7714(23)00003-4</article-id>
+      <article-id pub-id-type="doi">10.1016/j.onehlt.2023.100483</article-id>
+      <article-id pub-id-type="publisher-id">100483</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Whole-genome sequencing for genetic diversity analysis of Iranian <italic>Brucella</italic> spp. isolated from humans and livestock</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" id="au0005">
+          <name>
+            <surname>Dadar</surname>
+            <given-names>Maryam</given-names>
+          </name>
+          <email>dadar.m77@gmail.com</email>
+          <xref rid="af0005" ref-type="aff">a</xref>
+          <xref rid="cr0005" ref-type="corresp">&#x204E;</xref>
+          <xref rid="fn0005" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0010">
+          <name>
+            <surname>Brangsch</surname>
+            <given-names>Hanka</given-names>
+          </name>
+          <xref rid="af0010" ref-type="aff">b</xref>
+          <xref rid="fn0005" ref-type="fn">1</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0015">
+          <name>
+            <surname>Alamian</surname>
+            <given-names>Saeed</given-names>
+          </name>
+          <xref rid="af0005" ref-type="aff">a</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0020">
+          <name>
+            <surname>Neubauer</surname>
+            <given-names>Heinrich</given-names>
+          </name>
+          <xref rid="af0010" ref-type="aff">b</xref>
+        </contrib>
+        <contrib contrib-type="author" id="au0025">
+          <name>
+            <surname>Wareth</surname>
+            <given-names>Gamal</given-names>
+          </name>
+          <email>gamal.wareth@fli.de</email>
+          <xref rid="af0010" ref-type="aff">b</xref>
+          <xref rid="cr0005" ref-type="corresp">&#x204E;</xref>
+        </contrib>
+        <aff id="af0005"><label>a</label>Razi Vaccine and Serum Research Institute (RVSRI), Agricultural Research, Education and Extension Organization (AREEO), Karaj, Iran</aff>
+        <aff id="af0010"><label>b</label>Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses (IBIZ), Naumburger Str. 96a, 07743 Jena, Germany</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cr0005"><label>&#x204E;</label>Corresponding authors. <email>dadar.m77@gmail.com</email><email>gamal.wareth@fli.de</email></corresp>
+        <fn id="fn0005">
+          <label>1</label>
+          <p id="np0005">These authors contributed equally.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="pmc-release">
+        <day>03</day>
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <!-- PMC Release delay is 0 months and 0 days and was based on <pub-date
+						pub-type="epub">.-->
+      <pub-date pub-type="collection">
+        <month>6</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>16</volume>
+      <elocation-id>100483</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>8</month>
+          <year>2022</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>30</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>2</day>
+          <month>1</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 The Authors</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).</license-p>
+        </license>
+      </permissions>
+      <abstract id="ab0005">
+        <p>Brucellosis is one of the most common zoonoses in the Middle East. It is causing economic losses to the livestock industry and has a great public health concern. Little is known about the genetic diversity and distribution of brucellae in Iran. Therefore, forty <italic>Brucella</italic> spp. strains (<italic>B. abortus</italic> and <italic>B. melitensis</italic>) isolated from animals and humans were analyzed by whole genome sequencing (WGS) technology using single nucleotide polymorphism (SNP) analysis and core genome multilocus sequence typing (cgMLST). <italic>Brucella</italic> isolates were obtained from lymph nodes (cows and camels), milk (cows, camels and sheep), and aborted foetus samples (sheep and goats), as well as cerebrospinal fluid and blood of humans. The isolates were originating from thirteen provinces of Iran and isolated between 2015 and 2020. According to <italic>in-silico</italic> MLST, ST8 and ST2 were the most frequent sequence types in <italic>B. melitensis</italic> and <italic>B. abortus</italic>, respectively. Based on phylogeographic reconstruction using cgSNP analysis, the investigated Iranian <italic>B. melitensis</italic> strains belonged to the American and Mediterranean lineages of the <italic>B. melitensis</italic> phylogeny. Furthermore, cgSNP analysis revealed a similarity between Iranian <italic>B. abortus</italic> isolates and strains from Iraq and Egypt. Therefore, the origin of the Iranian strains can be suggested to be strains from neighboring and Middle East countries. Moreover, cgMLST analysis showed that the Iranian <italic>B. melitensis</italic> strains were closely relative to strains recovered from sheep and humans in Iraq, Afghanistan, Syria, Turkmenistan, and Pakistan. In the current panel of strains, cgMLST and cgSNP analysis provided an appropriate and accurate tool for effective traceback analyses for <italic>Brucella</italic> spp. from Iran. The results of cgSNP and cgMLST helped to understand the geographic distribution and interspecies transmission of Iranian strains and highlight the importance of specific brucellosis control measures in Iran with regard to the One-Health approach.</p>
+      </abstract>
+      <abstract abstract-type="author-highlights" id="ab0010">
+        <title>Highlights</title>
+        <p>
+          <list list-type="simple" id="l0005">
+            <list-item id="li0010">
+              <label>&#x2022;</label>
+              <p id="p0010">Forty <italic>Brucella</italic> isolates were characterized by phenotypic typing, AMOS-PCR, Bruce-ladder and WGS.</p>
+            </list-item>
+            <list-item id="li0015">
+              <label>&#x2022;</label>
+              <p id="p0015">cgMLST showed ST8 and ST2 were the most frequent sequence types in <italic>B. melitensis</italic> and <italic>B. abortus</italic>, respectively</p>
+            </list-item>
+            <list-item id="li0020">
+              <label>&#x2022;</label>
+              <p id="p0020">The study provides the first data describing how <italic>Brucella</italic> isolates from Iran relate to the global population structure.</p>
+            </list-item>
+            <list-item id="li0025">
+              <label>&#x2022;</label>
+              <p id="p0025">Based on cgSNP analysis, the Iranian <italic>B. melitensis</italic> strains belonged to the American and Mediterranean lineages.</p>
+            </list-item>
+            <list-item id="li0030">
+              <label>&#x2022;</label>
+              <p id="p0030">Based on cgSNP analysis, a similarity between Iranian <italic>B. abortus</italic> isolates and strains from Iraq and Egypt was seen.</p>
+            </list-item>
+          </list>
+        </p>
+      </abstract>
+      <kwd-group id="ks0005">
+        <title>Keywords</title>
+        <kwd>Whole genome sequencing</kwd>
+        <kwd>cgSNP</kwd>
+        <kwd>cgMLST</kwd>
+        <kwd>
+          <italic>Brucella abortus</italic>
+        </kwd>
+        <kwd>
+          <italic>Brucella melitensis</italic>
+        </kwd>
+        <kwd>Genetic diversity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s0005">
+      <label>1</label>
+      <title>Introduction</title>
+      <p id="p0040">Brucellosis is a notorious zoonotic disease affecting a wide range of animals and humans worldwide. It is considered one of the most prevalent zoonoses in the Middle East and North African (MENA) countries with public health significance and substantial economic losses in the livestock industry [<xref rid="bb0005" ref-type="bibr">1</xref>]. The genus <italic>Brucella</italic> (<italic>B.</italic>) currently comprises twelve highly genetically related species [<xref rid="bb0010" ref-type="bibr">2</xref>]. However, the inclusion of closely related <italic>Ochrobactrum</italic> species in the genus <italic>Brucella</italic> has been proposed lately [<xref rid="bb0015" ref-type="bibr">3</xref>]. Both genera must be kept separated also in the future to avoid confusion which will bring evident risks for occupational personnel who are confronted brucellosis [<xref rid="bb0020" ref-type="bibr">4</xref>]. The most virulent species for humans are <italic>B. melitensis</italic> and <italic>B. suis</italic> (except <italic>B. suis</italic> biovar 2), whereas <italic>B. abortus</italic> causes milder illness [<xref rid="bb0025" ref-type="bibr">5</xref>,<xref rid="bb0030" ref-type="bibr">6</xref>]. Bovines and small ruminants are the primary hosts for <italic>B. abortus</italic> and <italic>B. melitensis</italic>, respectively, although trans-species transmission of <italic>Brucella</italic> spp. has been reported [<xref rid="bb0035" ref-type="bibr">[7]</xref>, <xref rid="bb0040" ref-type="bibr">[8]</xref>, <xref rid="bb0045" ref-type="bibr">[9]</xref>]. Brucellosis is transmitted to humans through close contact with infected animals or infected materials e.g. aborted fetuses or placentas, and via consumption of unpasteurized dairy products [<xref rid="bb0050" ref-type="bibr">10</xref>]. Although the World Organization for Animal Health (WOAH) and the World Health Organization (WHO) have suggested strategies for brucellosis control, only a few countries in Europe, New Zealand, Japan, Australia, and Canada are considered free from brucellosis in livestock. The highest incidence of brucellosis is reported in the Mediterranean region, the Middle East, India, China, Sub-Saharan Africa, Mexico, and Peru [<xref rid="bb0055" ref-type="bibr">11</xref>,<xref rid="bb0060" ref-type="bibr">12</xref>]. In Iran, brucellosis is an endemic disease in animals and humans causing huge economic losses and critically impacting human health [<xref rid="bb0065" ref-type="bibr">13</xref>,<xref rid="bb0070" ref-type="bibr">14</xref>]. <italic>B. abortus</italic> biovar (bv) 3 in cattle and <italic>B. melitensis</italic> bv 1 in small ruminants and humans were the most prevalent agents causing brucellosis followed by <italic>B. abortus</italic> bv 1 and <italic>B. melitensis</italic> bv 3 [<xref rid="bb0070" ref-type="bibr">[14]</xref>, <xref rid="bb0075" ref-type="bibr">[15]</xref>, <xref rid="bb0080" ref-type="bibr">[16]</xref>].</p>
+      <p id="p0045">The extreme genetic homogeneity of <italic>Brucella</italic> of &gt;90% is one of the notable challenges for typing approaches of the genus <italic>Brucella</italic> [<xref rid="bb0010" ref-type="bibr">2</xref>]. The genome of <italic>Brucella</italic> is composed of two circular chromosomes of 1.2 and 2.1&#xA0;Mb, which are highly conserved [<xref rid="bb0085" ref-type="bibr">17</xref>]. The 16S rRNA sequence is 100% identical between all <italic>Brucella</italic> spp. [<xref rid="bb0090" ref-type="bibr">18</xref>]. Therefore, different genetic tools such as whole genome sequencing (WGS) have to be employed to trace the geographic origin of isolates and their phylogenetic connection [<xref rid="bb0095" ref-type="bibr">[19]</xref>, <xref rid="bb0100" ref-type="bibr">[20]</xref>, <xref rid="bb0105" ref-type="bibr">[21]</xref>, <xref rid="bb0110" ref-type="bibr">[22]</xref>, <xref rid="bb0115" ref-type="bibr">[23]</xref>]. Multiple Locus Variable Number Tandem Repeat (VNTR) Analysis (MLVA) has been introduced as a valuable PCR-based molecular typing approach with high discriminatory power to differentiate <italic>Brucella</italic> isolates in epidemiological investigations [<xref rid="bb0120" ref-type="bibr">[24]</xref>, <xref rid="bb0125" ref-type="bibr">[25]</xref>, <xref rid="bb0130" ref-type="bibr">[26]</xref>, <xref rid="bb0135" ref-type="bibr">[27]</xref>]. However, it cannot accurately reveal transmission routes and the origin of outbreak strains [<xref rid="bb0125" ref-type="bibr">25</xref>]. Therefore, genetic typing approaches have recently changed towards WGS based analysis that enables the revelation of phylogenetic correlations and a more in-depth resolution of genotypes.</p>
+      <p id="p0050">There is limited knowledge about the molecular epidemiology, distribution, and diversity of <italic>Brucella</italic> spp. in Iran. The growing number of human and animal brucellosis cases led us to evaluate the geographic origin, diversity, and phylogeographic distribution of Iranian strains. Thus, WGS based analysis of <italic>B. melitensis</italic> and <italic>B. abortus</italic> isolates recovered from animals and humans over a period of five years (2015&#x2013;2020) was applied to get an overview of the epidemiological situation. Additionally, isolates were compared to strains from other Middle East countries to investigate the presence of possible lineages in the region.</p>
+    </sec>
+    <sec id="s0010">
+      <label>2</label>
+      <title>Material and methods</title>
+      <sec id="s0015">
+        <label>2.1</label>
+        <title>Ethics committee</title>
+        <p id="p0055">This survey was a part of the national surveillance plan for brucellosis in the period 2015&#x2013;2020 and all isolates were selected from the strain collection of Razi Vaccine and Serum Research Institute (RVSRI). This study was approved by the Ethics committee of the Iran National Science Foundation (INFS) with reference number (INFS. 99,030,922) confirming that all experiments were performed following relevant guidelines and regulations.</p>
+      </sec>
+      <sec id="s0020">
+        <label>2.2</label>
+        <title>Brucella isolates and identification</title>
+        <p id="p0060">Forty <italic>Brucella</italic> isolates recovered from animals and humans between 2015 and 2020 were used in this study (Table S1). All samples were cultured on <italic>Brucella</italic> agar (Himedia, India) for 5&#xA0;days at 37&#xA0;&#xB0;C and 5% CO<sub>2</sub>. A panel of biotyping tests was performed for all strains as described previously [<xref rid="bb0070" ref-type="bibr">14</xref>,<xref rid="bb0140" ref-type="bibr">28</xref>]. Total genomic DNA was extracted from fresh cultures using the Exgene Cell SV kit (GeneAll, South Korea) according to the manufacturer's instructions for Gram-negative bacteria. All strains were confirmed as <italic>Brucella</italic> species by multiplex PCR using previously published approaches [<xref rid="bb0070" ref-type="bibr">14</xref>]. The AMOS PCR [<xref rid="bb0145" ref-type="bibr">29</xref>] and Bruce-ladder PCR [<xref rid="bb0150" ref-type="bibr">30</xref>] were used to confirm <italic>Brucella</italic> species differentiation.</p>
+      </sec>
+      <sec id="s0025">
+        <label>2.3</label>
+        <title>Whole genome sequencing (WGS) and bioinformatic processing</title>
+        <p id="p0065">WGS was carried out by paired-end sequencing (2&#xA0;&#xD7;&#xA0;300&#xA0;bp) on a MiSeq machine (Illumina, San Diego, CA, USA) as previously described [<xref rid="bb0155" ref-type="bibr">31</xref>]. Briefly, genomic library was prepared using the Nextera XT library preparation kit (Illumina Inc., San Diego, CA, USA). FastQC (v 0.11.8, Babraham Bioinformatics, Babraham Institute, Cambridge, UK) was applied to evaluate the quality metrics of Illumina sequence data. For contamination assessment and classification of reads at the genus and species level, Kraken2 (v 2.0.7_beta) [<xref rid="bb0160" ref-type="bibr">32</xref>] was applied. De novo genome assembly was conducted with SPAdes within Shovill (v. 1.0.4) (<ext-link ext-link-type="uri" xlink:href="https://github.com/tseemann/shovill" id="ir0005">https://github.com/tseemann/shovill</ext-link>). Quality control of assembled contigs was performed using QUAST (v 5.0.2) [<xref rid="bb0165" ref-type="bibr">33</xref>] and potential coding genome regions were predicted by Prokka (v 1.14.5) [<xref rid="bb0170" ref-type="bibr">34</xref>].</p>
+        <p id="p0070">To place the sequenced Iranian strains into an international context, the NCBI Sequence Read Archive (SRA) was searched for paired-end Illumina sequencing data of <italic>B. melitensis</italic> and <italic>B. abortus</italic> (accessed on 27th February 2022) (Table S2). Those foreign data were processed as described above.</p>
+      </sec>
+      <sec id="s0030">
+        <label>2.4</label>
+        <title>Core genome SNP (cgSNP) analysis</title>
+        <p id="p0075">Core genome SNP calling was conducted with snippy (v 4.3.6) (<ext-link ext-link-type="uri" xlink:href="https://github.com/tseemann/snippy" id="ir0010">https://github.com/tseemann/snippy</ext-link>) using <italic>B. abortus</italic> strain 2308 (ASM54005.1) and <italic>B. melitensis</italic> strain 16&#xA0;M (NC_003317 and NC_003318) as references. Core genome SNP alignments served as the basis for a maximum likelihood analysis performed by RAxML (v 8.2.12) [<xref rid="bb0175" ref-type="bibr">35</xref>]. The SNP distance between each pair of genomes was calculated from this alignment using SNP-dists (v 0.6.3) [<xref rid="bb0180" ref-type="bibr">36</xref>].</p>
+      </sec>
+      <sec id="s0035">
+        <label>2.5</label>
+        <title>Core genome multilocus sequence typing (cgMLST) and in silico MLST</title>
+        <p id="p0080">Ridom SeqSphere+ v7.7 (Ridom GmbH, M&#xFC;nster, Germany) was applied for the cgMLST of Iranian <italic>B. melitensis</italic> isolates using the corresponding typing scheme [<xref rid="bb0185" ref-type="bibr">37</xref>] and default target quality control parameters. The allelic profiles served as the basis for minimum spanning tree construction with pairwise ignoring missing values. In silico MLST was conducted by scanning the genome assemblies against the 9 loci typing scheme [<xref rid="bb0190" ref-type="bibr">38</xref>] with the tool mlst (<ext-link ext-link-type="uri" xlink:href="https://github.com/tseemann/mlst" id="ir0015">https://github.com/tseemann/mlst</ext-link>).</p>
+      </sec>
+    </sec>
+    <sec id="s0045">
+      <label>3</label>
+      <title>Results</title>
+      <sec id="s0050">
+        <label>3.1</label>
+        <title>Brucella identification and differentiation</title>
+        <p id="p0090">Forty bacterial isolates were obtained from eight different geographical areas (<xref rid="t0005" ref-type="table">Table 1</xref>, <xref rid="f0005" ref-type="fig">Fig. 1</xref>) and identified as <italic>Brucella</italic> spp. by classical typing tools. AMOS-PCR and Bruce-ladder PCR confirmed three <italic>B. abortus</italic> isolates (two from cattle and one from a human) and thirty-seven <italic>B. melitensis</italic> isolates (21 from human blood, one from human cerebrospinal fluid, four from bovine milk, three from bovine lymph nodes, one from camel milk, one from camel lymph node, four from an ovine aborted fetus, one from ovine milk and one from an aborted fetus of a goat (Supplementary Table S1). The classical AMOS PCR failed to identify <italic>B. abortus</italic> biovar 3 that the failure of classical AMOS PCR to identify <italic>B. abortus</italic> biovar 3 was seen in this study. Biovars 1, 2, and 3 in <italic>B. abortus</italic> isolates and biovars 1, 2, and 3 in <italic>B. melitensis</italic> were confirmed by applying classical biotyping methods. The predominant brucellae were <italic>B. melitensis</italic> bv 1, which was found in 30 strains isolated from all investigated host species and numerous provinces of Iran (<xref rid="f0005" ref-type="fig">Fig. 1</xref>, Supplementary Table S1).<table-wrap position="float" id="t0005"><label>Table 1</label><caption><p>Numbers and geographical origin of <italic>Brucella</italic> strains recovered from humans and animals in Iran collected over 5&#xA0;years (2015&#x2013;2020).</p></caption><alt-text id="al0030">Table 1</alt-text><table frame="hsides" rules="groups"><thead><tr><th>Geographic Area</th><th>Province</th><th>City</th><th><italic>B. melitensis</italic></th><th><italic>B. abortus</italic></th></tr></thead><tbody><tr><td>North</td><td>Mazandaran, Semnan</td><td>Amol, Semnan</td><td>2</td><td>&#x2013;</td></tr><tr><td>Northwest</td><td>Alborz, Tehran, Zanjan</td><td>Karaj, Tehran, Gharchak, Shahr Ray, Zanjan</td><td>16</td><td>1</td></tr><tr><td>Northeast</td><td>Kermanshah</td><td>Kermanshah</td><td>6</td><td>&#x2013;</td></tr><tr><td>South</td><td>Hormozgan</td><td>Jask</td><td>1</td><td>&#x2013;</td></tr><tr><td>Southeast</td><td>Kerman</td><td>Kerman</td><td>1</td><td/></tr><tr><td>Southwest</td><td>Fars</td><td>Shiraz, Fasa, Eghlid</td><td>4</td><td>1</td></tr><tr><td>West</td><td>Hamedan</td><td>Hamedan</td><td>3</td><td>&#x2013;</td></tr><tr><td>Central</td><td>Qom, Yazd, Isfahan</td><td>Qom, Yazd, Isfahan</td><td>4</td><td>1</td></tr><tr><td colspan="3">Total</td><td>37</td><td>3</td></tr></tbody></table></table-wrap><fig id="f0005"><label>Fig. 1</label><caption><p>The geographic distribution of <italic>Brucella</italic> species/biovars from animals and humans in Iran. The numbers inside the boxes indicate the frequencies of <italic>Brucella</italic> biovars.</p></caption><alt-text id="al0005">Fig. 1</alt-text><graphic xlink:href="gr1"/></fig></p>
+      </sec>
+      <sec id="s0055">
+        <label>3.2</label>
+        <title>Genome sequencing and assembly</title>
+        <p id="p0095">The average number of reads was 1,645,251 (min 1,217,718, max 2,835,032) for each isolate, which yields an average genome coverage of 105.9-fold (min 99, max 202) (Supplementary Table S3). Genome assemblies comprised between 17 and 26 contigs covering 98.5% to 99.4% of the respective reference genome (<italic>B. melitensis</italic> 16&#xA0;M and <italic>B. abortus</italic> 2308). The GC content was within the expected range (57.24&#x2013;57.28%). Between 3090 and 3143 coding regions were predicted.</p>
+      </sec>
+      <sec id="s0060">
+        <label>3.3</label>
+        <title>Core genome SNP analysis of B. abortus and B. melitensis</title>
+        <p id="p0100">The cgSNP analysis for <italic>B. abortus</italic> is based on an alignment of 1751 core genome SNPs. Three sequence types could be differentiated for the Iranian <italic>B. abortus</italic> strains (<xref rid="f0010" ref-type="fig">Fig. 2</xref>). Among these, the isolates 20Y0156 and 20Y0153, which were both isolated from cattle in 2019 and 2018, respectively, showed the highest identity (252 SNPs difference). However, this difference is comparably high, as the Egyptian strains included in this analysis merely differed in maximally 8 SNPs. <italic>B. abortus</italic> bv 1 strain 20Y0140 that was isolated from a human sample in 2015 differed in 1171 SNPs and 1179 SNPs from the other two Iranian <italic>B. abortus</italic> isolates, which were assigned to bv 2 (20Y0153) and bv 3 (20Y0156)<italic>.</italic> When compared to global strains, the highest identity to Iranian isolates was observed for Egyptian <italic>B. abortus</italic> strains isolated from cattle, which differed in 80&#x2013;82 SNPs from the Iranian isolate of human origin (20Y0140). The more recent Iranian isolates from 2018 and 2019 exhibited a higher similarity to a strain isolated from cattle (67/93) in 1967 in Iraq (608 and 614 SNPs difference).<fig id="f0010"><label>Fig. 2</label><caption><p>Maximum likelihood tree based on cgSNP alignment of Iranian <italic>B. abortus</italic> strains and strains of similar geographic origin to the reference strain BDW. Besides the strain names, the year and country of isolation are also given (Egy &#x2013; Egypt; Isr &#x2013; Israel; SaAr &#x2013; Saudi Arabia). For the Iranian strains, the isolation location is printed in bold letters (Eghl-Eghlid; Yazd; Karaj). The scale bar indicates the number of nucleotide changes per site.</p></caption><alt-text id="al0010">Fig. 2</alt-text><graphic xlink:href="gr2"/></fig></p>
+        <p id="p0105"><italic>Brucella melitensis</italic> isolates were assigned to two cgSNP lineages: American (genotype Va) and East Mediterranean (genotypes IIb and IIf) (<xref rid="f0015" ref-type="fig">Fig. 3</xref>). Most of them represented unique SNP sequence types differing in more than five SNPs.<fig id="f0015"><label>Fig. 3</label><caption><p>Maximum likelihood tree based on cgSNP alignment of Iranian <italic>B. melitensis</italic> strains and representatives of <italic>B. melitensis</italic> lineages to the reference strain 16&#xA0;M. For better visualization, branches containing exclusively Iranian strains are collapsed and named RAZI, with numbers of strains given in brackets. For a complete version of the tree, see Supplementary Fig. S1. <italic>B. abortus</italic> 67/93 was used for rooting the tree. Designation of lineages and genotypes are according to [<xref rid="bb0195" ref-type="bibr">39</xref>,<xref rid="bb0200" ref-type="bibr">40</xref>], respectively. The scale bar indicates the number of nucleotide changes per site.</p></caption><alt-text id="al0015">Fig. 3</alt-text><graphic xlink:href="gr3"/></fig></p>
+        <p id="p0110">Four Iranian <italic>B. melitensis</italic> bv 1 isolates that were obtained from cows (Qom in 2015 and Fars in 2020), sheep (Mazandaran in 2018), and camel (Hormozgan in 2020) belonged to the same genotype (Va) within the American lineage and showed only two cgSNP differences (cluster No. 1, <xref rid="t0010" ref-type="table">Table 2</xref>, <xref rid="f0020" ref-type="fig">Fig. 4</xref>). However, another human isolate from Alborz province isolated in 2015 was assigned to the same genotype but differed in 187 cgSNPs from the other four Va genotype isolates. The difference between these isolates and the reference strain 16&#xA0;M, a member of the Va genotype, was found to be 404 and 219 cgSNPs, respectively.<table-wrap position="float" id="t0010"><label>Table 2</label><caption><p>Clusters of Iranian <italic>B. melitensis</italic> strains that differed in &#x2264;2 SNPs.</p></caption><alt-text id="al0035">Table 2</alt-text><table frame="hsides" rules="groups"><thead><tr><th>No.</th><th>Strain</th><th>Province</th><th>Year</th><th>Host</th><th>Source</th><th>Biovar</th></tr></thead><tbody><tr><td>1</td><td>20Y0151</td><td>Qom</td><td>2016</td><td>Cow</td><td>Milk</td><td>1</td></tr><tr><td>1</td><td>20Y0155</td><td>Mazandaran</td><td>2018</td><td>Sheep</td><td>Milk</td><td>1</td></tr><tr><td>1</td><td>20Y0173</td><td>Fars</td><td>2020</td><td>Cow</td><td>Lymph node</td><td>1</td></tr><tr><td>1</td><td>20Y0179</td><td>Hormozgan</td><td>2020</td><td>Camel</td><td>Lymph node</td><td>1</td></tr><tr><td>2</td><td>20Y0177</td><td>Alborz</td><td>2019</td><td>Goat</td><td>Aborted fetus</td><td>2</td></tr><tr><td>2</td><td>20Y0178</td><td>Fars</td><td>2020</td><td>Sheep</td><td>Aborted fetus</td><td>2</td></tr><tr><td>3</td><td>20Y0171</td><td>Fars</td><td>2020</td><td>Sheep</td><td>Aborted fetus</td><td>1</td></tr><tr><td>3</td><td>20Y0172</td><td>Yazd</td><td>2020</td><td>Sheep</td><td>Aborted fetus</td><td>1</td></tr><tr><td>4</td><td>20Y0150</td><td>Tehran</td><td>2017</td><td>Cow</td><td>Milk</td><td>1</td></tr><tr><td>4</td><td>20Y0154</td><td>Fars</td><td>2019</td><td>Cow</td><td>Milk</td><td>1</td></tr><tr><td>5</td><td>20Y0166</td><td>Kermanshah</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>5</td><td>20Y0167</td><td>Alborz</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>5</td><td>20Y0168</td><td>Alborz</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>5</td><td>20Y0169</td><td>Kermanshah</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>5</td><td>20Y0170</td><td>Tehran</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>6</td><td>20Y0162</td><td>Tehran</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>6</td><td>20Y0165</td><td>Hamedan</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>7</td><td>20Y0174</td><td>Semnan</td><td>2019</td><td>Cow</td><td>Lymph node</td><td>1</td></tr><tr><td>7</td><td>20Y0175</td><td>Isfahan</td><td>2019</td><td>Cow</td><td>Lymph node</td><td>1</td></tr><tr><td>8</td><td>20Y0159</td><td>Alborz</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>8</td><td>20Y0163</td><td>Hamedan</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr><tr><td>8</td><td>20Y0164</td><td>Hamedan</td><td>2019</td><td>Human</td><td>Blood</td><td>1</td></tr></tbody></table></table-wrap><fig id="f0020"><label>Fig. 4</label><caption><p>Maximum likelihood tree based on cgSNP alignment of Iranian <italic>B. melitensis</italic> strains and strains of similar geographic origin to the reference strain 16&#xA0;M. Besides the strain names, also the year and country of isolation are given (Afgh - Afghanistan; Cyp - Cyprus; Egy - Egypt; Isr - Israel; Jor - Jordan; Kuw - Kuwait; Pak - Pakistan; SaAr - Saudi Arabia; Syr - Syria; Turk - Turkey; Turkm - Turkmenistan). For the Iranian strains, the location of isolation is printed in bold letters (Alb - Alborz; Fars; Ham - Hamedan; Hor - Hormozgan; Ila - Ilam; Isf - Isfahan; Kersh - Kermanshah; Qom; Sem - Semnan; Teh - Tehran; Yaz - Yazd; Zan - Zanjan). Grey lines and numbers indicate cgSNP groups as given in <xref rid="t0015" ref-type="table">Table 3</xref>. The scale bar indicates the number of nucleotide changes per site.</p></caption><alt-text id="al0020">Fig. 4</alt-text><graphic xlink:href="gr4"/></fig></p>
+        <p id="p0115">Eight Iranian <italic>B. melitensis</italic> isolates that were isolated from animals (cows in Semnan and Isfahan provinces in 2019) and humans (Kerman, Tehran, Hamedan, Alborz, and Ilam provinces) were assigned to the IIb genotype of the East Mediterranean lineage. Among these, two clusters (No. 7 and 8; <xref rid="t0010" ref-type="table">Table 2</xref>, <xref rid="f0020" ref-type="fig">Fig. 4</xref>) were highly similar strains. These two isolates were isolated from human (cluster No. 8) and cow samples (cluster No. 7) in 2019 but from different places in Iran. Cluster 8 displayed the lowest SNP differences of all analyzed Iranian isolates to foreign strains (38&#x2013;46 SNPs), i.e., strains from Syria, Iran, Iraq, and Jordan. The other Iranian strains were separated by at least 56 SNPs from foreign strains.</p>
+        <p id="p0120">For the majority of Iranian <italic>B. melitensis</italic> isolates (24 strains), the exact genotype could not be determined, as the strains clustered between genotypes IIe and IIf of the East Mediterranean lineage (<xref rid="f0015" ref-type="fig">Fig. 3</xref>, <xref rid="f0020" ref-type="fig">Fig. 4</xref>, Supplementary Fig. S1). Also, the similarity to foreign strains was comparably low: the highest homology was observed in a strain isolated in Afghanistan in 2015 (NIPH-Bru43). However, within this group of strains, five clusters of highly identical strains were identified that differed in at most two SNPs (clusters No. 2&#x2013;6, <xref rid="t0010" ref-type="table">Table 2</xref>, <xref rid="f0020" ref-type="fig">Fig. 4</xref>). Remarkably, no cluster was isolated exclusively from one place. Strains within the clusters mostly originated from places hundreds of kilometers apart, e.g. Fars and Alborz (cluster 2). However, isolates of the same SNP cluster were always either exclusively of animal or human origin.</p>
+      </sec>
+      <sec id="s0065">
+        <label>3.4</label>
+        <title>Allele based typing methods</title>
+        <p id="p0125">A total of four MLST genotypes were identified in all <italic>B. melitensis</italic> isolates using an in silico MLST analysis approach (Supplementary Table S1). Four <italic>B. melitensis</italic> isolates represented a novel sequence type (ST) that could not be assigned to existing groups. There was no apparent connection between sequence type and source or place of isolation. Of the 22 isolates of human origin, 19 (86.4%) were assigned to ST8, one was assigned to ST7 (4.5%), and two were assigned to the novel ST (9%) (<xref rid="t0015" ref-type="table">Table 3</xref>). Among the seven isolates of cow origin, three (42.8%) belonged to ST8, two to ST7 (28.6%), and two were assigned to the novel ST (28.6%). Further, three out of five isolates of sheep origin (60%) belonged to ST8, while the others were each assigned to ST7 (20%) and ST71 (20%). One strain of camel origin belonged to ST7 and the other was assigned to ST8. The strain isolated from a goat was assigned to ST71. MLST ST1 and ST2 were only identified in the Iranian <italic>B. abortus</italic> strains, but not <italic>B. melitensis</italic>.<table-wrap position="float" id="t0015"><label>Table 3</label><caption><p>Affiliation of isolates to MLST sequence types (ST) according to the isolation source and <italic>Brucella</italic> spp.</p></caption><alt-text id="al0040">Table 3</alt-text><table frame="hsides" rules="groups"><thead><tr><th>ST</th><th>Human</th><th>Sheep</th><th>Goat</th><th>Cow</th><th>Camel</th><th><italic>Brucella</italic> spp.</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>&#x2013;</td><td>&#x2013;</td><td>&#x2013;</td><td>&#x2013;</td><td><italic>B. abortus</italic></td></tr><tr><td>2</td><td>&#x2013;</td><td>&#x2013;</td><td>&#x2013;</td><td>2</td><td>&#x2013;</td><td><italic>B. abortus</italic></td></tr><tr><td>7</td><td>1</td><td>1</td><td>&#x2013;</td><td>2</td><td>1</td><td><italic>B. melitensis</italic></td></tr><tr><td>8</td><td>19</td><td>3</td><td>&#x2013;</td><td>3</td><td>1</td><td><italic>B. melitensis</italic></td></tr><tr><td>71</td><td>&#x2013;</td><td>1</td><td>1</td><td>&#x2013;</td><td>&#x2013;</td><td><italic>B. melitensis</italic></td></tr><tr><td>Novel</td><td>2</td><td>&#x2013;</td><td>&#x2013;</td><td>2</td><td>&#x2013;</td><td><italic>B. melitensis</italic></td></tr></tbody></table></table-wrap></p>
+        <p id="p0130">To obtain a higher level of differentiation and to compare the Iranian <italic>B. melitensis</italic> isolates with strains from neighboring and Middle East countries, a cgMLST analysis was conducted (<xref rid="f0025" ref-type="fig">Fig. 5</xref>). The resulting clusters of the Iranian strains were in accordance with the results of the SNP typing. The Iranian isolates that were assigned to the American SNP lineage before showed a high distance to the strains from Asia and were clearly distinct from the other Iranian isolates. In contrast, the cgMLST profiles of the 24 isolates that clustered in the IIe/IIf SNP group, exhibited high similarities to strains from Afghanistan, Syria, Kuwait, and Turkey. Likewise, the three strains of SNP cluster No. 8 (<xref rid="t0010" ref-type="table">Table 2</xref>) clustered with strains from Syria, Iraq, and Turkey. However, in accordance with the SNP analysis, there was no apparent connection between the cgMLST sequence type and the place or time of strain isolation.<fig id="f0025"><label>Fig. 5</label><caption><p>Minimum spanning tree based on cgMLST distances between Iranian <italic>B. melitensis</italic> strains and strains of similar geographic origin. The circles are colored according to the country of isolation and the size corresponds to the number of isolates. Numbers at the branches indicate allelic differences between the strains. For the Iranian isolates, abbreviations in the circles indicate the location of isolation (Alb -Alborz; Fars; Ham - Hamedan; Hor - Hormozgan; Ila - Ilam; Isf - Isfahan; Kersh - Kermanshah; Qom; Sem - Semnan; Teh - Tehran; Yaz - Yazd; Zan - Zanjan). For better visibility, not all numbers of allelic differences are displayed.</p></caption><alt-text id="al0025">Fig. 5</alt-text><graphic xlink:href="gr5"/></fig></p>
+      </sec>
+    </sec>
+    <sec id="s0070">
+      <label>4</label>
+      <title>Discussion</title>
+      <p id="p0135">Brucellosis is a neglected zoonotic disease in most developing countries despite its significant effects on livestock industries and public health [<xref rid="bb0205" ref-type="bibr">41</xref>,<xref rid="bb0210" ref-type="bibr">42</xref>]. Humans and animals can be infected by different <italic>Brucella</italic> species. However, <italic>B. melitensis</italic> is the most frequently observed causative agent and the most virulent species of brucellae in Iran [<xref rid="bb0070" ref-type="bibr">14</xref>,<xref rid="bb0075" ref-type="bibr">15</xref>]. Therefore, identifying the circulating <italic>Brucella</italic> species, genotypes, and biovars is crucial for monitoring transmission routes and tracing infection sources [<xref rid="bb0200" ref-type="bibr">40</xref>] to help control the disease. However, the PCR-based identification of species is only sufficient for detecting human/animal brucellosis or food contamination but not for tracing infection events [<xref rid="bb0215" ref-type="bibr">43</xref>]. Here, we characterized 37 <italic>B. melitensis</italic> and three <italic>B. abortus</italic> strains isolated from humans and various animal hosts over a period of five years in different locations in Iran using whole genome sequencing.</p>
+      <p id="p0140">Our results confirm that both <italic>B. abortus</italic> and <italic>B. melitensis</italic> are causative agents of brucellosis in humans as reported for other countries as well [<xref rid="bb0155" ref-type="bibr">31</xref>,<xref rid="bb0220" ref-type="bibr">[44]</xref>, <xref rid="bb0225" ref-type="bibr">[45]</xref>, <xref rid="bb0230" ref-type="bibr">[46]</xref>]. Furthermore, isolation of <italic>B. melitensis</italic> from cattle and camels highlights the growing incidence of <italic>Brucella</italic> infection of species in non-preferred hosts, especially where host species mix freely with each other [<xref rid="bb0235" ref-type="bibr">47</xref>]. The two <italic>B. melitensis</italic> strains isolated from domestic camels indicate the importance of <italic>B. melitensis</italic> in camelid brucellosis in Iran. In other countries with camel husbandry, <italic>B. abortus</italic> and <italic>B. suis</italic> have also been reported in camels [<xref rid="bb0240" ref-type="bibr">48</xref>]. Previous investigations on circulating brucellae in Iran have identified <italic>B. melitensis</italic> biovars 1, 2, and 3 (predominantly 1) in sheep, cattle, goats, camels, dogs and humans, as well as <italic>B. abortus</italic> biovars 1, 2, 3 (predominantly 3) in cattle, humans and sheep [<xref rid="bb0070" ref-type="bibr">14</xref>,<xref rid="bb0245" ref-type="bibr">49</xref>,<xref rid="bb0250" ref-type="bibr">50</xref>]. Considering the predominance of <italic>B. melitensis</italic> biovar 1 in the present study, it can be assumed that this biovar is indeed now the dominating biovar of <italic>B. melitensis</italic> in Iran.</p>
+      <p id="p0145">Whole genome sequencing-based typing methods provide the discriminatory power to differentiate closely related strains [<xref rid="bb0115" ref-type="bibr">23</xref>,<xref rid="bb0255" ref-type="bibr">51</xref>]. Using in silico analysis, three MLST types of <italic>B. melitensis</italic> were identified with the most common being ST8 (<italic>n</italic>&#xA0;=&#xA0;26) isolated from a wide variety of host species. This substantiates the previous findings of molecular typing for <italic>Brucella</italic> spp. isolated from livestock and humans in Iran by MLST-9 analysis, which also showed that ST8 is one of the most prevalent sequence types for <italic>B. melitensis</italic> in Iran besides ST7 and ST102 [<xref rid="bb0260" ref-type="bibr">52</xref>]. Likewise, <italic>B. abortus</italic> ST1 and ST2 were identified in the present and other previous studies in isolates from humans and cattle [<xref rid="bb0230" ref-type="bibr">46</xref>,<xref rid="bb0265" ref-type="bibr">53</xref>,<xref rid="bb0270" ref-type="bibr">54</xref>] supposing that both are apparently the most prevalent STs of <italic>B. abortus</italic>.</p>
+      <p id="p0150">Interestingly, <italic>B. melitensis</italic> strains that were assigned to different biovars (1 and 3) were clustered in the same MLST sequence type (ST8). That was also the case for <italic>B. abortus</italic> ST2 isolates, which were identified as biovar 2 and 3. This agrees with other findings that biovars especially those of <italic>B. melitensis</italic> do not correlate well with defined genetic entities [<xref rid="bb0275" ref-type="bibr">55</xref>] highlighting the importance of molecular analysis for rapid and accurate characterization of <italic>Brucella</italic> isolates [<xref rid="bb0115" ref-type="bibr">23</xref>,<xref rid="bb0255" ref-type="bibr">51</xref>]. WGS analysis provides also detailed genomic data on microbial taxonomy and enables in-depth comparative analysis especially genome wide SNP-based analysis can be used as an accurate genotyping approach for molecular epidemiological investigations [<xref rid="bb0280" ref-type="bibr">56</xref>]. The present study is the first extensive genetic diversity analysis of a larger panel of <italic>Brucella</italic> strains isolated in Iran based on WGS technology. It could be shown that all investigated Iranian <italic>B. melitensis</italic> strains belonged to the American (13.5%) and East Mediterranean (86.5%) lineages. In contrast, no members of the West Mediterranean and African lineages have been defined. It has been reported before that most of the Asian <italic>B. melitensis</italic> strains belong to genotype II (Mediterranean lineage) [<xref rid="bb0285" ref-type="bibr">57</xref>,<xref rid="bb0290" ref-type="bibr">58</xref>], while genotypes III (African lineage), IV (European lineage), and V (American lineage) have limited geographical distribution.</p>
+      <p id="p0155">In the current study, five strains were assigned to the American <italic>B. melitensis</italic> lineage which is rarely reported in Asia except in Azerbaijan and China [<xref rid="bb0295" ref-type="bibr">59</xref>,<xref rid="bb0300" ref-type="bibr">60</xref>]. Here, these strains were isolated from cows, sheep, camels, and humans in different locations of Iran. In accordance with other studies, our findings also showed that the Mediterranean strains occupied the basal node of the phylogenetic tree indicating the possible origin of <italic>B. melitensis</italic> from Mediterranean countries [<xref rid="bb0275" ref-type="bibr">55</xref>]. Furthermore, SNP analysis of the <italic>B. abortus</italic> strains from Eghlid and Yazd indicated that these isolates were more similar to isolates from Iraq, while the <italic>B. abortus</italic> strain from Karaj showed higher similarity to isolates from Egypt which indicates the different origin of the strains.</p>
+      <p id="p0160">Previous molecular study in Iran reported three MLST-9 genotypes for <italic>B. melitensis</italic> e.g. ST8, ST7, and ST102 and two for. <italic>B. abortus</italic> e.g. ST1 and ST2. [<xref rid="bb0305" ref-type="bibr">61</xref>]. In another study in Iran, three isolates of <italic>B. abortus</italic> and 51 isolates of <italic>B. melitensis</italic> were analyzed through the MLVA16 (multiple-locus variable number tandem repeat analysis based on 16 markers) and represented genotypes 46 and genotypes 22 for 80% of isolates [<xref rid="bb0310" ref-type="bibr">62</xref>].</p>
+      <p id="p0165">The results of the present study did not show direct transmission of strains between animals and humans, as the most identical strains were exclusively always either of human or animal origin, i.e. none of the highly identical strains were present in both. Animal brucellosis cases from neighboring provinces, e.g. Fars and Yazd, might be connected to the usage of common pastures. As most of the human patients were farmers, the source of brucellosis can be assumed to be infected animals or even contaminated feed. Stray dogs and cats are proven to play a role in spreading brucellosis in dairy farms [<xref rid="bb0315" ref-type="bibr">63</xref>], how far pet animals and wildlife species plays a role in spreading brucellosis in Iran remains elusive. The discriminatory power of cgMLST makes it the most widely used pathogen sub-typing method [<xref rid="bb0320" ref-type="bibr">64</xref>]. Brucellosis is an endemic disease in Iran and several cases were reported every year in humans and animals, therefore, the relatively restricted number of isolates from human and animals available in the current study is the only limitation as it does not cover the full geographical areas of Iran. Moreover, <italic>Brucella</italic> isolates were collected via opportunistic sampling, but rather not were obtained via a prospective epidemiological study. Therefore, firm conclusions regarding the prevalence of zoonotic <italic>Brucella</italic> spp. in specific hosts, including different animal hosts and humans, cannot be drawn. However, this study despite its limitation provided a valuable update of epidemiological information on this endemic area. To our knowledge, this is the first study in Iran that used the NGS technology to trace back the genetic diversity of <italic>Brucella</italic> species in Iran.</p>
+    </sec>
+    <sec id="s0075">
+      <label>5</label>
+      <title>Conclusions</title>
+      <p id="p0170">Our results showed the close epidemiologically connection of Iranian <italic>B. melitensis</italic> strains with strains from Pakistan, Afghanistan, Turkey, and Syria based on cgMLST profile similarity. This finding reflects the frequent and uncontrolled livestock exchange between these countries in the past and still nowadays the transboundary movement of nomadic animals. Thus, the outbreak of animal and human brucellosis in Iran may be attributed to a lack of controlled movement of infected animals and livestock at Iran's border. This highlights the importance of improving the inspection and control approaches for livestock exported from endemic countries, including import only from herds guaranteed to be free or from free countries. Moreover, collaboration between animal and human health services, as well as wildlife authorities could improve the surveillance of disease and control brucellosis outbreaks through the one health approaches. This can be done by the effective collaboration of multiple disciplines and sectors working locally, nationally and globally to attain optimal health for people, animals and the environment. Furthermore, information and education works that should be undertaken to prevent the transmission of <italic>B. melitensis</italic> in the interface between human and livestock animals can be categorized by the five aspects such as building healthy public policy; creating supportive environments for developing a strong national and local professional veterinary service; strengthening community action for better collaboration between farmers and government; developing personal skills as well as reorienting health services. All in all, cgSNP analysis is a powerful tool for brucellosis tracking and intraspecies differentiation of closely related strains in Iran. Further investigation using a larger number of isolates might help to better understand the diversity of brucellae in Iran and the global distribution of lineages.</p>
+    </sec>
+    <sec id="s0080">
+      <title>Funding</title>
+      <p id="p0175">This work is based upon research funded by <funding-source id="gts0005"><institution-wrap><institution-id institution-id-type="doi">10.13039/501100003968</institution-id><institution>Iran National Science Foundation (INFS)</institution></institution-wrap></funding-source> under project No: 99030922.</p>
+    </sec>
+    <sec id="s0085">
+      <title>CRediT authorship contribution statement</title>
+      <p id="p0180"><bold>Maryam Dadar:</bold> Conceptualization, Methodology, Software. <bold>Hanka Brangsch:</bold> Conceptualization, Methodology, Software. <bold>Saeed Alamian:</bold> Visualization, Investigation. <bold>Heinrich Neubauer:</bold> Software, Validation, Writing &#x2013; review &amp; editing. <bold>Gamal Wareth:</bold> Data curation, Writing &#x2013; original draft, Supervision.</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>Declaration of Competing Interest</title>
+      <p id="p0185">None declared.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list id="bi0005">
+      <title>References</title>
+      <ref id="bb0005">
+        <label>1</label>
+        <element-citation publication-type="journal" id="rf0005">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.R.</given-names>
+            </name>
+            <name>
+              <surname>Al-Talhy</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Elkharsawi</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Tawab</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The perspective of antibiotic therapeutic challenges of brucellosis in the Middle East and north African countries: current situation and therapeutic management</article-title>
+          <source>Transbound. Emerg. Dis.</source>
+          <volume>69</volume>
+          <issue>5</issue>
+          <year>2022</year>
+          <fpage>e1253</fpage>
+          <lpage>e1268</lpage>
+          <pub-id pub-id-type="pmid">35244335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0010">
+        <label>2</label>
+        <element-citation publication-type="journal" id="rf0010">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leclercq</surname>
+              <given-names>S.O.</given-names>
+            </name>
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Zygmunt</surname>
+              <given-names>M.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Taxonomic organization of the family Brucellaceae based on a phylogenomic approach</article-title>
+          <source>Front. Microbiol.</source>
+          <volume>10</volume>
+          <year>2020</year>
+          <fpage>3083</fpage>
+          <pub-id pub-id-type="pmid">32082266</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0015">
+        <label>3</label>
+        <element-citation publication-type="journal" id="rf0015">
+          <person-group person-group-type="author">
+            <name>
+              <surname>H&#xF6;rdt</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF3;pez</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Meier-Kolthoff</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Schleuning</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Weinhold</surname>
+              <given-names>L.-M.</given-names>
+            </name>
+            <name>
+              <surname>Tindall</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Gronow</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kyrpides</surname>
+              <given-names>N.C.</given-names>
+            </name>
+            <name>
+              <surname>Woyke</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>G&#xF6;ker</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of 1,000+ type-strain genomes substantially improves taxonomic classification of Alphaproteobacteria</article-title>
+          <source>Front. Microbiol.</source>
+          <volume>11</volume>
+          <year>2020</year>
+          <fpage>468</fpage>
+          <pub-id pub-id-type="pmid">32373076</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0020">
+        <label>4</label>
+        <element-citation publication-type="journal" id="rf0020">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moreno</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Letesson</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Gorvel</surname>
+              <given-names>J.P.</given-names>
+            </name>
+            <name>
+              <surname>Moriy&#xF3;n</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathogenicity and its implications in taxonomy: the Brucella and Ochrobactrum case</article-title>
+          <source>Pathogens</source>
+          <volume>11</volume>
+          <issue>3</issue>
+          <year>2022</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0025">
+        <label>5</label>
+        <element-citation publication-type="book" id="rf0025">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahali</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <part-title>Molecular diagnosis of acute and chronic brucellosis in humans</part-title>
+          <source>Microbial Technology for the Welfare of Society</source>
+          <year>2019</year>
+          <publisher-name>Springer</publisher-name>
+          <fpage>223</fpage>
+          <lpage>245</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0030">
+        <label>6</label>
+        <element-citation publication-type="journal" id="rf0030">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O&#x2019;callaghan</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human brucellosis: recent advances and future challenges</article-title>
+          <source>Infect. Dis. Poverty</source>
+          <volume>9</volume>
+          <issue>1</issue>
+          <year>2020</year>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="pmid">31996251</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0035">
+        <label>7</label>
+        <element-citation publication-type="book" id="rf0035">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Preena</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <part-title>Cross-Species Transmission of <italic>Brucella abortus</italic> in an Aborted Sow, Mankind</part-title>
+          <volume>6</volume>
+          <year>2020</year>
+          <fpage>22</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0040">
+        <label>8</label>
+        <element-citation publication-type="journal" id="rf0040">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hegazy</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Eldehiey</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Oreiby</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Algabbary</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Beleta</surname>
+              <given-names>E.I.</given-names>
+            </name>
+            <name>
+              <surname>Mart&#xED;nez</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shahein</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Trans-species transmission of Brucellae among ruminants hampering brucellosis control efforts in Egypt</article-title>
+          <source>J. Appl. Microbiol.132</source>
+          <volume>1</volume>
+          <year>2021</year>
+          <fpage>90</fpage>
+          <lpage>100</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0045">
+        <label>9</label>
+        <element-citation publication-type="journal" id="rf0045">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tomaso</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Roesler</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Detection of Brucella abortus DNA in aborted goats and sheep in Egypt by real-time PCR</article-title>
+          <source>BMC Res. Notes</source>
+          <volume>8</volume>
+          <issue>1</issue>
+          <year>2015</year>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">25645429</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0050">
+        <label>10</label>
+        <element-citation publication-type="journal" id="rf0050">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Shahali</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Human brucellosis caused by raw dairy products: a review on the occurrence, major risk factors and prevention</article-title>
+          <source>Int. J. Food Microbiol.</source>
+          <volume>292</volume>
+          <year>2019</year>
+          <fpage>39</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">30572264</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0055">
+        <label>11</label>
+        <element-citation publication-type="book" id="rf0055">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corbel</surname>
+              <given-names>M.J.</given-names>
+            </name>
+          </person-group>
+          <part-title>Microbiology of the Genus Brucella, Brucellosis: Clinical and Laboratory Aspects</part-title>
+          <year>2020</year>
+          <publisher-name>CRC Press</publisher-name>
+          <fpage>53</fpage>
+          <lpage>72</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0060">
+        <label>12</label>
+        <element-citation publication-type="book" id="rf0060">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Abdeen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Bardenstein</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Cardoso</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cvetni&#x107;</surname>
+              <given-names>C.D.S.M.&#x17D;.</given-names>
+            </name>
+            <name>
+              <surname>de Massis</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ekateriniadou</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>G&#xFC;rbilek</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Garin-Bastuji</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Garofolo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.R.</given-names>
+            </name>
+            <name>
+              <surname>Hellal</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Katsiolis</surname>
+              <given-names>J.A.A.</given-names>
+            </name>
+            <name>
+              <surname>Koleci</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Kornspan</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Krt</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Lau&#x161;evi&#x107;</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Njeru</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ocepek</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Flavio</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sakhria</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>&#x160;eri&#x107;-Hara&#x10D;i&#x107;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>&#x160;pi&#x10D;i&#x107;</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sprague</surname>
+              <given-names>L.D.</given-names>
+            </name>
+            <name>
+              <surname>Tittarelli</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Villari</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <part-title>Brucellosis in the Mediterranean Countries: History, Prevalence, Distribution, Current Situation and Attempts at Surveillance and Control</part-title>
+          <year>2019</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0065">
+        <label>13</label>
+        <element-citation publication-type="journal" id="rf0065">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shirzadi</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Mohammadi</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Moradi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Goodarzi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Khazaei</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Moayed</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Khazaei</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>The incidence and geographical distribution of brucellosis in Iran using geographic information system and prediction of its incidence in 2021</article-title>
+          <source>J. Prev. Med. Hyg.</source>
+          <volume>62</volume>
+          <issue>3</issue>
+          <year>2021</year>
+          <fpage>E635</fpage>
+          <lpage>e634</lpage>
+          <pub-id pub-id-type="pmid">34909491</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0070">
+        <label>14</label>
+        <element-citation publication-type="book" id="rf0070">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Behrozikhah</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Yazdani</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kalantari</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Etemadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <part-title>Molecular identification of Brucella species and biovars associated with animal and human infection in Iran</part-title>
+          <source>Veterinary Research Forum, Faculty of Veterinary Medicine</source>
+          <year>2019</year>
+          <publisher-name>Urmia University</publisher-name>
+          <publisher-loc>Urmia, Iran</publisher-loc>
+          <fpage>315</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0075">
+        <label>15</label>
+        <element-citation publication-type="journal" id="rf0075">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zowghi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ebadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yarahmadi</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation and identification of Brucella organisms in Iran</article-title>
+          <source>Iran. J. Clin. Infect. Dis.</source>
+          <volume>3</volume>
+          <issue>4</issue>
+          <year>2008</year>
+          <fpage>185</fpage>
+          <lpage>188</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0080">
+        <label>16</label>
+        <element-citation publication-type="journal" id="rf0080">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in Iranian buffalo: prevalence and diagnostic methods</article-title>
+          <source>Ger. J. Vet. Res</source>
+          <volume>1</volume>
+          <issue>2</issue>
+          <year>2021</year>
+          <fpage>13</fpage>
+          <lpage>16</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0085">
+        <label>17</label>
+        <element-citation publication-type="journal" id="rf0085">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foster</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>Beckstrom-Sternberg</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Pearson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Beckstrom-Sternberg</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Chain</surname>
+              <given-names>P.S.</given-names>
+            </name>
+            <name>
+              <surname>Roberto</surname>
+              <given-names>F.F.</given-names>
+            </name>
+            <name>
+              <surname>Hnath</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Brettin</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Keim</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome-based phylogeny and divergence of the genus Brucella</article-title>
+          <source>J. Bacteriol.</source>
+          <volume>191</volume>
+          <issue>8</issue>
+          <year>2009</year>
+          <fpage>2864</fpage>
+          <lpage>2870</lpage>
+          <pub-id pub-id-type="pmid">19201792</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0090">
+        <label>18</label>
+        <element-citation publication-type="journal" id="rf0090">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gee</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>De</surname>
+              <given-names>B.K.</given-names>
+            </name>
+            <name>
+              <surname>Levett</surname>
+              <given-names>P.N.</given-names>
+            </name>
+            <name>
+              <surname>Whitney</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Novak</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Popovic</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Use of 16S rRNA gene sequencing for rapid confirmatory identification of Brucella isolates</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>42</volume>
+          <issue>8</issue>
+          <year>2004</year>
+          <fpage>3649</fpage>
+          <lpage>3654</lpage>
+          <pub-id pub-id-type="pmid">15297511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0095">
+        <label>19</label>
+        <element-citation publication-type="journal" id="rf0095">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Georgi</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Walter</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Pfalzgraf</surname>
+              <given-names>M.-T.</given-names>
+            </name>
+            <name>
+              <surname>Northoff</surname>
+              <given-names>B.H.</given-names>
+            </name>
+            <name>
+              <surname>Holdt</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Scholz</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Zoeller</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zange</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Antwerpen</surname>
+              <given-names>M.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole genome sequencing of Brucella melitensis isolated from 57 patients in Germany reveals high diversity in strains from Middle East</article-title>
+          <source>PLoS One</source>
+          <volume>12</volume>
+          <issue>4</issue>
+          <year>2017</year>
+          <object-id pub-id-type="publisher-id">e0175425</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0100">
+        <label>20</label>
+        <element-citation publication-type="journal" id="rf0100">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johansen</surname>
+              <given-names>T.B.</given-names>
+            </name>
+            <name>
+              <surname>Scheffer</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Jensen</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Bohlin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Feruglio</surname>
+              <given-names>S.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome sequencing and antimicrobial resistance in Brucella melitensis from a Norwegian perspective</article-title>
+          <source>Sci. Rep.</source>
+          <volume>8</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">29311619</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0105">
+        <label>21</label>
+        <element-citation publication-type="journal" id="rf0105">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.G.</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>X.A.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Piao</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>H.Y.</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>B.Y.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome sequencing of a <italic>Brucella melitensis</italic> strain (BMWS93) isolated from a bank clerk and exhibiting complete resistance to rifampin</article-title>
+          <source>Microbiol. Resour. Announc.</source>
+          <volume>8</volume>
+          <issue>33</issue>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1128/MRA.01645-18</pub-id>
+          <comment>e01645&#x2013;18</comment>
+        </element-citation>
+      </ref>
+      <ref id="bb0110">
+        <label>22</label>
+        <element-citation publication-type="journal" id="rf0110">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schaeffer</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Revilla-Fern&#xE1;ndez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hofer</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Posch</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Stoeger</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Leth</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Schmoll</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Djordjevic</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Lakicevic</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Matovic</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tracking the origin of Austrian human brucellosis cases using whole genome sequencing</article-title>
+          <source>Front. Med.</source>
+          <volume>8</volume>
+          <year>2021</year>
+          <fpage>187</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0115">
+        <label>23</label>
+        <element-citation publication-type="journal" id="rf0115">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holzer</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.R.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Linde</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bartusch</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sayour</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Elbauomy</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Elhadidy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Beyer</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tracking the distribution of Brucella abortus in Egypt based on Core genome SNP analysis and in silico MLVA-16</article-title>
+          <source>Microorganisms</source>
+          <volume>9</volume>
+          <issue>9</issue>
+          <year>2021</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0120">
+        <label>24</label>
+        <element-citation publication-type="journal" id="rf0120">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al Dahouk</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Le Fl&#xE8;che</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>N&#xF6;ckler</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Jacques</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Grayon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Scholz</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Tomaso</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Vergnaud</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of Brucella MLVA typing for human brucellosis</article-title>
+          <source>J. Microbiol. Methods</source>
+          <volume>69</volume>
+          <issue>1</issue>
+          <year>2007</year>
+          <fpage>137</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="pmid">17261338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0125">
+        <label>25</label>
+        <element-citation publication-type="journal" id="rf0125">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Garofolo</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Di Giannatale</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>De Massis</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Zilli</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ancora</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Camm&#xE0;</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Calistri</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>J.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Investigating genetic diversity of Brucella abortus and Brucella melitensis in Italy with MLVA-16</article-title>
+          <source>Infect. Genet. Evol.</source>
+          <volume>19</volume>
+          <year>2013</year>
+          <fpage>59</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">23831636</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0130">
+        <label>26</label>
+        <element-citation publication-type="journal" id="rf0130">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Xiao</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Di</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Piao</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <name>
+              <surname>Hao</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Genotyping of human Brucella melitensis biovar 3 isolated from Shanxi Province in China by MLVA16 and HOOF</article-title>
+          <source>PLoS One</source>
+          <volume>10</volume>
+          <issue>1</issue>
+          <year>2015</year>
+          <object-id pub-id-type="publisher-id">e0115932</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0135">
+        <label>27</label>
+        <element-citation publication-type="journal" id="rf0135">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Schmoock</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>El-Beskawy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khater</surname>
+              <given-names>D.F.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.R.</given-names>
+            </name>
+            <name>
+              <surname>Zaki</surname>
+              <given-names>H.M.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>Ekateriniadou</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Boukouvala</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Glil</surname>
+              <given-names>M.Y.</given-names>
+            </name>
+            <name>
+              <surname>Menshawy</surname>
+              <given-names>A.M.S.</given-names>
+            </name>
+            <name>
+              <surname>Sancho</surname>
+              <given-names>M.P.</given-names>
+            </name>
+            <name>
+              <surname>Sakhria</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pletz</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>MLVA-16 genotyping of Brucella abortus and Brucella melitensis isolates from different animal species in Egypt: geographical relatedness and the Mediterranean lineage</article-title>
+          <source>Pathogens</source>
+          <volume>9</volume>
+          <issue>6</issue>
+          <year>2020</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0140">
+        <label>28</label>
+        <element-citation publication-type="book" id="rf0140">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alton</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Angus</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Verger</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <part-title>Techniques for the Brucellosis Laboratory</part-title>
+          <year>1988</year>
+          <publisher-name>Institute National de la Recherdie Agrononique</publisher-name>
+          <publisher-loc>Paris</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bb0145">
+        <label>29</label>
+        <element-citation publication-type="journal" id="rf0145">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bricker</surname>
+              <given-names>B.J.</given-names>
+            </name>
+            <name>
+              <surname>Halling</surname>
+              <given-names>S.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Differentiation of Brucella abortus bv. 1, 2, and 4, Brucella melitensis, Brucella ovis, and Brucella suis bv. 1 by PCR</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>32</volume>
+          <issue>11</issue>
+          <year>1994</year>
+          <fpage>2660</fpage>
+          <lpage>2666</lpage>
+          <pub-id pub-id-type="pmid">7852552</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0150">
+        <label>30</label>
+        <element-citation publication-type="journal" id="rf0150">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lopez-Go&#xF1;i</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Yoldi</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Marin</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>De Miguel</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Munoz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Blasco</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jacques</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Grayon</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Cloeckaert</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of a multiplex PCR assay (Bruce-ladder) for molecular typing of all Brucella species, including the vaccine strains</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>46</volume>
+          <issue>10</issue>
+          <year>2008</year>
+          <fpage>3484</fpage>
+          <lpage>3487</lpage>
+          <pub-id pub-id-type="pmid">18716225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0155">
+        <label>31</label>
+        <element-citation publication-type="journal" id="rf0155">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Holzer</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.R.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Shahein</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Beyer</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Pletz</surname>
+              <given-names>M.W.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular characterization and antimicrobial susceptibility testing of clinical and non-clinical Brucella melitensis and Brucella abortus isolates from Egypt</article-title>
+          <source>One Health</source>
+          <volume>13</volume>
+          <year>2021</year>
+          <object-id pub-id-type="publisher-id">100255</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0160">
+        <label>32</label>
+        <element-citation publication-type="journal" id="rf0160">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wood</surname>
+              <given-names>D.E.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Langmead</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Improved metagenomic analysis with kraken 2</article-title>
+          <source>Genome Biol.</source>
+          <volume>20</volume>
+          <issue>1</issue>
+          <year>2019</year>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">30606230</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0165">
+        <label>33</label>
+        <element-citation publication-type="journal" id="rf0165">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gurevich</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Saveliev</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Vyahhi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Tesler</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>QUAST: quality assessment tool for genome assemblies</article-title>
+          <source>Bioinformatics</source>
+          <volume>29</volume>
+          <issue>8</issue>
+          <year>2013</year>
+          <fpage>1072</fpage>
+          <lpage>1075</lpage>
+          <pub-id pub-id-type="pmid">23422339</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0170">
+        <label>34</label>
+        <element-citation publication-type="journal" id="rf0170">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seemann</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Prokka: rapid prokaryotic genome annotation</article-title>
+          <source>Bioinformatics</source>
+          <volume>30</volume>
+          <issue>14</issue>
+          <year>2014</year>
+          <fpage>2068</fpage>
+          <lpage>2069</lpage>
+          <pub-id pub-id-type="pmid">24642063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0175">
+        <label>35</label>
+        <element-citation publication-type="journal" id="rf0175">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stamatakis</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies</article-title>
+          <source>Bioinformatics</source>
+          <volume>30</volume>
+          <issue>9</issue>
+          <year>2014</year>
+          <fpage>1312</fpage>
+          <lpage>1313</lpage>
+          <pub-id pub-id-type="pmid">24451623</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0180">
+        <label>36</label>
+        <element-citation publication-type="book" id="rf0180">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seemann</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <part-title>snp-dists; Convert a FASTA Alignment to SNP Distance Matrix</part-title>
+          <year>2018</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0185">
+        <label>37</label>
+        <element-citation publication-type="journal" id="rf0185">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Janowicz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>De Massis</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Ancora</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Camm&#xE0;</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Patavino</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Battisti</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Prior</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Harmsen</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Scholz</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zilli</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Core genome multilocus sequence typing and single nucleotide polymorphism analysis in the epidemiology of Brucella melitensis infections</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>56</volume>
+          <issue>9</issue>
+          <year>2018</year>
+          <fpage>e00517</fpage>
+          <lpage>e00518</lpage>
+          <pub-id pub-id-type="pmid">29925641</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0190">
+        <label>38</label>
+        <element-citation publication-type="journal" id="rf0190">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Shankster</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Perrett</surname>
+              <given-names>L.L.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>T.J.</given-names>
+            </name>
+            <name>
+              <surname>Brew</surname>
+              <given-names>S.D.</given-names>
+            </name>
+            <name>
+              <surname>Thirlwall</surname>
+              <given-names>R.E.</given-names>
+            </name>
+            <name>
+              <surname>Cutler</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>MacMillan</surname>
+              <given-names>A.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and characterization of variable-number tandem-repeat markers for typing of Brucella spp</article-title>
+          <source>J. Clin. Microbiol.</source>
+          <volume>44</volume>
+          <issue>6</issue>
+          <year>2006</year>
+          <fpage>1982</fpage>
+          <lpage>1993</lpage>
+          <pub-id pub-id-type="pmid">16757588</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0195">
+        <label>39</label>
+        <element-citation publication-type="journal" id="rf0195">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karthik</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Anbazhagan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chitra</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Senthilkumar</surname>
+              <given-names>T.M.A.</given-names>
+            </name>
+            <name>
+              <surname>Sridhar</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Raj</surname>
+              <given-names>G.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Genome sequencing and comparative genomics of Indian isolates of Brucella melitensis</article-title>
+          <source>Front. Microbiol.</source>
+          <volume>12</volume>
+          <year>2021</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0200">
+        <label>40</label>
+        <element-citation publication-type="journal" id="rf0200">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pisarenko</surname>
+              <given-names>S.V.</given-names>
+            </name>
+            <name>
+              <surname>Kovalev</surname>
+              <given-names>D.A.</given-names>
+            </name>
+            <name>
+              <surname>Volynkina</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Ponomarenko</surname>
+              <given-names>D.G.</given-names>
+            </name>
+            <name>
+              <surname>Rusanova</surname>
+              <given-names>D.V.</given-names>
+            </name>
+            <name>
+              <surname>Zharinova</surname>
+              <given-names>N.V.</given-names>
+            </name>
+            <name>
+              <surname>Khachaturova</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Tokareva</surname>
+              <given-names>L.E.</given-names>
+            </name>
+            <name>
+              <surname>Khvoynova</surname>
+              <given-names>I.G.</given-names>
+            </name>
+            <name>
+              <surname>Kulichenko</surname>
+              <given-names>A.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Global evolution and phylogeography of Brucella melitensis strains</article-title>
+          <source>BMC Genomics</source>
+          <volume>19</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">29291715</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0205">
+        <label>41</label>
+        <element-citation publication-type="journal" id="rf0205">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franc</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Krecek</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>H&#xE4;sler</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Arenas-Gamboa</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis remains a neglected disease in the developing world: a call for interdisciplinary action</article-title>
+          <source>BMC Public Health</source>
+          <volume>18</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0210">
+        <label>42</label>
+        <element-citation publication-type="journal" id="rf0210">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaltungo</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Saidu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Musa</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Baba</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis: a neglected zoonosis</article-title>
+          <source>Microbiol. Res. J. Int.</source>
+          <year>2014</year>
+          <fpage>1551</fpage>
+          <lpage>1574</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0215">
+        <label>43</label>
+        <element-citation publication-type="journal" id="rf0215">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Santis</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ciammaruconi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Faggioni</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Fillo</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gentile</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Di Giannatale</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ancora</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Lista</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>High throughput MLVA-16 typing for Brucella based on the microfluidics technology</article-title>
+          <source>BMC Microbiol.</source>
+          <volume>11</volume>
+          <issue>1</issue>
+          <year>2011</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">21194490</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0220">
+        <label>44</label>
+        <element-citation publication-type="journal" id="rf0220">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Xiao</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Di</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Tian</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>MLVA genotyping of Brucella melitensis and Brucella abortus isolates from different animal species and humans and identification of Brucella suis vaccine strain S2 from cattle in China</article-title>
+          <source>PLoS One</source>
+          <volume>8</volume>
+          <issue>10</issue>
+          <year>2013</year>
+          <object-id pub-id-type="publisher-id">e76332</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0225">
+        <label>45</label>
+        <element-citation publication-type="journal" id="rf0225">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>M.Z.</given-names>
+            </name>
+            <name>
+              <surname>Usman</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Sadique</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Qureshi</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Hassan</surname>
+              <given-names>M.F.</given-names>
+            </name>
+            <name>
+              <surname>Shahid</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Khan</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular characterization of Brucella abortus and Brucella melitensis in cattle and humans at the north west of Pakistan</article-title>
+          <source>Pak. Vet. J.</source>
+          <volume>37</volume>
+          <year>2017</year>
+          <fpage>360</fpage>
+          <lpage>363</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0230">
+        <label>46</label>
+        <element-citation publication-type="journal" id="rf0230">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ma</surname>
+              <given-names>J.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>X.-F.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>L.-Q.</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>G.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>H.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Piao</surname>
+              <given-names>D.-R.</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>Y.-M.</given-names>
+            </name>
+          </person-group>
+          <article-title>MLVA and MLST typing of Brucella from Qinghai, China</article-title>
+          <source>Infect. Dis. Poverty</source>
+          <volume>5</volume>
+          <issue>1</issue>
+          <year>2016</year>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">26796785</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0235">
+        <label>47</label>
+        <element-citation publication-type="journal" id="rf0235">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hegazy</surname>
+              <given-names>Y.M.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Eldehiey</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Oreiby</surname>
+              <given-names>A.F.</given-names>
+            </name>
+            <name>
+              <surname>Algabbary</surname>
+              <given-names>M.H.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Beleta</surname>
+              <given-names>E.I.</given-names>
+            </name>
+            <name>
+              <surname>Mart&#xED;nez</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Shahein</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Garc&#xED;a</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Trans-species transmission of Brucellae among ruminants hampering brucellosis control efforts in Egypt</article-title>
+          <source>J. Appl. Microbiol.</source>
+          <volume>132</volume>
+          <issue>1</issue>
+          <year>2022</year>
+          <fpage>90</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="pmid">34091986</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0240">
+        <label>48</label>
+        <element-citation publication-type="journal" id="rf0240">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wernery</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <article-title>Camelid brucellosis: a review</article-title>
+          <source>Rev. Sci. Tech.</source>
+          <volume>33</volume>
+          <issue>3</issue>
+          <year>2014</year>
+          <fpage>839</fpage>
+          <lpage>857</lpage>
+          <pub-id pub-id-type="pmid">25812208</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0245">
+        <label>49</label>
+        <element-citation publication-type="journal" id="rf0245">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Etemadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Samiee</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation of Brucella abortus biovar 1 from human lumbar disc bulging: a case report of brucellar discitis</article-title>
+          <source>BMC Infect. Dis.</source>
+          <volume>21</volume>
+          <issue>1</issue>
+          <year>2021</year>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="pmid">33390160</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0250">
+        <label>50</label>
+        <element-citation publication-type="book" id="rf0250">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <part-title>Identification of Main Brucella Species Implicated in Ovine and Caprine Abortion Cases by Molecular and Classical Methods</part-title>
+          <volume>76(1)</volume>
+          <year>2021</year>
+          <publisher-name>Archives of Razi Institute</publisher-name>
+          <fpage>51</fpage>
+        </element-citation>
+      </ref>
+      <ref id="bb0255">
+        <label>51</label>
+        <element-citation publication-type="journal" id="rf0255">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>J.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Emerging diversity and ongoing expansion of the genus Brucella</article-title>
+          <source>Infect. Genet. Evol.</source>
+          <volume>92</volume>
+          <year>2021</year>
+          <object-id pub-id-type="publisher-id">104865</object-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0260">
+        <label>52</label>
+        <element-citation publication-type="journal" id="rf0260">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tadayon</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Ashford</surname>
+              <given-names>R.T.</given-names>
+            </name>
+            <name>
+              <surname>Whatmore</surname>
+              <given-names>A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular characterization of zoonotic Brucella species isolated from animal and human samples in Iran</article-title>
+          <source>Acta Trop</source>
+          <volume>229</volume>
+          <year>2022</year>
+          <fpage>106363</fpage>
+          <pub-id pub-id-type="pmid">35149040</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0265">
+        <label>53</label>
+        <element-citation publication-type="journal" id="rf0265">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khan</surname>
+              <given-names>A.U.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Sayour</surname>
+              <given-names>A.E.</given-names>
+            </name>
+            <name>
+              <surname>Shell</surname>
+              <given-names>W.S.</given-names>
+            </name>
+            <name>
+              <surname>Linde</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Glil</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>El-Soally</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Elschner</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>Sayour</surname>
+              <given-names>H.E.</given-names>
+            </name>
+            <name>
+              <surname>Ramadan</surname>
+              <given-names>E.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Whole-genome sequencing for tracing the genetic diversity of Brucella abortus and Brucella melitensis isolated from livestock in Egypt</article-title>
+          <source>Pathogens</source>
+          <volume>10</volume>
+          <issue>6</issue>
+          <year>2021</year>
+          <fpage>759</fpage>
+          <pub-id pub-id-type="pmid">34208761</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0270">
+        <label>54</label>
+        <element-citation publication-type="journal" id="rf0270">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sankarasubramanian</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Vishnu</surname>
+              <given-names>U.S.</given-names>
+            </name>
+            <name>
+              <surname>Gunasekaran</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Rajendhran</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and evaluation of a core genome multilocus sequence typing (cgMLST) scheme for Brucella spp</article-title>
+          <source>Infect. Genet. Evol.</source>
+          <volume>67</volume>
+          <year>2019</year>
+          <fpage>38</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">30385393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0275">
+        <label>55</label>
+        <element-citation publication-type="journal" id="rf0275">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tan</surname>
+              <given-names>K.-K.</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>Y.-C.</given-names>
+            </name>
+            <name>
+              <surname>Chang</surname>
+              <given-names>L.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Nore</surname>
+              <given-names>S.S.</given-names>
+            </name>
+            <name>
+              <surname>Yee</surname>
+              <given-names>W.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Mat Isa</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Jafar</surname>
+              <given-names>F.L.</given-names>
+            </name>
+            <name>
+              <surname>Hoh</surname>
+              <given-names>C.-C.</given-names>
+            </name>
+            <name>
+              <surname>AbuBakar</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Full genome SNP-based phylogenetic analysis reveals the origin and global spread of Brucella melitensis</article-title>
+          <source>BMC Genomics</source>
+          <volume>16</volume>
+          <issue>1</issue>
+          <year>2015</year>
+          <fpage>1</fpage>
+          <lpage>11</lpage>
+          <pub-id pub-id-type="pmid">25553907</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0280">
+        <label>56</label>
+        <element-citation publication-type="book" id="rf0280">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holzer</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.H.</given-names>
+            </name>
+            <name>
+              <surname>Hamdy</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Moustafa</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Linde</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bartusch</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Glil</surname>
+              <given-names>M.Y.</given-names>
+            </name>
+            <name>
+              <surname>Sayour</surname>
+              <given-names>A.E.</given-names>
+            </name>
+          </person-group>
+          <part-title>Tracking the Distribution, Genetic Diversity, and Lineage of <italic>Brucella melitensis</italic> Recovered from Humans and Animals in Egypt Based on Core-Genome SNP Analysis and In Silico MLVA-16</part-title>
+          <year>2022</year>
+          <publisher-name>Transbound. Emerg</publisher-name>
+          <publisher-loc>Dis</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="bb0285">
+        <label>57</label>
+        <element-citation publication-type="journal" id="rf0285">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Brucella melitensis</italic>, a latent &#x201C;travel bacterium,&#x201D; continual spread and expansion from Northern to Southern China and its relationship to worldwide lineages</article-title>
+          <source>Emerg. Microbes Infect.</source>
+          <volume>9</volume>
+          <issue>1</issue>
+          <year>2020</year>
+          <fpage>1618</fpage>
+          <lpage>1627</lpage>
+          <pub-id pub-id-type="pmid">32594852</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0290">
+        <label>58</label>
+        <element-citation publication-type="journal" id="rf0290">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Daugaliyeva</surname>
+              <given-names>&#x410;.</given-names>
+            </name>
+            <name>
+              <surname>Sultanov</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Usserbayev</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Baramova</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Modesto</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Adambayeva</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Acutis</surname>
+              <given-names>P.L.</given-names>
+            </name>
+            <name>
+              <surname>Peletto</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Genotyping of Brucella melitensis and Brucella abortus strains in Kazakhstan using MLVA-15</article-title>
+          <source>Infect. Genet. Evol.</source>
+          <volume>58</volume>
+          <year>2018</year>
+          <fpage>135</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="pmid">29278754</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0295">
+        <label>59</label>
+        <element-citation publication-type="journal" id="rf0295">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aliyev</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Alakbarova</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Garayusifova</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Omarov</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Aliyeva</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Fretin</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Godfroid</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification and molecular characterization of Brucella abortus and Brucella melitensis isolated from milk in cattle in Azerbaijan</article-title>
+          <source>BMC Vet. Res.</source>
+          <volume>18</volume>
+          <issue>1</issue>
+          <year>2022</year>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">34980113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0300">
+        <label>60</label>
+        <element-citation publication-type="journal" id="rf0300">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cao</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lou</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Jing</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Enzootic situation and molecular epidemiology of Brucella in livestock from 2011 to 2015 in Qingyang, China</article-title>
+          <source>Emerg. Microbes Infect.</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <year>2018</year>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">29323102</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0305">
+        <label>61</label>
+        <element-citation publication-type="journal" id="rf0305">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dadar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alamian</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Brangsch</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Elbadawy</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Elkharsawi</surname>
+              <given-names>A.R.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of virulence-associated genes and antimicrobial resistance profiles in <italic>Brucella</italic> isolates recovered from humans and animals in Iran Using NGS technology</article-title>
+          <source>Pathogens</source>
+          <volume>12</volume>
+          <issue>2023</issue>
+          <year>2023</year>
+          <fpage>82</fpage>
+          <pub-id pub-id-type="doi">10.3390/pathogens12010082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0310">
+        <label>62</label>
+        <element-citation publication-type="journal" id="rf0310">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mirkalantari</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Masjedian</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Fateme</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Determination of investigation of the link between human and animal Brucella isolates in Iran using multiple-locus variable number tandem repeat method comprising 16 loci (MLVA-16)</article-title>
+          <source>Braz. J. Infect. Dis.</source>
+          <volume>25</volume>
+          <year>2021</year>
+        </element-citation>
+      </ref>
+      <ref id="bb0315">
+        <label>63</label>
+        <element-citation publication-type="journal" id="rf0315">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wareth</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Melzer</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>El-Diasty</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Schmoock</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Elbauomy</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Abdel-Hamid</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Sayour</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Neubauer</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Isolation of Brucella abortus from a dog and a cat confirms their biological role in re-emergence and dissemination of bovine brucellosis on dairy farms</article-title>
+          <source>Transbound. Emerg. Dis.</source>
+          <volume>64</volume>
+          <issue>5</issue>
+          <year>2017</year>
+          <fpage>e27</fpage>
+          <lpage>e30</lpage>
+          <pub-id pub-id-type="pmid">27307391</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bb0320">
+        <label>64</label>
+        <element-citation publication-type="journal" id="rf0320">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Revez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Espinosa</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Albiger</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Leitmeyer</surname>
+              <given-names>K.C.</given-names>
+            </name>
+            <name>
+              <surname>Struelens</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Points</surname>
+              <given-names>E.N.M.F.</given-names>
+            </name>
+            <name>
+              <surname>E. Group</surname>
+            </name>
+          </person-group>
+          <article-title>Survey on the use of whole-genome sequencing for infectious diseases surveillance: rapid expansion of European national capacities, 2015&#x2013;2016</article-title>
+          <source>Front. Public Health</source>
+          <volume>5</volume>
+          <year>2017</year>
+          <fpage>347</fpage>
+          <pub-id pub-id-type="pmid">29326921</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec id="s0090" sec-type="supplementary-material">
+      <label>Appendix A</label>
+      <title>Supplementary data</title>
+      <p id="p0190">
+<supplementary-material content-type="local-data" id="ec0005"><caption><p>Supplementary material</p></caption><media xlink:href="mmc1.docx"><alt-text>Image 1</alt-text></media></supplementary-material>
+</p>
+    </sec>
+    <sec sec-type="data-availability" id="da0005">
+      <title>Data availability</title>
+      <p id="p0035">Raw sequencing reads were registered in the ENA database under project No. PRJEB50179.</p>
+    </sec>
+    <fn-group>
+      <fn id="s0095" fn-type="supplementary-material">
+        <label>Appendix A</label>
+        <p id="p0195">Supplementary data to this article can be found online at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.onehlt.2023.100483" id="ir0020">https://doi.org/10.1016/j.onehlt.2023.100483</ext-link>.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
+</pmc-articleset>

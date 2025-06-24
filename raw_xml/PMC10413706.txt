@@ -1,0 +1,1559 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Microbiol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">BMC Microbiol</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Microbiology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2180</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37563597</article-id>
+      <article-id pub-id-type="pmc">10413706</article-id>
+      <article-id pub-id-type="publisher-id">2962</article-id>
+      <article-id pub-id-type="doi">10.1186/s12866-023-02962-2</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparative evaluation of RBPT, I-ELISA, and CFT for the diagnosis of brucellosis and PCR detection of Brucella species from Ethiopian sheep, goats, and cattle sera</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Legesse</surname>
+            <given-names>Abinet</given-names>
+          </name>
+          <address>
+            <email>abinetl781@gmail.com</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mekuriaw</surname>
+            <given-names>Aregitu</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gelaye</surname>
+            <given-names>Esayas</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Abayneh</surname>
+            <given-names>Takele</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Getachew</surname>
+            <given-names>Belayneh</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Weldemedhin</surname>
+            <given-names>Wubet</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tesgera</surname>
+            <given-names>Takele</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deresse</surname>
+            <given-names>Getaw</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Birhanu</surname>
+            <given-names>Kenaw</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0549pzy23</institution-id><institution-id institution-id-type="GRID">grid.463506.2</institution-id><institution>Research and Development Directorate, </institution><institution>National Veterinary Institute, </institution></institution-wrap>P.O. Box 19, Bishoftu, Ethiopia </aff>
+        <aff id="Aff2"><label>2</label>Food and Agriculture Organization of the United Nations, Sub-Regional Office for Eastern Africa, P.O. Box 5536, Addis Ababa, Ethiopia </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>8</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>10</day>
+        <month>8</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>23</volume>
+      <elocation-id>216</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>5</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article&#x2019;s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x2019;s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Brucellosis is an economically devastating animal disease and has public health concern. Serological methods such as Rose Bengal Plate Test (RBPT), Complement Fixation Test (CFT), and Indirect-Enzyme-Linked Immunosorbent Assay (I-ELISA) have been used to detect brucellosis. However, there is limited comparative evaluation studies and lack of molecular confirmation of the causative agents in the study areas. The study was aimed to compare RBPT, I-ELISA, CFT, and confirmation using Polymerase Chain Reaction (PCR). A total of 2317 sera samples were collected from brucellosis-affected areas of Ethiopia with no vaccination history. All sera were subjected to comparative serological assays. Post-cross tabulation, sensitivity, and specificity were determined using Receiver Operating Characteristics (ROC) curve analysis software. PCR was performed on 54 seropositive samples using genus- and species-specific primers.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par2">Among the 2317 sera tested for comparative serological assays, 189 (8.16%) were positive for RBPT, 191 (8.24%) for I-ELISA, and 48 (2.07%) for CFT. Sensitivity to RBPT was 100% (95%) in shoats and 74% (95%) in cattle. Specificity on RBPT was 98.69% (95%), 99.28% (95%), 100% (95%) in sheep, goats, and cattle, respectively. CFT sensitivity was 4 (95%) in sheep, 9.65 (95%) goats, and 72 (95%) cattle. Specificity on CFT was 100% (95%) for sheep, goats, and cattle. A 223bp Brucella genus-specific and 156bp <italic>B. abortus</italic> species-specific detected. However, <italic>B. melitensis</italic> not detected.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p id="Par3">In this study, I-ELISA was the most sensitive and specific test. RBPT detected all Brucellosis-infected sheep and goats; nevertheless, it showed false positive in sheep and goats and false negative in cattle. The presence of <italic>B. abortus</italic> in small and large ruminants was confirmed by PCR. This is the first report of <italic>B. abortus</italic> detection in small ruminant in Ethiopia. <italic>B.abortus</italic> detected in non-preferred hosts. The findings suggest further study on molecular epidemiology of Brucella species.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Brucella species</kwd>
+        <kwd>Diagnosis</kwd>
+        <kwd>CFT</kwd>
+        <kwd>I-ELISA</kwd>
+        <kwd>RBPT</kwd>
+        <kwd>PCR</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1" sec-type="introduction">
+      <title>Introduction</title>
+      <p id="Par201">Brucellosis is caused by the genus Brucella, a facultative intracellular and gram negative Pathogen responsible for major economic burden in livestock and human health concerns worldwide [<xref ref-type="bibr" rid="CR1">1</xref>]. Brucellosis is a serious zoonotic infection [<xref ref-type="bibr" rid="CR2">2</xref>] that is wide spread in Central and South America, Mediterranean European countries, India, Central Asia, Near East countries, Northern and Eastern Africa, and Mexico [<xref ref-type="bibr" rid="CR3">3</xref>]. It is also thought to be a recurring problem in many countries, such as Colombia, Arabia, Brazil, Kuwait, and Israel. Increased calving intervals, decreased milk production, abortion, retained placenta, birth of weak and dead offspring, and infertility are all financial consequences of Brucellosis [<xref ref-type="bibr" rid="CR4">4</xref>]. It is primarily a sexually matured animal disease, and animal-to-animal transmission is commonly through direct and indirect contacts. Discharge such as fluids, placental sheaths, and aborted fetuses can all be sources of infection [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. Human infection is caused by direct contact with diseased animals; the accidental injection of live vaccines; and the consumption of Brucella-contaminated raw milk and other unpasteurized dairy products [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR6">6</xref>].</p>
+      <p id="Par301">Brucellosis was first reported in Ethiopia in the 1970s [<xref ref-type="bibr" rid="CR7">7</xref>]. Based on brucellosis sero-prevalence studies conducted by several researchers, bovine brucellosis prevalence reported in various areas of the country. For example, 4.21% prevalence from local cattle in the central highlands [<xref ref-type="bibr" rid="CR8">8</xref>]; 10.6% farm level sero-prevalence status of bovine brucellosis in Ethiopia [<xref ref-type="bibr" rid="CR9">9</xref>]; 11% in traditional management practices [<xref ref-type="bibr" rid="CR10">10</xref>]; 1.66% and 13.7% individual and herd level, respectively in southern Ethiopia (Sidama Zone) [<xref ref-type="bibr" rid="CR11">11</xref>]; and 13.6% and 2.9% in three agro-ecological areas of central Oromia [<xref ref-type="bibr" rid="CR12">12</xref>] were reported.</p>
+      <p id="Par4">According to Yohannes and his colleagues [<xref ref-type="bibr" rid="CR13">13</xref>], there is a scarcity of information on Ethiopian small ruminant brucellosis. However, here are some findings: Ashenafi et al. [<xref ref-type="bibr" rid="CR14">14</xref>] conducted a cross-sectional study on 1005 goat and 563 sheep sera in the Afar region and found 4.8% by CFT and 9.4% using RBPT sero-prevalence of small ruminant brucellosis. Small ruminant brucellosis sero-prevalence studies were also conducted in Oromia, South Nation Nationslity People (SNNP), and Eastern and North Western Amhara regions of Ethiopia [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. Using CFT and RBPT, they found 0.4&#x2013;4.89% sero-prevalence. All cited and visited authors only conducted sero-prevalence studies using RBPT and/or CFT. Among those findings, none of them made any attempt to isolate the brucellosis-causing etiological agent that was circulating in their study areas [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+      <p id="Par5">Brucella species have a preference for certain hosts. <italic>Brucella abortus</italic> is the most pathogenic and is responsible for cattle brucellosis [<xref ref-type="bibr" rid="CR17">17</xref>], but <italic>Brucella suis</italic> and <italic>Brucella melitensis</italic> can also cause disease in cattle [<xref ref-type="bibr" rid="CR18">18</xref>]. <italic>Brucella melitensis</italic> is the most common cause of brucellosis in sheep and goats [<xref ref-type="bibr" rid="CR17">17</xref>]. Although <italic>B. ovis</italic> infects sheep, it is not thought to infect humans. <italic>Brucella suis</italic> is the primary cause of brucellosis in pigs. Isolation of Brucella from body fluids, exudates, blood, and tissues is absolute evidence for infection and has a 100% test specificity, but detection of cultures decreased with chronic infection [<xref ref-type="bibr" rid="CR19">19</xref>]. In chronically infected animals, the outcome of bacterial cultures unusually low. This is usually the case when reaching an unquestionable conclusion is both challenging and essential. Brucella in serum and blood specimens have been identified using molecular techniques. Polymerase Chain Reaction (PCR) can identify a very small amount of bacteria in a specimen and is thus widely used method to detect brucellosis. However, according to different reports, its sensitivity ranges from 50 to 100% [<xref ref-type="bibr" rid="CR20">20</xref>&#x2013;<xref ref-type="bibr" rid="CR22">22</xref>]. Some findings have revealed that serum samples are superior to blood specimens and can improve PCR sensitivity [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+      <p id="Par6">Classical serological tests, such as tube agglutination and RBPT, have been shown to produce non-specific reactions with other Gram-negative bacteria that have antigenic matches to Brucella [<xref ref-type="bibr" rid="CR24">24</xref>]. To avoid such non-specific reactions, ELISA tests have been used for brucellosis detection. The superiority of ELISA tests stems from the use of different antigen preparations, anti-globulin enzyme conjugates, and substrates. The I-ELISA test successfully distinguished Brucella antibodies from other cross-reacting bacteria such as <italic>Yersinia enterocolitica</italic> serotype O:9 [<xref ref-type="bibr" rid="CR24">24</xref>&#x2013;<xref ref-type="bibr" rid="CR27">27</xref>]. Despite the drawbacks mentioned above, serological tests remain an important diagnostic tool for brucellosis in endemic countries. In general, serology has maintained its scientific application and acceptance in the diagnosis of infectious diseases. In comparison to culturing or nucleic acid amplification methods, it is inexpensive and technically simple.</p>
+      <p id="Par7">In Ethiopia, there is little or no genotyping of Brucella species or comparative serological assay study for brucellosis diagnosis. Comparative evaluations of test methods are required to conduct an accurate diagnosis of livestock brucellosis, to address appropriate detection methods for further brucellosis prevention and control. Therefore, the present study was conducted to evaluate the brucellosis diagnostic capacity and discriminative power of three serological tests: RBPT, CFT, and I-ELISA, as well as antigen detection of Brucella species using PCR in sera from sheep, goats, and cattle Ethiopia.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Materials and methods</title>
+      <sec id="Sec3">
+        <title>Study areas, animals, and sample collection</title>
+        <p id="Par8">Serum samples were collected from brucellosis affected areas in Ethiopia between December 2013 and November 2018. These include; the Oromia region (Jimma, Bale, Debre-Zeit, and Metehara), Amhara region (North Western Ethiopia and North Eastern parts of Amhara region), Afar region (Worer and Awash), and South Nation Nationality People region (Mizan and Dasenech). The animals had been kept under extensive management practices and with no history of Brucella vaccination. Approximately 10 ml of blood was collected from the jugular vein of sheep ( n&#x2009;=&#x2009;552 ), goats (n&#x2009;=&#x2009;1345 ) and cattle ( n&#x2009;=&#x2009;420 ) using plain vacutainer tubes. The samples were left at room temperature overnight to allow clotting for serum separation as previously described by [<xref ref-type="bibr" rid="CR12">12</xref>]. The serum was collected and stored at -20&#xA0;&#xB0;C until tests were performed at the National Veterinary Institute (NVI) of Ethiopia.</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Serological assay</title>
+        <sec id="Sec5">
+          <title>Rose bengal plate test (RBPT)</title>
+          <p id="Par9">Rose Bengal Plate Test is simple, rapid test used for screening animal brucellosis. It was carried out in ISO/IEC 17025:2017 accredited laboratory, and ready to use <italic>Brucella abortus</italic> antigen for RBT was obtained through purchased (ID Vet, France). Rose Bengal Antigen lot 275/23 concentrated <italic>B. abortus</italic> suspended in buffered diluents and stained with Rose Bengal dye was used. Briefly, 30&#xA0;&#xB5;l of Brucella antigen was mixed with an equal amount of serum on a plate card with a single tip and spread onto entire circles about 2&#xA0;cm in diameter, according to the manufacturer&#x2019;s enclosed instructions. Cards were manually rotated for four minutes according to the standard procedure described in OIE [<xref ref-type="bibr" rid="CR28">28</xref>]. Any degree of agglutination or clumping is considered positive, while the absence of clumping or agglutination is considered negative.</p>
+        </sec>
+        <sec id="Sec6">
+          <title>Indirect enzyme-linked immunosorbent assay (I-ELISA)</title>
+          <p id="Par10">I-ELISA is an immunological assay used to detect Brucella antibodies directed against <italic>B. abortus</italic>, <italic>B. melitensis</italic>, and <italic>B. suis</italic> LPS antigen [<xref ref-type="bibr" rid="CR28">28</xref>]. Briefly, all sera samples, controls, and reagents were brought to room temperature (18&#x2013;25&#xBA;C). Diluted sera samples (1/20) to be tested and controls were incubated at room temperature for 45&#xA0;min with <italic>B. abortus</italic> Lipopoly saccharide (LPS) coated plates. Following washing,100&#xB5;L multispecies Horseradish Peroxidase (HRP) conjugate was dispensed to each microplate well and kept at room temperature for thirty minutes. After washing to remove excess conjugate, a Tetra methyl Benzidine (TMB) substrate solution was dispensed and kept in a dark place for fifteen minutes. The resulting color developed is depending on the amount of specific antibody present in the sample to be tested. Finally, plates were read using an ELISA microplate reader with a 450&#xA0;nm wavelength (Lab system, USA). The percent value (S/P%) was calculated using the formula recommended by the kit manufacturer (ID Vet, France) for lot BRUS &#x2013;MS ver 1014GB kit protocol.</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Complement fixation test (CFT)</title>
+          <p id="Par11">A complement fixation test is a classical laboratory diagnostic test used to detect the presence of Brucella antibodies against Brucella antigens in sheep, goats and cattle sera [<xref ref-type="bibr" rid="CR28">28</xref>]. Veronal buffer ingredients for CFT were obtained through purchased (ID Vet, France). The National Veterinary Institute Research and Development Laboratory lot numbers 01/15, 01/13, 03/18, and 03/18 were used to obtain guinea pig complement, hemolytic serum, negative control, and positive control, respectively. A complement fixation test was conducted in accordance with the procedure described in OIE [<xref ref-type="bibr" rid="CR28">28</xref>]. Undiluted test sera were inactivated in a water bath at 60&#xA0;&#xB0;C for 30&#xA0;min. In each row of 96 wells plates, 25 &#xB5;L inactivated and 1/5 diluted test sera were dispensed. Twenty-five &#xB5;L antigen diluted to working strength (1/10) was added to the wells in rows B, D, F, and H, and a similar volume of veronal buffer was dispensed in the anti-complementary rows (A, C, E, and G). The antigen-test sera mixture and all control wells were incubated at 37&#xA0;&#xB0;C for 30&#xA0;min. Followed by 25&#xB5;L working complement of checked strength was dispensed to each well and incubated at 37&#xA0;&#xB0;C for 30&#xA0;min. All control wells were handled in separate plate. Then, in each well, a 1:1000 diluted 25&#xB5;L hemolytic serum in 1% Sheep Red Blood Cell (SRBC) was also dispensed. The plates were re-heated at 37&#xA0;&#xB0;C for 30&#xA0;min. Plates were kept at 4&#xA0;&#xB0;C for 2&#x2013;3&#xA0;h to allow unlysed cells to settle before reading the results. The percent lyses were evaluated against anti-complementarity wells. RBC settlement greater or equal to 50% is considered positive results, and greater or equal to 50% lyses are considered negative results [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+        </sec>
+        <sec id="Sec8">
+          <title>PCR detection</title>
+          <p id="Par12">
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Primer pairs used for the detection of <italic>Brucella</italic> genus and <italic>Brucella</italic> species</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Target pathogen</th><th align="left">Primer</th><th align="left">Sequences</th><th align="left">Amplified Products</th><th align="left">References</th></tr></thead><tbody><tr><td align="left" rowspan="2">Brucella, BCSP31</td><td align="left">B4 (F)</td><td align="left">5&#x2B9;-TGGCTCGGTTGCCAATATCAA-3&#x2B9;</td><td align="left">223&#xA0;bp</td><td align="left" rowspan="2">[<xref ref-type="bibr" rid="CR29">29</xref>]</td></tr><tr><td align="left">B5 (R)</td><td align="left">5&#x2B9;-CGCGCTTGCCTTTCAGGTCTG-3&#x2B9;</td><td align="left"/></tr><tr><td align="left" rowspan="2"><italic>B. abortus</italic> BA</td><td align="left">F</td><td align="left">5&#x2B9;-CCATTGAAGTCTGGCGAGC-3&#x2B9;</td><td align="left">156&#xA0;bp</td><td align="left" rowspan="2">[<xref ref-type="bibr" rid="CR30">30</xref>]</td></tr><tr><td align="left">R</td><td align="left">5&#x2B9;-CGATGCGAGAAAACATTGACCG-3&#x2B9;</td><td align="left"/></tr><tr><td align="left" rowspan="2"><italic>B. melitensis</italic> IS711</td><td align="left">F</td><td align="left">5&#x2B9;-TGCCGATCACTTAAGGGCCTTCAT-3&#x2B9;</td><td align="left">731&#xA0;bp</td><td align="left" rowspan="2">[<xref ref-type="bibr" rid="CR31">31</xref>]</td></tr><tr><td align="left">R</td><td align="left">5&#x2B9;-AAA TCGCGTCCTTGCTGGTCTGA-3&#x2B9;</td><td align="left"/></tr></tbody></table></table-wrap>
+</p>
+          <p id="Par13">The <italic>Brucella</italic> genome was extracted using a commercially available tissue and blood extraction kits (Qiagen, Germany). Thirty sero-positive sera samples from three serological tests (1 sheep, 11 goats, and 18 cattle, with 17 sheep and 7 goats CFT negative sera) were subjected to PCR amplification using Brucella genus-specific, <italic>B. abortus</italic>, and <italic>B. melitensis</italic> species-specific primers. The primers listed at Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref> were used for PCR assay. They are expected to amplify a 223&#xA0;bp sequence of <italic>Brucella</italic> genus-specific genome; 156&#xA0;bp <italic>B. abortus</italic> and 731&#xA0;bp <italic>B. melitensis</italic> [<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+          <p id="Par14">A total of 25&#xB5;L PCR reaction volume was used. The reaction mixture include: forward and reverse primers at a concentration of 5pmol/&#xB5;L each 2&#xB5;L, 1xPCR reaction buffer 4.5&#xB5;L, Dream Taq polymerase 5U 1.5&#xB5;L, 2mMol each dNTPs 5&#xB5;L, 10x Dream Taq buffer containing 20mMol MgCl<sub>2,</sub> 5&#xB5;L (Thermo Scientific, USA) and template 5&#xB5;L of DNA. DNA extracted from <italic>Brucella abortus</italic> which is conserved in all <italic>Brucella</italic> species and known extracts of <italic>Brucella abortus</italic> and <italic>Brucella melitensis</italic> DNA antigen were used as positive control. The PCR reaction conducted using a Thermocycler (Applied biosystem 2720, Singapore). PCR amplification were carried out as initial denaturation of 95&#xA0;&#xB0;C for 5&#xA0;min, followed by 40 cycles of 95&#xA0;&#xB0;C for 1&#xA0;min denaturation, annealing at 62&#xA0;&#xB0;C for 30&#xA0;s, and extension 72&#xA0;&#xB0;C for 30&#xA0;s, and a final elongation step of 72&#xA0;&#xB0;C for 5&#xA0;min [<xref ref-type="bibr" rid="CR29">29</xref>]. In order to check the presence or absence of specific PCR product bands, 10 &#xB5;L PCR amplicon were run in a 2% w/v agarose gel electrophoresis and then visualized under an Ultra Violet transilluminator (UVtec, France).</p>
+        </sec>
+      </sec>
+      <sec id="Sec9">
+        <title>Data analysis</title>
+        <p id="Par15">Microsoft Excel spreadsheet program was used for data storage and data were analyzed using the Statistical Package for Social Science (SPSS) version 21 software program [<xref ref-type="bibr" rid="CR32">32</xref>]. Sero-prevalence in sheep, goats and cattle were computed by the ratio of RBPT, I-ELSA, CFT, and PCR Positive animals to the total number of animal&#x2019;s sera tested. The cross-tabulated 2&#x2009;&#xD7;&#x2009;2 contingency table was used to analyze true positive (TP), true negative (TN), false positive (FP), and false negative (FN), and sensitivity and specificity were determined using Receiver Operating Characteristics curve analysis software [<xref ref-type="bibr" rid="CR32">32</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="Sec10">
+      <title>Results</title>
+      <sec id="Sec100">
+        <title>Serological test result</title>
+        <p id="Par18">All three serological test methods revealed that cattle had the highest brucellosis prevalence among the 2,317 sera samples tested. Among the samples tested for RBPT, I-ELISA, and CFT, 189 (8.2%) tested positive for RBPT, 191 (8.2%) tested positive for I-ELISA, and 48 (2.1%) tested positive for CFT (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>).</p>
+        <p id="Par19">
+<table-wrap id="Tab2"><label>Table 2</label><caption><p>Prevalence of brucellosis in different animal species</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Animal species</th><th align="left">N<underline>o</underline> tested</th><th align="left">RBPT<break/>positive</th><th align="left">I-ELISA positive</th><th align="left">CFT<break/>positive</th><th align="left">PCR<break/>positive</th></tr></thead><tbody><tr><td align="left">Sheep</td><td char="." align="char">552</td><td char="." align="char">25 (4.5%)</td><td char="." align="char">18 (3.3%)</td><td char="." align="char">1 (0.2%)</td><td align="left">17/18 (94.4%)</td></tr><tr><td align="left">Goats</td><td char="." align="char">1345</td><td char="." align="char">114 (8.5%)</td><td char="." align="char">105 (7.8%)</td><td char="." align="char">11 (0.8%)</td><td align="left">18/18 (100%)</td></tr><tr><td align="left">Cattle</td><td char="." align="char">420</td><td char="." align="char">50 (11.9%)</td><td char="." align="char">68 (16.2%)</td><td char="." align="char">36 (8.6%)</td><td align="left">18/18 (100%)</td></tr><tr><td align="left">Total</td><td char="." align="char">2317</td><td char="." align="char">189 (8.2%)</td><td char="." align="char">191 (8.2%)</td><td char="." align="char">48 (2.1%)</td><td align="left">53/54 (98.2%)</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec11">
+        <title>PCR detection result</title>
+        <p id="Par20">Thirty sero-positive sera samples for all three serological tests (1 Sheep, 11 Goats, and 18 cattle), 30/30 (100%) were also positive by PCR. Interestingly, out of 17 sheep sera, 16 (94.12%) and 7 goat sera (100%) samples that showed negative result by CFT, 23 (95.83%) were positive when analyzed by PCR (Figs.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref> and <xref rid="Fig2" ref-type="fig">2</xref>).</p>
+        <p id="Par21">
+<fig id="Fig1"><label>Fig. 1</label><caption><p>Electrophoresis picture showing a 223&#xA0;bp Brucella genus-specific PCR product from 11 representative sera samples on 2% agarose gel. The first and last lane: Molecular ladder (100&#xA0;bp plus, Fermentas), Lanes 1&#x2013;4: Cattle sera, Lanes 5&#x2013;8: Sheep sera, Lanes 9&#x2013;11: Goats sera, Lanes N and P: negative and positive controls, respectively</p></caption><graphic xlink:href="12866_2023_2962_Fig2_HTML" id="d32e666"/></fig>
+</p>
+        <p id="Par22">
+<fig id="Fig2"><label>Fig. 2</label><caption><p>Electrophoresis analysis of <italic>B. abortus</italic> specific PCR products (156&#xA0;bp) on 2% agarose gel. The first and last lane: Molecular ladder (100&#xA0;bp plus, Fermentas), Lanes 1&#x2013;4: Cattle sera, Lanes 5&#x2013;8: Sheep sera, Lanes 9&#x2013;11: Goats sera, Lanes N and P: negative and positive controls, respectively</p></caption><graphic xlink:href="12866_2023_2962_Fig3_HTML" id="d32e680"/></fig>
+</p>
+      </sec>
+    </sec>
+    <sec id="Sec12">
+      <title>Discussion</title>
+      <p id="Par23">Brucellosis is a threat to both human and animal health. Brucella infection persists in an environment where disease control is not given much consideration. In Ethiopia, numerous findings for the existence of brucellosis in ruminants, particularly cattle brucellosis, have been reported in various regions. However, the specificity and sensitivity of existing serological tests data are limited, with the exception a single report on bovine brucellosis published by the National Animal Health Diagnostic and Investigation Center [<xref ref-type="bibr" rid="CR33">33</xref>]. Sensitive and specific tests allow us to reduce diagnostic disparity in discriminating between infected and non-infected individual, as well as avoid unnecessary casualties when the tests incorrectly categorize the animals [<xref ref-type="bibr" rid="CR34">34</xref>]. In this study, the specificity and sensitivity of tests were evaluated using Receiver Operating Characteristics (ROC) curve analysis software, SPSS [<xref ref-type="bibr" rid="CR32">32</xref>]. The agreement of the tests is determined by the area under the curve (AUC): A score of 1 indicates perfect agreement, a score of 0.8 to 0.9 is very good agreement, a score of 0.7 to 0.8 is good, a score of 0.6 to 0.7 is fair, a score of 0.5 to 0.6 is poor agreement, and a score of less than 0.5 indicates no agreement between tests [<xref ref-type="bibr" rid="CR35">35</xref>]. The I-ELISA test was chosen as the reference test when determining the specificity and sensitivity of RBPT and CFT tests. As a result, excellent agreement was found between RBPT and I-ELISA in sheep and goat (0.983 and 0.998, respectively), and very good agreement was found in cattle (0.868). The test result comparisons between CFT and I-ELISA, on the other hand, revealed good agreement in cattle (0.765) but poor agreement in sheep and goat (0.529 and 0.552, respectively).</p>
+      <p id="Par24">The RBTs test and plate card reading is simple, quick, and sensitive enough to detect all brucellosis infected sheep and goats. However, I-ELISA detected a false positive in 7/552 (1.3%) sheep and 9/1345 (0.7%) goats. Unlikely, 18/420 (4.3%) cattle sera were detected by I-ELISA but were negative for RBPT, indicating a false negative reaction (Table&#xA0;<xref rid="Tab3" ref-type="table">3</xref><bold>)</bold>. As a result, RBPT positive samples were subjected to reliable, specific tests to ensure a conclusive diagnosis. I-ELISA provided excellent specificity and sensitivity while maintaining reproducible, simple to conduct with minimal equipment, and kits were easily accessible from a saleable source. Padilla et al. [<xref ref-type="bibr" rid="CR36">36</xref>] described that ELISAs are more appropriate than CFT for use in less equipped laboratories, and ELISA facilities are now used to detect a variety animal and human diseases [<xref ref-type="bibr" rid="CR37">37</xref>]. The Specificity of CFT was found to be excellent, but its sensitivity was the lowest compared to RBPT and I-ELISA. This could be due to samples hit or terminate complement provoking action in the assay even in the absence of antigen. Such &#x201C;anti- complementary&#x201D; activities result in a test void and the inability to find CFT results [<xref ref-type="bibr" rid="CR38">38</xref>].</p>
+      <p id="Par25">
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>Determining the specificity and sensitivity of RBPT where I-ELISA as reference test</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Host species</th><th align="left"/><th align="left">I-ELISA +</th><th align="left">I-ELISA-</th><th align="left">Total</th></tr></thead><tbody><tr><td align="left" rowspan="3">Sheep</td><td align="left">RBPT+</td><td align="left">18</td><td align="left">7</td><td char="." align="char">25</td></tr><tr><td align="left">RBPT-</td><td align="left">-</td><td align="left">527</td><td char="." align="char">527</td></tr><tr><td align="left">Total</td><td align="left">
+<bold>18</bold>
+</td><td align="left">
+<bold>534</bold>
+</td><td char="." align="char">
+<bold>552</bold>
+</td></tr><tr><td align="left" rowspan="3">Goats</td><td align="left">RBPT+</td><td align="left">105</td><td align="left">9</td><td char="." align="char">114</td></tr><tr><td align="left">RBPT-</td><td align="left">-</td><td align="left">1231</td><td char="." align="char">1231</td></tr><tr><td align="left">Total</td><td align="left">
+<bold>105</bold>
+</td><td align="left">
+<bold>1240</bold>
+</td><td char="." align="char">
+<bold>1345</bold>
+</td></tr><tr><td align="left" rowspan="3">Cattle</td><td align="left">RBPT+</td><td align="left">50</td><td align="left">-</td><td char="." align="char">50</td></tr><tr><td align="left">RBPT-</td><td align="left">18</td><td align="left">352</td><td char="." align="char">370</td></tr><tr><td align="left">Total</td><td align="left">
+<bold>68</bold>
+</td><td align="left">
+<bold>352</bold>
+</td><td char="." align="char">
+<bold>420</bold>
+</td></tr></tbody></table></table-wrap>
+</p>
+      <p id="Par26">Using I-ELISA as the reference test, the sensitivity of RBPT in sheep, goats, and cattle was 100% (95% CI: 98.8&#x2013;99.8), 100% (95% CI: 99.4&#x2013;99.9), and 74% (95% CI: 80.4&#x2013;93.1), respectively. Specificity for RBPT in sheep, goats and cattle was 98.69% (95% CI: 98.8&#x2013;99.9), 99.28% (95% CI: 99.4&#x2013;99.9), 100% (95% CI: 99.9-100), respectively. In this study, RBPT was found to be sensitive enough to detect 100% brucellosis infected sheep and goats. This report is in agreement with Pappas et al. [<xref ref-type="bibr" rid="CR39">39</xref>], who reported RBPT is highly sensitive (&gt;&#x2009;99%). The current study found a sensitivity of 74% and a specificity of 100% for RBPT in cattle, which is lower in sensitivity and higher in specificity than Getachew et al. [<xref ref-type="bibr" rid="CR33">33</xref>], who found a specificity of 84.5% and a sensitivity of 89.6% for RBPT in cattle. Our RBPT produced some false positive results in sheep and goats that were not detected by I-ELISA. This finding is supported by another study, suggested that RBPT has a limitation in distinguishing agglutinating reactions caused by <italic>Brucella</italic> infection from those caused by cross-reacting bacteria such as <italic>Yersinia enterocolitica</italic> O:9 [<xref ref-type="bibr" rid="CR17">17</xref>].</p>
+      <p id="Par27">Other authors have described lipopolysaccharide molecules with similar antigenic epitopes that cross-react with a variety of Gram-negative bacteria, including: <italic>Salmonella enterica</italic> serovar, <italic>Escherichia coli</italic> O116, and O157, <italic>Vibrio cholerae</italic> [<xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR40">40</xref>]. We found that eighteen I-ELISA positive cattle sera were negative by RBPT, which could be attributed to the prozone phenomenon. According to Padilla et al. [<xref ref-type="bibr" rid="CR36">36</xref>], the prozoning effect causes excess overlapping antibodies in the assay and false-negative reactions. In the current study, the sensitivity and specificity of RBPT in goats were 100% and 99.27%, respectively, which is in consistent with the previous finding reported by Muktajeul et al. [<xref ref-type="bibr" rid="CR25">25</xref>] reported 100% sensitivity and 96.22% specificity. The sensitivity in sheep was 100% and specificity 98.69%, which is slightly higher than the previous report by Mahajan et al. [<xref ref-type="bibr" rid="CR24">24</xref>], which was 87% and 95%, respectively.</p>
+      <p id="Par28">The highest specificity and sensitivity was observed in I-ELISA. The high accuracy of I-ELISA may be due to its ability to identify minute amounts of antibodies present in the initial course of infection, which RBPT does not. Our diagnostic sensitivity of I-ELISA was 100%, which was higher that RBPT and CFT but similar specificity with CFT (100%). This is slightly higher than the sensitivity of 96.8% and specificity of 96.3% reported by Getachew T. et al. [<xref ref-type="bibr" rid="CR33">33</xref>] for I-ELISA in cattle. Paweska et al. [<xref ref-type="bibr" rid="CR26">26</xref>] reported 99.8% specificity and 100% sensitivity when 4803 cattle sera were tested against I-ELISA. And 100% agreement with [<xref ref-type="bibr" rid="CR38">38</xref>] who found 100% sensitivity in cattle. According to the findings of this study, the I-ELISA assay is highly specific (100%) in all three species and the most sensitive diagnostic test for cattle brucellosis. The ability to detect antibodies of all isotopes may account for this accuracy [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+      <p id="Par29">Chand et al. [<xref ref-type="bibr" rid="CR37">37</xref>] recommended that ELISA is superior to RBPT for determining the condition of brucellosis in cattle because the detection ability of an infected animal in ELISA is higher. Erdenebaatar et al. [<xref ref-type="bibr" rid="CR27">27</xref>] stated that I-ELISA can be used to avoid nonspecific reactors in RBPT positive sera. In the late stages of the disease, non-agglutinating antibodies become more abundant than clumping antibodies, potentially leading to non-detection. The incorporation of IgG conjugate in I-ELISA allows for the detection of these non-clumping antibodies. Using RBPT in conjunction with ELISA allows us to identify all the positive Brucella reactors. In our findings, we avoided false-negative results in cattle and identified potential false-positive reactors in sheep and goats. This is covenant with previous results reported by Padilla et al. [<xref ref-type="bibr" rid="CR36">36</xref>], who determined that detecting all Brucella reactors with a single agglutination test was impossible. The combination of RBPT with ELISA is recommended since the ELISA test is reproducible and reliable.</p>
+      <p id="Par30">
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>Determining sensitivity and specificity of CFT where I-ELISA as the reference test</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Host species</th><th align="left"/><th align="left">I -ELISA +</th><th align="left">I-ELISA -</th><th align="left">Total</th></tr></thead><tbody><tr><td align="left" rowspan="3">Sheep</td><td align="left">CFT+</td><td char="." align="char">1</td><td align="left">-</td><td char="." align="char">1</td></tr><tr><td align="left">CFT-</td><td char="." align="char">17</td><td align="left">534</td><td char="." align="char">551</td></tr><tr><td align="left">Total</td><td char="." align="char">
+<bold>18</bold>
+</td><td align="left">
+<bold>534</bold>
+</td><td char="." align="char">
+<bold>552</bold>
+</td></tr><tr><td align="left" rowspan="3">Goats</td><td align="left">CFT+</td><td char="." align="char">11</td><td align="left">-</td><td char="." align="char">11</td></tr><tr><td align="left">CFT-</td><td char="." align="char">94</td><td align="left">1240</td><td char="." align="char">1334</td></tr><tr><td align="left">Total</td><td char="." align="char">
+<bold>105</bold>
+</td><td align="left">
+<bold>1240</bold>
+</td><td char="." align="char">
+<bold>1345</bold>
+</td></tr><tr><td align="left" rowspan="3">Cattle</td><td align="left">CFT+</td><td char="." align="char">36</td><td align="left">-</td><td char="." align="char">36</td></tr><tr><td align="left">CFT-</td><td char="." align="char">32</td><td align="left">352</td><td char="." align="char">384</td></tr><tr><td align="left">Total</td><td char="." align="char">
+<bold>68</bold>
+</td><td align="left">
+<bold>352</bold>
+</td><td char="." align="char">
+<bold>420</bold>
+</td></tr></tbody></table></table-wrap>
+</p>
+      <p id="Par31">Considering I-ELISA as a reference test, the sensitivity and specificity of CFT were 5.56% and 100% in sheep, 10.48% and 100% in goats, and 52.94% and 100% in cattle, respectively (Table&#xA0;<xref rid="Tab4" ref-type="table">4</xref><bold>)</bold>. The current comparative serological study revealed that the CFT had the highest specificity in all three species sera but the lowest sensitivity. This could be due to the presence of anti-complementary effect, as reagents and complement may not be fixed by many classes of antibodies in animals. Padilla et al. [<xref ref-type="bibr" rid="CR36">36</xref>] explained this as the result of only the Immunoglobulin G1 isotope of antibody binding complement well, increasing test specificity. Other limitations include bias in reading results, destroying complement activator (anti-complementary activity), and the test&#x2019;s inability to be used with hemolysed serum specimen, which limits its sensitivity.</p>
+      <p id="Par32">Among molecular techniques, PCR has been described as a device to allow fast and more sensitive identification of Brucella DNA from serum samples [<xref ref-type="bibr" rid="CR29">29</xref>]. It has been regarded as the preference test for the identification of Brucella species as it had a greater specificity and sensitivity for detection when compared to other immunological or phenotypic techniques [<xref ref-type="bibr" rid="CR40">40</xref>]. Mitka et al. [<xref ref-type="bibr" rid="CR41">41</xref>] conducted four different PCR assays. All four techniques demonstrated 100% sensitivity and specificity, making them suitable for detecting both acute and relapsing brucellosis in humans. In line with these findings, the results of our study revealed that the conventional PCR test was capable of detecting <italic>Brucella</italic> DNA from CFT negative sheep and goat sera as well as all cattle sero-positive samples. Thirty sera (1 sheep, 11 goats, and 18 cattle) were found to be sero-positive for all three serological tests, with 30/30 (100%) also showing positive PCR results. Interestingly, out of 17 sheep sera, 16 (94.12%) and 7 goat sera (100%) samples that showed negative results by CFT, 23 (95.83%) were positive by PCR. Only one I-ELISA positive sheep serum sample was not detected by PCR. This finding is consistent with [<xref ref-type="bibr" rid="CR22">22</xref>], who stated that PCR has a lower detection ability than ELISA. According to [<xref ref-type="bibr" rid="CR22">22</xref>], the detection ability of PCR techniques is dependent on the DNA extraction method and exposure to inhibitors such as phenol, DNAse, and EDTA.</p>
+      <p id="Par33">According to the PCR assay used in this study, all sero-positive samples from cattle, sheep, and goats in serological tests were found to be positive for <italic>B. abortus</italic>, but <italic>B. melitensis</italic> was not detected in either ruminant species. This finding is consistent with the findings of [<xref ref-type="bibr" rid="CR30">30</xref>], who investigated 1270 goat and 770 sheep sera samples. By real-time PCR, all sero-positive sera samples from these small ruminants were found to be positive for <italic>B. abortus</italic>, but <italic>B. melitensis</italic> was not identified. The authors hypothesized that inter-species transmission could be caused by mixed farming, in which small and large ruminants share the same grassland. <italic>B. abortus</italic> may be problematic in non-preferred hosts, such as small ruminants. According to the same authors, Brucella&#x2019;s eco-diversity and multi-pathogenicity allow it to cross the species barrier [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+    </sec>
+    <sec id="Sec13">
+      <title>Conclusion and recommendation</title>
+      <p id="Par34">In this study I-ELISA was found to be the most specific and sensitive test. RBPT was also sensitive enough to detect all brucellosis-infected sheep and goats. RBPT, on the other hand, produced false positive results in sheep and goats and false negative results in cattle. Therefore, RBPT should be used in conjunction with I-ELISA to address issues related to RBPT sensitivity and specificity. This study&#x2019;s PCR assay confirmed the presence of <italic>Brucella abortus</italic> in small and large ruminants consistent with the study areas. This is the first report in Ethiopia on the detection of <italic>B. abortus</italic> in small ruminant serum. <italic>B. abortus</italic> was found in non-preferred hosts. Due to resource limitation we couldn&#x2019;t confirm all sero-positive sera with PCR. We recommend further in depth research is needed to determine the genetic diversity of <italic>B. abortus</italic> and other Brucella species, as well as to understand their molecular epidemiology at national scale, in order to design cost-effective preventive and control measures.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors would like to thank the national veterinary institute (NVI), Ethiopia for providing the laboratory facilities and consumables. Research and Development Directorate technical staffs are also greatly appreciated.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>AL designed the study, did the entire laboratory activities, drafted the manuscript, performed data analysis and revised the manuscript. AM, EG, BG, TT and KB revised the manuscript. WW involved in serological assay works. GD participated in PCR assay works. TA organized the study and revised the manuscript. All authors read and ratified the final version of the manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This study is fully hosted by the national veterinary institute (NVI), Ethiopia.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data Availability</title>
+      <p>All data analyzed during this study are included in the manuscript. However, the raw data is available from the corresponding author upon formal request.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar2">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par36">Blood sample was collected from naturally brucellosis infected cattle, goats and sheep for disease diagnosis purpose. We followed World Organization for Animals Health (WOAH/OIE) territorial manual for blood sampling and serum sample handling during the experiment. Besides, National Veterinary Institute animal ethical committee was approved with reference number NVI /825/ concerns to the ethical standards in handling and blood sample collection from animals under study.</p>
+      </notes>
+      <notes id="FPar3">
+        <title>Consent for publication</title>
+        <p id="Par581">Not applicable.</p>
+      </notes>
+      <notes id="FPar1" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par35">The authors declare that they have no competing of interests.</p>
+      </notes>
+    </notes>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>CFT</term>
+          <def>
+            <p id="Par37">Complement Fixation Test</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DNA</term>
+          <def>
+            <p id="Par38">Deoxyribose Nucleic Acid</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>I-ELISA</term>
+          <def>
+            <p id="Par39">Indirect Enzyme Linked Immunosorbent Assay</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NVI</term>
+          <def>
+            <p id="Par40">National Veterinary Institute</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>RBPT</term>
+          <def>
+            <p id="Par41">rose Bengal plate test</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PCR</term>
+          <def>
+            <p id="Par42">polymerase chain reaction</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>TMB</term>
+          <def>
+            <p id="Par43">Tetra Methyl Benzidine</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SRBC</term>
+          <def>
+            <p id="Par44">Sheep Red Blood Cell</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>LPS</term>
+          <def>
+            <p id="Par45">Lipopolysaccharide</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SPSS</term>
+          <def>
+            <p id="Par46">Statistical Package for Social Sciences. WOAH:World Organization for Animal Health. OIE:International Organization for animal Epizootic</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>WOAH</term>
+          <def>
+            <p id="Par461">World Organization for Animal Health</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>OIE</term>
+          <def>
+            <p id="Par462">International Organization for animal Epizootic</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ficht</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucella taxonomy and evolution</article-title>
+          <source>Future Microbiol</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <fpage>859</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="doi">10.2217/fmb.10.52</pub-id>
+          <pub-id pub-id-type="pmid">20521932</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smits</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Kadri</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in India: a deceptive infectious disease</article-title>
+          <source>Indian J Med Res</source>
+          <year>2005</year>
+          <volume>122</volume>
+          <issue>5</issue>
+          <fpage>375</fpage>
+          <pub-id pub-id-type="pmid">16456249</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Robinson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source>Guidelines for coordinated human and animal brucellosis surveillance (FAO animal production and health paper 156)</source>
+          <year>2003</year>
+          <publisher-loc>Rome</publisher-loc>
+          <publisher-name>Food and Agriculture Organization</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gessese</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Mulate</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Nazir</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Asmare</surname>
+              <given-names>AJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Seroprevalence of brucellosis in camels (Camelus dromedaries) in South East Ethiopia</article-title>
+          <source>J Veterinary Sci Med Diagnosis</source>
+          <year>2014</year>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>2</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adugna</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Agga</surname>
+              <given-names>GE</given-names>
+            </name>
+            <name>
+              <surname>Zewde</surname>
+              <given-names>GJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Seroepidemiological survey of bovine brucellosis in cattle under a traditional production system in western Ethiopia</article-title>
+          <source>Revolution of Science and Technology</source>
+          <year>2013</year>
+          <volume>32</volume>
+          <issue>3</issue>
+          <fpage>765</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="doi">10.20506/rst.32.2.2218</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Genene</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Desalew</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yamuah</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hiwot</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Teshome</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Asfawesen</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Abraham</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Abdoel</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Smits</surname>
+              <given-names>HL</given-names>
+            </name>
+          </person-group>
+          <article-title>Human brucellosis in traditional pastoral communities in Ethiopia</article-title>
+          <source>Int J Trop Med</source>
+          <year>2009</year>
+          <volume>4</volume>
+          <issue>2</issue>
+          <fpage>59</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <mixed-citation publication-type="other">Domenech J. Enqu&#xEA;te s&#xE9;rologique sur la brucellose du dromadaire en Ethiopie. Revue d&#x2019;&#xE9;levage et de m&#xE9;decine v&#xE9;t&#xE9;rinaire des pays tropicaux. 1977; 30(2):141-2.</mixed-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bekele</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kasali</surname>
+              <given-names>OB</given-names>
+            </name>
+            <name>
+              <surname>Mukasa-Mugerwa</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Scholtens</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Yigzaw</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of brucellosis in indigenous cattle in central Ethiopia</article-title>
+          <source>Bull Anim health Prod Afr</source>
+          <year>1989</year>
+          <volume>37</volume>
+          <fpage>97</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asmare</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Sibhat</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Molla</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The status of bovine brucellosis in Ethiopia with special emphasis on exotic and cross bred cattle in dairy and breeding farms</article-title>
+          <source>Acta Trop</source>
+          <year>2013</year>
+          <volume>126</volume>
+          <issue>3</issue>
+          <fpage>186</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.actatropica.2013.02.015</pub-id>
+          <pub-id pub-id-type="pmid">23453940</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kebede</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Ejeta</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ameni</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Seroprevalence of bovine brucellosis in smallholder farms in central Ethiopia (Wuchale-Jida district)</article-title>
+          <source>Revue de M&#xE9;decine V&#xE9;t&#xE9;rinaire</source>
+          <year>2008</year>
+          <volume>159</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kassahun</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yilkal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Esayas</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gelagay</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in extensive management system of Zebu cattle in Sidama Zone, Southern Ethiopia</article-title>
+          <source>Afr J Agric Res</source>
+          <year>2010</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>257</fpage>
+          <lpage>63</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jergefa</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kelay</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Bekana</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Teshale</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Gustafson</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kindahl</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological study of bovine brucellosis in three agro-ecological areas of central Oromia, Ethiopia</article-title>
+          <source>Revolution of Science and Technology</source>
+          <year>2009</year>
+          <volume>28</volume>
+          <issue>3</issue>
+          <fpage>933</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yohannes</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Degefu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Tolosa</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Belihu</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Cutler</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Cutler</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Brucellosis in Ethiopia</article-title>
+          <source>Afr J Microbiol Res</source>
+          <year>2013</year>
+          <volume>7</volume>
+          <issue>14</issue>
+          <fpage>1150</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.5897/AJMR12.738</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ashenafi</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Teshale</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ejeta</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Fikru</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Laikemariam</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Distribution of brucellosis among small ruminants in the pastoral region of Afar, eastern Ethiopia</article-title>
+          <source>Rev Sci Tech</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <issue>3</issue>
+          <fpage>731</fpage>
+          <pub-id pub-id-type="doi">10.20506/rst.26.3.1781</pub-id>
+          <pub-id pub-id-type="pmid">18293621</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lemu</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mamo</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Deressa</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Pal</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>A study on seroprevalence of brucellosis in goats and sheep in East Shewa, Ethiopia</article-title>
+          <source>Ethiop Int J Multi disease Res</source>
+          <year>2014</year>
+          <volume>1</volume>
+          <fpage>14</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferede</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Mengesha</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Mekonen</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Study on the seroprevalence of small ruminant brucellosis in and around Bahir Dar, North West Ethiopia</article-title>
+          <source>Ethiop Veterinary J</source>
+          <year>2011</year>
+          <volume>15</volume>
+          <issue>2</issue>
+          <fpage>35</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.4314/evj.v15i2.67692</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Godfroid</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Saegerman</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnosis of brucellosis in livestock and wildlife</article-title>
+          <source>Croatian Med J</source>
+          <year>2010</year>
+          <volume>51</volume>
+          <issue>4</issue>
+          <fpage>296</fpage>
+          <lpage>305</lpage>
+          <pub-id pub-id-type="doi">10.3325/cmj.2010.51.296</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <mixed-citation publication-type="other">Corbel MJ. Brucellosis in humans and animals. World Health Organization; 2006.</mixed-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Franco</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Mulder</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gilman</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Smits</surname>
+              <given-names>HL</given-names>
+            </name>
+          </person-group>
+          <article-title>Human brucellosis</article-title>
+          <source>Lancet Infect Dis</source>
+          <year>2007</year>
+          <volume>7</volume>
+          <issue>12</issue>
+          <fpage>775</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1473-3099(07)70286-4</pub-id>
+          <pub-id pub-id-type="pmid">18045560</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al-Attas</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Al-Khalifa</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Al-Qurashi</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Badawy</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Al-Gualy</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of PCR, culture and serology for the diagnosis of acute human brucellosis</article-title>
+          <source>Ann Saudi Med</source>
+          <year>2000</year>
+          <volume>20</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>224</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.5144/0256-4947.2000.224</pub-id>
+          <pub-id pub-id-type="pmid">17322662</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bricker</surname>
+              <given-names>BJ</given-names>
+            </name>
+          </person-group>
+          <article-title>PCR as a diagnostic tool for brucellosis</article-title>
+          <source>Vet Microbiol</source>
+          <year>2002</year>
+          <volume>90</volume>
+          <issue>1&#x2013;4</issue>
+          <fpage>435</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-1135(02)00228-6</pub-id>
+          <pub-id pub-id-type="pmid">12414163</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gemechu</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Arora</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Ghatak</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>DK</given-names>
+            </name>
+          </person-group>
+          <article-title>Polymerase chain reaction (PCR) assay for rapid diagnosis and its role in prevention of human brucellosis in Punjab, India</article-title>
+          <source>Int J Prev Med</source>
+          <year>2011</year>
+          <volume>2</volume>
+          <issue>3</issue>
+          <fpage>170</fpage>
+          <pub-id pub-id-type="pmid">21811660</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zerva</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bourantas</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mitka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kansouzidou</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Legakis</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Serum is the preferred clinical specimen for diagnosis of human brucellosis by PCR</article-title>
+          <source>J Clin Microbiol</source>
+          <year>2001</year>
+          <volume>39</volume>
+          <issue>4</issue>
+          <fpage>1661</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.1128/JCM.39.4.1661-1664.2001</pub-id>
+          <pub-id pub-id-type="pmid">11283112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahajan</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Kulshreshtha</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of serological tests for Brucella melitensis infection in sheep</article-title>
+          <source>Trop Anim Health Prod</source>
+          <year>1991</year>
+          <volume>23</volume>
+          <issue>1</issue>
+          <fpage>11</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02361263</pub-id>
+          <pub-id pub-id-type="pmid">2038764</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Muktaderul</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Islam</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Khatun</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Baek</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of four serological tests for the detection of brucellosis in goats and cattle under the field condition of Bangladesh</article-title>
+          <source>Asian J Biol Sci</source>
+          <year>2011</year>
+          <volume>4</volume>
+          <issue>5</issue>
+          <fpage>477</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="doi">10.3923/ajbs.2011.477.482</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paweska</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Potts</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Viljoen</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Dungu</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Brett</surname>
+              <given-names>OL</given-names>
+            </name>
+            <name>
+              <surname>Bubb</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Prozesky</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Validation of an indirect enzyme-linked immunosorbent assay for the detection of antibody against Brucella abortus in cattle sera using an automated ELISA workstation</article-title>
+          <source>Onderstepoort J Vet Res</source>
+          <year>2002</year>
+          <volume>69</volume>
+          <issue>1</issue>
+          <fpage>61</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="pmid">12092779</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erdenebaatar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bayarsaikhan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Yondondorj</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Watarai</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Shirahata</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Jargalsaikhan</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kawamoto</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Makino</surname>
+              <given-names>SI</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological and serological survey of brucellosis in Mongolia by ELISA using sarcosine extracts</article-title>
+          <source>Microbiol Immunol</source>
+          <year>2004</year>
+          <volume>48</volume>
+          <issue>8</issue>
+          <fpage>571</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1348-0421.2004.tb03553.x</pub-id>
+          <pub-id pub-id-type="pmid">15322336</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <mixed-citation publication-type="other">International Organization for Animal Health (OIE). Terrestrial manual. Brucella infection with B. abortus, B. mellitensis and B. suis. 2018; 355&#x2013;398.</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mohseni</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mirnejad</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Piranfar</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Mirkalantari</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparative evaluation of ELISA, PCR, and serum agglutination tests for diagnosis of Brucella using human serum</article-title>
+          <source>Iran J Pathol</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <issue>4</issue>
+          <fpage>371</fpage>
+          <pub-id pub-id-type="doi">10.30699/ijp.2017.28293</pub-id>
+          <pub-id pub-id-type="pmid">29563933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arain</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Babar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Panhwar</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Hal</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Farooq</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Lanjar</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Soomro</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Fazilani</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Jan</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Lakhani</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yousaf</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Detection of Brucella Abortus in Caprine and Ovine by Real- Time PCR assay</article-title>
+          <source>Anim Veterinary Sci</source>
+          <year>2021</year>
+          <volume>9</volume>
+          <issue>5</issue>
+          <fpage>141</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="doi">10.11648/j.avs.20210905.13</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piranfar</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Sharif</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hashemi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vahdati</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Mirnejad</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Detection and discrimination of two Brucella species by multiplex real-time PCR and high-resolution melt analysis curve from human blood and comparison of results using RFLP</article-title>
+          <source>Iran J basic Med Sci</source>
+          <year>2015</year>
+          <volume>18</volume>
+          <issue>9</issue>
+          <fpage>909</fpage>
+          <pub-id pub-id-type="pmid">26523223</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <mixed-citation publication-type="other">Morgan GA, Leech NL, Gloeckner GW, Barrett KC. SPSS for introductory statistics: use and interpretation. 2nd ed. Psychology Press; 2004. pp. 1&#x2013;211.</mixed-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <mixed-citation publication-type="other">Getachew T, Getachew G, Sintayehu G, Getenet M, Fasil A. Bayesian estimation of sensitivity and specificity of rose bengal, complement fixation, and indirect ELISA tests for the diagnosis of bovine brucellosis in Ethiopia. Veterinary Med Int. 2016; 1&#x2013;7.</mixed-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stemshorn</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>Forbes</surname>
+              <given-names>LB</given-names>
+            </name>
+            <name>
+              <surname>Eaglesome</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>KH</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Samagh</surname>
+              <given-names>BS</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparison of standard serological tests for the diagnosis of bovine brucellosis in Canada</article-title>
+          <source>Can J Comp Med</source>
+          <year>1985</year>
+          <volume>49</volume>
+          <issue>4</issue>
+          <fpage>391</fpage>
+          <pub-id pub-id-type="pmid">4075239</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zweig</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Receiver-operating characteristic (ROC) plots: a fundamental evaluation tool in clinical medicine</article-title>
+          <source>Clin Chem</source>
+          <year>1993</year>
+          <volume>39</volume>
+          <issue>4</issue>
+          <fpage>561</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1093/clinchem/39.4.561</pub-id>
+          <pub-id pub-id-type="pmid">8472349</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Padilla Poester</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ernesto Samartino</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ling Yu</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title>Diagnosis of brucellosis</article-title>
+          <source>The open Veterinary Science Journal</source>
+          <year>2010</year>
+          <volume>4</volume>
+          <issue>1</issue>
+          <fpage>46</fpage>
+          <lpage>60</lpage>
+          <pub-id pub-id-type="doi">10.2174/1874318801004010046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chand</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Situation of brucellosis in bovines at organized cattle farms belonging to three different states</article-title>
+          <source>J Immunol Immunopathol</source>
+          <year>2004</year>
+          <volume>6</volume>
+          <fpage>11</fpage>
+          <lpage>5</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hassanain</surname>
+              <given-names>NA</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>WM</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy of serological tests in comparison with PCR for diagnosis of brucellosis</article-title>
+          <source>World J Med Sci</source>
+          <year>2012</year>
+          <volume>7</volume>
+          <issue>4</issue>
+          <fpage>243</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pappas</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Akritidis n, Bosilkovski M, tsianos e</article-title>
+          <source>Brucellosis Engl J Med</source>
+          <year>2005</year>
+          <volume>352</volume>
+          <fpage>2325</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1056/NEJMra050570</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarumathi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>VENKATA REDDY</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sreedevi</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Serological survey of bovine brucellosis in Andhra Pradesh</article-title>
+          <source>Indian J dairy Sci</source>
+          <year>2003</year>
+          <volume>56</volume>
+          <issue>6</issue>
+          <fpage>408</fpage>
+          <lpage>10</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Anetakis</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Souliou</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Diza</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Kansouzidou</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of different PCR assays for early detection of acute and relapsing brucellosis in humans in comparison with conventional methods</article-title>
+          <source>J Clin Microbiol</source>
+          <year>2007</year>
+          <volume>45</volume>
+          <issue>4</issue>
+          <fpage>1211</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1128/JCM.00010-06</pub-id>
+          <pub-id pub-id-type="pmid">17267626</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

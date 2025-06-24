@@ -1,0 +1,1582 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="vms31173" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Vet Med Sci</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Vet Med Sci</journal-id>
+      <journal-id journal-id-type="doi">10.1002/(ISSN)2053-1095</journal-id>
+      <journal-id journal-id-type="publisher-id">VMS3</journal-id>
+      <journal-title-group>
+        <journal-title>Veterinary Medicine and Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2053-1095</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37276346</article-id>
+      <article-id pub-id-type="pmc">10357253</article-id>
+      <article-id pub-id-type="doi">10.1002/vms3.1173</article-id>
+      <article-id pub-id-type="publisher-id">VMS31173</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Original Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>OTHER</subject>
+          <subj-group subj-group-type="heading">
+            <subject>Original Articles</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+<italic toggle="yes">Brucella abortus</italic> antigen omp25 vaccines: Development and targeting based on <italic toggle="yes">Lactococcus lactis</italic>
+</article-title>
+        <alt-title alt-title-type="left-running-head">GOURAN <sc>et&#xA0;al.</sc>
+</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="vms31173-cr-0001" contrib-type="author">
+          <name>
+            <surname>Gouran</surname>
+            <given-names>Somaye Tirbakhsh</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5030-0875</contrib-id>
+          <xref rid="vms31173-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+        </contrib>
+        <contrib id="vms31173-cr-0002" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Doosti</surname>
+            <given-names>Abbas</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8052-5963</contrib-id>
+          <xref rid="vms31173-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>doostiabbas2021@gmail.com</email>
+            <email>abbasdoosti@yahoo.com</email>
+            <email>abbasdoosti@yahoo.com</email>
+          </address>
+        </contrib>
+        <contrib id="vms31173-cr-0003" contrib-type="author">
+          <name>
+            <surname>Jami</surname>
+            <given-names>Mohammad Saeid</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1353-3602</contrib-id>
+          <xref rid="vms31173-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="vms31173-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="vms31173-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Shahrekord Branch, Islamic Azad University</institution>
+<city>Shahrekord</city>
+<country country="IR">Iran</country>
+</aff>
+      <aff id="vms31173-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Biotechnology Research Center</named-content>
+<institution>Shahrekord Branch, Islamic Azad University</institution>
+<city>Shahrekord</city>
+<country country="IR">Iran</country>
+</aff>
+      <aff id="vms31173-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Cellular and Molecular Research Center</named-content>
+<institution>Basic Health Sciences Research Institute, Shahrekord University of Medical Sciences</institution>
+<city>Shahrekord</city>
+<country country="IR">Iran</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Abbas Doosti, Biotechnology Research Center, Shahrekord Branch, Islamic Azad University, Shahrekord, Iran.<break/>Email: <email>abbasdoosti@yahoo.com</email>
+<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>6</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>7</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>9</volume>
+      <issue seq="560">4</issue>
+      <issue-id pub-id-type="doi">10.1002/vms3.v9.4</issue-id>
+      <fpage>1908</fpage>
+      <lpage>1922</lpage>
+      <history>
+<date date-type="rev-recd"><day>03</day><month>4</month><year>2023</year></date>
+<date date-type="received"><day>24</day><month>2</month><year>2023</year></date>
+<date date-type="accepted"><day>11</day><month>4</month><year>2023</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2023 John Wiley & Sons Ltd.-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2023 The Authors. <italic toggle="yes">Veterinary Medicine and Science</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:VMS3-9-1908.pdf"/>
+      <abstract>
+        <title>Abstract</title>
+        <sec id="vms31173-sec-0010">
+          <title>Background</title>
+          <p>Most <italic toggle="yes">Brucella</italic> infections take place on mucosal membranes. Therefore, creating vaccinations delivered through the mucosa may be crucial for managing brucellosis. Consequently, we assessed the efficacy of a recombinant oral antigen delivery system based on <italic toggle="yes">Lactococcus lactis</italic> for <italic toggle="yes">Brucella abortus</italic> omp25 antigen.</p>
+        </sec>
+        <sec id="vms31173-sec-0020">
+          <title>Method</title>
+          <p>Oral vaccinations with <italic toggle="yes">L. lactis</italic> transformed with pNZ8148 variants encoding for omp25 (pNZ8148:omp25) and free&#x2010;pNZ8148 were administered to mice. On day 30, following immunization in animal groups, anti&#x2010;omp25&#x2010;specific IgG1 antibodies were assessed by the ELISA test. Additionally, nasal and bronchoalveolar lavages containing omp25&#x2010;specific secretory IgA (sIgA) were analysed by ELISA. ELISA test and real&#x2010;time PCR were also used to analyse cytokine responses up to 28 days following the last boost. In addition, the protective potential of <italic toggle="yes">L. lactis</italic> pNZ8148:omp25 vaccines was assessed in BALB/c mice by exposing them to the <italic toggle="yes">B. abortus</italic> strain.</p>
+        </sec>
+        <sec id="vms31173-sec-0030">
+          <title>Results</title>
+          <p>Based on the initial screening results, the omp25 protein was identified for immunogenicity because it had the maximum solubility and flexibility and antigenic values of 0.75. The produced plasmid was digested using KpnI and XbaI. By electrophoretic isolation of the digestion fragments at 786&#xA0;bp, the omp25 gene, the successful production of the recombinant plasmid, was confirmed. Antigen expression at the protein level revealed that the target group generated the 25&#xA0;kDa&#x2010;sized omp25 protein, but there was no protein expression in the control group. Fourteen days after priming, there was a considerable amount of omp25&#x2010;specific IgG1 in the sera of mice vaccinated with pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001 in target groups compared to the phosphate&#x2010;buffered saline control group). IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; levels were more significant in samples from mice that had been given the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccinations, in samples taken on days 14 and 28, respectively (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001). The pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA immunization groups had significantly greater IL&#x2010;4 and IL&#x2010;10 transcription levels than the other groups. The spleen portions from the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRIBA vac group had less extensive spleen injuries, alveolar oedema, lymphocyte infiltration and morphological damage due to the inflammatory process.</p>
+        </sec>
+        <sec id="vms31173-sec-0040">
+          <title>Conclusion</title>
+          <p>Our study offers a novel method for using the food&#x2010;grade, non&#x2010;pathogenic and noncommercial bacterium <italic toggle="yes">L. lactis</italic> as a protein cell factory to produce the novel immunogenic fusion candidate romp25. This method offers an appealing new approach to assessing the cost&#x2010;effective, safe, sustainable, simple pilot development of pharmaceutical products.</p>
+        </sec>
+      </abstract>
+      <abstract id="vms31173-abs-0001" abstract-type="graphical">
+        <p>Graphical Abstract:
+<list list-type="bullet" id="vms31173-list-0001"><list-item><p>We assessed the efficacy of a recombinant oral antigen delivery system based on <italic toggle="yes">Lactococcus lactis</italic> for <italic toggle="yes">Brucella abortus</italic> omp25 antigen.</p></list-item><list-item><p>The omp25 protein was identified for immunogenicity because it had the maximum solubility and flexibility and antigenic values of 0.75.</p></list-item><list-item><p>Our study offers a novel method for using the food&#x2010;grade, non&#x2010;pathogenic and noncommercial bacterium <italic toggle="yes">L. lactis</italic> as a protein cell factory to produce the novel immunogenic fusion candidate romp25.</p></list-item></list>
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="VMS3-9-1908-g003.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p>
+      </abstract>
+      <kwd-group kwd-group-type="author-generated">
+        <kwd id="vms31173-kwd-0001">brucellosis infection</kwd>
+        <kwd id="vms31173-kwd-0002">
+          <italic toggle="yes">Lactococcus lactis</italic>
+        </kwd>
+        <kwd id="vms31173-kwd-0003">omp25 protein</kwd>
+        <kwd id="vms31173-kwd-0004">cloning</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="8"/>
+        <table-count count="4"/>
+        <page-count count="15"/>
+        <word-count count="8782"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>July 2023</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.2 mode:remove_FC converted:20.07.2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <p content-type="self-citation">
+<mixed-citation publication-type="journal" id="vms31173-cit-0041">
+<string-name>
+<surname>Gouran</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Doosti</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jami</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2023</year>). <article-title>
+<italic toggle="yes">Brucella Abortus</italic> antigen omp25 vaccines: Development and targeting based on <italic toggle="yes">Lactococcus lactis</italic>
+</article-title>. <source>Veterinary Medicine and Science</source>, <volume>9</volume>, <fpage>1908</fpage>&#x2013;<lpage>1922</lpage>. <pub-id pub-id-type="doi">10.1002/vms3.1173</pub-id>
+<pub-id pub-id-type="pmid">37276346</pub-id></mixed-citation>
+</p>
+    </notes>
+  </front>
+  <body>
+    <sec id="vms31173-sec-0050">
+      <label>1</label>
+      <title>INTRODUCTION</title>
+      <p>Brucellosis is an endemic illness spread widely worldwide by domesticated animals infected with <italic toggle="yes">Brucella</italic> spp. (Franc et&#xA0;al., <xref rid="vms31173-bib-0012" ref-type="bibr">2018</xref>). Specifically, <italic toggle="yes">Brucella melitensis</italic> and <italic toggle="yes">Brucella abortus</italic> are the major causes. The most common ways to get brucellosis are eating, breathing or being close to animal bites or sores (Franc et&#xA0;al., <xref rid="vms31173-bib-0012" ref-type="bibr">2018</xref>; Ghajari et&#xA0;al., <xref rid="vms31173-bib-0015" ref-type="bibr">2021</xref>). Like other naturally occurring intracellular infections, <italic toggle="yes">Brucella</italic> can exist outside of eukaryotic cells but needs to infect and proliferate inside living things to thrive (Hosseini et&#xA0;al., <xref rid="vms31173-bib-0016" ref-type="bibr">2022</xref>). Because <italic toggle="yes">Brucella</italic> is so effectively suited to the intracellular environment, it should be referred to as a facultative extracellular intracellular parasite (Pizarro&#x2010;Cerd&#xE1; et&#xA0;al., <xref rid="vms31173-bib-0024" ref-type="bibr">2000</xref>). This bacterium causes feverish illnesses in people called &#x2018;undulant fever&#x2019; and abortions in cattle, goats and sheep, creating a burden for both the economy and the general health problem (Jamil et&#xA0;al., <xref rid="vms31173-bib-0020" ref-type="bibr">2021</xref>). Tolerance to <italic toggle="yes">Brucella</italic> relies on accumulated cell&#x2010;mediated immunity (CMI), just as tolerance to other facultative intracellular bacterial infections (Saxena et&#xA0;al., <xref rid="vms31173-bib-0034" ref-type="bibr">2018</xref>). Most research on the immune reaction to <italic toggle="yes">Brucella</italic> spp. has been done on mice. The protective immunity in this mouse model appears to be controlled by both cellular and humoral effector pathways (Dorneles, Sriranganathan, et&#xA0;al., <xref rid="vms31173-bib-0010" ref-type="bibr">2015</xref>; Dorneles, Teixeira&#x2010;Carvalho, et&#xA0;al., <xref rid="vms31173-bib-0011" ref-type="bibr">2015</xref>).</p>
+      <p>An immunological reaction mediated by CD4+ and CD8+ T lymphocytes is particularly critical to managing the pathogen, according to in vivo evaluation. Gamma interferon&#x2010;producing CD4+ T cells within these lymphocyte subtypes are crucial for the immune system's ability to recover from infection (Reschner et&#xA0;al., <xref rid="vms31173-bib-0031" ref-type="bibr">2008</xref>). Live attenuated variants of <italic toggle="yes">B. abortus</italic>, such as variant RB51 or variant 19, are used in the vaccination vs. brucellosis in livestock and wild ruminants. Although variant 19 effectively triggers a protective immune system response, it harms humans and causes abortion when given to pregnant cattle (Ribeiro et&#xA0;al., <xref rid="vms31173-bib-0032" ref-type="bibr">2002</xref>). Even though variant RB51 is the preferred brucellosis vaccination for cattle is produced from the virulent <italic toggle="yes">B. abortus</italic> 2308 variant and is not, like strain 19, advised for pregnant animals (Dorneles, Sriranganathan, et&#xA0;al., <xref rid="vms31173-bib-0010" ref-type="bibr">2015</xref>; Dorneles, Teixeira&#x2010;Carvalho, et&#xA0;al., <xref rid="vms31173-bib-0011" ref-type="bibr">2015</xref>; Kargar et&#xA0;al., <xref rid="vms31173-bib-0009" ref-type="bibr">2014</xref>). Additionally, as there are presently no human vaccines on the market, a different strategy to immunize humans and animals against brucellosis would be to utilize a food&#x2010;grade oral vaccine expressing a shared protein from <italic toggle="yes">B. melitensis</italic> and <italic toggle="yes">B. abortus</italic> (S&#xE1;ez et&#xA0;al., <xref rid="vms31173-bib-0035" ref-type="bibr">2012</xref>).</p>
+      <p>Alternative vaccination methods utilizing <italic toggle="yes">B. abortus</italic> proteins with known immunogenic characteristics have recently been researched. Live vaccination techniques are refined using isolated proteins generated in either life <italic toggle="yes">Escherichia coli</italic> or recombinant attenuated <italic toggle="yes">B. abortus</italic> isolates. A cell&#x2010;mediated immune response is necessary for an intracellular pathogen vaccination to be successful. Ribosomal protein L7/L12, an antigen of <italic toggle="yes">B. abortus</italic>, induces a cell&#x2010;mediated immune response and provides protective immunity in mice. Live attenuated vaccines may cause solid CMI responses, often highly effective vs. brucellosis. It prevents brucellosis in livestock by employing attenuated isolates of <italic toggle="yes">B. melitensis</italic> Rev1 and <italic toggle="yes">B. abortus</italic> S19 and RB51. These vaccine formulations are far from ideal because they have various drawbacks, such as the fact that they are harmful for human use and might cause miscarriage in pregnant calves. These vaccines are also regarded as too virulent or dangerous for animal use (Rezaei et&#xA0;al., <xref rid="vms31173-bib-0033" ref-type="bibr">2020</xref>). Antigen injection by live lactic acid bacteria (LAB) as food&#x2010;grade, non&#x2010;invasive and non&#x2010;pathogenic vaccines is a promising immunization approach (Beiranvand et&#xA0;al., <xref rid="vms31173-bib-0002" ref-type="bibr">2022</xref>). This strategy might eliminate possible drawbacks of using live <italic toggle="yes">B. abortus</italic> isolates as protein delivery vehicles, such as interference with diagnostic testing, residual pathogenicity and reversion hazard (Heidary et&#xA0;al., <xref rid="vms31173-bib-0017" ref-type="bibr">2022</xref>). It offers a widespread and affordable vaccine administration method. An effective immune system response has been demonstrated following mucosal vaccination using LAB, which has been genetically engineered to generate bacterial and viral proteins (Levit et&#xA0;al., <xref rid="vms31173-bib-0021" ref-type="bibr">2022</xref>).</p>
+      <p>These positive outcomes suggest the viability of the LAB&#x2010;based vaccination strategy. The potential to concurrently produce humoral and cell&#x2010;mediated immune function at mucosal locations and throughout the body is another benefit of mucosal&#x2010;delivered vaccinations (Taghinezhad et&#xA0;al., <xref rid="vms31173-bib-0037" ref-type="bibr">2021</xref>). Non&#x2010;invasive, non&#x2010;pathogenic <italic toggle="yes">Lactococcus lactis</italic> is a potential antigen delivery device for mucosal vaccination inside LAB (Berm&#xFA;dez&#x2010;Humar&#xE1;n et&#xA0;al., <xref rid="vms31173-bib-0003" ref-type="bibr">2011</xref>; Piri&#x2010;Gharaghie, Beiranvand, et&#xA0;al., <xref rid="vms31173-bib-0025" ref-type="bibr">2022</xref>; Piri&#x2010;Gharaghie, Doosti, et&#xA0;al., <xref rid="vms31173-bib-0027" ref-type="bibr">2022</xref>). The digestive tract will not get colonized by <italic toggle="yes">L. lactis</italic>, even though it may survive transit through the gastrointestinal system (Daniel et&#xA0;al., <xref rid="vms31173-bib-0006" ref-type="bibr">2013</xref>). <italic toggle="yes">L. lactis</italic> expression systems have been developed during the past 10 years due to gene engineering. Recombinant isolates of <italic toggle="yes">L. lactis</italic> have been demonstrated to generate specific immunological reactions in mice (Plavec et&#xA0;al., <xref rid="vms31173-bib-0026" ref-type="bibr">2021</xref>). Viral, bacterial and parasite antigens have been produced in <italic toggle="yes">L. lactis</italic>. Additionally, IL&#x2010;12 (IL&#x2010;12, a cytokine aid in fighting against several bacterial, viral and parasite infections) has been made using <italic toggle="yes">L. lactis</italic> (Zeinali et&#xA0;al., <xref rid="vms31173-bib-0040" ref-type="bibr">2022</xref>). Additionally, the treatment of <italic toggle="yes">L. lactis</italic> isolates secreting IL&#x2010;12 and <italic toggle="yes">L. lactis</italic> isolates displaying cell wall&#x2013;anchored HPV&#x2010;16 E7 proteins significantly improved the immune reaction following co&#x2010;administration (Berm&#xFA;dez&#x2010;Humar&#xE1;n et&#xA0;al., <xref rid="vms31173-bib-0004" ref-type="bibr">2003</xref>).</p>
+      <p>The discovery of immunogenic proteins that may elicit a cell&#x2010;mediated immune response, which is necessary to fight the pathogen's intracellular location, has been the foundation of current techniques for developing novel vaccines vs. <italic toggle="yes">B. abortus</italic> (Piri&#x2010;Gharaghie, Beiranvand, et&#xA0;al., <xref rid="vms31173-bib-0025" ref-type="bibr">2022</xref>; Piri&#x2010;Gharaghie, Doosti, et&#xA0;al., <xref rid="vms31173-bib-0027" ref-type="bibr">2022</xref>). The omp25, the antigen of <italic toggle="yes">B. abortus</italic>, can boost the immune defence (Li et&#xA0;al., <xref rid="vms31173-bib-0022" ref-type="bibr">2022</xref>). Mice that received immunization with pure omp25 showed exceptional protection against <italic toggle="yes">B. abortus</italic> infection (Zhang et&#xA0;al., <xref rid="vms31173-bib-0038" ref-type="bibr">2022</xref>). This study examines the possibility of using <italic toggle="yes">L. lactis</italic> to treat mice with <italic toggle="yes">B. abortus</italic> omp25 as a vaccine.</p>
+    </sec>
+    <sec id="vms31173-sec-0060">
+      <label>2</label>
+      <title>MATERIALS AND METHODS</title>
+      <sec id="vms31173-sec-0070">
+        <label>2.1</label>
+        <title>Bioinformatics analyses: screening of vaccine candidate proteins</title>
+        <p>In the identification of a possible vaccination candidate for this investigation, 35 genome sequences of <italic toggle="yes">B. abortus</italic> strains were found using the Vaxign website (<ext-link xlink:href="http://www.violinet.org/vaxign/" ext-link-type="uri">http://www.violinet.org/vaxign/</ext-link>). Candidates for vaccines were selected from the 10 gene&#x2010;coding proteins research participants. The requirements were:
+<list list-type="bullet" id="vms31173-list-0002"><list-item><p>A threshold of one transmembrane helix (&#x2264;1).</p></list-item><list-item><p>A possibility of adhesion higher than 0.51.</p></list-item><list-item><p>A lack of similarity to human or mouse proteins.</p></list-item></list>
+</p>
+        <p>The vaccine candidate components must not interact with human or mouse biomolecules to reduce the likelihood of a host cell interacting with the vaccination. The proteins were examined for this purpose using the host protein <italic toggle="yes">Homo sapiens</italic>/mice and the BLASTp web service on the NCBI website. The proteins from the <italic toggle="yes">B. abortus</italic> genus will be utilized for further investigation if the BLASTp web service confirms the protein specificity. The existence of various proteins in the <italic toggle="yes">B. abortus</italic> proteome was examined using the UniProt database (<ext-link xlink:href="http://www.ncbi.nlm.nih.gov/protein" ext-link-type="uri">http://www.ncbi.nlm.nih.gov/protein</ext-link>), and the NCBI saved the sequence of amino acids in FASTA format for subsequent research. To establish the exact location of proteins in the <italic toggle="yes">B. abortus</italic> bacteria, the CELLO program (<ext-link xlink:href="http://cello.life.nctu.edu.tw/" ext-link-type="uri">http://cello.life.nctu.edu.tw/</ext-link>) has been used. It can identify the location of molecules outside the cell with a Localization Reliability &#x2265;1.5 on the outer or inner membrane and determine if the protein is cytoplasmic or periplasmic. The VaxiJen software (<ext-link xlink:href="http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html" ext-link-type="uri">http://www.ddg&#x2010;pharmfac.net/vaxijen/VaxiJen/VaxiJen.html</ext-link>) was used to calculate the antigenicity of the selected proteins, using a cut&#x2010;off of 0.6. The physicochemical characteristics of the <italic toggle="yes">B. abortus</italic> outer membrane proteins (OMPs) were examined using a bioinformatics method. All potential dominant B&#x2010;cell and T&#x2010;cell epitopes were then predicted. Optimum Antigen Design Tool, a piece of bioinformatics software, was used to anticipate the B&#x2010;cell epitopes (GenScript, China). The secondary structure, surface availability, solubility in water, flexibility and antigenic index of B&#x2010;cell epitopes were anticipated. The A and E subregions of the mouse MHC&#x2010;II genes were analysed and predicted using the Immune Epitope Database Analysis Resource (IEDB) (<ext-link xlink:href="https://tools.iedb.org/mhci/" ext-link-type="uri">https://tools.iedb.org/mhci/</ext-link>) when determining T&#x2010;cell epitopes. As a potential vaccination candidate, the proteins with more than five B&#x2010;cell and five T&#x2010;cell epitopes were screened (Piri&#x2010;Gharaghie, Doosti, et&#xA0;al., <xref rid="vms31173-bib-0028" ref-type="bibr">2023</xref>).</p>
+      </sec>
+      <sec id="vms31173-sec-0080">
+        <label>2.2</label>
+        <title>Animals</title>
+        <p>Female BALB/c mice (6&#x2013;8&#x2010;week old) were purchased from the Biotechnology Research Animal Laboratory Center. Following the guidelines of the Ethics Committee, mice were maintained in specified pathogen&#x2010;free environments. All animal protocols were carried out following the regulations established by the Institutional Animal Care and Use Committee.</p>
+      </sec>
+      <sec id="vms31173-sec-0090">
+        <label>2.3</label>
+        <title>Positive control, bacterial strains and growth conditions</title>
+        <p>The <italic toggle="yes">E. coli TOP10F</italic> and <italic toggle="yes">L. lactis IBRC&#x2010;M 11051</italic> isolates were purchased. <italic toggle="yes">L. lactis</italic> isolates were cultivated in M17 medium (Ibrsco, Iran) at 30&#xB0;C and in anaerobic condition with a 1% glucose supplement. <italic toggle="yes">E. coli TOP10F</italic> isolates were cultivated at 37&#xB0;C in Luria&#x2010;Bertani media. <italic toggle="yes">Brucella</italic> isolates were cultivated for 72&#xA0;h at 37&#xB0;C in tryptone soy broth made by Difco Laboratories in Detroit, Michigan, USA. Biosecurity level 3 equipment was used for all live <italic toggle="yes">Brucella</italic> investigations. Brucellosis vaccine IRIBA (IRIBA Vac) was prepared as a positive control. This vaccine contains the live mass of the IRBA strain of <italic toggle="yes">B. abortus</italic> bacteria (Piri&#x2010;Gharaghie, Ghajari, et&#xA0;al., <xref rid="vms31173-bib-0029" ref-type="bibr">2023</xref>).</p>
+      </sec>
+      <sec id="vms31173-sec-0100">
+        <label>2.4</label>
+        <title>Recombinant plasmid construction</title>
+        <p>Reverse vaccinology analysis was performed to identify vaccine antigen candidates, and <italic toggle="yes">Brucella</italic> omp25 protein (Accession number AFJ79953.1) was selected as a vaccine candidate. For the expression of the omp25 <italic toggle="yes">Brucella</italic> protein in <italic toggle="yes">L. lactis</italic>, the gene for omp25, along with its promoter, was synthesized and inserted into the pNZ8148 lactococcal expression vector by GENEray company (GENEray, China). A signal peptide sequence (31 amino acids) entitled Usp45 (accession number ABY84357) was inserted at the start of the target gene (omp25) sequence to provide a secretory characteristic. To transmit plasmid constructs into <italic toggle="yes">L. lactis</italic>, <italic toggle="yes">E. coli</italic> was initially used for transformation. The transformed strains were isolated using the matrix approach and re&#x2010;cultured at 37&#xB0;C. In this study, an endonuclease&#x2010;free plasmid extraction kit was subsequently used to purify the plasmids from the <italic toggle="yes">E. coli</italic> bacterium. The plasmid was introduced into <italic toggle="yes">L. lactis</italic> by an electro&#x2010;transformation procedure (four times optimal pulse with capacity: 25 microfarads, resistance: 200 ohms, voltage: 2500 volts, time: 4&#x2013;5&#xA0;ms). The following antibiotic concentrations were used to select plasmids: 100&#xA0;&#x3BC;g/mL of ampicillin for <italic toggle="yes">E. coli</italic> and 5&#xA0;&#x3BC;g/mL of chloramphenicol for <italic toggle="yes">L. lactis</italic>.</p>
+      </sec>
+      <sec id="vms31173-sec-0110">
+        <label>2.5</label>
+        <title>Confirmation of the cloning of omp25 into the pNZ8148 vector</title>
+        <p>The PCR reaction was conducted to monitor omp25 using specific primers (Table&#xA0;<xref rid="vms31173-tbl-0001" ref-type="table">1</xref>). A 20&#x2010;mL PCR reaction contains 2&#xA0;mL of &#xD7;10 PCR buffer (Yekta Tajhiz Azma, Iran), 2&#xA0;mM MgCl<sub>2</sub>, 200&#xA0;&#x3BC;M dNTPs (Yekta Tajhiz Azma, Iran), 10&#xA0;pmol of each primer (CinnaGen, Iran), 100&#xA0;ng of plasmid DNA and 1 unit of Taq DNA polymerase enzyme (Yekta Tajhiz Azma, Iran). The PCR temperature protocol consists of an initial annealing step at 95&#xB0;C for 5&#xA0;min, followed by 30 repeated stages at 94&#xB0;C for 1&#xA0;min, 52&#xB0;C for 1&#xA0;min and 72&#xB0;C for 1&#xA0;min. Finally, the final elongation was performed at 72&#xB0;C for 5&#xA0;min. The PCR product was electrophoresed on a 1% agarose gel containing ethidium bromide, and the bands were observed and recorded with a UVITech (England) gel imaging device. The recombinant vector was subjected to enzyme digestion and sequencing by GENEray company, employing the restriction enzymes KpnI and XbaI.</p>
+        <table-wrap position="float" id="vms31173-tbl-0001" content-type="TABLE">
+          <label>TABLE 1</label>
+          <caption>
+            <p>Primers used in this study.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="1" colspan="1">Gene</th>
+                <th align="left" rowspan="1" colspan="1">Sequence (3&#x2032;&#xA0;&#x2192;&#xA0;5&#x2032;)</th>
+                <th align="left" rowspan="1" colspan="1">TM (&#xB0;C)</th>
+                <th align="left" rowspan="1" colspan="1">Size (bp)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Omp25</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;ATGACCTTTAAAAATTTACTTGGTG&#x2010;3&#x2032;</p>
+<p>R: 5&#x2032;&#x2010;TTAAAATTTATAAGCGACACCAAG&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">52</td>
+                <td align="left" rowspan="1" colspan="1">693</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">GAPDH</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;TGTGTCCGTCGTGGATCTGA&#x2010;3&#x2032;</p>
+<p>R: 5&#x2032;&#x2010;CCTGCTTCACCACCTTCTTGA&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">60</td>
+                <td align="left" rowspan="1" colspan="1">78</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">IFN&#x2010;&#x3B3;</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;AGCGGCTGACTGAACTCAGATTGTAG&#x2010;3&#x2032;</p>
+<p>F: 5&#x2032;&#x2010;GTCACAGTTTTCAGCTGTATAGGG&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">60</td>
+                <td align="left" rowspan="1" colspan="1">199</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">IL&#x2010;10</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;CTTGGGACTGATGCTGGTGAC&#x2010;3&#x2032;</p>
+<p>R: 5&#x2032;&#x2010;TCTTTTCTCATTTCCACGATTTC&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">60</td>
+                <td align="left" rowspan="1" colspan="1">162</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">IL&#x2010;4</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;CGAAGAACACCACAGAGAGTGAGCT&#x2010;3&#x2032;</p>
+<p>R: 5&#x2032;&#x2010;GACTCATTCATGGTGCAGCTTATCG&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">60</td>
+                <td align="left" rowspan="1" colspan="1">180</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">TNF&#x2010;&#x3B1;</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">
+<p>F: 5&#x2032;&#x2010;TCCTTGGCAAAACTGCACCT&#x2010;3&#x2032;</p>
+<p>R: 5&#x2032;&#x2010;TCCTTGGCAAAACTGCACCT&#x2010;3&#x2032;</p>
+</td>
+                <td align="left" rowspan="1" colspan="1">60</td>
+                <td align="left" rowspan="1" colspan="1">183</td>
+              </tr>
+            </tbody>
+          </table>
+          <permissions>
+            <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+          </permissions>
+        </table-wrap>
+      </sec>
+      <sec id="vms31173-sec-0120">
+        <label>2.6</label>
+        <title>Expression and immunodetection of omp25</title>
+        <p>The recombinant <italic toggle="yes">L. lactis</italic> organism carrying pNZ8148:omp25 was used to culture fresh medium overnight at a dilution of 1/100 to induce the nisin promoter. The colonies were cultured for 1&#xA0;h at an optical density of 600&#xA0;nm (OD600) of 0.6 (&#x223C;0.6) before cell fractionation and protein identification. Nisin&#x2010;induced <italic toggle="yes">L. lactis</italic> pNZ8148:omp25 was obtained by centrifuging at 12,000&#xA0;&#xD7;&#xA0;<italic toggle="yes">g</italic> for 10&#xA0;min at 4&#xB0;C, concentrating the bacterial protein supernatants by 50 times relative to their original volume, and then analysing it using 12% sodium dodecyl sulphate&#x2013;polyacrylamide gel electrophoresis before electrotransferred it onto the nitrocellulose membrane. The membranes were treated with a mouse IgG monoclonal antibody anti&#x2010;omp25 (Rozhan AZMA, Iran) diluted 1:500 on phosphate&#x2010;buffered saline (PBS) for 60&#xA0;min at 37&#xB0;C, after blocking with TBST (tris&#x2010;buffered saline, 0.05% Tween&#x2010;20) solution containing 5% skimmed milk overnight at 4&#xB0;C. The samples were washed, followed by 60&#x2010;min incubation with a 1:2000 dilution of HRP&#x2010;conjugated rabbit anti&#x2010;mouse IgG from Rozhan AZMA, Inc., Iran. Using diaminobenzidine (Merck), as recommended by the manufacturer, binding was visualized.</p>
+      </sec>
+      <sec id="vms31173-sec-0130">
+        <label>2.7</label>
+        <title>Grouping of animals and schedule for oral immunization</title>
+        <p>In this investigation, 120 female BALB/c mice aged 6&#x2013;8 weeks and weighing 15&#x2013;20&#xA0;g were employed. Animals have injected pNZ8148&#x2013;omp25 through oral immunization (100&#xA0;&#x3BC;g of pDNA). A total of 80 mice were split into 5 groups of 20, whereas an additional 20 mice served as negative controls (<italic toggle="yes">n</italic>&#xA0;=&#xA0;20) and received PBS. The quantity of mice used in each group is shown in Table&#xA0;<xref rid="vms31173-tbl-0002" ref-type="table">2</xref>. The control and recombinant strains of <italic toggle="yes">L. lactis</italic> pNZ8148:omp25 were cultivated as described earlier and stimulated for 1&#xA0;h with nisin. An oral pipette was used to administer 10<sup>8</sup>
+<italic toggle="yes">L. lactis</italic> pNZ8148:omp25 colony forming unit (CFU) three times to a group of 20 mice. The treatment was given over 3 days (days 0&#x2013;2, 14&#x2013;16 and 28&#x2013;30), separated by 15 days. The animals in the control groups received 10<sup>8</sup>
+<italic toggle="yes">L. lactis</italic> or PBS vaccinations. Another group of mice received a subcutaneous injection vaccination with 2&#xA0;&#xD7;&#xA0;10<sup>8</sup>&#xA0;CFU of the IRIBA vaccine (Razi, Iran). PBS of 200&#xA0;&#x3BC;L was vacuum&#x2010;cleaned at zero time as a positive control.</p>
+        <table-wrap position="float" id="vms31173-tbl-0002" content-type="TABLE">
+          <label>TABLE 2</label>
+          <caption>
+            <p>The number of mice used in this experiment.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="1" colspan="1">Group number</th>
+                <th align="left" rowspan="1" colspan="1">Injection composition</th>
+                <th align="left" rowspan="1" colspan="1">Number of mice</th>
+                <th align="left" rowspan="1" colspan="1">Average weight of mice</th>
+                <th align="left" rowspan="1" colspan="1">Type of injection</th>
+                <th align="left" rowspan="1" colspan="1">Time of injection</th>
+                <th align="left" rowspan="1" colspan="1">Injection day</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">1</td>
+                <td align="left" rowspan="1" colspan="1">pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">Lactococcus lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">19.7&#xA0;&#xB1;&#xA0;0.5</td>
+                <td align="left" rowspan="1" colspan="1">Oral</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">2</td>
+                <td align="left" rowspan="1" colspan="1">pNZ8148&#x2013;<italic toggle="yes">L. lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">18.2&#xA0;&#xB1;&#xA0;0.7</td>
+                <td align="left" rowspan="1" colspan="1">Oral</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">3</td>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">L. lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">18.2&#xA0;&#xB1;&#xA0;0.7</td>
+                <td align="left" rowspan="1" colspan="1">Oral</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">4</td>
+                <td align="left" rowspan="1" colspan="1">IRIBA Vac</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">17.9&#xA0;&#xB1;&#xA0;1.02</td>
+                <td align="left" rowspan="1" colspan="1">Subcutaneous injection</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">1, 14, 28</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">5</td>
+                <td align="left" rowspan="1" colspan="1">pNZ8148</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">18.1&#xA0;&#xB1;&#xA0;1.22</td>
+                <td align="left" rowspan="1" colspan="1">Oral</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">6</td>
+                <td align="left" rowspan="1" colspan="1">PBS</td>
+                <td align="left" rowspan="1" colspan="1">20</td>
+                <td align="left" rowspan="1" colspan="1">19.4&#xA0;&#xB1;&#xA0;0.68</td>
+                <td align="left" rowspan="1" colspan="1">Oral</td>
+                <td align="left" rowspan="1" colspan="1">Every 8&#xA0;h for 3 days</td>
+                <td align="left" rowspan="1" colspan="1">0&#x2013;2, 14&#x2013;16, 28&#x2013;30</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="vms31173-tbl2-note-0001">
+              <p>Abbreviations: omp25, outer membrane protein 25; PBS, phosphate&#x2010;buffered saline.</p>
+            </fn>
+          </table-wrap-foot>
+          <permissions>
+            <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+          </permissions>
+        </table-wrap>
+      </sec>
+      <sec id="vms31173-sec-0140">
+        <label>2.8</label>
+        <title>ELISA analysis</title>
+        <p>Two days before each inoculation and 15 days after the final vaccination, mice were bled, and serum samples were collected (five mice per group). The substance was gathered and kept at &#x2212;70&#xB0;C. By using an indirect ELISA following a predetermined procedure, the presence of sera G1 (IgG1) and secretory IgA (sIgA) from nasal lavages with specificity to omp25 was identified. Purified romp25 was collected, diluted to 2&#xA0;&#x3BC;g/mL in carbonate&#x2013;bicarbonate buffer (pH 9.6) and utilized to coat the wells of a polystyrene plate with crude <italic toggle="yes">Brucella</italic> proteins, an extract acquired from organisms treated with a hyperosmotic salt solution and sonication, at a concentration of 10&#xA0;&#x3BC;g/mL within the same buffer (Nunc&#x2010;Immuno plate with MaxiSorp surface). Isotype&#x2010;specific goat anti&#x2010;mouse horseradish omp25 conjugates were administered at a dilution of 1:1000. The average specific OD450 for 10 sera from non&#x2010;immunized animals evaluated at a concentration of 1:50 was multiplied by the standard deviation to get the assay's cut&#x2010;off ratio. The data were normalized and represented as the endpoint titre OD of antigen&#x2010;specific sIgA concerning 1&#xA0;&#x3BC;g of total IgA in the sample to account for differences in the effectiveness of recovering secretory antibodies among individuals. Total IgG1 values are shown as the mean OD450 at a plasma dilution of 1:100.</p>
+      </sec>
+      <sec id="vms31173-sec-0150">
+        <label>2.9</label>
+        <title>Detection of cellular immune response</title>
+        <p>
+<list list-type="order" id="vms31173-list-0003"><list-item><p>
+<bold>ELISA assay</bold>: The levels of IFN&#x2010;&#x3B3;, TNF&#x2010;&#x3B1;, IL&#x2010;10 and IL&#x2010;4 were measured to evaluate the cellular immune response caused by the oral vaccination. According to the owner's manual, the amounts of functional and proinflammatory cytokines were determined in the serum sample using karmania pars gene ELISA kits (KPG, Iran). The coating antibody was coated overnight at 4&#xB0;C onto a 96&#x2010;well plate (0.2&#xA0;&#x3BC;g/well). PBS with 0.5% BSA and 0.1% Tween 20 was then used to block the plate. Then, 100&#xA0;&#x3BC;L of the sample was distributed into two replicated wells, and 50&#xA0;&#x3BC;L of 1&#xA0;&#x3BC;g/mL detecting antibody was added. The plate was sealed and shaken for 2&#xA0;h at room temperature (700&#xA0;rpm). Following washes with PBS containing 0.1% Tween 20, 100&#xA0;&#x3BC;L of streptavidin&#x2013;HRP (1:1024) was added and incubated for 30&#xA0;min on a shaker at room temperature (700&#xA0;rpm).</p></list-item><list-item><p>
+<bold>Real&#x2010;time PCR assay</bold>: The spleen was extracted under aseptic circumstances and stored in liquid nitrogen at &#x2212;198&#xB0;C after the mice were anaesthetized. Next, RNA extraction and cDNA synthesis from spleen tissue was performed according to the YTA kits&#x2019; instructions (Yekta Tajhiz, Iran). Real&#x2010;time PCR was performed with the YTA SYBR Green master mix (Yekta Tajhiz, Iran), and the GAPDH gene was used as an internal control. Fifteen microliters of reaction volume consisting of 0.5&#xA0;&#x3BC;L cDNA, 0.5&#xA0;&#x3BC;L forward primer, 0.5&#xA0;&#x3BC;L rivers primer, 10&#xA0;&#x3BC;L master mix and 3.5&#xA0;&#x3BC;L of double sterile distillation water were used for real&#x2010;time PCR. The temperature cycle program also included initial denaturation at 95&#xB0;C for 10&#xA0;min, followed by 40 cycles at 95&#xB0;C for 20&#xA0;s and 60&#xB0;C for 40&#xA0;s. The relative gene expression of IFN&#x2010;&#x3B3;, TNF&#x2010;&#x3B1;, IL&#x2010;10 and IL&#x2010;4 were calculated by using the 2&#xA0;&#x2212;&#xA0;&#x394;&#x394;<italic toggle="yes">Ct</italic> method and normalized to GAPDH levels in each sample.</p></list-item></list>
+</p>
+      </sec>
+      <sec id="vms31173-sec-0160">
+        <label>2.10</label>
+        <title>Challenge experiments</title>
+        <p>The protection experiments were carried out following Piri&#x2010;Gharaghie et&#xA0;al. A total of 10 mice from each group were exposed to 10<sup>4</sup>&#xA0;CFU of <italic toggle="yes">B. abortus</italic> strain 2308 intraperitoneally 2 weeks after the previous dose. The mice were tracked for 7 days, and each group's body weight, clinical score and survival rate were recorded every day. Each mouse's overall clinical sign was rated on a range of 0 to &#x2212;5 on a sliding scale. Individual clinical ratings ranged from 0 (normal, active, healthy), &#x2212;1 (slightly sick, slightly ruffled fur, otherwise normal), &#x2212;2 (ill, ruffled fur, sluggish movement, hunching), &#x2212;3 (extremely sick, ruffled hair, prolonged movement, stooped, eyes shut), &#x2212;4 (moribund) and &#x2212;5 (dead). The infected mice were slaughtered according to ARRIVE recommendations (PLOS Bio 8(6), e1000412, 2010) 2 weeks later, and the spleens were removed under aseptic circumstances, homogenized and plated in Blood Agar (BIO3P, Iran) to count the number of <italic toggle="yes">B. abortus</italic> CFU per organ. The average log10&#xA0;CFU for the treatment group was subtracted from the median log10&#xA0;CFU for the standard matching control to get log10 units of immunity.</p>
+      </sec>
+      <sec id="vms31173-sec-0170">
+        <label>2.11</label>
+        <title>Histopathological examination</title>
+        <p>Livers were extracted aseptically and fixed in 10% formalin. After embedding in paraffin, slices were examined histopathologically under a microscope after staining with haematoxylin and eosin. The proportion of the lesion area among the whole liver area was used to assess liver damage using an ImagePro macro.</p>
+      </sec>
+      <sec id="vms31173-sec-0180">
+        <label>2.12</label>
+        <title>Statistical analyses</title>
+        <p>GraphPad Prism 5.0 was used to examine the data and perform statistical tests. A one&#x2010;way analysis of variance was used to compare means, followed by a Tukey&#x2013;Kramer post hoc test with a 95% confidence interval. A Chi&#x2010;square test with Yates&#x2019; correction was used to compare the survival rates between immunized mice and the control group. Differences were considered significant at <italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05 and <italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.01.</p>
+      </sec>
+    </sec>
+    <sec id="vms31173-sec-0190">
+      <label>3</label>
+      <title>RESULTS</title>
+      <sec id="vms31173-sec-0200">
+        <label>3.1</label>
+        <title>A potential vaccine candidate has been discovered</title>
+        <p>The Vaxign database identified 44 proteins with top qualities. Then, 18 hypothetically pathogenic proteins were selected. The potential vaccine candidates were reduced to 6 after protein antigenicity was evaluated. After the UniProt dataset confirmed the existence of six proteins in <italic toggle="yes">B. abortus</italic>, the access number of these proteins was chosen on the NCBI website. They were categorized as extracellular, outer membrane, periplasmic, inner membrane and cytoplasmic proteins based on the output of the CELLO web application. Most proteins selected for <italic toggle="yes">B. abortus</italic> were confirmed for their specificity by BLASTp protein results, lowering the possibility of host cell interaction with the DNA vaccine. The results of the preliminary screening of six <italic toggle="yes">B. abortus</italic> antigens are shown in Table&#xA0;<xref rid="vms31173-tbl-0003" ref-type="table">3</xref>. Based on the initial screening results, the omp25 protein was identified for immunogenicity because it had the maximum solubility and flexibility and antigenic values of 0.75. Based on the screening results, the omp25 protein was identified as immunogenic because it has maximum solubility, which helps the protein reactivity with immune cells. Moreover, omp25 is more flexible than other proteins. This leads to immune cells recognizing different epitopes of this protein in different spatial structures. On the other hand, omp25 had higher antigen values (0.75) than other proteins, which indicates that it has a high potential to activate immune cells. The prospective vaccine candidate omp25 showed B&#x2010;cell linear epitopes with a value of 0.5 that are disseminated with the proteins, according to IEDB research. Omp25 had five B&#x2010;cell epitopes and five T&#x2010;cell epitopes. The quantity of surface&#x2010;exposed conformational B&#x2010;cell epitopes is shown in Figure&#xA0;<xref rid="vms31173-fig-0001" ref-type="fig">1</xref>.</p>
+        <table-wrap position="float" id="vms31173-tbl-0003" content-type="TABLE">
+          <label>TABLE 3</label>
+          <caption>
+            <p>Screening of 6 <italic toggle="yes">Brucella abortus</italic> proteins based on reverse vaccinology.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="char" char="." span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1"/>
+                <th rowspan="2" align="left" colspan="1">Accession number</th>
+                <th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">CELLO analysis</th>
+                <th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Protein&#x2010;Sol</th>
+                <th style="border-bottom:solid 1px #000000" align="left" rowspan="1" colspan="1">IEDB</th>
+                <th align="left" rowspan="1" colspan="1"/>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="1" colspan="1">Name</th>
+                <th align="left" rowspan="1" colspan="1">Localization</th>
+                <th align="left" rowspan="1" colspan="1">Reliability</th>
+                <th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Hydrophilicity</th>
+                <th align="left" rowspan="1" colspan="1">Hydrophilicity</th>
+                <th align="left" rowspan="1" colspan="1">Flexibility</th>
+                <th align="left" rowspan="1" colspan="1">VaxiJen</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">Omp25</td>
+                <td rowspan="2" align="left" colspan="1">AFJ79953.1</td>
+                <td align="left" rowspan="1" colspan="1">Extracellular</td>
+                <td align="left" rowspan="1" colspan="1">3.93<sup>a</sup>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">9.60</td>
+                <td rowspan="2" align="left" colspan="1">0.79</td>
+                <td rowspan="2" align="left" colspan="1">0.85</td>
+                <td rowspan="2" align="left" colspan="1">0.75</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Cytoplasmic</td>
+                <td align="left" rowspan="1" colspan="1">1.28<sup>a</sup>
+</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.522</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">Omp22</td>
+                <td rowspan="2" align="left" colspan="1">AAS84601.1</td>
+                <td align="left" rowspan="1" colspan="1">Extracellular</td>
+                <td align="left" rowspan="1" colspan="1">1.97<sup>a</sup>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">9.48</td>
+                <td rowspan="2" align="left" colspan="1">0.67</td>
+                <td rowspan="2" align="left" colspan="1">0.77</td>
+                <td rowspan="2" align="left" colspan="1">0.74</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Outer membrane</td>
+                <td align="left" rowspan="1" colspan="1">1.53<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.598</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">AlkL</td>
+                <td rowspan="2" align="left" colspan="1">SUW22850.1</td>
+                <td align="left" rowspan="1" colspan="1">Extracellular</td>
+                <td align="left" rowspan="1" colspan="1">2.53<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">6.41</td>
+                <td rowspan="2" align="left" colspan="1">0.65</td>
+                <td rowspan="2" align="left" colspan="1">0.68</td>
+                <td rowspan="2" align="left" colspan="1">0.69</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Outer membrane</td>
+                <td align="left" rowspan="1" colspan="1">0.84</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.511</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">Omp19</td>
+                <td rowspan="2" align="left" colspan="1">CDL77301.1</td>
+                <td align="left" rowspan="1" colspan="1">Outer membrane</td>
+                <td align="left" rowspan="1" colspan="1">2.71<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">9.93</td>
+                <td rowspan="2" align="left" colspan="1">0.48</td>
+                <td rowspan="2" align="left" colspan="1">0.61</td>
+                <td rowspan="2" align="left" colspan="1">0.65</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Extracellular</td>
+                <td align="left" rowspan="1" colspan="1">2.20<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.644</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">serC</td>
+                <td rowspan="2" align="left" colspan="1">SUW22956.1</td>
+                <td align="left" rowspan="1" colspan="1">Outer membrane</td>
+                <td align="left" rowspan="1" colspan="1">4.79<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">5.94</td>
+                <td rowspan="2" align="left" colspan="1">0.48</td>
+                <td rowspan="2" align="left" colspan="1">0.58</td>
+                <td rowspan="2" align="left" colspan="1">0.35</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Periplasmic</td>
+                <td align="left" rowspan="1" colspan="1">0.09</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.427</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="left" colspan="1">SurA</td>
+                <td rowspan="2" align="left" colspan="1">SUW22048.1</td>
+                <td align="left" rowspan="1" colspan="1">Periplasmic</td>
+                <td align="left" rowspan="1" colspan="1">2.68<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">p<italic toggle="yes">I</italic>
+</td>
+                <td align="char" rowspan="1" colspan="1">10.35</td>
+                <td rowspan="2" align="left" colspan="1">0.45</td>
+                <td rowspan="2" align="left" colspan="1">0.57</td>
+                <td rowspan="2" align="left" colspan="1">0.47</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Extracellular</td>
+                <td align="left" rowspan="1" colspan="1">1.44<xref rid="vms31173-tbl3-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td>
+                <td align="left" rowspan="1" colspan="1">Solubility</td>
+                <td align="char" rowspan="1" colspan="1">0.696</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="vms31173-tbl3-note-0001">
+              <p>Abbreviation: IEDB, Immune Epitope Database.</p>
+            </fn>
+            <fn id="vms31173-tbl3-note-0002">
+              <label>
+<sup>a</sup>
+</label>
+              <p>Significance level &gt;1.2.</p>
+            </fn>
+          </table-wrap-foot>
+          <permissions>
+            <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+          </permissions>
+        </table-wrap>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0001">
+          <label>FIGURE 1</label>
+          <caption>
+            <p>(A) The solubility of the screened proteins according to the results of the Protein&#x2010;Sol online site; (B) the number of epitopes of each of the screened proteins according to the results of the Immune Epitope Database (IEDB) site (https://tools.iedb.org/mhci/).</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g002" position="anchor" id="jats-graphic-3"/>
+        </fig>
+      </sec>
+      <sec id="vms31173-sec-0210">
+        <label>3.2</label>
+        <title>Generating and identifying recombinant pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic>
+</title>
+        <p>The DNA vaccine construct was constructed by inserting the omp25 gene into the expression vector pNZ8148. The Genetic code of the recombinant plasmid served as a measure of the cloning effectiveness. Additionally, DNA analysis showed that the recombinant plasmid's virulence gene sequence was 100% identical to that of the <italic toggle="yes">B. abortus</italic> bacterium. The produced plasmid was digested using KpnI and XbaI. By the electrophoretic isolation of the digestion fragments at 786&#xA0;bp, the omp25 gene, the successful production of the recombinant plasmid was confirmed (Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2A</xref>). The results of the sequencing of recombinant plasmids were examined using Blast. Blast findings revealed that recombinant plasmids with an <italic toggle="yes">E</italic>&#x2010;value of 8e&#xA0;&#x2212;&#xA0;94, query cover 100% and Per. Ident was 99.86 similar to the target bacterium.</p>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0002">
+          <label>FIGURE 2</label>
+          <caption>
+            <p>(A) Lane 1: double enzyme digestion shows the bp786 band of the gene along with the signal peptide (693&#xA0;+&#xA0;93&#xA0;bp), lane 2: recombinant plasmid before enzymatic digestion; (B) line 1: expression of omp25 gene transcription at the mRNA level and the formation of a 786&#xA0;bp band in <italic toggle="yes">Lactococcus lactis</italic> transformed with a recombinant vector, line 2: <italic toggle="yes">L. lactis</italic> transformed with a vector lacking the target gene; (C) verify the presence of recombinant protein in transformed <italic toggle="yes">L. lactis</italic> bacteria using a Western blot. Line 1: <italic toggle="yes">L. lactis</italic> bacteria transformed with a vector lacking the target gene, M: marker, line 2: <italic toggle="yes">L. lactis</italic> bacteria transformed with the recombinant vector pNZ8148&#x2013;Usp45&#x2013;omp25.</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g004" position="anchor" id="jats-graphic-5"/>
+        </fig>
+      </sec>
+      <sec id="vms31173-sec-0220">
+        <label>3.3</label>
+        <title>Expression of recombinant pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> in mRNA and secretion of omp25 in <italic toggle="yes">L. lactis</italic>
+</title>
+        <p>The relative amounts of mRNA expression of the omp25 Gene delivery were determined using reverse transcriptase&#x2010;PCR. The 786&#xA0;bp band on the agarose gel shows that the transcription of the gene has taken place (Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2B</xref>). The Western blot analysis by Rojan Azma also revealed that the specific proteins were generated at the protein level. Antigen expression at the protein level revealed that the target group generated the 25&#xA0;kDa&#x2010;sized omp25 protein, but there was no protein expression in the control group (Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2C</xref>). The electrophoresed <italic toggle="yes">L. lactis</italic> protein samples from our recombinant bacterium pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and the bacterium transformed with an empty vector (pNZ8148) are shown in Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2C</xref>. The recombinant strain secreted a characteristic protein band that matches the anticipated size of the omp25 (25&#xA0;kDa) upon Coomassie blue gel staining in the cell&#x2010;free media (indicated with an arrow in Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2C</xref>, lane 2). In isolates from the cell&#x2010;free supernatants of the recombinant bacterium pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic>, Western blot analysis showed distinct single bands that were the predicted size for omp25. Cultures from <italic toggle="yes">L. lactis</italic> transformed with the empty vector pNZ8148, which lacks the romp25&#x2010;coding gene, do not contain this specific protein band (Figure&#xA0;<xref rid="vms31173-fig-0002" ref-type="fig">2C</xref>, lane 1). This outcome indicates that omp25 secretion can be achieved in <italic toggle="yes">L. lactis</italic> effectively.</p>
+      </sec>
+      <sec id="vms31173-sec-0230">
+        <label>3.4</label>
+        <title>Immune responses induced by oral immunization</title>
+        <p>A prospective vaccination method involved employing non&#x2010;pathogenic LAB (<italic toggle="yes">L. lactis</italic>) as target delivery vehicles to induce humoral and cell&#x2010;mediated immune responses throughout the body, including mucosal sites. Thus, we chose to evaluate whether vaccination with <italic toggle="yes">L. lactis</italic>, which has been genetically engineered to release omp25, can induce a particular immune response in various groups, as shown in Table&#xA0;<xref rid="vms31173-tbl-0002" ref-type="table">2</xref>. After oral immunization, BALB/c mice were tested for omp25&#x2010;specific IgG1 or sIgA using an indirect ELISA. As seen in Figure&#xA0;<xref rid="vms31173-fig-0003" ref-type="fig">3A</xref>, 14 days after priming, there was a considerable amount of omp25&#x2010;specific IgG1 in the sera of mice vaccinated with pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001 in target groups compared to the PBS control group). Similar substantial values were seen at day 28, although the levels returned to baseline compared to the PBS negative control groups. Compared to the values from mice in the PBS control group, the findings revealed 14 days after vaccination with pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic>, levels of omp25&#x2010;specific IgG1 were significantly (Figure&#xA0;<xref rid="vms31173-fig-0003" ref-type="fig">3A</xref>; <italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.0001) higher in both pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccine (positive control) groups. Even while the levels of IgG1 decreased on day 28 compared to controls, they were still considerably greater. The levels of total IgG in sera from animals that had received the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccines were also higher than those from the negative control groups in samples obtained on days 14 and 28, respectively (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001) (Figure&#xA0;<xref rid="vms31173-fig-0003" ref-type="fig">3C</xref>). At day 28, the levels of total IgG in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups were remarkably comparable, although they were still considerably more significant when compared to the control groups (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001).</p>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0003">
+          <label>FIGURE 3</label>
+          <caption>
+            <p>(A) Thirty days following the last vaccination, BALB/c mice exhibit humoral immunological response. 1:200 serum dilutions of romp25&#x2010;specific IgG1 from various groups of mice; (B) omp25&#x2010;specific mucosal secretory IgA (sIgA) antibodies in nasal lavage; (C) omp25&#x2010;specific mucosal total IgG antibodies in mice. Sample obtained from mice after oral immunization with different groups of vaccines. *<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05, **<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.01, ***<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001.</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g008" position="anchor" id="jats-graphic-7"/>
+        </fig>
+        <p>We also assessed the induction of mucosal reactions in animals that had received vaccinations. Omp25&#x2010;specific sIgA titres were measured for this purpose using bronchoalveolar lavages and nasal swabs (Figure&#xA0;<xref rid="vms31173-fig-0003" ref-type="fig">3B</xref>). According to the findings, vaccinated mice produced more antigen&#x2010;specific mucosal IgA than PBS&#x2010;treated control mice or other groups (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05). Interestingly, compared to animals inoculated with control groups, mice were vaccinated with pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> displayed substantially higher sIgA titres in nasal lavages (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05). In contrast, IgA titres in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups were comparable and considerably higher than those in the PBS control group (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05).</p>
+      </sec>
+      <sec id="vms31173-sec-0240">
+        <label>3.5</label>
+        <title>Cytokine secretion</title>
+        <p>After re&#x2010;stimulation, cytokine production from spleen cells was examined in vitro. When challenged, splenocytes from immunized and non&#x2010;immunized mice were produced and grown with various antigens (Table&#xA0;<xref rid="vms31173-tbl-0002" ref-type="table">2</xref>). Unstimulated cells from animals administered PBS, pNZ8148, <italic toggle="yes">L. lactis</italic> and pNZ8148&#x2010;<italic toggle="yes">L. lactis</italic> showed no significant changes (<italic toggle="yes">p</italic>&#xA0;&gt;&#xA0;0.05). On the other hand, unimmunized (saline inoculation) mouse cells failed to substantially boost their IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; production with re&#x2010;stimulation (<italic toggle="yes">p</italic>&#xA0;&gt;&#xA0;0.05). After 14 days, cells from mice were vaccinated with pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic>, and IRBA secreted more IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; (Figure&#xA0;<xref rid="vms31173-fig-0004" ref-type="fig">4</xref>). IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; levels were more significant in samples from mice that had been given the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccinations, as well as the negative control groups in samples taken on days 14 and 28, respectively (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001) (Figure&#xA0;<xref rid="vms31173-fig-0004" ref-type="fig">4</xref>). Compared to the control groups, the concentrations of IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups at day 28 were impressively identical (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001). IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; concentrations were still significantly higher on day 28 despite a decline compared to controls. IL&#x2010;4 and IL&#x2010;10 inductions in mice that had received vaccines were also evaluated. The results showed that at 14 days after vaccination, none of the mouse groups that had received the vaccine generated IL&#x2010;4 or IL&#x2010;10. Furthermore, mice were given the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> vaccine, and the IRBA vaccination showed significantly higher IL&#x2010;4 and IL&#x2010;10 titres at 28 days after immunization (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05) than were mice infected with control groups. In fact, pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups&#x2019; IL&#x2010;4 and IL&#x2010;10 titres were equivalent to and significantly higher than those in the PBS control group after 28 days (<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05).</p>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0004">
+          <label>FIGURE 4</label>
+          <caption>
+            <p>The splenocyte supernatants of the control and vaccinated groups included cytokine levels. In mice inoculated with various vaccinations, the levels of inhibitory cytokines (IL&#x2010;4, IL&#x2010;10) and functional cytokines (IFN&#x2010;&#x3B3;, TNF&#x2010;&#x3B1;) were measured in the spleen. Phosphate&#x2010;buffered saline (PBS) served as a standard. *<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05, **<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.01.</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g005" position="anchor" id="jats-graphic-9"/>
+        </fig>
+        <p>Additionally, a quantitative real&#x2010;time PCR assay was used to determine how much cytokine transcription was occurring in the spleen and small intestine. The amounts of IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; transcriptions in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups were substantially different from those in other groups. The outcomes were the same in the spleen and small intestine. The pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups had significantly greater IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; transcription levels than other groups. The amount of IFN&#x2010;&#x3B3; and TNF&#x2010;&#x3B1; gene activation in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and the IRBA vaccination group was considerably different from other groups&#x2019; real&#x2010;time PCR results were likewise compatible with ELISA.</p>
+        <p>The pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA immunization groups had significantly greater IL&#x2010;4 and IL&#x2010;10 transcription levels than the other groups. The results in the small intestine and spleen were identical. IL&#x2010;4 and IL&#x2010;10 transcription concentrations were considerably higher in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups compared to other groups (Figure&#xA0;<xref rid="vms31173-fig-0005" ref-type="fig">5</xref>).</p>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0005">
+          <label>FIGURE 5</label>
+          <caption>
+            <p>(A) Cytokine levels were found in the small intestine of the control and immunized groups; (B) cytokine levels were found in the spleen of the control and immunized groups. *<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.05, **<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.01, ***<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.001, ****<italic toggle="yes">p</italic>&#xA0;&lt;&#xA0;0.0001.</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g001" position="anchor" id="jats-graphic-11"/>
+        </fig>
+      </sec>
+      <sec id="vms31173-sec-0250">
+        <label>3.6</label>
+        <title>Protective activity</title>
+        <p>Using virulent <italic toggle="yes">B. abortus</italic> strains to challenge the mice, the possible protective action brought on by various vaccination groups was assessed. Three separate replicates of the experiment were run using the <italic toggle="yes">B. abortus</italic> strains. When compared to groups immunized with Ethe pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccines, the spleen weights of mice given various control vaccinations at 15 days after infection significantly decreased (Table&#xA0;<xref rid="vms31173-tbl-0004" ref-type="table">4</xref>). Mice were given the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA immunization groups showed no statistically significant changes (<italic toggle="yes">p</italic>&#xA0;&gt;&#xA0;0.05). The non&#x2010;challenge groups, pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRBA vaccination groups did not vary significantly (<italic toggle="yes">p</italic>&#xA0;&gt;&#xA0;0.05) from each other. Six mice exposed to <italic toggle="yes">B. abortus</italic> were randomly selected, and their mortality, weight changes and health status were monitored daily for 15 days. According to Table&#xA0;<xref rid="vms31173-tbl-0004" ref-type="table">4</xref>, all control group mice died 7 days following the test. After being challenged with a fatal dose of <italic toggle="yes">B. abortus</italic> isolates, the 15&#x2010;day survival rates of mouse model vaccinated with the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> were 87.5%, respectively. These numbers were noticeably higher than those of mice immunized with IRBA (50%). Each group's body mass and clinical symptom ratings dropped to their lowest levels 7 days after the challenge. The mice's body weight returned to normal 15 days after the experiment, and the symptoms disappeared.</p>
+        <table-wrap position="float" id="vms31173-tbl-0004" content-type="TABLE">
+          <label>TABLE 4</label>
+          <caption>
+            <p>Survival percentage and clinical indicators of each group.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <col align="left" span="1"/>
+            <thead>
+              <tr>
+                <th rowspan="2" align="left" colspan="1">Group</th>
+                <th align="center" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Before challenge</th>
+                <th colspan="4" style="border-bottom:solid 1px #000000" align="left" rowspan="1">After challenge</th>
+              </tr>
+              <tr style="border-bottom:solid 1px #000000">
+                <th align="left" rowspan="1" colspan="1">Body weight (g)</th>
+                <th align="left" rowspan="1" colspan="1">Clinical score</th>
+                <th align="left" rowspan="1" colspan="1">Spleen weights (mg)</th>
+                <th align="left" rowspan="1" colspan="1">Body weight (g)</th>
+                <th align="left" rowspan="1" colspan="1">Clinical score</th>
+                <th align="left" rowspan="1" colspan="1">Spleen weights (mg)</th>
+                <th align="center" rowspan="1" colspan="1">Survival rate (%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">PBS</td>
+                <td align="left" rowspan="1" colspan="1">18.3</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">398</td>
+                <td align="left" rowspan="1" colspan="1">15.75</td>
+                <td align="left" rowspan="1" colspan="1">&#x2212;5</td>
+                <td align="left" rowspan="1" colspan="1">764</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">pNZ8148</td>
+                <td align="left" rowspan="1" colspan="1">18.7</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">379</td>
+                <td align="left" rowspan="1" colspan="1">15.67</td>
+                <td align="left" rowspan="1" colspan="1">&#x2212;4</td>
+                <td align="left" rowspan="1" colspan="1">749</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Lactococcus lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">18.6</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">394</td>
+                <td align="left" rowspan="1" colspan="1">15.87</td>
+                <td align="left" rowspan="1" colspan="1">&#x2212;3</td>
+                <td align="left" rowspan="1" colspan="1">754</td>
+                <td align="left" rowspan="1" colspan="1">12.5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">pNZ8148&#x2013;<italic toggle="yes">L. lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">18.3</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">389</td>
+                <td align="left" rowspan="1" colspan="1">16.93</td>
+                <td align="left" rowspan="1" colspan="1">&#x2212;1</td>
+                <td align="left" rowspan="1" colspan="1">768</td>
+                <td align="left" rowspan="1" colspan="1">12.5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">IRIBA Vac</td>
+                <td align="left" rowspan="1" colspan="1">18.5</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">374</td>
+                <td align="left" rowspan="1" colspan="1">15.83</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">413</td>
+                <td align="left" rowspan="1" colspan="1">50</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic>
+</td>
+                <td align="left" rowspan="1" colspan="1">18.7</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">369</td>
+                <td align="left" rowspan="1" colspan="1">16.94</td>
+                <td align="left" rowspan="1" colspan="1">0</td>
+                <td align="left" rowspan="1" colspan="1">388</td>
+                <td align="left" rowspan="1" colspan="1">87.5</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="vms31173-tbl4-note-0001">
+              <p>
+<italic toggle="yes">Note</italic>: 0 (normal, active, healthy), &#x2212;1 (slightly sick, slightly ruffled fur, otherwise normal), &#x2212;2 (ill, ruffled fur, sluggish movement, hunching), &#x2212;3 (extremely sick, ruffled hair, very slow movement, stooped, eyes shut), &#x2212;4 (moribund) and &#x2212;5 (dead).</p>
+            </fn>
+          </table-wrap-foot>
+          <permissions>
+            <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+          </permissions>
+        </table-wrap>
+      </sec>
+      <sec id="vms31173-sec-0260">
+        <label>3.7</label>
+        <title>Bacterial loads and pathological changes</title>
+        <p>Using a challenging experiment in BALB/c mice to gauge protection, we examined the effectiveness of the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> immunization. All groups received three clinical <italic toggle="yes">B. abortus</italic> strain 2308 isolates. Six mice from each group were randomly selected to count the number of bacteria in the spleen tissue (Figure&#xA0;<xref rid="vms31173-fig-0006" ref-type="fig">6A</xref>). Six mice from each group were taken 48&#xA0;h after the challenge, serially diluted, and then plated on <italic toggle="yes">Brucella</italic> agar with 5% blood plates. The plates were next overnight incubated at 37&#xB0;C. The log10&#xA0;CFU/mL value was calculated and compared following the CFU count. The spleen bacterial burdens were lower in the mice who got the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> vaccine than they were in the animals in the other groups (Figure&#xA0;<xref rid="vms31173-fig-0006" ref-type="fig">6B</xref>). The challenge was followed by aseptic removal of the left spleen tissue, preservation in a 4% formalin solution, haematoxylin&#x2013;eosin staining and microscopic examination. Figure&#xA0;<xref rid="vms31173-fig-0007" ref-type="fig">7</xref> displays that compared to other groups, the spleen portions from the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> and IRIBA vac groups had less extensive spleen injuries, alveolar oedema, lymphocyte infiltration and morphological damage due to the inflammatory process. The pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> vaccine groups were more typical than the other groups, with cleaner alveoli. The amount of spleen failure in the pNZ8148&#x2013;Usp45&#x2013;omp25&#x2013;<italic toggle="yes">L. lactis</italic> groups after mice were infected with the vaccine were considerably less severe than in the other groups, suggesting that the mice had less of an inflammatory response to spleen failure.</p>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0006">
+          <label>FIGURE 6</label>
+          <caption>
+            <p>Bacterial burdens in the spleen tissues of BALB/c mice: (A) bacterial loads in the spleen of mice at 48&#xA0;h post&#x2010;challenge; (B) plate agar of bacterial burdens in spleen.</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g007" position="anchor" id="jats-graphic-13"/>
+        </fig>
+        <fig position="float" fig-type="FIGURE" id="vms31173-fig-0007">
+          <label>FIGURE 7</label>
+          <caption>
+            <p>Haematoxylin&#x2013;eosin staining of spleen tissue sections: (a&#x2013;d), respectively, magnification &#xD7;4, &#xD7;10, &#xD7;40, &#xD7;100 &#x2013; increased space of sinusoids (blue arrow), spleen tissue necrosis (green arrow), bleeding in the tissue (yellow arrow) and abscess in the tissue, brucellosis (red arrow).</p>
+          </caption>
+          <graphic xlink:href="VMS3-9-1908-g006" position="anchor" id="jats-graphic-15"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec id="vms31173-sec-0270">
+      <label>4</label>
+      <title>DISCUSSION</title>
+      <p>The high incidence of brucellosis as an economically significant human illness has prompted research into various tactics, such as creating subunit vaccines and using bacterial/viral vectors, to create more efficient vaccines (Dadar et&#xA0;al., <xref rid="vms31173-bib-0008" ref-type="bibr">2021</xref>). To overcome the drawbacks of the currently utilized live vaccines, including attenuated pathogens, safer, more affordable and simpler to deliver vaccinations are still required. <italic toggle="yes">E. coli</italic> is the most often utilized microbial host for the generation of protein. The majority of investigations utilized the <italic toggle="yes">E. coli</italic> BL21 host expression system to produce <italic toggle="yes">Brucella</italic> antigens such as omp10 and omp19, omp25, HSP and TF Proteins (Rezaei et&#xA0;al., <xref rid="vms31173-bib-0033" ref-type="bibr">2020</xref>). However, an <italic toggle="yes">E. coli</italic> expression system does have certain limitations. In general, intracellular expression is one of the most widely utilized manufacturing techniques, although it is still expensive for industrial production. Pharmaceutical interests demand downstream purification procedures to remove endotoxin or harmful pyrogens from cell walls during manufacture (Singh et&#xA0;al., <xref rid="vms31173-bib-0036" ref-type="bibr">2017</xref>). It has been demonstrated that <italic toggle="yes">L. lactis</italic>, a gram&#x2010;positive lactic acid microorganism with a GRAS (Generally Regarded As Safe) status, has been utilized in food production for thousands of years (D&#xED;az&#x2010;Dinamarca et&#xA0;al., <xref rid="vms31173-bib-0007" ref-type="bibr">2022</xref>). However, it is now used as a cell factory for producing heterologous proteins for therapeutic and commercial purposes and an intriguing alternative method for large&#x2010;scale protein production (Jawan et&#xA0;al., <xref rid="vms31173-bib-0019" ref-type="bibr">2021</xref>).</p>
+      <p>Many advantageous health qualities of <italic toggle="yes">L. lactis</italic> may be present. According to Le Loir et&#xA0;al. (<xref rid="vms31173-bib-0023" ref-type="bibr">2005</xref>), this food&#x2010;grade bacterium does not manufacture LPS, dose <italic toggle="yes">E. coli</italic>, form inclusion bodies, sporulate or move around much (Le Loir et&#xA0;al., 2005). It only has one membrane, which enables the investigation of the protein's function in entire cells. A disadvantage of using live LAB mucosal vaccines is the possibility of introducing genetically altered organisms with antibiotic resistance genes into the environment and host microflora. As a result, auxotrophic mutants and food&#x2010;grade selection markers (such as bacteriocin resistance and generation), depending on the existence of these selectable markers on the plasmid of interest, could allay worries about the risk of unchecked release of nucleic acids into the environment by reducing the use of antibiotic resistance markers and harmful substances and potentially improve the applicability on an industrial level or in food products (He et&#xA0;al., <xref rid="vms31173-bib-0018" ref-type="bibr">2012</xref>).</p>
+      <p>Additionally, <italic toggle="yes">L. lactis</italic> is a live delivery vehicle technology with several advantages over constitutive approaches, such as not being a commensal bacteria and not colonizing. Due to its immunomodulatory properties, ability to survive passage through the gastrointestinal tract, ease of uptake by M cells inducing potential immune reaction and single extracellular housekeeping protease, HrtA results in a very low rate of protein degradation, in vivo administration via oral administration and safer vaccination (Guillot et&#xA0;al., <xref rid="vms31173-bib-0013" ref-type="bibr">2016</xref>). Only a few prior studies have examined the development and targeting of specific intracellular <italic toggle="yes">Brucella</italic> proteins in <italic toggle="yes">L. lactis</italic>, including L7/L12, GroEL heat&#x2010;shock antigen and Cu, Zn superoxide dismutase (S&#xE1;ez et&#xA0;al., <xref rid="vms31173-bib-0035" ref-type="bibr">2012</xref>). Some brucellosis vaccines focus on discovering immunodominant proteins dependent on OMPs that can trigger a strong immune reaction. Due to its superior antigenicity, availability and surface&#x2010;exposed loops predicted by thorough bioinformatics research to develop an effective vaccine in future research against brucellosis, the omp25 protein, one of the minor 25&#x2010;kDa OMPs in <italic toggle="yes">Brucella</italic> spp., was chosen as an immunogenic candidate in the current study (Piri&#x2010;Gharaghie, Beiranvand, et&#xA0;al., <xref rid="vms31173-bib-0025" ref-type="bibr">2022</xref>; Piri&#x2010;Gharaghie, Doosti, et&#xA0;al., <xref rid="vms31173-bib-0027" ref-type="bibr">2022</xref>).</p>
+      <p>The omp25 protein we chose for our investigation stands out because, as a part of the exoproteome of the <italic toggle="yes">Brucella</italic> cell, it is surface&#x2010;exposed, accessible to monoclonal antibodies and may offer more significant benefits than other intracellular and periplasmic proteins that have been previously studied. Omp25's acceptable molecular weight (about 25&#xA0;kDa) is also promising for excellent expression and an easy subsequent purification process. We hypothesized that the co&#x2010;administration of immunomodulatory cytokines and antigens would boost the immunogenicity of the fusion protein (romp25&#x2013;Usp45) and the efficacy of our constructed vaccine when Usp45 was expressed as an omp25 secretion factor of <italic toggle="yes">B. abortus</italic> in the future in vivo study on the topic of vaccination against brucellosis. This is the first research on the cloning, expression and purification of the romp25/Usp45 fusion protein. Prior research was conducted on the co&#x2010;expression of secretion factor and antigen. Previous studies have shown that mice inoculated with bacterial species that simultaneously generated tetanus toxin fragment C (TTFC), IL&#x2010;2 or IL&#x2010;6 had more significant antibody titres for test TTFC (Gupta et&#xA0;al., <xref rid="vms31173-bib-0014" ref-type="bibr">2020</xref>).</p>
+      <p>To test the notion, however, a different experiment that compares the immunity of omp16, whether fused or not, to IL&#x2010;2 and performs in vivo study is needed. This study is the first to use a unique promoter to produce the recombinant omp25 polypeptide in <italic toggle="yes">L. lactis</italic>. Low pH&#x2010;induced expression when cells were grown on glucose shift from the post&#x2010;exponential to stationary phases (Zeng et&#xA0;al., <xref rid="vms31173-bib-0039" ref-type="bibr">2022</xref>; Azadbakht et&#xA0;al., <xref rid="vms31173-bib-0001" ref-type="bibr">2022</xref>). Without the use of costly or hazardous exogenous compounds and the ability to recover the protein quickly in subsequent steps, this induction is beneficial as an alternative and cost&#x2010;effective tool for the production of heterologous proteins of therapeutic or technological interest. Some of the issues stem from synthesizing proteins using a pH&#x2010;inducible promoter controlled by the extracellular level of ions like Cl or Zn (Peter et&#xA0;al., <xref rid="vms31173-bib-0030" ref-type="bibr">2022</xref>). Consequently, expression optimization should be carried out to enable high&#x2010;yield manufacturing. It is essential to highlight that while though <italic toggle="yes">B. abortus</italic> recombinant food grad vaccines have highly positive outcomes in mouse models; the protective immunity shown in these models could not accurately represent the level of protection attained in wild hosts like cattle following immunization (Corner et&#xA0;al., <xref rid="vms31173-bib-0005" ref-type="bibr">2010</xref>; Kargar et&#xA0;al., <xref rid="vms31173-bib-0009" ref-type="bibr">2014</xref>). Before administering to cattle, more research evaluating protective effects in animal studies such as rats, guinea pigs and monkeys is thus urged. Recombinant vaccines are economically inappropriate for immunizing cattle because they require numerous booster injections, adjuvants and a mix of various antigens (Dorneles, Sriranganathan, et&#xA0;al., <xref rid="vms31173-bib-0010" ref-type="bibr">2015</xref>; Dorneles, Teixeira&#x2010;Carvalho, et&#xA0;al., <xref rid="vms31173-bib-0011" ref-type="bibr">2015</xref>). Therefore, to make these vaccines inexpensive for widespread use, it is necessary to lower the cost of manufacturing, look for efficient and affordable adjuvants and reduce the cost of recombinant protein purification.</p>
+    </sec>
+    <sec id="vms31173-sec-0280">
+      <label>5</label>
+      <title>CONCLUSIONS</title>
+      <p>As a result, our study offers a novel method for using the food&#x2010;grade, non&#x2010;pathogenic and noncommercial bacterium <italic toggle="yes">L. lactis</italic> as a protein cell factory to produce the novel immunogenic fusion candidate romp25. This method offers an appealing new approach to assessing the cost&#x2010;effective, safe, sustainable, simple pilot development of pharmaceutical products. It suggests a workable method for delivering additional heterologous protein antigens. We have already started doing additional studies in our labs, such as testing the immunogenicity and protective effectiveness of this recombinant <italic toggle="yes">L. lactis</italic>&#x2013;romp25 strain as a potential oral vaccine candidate vs. virulent <italic toggle="yes">Brucella</italic> infection challenge in mice.</p>
+    </sec>
+    <sec id="vms31173-sec-0290">
+      <title>AUTHOR CONTRIBUTIONS</title>
+      <p>Somaye Tirbakhsh Gouran conducted research and drafted the manuscript; Abbas Doosti conceived and designed research and made manuscript revision; Mohammad Saeid Jami designed research and analysed data; Somaye Tirbakhsh Gouran provided funding support. All authors read and approved the final manuscript.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="vms31173-sec-0310">
+      <title>CONFLICT OF INTEREST STATEMENT</title>
+      <p>The authors declare that they have no conflict of interest.</p>
+    </sec>
+    <sec id="vms31173-sec-0320">
+      <title>ETHICS STATEMENT</title>
+      <p>All animal protocols were carried out following the regulations established by the Institutional Animal Care and Use Committee of Islamic Azad University, Shahrekord, Iran (IR.IAU.SHK.REC.1401.001).</p>
+    </sec>
+    <sec id="vms31173-sec-0330">
+      <sec disp-level="2" id="vms31173-sec-0350">
+        <title>PEER REVIEW</title>
+        <p>The peer review history for this article is available at <ext-link xlink:href="https://publons.com/publon/10.1002/vms3.1173" ext-link-type="uri">https://publons.com/publon/10.1002/vms3.1173</ext-link>.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack id="vms31173-sec-0300">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>The authors would like to thank the staff members of Islamic Azad University, Shahrekord branch, for their help and support.</p>
+    </ack>
+    <sec sec-type="data-availability" id="vms31173-sec-0340">
+      <title>DATA AVAILABILITY STATEMENT</title>
+      <p>The data generated or analysed during this study are included in this article and its additional materials.</p>
+    </sec>
+    <ref-list id="vms31173-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="vms31173-bib-0001">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0001">
+<string-name>
+<surname>Azadbakht</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Doosti</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jami</surname>, <given-names>M. S.</given-names>
+</string-name> (<year>2022</year>). <article-title>CRISPR/Cas9&#x2010;mediated LINC00511 knockout strategies, increased apoptosis of breast cancer cells via suppressing antiapoptotic genes</article-title>. <source>Biological Procedures Online</source>, <volume>24</volume>(<issue>1</issue>), <fpage>8</fpage>.<pub-id pub-id-type="pmid">35790898</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0002">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0002">
+<string-name>
+<surname>Beiranvand</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Piri&#x2010;Gharaghie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dehganzad</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Khedmati</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Jalali</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>AsadAlizadeh</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Momtaz</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Novel NAD&#x2010;independent <italic toggle="yes">Avibacterium paragallinarum</italic>: Isolation, characterization and molecular identification in Iran</article-title>. <source>Veterinary Medicine and Science</source>, <volume>8</volume>(<issue>3</issue>), <fpage>1157</fpage>&#x2013;<lpage>1165</lpage>.<pub-id pub-id-type="pmid">35182464</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0003">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0003">
+<string-name>
+<surname>Berm&#xFA;dez&#x2010;Humar&#xE1;n</surname>, <given-names>L. G.</given-names>
+</string-name>, <string-name>
+<surname>Kharrat</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Chatel</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Langella</surname>, <given-names>P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Lactococci and lactobacilli as mucosal delivery vectors for therapeutic proteins and DNA vaccines</article-title>. <source>Microbial Cell Factories</source>, <volume>10</volume>(<issue>1</issue>), <fpage>S4</fpage>.<pub-id pub-id-type="pmid">21995317</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0004">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0004">
+<string-name>
+<surname>Berm&#xFA;dez&#x2010;Humar&#xE1;n</surname>, <given-names>L. G.</given-names>
+</string-name>, <string-name>
+<surname>Langella</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cortes&#x2010;Perez</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Gruss</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tamez&#x2010;Guerra</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Cardenas</surname>, <given-names>O. S.</given-names>
+</string-name>, <string-name>
+<surname>Montes de Oca&#x2010;Luna</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Le Loir</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2003</year>). <article-title>Intranasal immunization with recombinant <italic toggle="yes">Lactococcus lactis</italic> secreting murine interleukin&#x2010;12 enhances antigen&#x2010;specific Th1 cytokine production</article-title>. <source>Infection and Immunity</source>, <volume>71</volume>(<issue>4</issue>), <fpage>1887</fpage>&#x2013;<lpage>1896</lpage>.<pub-id pub-id-type="pmid">12654805</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0005">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0005">
+<string-name>
+<surname>Corner</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Costello</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>O'Meara</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Lesellier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Aldwell</surname>, <given-names>F. E.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hewinson</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Chambers</surname>, <given-names>M. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gormley</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>). <article-title>Oral vaccination of badgers (<italic toggle="yes">Meles meles</italic>) with BCG and protective immunity against endobronchial challenge with <italic toggle="yes">Mycobacterium bovis</italic>
+</article-title>. <source>Vaccine</source>, <volume>28</volume>(<issue>38</issue>), <fpage>6265</fpage>&#x2013;<lpage>6272</lpage>.<pub-id pub-id-type="pmid">20637774</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0006">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0006">
+<string-name>
+<surname>Daniel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Poiret</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Dennin</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Boutillier</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Pot</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Bioluminescence imaging study of spatial and temporal persistence of <italic toggle="yes">Lactobacillus plantarum</italic> and <italic toggle="yes">Lactococcus lactis</italic> in living mice</article-title>. <source>Applied and Environmental Microbiology</source>, <volume>79</volume>(<issue>4</issue>), <fpage>1086</fpage>&#x2013;<lpage>1094</lpage>.<pub-id pub-id-type="pmid">23204409</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0007">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0007">
+<string-name>
+<surname>D&#xED;az&#x2010;Dinamarca</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Salazar</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Castillo</surname>, <given-names>B. N.</given-names>
+</string-name>, <string-name>
+<surname>Manubens</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Vasquez</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Salazar</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Becker</surname>, <given-names>M. I.</given-names>
+</string-name> (<year>2022</year>). <article-title>Protein&#x2010;based adjuvants for vaccines as immunomodulators of the innate and adaptive immune response: Current knowledge, challenges, and future opportunities</article-title>. <source>Pharmaceutics</source>, <volume>14</volume>(<issue>8</issue>), <fpage>1671</fpage>.<pub-id pub-id-type="pmid">36015297</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0008">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0008">
+<string-name>
+<surname>Dadar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tiwari</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sharun</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Dhama</surname>, <given-names>K.</given-names>
+</string-name> (<year>2021</year>). <article-title>Importance of brucellosis control programs of livestock on the improvement of one health</article-title>. <source>Veterinary Quarterly</source>, <volume>41</volume>(<issue>1</issue>), <fpage>137</fpage>&#x2013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">33618618</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0009">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0009">
+<string-name>
+<surname>Kargar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mohammadalipour</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Doosti</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lorzadeh</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Japoni&#x2010;Nejad</surname>, <given-names>A.</given-names>
+</string-name> (<year>2014</year>). <article-title>High prevalence of class 1 to 3 integrons among multidrug&#x2010;resistant diarrheagenic <italic toggle="yes">Escherichia coli</italic> in southwest of Iran</article-title>. <source>Osong Public Health and Research Perspectives</source>, <volume>5</volume>(<issue>4</issue>), <fpage>193</fpage>&#x2013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">25379369</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0010">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0010">
+<string-name>
+<surname>Dorneles</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Sriranganathan</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lage</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Recent advances in <italic toggle="yes">Brucella abortus</italic> vaccines</article-title>. <source>Veterinary Research</source>, <volume>46</volume>(<issue>1</issue>), <fpage>76</fpage>.<pub-id pub-id-type="pmid">26155935</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0011">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0011">
+<string-name>
+<surname>Dorneles</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Teixeira&#x2010;Carvalho</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ara&#xFA;jo</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Sriranganathan</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Lage</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Immune response triggered by <italic toggle="yes">Brucella abortus</italic> following infection or vaccination</article-title>. <source>Vaccine</source>, <volume>33</volume>(<issue>31</issue>), <fpage>3659</fpage>&#x2013;<lpage>3666</lpage>.<pub-id pub-id-type="pmid">26048781</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0012">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0012">
+<string-name>
+<surname>Franc</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Krecek</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>H&#xE4;sler</surname>, <given-names>B. N.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Arenas&#x2010;Gamboa</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Brucellosis remains a neglected disease in the developing world: A call for interdisciplinary action</article-title>. <source>BMC Public Health</source>, <volume>18</volume>(<issue>1</issue>), <fpage>125</fpage>.<pub-id pub-id-type="pmid">29325516</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0013">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0013">
+<string-name>
+<surname>Guillot</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Boulay</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chambellon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gitton</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Monnet</surname>, <given-names>V.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Juillard</surname>, <given-names>V.</given-names>
+</string-name> (<year>2016</year>). <article-title>Mass spectrometry analysis of the extracellular peptidome of <italic toggle="yes">Lactococcus lactis</italic>: Lines of evidence for the coexistence of extracellular protein hydrolysis and intracellular peptide excretion</article-title>. <source>Journal of Proteome Research</source>, <volume>15</volume>(<issue>9</issue>), <fpage>3214</fpage>&#x2013;<lpage>3224</lpage>.<pub-id pub-id-type="pmid">27439475</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0014">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0014">
+<string-name>
+<surname>Gupta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Somani</surname>, <given-names>V. K.</given-names>
+</string-name>, <string-name>
+<surname>Aggarwal</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Bhatnagar</surname>, <given-names>R.</given-names>
+</string-name> (<year>2020</year>). <article-title>Simultaneous immunization with omp25 and L7/L12 provides protection against brucellosis in mice</article-title>. <source>Pathogens</source>, <volume>9</volume>(<issue>2</issue>), <fpage>152</fpage>.<pub-id pub-id-type="pmid">32102449</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0015">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0015">
+<string-name>
+<surname>Ghajari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Nabiuni</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Amini</surname>, <given-names>E.</given-names>
+</string-name> (<year>2021</year>). <article-title>The association between testicular toxicity induced by Li2Co3 and protective effect of <italic toggle="yes">Ganoderma lucidum</italic>: Alteration of Bax &amp; c&#x2010;Kit genes expression</article-title>. <source>Tissue and Cell</source>, <volume>72</volume>, <elocation-id>101552</elocation-id>.<pub-id pub-id-type="pmid">33992978</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0016">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0016">
+<string-name>
+<surname>Hosseini</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Taheri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nouri</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Farmani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Moez</surname>, <given-names>N. M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Arabestani</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Nano drug delivery in intracellular bacterial infection treatments</article-title>. <source>Biomedicine &amp; Pharmacotherapy</source>, <volume>146</volume>, <elocation-id>112609</elocation-id>.<pub-id pub-id-type="pmid">35062073</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0017">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0017">
+<string-name>
+<surname>Heidary</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Dashtbin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ghanavati</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ari</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Bostanghadiri</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Darbandi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Navidifar</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Talebi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Evaluation of brucellosis vaccines: A comprehensive review</article-title>. <source>Frontiers in Veterinary Science</source>, <volume>9</volume>, <elocation-id>925773</elocation-id>.<pub-id pub-id-type="pmid">35923818</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0018">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0018">
+<string-name>
+<surname>He</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Food&#x2010;grade selection markers in lactic acid bacteria</article-title>. <source>TAF Preventive Medicine Bulletin</source>, <volume>11</volume>(<issue>1</issue>), <fpage>499</fpage>.</mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0019">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0019">
+<string-name>
+<surname>Jawan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Abbasiliasi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mustafa</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kapri</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Halim</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Ariff</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2021</year>). <article-title>In vitro evaluation of potential probiotic strain <italic toggle="yes">Lactococcus lactis</italic> Gh1 and its bacteriocin&#x2010;like inhibitory substances for potential use in the food industry</article-title>. <source>Probiotics and Antimicrobial Proteins</source>, <volume>13</volume>(<issue>2</issue>), <fpage>422</fpage>&#x2013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">32728855</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0020">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0020">
+<string-name>
+<surname>Jamil</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>A. U.</given-names>
+</string-name>, <string-name>
+<surname>Saqib</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hussain</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Melzer</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rehman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shabbir</surname>, <given-names>M. Z.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Ali</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Shahzad</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Iqbal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ullah</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Ahmad</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Mansoor</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<surname>Neubauer</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Schwarz</surname>, <given-names>S.</given-names>
+</string-name> (<year>2021</year>). <article-title>Animal and human brucellosis in Pakistan</article-title>. <source>Frontiers in Public Health</source>, <volume>9</volume>, <elocation-id>660508</elocation-id>.<pub-id pub-id-type="pmid">34395357</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0021">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0021">
+<string-name>
+<surname>Levit</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cortes&#x2010;Perez</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>de Moreno de Leblanc</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Loiseau</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Aucouturier</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Langella</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>, <given-names>J. G.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Berm&#xFA;dez&#x2010;Humar&#xE1;n</surname>, <given-names>L. G.</given-names>
+</string-name> (<year>2022</year>). <article-title>Use of genetically modified lactic acid bacteria and bifidobacteria as live delivery vectors for human and animal health</article-title>. <source>Gut Microbes</source>, <volume>14</volume>(<issue>1</issue>), <elocation-id>2110821</elocation-id>.<pub-id pub-id-type="pmid">35960855</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0022">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0022">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Xi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Immunization with a combination of recombinant <italic toggle="yes">Brucella abortus</italic> proteins induces T helper immune response and confers protection against wild&#x2010;type challenge in BALB/c mice</article-title>. <source>Microbial Biotechnology</source>, <volume>15</volume>(<issue>6</issue>), <fpage>1811</fpage>&#x2013;<lpage>1823</lpage>.<pub-id pub-id-type="pmid">35166028</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0023">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0023">
+<string-name>
+<surname>Le Loir</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Azevedo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Freitas</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Miyoshi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Berm&#xFA;dez&#x2010;Humar&#xE1;n</surname>, <given-names>L. G.</given-names>
+</string-name>, <string-name>
+<surname>Nouaille</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Leclercq</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gabriel</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Guimaraes</surname>, <given-names>V. D.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Charlier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Gautier</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Langella</surname>, <given-names>P.</given-names>
+</string-name> (<year>2005</year>). <article-title>Protein secretion in <italic toggle="yes">Lactococcus lactis</italic>: An efficient way to increase the overall heterologous protein production</article-title>. <source>Microbial Cell Factories</source>, <volume>4</volume>(<issue>1</issue>), <fpage>2</fpage>.<pub-id pub-id-type="pmid">15631634</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0024">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0024">
+<string-name>
+<surname>Pizarro&#x2010;Cerd&#xE1;</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Gorvel</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Invasion and intracellular trafficking of <italic toggle="yes">Brucella abortus</italic> in nonphagocytic cells</article-title>. <source>Microbes and Infection</source>, <volume>2</volume>(<issue>7</issue>), <fpage>829</fpage>&#x2013;<lpage>835</lpage>.<pub-id pub-id-type="pmid">10955964</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0025">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0025">
+<string-name>
+<surname>Piri&#x2010;Gharaghie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Beiranvand</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Riahi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shirin</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Badmasti</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Mirzaie</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Elahianfar</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ghahari</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ghahari</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pasban</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Hajrasouliha</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>). <article-title>Fabrication and characterization of thymol&#x2010;loaded chitosan nanogels: Improved antibacterial and anti&#x2010;biofilm activities with negligible cytotoxicity</article-title>. <source>Chemistry &amp; Biodiversity</source>, <volume>19</volume>(<issue>3</issue>), <elocation-id>e202100426</elocation-id>.<pub-id pub-id-type="pmid">34989129</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0026">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0026">
+<string-name>
+<surname>Plavec</surname>, <given-names>T. V.</given-names>
+</string-name>, <string-name>
+<surname>Klju&#x10D;ev&#x161;ek</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Berlec</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Introduction of modified BglBrick system in <italic toggle="yes">Lactococcus lactis</italic> for straightforward assembly of multiple gene cassettes</article-title>. <source>Frontiers in Bioengineering and Biotechnology</source>, <volume>9</volume>, <elocation-id>797521</elocation-id>.<pub-id pub-id-type="pmid">34957084</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0027">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0027">
+<string-name>
+<surname>Piri&#x2010;Gharaghie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Doosti</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mirzaei</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Identification of antigenic properties of <italic toggle="yes">Acinetobacter baumannii</italic> proteins as novel putative vaccine candidates using reverse vaccinology approach</article-title>. <source>Applied Biochemistry and Biotechnology</source>, <volume>194</volume>(<issue>10</issue>), <fpage>4892</fpage>&#x2013;<lpage>4914</lpage>.<pub-id pub-id-type="pmid">35670904</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0028">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0028">
+<string-name>
+<surname>Piri&#x2010;Gharaghie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Doosti</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mirzaei</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Novel adjuvant nano&#x2010;vaccine induced immune response against <italic toggle="yes">Acinetobacter baumannii</italic>
+</article-title>. <source>AMB Express</source>, <volume>13</volume>(<issue>1</issue>), <fpage>31</fpage>.<pub-id pub-id-type="pmid">36905472</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0029">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0029">
+<string-name>
+<surname>Piri&#x2010;Gharaghie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ghajari</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Hassanpoor</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jegargoshe&#x2010;Shirin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Soosanirad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khayati</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Farhadi&#x2010;Biregani</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mirzaei</surname>, <given-names>A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Investigation of antibacterial and anticancer effects of novel niosomal formulated Persian Gulf Sea cucumber extracts</article-title>. <source>Heliyon</source>, <volume>9</volume>(<issue>3</issue>), <elocation-id>e14149</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.heliyon.2023.e14149</pub-id>
+<pub-id pub-id-type="pmid">36938478</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0030">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0030">
+<string-name>
+<surname>Peter</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Godspower</surname>, <given-names>H. N.</given-names>
+</string-name>, <string-name>
+<surname>Ajeje</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Rao</surname>, <given-names>Z.</given-names>
+</string-name> (<year>2022</year>). <article-title>Biotechnological innovations and therapeutic application of <italic toggle="yes">Pediococcus</italic> and lactic acid bacteria: The next&#x2010;generation microorganism</article-title>. <source>Frontiers in Bioengineering and Biotechnology</source>, <volume>9</volume>, <elocation-id>802031</elocation-id>.<pub-id pub-id-type="pmid">35237589</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0031">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0031">
+<string-name>
+<surname>Reschner</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hubert</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Delvenne</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Boniver</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Jacobs</surname>, <given-names>N.</given-names>
+</string-name> (<year>2008</year>). <article-title>Innate lymphocyte and dendritic cell cross&#x2010;talk: A key factor in the regulation of the immune response</article-title>. <source>Clinical &amp; Experimental Immunology</source>, <volume>152</volume>(<issue>2</issue>), <fpage>219</fpage>&#x2013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">18336590</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0032">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0032">
+<string-name>
+<surname>Ribeiro</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Azevedo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Le Loir</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Oliveira</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Dieye</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Piard</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Gruss</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Langella</surname>, <given-names>P.</given-names>
+</string-name> (<year>2002</year>). <article-title>Production and targeting of the <italic toggle="yes">Brucella abortus</italic> antigen L7/L12 in <italic toggle="yes">Lactococcus lactis</italic>: A first step towards food&#x2010;grade live vaccines against brucellosis</article-title>. <source>Applied and Environmental Microbiology</source>, <volume>68</volume>(<issue>2</issue>), <fpage>910</fpage>&#x2013;<lpage>916</lpage>.<pub-id pub-id-type="pmid">11823235</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0033">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0033">
+<string-name>
+<surname>Rezaei</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rabbani Khorasgani</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zarkesh Esfahani</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Emamzadeh</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Abtahi</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Production of <italic toggle="yes">Brucella melitensis</italic> omp16 protein fused to the human interleukin 2 in <italic toggle="yes">Lactococcus lactis</italic> MG1363 toward developing a <italic toggle="yes">Lactococcus</italic>&#x2010;based vaccine against brucellosis</article-title>. <source>Canadian Journal of Microbiology</source>, <volume>66</volume>(<issue>1</issue>), <fpage>39</fpage>&#x2013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">31574230</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0034">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0034">
+<string-name>
+<surname>Saxena</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>B. B.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Saxena</surname>, <given-names>H. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Brucellosis in sheep and goats and its serodiagnosis and epidemiology</article-title>. <source>International Journal of Current Microbiology and Applied Sciences</source>, <volume>7</volume>(<issue>1</issue>), <fpage>1848</fpage>&#x2013;<lpage>1877</lpage>.</mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0035">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0035">
+<string-name>
+<surname>S&#xE1;ez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fern&#xE1;ndez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rivera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name>
+<surname>O&#xF1;ate</surname>, <given-names>A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Oral immunization of mice with recombinant <italic toggle="yes">Lactococcus lactis</italic> expressing Cu, Zn superoxide dismutase of <italic toggle="yes">Brucella abortus</italic> triggers protective immunity</article-title>. <source>Vaccine</source>, <volume>30</volume>(<issue>7</issue>), <fpage>1283</fpage>&#x2013;<lpage>1290</lpage>.<pub-id pub-id-type="pmid">22222868</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0036">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0036">
+<string-name>
+<surname>Singh</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mishra</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Singh</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Microbial and non&#x2010;microbial pyrogens in healthcare products: Risks, quality control and regulatory aspects</article-title>. <source>Applied Clinical Research, Clinical Trials and Regulatory Affairs</source>, <volume>4</volume>(<issue>1</issue>), <fpage>4</fpage>&#x2013;<lpage>15</lpage>.</mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0037">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0037">
+<string-name>
+<surname>Taghinezhad</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mohseni</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Berm&#xFA;dez&#x2010;Humar&#xE1;n</surname>, <given-names>L. G.</given-names>
+</string-name>, <string-name>
+<surname>Casolaro</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Cortes&#x2010;Perez</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Keyvani</surname>, <given-names>H.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Simal&#x2010;Gandara</surname>, <given-names>J.</given-names>
+</string-name> (<year>2021</year>). <article-title>Probiotic&#x2010;based vaccines may provide effective protection against COVID&#x2010;19 acute respiratory disease</article-title>. <source>Vaccines</source>, <volume>9</volume>(<issue>5</issue>), <fpage>466</fpage>.<pub-id pub-id-type="pmid">34066443</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0038">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0038">
+<string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>
+<italic toggle="yes">Brucella melitensis</italic> outer membrane protein 25 interacts with ferritin heavy polypeptide 1 in human trophoblast cells</article-title>. <source>Molecular Medicine Reports</source>, <volume>26</volume>(<issue>1</issue>), <fpage>224</fpage>.<pub-id pub-id-type="pmid">35593274</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0039">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0039">
+<string-name>
+<surname>Zeng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Burne</surname>, <given-names>R. A.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Taylor</surname>, <given-names>Z. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Glucose phosphotransferase system modulates pyruvate metabolism, bacterial fitness, and microbial ecology in oral streptococci</article-title>. <source>Journal of Bacteriology</source>, <volume>205</volume>(<issue>1</issue>), <elocation-id>e0035222</elocation-id>.<pub-id pub-id-type="pmid">36468868</pub-id></mixed-citation>
+      </ref>
+      <ref id="vms31173-bib-0040">
+        <mixed-citation publication-type="journal" id="vms31173-cit-0040">
+<string-name>
+<surname>Zeinali</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Faraji</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Joukar</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Mirzaei</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name>
+<surname>Jalali</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>Shenagari</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name>
+<surname>Mansour&#x2010;Ghanaei</surname>, <given-names>F.</given-names>
+</string-name> (<year>2022</year>). <article-title>Gut bacteria, bacteriophages, and probiotics: Tripartite mutualism to quench the SARS&#x2010;CoV2 storm</article-title>. <source>Microbial Pathogenesis</source>, <volume>170</volume>, <elocation-id>105704</elocation-id>.<pub-id pub-id-type="pmid">35948266</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
